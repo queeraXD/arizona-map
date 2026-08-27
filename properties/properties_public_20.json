@@ -4096,7 +4096,7 @@
     "server_id": 20,
     "type": "house",
     "name": "...",
-    "owner": "Domovenok_Kuzya",
+    "owner": "Anti_Chit",
     "status": "Занято",
     "x": 723.6119,
     "y": 269.678,
@@ -6152,18 +6152,6 @@
     "status": "Занято",
     "x": 1685.41,
     "y": 2093.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 513,
-    "server_id": 20,
-    "type": "house",
-    "name": "Хоромы Данила и  его друга Влад",
-    "owner": "Hanoyamka_Traore",
-    "status": "Занято",
-    "x": 1548.62,
-    "y": 2125.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10008,18 +9996,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 834,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом Константина Соколова 3.0",
-    "owner": "Konstantin_Sokolov",
-    "status": "Занято",
-    "x": -2233.89,
-    "y": 849.1599,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 835,
     "server_id": 20,
     "type": "house",
@@ -10064,18 +10040,6 @@
     "status": "Занято",
     "x": -2168.28,
     "y": 1107.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 839,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом Константина Соколова 4.0",
-    "owner": "Konstantin_Sokolov",
-    "status": "Занято",
-    "x": -2067.24,
-    "y": 744.1749,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22125,6 +22089,42 @@
     "x": -85.6872,
     "y": 960.486,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 513,
+    "server_id": 20,
+    "type": "house",
+    "name": "Хоромы Данила и  его друга Влад",
+    "owner": "Hanoyamka_Traore",
+    "status": "Аукцион",
+    "x": 1548.62,
+    "y": 2125.54,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 834,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом Константина Соколова 3.0",
+    "owner": "Konstantin_Sokolov",
+    "status": "Аукцион",
+    "x": -2233.89,
+    "y": 849.1599,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 839,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом Константина Соколова 4.0",
+    "owner": "Konstantin_Sokolov",
+    "status": "Аукцион",
+    "x": -2067.24,
+    "y": 744.1749,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {

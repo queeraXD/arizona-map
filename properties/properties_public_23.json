@@ -7575,7 +7575,7 @@
     "id": 631,
     "server_id": 23,
     "type": "house",
-    "name": "криптодеревня имени вана халена",
+    "name": "Агаповка",
     "owner": "Agap_Miller",
     "status": "Занято",
     "x": -260.5419,
@@ -7964,18 +7964,6 @@
     "status": "Занято",
     "x": 984.2709,
     "y": 1978.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 665,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nastyha_Doberman",
-    "status": "Занято",
-    "x": 986.0319,
-    "y": 2000.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11772,30 +11760,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 983,
-    "server_id": 23,
-    "type": "house",
-    "name": "123123",
-    "owner": "Aii_Lov",
-    "status": "Занято",
-    "x": -251.3049,
-    "y": 1049.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 984,
-    "server_id": 23,
-    "type": "house",
-    "name": "123123",
-    "owner": "Aii_Lov",
-    "status": "Занято",
-    "x": -258.97,
-    "y": 1083.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 985,
     "server_id": 23,
     "type": "house",
@@ -13616,18 +13580,6 @@
     "status": "Занято",
     "x": 294.763,
     "y": -1623.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1138,
-    "server_id": 23,
-    "type": "house",
-    "name": "woner fam",
-    "owner": "Nastyha_Doberman",
-    "status": "Занято",
-    "x": 276.2399,
-    "y": -1620.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20856,6 +20808,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1748,
+    "server_id": 23,
+    "type": "house",
+    "name": "Youtube Strax",
+    "owner": "Strax_Maestro",
+    "status": "Занято",
+    "x": -85.6872,
+    "y": 960.486,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 638,
     "server_id": 23,
     "type": "house",
@@ -20868,6 +20832,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 665,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nastyha_Doberman",
+    "status": "Аукцион",
+    "x": 986.0319,
+    "y": 2000.56,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 983,
+    "server_id": 23,
+    "type": "house",
+    "name": "123123",
+    "owner": "Aii_Lov",
+    "status": "Аукцион",
+    "x": -251.3049,
+    "y": 1049.71,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 984,
+    "server_id": 23,
+    "type": "house",
+    "name": "123123",
+    "owner": "Aii_Lov",
+    "status": "Аукцион",
+    "x": -258.97,
+    "y": 1083.44,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1088,
     "server_id": 23,
     "type": "house",
@@ -20877,6 +20877,18 @@
     "x": -2158.98,
     "y": 866.3289,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1138,
+    "server_id": 23,
+    "type": "house",
+    "name": "woner fam",
+    "owner": "Nastyha_Doberman",
+    "status": "Аукцион",
+    "x": 276.2399,
+    "y": -1620.39,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -20925,18 +20937,6 @@
     "x": 1793.59,
     "y": 2792.25,
     "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1748,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -85.6872,
-    "y": 960.486,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -21165,6 +21165,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 170,
+    "server_id": 23,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Nakamura_Yushidov",
+    "status": "Аукцион",
+    "x": 1157.92,
+    "y": 2072.27,
+    "price": 95123,
     "district": "Сан-Андреас"
   },
   {
@@ -23120,18 +23132,6 @@
     "status": "Занято",
     "x": 2331.81,
     "y": 75.087,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 170,
-    "server_id": 23,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Nakamura_Yushidov",
-    "status": "Занято",
-    "x": 1157.92,
-    "y": 2072.27,
     "price": 0,
     "district": "Сан-Андреас"
   },

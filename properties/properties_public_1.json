@@ -10320,18 +10320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 861,
-    "server_id": 1,
-    "type": "house",
-    "name": "дом. Артёма. Александровича. ",
-    "owner": "Felix_Blanche",
-    "status": "Занято",
-    "x": -218.123,
-    "y": 2481.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 862,
     "server_id": 1,
     "type": "house",
@@ -11372,18 +11360,6 @@
     "status": "Занято",
     "x": 2562.71,
     "y": 1213.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 949,
-    "server_id": 1,
-    "type": "house",
-    "name": "дом Артёма. Александровича. К. ",
-    "owner": "Felix_Blanche",
-    "status": "Занято",
-    "x": 2561.87,
-    "y": 1231.48,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17304,18 +17280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1444,
-    "server_id": 1,
-    "type": "house",
-    "name": "деп условия ",
-    "owner": "Hoodrich_Nekit",
-    "status": "Занято",
-    "x": 1495.7,
-    "y": 2033.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1445,
     "server_id": 1,
     "type": "house",
@@ -17756,18 +17720,6 @@
     "status": "Занято",
     "x": 2707.31,
     "y": -1229.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1482,
-    "server_id": 1,
-    "type": "house",
-    "name": "дом. Артёма. Александровича. ",
-    "owner": "Felix_Blanche",
-    "status": "Занято",
-    "x": 2707.31,
-    "y": -1211.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23823,7 +23775,7 @@
     "id": 1989,
     "server_id": 1,
     "type": "house",
-    "name": "Дом",
+    "name": "Майнинг ферма №75 (20/20)",
     "owner": "Jeff_Pudge",
     "status": "Занято",
     "x": -85.6772,
@@ -23835,7 +23787,7 @@
     "id": 1990,
     "server_id": 1,
     "type": "house",
-    "name": "Дом",
+    "name": "Майнинг ферма №74 (20/20)",
     "owner": "Jeff_Pudge",
     "status": "Занято",
     "x": -91.2031,
@@ -23940,6 +23892,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 861,
+    "server_id": 1,
+    "type": "house",
+    "name": "дом. Артёма. Александровича. ",
+    "owner": "Felix_Blanche",
+    "status": "Аукцион",
+    "x": -218.123,
+    "y": 2481.23,
+    "price": 14000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 949,
+    "server_id": 1,
+    "type": "house",
+    "name": "дом Артёма. Александровича. К. ",
+    "owner": "Felix_Blanche",
+    "status": "Аукцион",
+    "x": 2561.87,
+    "y": 1231.48,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 955,
     "server_id": 1,
     "type": "house",
@@ -23949,6 +23925,30 @@
     "x": 2660.34,
     "y": 750.098,
     "price": 19000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1444,
+    "server_id": 1,
+    "type": "house",
+    "name": "деп условия ",
+    "owner": "Hoodrich_Nekit",
+    "status": "Аукцион",
+    "x": 1495.7,
+    "y": 2033.2,
+    "price": 16000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1482,
+    "server_id": 1,
+    "type": "house",
+    "name": "дом. Артёма. Александровича. ",
+    "owner": "Felix_Blanche",
+    "status": "Аукцион",
+    "x": 2707.31,
+    "y": -1211.77,
+    "price": 17000,
     "district": "Сан-Андреас"
   },
   {
@@ -24168,15 +24168,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 206,
+    "id": 250,
     "server_id": 1,
     "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Crying_Alive",
+    "name": "АЗС/Магазин механики",
+    "owner": "Vladimir_Hmxd",
     "status": "Аукцион",
-    "x": 1381.1,
-    "y": -1805.03,
-    "price": 100000,
+    "x": 2170.48,
+    "y": 542.934,
+    "price": 149999,
     "district": "Сан-Андреас"
   },
   {
@@ -25592,18 +25592,6 @@
     "status": "Занято",
     "x": 111.076,
     "y": -1782.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 250,
-    "server_id": 1,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Vladimir_Hmxd",
-    "status": "Занято",
-    "x": 2170.48,
-    "y": 542.934,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27284,6 +27272,18 @@
     "status": "Занято",
     "x": 1136.92,
     "y": -1750.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 206,
+    "server_id": 1,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Crying_Alive",
+    "status": "Занято",
+    "x": 1381.1,
+    "y": -1805.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
