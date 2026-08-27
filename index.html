@@ -1,0 +1,1578 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Кадастр Arizona RP Home</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --bg-dark: #05070d;
+            --panel-bg: rgba(13, 18, 32, 0.88);
+            --panel-bg-solid: #0d1220;
+            --border-color: rgba(255, 255, 255, 0.08);
+            --border-hover: rgba(255, 255, 255, 0.18);
+            --accent-blue: #38bdf8;
+            --accent-purple: #a855f7;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --text-dim: #64748b;
+
+            --color-free: #22c55e;
+            --color-busy: #64748b;
+            --color-auction: #ef4444;
+            --color-biz: #facc15;
+
+            --radius-sm: 8px;
+            --radius-md: 12px;
+            --radius-lg: 16px;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Plus Jakarta Sans', sans-serif; }
+        html, body { width: 100%; height: 100%; overflow: hidden; background: var(--bg-dark); color: var(--text-main); }
+        body {
+            background:
+                radial-gradient(circle at 12% 18%, rgba(56, 189, 248, 0.10), transparent 42%),
+                radial-gradient(circle at 88% 82%, rgba(168, 85, 247, 0.10), transparent 42%),
+                var(--bg-dark);
+        }
+        ::selection { background: rgba(56, 189, 248, 0.35); color: #fff; }
+
+        #app { display: flex; width: 100vw; height: 100vh; position: relative; }
+
+        #sidebar {
+            width: 360px; min-width: 360px; height: 100%;
+            background: var(--panel-bg); backdrop-filter: blur(18px); -webkit-backdrop-filter: blur(18px);
+            border-right: 1px solid var(--border-color); padding: 22px 20px 18px;
+            display: flex; flex-direction: column; gap: 16px; z-index: 1000;
+            box-shadow: 10px 0 30px rgba(0, 0, 0, 0.5);
+            transition: transform 0.32s cubic-bezier(0.4, 0, 0.2, 1);
+            overflow-y: auto; overflow-x: hidden;
+            scrollbar-width: thin; scrollbar-color: rgba(255,255,255,0.15) transparent;
+        }
+        #sidebar::-webkit-scrollbar { width: 6px; }
+        #sidebar::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); border-radius: 10px; }
+        #sidebar.collapsed { transform: translateX(-360px); }
+
+        @keyframes fadeSlideIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+        #sidebar > * { animation: fadeSlideIn 0.5s ease both; }
+        #sidebar > *:nth-child(2) { animation-delay: .02s; }
+        #sidebar > *:nth-child(3) { animation-delay: .06s; }
+        #sidebar > *:nth-child(4) { animation-delay: .10s; }
+        #sidebar > *:nth-child(5) { animation-delay: .14s; }
+        #sidebar > *:nth-child(6) { animation-delay: .18s; }
+        @media (prefers-reduced-motion: reduce) { #sidebar > * { animation: none; } }
+
+        .brand { display: flex; align-items: center; justify-content: space-between; }
+        .brand-title { display: flex; align-items: center; gap: 12px; }
+        .brand-icon {
+            width: 42px; height: 42px; border-radius: 12px;
+            background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
+            display: flex; align-items: center; justify-content: center;
+            font-size: 20px; color: #fff; box-shadow: 0 4px 15px rgba(56, 189, 248, 0.35);
+            flex-shrink: 0;
+        }
+        .brand-text h1 { font-size: 18px; font-weight: 800; letter-spacing: -0.5px; }
+        .brand-text span { font-size: 11px; color: var(--accent-blue); font-weight: 600; text-transform: uppercase; letter-spacing: 1px; display: flex; align-items: center; }
+
+        .live-dot {
+            width: 6px; height: 6px; border-radius: 50%; background: var(--color-free);
+            display: inline-block; margin-right: 6px; animation: liveDotPulse 2s infinite;
+        }
+        @keyframes liveDotPulse {
+            0% { box-shadow: 0 0 0 0 rgba(34,197,94,0.55); }
+            70% { box-shadow: 0 0 0 6px rgba(34,197,94,0); }
+            100% { box-shadow: 0 0 0 0 rgba(34,197,94,0); }
+        }
+        @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+
+        .toggle-btn {
+            position: absolute; top: 22px; right: -40px;
+            width: 40px; height: 40px; background: var(--panel-bg);
+            border: 1px solid var(--border-color); border-left: none;
+            border-radius: 0 10px 10px 0; color: var(--text-main);
+            display: flex; align-items: center; justify-content: center;
+            cursor: pointer; backdrop-filter: blur(16px);
+            box-shadow: 4px 0 15px rgba(0,0,0,0.3); z-index: 1001;
+            transition: background .15s ease, color .15s ease;
+        }
+        .toggle-btn:hover { background: rgba(56, 189, 248, 0.15); color: var(--accent-blue); }
+
+        .brand { gap: 12px; flex-wrap: wrap; }
+        .brand-title { min-width: 0; flex: 1 1 190px; }
+        .brand-text { min-width: 0; }
+        .brand-text h1 { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .server-picker-wrap { width: 100%; display:flex; align-items:center; gap:8px; }
+        .server-picker-wrap label { flex:0 0 auto; font-size:10px; color:var(--text-dim); font-weight:700; text-transform:uppercase; letter-spacing:.45px; }
+        .server-select { flex:1; min-width:0; width:auto; padding:9px 30px 9px 10px !important; font-size:11px; font-weight:700; background:rgba(255,255,255,.045); }
+        .server-select option { background:#0d1220; color:#f8fafc; }
+        .popup-row { display:grid; grid-template-columns:minmax(74px,max-content) minmax(0,1fr); align-items:center; gap:10px; }
+        .popup-row .key { min-width:0; }
+        .popup-row .val { min-width:0; overflow-wrap:anywhere; word-break:break-word; }
+        .status-badge { white-space:nowrap; }
+
+        .stats-container { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+        .stat-card {
+            background: rgba(255, 255, 255, 0.03); border: 1px solid var(--border-color);
+            border-radius: var(--radius-md); padding: 10px 8px; display: flex; flex-direction: column; gap: 3px;
+            transition: border-color .15s ease, transform .15s ease;
+        }
+        .stat-card:hover { border-color: var(--border-hover); transform: translateY(-1px); }
+        .stat-card .label { font-size: 10px; color: var(--text-muted); font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .stat-card .value { font-size: 18px; font-weight: 800; font-family: 'JetBrains Mono', monospace; }
+        .stat-card.free .value { color: var(--color-free); }
+        .stat-card.auction .value { color: var(--color-auction); }
+
+        .controls { display: flex; flex-direction: column; gap: 12px; }
+        .input-group { display: flex; flex-direction: column; gap: 6px; }
+        .input-group label { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
+
+        .search-wrapper { position: relative; }
+        .search-wrapper i.fa-magnifying-glass { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: var(--text-muted); pointer-events: none; }
+        .search-wrapper .clear-btn {
+            position: absolute; right: 8px; top: 50%; transform: translateY(-50%);
+            background: none; border: none; color: var(--text-muted); cursor: pointer;
+            padding: 6px; display: none; border-radius: 6px; line-height: 0;
+        }
+        .search-wrapper .clear-btn.show { display: block; }
+        .search-wrapper .clear-btn:hover { color: var(--text-main); background: rgba(255,255,255,0.06); }
+
+        input, select {
+            width: 100%; padding: 12px 14px 12px 40px; background: rgba(0, 0, 0, 0.4);
+            border: 1px solid var(--border-color); color: var(--text-main); border-radius: 10px;
+            font-size: 13px; outline: none; transition: all 0.2s ease;
+        }
+        #main-search { padding-right: 34px; }
+        select { padding-left: 14px; cursor: pointer; }
+        input:hover, select:hover { border-color: var(--border-hover); }
+        input:focus, select:focus { border-color: var(--accent-blue); box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.15); }
+        select:disabled { opacity: 0.45; cursor: not-allowed; }
+        input::placeholder { color: var(--text-dim); }
+
+        .quick-actions { display: flex; gap: 8px; }
+        .pill-btn {
+            flex: 1; display: flex; align-items: center; justify-content: center; gap: 6px;
+            background: rgba(255, 255, 255, 0.03); border: 1px solid var(--border-color);
+            color: var(--text-muted); font-size: 12px; font-weight: 700; padding: 10px;
+            border-radius: 10px; cursor: pointer; transition: all .15s ease; position: relative;
+        }
+        .pill-btn:hover { border-color: var(--border-hover); color: var(--text-main); }
+        .pill-btn.active { background: rgba(250, 204, 21, 0.12); border-color: var(--color-biz); color: var(--color-biz); }
+        .pill-badge {
+            background: var(--color-biz); color: #1a1400; font-size: 10px; font-weight: 800;
+            padding: 0 6px; border-radius: 20px; min-width: 16px; text-align: center; display: none;
+        }
+        .pill-badge.show { display: inline-block; }
+
+        .category-section {
+            border: 1px solid var(--border-color); border-radius: var(--radius-md);
+            background: rgba(255, 255, 255, 0.02); overflow: hidden;
+        }
+        .category-header {
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 12px 14px; cursor: pointer; user-select: none;
+        }
+        .category-header:hover { background: rgba(255,255,255,0.02); }
+        .category-header-title { display: flex; align-items: center; gap: 8px; font-size: 11px; font-weight: 700; color: var(--text-main); text-transform: uppercase; letter-spacing: 0.5px; }
+        .category-badge {
+            background: var(--accent-blue); color: #04121c; font-size: 10px; font-weight: 800;
+            padding: 1px 7px; border-radius: 20px; min-width: 16px; text-align: center; display: none;
+        }
+        .category-header-right { display: flex; align-items: center; gap: 8px; }
+        .category-chevron { color: var(--text-muted); transition: transform .25s ease; font-size: 12px; }
+        .category-header.open .category-chevron { transform: rotate(180deg); }
+
+        .category-body { max-height: 0; overflow: hidden; transition: max-height .3s ease; }
+        .category-body.open { max-height: 520px; overflow-y: auto; scrollbar-width: thin; scrollbar-color: rgba(255,255,255,0.18) transparent; }
+        .category-body.open::-webkit-scrollbar { width: 6px; }
+        .category-body.open::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); border-radius: 10px; }
+        .category-body.open::-webkit-scrollbar-track { background: transparent; }
+        .category-actions { display: flex; gap: 8px; padding: 0 12px 8px; }
+        .category-actions button {
+            flex: 1; background: transparent; border: 1px solid var(--border-color); color: var(--text-muted);
+            font-size: 10.5px; font-weight: 600; padding: 6px; border-radius: 8px; cursor: pointer; transition: all .15s ease;
+        }
+        .category-actions button:hover { border-color: var(--accent-blue); color: var(--accent-blue); }
+
+        .category-grid { display: grid; grid-template-columns: 1fr; gap: 6px; padding: 0 12px 12px; }
+        .cat-chip {
+            display: flex; align-items: center; gap: 6px; background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--border-color); border-radius: 8px; padding: 7px 8px; cursor: pointer;
+            font-size: 11px; transition: all .15s ease;
+        }
+        .cat-chip:hover { border-color: var(--border-hover); }
+        .cat-chip input { position: absolute; opacity: 0; width: 0; height: 0; }
+        .cat-chip.active { background: rgba(56, 189, 248, 0.10); border-color: var(--accent-blue); }
+        .cat-chip-icon { font-size: 12px; width: 14px; text-align: center; flex-shrink: 0; }
+        .cat-chip-label { flex: 1; min-width: 0; color: var(--text-main); font-weight: 600; white-space: normal; overflow-wrap: anywhere; line-height: 1.25; }
+        .cat-chip-count { color: var(--text-muted); font-size: 10px; font-weight: 700; font-family: 'JetBrains Mono', monospace; }
+
+        .legend {
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--border-color); border-radius: var(--radius-md); padding: 14px;
+            display: flex; flex-direction: column; gap: 10px;
+        }
+        .legend-head { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
+        .legend-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
+        .legend-item { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--text-muted); }
+        .badge-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+        .legend-note { display: flex; align-items: center; gap: 8px; font-size: 10.5px; color: var(--text-dim); padding-top: 8px; border-top: 1px solid var(--border-color); }
+        .legend-ring-demo { width: 10px; height: 10px; border-radius: 50%; background: var(--color-free); border: 2px solid #fbbf24; flex-shrink: 0; }
+
+        .sidebar-footer-hint { font-size: 10px; color: var(--text-dim); display: flex; align-items: center; gap: 6px; justify-content: center; }
+        kbd { background: rgba(255,255,255,0.08); border: 1px solid var(--border-color); border-radius: 4px; padding: 1px 5px; font-family: 'JetBrains Mono', monospace; font-size: 9px; }
+
+        #map-container { flex-grow: 1; height: 100%; background: #050810; position: relative; }
+        #map { width: 100%; height: 100%; }
+
+        .map-state-overlay {
+            position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center;
+            gap: 14px; background: rgba(5, 7, 13, 0.82); backdrop-filter: blur(6px); z-index: 900;
+            color: var(--text-muted); font-size: 13px; text-align: center; padding: 20px;
+        }
+        .loader-ring {
+            width: 40px; height: 40px; border: 3px solid rgba(56, 189, 248, 0.15);
+            border-top-color: var(--accent-blue); border-radius: 50%; animation: spin 0.8s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .retry-btn {
+            background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple)); border: none;
+            color: #04121c; font-weight: 700; font-size: 12px; padding: 10px 20px; border-radius: 10px; cursor: pointer;
+        }
+        .retry-btn:hover { filter: brightness(1.08); }
+
+        #sidebar-backdrop {
+            position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 999;
+            opacity: 0; pointer-events: none; transition: opacity .25s ease;
+        }
+        #sidebar-backdrop.visible { opacity: 1; pointer-events: auto; }
+
+        #toast-container {
+            position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%);
+            z-index: 3000; display: flex; flex-direction: column; gap: 8px; align-items: center; pointer-events: none;
+        }
+        .toast {
+            display: flex; align-items: center; gap: 8px; background: rgba(15, 23, 42, 0.96);
+            border: 1px solid var(--border-color); color: var(--text-main); padding: 10px 16px;
+            border-radius: 10px; font-size: 12px; font-weight: 600; box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            opacity: 0; transform: translateY(10px); transition: all .25s ease; backdrop-filter: blur(10px);
+        }
+        .toast.show { opacity: 1; transform: translateY(0); }
+        .toast i { color: var(--accent-blue); }
+
+        .leaflet-control-zoom { border: 1px solid var(--border-color) !important; border-radius: 10px !important; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.4); }
+        .leaflet-control-zoom a { background: rgba(15, 23, 42, 0.92) !important; color: var(--text-main) !important; border-color: var(--border-color) !important; backdrop-filter: blur(10px); }
+        .leaflet-control-zoom a:hover { background: rgba(56, 189, 248, 0.18) !important; color: var(--accent-blue) !important; }
+
+        .leaflet-popup-content-wrapper {
+            background: rgba(15, 23, 42, 0.96) !important; backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.12); color: var(--text-main) !important;
+            border-radius: var(--radius-lg) !important; padding: 0 !important; overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.6) !important;
+        }
+        .leaflet-popup-tip { background: rgba(15, 23, 42, 0.96) !important; }
+
+        .popup-box { padding: 16px; min-width: 236px; }
+        .popup-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid var(--border-color); }
+        .popup-tag { font-size: 10px; font-weight: 800; padding: 3px 8px; border-radius: 6px; text-transform: uppercase; }
+        .popup-tag.house { background: rgba(56, 189, 248, 0.15); color: var(--accent-blue); }
+        .popup-tag.biz { background: rgba(250, 204, 21, 0.15); color: var(--color-biz); }
+
+        .popup-fav-btn { background: none; border: none; color: var(--text-muted); cursor: pointer; font-size: 15px; padding: 2px 4px; transition: color .15s ease, transform .15s ease; }
+        .popup-fav-btn:hover { transform: scale(1.15); }
+        .popup-fav-btn.is-fav { color: #fbbf24; }
+
+        .popup-title { font-size: 15px; font-weight: 700; margin-bottom: 8px; color: #fff; }
+        .popup-cat-row { margin-bottom: 10px; }
+        .popup-cat-tag { display: inline-flex; align-items: center; gap: 5px; font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 6px; border: 1px solid; }
+
+        .popup-info { display: flex; flex-direction: column; gap: 6px; font-size: 12px; }
+        .popup-row { display: grid; grid-template-columns: minmax(74px,max-content) minmax(0,1fr); align-items: center; gap: 10px; }
+        .popup-row .key { color: var(--text-muted); min-width: 0; }
+        .popup-row .val { font-weight: 600; color: #fff; text-align: right; min-width: 0; overflow-wrap: anywhere; word-break: break-word; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+
+        .status-badge { padding: 2px 8px; border-radius: 6px; font-size: 11px; font-weight: 700; }
+        .status-badge.free { background: rgba(34, 197, 94, 0.15); color: var(--color-free); }
+        .status-badge.auction { background: rgba(239, 68, 68, 0.15); color: var(--color-auction); }
+        .status-badge.busy { background: rgba(100, 116, 139, 0.2); color: var(--color-busy); }
+
+        .popup-copy-btn {
+            margin-top: 12px; width: 100%; display: flex; align-items: center; justify-content: center; gap: 6px;
+            background: rgba(255, 255, 255, 0.04); border: 1px solid var(--border-color); color: var(--text-muted);
+            font-size: 11px; font-weight: 600; padding: 9px; border-radius: 8px; cursor: pointer; transition: all .15s ease;
+        }
+        .popup-copy-btn:hover { border-color: var(--accent-blue); color: var(--accent-blue); }
+
+        .popup-gov-approx {
+            font-size: 9.5px; font-weight: 700; color: #fbbf24; border: 1px solid rgba(251, 191, 36, 0.4);
+            background: rgba(251, 191, 36, 0.12); border-radius: 5px; padding: 0 4px; margin-left: 5px;
+            cursor: help; vertical-align: 1px;
+        }
+        .popup-rub-btn {
+            margin-top: 8px; width: 100%; display: flex; align-items: center; justify-content: center; gap: 6px;
+            background: rgba(34, 197, 94, 0.08); border: 1px solid rgba(34, 197, 94, 0.35); color: #4ade80;
+            font-size: 11px; font-weight: 700; padding: 8px; border-radius: 8px; cursor: pointer; transition: all .15s ease;
+        }
+        .popup-rub-btn:hover { border-color: #4ade80; background: rgba(34, 197, 94, 0.14); }
+        .popup-rub-btn .fa-chevron-down { transition: transform .2s ease; font-size: 9px; }
+        .popup-rub-btn.open .fa-chevron-down { transform: rotate(180deg); }
+
+        .popup-rub-panel {
+            display: none; margin-top: 8px; padding: 10px 10px; background: rgba(0, 0, 0, 0.35);
+            border: 1px solid var(--border-color); border-radius: 10px;
+        }
+        .popup-rub-panel.open { display: block; }
+        .rub-rate-note {
+            font-size: 9px; color: var(--text-dim); line-height: 1.4; margin-bottom: 9px;
+            padding-bottom: 7px; border-bottom: 1px dashed var(--border-color);
+        }
+        .rub-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; width: 100%; }
+        .rub-cell { min-width: 0; text-align: center; padding: 3px 2px; }
+        .rub-cell .rub-key { display: block; color: var(--text-dim); font-size: 9px; font-weight: 700; margin-bottom: 4px; white-space: nowrap; }
+        .rub-cell .rub-val { display: block; font-weight: 800; font-family: 'JetBrains Mono', monospace; font-size: 10.5px; line-height: 1.2; white-space: nowrap; overflow: visible; }
+        .rub-cell.total .rub-val { color: #4ade80; }
+
+        @keyframes auctionPulse {
+            0%   { filter: drop-shadow(0 0 0px rgba(239,68,68,0.9)); }
+            50%  { filter: drop-shadow(0 0 6px rgba(239,68,68,0.95)); }
+            100% { filter: drop-shadow(0 0 0px rgba(239,68,68,0.9)); }
+        }
+        .marker-pulse-auction { animation: auctionPulse 1.8s ease-in-out infinite; }
+        @media (prefers-reduced-motion: reduce) { .marker-pulse-auction { animation: none; } }
+
+        .server-calc-wrap { margin: 0 16px 12px; }
+        .server-calc-btn {
+            width:100%; display:flex; align-items:center; justify-content:center; gap:8px;
+            padding:10px 12px; border-radius:10px; cursor:pointer;
+            background:linear-gradient(180deg, rgba(56,189,248,.13), rgba(56,189,248,.06));
+            border:1px solid rgba(56,189,248,.28); color:#dff6ff;
+            font-size:11px; font-weight:800; transition:.16s ease;
+        }
+        .server-calc-btn:hover { border-color:rgba(56,189,248,.55); background:rgba(56,189,248,.15); transform:translateY(-1px); }
+        .server-calc-chevron { margin-left:auto; font-size:9px; transition:transform .2s ease; }
+        .server-calc-btn.open .server-calc-chevron { transform:rotate(180deg); }
+        .server-calc-panel {
+            display:none; margin-top:7px; padding:10px; border-radius:11px;
+            background:rgba(5,10,20,.72); border:1px solid var(--border-color);
+        }
+        .server-calc-panel.open { display:block; }
+        .server-calc-summary { display:grid; grid-template-columns:repeat(3,1fr); gap:6px; margin-bottom:9px; }
+        .server-calc-summary > div {
+            min-width:0; text-align:center; padding:7px 4px; border-radius:8px;
+            background:rgba(255,255,255,.035); border:1px solid rgba(255,255,255,.055);
+        }
+        .server-calc-summary span { display:block; color:var(--text-dim); font-size:8px; font-weight:800; letter-spacing:.4px; margin-bottom:3px; }
+        .server-calc-summary strong { display:block; color:#f8fafc; font:800 13px/1.1 'JetBrains Mono',monospace; }
+        .server-calc-table {
+            border:1px solid rgba(56,189,248,.12); border-radius:9px; overflow:hidden;
+            background:linear-gradient(180deg, rgba(12,27,52,.88), rgba(7,18,36,.92));
+        }
+        .server-calc-row {
+            display:grid; grid-template-columns:76px minmax(0,1fr); align-items:center;
+            min-height:31px; padding:5px 9px; border-bottom:1px solid rgba(56,189,248,.08);
+        }
+        .server-calc-row:last-child { border-bottom:none; }
+        .server-calc-row span {
+            color:#7187a6; font-size:8px; font-weight:800; letter-spacing:.45px; white-space:nowrap;
+        }
+        .server-calc-row strong {
+            min-width:0; color:#4ade80; font:800 10px/1.2 'JetBrains Mono',monospace;
+            white-space:nowrap; overflow:visible; text-align:right;
+        }
+        .server-calc-note { margin-top:7px; color:#7187a6; font-size:8.5px; line-height:1.3; text-align:center; }
+
+        
+        :root { color-scheme: dark; }
+        select, option, input, textarea, button {
+            color-scheme: dark;
+        }
+        .server-calc-panel, .server-calc-table, .area-price-table {
+            box-shadow: inset 0 0 28px rgba(15, 53, 94, .12);
+        }
+        .leaflet-control-attribution {
+            background: rgba(7,18,36,.88) !important;
+            color: #6f85a4 !important;
+        }
+        .leaflet-control-attribution a { color:#6da9d8 !important; }
+
+        #sidebar { background:linear-gradient(180deg, rgba(10,15,28,.94), rgba(8,12,22,.91)); }
+        .stat-card { background:linear-gradient(180deg, rgba(255,255,255,.045), rgba(255,255,255,.02)); }
+        .legend, .category-section { box-shadow:0 10px 24px rgba(0,0,0,.14); }
+        #map-container { box-shadow: inset 0 0 80px rgba(0,0,0,.18); }
+        .leaflet-control-zoom { margin-right:14px !important; margin-bottom:14px !important; }
+        .leaflet-popup-content { margin:0 !important; }
+
+        #welcome-overlay {
+            position: fixed; inset: 0; z-index: 5000; display: flex; align-items: center; justify-content: center;
+            background:
+                radial-gradient(circle at 50% 35%, rgba(56,189,248,.14), transparent 34%),
+                radial-gradient(circle at 50% 80%, rgba(168,85,247,.10), transparent 42%),
+                rgba(3,6,13,.92);
+            backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+            transition: opacity .45s ease, visibility .45s ease;
+        }
+        #welcome-overlay.hidden { opacity: 0; visibility: hidden; pointer-events: none; }
+        .welcome-card {
+            width: min(520px, calc(100vw - 32px)); padding: 30px 28px 24px; text-align:center;
+            border:1px solid rgba(255,255,255,.10); border-radius:24px;
+            background:linear-gradient(180deg, rgba(15,23,42,.90), rgba(8,12,22,.94));
+            box-shadow:0 30px 90px rgba(0,0,0,.55), 0 0 45px rgba(56,189,248,.08);
+        }
+        .welcome-logo {
+            position:relative; width:82px; height:82px; margin:0 auto 18px; border-radius:24px;
+            display:flex; align-items:center; justify-content:center; color:#fff; font-size:34px;
+            background:linear-gradient(135deg, #38bdf8, #8b5cf6 75%); box-shadow:0 16px 38px rgba(56,189,248,.23);
+        }
+        .welcome-beta {
+            position:absolute; right:-9px; top:-9px; padding:5px 8px; border-radius:9px;
+            background:#facc15; color:#17120a; font:900 10px/1 'JetBrains Mono',monospace;
+            letter-spacing:.4px; border:2px solid #0a0f1c; box-shadow:0 6px 18px rgba(250,204,21,.22);
+        }
+        .welcome-card h2 { font-size:26px; font-weight:800; letter-spacing:-.7px; margin-bottom:8px; }
+        .welcome-card .welcome-sub { font-size:12px; color:var(--accent-blue); font-weight:700; text-transform:uppercase; letter-spacing:1.1px; }
+        .welcome-card p { margin:14px auto 0; max-width:430px; font-size:11px; line-height:1.65; color:var(--text-muted); }
+        .welcome-enter {
+            margin-top:20px; min-width:150px; border:0; border-radius:11px; padding:11px 18px; cursor:pointer;
+            background:linear-gradient(135deg,#38bdf8,#8b5cf6); color:#fff; font-weight:800; font-size:12px;
+            box-shadow:0 12px 24px rgba(56,189,248,.18); transition:transform .16s ease, filter .16s ease;
+        }
+        .welcome-enter:hover { transform:translateY(-1px); filter:brightness(1.08); }
+        .welcome-note { margin-top:12px !important; font-size:9.5px !important; color:var(--text-dim) !important; }
+
+        .map-tools {
+            position:absolute; top:18px; right:18px; z-index:1200; display:flex; flex-direction:column; gap:9px;
+        }
+        .map-tool-btn {
+            width:46px; height:46px; border-radius:14px; cursor:pointer; display:flex; align-items:center; justify-content:center;
+            border:1px solid rgba(255,255,255,.12); background:rgba(10,15,28,.88); color:var(--text-main);
+            backdrop-filter:blur(14px); box-shadow:0 10px 28px rgba(0,0,0,.36); transition:.16s ease; font-size:16px;
+        }
+        .map-tool-btn:hover { transform:translateY(-1px); border-color:rgba(56,189,248,.42); color:var(--accent-blue); }
+        .map-tool-btn.active { background:rgba(34,197,94,.13); border-color:rgba(34,197,94,.42); color:#86efac; box-shadow:0 12px 30px rgba(34,197,94,.12); }
+        .map-selection-panel {
+            min-width:245px; max-width:300px; padding:13px 14px; border:1px solid rgba(255,255,255,.10); border-radius:16px;
+            background:rgba(8,12,22,.92); backdrop-filter:blur(16px); box-shadow:0 14px 35px rgba(0,0,0,.42); display:none;
+        }
+        .map-selection-panel.show { display:block; }
+        .map-selection-title { font-size:10px; font-weight:800; text-transform:uppercase; letter-spacing:.65px; margin-bottom:9px; }
+        .map-selection-hint { font-size:10px; line-height:1.5; color:var(--text-dim); margin-bottom:9px; }
+        .map-selection-stats { display:grid; grid-template-columns:1fr 1fr; gap:7px; }
+        .map-selection-item { padding:8px 9px; border-radius:10px; background:rgba(255,255,255,.035); border:1px solid var(--border-color); }
+        .map-selection-item .k { display:block; font-size:9px; color:var(--text-dim); margin-bottom:3px; }
+        .map-selection-item .v { font:800 12px/1.2 'JetBrains Mono',monospace; color:var(--text-main); }
+        .map-selection-item.full { grid-column:1/-1; }
+        .map-selection-item.full .v { color:#4ade80; font-size:13px; }
+        .area-total-card { padding-bottom:10px; }
+        .area-price-table {
+            margin-top:6px; border:1px solid rgba(56,189,248,.12); border-radius:9px; overflow:hidden;
+            background:linear-gradient(180deg, rgba(12,27,52,.88), rgba(7,18,36,.92));
+        }
+        .area-price-row {
+            display:grid; grid-template-columns:76px minmax(0,1fr); align-items:center;
+            min-height:29px; padding:5px 9px; border-bottom:1px solid rgba(56,189,248,.08);
+        }
+        .area-price-row:last-child { border-bottom:none; }
+        .area-price-row span { color:#7187a6; font-size:8px; font-weight:800; letter-spacing:.45px; white-space:nowrap; }
+        .area-price-row strong {
+            min-width:0; color:#4ade80; font:800 10px/1.2 'JetBrains Mono',monospace;
+            white-space:nowrap; text-align:right;
+        }
+        .map-selection-regions { margin-top:8px; font-size:9.5px; line-height:1.5; color:var(--text-muted); }
+        .map-selection-clear { margin-top:9px; width:100%; padding:8px; border-radius:9px; border:1px solid var(--border-color); background:rgba(255,255,255,.03); color:var(--text-muted); font-size:10px; font-weight:700; cursor:pointer; }
+        .map-selection-clear:hover { color:var(--text-main); border-color:var(--border-hover); }
+        .selection-rect { pointer-events:none; }
+
+        @media (max-width: 768px) {
+            #sidebar {
+                position: fixed; top: 0; left: 0; width: 85vw; max-width: 340px; min-width: 0;
+                z-index: 2000;
+            }
+            #sidebar.collapsed { transform: translateX(-100%); }
+            .toggle-btn { position: fixed; top: 16px; left: 16px; right: auto; border-radius: 10px; border-left: 1px solid var(--border-color); }
+            .stats-container { grid-template-columns: repeat(3, 1fr); }
+        }
+    </style>
+</head>
+<body>
+
+    <div id="welcome-overlay" aria-hidden="false">
+        <div class="welcome-card">
+            <div class="welcome-logo">
+                <i class="fa-solid fa-map-location-dot"></i>
+                <span class="welcome-beta">BETA</span>
+            </div>
+            <div class="welcome-sub">Кадастровая система</div>
+            <h2>Кадастр Arizona RP Home</h2>
+            
+            <button class="welcome-enter" id="welcome-enter" type="button">Открыть кадастр</button>
+            <p class="welcome-note">Функция перевода гос. цены в рубли — крайне ориентировочная и экспериментальная. Она не является официальным курсом.</p>
+        </div>
+    </div>
+
+<div id="app">
+    <div id="sidebar-backdrop"></div>
+    <div id="sidebar">
+        <button class="toggle-btn" id="toggle-sidebar">
+            <i class="fa-solid fa-chevron-left" id="toggle-icon"></i>
+        </button>
+
+        <div class="brand">
+            <div class="brand-title">
+                <div class="brand-icon"><i class="fa-solid fa-map-location-dot"></i></div>
+                <div class="brand-text">
+                    <h1>Кадастр Arizona RP</h1>
+                    <span><span class="live-dot"></span><span id="server-caption">Сервер #33 • Home</span></span>
+                </div>
+            </div>
+            <div class="server-picker-wrap">
+                <label for="server-select">Сервер</label>
+                <select id="server-select" class="server-select" aria-label="Выбор сервера"></select>
+            </div>
+        </div>
+
+        <div class="stats-container">
+            <div class="stat-card">
+                <span class="label">Всего</span>
+                <span class="value" id="stat-total">0</span>
+            </div>
+            <div class="stat-card">
+                <span class="label">На карте</span>
+                <span class="value" id="stat-shown">0</span>
+            </div>
+            <div class="stat-card">
+                <span class="label">Дома</span>
+                <span class="value" id="stat-houses">0</span>
+            </div>
+            <div class="stat-card">
+                <span class="label">Бизнесы</span>
+                <span class="value" id="stat-business">0</span>
+            </div>
+            <div class="stat-card free">
+                <span class="label">Свободно</span>
+                <span class="value" id="stat-free">0</span>
+            </div>
+            <div class="stat-card auction">
+                <span class="label">Аукцион</span>
+                <span class="value" id="stat-auction">0</span>
+            </div>
+        </div>
+
+        <div class="server-calc-wrap">
+            <button class="server-calc-btn" id="server-calc-btn" type="button">
+                <i class="fa-solid fa-calculator"></i>
+                Посчитать всё состояние сервера
+                <i class="fa-solid fa-chevron-down server-calc-chevron"></i>
+            </button>
+            <div class="server-calc-panel" id="server-calc-panel">
+                <div class="server-calc-summary">
+                    <div><span>ОБЪЕКТЫ</span><strong id="server-calc-objects">0</strong></div>
+                    <div><span>ДОМА</span><strong id="server-calc-houses">0</strong></div>
+                    <div><span>БИЗНЕСЫ</span><strong id="server-calc-businesses">0</strong></div>
+                </div>
+                <div class="server-calc-table">
+                    <div class="server-calc-row"><span>ГОСС:</span><strong id="server-calc-goss">$0</strong></div>
+                    <div class="server-calc-row"><span>АЗ:</span><strong id="server-calc-az">0 AZ</strong></div>
+                    <div class="server-calc-row"><span>РУБЛИ:</span><strong id="server-calc-rub">≈ 0 ₽</strong></div>
+                </div>
+                <div class="server-calc-note" id="server-calc-note">Стоимость считается только по объектам, для которых известна гос. цена.</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="input-group">
+                <label>Поиск объекта</label>
+                <div class="search-wrapper">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" id="main-search" placeholder="ID, ник, название... ( / )">
+                    <button class="clear-btn" id="search-clear" title="Очистить"><i class="fa-solid fa-xmark"></i></button>
+                </div>
+            </div>
+
+            <div class="quick-actions">
+                <button class="pill-btn" id="favorites-toggle" title="Показать только избранное">
+                    <i class="fa-solid fa-star"></i> Избранное
+                    <span class="pill-badge" id="fav-badge">0</span>
+                </button>
+                <button class="pill-btn" id="reset-filters" title="Сбросить все фильтры">
+                    <i class="fa-solid fa-arrows-rotate"></i> Сбросить
+                </button>
+            </div>
+
+            <div class="input-group">
+                <label>Тип имущества</label>
+                <select id="type-filter">
+                    <option value="all">Все объекты</option>
+                    <option value="house">🏠 Дома</option>
+                    <option value="business">💼 Бизнесы</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>Статус</label>
+                <select id="status-filter">
+                    <option value="all">Все статусы</option>
+                    <option value="Свободно">🟢 Свободно (Госс)</option>
+                    <option value="Аукцион">🔴 Аукцион</option>
+                    <option value="Занято">⚪ Занято игроками</option>
+                </select>
+            </div>
+
+            <div class="category-section" id="category-section">
+                <div class="category-header" id="category-header">
+                    <div class="category-header-title">
+                        <i class="fa-solid fa-sliders"></i> Категория бизнеса
+                    </div>
+                    <div class="category-header-right">
+                        <span class="category-badge" id="category-badge">0</span>
+                        <i class="fa-solid fa-chevron-down category-chevron"></i>
+                    </div>
+                </div>
+                <div class="category-body" id="category-body">
+                    <div class="category-actions">
+                        <button id="cat-select-all" type="button">Выбрать все</button>
+                        <button id="cat-clear-all" type="button">Сбросить</button>
+                    </div>
+                    <div class="category-grid" id="category-grid"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="legend">
+            <div class="legend-head">Обозначения</div>
+            <div class="legend-grid">
+                <div class="legend-item"><span class="badge-dot" style="background: var(--accent-blue)"></span> Дом</div>
+                <div class="legend-item"><span class="badge-dot" style="background: var(--color-biz)"></span> Бизнес</div>
+                <div class="legend-item"><span class="badge-dot" style="background: var(--color-free)"></span> Свободен</div>
+                <div class="legend-item"><span class="badge-dot" style="background: var(--color-auction)"></span> Аукцион</div>
+            </div>
+            <div class="legend-note"><span class="legend-ring-demo"></span> Золотое кольцо — в избранном</div>
+        </div>
+
+        <div class="sidebar-footer-hint">
+            <i class="fa-solid fa-keyboard"></i> <kbd>/</kbd> поиск&nbsp;·&nbsp;<kbd>Enter</kbd> перейти к результату
+        </div>
+    </div>
+
+    <div id="map-container">
+        <div id="map"></div>
+        <div class="map-tools">
+            <button class="map-tool-btn" id="lasso-toggle" type="button" title="Выделить область">
+                <i class="fa-solid fa-vector-square"></i>
+            </button>
+            <div class="map-selection-panel" id="map-selection-panel">
+                <div class="map-selection-title"><i class="fa-solid fa-draw-polygon"></i> Выделение области</div>
+                <div class="map-selection-hint">Зажмите левую кнопку мыши и протяните рамку по карте. Все объекты внутри будут подсчитаны.</div>
+                <div class="map-selection-stats">
+                    <div class="map-selection-item"><span class="k">Объектов</span><span class="v" id="area-count">0</span></div>
+                    <div class="map-selection-item"><span class="k">Дома / бизнесы</span><span class="v" id="area-types">0 / 0</span></div>
+                    <div class="map-selection-item full area-total-card">
+                        <span class="k">Общая гос. стоимость</span>
+                        <div class="area-price-table">
+                            <div class="area-price-row"><span>ГОСС:</span><strong id="area-virt">Неизвестно</strong></div>
+                            <div class="area-price-row"><span>АЗ:</span><strong id="area-az">Неизвестно</strong></div>
+                            <div class="area-price-row"><span>РУБЛИ:</span><strong id="area-rub">Неизвестно</strong></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="map-selection-regions" id="area-regions">Районы: —</div>
+                <button class="map-selection-clear" id="area-clear" type="button">Очистить область</button>
+            </div>
+        </div>
+
+        <div id="map-loading" class="map-state-overlay">
+            <div class="loader-ring"></div>
+            <p>Загрузка объектов карты...</p>
+        </div>
+        <div id="map-error" class="map-state-overlay" style="display:none;">
+            <i class="fa-solid fa-triangle-exclamation" style="font-size: 32px; color: var(--color-auction);"></i>
+            <p>Не удалось загрузить данные объектов.</p>
+            <button class="retry-btn" id="retry-btn">Повторить попытку</button>
+        </div>
+        <div id="toast-container"></div>
+    </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="./gov_prices.js"></script>
+<script>
+    
+    const map = L.map('map', {
+        crs: L.CRS.Simple,
+        minZoom: -3,
+        maxZoom: 2,
+        zoomSnap: 0.5,
+        attributionControl: false
+    });
+
+    const bounds = [[-3000, -3000], [3000, 3000]];
+    L.imageOverlay('./map.jpg', bounds).addTo(map);
+    map.fitBounds(bounds);
+
+    let allProperties = [];
+    let markersLayer = L.layerGroup().addTo(map);
+    let lastShownItems = [];
+    let selectedCategories = new Set();
+    let showFavoritesOnly = false;
+        let areaSelectionMode = false;
+    let areaSelecting = false;
+    let areaStartPoint = null;
+    let areaRect = null;
+    let areaSelectedKeys = new Set();
+
+    function gameToMapCoords(x, y) {
+        let mapX = Math.max(-2950, Math.min(2950, x));
+        let mapY = Math.max(-2950, Math.min(2950, y));
+        return [mapY, mapX];
+    }
+
+    const BUSINESS_CATEGORIES = [
+        { id: 'gas',         label: 'АЗС / магазины механики', icon: 'fa-gas-pump',           color: '#f97316', names: ['АЗС/Магазин механики'] },
+        { id: 'hotel',       label: 'Отели',                   icon: 'fa-bed',                color: '#a855f7', names: ['Отель'] },
+        { id: 'shop247',     label: 'Магазины 24/7',            icon: 'fa-cart-shopping',      color: '#06b6d4', names: ['Магазин 24/7'] },
+        { id: 'snack',       label: 'Закусочные',               icon: 'fa-burger',             color: '#ec4899', names: ['Закусочная'] },
+        { id: 'streetfood',  label: 'Ларьки с уличной едой',   icon: 'fa-store',              color: '#f472b6', names: ['Ларек с уличной едой'] },
+        { id: 'bars',        label: 'Бары',                     icon: 'fa-martini-glass-citrus', color: '#fb7185', names: ['Бар', 'Бар LUX'] },
+        { id: 'auto',        label: 'Автосалоны',               icon: 'fa-car',                color: '#3b82f6', names: ['Автосалон Luxe', 'Автосалон люкс', 'Автосалон средний', 'Автосалон эконом'] },
+        { id: 'autoservice', label: 'Автомастерские',           icon: 'fa-screwdriver-wrench', color: '#eab308', names: ['Body Shop', 'LS TUNNING', 'Автомастерская', 'Автомастерская FC'] },
+        { id: 'weapon',      label: 'Амуниция / тир',           icon: 'fa-gun',                color: '#dc2626', names: ['Амуниция/Тир'] },
+        { id: 'transport',   label: 'Аренда транспорта',        icon: 'fa-truck',              color: '#f59e0b', names: ['Аренда транспорта'] },
+        { id: 'pawnshop',    label: 'Ломбарды',                 icon: 'fa-coins',              color: '#22c55e', names: ['Ломбард'] },
+        { id: 'oil',         label: 'Нефтевышки',               icon: 'fa-oil-well',           color: '#8b5cf6', names: ['Нефтевышка'] },
+        { id: 'electric',    label: 'Электрокомпании',          icon: 'fa-bolt',               color: '#facc15', names: ['Электрокомпания'] },
+        { id: 'phone',       label: 'Телефонные коммуникации',  icon: 'fa-phone',              color: '#14b8a6', names: ['Телефонные коммуникации'] },
+        { id: 'advertising', label: 'Рекламные агентства',      icon: 'fa-bullhorn',           color: '#a855f7', names: ['Рекламное агентство ЛВ', 'Рекламное агентство ЛС', 'Рекламное агентство СФ'] },
+        { id: 'clothing',    label: 'Магазины одежды',          icon: 'fa-shirt',              color: '#ec4899', names: ['Магазин одежды'] },
+        { id: 'clothingfix', label: 'Мастерские одежды',        icon: 'fa-scissors',            color: '#f97316', names: ['Мастерская одежды'] },
+        { id: 'accessories', label: 'Магазины аксессуаров',    icon: 'fa-gem',                color: '#06b6d4', names: ['Магазин аксессуаров'] },
+        { id: 'videocards',  label: 'Магазины видеокарт',       icon: 'fa-microchip',           color: '#38bdf8', names: ['Магазин видеокарт'] },
+        { id: 'fishing',    label: 'Рыболовные магазины',       icon: 'fa-fish',               color: '#0ea5e9', names: ['Рыболовный магазин'] },
+        { id: 'secondhand', label: 'Секонд-хенд',              icon: 'fa-shirt',              color: '#64748b', names: ['Секонд хенд'] },
+        { id: 'warehouse',  label: 'Склады дальнобойщиков',     icon: 'fa-warehouse',          color: '#64748b', names: ['Склад Дальнобойщиков'] },
+        { id: 'casino',     label: 'Клубы и спорт',             icon: 'fa-dice',               color: '#facc15', names: ['Sport Club LV', 'Спортивная площадка'] },
+        { id: 'stripclub',  label: 'Стриптиз-клубы',            icon: 'fa-champagne-glasses',  color: '#f43f5e', names: ['Стриптиз Клуб'] },
+        { id: 'dance',      label: 'Школы танцев',              icon: 'fa-music',              color: '#c084fc', names: ['Школа танцев'] },
+        { id: 'betting',    label: 'Букмекерские компании',     icon: 'fa-ticket',             color: '#ef4444', names: ['Букмекерская компания'] },
+        { id: 'cinema',     label: 'Кинотеатры',                icon: 'fa-film',               color: '#818cf8', names: ['Кинотеатр AZMAX'] },
+        { id: 'lottery',    label: 'Лотереи',                   icon: 'fa-clover',             color: '#22c55e', names: ['Лотерейная'] },
+        { id: 'farm',       label: 'Фермы',                    icon: 'fa-tractor',            color: '#84cc16', names: ['Городская ферма'] },
+        { id: 'enterprise', label: 'Предприятия',              icon: 'fa-industry',            color: '#94a3b8', names: ['Предприятие'] },
+        { id: 'testdrive',  label: 'Тест-драйв',                icon: 'fa-road',               color: '#64748b', names: ['Тест-Драйв'] },
+        { id: 'elixir',     label: 'Эликсир Мастер',            icon: 'fa-flask',              color: '#a855f7', names: ['Эликсир Мастер'] },
+        { id: 'singletons',  label: 'Бизнесы-одиночки',            icon: 'fa-shop',               color: '#94a3b8', names: [] }
+    ];
+    function detectCategoryId(item) {
+        const explicit = item.businessType || item.category || item.subtype || item.bizType || item.biz_type;
+        const explicitNormalized = explicit ? String(explicit).trim().toLowerCase() : '';
+
+        if (explicitNormalized) {
+            const foundById = BUSINESS_CATEGORIES.find(c => c.id.toLowerCase() === explicitNormalized);
+            if (foundById) return foundById.id;
+            const foundByLabel = BUSINESS_CATEGORIES.find(c => c.label.toLowerCase() === explicitNormalized);
+            if (foundByLabel) return foundByLabel.id;
+        }
+
+        const rawName = String(item.name || '').trim();
+        const normalizedName = rawName.toLowerCase();
+        const foundByName = BUSINESS_CATEGORIES.find(c => c.names.some(name => name.toLowerCase() === normalizedName));
+        if (foundByName) return foundByName.id;
+        const dynamicId = 'name_' + normalizedName.replace(/[^a-zа-яё0-9]+/gi, '_').replace(/^_|_$/g, '');
+        if (rawName) {
+            if (!BUSINESS_CATEGORIES.some(c => c.id === dynamicId)) {
+                BUSINESS_CATEGORIES.push({
+                    id: dynamicId,
+                    label: rawName,
+                    icon: 'fa-shop',
+                    color: '#94a3b8',
+                    names: [rawName]
+                });
+            }
+            return dynamicId;
+        }
+
+        return null;
+    }
+
+    function computeCategoryCounts() {
+        const rawCounts = {};
+        allProperties.forEach(item => {
+            if (item.type !== 'business') return;
+            const rawCatId = detectCategoryId(item);
+            item._rawCatId = rawCatId;
+            if (rawCatId) rawCounts[rawCatId] = (rawCounts[rawCatId] || 0) + 1;
+        });
+
+        const counts = {};
+        BUSINESS_CATEGORIES.forEach(c => counts[c.id] = 0);
+        allProperties.forEach(item => {
+            if (item.type !== 'business' || !item._rawCatId) return;
+            if (rawCounts[item._rawCatId] === 1) {
+                item._catId = 'singletons';
+            } else {
+                item._catId = item._rawCatId;
+            }
+            counts[item._catId] = (counts[item._catId] || 0) + 1;
+        });
+
+        return counts;
+    }
+
+    function buildCategoryFilterUI(counts) {
+        const container = document.getElementById('category-grid');
+        container.innerHTML = '';
+        const activeCats = BUSINESS_CATEGORIES.filter(c => counts[c.id] > 0 && !(c.id.startsWith('name_') && c.id !== 'singletons')).sort((a, b) => {
+            const byCount = counts[b.id] - counts[a.id];
+            return byCount !== 0 ? byCount : a.label.localeCompare(b.label, 'ru');
+        });
+
+        if (activeCats.length === 0) {
+            document.getElementById('category-section').style.display = 'none';
+            return;
+        }
+
+        activeCats.forEach(cat => {
+            const chip = document.createElement('label');
+            chip.className = 'cat-chip';
+            chip.innerHTML = `
+                <input type="checkbox" value="${cat.id}">
+                <span class="cat-chip-icon" style="color:${cat.color}"><i class="fa-solid ${cat.icon}"></i></span>
+                <span class="cat-chip-label">${escapeHtml(cat.label)}</span>
+                <span class="cat-chip-count">${counts[cat.id]}</span>
+            `;
+            const input = chip.querySelector('input');
+            input.addEventListener('change', () => {
+                if (input.checked) selectedCategories.add(cat.id);
+                else selectedCategories.delete(cat.id);
+                chip.classList.toggle('active', input.checked);
+                syncTypeFilterWithCategories();
+                updateCategoryBadge();
+                renderMarkers();
+            });
+            container.appendChild(chip);
+        });
+    }
+
+    function setCategorySelection(ids) {
+        selectedCategories = new Set(ids);
+        document.querySelectorAll('.cat-chip input').forEach(cb => {
+            cb.checked = selectedCategories.has(cb.value);
+            cb.closest('.cat-chip').classList.toggle('active', cb.checked);
+        });
+        syncTypeFilterWithCategories();
+        updateCategoryBadge();
+    }
+
+    function syncTypeFilterWithCategories() {
+        const typeFilterEl = document.getElementById('type-filter');
+        if (selectedCategories.size > 0) {
+            if (!typeFilterEl.disabled) typeFilterEl.dataset.prevValue = typeFilterEl.value;
+            typeFilterEl.value = 'business';
+            typeFilterEl.disabled = true;
+        } else {
+            typeFilterEl.disabled = false;
+            if (typeFilterEl.dataset.prevValue) {
+                typeFilterEl.value = typeFilterEl.dataset.prevValue;
+                delete typeFilterEl.dataset.prevValue;
+            }
+        }
+    }
+
+    function updateCategoryBadge() {
+        const badge = document.getElementById('category-badge');
+        if (selectedCategories.size > 0) {
+            badge.textContent = selectedCategories.size;
+            badge.style.display = 'inline-block';
+        } else {
+            badge.style.display = 'none';
+        }
+    }
+
+    let favorites = new Set();
+    try { favorites = new Set(JSON.parse(localStorage.getItem('arizonaHomeFavorites') || '[]')); }
+    catch (e) { favorites = new Set(); }
+
+    function toggleFavorite(id) {
+        if (favorites.has(id)) {
+            favorites.delete(id);
+            showToast('Удалено из избранного', 'fa-star-half-stroke');
+        } else {
+            favorites.add(id);
+            showToast('Добавлено в избранное', 'fa-star');
+        }
+        localStorage.setItem('arizonaHomeFavorites', JSON.stringify([...favorites]));
+        updateFavoritesBadge();
+    }
+
+    function updateFavoritesBadge() {
+        const badge = document.getElementById('fav-badge');
+        if (favorites.size > 0) { badge.textContent = favorites.size; badge.classList.add('show'); }
+        else { badge.classList.remove('show'); }
+    }
+
+    function showToast(message, icon) {
+        icon = icon || 'fa-circle-check';
+        const container = document.getElementById('toast-container');
+        const toast = document.createElement('div');
+        toast.className = 'toast';
+        toast.innerHTML = `<i class="fa-solid ${icon}"></i><span>${escapeHtml(message)}</span>`;
+        container.appendChild(toast);
+        requestAnimationFrame(() => toast.classList.add('show'));
+        setTimeout(() => {
+            toast.classList.remove('show');
+            setTimeout(() => toast.remove(), 300);
+        }, 2400);
+    }
+
+    function copyText(text, successMsg) {
+        navigator.clipboard.writeText(text)
+            .then(() => showToast(successMsg, 'fa-copy'))
+            .catch(() => showToast('Не удалось скопировать', 'fa-triangle-exclamation'));
+    }
+
+    function escapeHtml(str) {
+        if (str === null || str === undefined) return '';
+        return String(str)
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&#039;');
+    }
+
+    function setLoadingState(state) {
+        document.getElementById('map-loading').style.display = state === 'loading' ? 'flex' : 'none';
+        document.getElementById('map-error').style.display = state === 'error' ? 'flex' : 'none';
+    }
+
+    const SERVER_FALLBACK_NAMES = {"1": "Phoenix", "2": "Tucson", "3": "Scottdale", "4": "Chandler", "5": "Brainburg", "6": "Saint-Rose", "7": "Mesa", "8": "Red-Rock", "9": "Yuma", "10": "Surprise", "11": "Prescott", "12": "Glendale", "13": "Kingman", "14": "Winslow", "15": "Payson", "16": "Gilbert", "17": "Show Low", "18": "Casa-Grande", "19": "Page", "20": "Sun-City", "21": "Queen-Creek", "22": "Sedona", "23": "Holiday", "24": "Wednesday", "25": "Yava", "26": "Faraway", "27": "Bumble Bee", "28": "Christmas", "29": "Mirage", "30": "Love", "31": "Drake", "32": "Space", "33": "Home"};
+    let currentServerId = Number(localStorage.getItem('arizonaHomeServerId') || 33);
+
+    function populateServerSelect() {
+        const select = document.getElementById('server-select');
+        select.innerHTML = Object.entries(SERVER_FALLBACK_NAMES).map(([id, name]) =>
+            `<option value="${id}">#${id} — ${escapeHtml(name)}</option>`
+        ).join('');
+        select.value = String(currentServerId);
+    }
+
+    function updateServerBrand() {
+        const name = SERVER_FALLBACK_NAMES[currentServerId] || 'Home';
+        document.getElementById('server-caption').textContent = `Сервер #${currentServerId} • ${name}`;
+        document.title = `Кадастр Arizona RP — #${currentServerId} ${name}`;
+    }
+
+    function loadData(serverId = currentServerId) {
+        currentServerId = Number(serverId);
+        localStorage.setItem('arizonaHomeServerId', String(currentServerId));
+        populateServerSelect();
+        updateServerBrand();
+        setLoadingState('loading');
+        selectedCategories.clear();
+        document.querySelectorAll('.cat-chip input').forEach(cb => { cb.checked = false; cb.closest('.cat-chip').classList.remove('active'); });
+        document.getElementById('category-badge').style.display = 'none';
+        clearAreaSelection();
+        const filename = `./properties/properties_public_${currentServerId}.json`;
+        fetch(filename).then(res => {
+            if (!res.ok) throw new Error('HTTP ' + res.status + ': ' + filename);
+            return res.json();
+        })
+            .then(data => {
+                allProperties = data;
+                document.getElementById('stat-total').innerText = data.length;
+                const counts = computeCategoryCounts();
+                buildCategoryFilterUI(counts);
+                renderMarkers();
+                if (document.getElementById('server-calc-panel')?.classList.contains('open')) calculateWholeServer();
+                setLoadingState('done');
+                setTimeout(() => map.invalidateSize(), 200);
+            })
+            .catch(err => {
+                console.error('Ошибка загрузки данных:', err);
+                setLoadingState('error');
+            });
+    }
+
+    function calculateWholeServer() {
+        const objects = allProperties.length;
+        let houses = 0, businesses = 0, known = 0, unknown = 0;
+        let totalVirt = 0;
+
+        allProperties.forEach(item => {
+            if (item.type === 'house') houses++;
+            else if (item.type === 'business') businesses++;
+
+            const gov = getGovPriceForItem(item);
+            if (gov && Number.isFinite(Number(gov.amount)) && Number(gov.amount) > 0) {
+                known++;
+                totalVirt += gov.currency === 'az'
+                    ? Number(gov.amount) * AZ_TO_VIRT
+                    : Number(gov.amount);
+            } else {
+                unknown++;
+            }
+        });
+
+        const totalAz = totalVirt / AZ_TO_VIRT;
+        const totalRub = totalVirt / VIRT_TO_RUB;
+
+        document.getElementById('server-calc-objects').textContent = objects.toLocaleString('ru-RU');
+        document.getElementById('server-calc-houses').textContent = houses.toLocaleString('ru-RU');
+        document.getElementById('server-calc-businesses').textContent = businesses.toLocaleString('ru-RU');
+        document.getElementById('server-calc-goss').textContent = '$' + Math.floor(totalVirt).toLocaleString('ru-RU');
+        document.getElementById('server-calc-az').textContent = Math.floor(totalAz).toLocaleString('ru-RU') + ' AZ';
+        document.getElementById('server-calc-rub').textContent = '≈ ' + Math.floor(totalRub).toLocaleString('ru-RU') + ' ₽';
+        document.getElementById('server-calc-note').textContent =
+            `Учтено по гос. цене: ${known.toLocaleString('ru-RU')} · без известной цены: ${unknown.toLocaleString('ru-RU')}`;
+    }
+
+    const serverCalcBtn = document.getElementById('server-calc-btn');
+    const serverCalcPanel = document.getElementById('server-calc-panel');
+    serverCalcBtn.addEventListener('click', () => {
+        const open = serverCalcPanel.classList.toggle('open');
+        serverCalcBtn.classList.toggle('open', open);
+        if (open) calculateWholeServer();
+    });
+
+    document.getElementById('retry-btn').addEventListener('click', loadData);
+
+    function itemMatchesTypeAndCategory(item) {
+        if (selectedCategories.size > 0) {
+            return item.type === 'business' && selectedCategories.has(item._catId || detectCategoryId(item));
+        }
+        const typeFilter = document.getElementById('type-filter').value;
+        if (typeFilter !== 'all' && item.type !== typeFilter) return false;
+        return true;
+    }
+
+    function getGovPriceForItem(item) {
+        if (typeof HOUSE_GOV_PRICES === 'undefined') return null;         if (item.type === 'house') {
+            const p = HOUSE_GOV_PRICES[item.id];
+            if (p) return { amount: p[0], currency: p[1], exact: true };
+            return null;
+        }
+        const byId = BUSINESS_GOV_PRICES_BY_ID[item.id];
+        if (byId) return { amount: byId[0], currency: byId[1], exact: true };
+        const byCat = BUSINESS_GOV_PRICE_BY_CATEGORY[item.name];
+        if (byCat) return { amount: byCat[0], currency: byCat[1], exact: false };
+        return null;
+    }
+
+    function formatGovAmount(amount, currency) {
+        const n = Number(amount);
+        if (!Number.isFinite(n) || n <= 0) return 'неизвестна';
+        const num = n.toLocaleString('ru-RU');
+        return currency === 'az' ? `${num} AZ` : `$${num}`;
+    }
+
+    function formatRub(value) {
+        const rounded = Math.floor(value);
+        return rounded.toLocaleString('ru-RU');
+    }
+
+    function buildRubPanelHtml(amount, currency) {
+        let virt, az, rub;
+        if (currency === 'az') {
+            az = amount;
+            virt = amount * AZ_TO_VIRT;
+            rub = amount / RUB_TO_AZ;
+        } else {
+            virt = amount;
+            az = amount / AZ_TO_VIRT;
+            rub = amount / VIRT_TO_RUB;
+        }
+        return `
+            <div class="rub-grid">
+                <div class="rub-cell"><span class="rub-key">ГОСС</span><span class="rub-val">${formatGovAmount(amount, currency)}</span></div>
+                <div class="rub-cell"><span class="rub-key">АЗ</span><span class="rub-val">${formatRub(az)} AZ</span></div>
+                <div class="rub-cell total"><span class="rub-key">РУБЛИ</span><span class="rub-val">≈ ${formatRub(rub)} ₽</span></div>
+            </div>
+        `;
+    }
+
+    function buildPopupHtml(item, cat, statusBadgeClass, isFav) {
+        const ownerDisplay = (item.owner && String(item.owner).trim() && String(item.owner).toLowerCase() !== 'none')
+            ? item.owner
+            : 'Государство';
+        const rawPrice = Number(item.price);
+        const priceRow = Number.isFinite(rawPrice) && rawPrice > 0
+            ? `<div class="popup-row"><span class="key">Цена:</span><span class="val">$${rawPrice.toLocaleString('ru-RU')}</span></div>`
+            : '';
+        const catTag = cat
+            ? `<span class="popup-cat-tag" style="color:${cat.color}; border-color:${cat.color}55; background:${cat.color}1a;"><i class="fa-solid ${cat.icon}"></i> ${escapeHtml(cat.label)}</span>`
+            : '';
+
+        const govPrice = getGovPriceForItem(item);
+        let govPriceRow = '';
+        let rubToggleHtml = '';
+        if (govPrice) {
+            const approxBadge = govPrice.exact
+                ? ''
+                : `<span class="popup-gov-approx" title="Точных данных по этому ID нет — показана ориентировочная цена по категории бизнеса">≈ по типу</span>`;
+            const govKnown = Number.isFinite(Number(govPrice.amount)) && Number(govPrice.amount) > 0;
+            govPriceRow = `
+                <div class="popup-row">
+                    <span class="key">Гос. цена:</span>
+                    <span class="val">${govKnown ? formatGovAmount(govPrice.amount, govPrice.currency) + approxBadge : 'неизвестно'}</span>
+                </div>
+            `;
+            if (govKnown) {
+                rubToggleHtml = `
+                    <button class="js-rub-btn popup-rub-btn" type="button" data-amount="${govPrice.amount}" data-currency="${govPrice.currency}">
+                        <i class="fa-solid fa-ruble-sign"></i> Посчитать в рублях <i class="fa-solid fa-chevron-down"></i>
+                    </button>
+                    <div class="popup-rub-panel"></div>
+                `;
+            }
+        }
+
+        return `
+            <div class="popup-box">
+                <div class="popup-header">
+                    <span class="popup-tag ${item.type === 'house' ? 'house' : 'biz'}">
+                        ${item.type === 'house' ? '🏠 Дом' : '💼 Бизнес'} #${item.id}
+                    </span>
+                    <button class="js-fav-btn popup-fav-btn ${isFav ? 'is-fav' : ''}" title="В избранное" type="button">
+                        <i class="fa-${isFav ? 'solid' : 'regular'} fa-star"></i>
+                    </button>
+                </div>
+                <div class="popup-title">${escapeHtml(item.name || 'Без названия')}</div>
+                ${catTag ? `<div class="popup-cat-row">${catTag}</div>` : ''}
+                <div class="popup-info">
+                    <div class="popup-row">
+                        <span class="key">Статус:</span>
+                        <span class="status-badge ${statusBadgeClass}">${escapeHtml(item.status)}</span>
+                    </div>
+                    <div class="popup-row">
+                        <span class="key">Владелец:</span>
+                        <span class="val">${escapeHtml(ownerDisplay)}</span>
+                    </div>
+                    ${priceRow}
+                    ${govPriceRow}
+                    <div class="popup-row">
+                        <span class="key">Координаты:</span>
+                        <span class="val mono">${item.x.toFixed(0)}, ${item.y.toFixed(0)}</span>
+                    </div>
+                </div>
+                ${rubToggleHtml}
+                <button class="js-copy-btn popup-copy-btn" type="button">
+                    <i class="fa-solid fa-copy"></i> Скопировать координаты
+                </button>
+            </div>
+        `;
+    }
+
+    function renderMarkers() {
+        markersLayer.clearLayers();
+        lastShownItems = [];
+
+        const query = document.getElementById('main-search').value.toLowerCase().trim();
+        const statusFilter = document.getElementById('status-filter').value;
+
+        let shownCount = 0, freeCount = 0, auctionCount = 0, houseCount = 0, businessCount = 0;
+        const sortedProperties = [...allProperties].sort((a, b) => {
+            const priority = { 'Занято': 1, 'Свободно': 2, 'Аукцион': 3 };
+            return (priority[a.status] || 0) - (priority[b.status] || 0);
+        });
+
+        sortedProperties.forEach(item => {
+            if (!itemMatchesTypeAndCategory(item)) return;
+            if (statusFilter !== 'all' && item.status !== statusFilter) return;
+            if (showFavoritesOnly && !favorites.has(item.id)) return;
+
+            if (query) {
+                const matchId = item.id.toString() === query;
+                const matchOwner = (item.owner || '').toLowerCase().includes(query);
+                const matchName = (item.name || '').toLowerCase().includes(query);
+                if (!matchId && !matchOwner && !matchName) return;
+            }
+            if (item.status === 'Свободно' && item.type === 'house') freeCount++;
+            if (item.status === 'Аукцион') auctionCount++;
+            if (item.type === 'house') houseCount++;
+            if (item.type === 'business') businessCount++;
+
+            const [lat, lng] = gameToMapCoords(item.x, item.y);
+
+            let color = item.type === 'house' ? '#38bdf8' : '#facc15';
+            if (item.status === 'Свободно') color = '#22c55e';
+            if (item.status === 'Аукцион') color = '#ef4444';
+            if (item.status === 'Занято' && item.type === 'house') color = '#64748b';
+
+            const isFav = favorites.has(item.id);
+            const catId = item.type === 'business' ? (item._rawCatId || item._catId || detectCategoryId(item)) : null;
+            const cat = catId ? BUSINESS_CATEGORIES.find(c => c.id === catId) : null;
+
+            const isSelected = areaSelectedKeys.has(selectionKey(item));
+            const marker = L.circleMarker([lat, lng], {
+                radius: isSelected ? 7 : (item.status === 'Свободно' ? 5 : 4),
+                fillColor: isSelected ? '#ffffff' : color,
+                color: isSelected ? '#38bdf8' : (isFav ? '#fbbf24' : '#000000'),
+                weight: isSelected ? 3 : (isFav ? 2.4 : 0.8),
+                opacity: 1,
+                fillOpacity: 0.9,
+                className: item.status === 'Аукцион' ? 'marker-pulse-auction' : ''
+            });
+
+            let statusBadgeClass = 'busy';
+            if (item.status === 'Свободно') statusBadgeClass = 'free';
+            if (item.status === 'Аукцион') statusBadgeClass = 'auction';
+
+            marker.bindPopup(buildPopupHtml(item, cat, statusBadgeClass, isFav));
+
+            marker.on('popupopen', (e) => {
+                const el = e.popup.getElement();
+                const starBtn = el.querySelector('.js-fav-btn');
+                if (starBtn) {
+                    starBtn.addEventListener('click', () => {
+                        toggleFavorite(item.id);
+                        const nowFav = favorites.has(item.id);
+                        starBtn.classList.toggle('is-fav', nowFav);
+                        starBtn.innerHTML = `<i class="fa-${nowFav ? 'solid' : 'regular'} fa-star"></i>`;
+                        marker.setStyle({ color: nowFav ? '#fbbf24' : '#000000', weight: nowFav ? 2.4 : 0.8 });
+                        if (showFavoritesOnly) renderMarkers();
+                    });
+                }
+                const copyBtn = el.querySelector('.js-copy-btn');
+                if (copyBtn) {
+                    copyBtn.addEventListener('click', () => {
+                        copyText(`${item.x.toFixed(0)}, ${item.y.toFixed(0)}`, 'Координаты скопированы');
+                    });
+                }
+                const rubBtn = el.querySelector('.js-rub-btn');
+                if (rubBtn) {
+                    const panel = el.querySelector('.popup-rub-panel');
+                    rubBtn.addEventListener('click', () => {
+                        const isOpen = panel.classList.toggle('open');
+                        rubBtn.classList.toggle('open', isOpen);
+                        if (isOpen && !panel.dataset.filled) {
+                            const amount = Number(rubBtn.dataset.amount);
+                            const currency = rubBtn.dataset.currency;
+                            panel.innerHTML = buildRubPanelHtml(amount, currency);
+                            panel.dataset.filled = '1';
+                        }
+                    });
+                }
+            });
+            marker.on('click', (e) => {
+                if (areaSelecting || areaSelectionMode) {
+                    if (e.originalEvent) L.DomEvent.stopPropagation(e.originalEvent);
+                    marker.closePopup();
+                }
+            });
+
+            markersLayer.addLayer(marker);
+            lastShownItems.push({ item, marker });
+            shownCount++;
+        });
+
+        document.getElementById('stat-shown').innerText = shownCount;
+        document.getElementById('stat-free').innerText = freeCount;
+        document.getElementById('stat-auction').innerText = auctionCount;
+        document.getElementById('stat-houses').innerText = houseCount;
+        document.getElementById('stat-business').innerText = businessCount;
+    }
+
+    function selectionKey(itemOrId, type) {
+        if (typeof itemOrId === 'object') return `${itemOrId.type}:${itemOrId.id}`;
+        return `${type || 'object'}:${itemOrId}`;
+    }
+
+    function getSelectionPrice(item) {
+        const p = getGovPriceForItem(item);
+        if (!p || !Number.isFinite(Number(p.amount)) || Number(p.amount) <= 0) return null;
+        const virtual = p.currency === 'az' ? Number(p.amount) * AZ_TO_VIRT : Number(p.amount);
+        return { ...p, virtual, rub: virtual / VIRT_TO_RUB };
+    }
+
+    function getAreaItems() {
+        if (!areaRect) return [];
+        const bounds = areaRect.getBounds();
+        return allProperties.filter(item => {
+            if (!item || item.x === undefined || item.y === undefined) return false;
+            const [lat, lng] = gameToMapCoords(Number(item.x), Number(item.y));
+            return bounds.contains([lat, lng]);
+        });
+    }
+
+    function refreshAreaUI(items) {
+        const panel = document.getElementById('map-selection-panel');
+        const countEl = document.getElementById('area-count');
+        const typesEl = document.getElementById('area-types');
+        const virtEl = document.getElementById('area-virt');
+        const azEl = document.getElementById('area-az');
+        const rubEl = document.getElementById('area-rub');
+        const regionsEl = document.getElementById('area-regions');
+        const houses = items.filter(i => i.type === 'house').length;
+        const businesses = items.filter(i => i.type === 'business').length;
+        const prices = items.map(getSelectionPrice).filter(Boolean);
+        const totalVirt = prices.reduce((sum, p) => sum + p.virtual, 0);
+        const missing = items.length - prices.length;
+        const regions = [...new Set(items.map(i => i.district).filter(Boolean))];
+
+        countEl.textContent = items.length.toLocaleString('ru-RU');
+        typesEl.textContent = `${houses.toLocaleString('ru-RU')} / ${businesses.toLocaleString('ru-RU')}`;
+        if (totalVirt > 0) {
+            virtEl.textContent = `$${totalVirt.toLocaleString('ru-RU')}`;
+            azEl.textContent = `${Math.floor(totalVirt / AZ_TO_VIRT).toLocaleString('ru-RU')} AZ`;
+            rubEl.textContent = `≈ ${Math.floor(totalVirt / VIRT_TO_RUB).toLocaleString('ru-RU')} ₽`;
+        } else {
+            virtEl.textContent = 'Неизвестно';
+            azEl.textContent = 'Неизвестно';
+            rubEl.textContent = 'Неизвестно';
+        }
+        regionsEl.innerHTML = `Районы: ${regions.length ? regions.map(escapeHtml).join(', ') : '—'}${missing ? ` · без гос. цены: ${missing}` : ''}`;
+        panel.classList.toggle('show', areaSelectionMode || items.length > 0);
+    }
+
+    function clearAreaSelection() {
+        areaSelectedKeys = new Set();
+        if (areaRect) { map.removeLayer(areaRect); areaRect = null; }
+        refreshAreaUI([]);
+        renderMarkers();
+    }
+
+    function updateAreaRectangle(latlng) {
+        if (!areaStartPoint || !areaRect) return;
+        areaRect.setBounds(L.latLngBounds(areaStartPoint, latlng));
+    }
+
+    function finishAreaSelection(endLatLng) {
+        if (!areaSelecting) return;
+        areaSelecting = false;
+        if (endLatLng) updateAreaRectangle(endLatLng);
+        map.dragging.enable();
+        const items = getAreaItems();
+        areaSelectedKeys = new Set(items.map(selectionKey));
+        refreshAreaUI(items);
+        renderMarkers();
+        areaStartPoint = null;
+        if (items.length) showToast(`${items.length} объектов выделено`, 'fa-vector-square');
+        else showToast('В области объектов не найдено', 'fa-triangle-exclamation');
+    }
+
+    function setAreaSelectionMode(active) {
+        areaSelectionMode = active;
+        const btn = document.getElementById('lasso-toggle');
+        btn.classList.toggle('active', active);
+        document.getElementById('map-selection-panel').classList.toggle('show', active || areaSelectedKeys.size > 0);
+        btn.title = active ? 'Выключить выделение области' : 'Выделить область';
+        if (!active && areaSelecting) {
+            areaSelecting = false;
+            areaStartPoint = null;
+            map.dragging.enable();
+            if (areaRect) { map.removeLayer(areaRect); areaRect = null; }
+        }
+        showToast(active ? 'Зажмите и протяните рамку' : 'Выделение области выключено', active ? 'fa-draw-polygon' : 'fa-arrow-pointer');
+    }
+
+    map.on('mousedown', (e) => {
+        if (!areaSelectionMode || e.originalEvent.button !== 0) return;
+        areaSelecting = true;
+        areaStartPoint = e.latlng;
+        map.dragging.disable();
+        if (areaRect) map.removeLayer(areaRect);
+        areaRect = L.rectangle(L.latLngBounds(e.latlng, e.latlng), {
+            className:'selection-rect', color:'#38bdf8', weight:2, fillColor:'#38bdf8', fillOpacity:.10,
+            dashArray:'7 6', interactive:false
+        }).addTo(map);
+        L.DomEvent.stopPropagation(e.originalEvent);
+        L.DomEvent.preventDefault(e.originalEvent);
+    });
+
+    map.on('mousemove', (e) => {
+        if (!areaSelecting) return;
+        updateAreaRectangle(e.latlng);
+        L.DomEvent.stopPropagation(e.originalEvent);
+    });
+
+    map.on('mouseup', (e) => {
+        if (!areaSelecting) return;
+        L.DomEvent.stopPropagation(e.originalEvent);
+        finishAreaSelection(e.latlng);
+    });
+
+    map.on('mouseleave', () => {
+        if (areaSelecting) return;
+    });
+
+    const searchInput = document.getElementById('main-search');
+    const clearBtn = document.getElementById('search-clear');
+
+    function updateClearBtnVisibility() { clearBtn.classList.toggle('show', searchInput.value.length > 0); }
+
+    searchInput.addEventListener('input', () => { updateClearBtnVisibility(); renderMarkers(); });
+    searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' && lastShownItems.length > 0) {
+            const first = lastShownItems[0];
+            const [lat, lng] = gameToMapCoords(first.item.x, first.item.y);
+            map.flyTo([lat, lng], Math.max(map.getZoom(), 0), { duration: 0.8 });
+            setTimeout(() => first.marker.openPopup(), 420);
+        }
+    });
+    clearBtn.addEventListener('click', () => {
+        searchInput.value = '';
+        updateClearBtnVisibility();
+        renderMarkers();
+        searchInput.focus();
+    });
+
+    document.getElementById('type-filter').addEventListener('change', () => { renderMarkers(); });
+    document.getElementById('status-filter').addEventListener('change', () => { renderMarkers(); });
+
+    document.getElementById('lasso-toggle').addEventListener('click', () => setAreaSelectionMode(!areaSelectionMode));
+    document.getElementById('area-clear').addEventListener('click', () => {
+        clearAreaSelection();
+        setAreaSelectionMode(false);
+    });
+
+    populateServerSelect();
+    updateServerBrand();
+    document.getElementById('server-select').addEventListener('change', (e) => {
+        searchInput.value = '';
+        updateClearBtnVisibility();
+        document.getElementById('status-filter').value = 'all';
+        document.getElementById('type-filter').value = 'all';
+        document.getElementById('type-filter').disabled = false;
+        if (showFavoritesOnly) { showFavoritesOnly = false; favBtn.classList.remove('active'); }
+        loadData(Number(e.target.value));
+        showToast(`Загружается сервер #${e.target.value}`, 'fa-server');
+    });
+
+    const favBtn = document.getElementById('favorites-toggle');
+    favBtn.addEventListener('click', () => {
+        showFavoritesOnly = !showFavoritesOnly;
+        favBtn.classList.toggle('active', showFavoritesOnly);
+        renderMarkers();
+    });
+
+    document.getElementById('reset-filters').addEventListener('click', () => {
+        searchInput.value = '';
+        updateClearBtnVisibility();
+        document.getElementById('status-filter').value = 'all';
+        setCategorySelection([]);
+        const typeFilterEl = document.getElementById('type-filter');
+        typeFilterEl.disabled = false;
+        typeFilterEl.value = 'all';
+        delete typeFilterEl.dataset.prevValue;
+        if (showFavoritesOnly) { showFavoritesOnly = false; favBtn.classList.remove('active'); }
+        clearAreaSelection();
+        renderMarkers();
+        showToast('Фильтры сброшены', 'fa-arrows-rotate');
+    });
+
+    document.getElementById('cat-select-all').addEventListener('click', () => {
+        const allIds = Array.from(document.querySelectorAll('.cat-chip input')).map(cb => cb.value);
+        setCategorySelection(allIds);
+        renderMarkers();
+    });
+    document.getElementById('cat-clear-all').addEventListener('click', () => {
+        setCategorySelection([]);
+        renderMarkers();
+    });
+
+    const categoryHeader = document.getElementById('category-header');
+    const categoryBody = document.getElementById('category-body');
+    categoryHeader.addEventListener('click', () => {
+        categoryHeader.classList.toggle('open');
+        categoryBody.classList.toggle('open');
+    });
+
+    document.addEventListener('keydown', (e) => {
+        const tag = document.activeElement.tagName;
+        if (e.key === '/' && tag !== 'INPUT' && tag !== 'SELECT' && tag !== 'TEXTAREA') {
+            e.preventDefault();
+            searchInput.focus();
+        } else if (e.key === 'Escape' && document.activeElement === searchInput) {
+            searchInput.blur();
+        }
+    });
+
+    const sidebar = document.getElementById('sidebar');
+    const toggleBtn = document.getElementById('toggle-sidebar');
+    const toggleIcon = document.getElementById('toggle-icon');
+    const backdrop = document.getElementById('sidebar-backdrop');
+
+    function setSidebarCollapsed(collapsed, persist) {
+        if (persist === undefined) persist = true;
+        sidebar.classList.toggle('collapsed', collapsed);
+        toggleIcon.className = collapsed ? 'fa-solid fa-chevron-right' : 'fa-solid fa-chevron-left';
+        if (persist) localStorage.setItem('arizonaHomeSidebarCollapsed', collapsed ? '1' : '0');
+        const isMobile = window.innerWidth <= 768;
+        backdrop.classList.toggle('visible', isMobile && !collapsed);
+        setTimeout(() => map.invalidateSize(), 300);
+    }
+
+    const storedCollapsed = localStorage.getItem('arizonaHomeSidebarCollapsed');
+    const initialCollapsed = storedCollapsed !== null ? storedCollapsed === '1' : window.innerWidth <= 768;
+    setSidebarCollapsed(initialCollapsed, false);
+
+    toggleBtn.addEventListener('click', () => setSidebarCollapsed(!sidebar.classList.contains('collapsed')));
+    backdrop.addEventListener('click', () => setSidebarCollapsed(true));
+    window.addEventListener('resize', () => map.invalidateSize());
+
+    updateFavoritesBadge();
+    refreshAreaUI([]);
+    const welcomeOverlay = document.getElementById('welcome-overlay');
+    document.getElementById('welcome-enter').addEventListener('click', () => welcomeOverlay.classList.add('hidden'));
+    loadData(currentServerId);
+</script>
+</body>
+</html>
+
+<style>
+
+        html, body {
+            width:100%;
+            height:100%;
+            margin:0;
+            padding:0;
+            background:#061426 !important;
+            overflow:hidden;
+        }
+        #app, .app, .map-wrap, #map {
+            box-sizing:border-box;
+        }
+        #app {
+            width:100vw;
+            height:100vh;
+            min-height:100vh;
+            margin:0;
+            padding:0;
+            background:#061426 !important;
+        }
+        #map {
+            position:fixed !important;
+            inset:0 !important;
+            width:100vw !important;
+            height:100vh !important;
+            min-height:100vh !important;
+            margin:0 !important;
+            padding:0 !important;
+            border:0 !important;
+            border-radius:0 !important;
+            box-shadow:none !important;
+            background:#061426 !important;
+        }
+        .map-container, .map-wrap, .map-area {
+            width:100% !important;
+            height:100% !important;
+            min-height:100% !important;
+            margin:0 !important;
+            padding:0 !important;
+            border:0 !important;
+            background:#061426 !important;
+        }
+        .leaflet-container {
+            width:100% !important;
+            height:100% !important;
+            background:#061426 !important;
+        }
+        .leaflet-tile-container,
+        .leaflet-map-pane {
+            background:#061426 !important;
+        }
+
+</style>
