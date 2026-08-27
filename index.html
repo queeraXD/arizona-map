@@ -136,10 +136,30 @@
         .search-wrapper .clear-btn {
             position: absolute; right: 8px; top: 50%; transform: translateY(-50%);
             background: none; border: none; color: var(--text-muted); cursor: pointer;
-            padding: 6px; display: none; border-radius: 6px; line-height: 0;
+            padding: 6px; display: none; border-radius: 6px; line-height: 0; z-index: 2;
         }
         .search-wrapper .clear-btn.show { display: block; }
         .search-wrapper .clear-btn:hover { color: var(--text-main); background: rgba(255,255,255,0.06); }
+
+        .search-nav {
+            position: absolute; right: 34px; top: 50%; transform: translateY(-50%);
+            display: none; align-items: center; gap: 1px;
+            padding: 3px 3px 3px 9px; border-radius: 8px;
+            background: rgba(255,255,255,.04); border: 1px solid var(--border-color);
+        }
+        .search-nav.show { display: flex; }
+        .search-nav-count {
+            font: 700 10px/1 'JetBrains Mono', monospace; color: var(--text-muted); white-space: nowrap;
+            min-width: 34px; text-align: center; margin-right: 2px;
+        }
+        .search-nav-count.no-match { color: #f87171; }
+        .search-nav-btn {
+            background: none; border: none; color: var(--text-muted); cursor: pointer; padding: 5px 6px;
+            border-radius: 5px; line-height: 0; font-size: 10px; transition: all .15s ease;
+        }
+        .search-nav-btn:hover:not(:disabled) { color: var(--text-main); background: rgba(255,255,255,.08); }
+        .search-nav-btn:disabled { opacity: .3; cursor: not-allowed; }
+        .search-wrapper.has-nav #main-search { padding-right: 126px; }
 
         input, select {
             width: 100%; padding: 12px 14px 12px 40px; background: rgba(0, 0, 0, 0.4);
@@ -386,11 +406,8 @@
         }
         .server-calc-note { margin-top:7px; color:#7187a6; font-size:8.5px; line-height:1.3; text-align:center; }
 
-        
         :root { color-scheme: dark; }
-        select, option, input, textarea, button {
-            color-scheme: dark;
-        }
+        select, option, input, textarea, button { color-scheme: dark; }
         .server-calc-panel, .server-calc-table, .area-price-table {
             box-shadow: inset 0 0 28px rgba(15, 53, 94, .12);
         }
@@ -496,6 +513,57 @@
             .toggle-btn { position: fixed; top: 16px; left: 16px; right: auto; border-radius: 10px; border-left: 1px solid var(--border-color); }
             .stats-container { grid-template-columns: repeat(3, 1fr); }
         }
+
+        html, body {
+            width:100%;
+            height:100%;
+            margin:0;
+            padding:0;
+            background:#061426 !important;
+            overflow:hidden;
+        }
+        #app, .app, .map-wrap, #map {
+            box-sizing:border-box;
+        }
+        #app {
+            width:100vw;
+            height:100vh;
+            min-height:100vh;
+            margin:0;
+            padding:0;
+            background:#061426 !important;
+        }
+        #map {
+            position:fixed !important;
+            inset:0 !important;
+            width:100vw !important;
+            height:100vh !important;
+            min-height:100vh !important;
+            margin:0 !important;
+            padding:0 !important;
+            border:0 !important;
+            border-radius:0 !important;
+            box-shadow:none !important;
+            background:#061426 !important;
+        }
+        .map-container, .map-wrap, .map-area {
+            width:100% !important;
+            height:100% !important;
+            min-height:100% !important;
+            margin:0 !important;
+            padding:0 !important;
+            border:0 !important;
+            background:#061426 !important;
+        }
+        .leaflet-container {
+            width:100% !important;
+            height:100% !important;
+            background:#061426 !important;
+        }
+        .leaflet-tile-container,
+        .leaflet-map-pane {
+            background:#061426 !important;
+        }
     </style>
 </head>
 <body>
@@ -586,9 +654,14 @@
         <div class="controls">
             <div class="input-group">
                 <label>Поиск объекта</label>
-                <div class="search-wrapper">
+                <div class="search-wrapper" id="search-wrapper">
                     <i class="fa-solid fa-magnifying-glass"></i>
                     <input type="text" id="main-search" placeholder="ID, ник, название... ( / )">
+                    <div class="search-nav" id="search-nav">
+                        <span class="search-nav-count" id="search-nav-count">0/0</span>
+                        <button class="search-nav-btn" id="search-prev" type="button" title="Предыдущий результат"><i class="fa-solid fa-chevron-up"></i></button>
+                        <button class="search-nav-btn" id="search-next" type="button" title="Следующий результат"><i class="fa-solid fa-chevron-down"></i></button>
+                    </div>
                     <button class="clear-btn" id="search-clear" title="Очистить"><i class="fa-solid fa-xmark"></i></button>
                 </div>
             </div>
@@ -700,7 +773,6 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="./gov_prices.js"></script>
 <script>
-    
     const map = L.map('map', {
         crs: L.CRS.Simple,
         minZoom: -3,
@@ -716,9 +788,10 @@
     let allProperties = [];
     let markersLayer = L.layerGroup().addTo(map);
     let lastShownItems = [];
+    let currentSearchIndex = 0;
     let selectedCategories = new Set();
     let showFavoritesOnly = false;
-        let areaSelectionMode = false;
+    let areaSelectionMode = false;
     let areaSelecting = false;
     let areaStartPoint = null;
     let areaRect = null;
@@ -765,6 +838,7 @@
         { id: 'elixir',     label: 'Эликсир Мастер',            icon: 'fa-flask',              color: '#a855f7', names: ['Эликсир Мастер'] },
         { id: 'singletons',  label: 'Бизнесы-одиночки',            icon: 'fa-shop',               color: '#94a3b8', names: [] }
     ];
+
     function detectCategoryId(item) {
         const explicit = item.businessType || item.category || item.subtype || item.bizType || item.biz_type;
         const explicitNormalized = explicit ? String(explicit).trim().toLowerCase() : '';
@@ -1049,7 +1123,8 @@
     }
 
     function getGovPriceForItem(item) {
-        if (typeof HOUSE_GOV_PRICES === 'undefined') return null;         if (item.type === 'house') {
+        if (typeof HOUSE_GOV_PRICES === 'undefined') return null;
+        if (item.type === 'house') {
             const p = HOUSE_GOV_PRICES[item.id];
             if (p) return { amount: p[0], currency: p[1], exact: true };
             return null;
@@ -1165,6 +1240,49 @@
         `;
     }
 
+    function updateSearchNavUI() {
+        const query = document.getElementById('main-search').value.trim();
+        const wrapper = document.getElementById('search-wrapper');
+        const nav = document.getElementById('search-nav');
+        const countEl = document.getElementById('search-nav-count');
+        const prevBtn = document.getElementById('search-prev');
+        const nextBtn = document.getElementById('search-next');
+
+        if (!query) {
+            wrapper.classList.remove('has-nav');
+            nav.classList.remove('show');
+            return;
+        }
+
+        wrapper.classList.add('has-nav');
+        nav.classList.add('show');
+        const total = lastShownItems.length;
+
+        if (total === 0) {
+            countEl.textContent = '0/0';
+            countEl.classList.add('no-match');
+            prevBtn.disabled = true;
+            nextBtn.disabled = true;
+        } else {
+            countEl.textContent = `${currentSearchIndex + 1}/${total}`;
+            countEl.classList.remove('no-match');
+            prevBtn.disabled = total <= 1;
+            nextBtn.disabled = total <= 1;
+        }
+    }
+
+    function jumpToSearchItem(indexOffset) {
+        if (lastShownItems.length === 0) return;
+        currentSearchIndex = (currentSearchIndex + indexOffset + lastShownItems.length) % lastShownItems.length;
+        updateSearchNavUI();
+        const target = lastShownItems[currentSearchIndex];
+        if (target) {
+            const [lat, lng] = gameToMapCoords(target.item.x, target.item.y);
+            map.flyTo([lat, lng], Math.max(map.getZoom(), 0), { duration: 0.6 });
+            setTimeout(() => target.marker.openPopup(), 350);
+        }
+    }
+
     function renderMarkers() {
         markersLayer.clearLayers();
         lastShownItems = [];
@@ -1267,6 +1385,9 @@
             lastShownItems.push({ item, marker });
             shownCount++;
         });
+
+        currentSearchIndex = 0;
+        updateSearchNavUI();
 
         document.getElementById('stat-shown').innerText = shownCount;
         document.getElementById('stat-free').innerText = freeCount;
@@ -1394,24 +1515,24 @@
         finishAreaSelection(e.latlng);
     });
 
-    map.on('mouseleave', () => {
-        if (areaSelecting) return;
-    });
-
     const searchInput = document.getElementById('main-search');
     const clearBtn = document.getElementById('search-clear');
+    const searchPrevBtn = document.getElementById('search-prev');
+    const searchNextBtn = document.getElementById('search-next');
 
     function updateClearBtnVisibility() { clearBtn.classList.toggle('show', searchInput.value.length > 0); }
 
     searchInput.addEventListener('input', () => { updateClearBtnVisibility(); renderMarkers(); });
     searchInput.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter' && lastShownItems.length > 0) {
-            const first = lastShownItems[0];
-            const [lat, lng] = gameToMapCoords(first.item.x, first.item.y);
-            map.flyTo([lat, lng], Math.max(map.getZoom(), 0), { duration: 0.8 });
-            setTimeout(() => first.marker.openPopup(), 420);
+        if (e.key === 'Enter') {
+            e.preventDefault();
+            jumpToSearchItem(e.shiftKey ? -1 : 1);
         }
     });
+
+    searchPrevBtn.addEventListener('click', () => jumpToSearchItem(-1));
+    searchNextBtn.addEventListener('click', () => jumpToSearchItem(1));
+
     clearBtn.addEventListener('click', () => {
         searchInput.value = '';
         updateClearBtnVisibility();
@@ -1521,58 +1642,3 @@
 </script>
 </body>
 </html>
-
-<style>
-
-        html, body {
-            width:100%;
-            height:100%;
-            margin:0;
-            padding:0;
-            background:#061426 !important;
-            overflow:hidden;
-        }
-        #app, .app, .map-wrap, #map {
-            box-sizing:border-box;
-        }
-        #app {
-            width:100vw;
-            height:100vh;
-            min-height:100vh;
-            margin:0;
-            padding:0;
-            background:#061426 !important;
-        }
-        #map {
-            position:fixed !important;
-            inset:0 !important;
-            width:100vw !important;
-            height:100vh !important;
-            min-height:100vh !important;
-            margin:0 !important;
-            padding:0 !important;
-            border:0 !important;
-            border-radius:0 !important;
-            box-shadow:none !important;
-            background:#061426 !important;
-        }
-        .map-container, .map-wrap, .map-area {
-            width:100% !important;
-            height:100% !important;
-            min-height:100% !important;
-            margin:0 !important;
-            padding:0 !important;
-            border:0 !important;
-            background:#061426 !important;
-        }
-        .leaflet-container {
-            width:100% !important;
-            height:100% !important;
-            background:#061426 !important;
-        }
-        .leaflet-tile-container,
-        .leaflet-map-pane {
-            background:#061426 !important;
-        }
-
-</style>
