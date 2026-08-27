@@ -9904,7 +9904,7 @@
     "server_id": 19,
     "type": "house",
     "name": "40 squad",
-    "owner": "Tati_Braga",
+    "owner": "Red_Blat",
     "status": "Занято",
     "x": -2689.47,
     "y": -101.777,
@@ -12484,7 +12484,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Lovec_Pisunchikov",
+    "owner": "Nikita_Zhikharev",
     "status": "Занято",
     "x": -1728.11,
     "y": 1158.95,
@@ -13040,6 +13040,18 @@
     "status": "Занято",
     "x": -2158.02,
     "y": 889.281,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1088,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Yaroslav_Roberts",
+    "status": "Занято",
+    "x": -2158.98,
+    "y": 866.3289,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15272,18 +15284,6 @@
     "status": "Занято",
     "x": -2689.51,
     "y": 96.3162,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1275,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Edwin_Simmons",
-    "status": "Занято",
-    "x": -2689.53,
-    "y": 74.5092,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18708,6 +18708,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1562,
+    "server_id": 19,
+    "type": "house",
+    "name": "lover by raskymar666",
+    "owner": "Brady_Davenport",
+    "status": "Занято",
+    "x": 1957.04,
+    "y": 671.3259,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1563,
     "server_id": 19,
     "type": "house",
@@ -18796,7 +18808,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Krusi corporation ",
-    "owner": "Vladimir_Zituhin",
+    "owner": "Leon_Corrigan",
     "status": "Занято",
     "x": 1949.28,
     "y": 742.875,
@@ -21640,7 +21652,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Marlboro",
-    "owner": "QthrAshep_Onills",
+    "owner": "Keks_Marlboro",
     "status": "Занято",
     "x": -85.6772,
     "y": 1006.36,
@@ -21744,15 +21756,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1088,
+    "id": 1275,
     "server_id": 19,
     "type": "house",
-    "name": "~ Apartments Asylum Family ~",
-    "owner": "Brutto_Asylum",
+    "name": "Електрокомпания, деп, шкаф",
+    "owner": "Edwin_Simmons",
     "status": "Аукцион",
-    "x": -2158.98,
-    "y": 866.3289,
-    "price": 1500,
+    "x": -2689.53,
+    "y": 74.5092,
+    "price": 3400,
     "district": "Сан-Андреас"
   },
   {
@@ -21765,18 +21777,6 @@
     "x": 1938.78,
     "y": 663.577,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1562,
-    "server_id": 19,
-    "type": "house",
-    "name": "lover by raskymar666",
-    "owner": "Brady_Davenport",
-    "status": "Аукцион",
-    "x": 1957.04,
-    "y": 671.3259,
-    "price": 500,
     "district": "Сан-Андреас"
   },
   {
@@ -21795,12 +21795,12 @@
     "id": 1670,
     "server_id": 19,
     "type": "house",
-    "name": "by lover 666raskymar",
-    "owner": "Brady_Davenport",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Brutto_Asylum",
     "status": "Аукцион",
     "x": 1832.59,
     "y": 2742.84,
-    "price": 500,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -22064,19 +22064,7 @@
     "status": "Аукцион",
     "x": 2515.7,
     "y": 1088.17,
-    "price": 100000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 182,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Brutto_Asylum",
-    "status": "Аукцион",
-    "x": 1104.78,
-    "y": 1380.93,
-    "price": 100000,
+    "price": 105111,
     "district": "Сан-Андреас"
   },
   {
@@ -24880,10 +24868,22 @@
     "server_id": 19,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "QthrAshep_Onills",
+    "owner": "Keks_Marlboro",
     "status": "Занято",
     "x": 2029.71,
     "y": 986.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 182,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Brutto_Asylum",
+    "status": "Занято",
+    "x": 1104.78,
+    "y": 1380.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25084,7 +25084,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "HeupoceTb_BoctalLa",
+    "owner": "Sofia_Florence",
     "status": "Занято",
     "x": 1771.74,
     "y": -1903.27,

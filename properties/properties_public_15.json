@@ -1824,18 +1824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 152,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bobby_Baccalieri",
-    "status": "Занято",
-    "x": 1103.22,
-    "y": -1069.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 153,
     "server_id": 15,
     "type": "house",
@@ -8540,6 +8528,18 @@
     "status": "Занято",
     "x": 1607.08,
     "y": 2679.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 712,
+    "server_id": 15,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Prosto_Vladik",
+    "status": "Занято",
+    "x": 1573.09,
+    "y": 2658.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20916,6 +20916,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1746,
+    "server_id": 15,
+    "type": "house",
+    "name": "CripsHouse",
+    "owner": "Stefan_Crips",
+    "status": "Занято",
+    "x": -175.6519,
+    "y": 875.2529,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1747,
     "server_id": 15,
     "type": "house",
@@ -20931,7 +20943,7 @@
     "id": 1748,
     "server_id": 15,
     "type": "house",
-    "name": "DreamTeam | Rotmistrov Company",
+    "name": "Дом",
     "owner": "Bruce_McCloud",
     "status": "Занято",
     "x": -77.3582,
@@ -21048,27 +21060,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1758,
+    "id": 152,
     "server_id": 15,
     "type": "house",
     "name": "Дом",
-    "owner": "Logan_Maklein",
-    "status": "Занято",
-    "x": -85.6872,
-    "y": 960.486,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 712,
-    "server_id": 15,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Turayev_McCloud",
+    "owner": "Bobby_Baccalieri",
     "status": "Аукцион",
-    "x": 1573.09,
-    "y": 2658.39,
-    "price": 6500,
+    "x": 1103.22,
+    "y": -1069.38,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {
@@ -21084,15 +21084,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1746,
+    "id": 1758,
     "server_id": 15,
     "type": "house",
-    "name": "CripsHouse",
-    "owner": "Stefan_Crips",
+    "name": "Дом",
+    "owner": "Logan_Maklein",
     "status": "Аукцион",
-    "x": -175.6519,
-    "y": 875.2529,
-    "price": 1250000,
+    "x": -85.6872,
+    "y": 960.486,
+    "price": 444000,
     "district": "Сан-Андреас"
   },
   {

@@ -8664,18 +8664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 722,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом с набором творчества",
-    "owner": "Aleks_Weiss",
-    "status": "Занято",
-    "x": 1663.37,
-    "y": 2753.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 723,
     "server_id": 3,
     "type": "house",
@@ -14064,18 +14052,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1173,
-    "server_id": 3,
-    "type": "house",
-    "name": "GOLD",
-    "owner": "Mayson_Witwicky",
-    "status": "Занято",
-    "x": -2791.95,
-    "y": 91.9699,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1174,
     "server_id": 3,
     "type": "house",
@@ -18520,7 +18496,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Дом",
-    "owner": "Ilnaz_Dominguez",
+    "owner": "Volk_Prime",
     "status": "Занято",
     "x": -2065.92,
     "y": 1159.83,
@@ -23796,6 +23772,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 722,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом с набором творчества",
+    "owner": "Aleks_Weiss",
+    "status": "Аукцион",
+    "x": 1663.37,
+    "y": 2753.72,
+    "price": 60000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1173,
+    "server_id": 3,
+    "type": "house",
+    "name": "MorenoDangerAhah",
+    "owner": "Moreno_Lesters",
+    "status": "Аукцион",
+    "x": -2791.95,
+    "y": 91.9699,
+    "price": 16000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1984,
     "server_id": 3,
     "type": "house",
@@ -24009,6 +24009,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 9,
+    "server_id": 3,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": 2481.67,
+    "y": -1757.66,
+    "price": 225000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 11,
+    "server_id": 3,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": 171.86,
+    "y": -200.879,
+    "price": 360123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 131,
+    "server_id": 3,
+    "type": "business",
+    "name": "Рекламное агентство ЛВ",
+    "owner": "Aleks_Weiss",
+    "status": "Аукцион",
+    "x": 2006.82,
+    "y": 1227.3,
+    "price": 450000,
     "district": "Сан-Андреас"
   },
   {
@@ -24468,18 +24504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 9,
-    "server_id": 3,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": 2481.67,
-    "y": -1757.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 10,
     "server_id": 3,
     "type": "business",
@@ -24488,18 +24512,6 @@
     "status": "Занято",
     "x": 1847.36,
     "y": -1871.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 11,
-    "server_id": 3,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": 171.86,
-    "y": -200.879,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25112,18 +25124,6 @@
     "status": "Занято",
     "x": 2006.82,
     "y": 1219.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 131,
-    "server_id": 3,
-    "type": "business",
-    "name": "Рекламное агентство ЛВ",
-    "owner": "Aleks_Weiss",
-    "status": "Занято",
-    "x": 2006.82,
-    "y": 1227.3,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27844,7 +27844,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Liza_Typova",
+    "owner": "Kastil_Danmol",
     "status": "Занято",
     "x": 1050.871,
     "y": -1803.655,
