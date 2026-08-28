@@ -9012,6 +9012,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 751,
+    "server_id": 5,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Dostavka_Cuerto",
+    "status": "Занято",
+    "x": -2655.45,
+    "y": 985.7849,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 752,
     "server_id": 5,
     "type": "house",
@@ -23412,18 +23424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1953,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 2468.46,
-    "y": -1376.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1954,
     "server_id": 5,
     "type": "house",
@@ -23456,18 +23456,6 @@
     "status": "Занято",
     "x": 2495.28,
     "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1957,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 2492.21,
-    "y": -1366.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24900,18 +24888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2077,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Radion_Morrison",
-    "status": "Занято",
-    "x": -86.222,
-    "y": 978.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2078,
     "server_id": 5,
     "type": "house",
@@ -24924,18 +24900,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 751,
-    "server_id": 5,
-    "type": "house",
-    "name": "cuerto squad",
-    "owner": "Dostavka_Cuerto",
-    "status": "Аукцион",
-    "x": -2655.45,
-    "y": 985.7849,
-    "price": 100123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 806,
     "server_id": 5,
     "type": "house",
@@ -24945,6 +24909,42 @@
     "x": -2723.93,
     "y": -105.541,
     "price": 8700,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1953,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": 2468.46,
+    "y": -1376.26,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1957,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": 2492.21,
+    "y": -1366.2,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2077,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Radion_Morrison",
+    "status": "Аукцион",
+    "x": -86.222,
+    "y": 978.036,
+    "price": 666666,
     "district": "Сан-Андреас"
   },
   {
