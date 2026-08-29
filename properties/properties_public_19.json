@@ -18684,18 +18684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1572,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Minecraft_LetsPlay",
-    "status": "Занято",
-    "x": 1935.85,
-    "y": 742.875,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1573,
     "server_id": 19,
     "type": "house",
@@ -19708,7 +19696,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Квартира You_One",
-    "owner": "You_One",
+    "owner": "Mamba_Jamba",
     "status": "Занято",
     "x": 1881.98,
     "y": 2792.36,
@@ -19748,6 +19736,18 @@
     "status": "Занято",
     "x": 1871.65,
     "y": 2782.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1664,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "ip_gespert",
+    "status": "Занято",
+    "x": 1865.32,
+    "y": 2775.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20152,7 +20152,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Монополия You_One",
-    "owner": "You_One",
+    "owner": "Ronde_Wu",
     "status": "Занято",
     "x": 2495.39,
     "y": -1399.05,
@@ -21684,6 +21684,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1826,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dizzy_Baxter",
+    "status": "Занято",
+    "x": -48.7064,
+    "y": 956.5159,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 36,
     "server_id": 19,
     "type": "house",
@@ -21852,6 +21864,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1572,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Minecraft_LetsPlay",
+    "status": "Аукцион",
+    "x": 1935.85,
+    "y": 742.875,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1586,
     "server_id": 19,
     "type": "house",
@@ -21885,30 +21909,6 @@
     "x": 1786.49,
     "y": 2867.64,
     "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1664,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "ip_gespert",
-    "status": "Аукцион",
-    "x": 1865.32,
-    "y": 2775.83,
-    "price": 500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1826,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -48.7064,
-    "y": 956.5159,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -22053,30 +22053,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 39,
-    "server_id": 19,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Roman_Hayper",
-    "status": "Аукцион",
-    "x": 559.489,
-    "y": -1293.21,
-    "price": 80000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 217,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Soda_Extazzy",
-    "status": "Аукцион",
-    "x": 2537.82,
-    "y": 2137.12,
-    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -24192,6 +24168,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 39,
+    "server_id": 19,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Roman_Hayper",
+    "status": "Занято",
+    "x": 559.489,
+    "y": -1293.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 40,
     "server_id": 19,
     "type": "business",
@@ -25232,6 +25220,18 @@
     "status": "Занято",
     "x": 2327.86,
     "y": 2421.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 217,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Przemko_Nowak",
+    "status": "Занято",
+    "x": 2537.82,
+    "y": 2137.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
