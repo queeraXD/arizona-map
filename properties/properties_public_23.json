@@ -940,7 +940,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Akimura_Charget",
+    "owner": "Akimurka_Charget",
     "status": "Занято",
     "x": 2306.91,
     "y": -1679.2,
@@ -3668,18 +3668,6 @@
     "status": "Занято",
     "x": 2060.47,
     "y": -1076.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 306,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом Донатера",
-    "owner": "Vegmo_Osumi",
-    "status": "Занято",
-    "x": 1895.99,
-    "y": -1064.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10016,18 +10004,6 @@
     "status": "Занято",
     "x": -2168.28,
     "y": 1107.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 839,
-    "server_id": 23,
-    "type": "house",
-    "name": "SF Таун Хауз",
-    "owner": "Enigma_Grim",
-    "status": "Занято",
-    "x": -2066.54,
-    "y": 745.802,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16948,7 +16924,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Abramov x UnFreeze",
-    "owner": "Dmitry_UnFreeze",
+    "owner": "UnFreeze_Markelovani",
     "status": "Занято",
     "x": 1115.72,
     "y": -1570.0,
@@ -20892,6 +20868,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 306,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом Донатера",
+    "owner": "Vegmo_Osumi",
+    "status": "Аукцион",
+    "x": 1895.99,
+    "y": -1064.77,
+    "price": 2800,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 463,
     "server_id": 23,
     "type": "house",
@@ -20937,6 +20925,18 @@
     "x": 1599.4,
     "y": 2757.09,
     "price": 8849,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 839,
+    "server_id": 23,
+    "type": "house",
+    "name": "SF Таун Хауз",
+    "owner": "Enigma_Grim",
+    "status": "Аукцион",
+    "x": -2066.54,
+    "y": 745.802,
+    "price": 4200,
     "district": "Сан-Андреас"
   },
   {

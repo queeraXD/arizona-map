@@ -3672,18 +3672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 308,
-    "server_id": 16,
-    "type": "house",
-    "name": "Simpson",
-    "owner": "Astralniy_Oxford",
-    "status": "Занято",
-    "x": 1912.61,
-    "y": -1070.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 309,
     "server_id": 16,
     "type": "house",
@@ -12640,7 +12628,7 @@
     "server_id": 16,
     "type": "house",
     "name": "HellNaahBruh",
-    "owner": "Chikara_Katayama",
+    "owner": "Valeriy_Kalashnikov",
     "status": "Занято",
     "x": -2152.06,
     "y": 1248.54,
@@ -14620,7 +14608,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Tesoro",
-    "owner": "Francesco_Carbon",
+    "owner": "Artemka_Ledesmaro",
     "status": "Занято",
     "x": -2632.0,
     "y": 274.54,
@@ -19756,7 +19744,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Carbon",
-    "owner": "Kaski_Melock",
+    "owner": "Shadow_Rex",
     "status": "Занято",
     "x": 2417.74,
     "y": 985.419,
@@ -20191,18 +20179,6 @@
     "owner": "Mmr_Demon",
     "status": "Занято",
     "x": 2007.84,
-    "y": 2132.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1691,
-    "server_id": 16,
-    "type": "house",
-    "name": "жоский гей клуб",
-    "owner": "Astralniy_Oxford",
-    "status": "Занято",
-    "x": 2012.63,
     "y": 2132.91,
     "price": 0,
     "district": "Сан-Андреас"
@@ -20768,18 +20744,6 @@
     "status": "Занято",
     "x": 2437.04,
     "y": 1211.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1739,
-    "server_id": 16,
-    "type": "house",
-    "name": "Goblins Empire",
-    "owner": "Astralniy_Oxford",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1205.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22224,6 +22188,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1860,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alexcander_Faith",
+    "status": "Занято",
+    "x": -48.7064,
+    "y": 956.5159,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 195,
     "server_id": 16,
     "type": "house",
@@ -22245,6 +22221,18 @@
     "x": 167.158,
     "y": -1758.93,
     "price": 35123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 308,
+    "server_id": 16,
+    "type": "house",
+    "name": "Simpson",
+    "owner": "Astralniy_Oxford",
+    "status": "Аукцион",
+    "x": 1912.61,
+    "y": -1070.59,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -22308,15 +22296,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1860,
+    "id": 1691,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
+    "name": "жоский гей клуб",
+    "owner": "Astralniy_Oxford",
     "status": "Аукцион",
-    "x": -48.7064,
-    "y": 956.5159,
-    "price": 1000,
+    "x": 2012.63,
+    "y": 2132.91,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1739,
+    "server_id": 16,
+    "type": "house",
+    "name": "Goblins Empire",
+    "owner": "Astralniy_Oxford",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1205.26,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
