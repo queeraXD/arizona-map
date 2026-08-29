@@ -2448,18 +2448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 204,
-    "server_id": 25,
-    "type": "house",
-    "name": "ДОМ СТАРКОВ :WOLF:",
-    "owner": "Borz_Stark",
-    "status": "Занято",
-    "x": 1527.47,
-    "y": -772.895,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 205,
     "server_id": 25,
     "type": "house",
@@ -10516,7 +10504,7 @@
     "server_id": 25,
     "type": "house",
     "name": "ДОМ СТАРКОВ :WOLF:",
-    "owner": "Sergey_Pirate",
+    "owner": "Borz_Stark",
     "status": "Занято",
     "x": -197.4149,
     "y": 2529.87,
@@ -15795,8 +15783,8 @@
     "id": 1320,
     "server_id": 25,
     "type": "house",
-    "name": "ДОМ СТАРКОВ :WOLF:",
-    "owner": "Borz_Stark",
+    "name": "монополия сергея пирата",
+    "owner": "Sergey_Pirate",
     "status": "Занято",
     "x": 745.674,
     "y": -591.182,
@@ -23553,6 +23541,18 @@
     "x": -86.2182,
     "y": 974.4639,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 204,
+    "server_id": 25,
+    "type": "house",
+    "name": "ДОМ СТАРКОВ :WOLF:",
+    "owner": "Borz_Stark",
+    "status": "Аукцион",
+    "x": 1527.47,
+    "y": -772.895,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {

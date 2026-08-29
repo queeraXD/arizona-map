@@ -336,18 +336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 28,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом в Los-Santos",
-    "owner": "Batya_Skufanskiy",
-    "status": "Занято",
-    "x": 2209.7,
-    "y": -1240.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 29,
     "server_id": 28,
     "type": "house",
@@ -536,6 +524,18 @@
     "status": "Занято",
     "x": 2520.72,
     "y": -1197.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 45,
+    "server_id": 28,
+    "type": "house",
+    "name": "Рыбалка",
+    "owner": "Denis_Belov",
+    "status": "Занято",
+    "x": 2467.61,
+    "y": -1200.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -4844,6 +4844,18 @@
     "status": "Занято",
     "x": 2416.56,
     "y": 17.9109,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 405,
+    "server_id": 28,
+    "type": "house",
+    "name": "Грунт, элексиры",
+    "owner": "Denis_Belov",
+    "status": "Занято",
+    "x": 1451.08,
+    "y": 374.286,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17488,7 +17500,7 @@
     "server_id": 28,
     "type": "house",
     "name": "гнездышок нефоров ",
-    "owner": "Holy_Locket",
+    "owner": "Flo_Rida",
     "status": "Занято",
     "x": 981.6199,
     "y": 2214.39,
@@ -22084,7 +22096,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Flo_Rida",
+    "owner": "Holy_Locket",
     "status": "Занято",
     "x": -85.6872,
     "y": 960.486,
@@ -22108,7 +22120,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Flo_Rida",
+    "owner": "Holy_Locket",
     "status": "Занято",
     "x": -85.5623,
     "y": 974.833,
@@ -22164,27 +22176,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 45,
+    "id": 28,
     "server_id": 28,
     "type": "house",
-    "name": "Рыбалка",
-    "owner": "Denis_Belov",
+    "name": "Дом в Los-Santos",
+    "owner": "Batya_Skufanskiy",
     "status": "Аукцион",
-    "x": 2467.61,
-    "y": -1200.41,
-    "price": 2857,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 405,
-    "server_id": 28,
-    "type": "house",
-    "name": "Грунт, элексиры",
-    "owner": "Denis_Belov",
-    "status": "Аукцион",
-    "x": 1451.08,
-    "y": 374.286,
-    "price": 2875,
+    "x": 2209.7,
+    "y": -1240.25,
+    "price": 2499,
     "district": "Сан-Андреас"
   },
   {
