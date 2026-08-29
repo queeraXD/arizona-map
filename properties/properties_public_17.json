@@ -2424,18 +2424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 202,
-    "server_id": 17,
-    "type": "house",
-    "name": "Билли Генг",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": 1540.17,
-    "y": -851.502,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 203,
     "server_id": 17,
     "type": "house",
@@ -10212,18 +10200,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 852,
-    "server_id": 17,
-    "type": "house",
-    "name": "House Biletsky",
-    "owner": "Misha_Green",
-    "status": "Занято",
-    "x": -2402.41,
-    "y": 849.2369,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 853,
     "server_id": 17,
     "type": "house",
@@ -11187,8 +11163,8 @@
     "id": 933,
     "server_id": 17,
     "type": "house",
-    "name": "Ramen empery",
-    "owner": "Ramen_Fox",
+    "name": "Roni EMPERY",
+    "owner": "Roni_Echo",
     "status": "Занято",
     "x": -2094.28,
     "y": 745.752,
@@ -11484,18 +11460,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 958,
-    "server_id": 17,
-    "type": "house",
-    "name": "Slipside dynasty",
-    "owner": "Misha_Green",
-    "status": "Занято",
-    "x": -2229.52,
-    "y": 934.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 959,
     "server_id": 17,
     "type": "house",
@@ -11756,18 +11720,6 @@
     "status": "Занято",
     "x": -2278.21,
     "y": 768.1019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 981,
-    "server_id": 17,
-    "type": "house",
-    "name": "Slipside dynasty",
-    "owner": "Misha_Green",
-    "status": "Занято",
-    "x": -2278.81,
-    "y": 787.749,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18892,7 +18844,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Хата",
-    "owner": "Artur_Viper",
+    "owner": "Artur_Watral",
     "status": "Занято",
     "x": 1865.96,
     "y": -2003.87,
@@ -19196,18 +19148,6 @@
     "status": "Занято",
     "x": 1542.27,
     "y": 2026.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1601,
-    "server_id": 17,
-    "type": "house",
-    "name": "Майнинг ферма LVL 10",
-    "owner": "Misha_Green",
-    "status": "Занято",
-    "x": 1542.27,
-    "y": 2032.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21364,7 +21304,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Luxembourg HOUSE",
-    "owner": "Artur_Viper",
+    "owner": "Artur_Watral",
     "status": "Занято",
     "x": 1733.24,
     "y": 2814.91,
@@ -22296,6 +22236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 202,
+    "server_id": 17,
+    "type": "house",
+    "name": "Билли Генг",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": 1540.17,
+    "y": -851.502,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 534,
     "server_id": 17,
     "type": "house",
@@ -22305,6 +22257,54 @@
     "x": 1969.86,
     "y": 2723.26,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 852,
+    "server_id": 17,
+    "type": "house",
+    "name": "House Biletsky",
+    "owner": "Misha_Green",
+    "status": "Аукцион",
+    "x": -2402.41,
+    "y": 849.2369,
+    "price": 3001,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 958,
+    "server_id": 17,
+    "type": "house",
+    "name": "Slipside dynasty",
+    "owner": "Misha_Green",
+    "status": "Аукцион",
+    "x": -2229.52,
+    "y": 934.32,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 981,
+    "server_id": 17,
+    "type": "house",
+    "name": "Slipside dynasty",
+    "owner": "Misha_Green",
+    "status": "Аукцион",
+    "x": -2278.81,
+    "y": 787.749,
+    "price": 3001,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1601,
+    "server_id": 17,
+    "type": "house",
+    "name": "Майнинг ферма LVL 10",
+    "owner": "Misha_Green",
+    "status": "Аукцион",
+    "x": 1542.27,
+    "y": 2032.98,
+    "price": 3001,
     "district": "Сан-Андреас"
   },
   {
