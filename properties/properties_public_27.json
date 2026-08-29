@@ -7296,18 +7296,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 608,
-    "server_id": 27,
-    "type": "house",
-    "name": "Vochko логово",
-    "owner": "Alexey_Livanov",
-    "status": "Занято",
-    "x": -766.3779,
-    "y": 1614.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 609,
     "server_id": 27,
     "type": "house",
@@ -10440,18 +10428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 871,
-    "server_id": 27,
-    "type": "house",
-    "name": "Vochko логово",
-    "owner": "Alexey_Livanov",
-    "status": "Занято",
-    "x": -302.976,
-    "y": 2552.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 872,
     "server_id": 27,
     "type": "house",
@@ -10680,18 +10656,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 891,
-    "server_id": 27,
-    "type": "house",
-    "name": "Vochko логово",
-    "owner": "Alexey_Livanov",
-    "status": "Занято",
-    "x": -2069.91,
-    "y": -2494.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 892,
     "server_id": 27,
     "type": "house",
@@ -10772,18 +10736,6 @@
     "status": "Занято",
     "x": -2043.12,
     "y": -2559.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 899,
-    "server_id": 27,
-    "type": "house",
-    "name": "Vochko логово",
-    "owner": "Alexey_Livanov",
-    "status": "Занято",
-    "x": -2069.05,
-    "y": -2561.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15500,6 +15452,18 @@
     "status": "Занято",
     "x": -2590.53,
     "y": -105.9329,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1293,
+    "server_id": 27,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Kosmas_Monte",
+    "status": "Занято",
+    "x": -2576.46,
+    "y": -118.7259,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24216,6 +24180,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 608,
+    "server_id": 27,
+    "type": "house",
+    "name": "Vochko логово",
+    "owner": "Alexey_Livanov",
+    "status": "Аукцион",
+    "x": -766.3779,
+    "y": 1614.21,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 710,
     "server_id": 27,
     "type": "house",
@@ -24228,15 +24204,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1293,
+    "id": 871,
     "server_id": 27,
     "type": "house",
-    "name": "деп условия",
-    "owner": "Sebastian_Barsov",
+    "name": "Vochko логово",
+    "owner": "Alexey_Livanov",
     "status": "Аукцион",
-    "x": -2576.46,
-    "y": -118.7259,
-    "price": 5000,
+    "x": -302.976,
+    "y": 2552.28,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 891,
+    "server_id": 27,
+    "type": "house",
+    "name": "Vochko логово",
+    "owner": "Alexey_Livanov",
+    "status": "Аукцион",
+    "x": -2069.91,
+    "y": -2494.76,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 899,
+    "server_id": 27,
+    "type": "house",
+    "name": "Vochko логово",
+    "owner": "Alexey_Livanov",
+    "status": "Аукцион",
+    "x": -2069.05,
+    "y": -2561.36,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
