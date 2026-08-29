@@ -1344,18 +1344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 112,
-    "server_id": 10,
-    "type": "house",
-    "name": "дом джеймса сандерленда",
-    "owner": "untitled",
-    "status": "Занято",
-    "x": 2241.99,
-    "y": -1882.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 113,
     "server_id": 10,
     "type": "house",
@@ -4648,7 +4636,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Дом",
-    "owner": "Taisei_Kudo",
+    "owner": "Jack_Chaltsev",
     "status": "Занято",
     "x": 2363.25,
     "y": 142.009,
@@ -6404,18 +6392,6 @@
     "status": "Занято",
     "x": 1950.82,
     "y": 2722.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 534,
-    "server_id": 10,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Trofim_Carmone",
-    "status": "Занято",
-    "x": 1969.86,
-    "y": 2723.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12668,18 +12644,6 @@
     "status": "Занято",
     "x": -2024.04,
     "y": 1275.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1060,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "untitled",
-    "status": "Занято",
-    "x": -2152.06,
-    "y": 1248.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23079,7 +23043,7 @@
     "id": 1929,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
+    "name": "не продаю ",
     "owner": "Adam_Smitt",
     "status": "Занято",
     "x": -85.5623,
@@ -23160,6 +23124,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 112,
+    "server_id": 10,
+    "type": "house",
+    "name": "дом джеймса сандерленда",
+    "owner": "untitled",
+    "status": "Аукцион",
+    "x": 2241.99,
+    "y": -1882.29,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 534,
+    "server_id": 10,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Trofim_Carmone",
+    "status": "Аукцион",
+    "x": 1969.86,
+    "y": 2723.26,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 655,
     "server_id": 10,
     "type": "house",
@@ -23193,6 +23181,18 @@
     "x": -2214.31,
     "y": -2451.65,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1060,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "untitled",
+    "status": "Аукцион",
+    "x": -2152.06,
+    "y": 1248.54,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {

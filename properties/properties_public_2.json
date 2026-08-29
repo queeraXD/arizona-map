@@ -8172,18 +8172,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 681,
-    "server_id": 2,
-    "type": "house",
-    "name": "CripsHouse LV",
-    "owner": "shofer",
-    "status": "Занято",
-    "x": 985.354,
-    "y": 2343.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 682,
     "server_id": 2,
     "type": "house",
@@ -15900,18 +15888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1326,
-    "server_id": 2,
-    "type": "house",
-    "name": "Timmi house",
-    "owner": "Timmi_Vizard",
-    "status": "Занято",
-    "x": -2576.45,
-    "y": -145.865,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1327,
     "server_id": 2,
     "type": "house",
@@ -22656,6 +22632,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1893,
+    "server_id": 2,
+    "type": "house",
+    "name": "Майнинг, дом селл",
+    "owner": "Justin_Holand",
+    "status": "Занято",
+    "x": 1737.02,
+    "y": 2800.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1894,
     "server_id": 2,
     "type": "house",
@@ -23820,15 +23808,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1893,
+    "id": 681,
     "server_id": 2,
     "type": "house",
-    "name": "Майнинг, дом селл",
-    "owner": "Justin_Holand",
+    "name": "CripsHouse LV",
+    "owner": "shofer",
     "status": "Аукцион",
-    "x": 1737.02,
-    "y": 2800.77,
-    "price": 19000,
+    "x": 985.354,
+    "y": 2343.7,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1326,
+    "server_id": 2,
+    "type": "house",
+    "name": "Timmi house",
+    "owner": "Timmi_Vizard",
+    "status": "Аукцион",
+    "x": -2576.45,
+    "y": -145.865,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {

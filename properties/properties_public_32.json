@@ -108,6 +108,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 9,
+    "server_id": 32,
+    "type": "house",
+    "name": "Kostum/Group",
+    "owner": "Egor_Kostum",
+    "status": "Занято",
+    "x": 2036.07,
+    "y": -1059.32,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 10,
     "server_id": 32,
     "type": "house",
@@ -2028,6 +2040,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 170,
+    "server_id": 32,
+    "type": "house",
+    "name": "Алтайский Потрошитель",
+    "owner": "Everlast_Wolfgang",
+    "status": "Занято",
+    "x": 866.827,
+    "y": -1798.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 171,
     "server_id": 32,
     "type": "house",
@@ -3248,18 +3272,6 @@
     "status": "Занято",
     "x": 2626.19,
     "y": -1098.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 273,
-    "server_id": 32,
-    "type": "house",
-    "name": "DINASTY",
-    "owner": "Sergio_Tohok",
-    "status": "Занято",
-    "x": 2626.07,
-    "y": -1112.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5516,18 +5528,6 @@
     "status": "Занято",
     "x": 2123.33,
     "y": 651.627,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 462,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Donny_Lood",
-    "status": "Занято",
-    "x": 2178.13,
-    "y": 655.619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11604,30 +11604,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 975,
-    "server_id": 32,
-    "type": "house",
-    "name": "kopmine",
-    "owner": "Donny_Lood",
-    "status": "Занято",
-    "x": -2464.03,
-    "y": 2486.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 976,
-    "server_id": 32,
-    "type": "house",
-    "name": "kopmine",
-    "owner": "Donny_Lood",
-    "status": "Занято",
-    "x": -2446.17,
-    "y": 2491.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 977,
     "server_id": 32,
     "type": "house",
@@ -15588,18 +15564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1307,
-    "server_id": 32,
-    "type": "house",
-    "name": "10 лвл",
-    "owner": "Donny_Lood",
-    "status": "Занято",
-    "x": -2524.33,
-    "y": -198.7969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1308,
     "server_id": 32,
     "type": "house",
@@ -17316,18 +17280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1452,
-    "server_id": 32,
-    "type": "house",
-    "name": "10 лвл",
-    "owner": "Donny_Lood",
-    "status": "Занято",
-    "x": 885.424,
-    "y": 2180.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1453,
     "server_id": 32,
     "type": "house",
@@ -17492,18 +17444,6 @@
     "status": "Занято",
     "x": 885.9019,
     "y": 2211.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1467,
-    "server_id": 32,
-    "type": "house",
-    "name": "10 лвл",
-    "owner": "Donny_Lood",
-    "status": "Занято",
-    "x": 957.505,
-    "y": 2215.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18279,8 +18219,8 @@
     "id": 1560,
     "server_id": 32,
     "type": "house",
-    "name": "BABY COMPLEX",
-    "owner": "Babyface_Ray",
+    "name": "golovores1560",
+    "owner": "Golovores_Kirill",
     "status": "Занято",
     "x": 2818.53,
     "y": 2140.83,
@@ -18291,8 +18231,8 @@
     "id": 1561,
     "server_id": 32,
     "type": "house",
-    "name": "BABY COMPLEX",
-    "owner": "Babyface_Ray",
+    "name": "golovores1561",
+    "owner": "Golovores_Kirill",
     "status": "Занято",
     "x": 2826.08,
     "y": 2140.63,
@@ -22296,27 +22236,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 9,
+    "id": 273,
     "server_id": 32,
     "type": "house",
-    "name": "Kostum/Group",
-    "owner": "Egor_Kostum",
+    "name": "DINASTY",
+    "owner": "Sergio_Tohok",
     "status": "Аукцион",
-    "x": 2036.07,
-    "y": -1059.32,
-    "price": 30000,
+    "x": 2626.07,
+    "y": -1112.56,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
-    "id": 170,
+    "id": 462,
     "server_id": 32,
     "type": "house",
-    "name": "Алтайский Потрошитель",
-    "owner": "Everlast_Wolfgang",
+    "name": "деп.условия",
+    "owner": "Donny_Lood",
     "status": "Аукцион",
-    "x": 866.827,
-    "y": -1798.91,
-    "price": 65000,
+    "x": 2178.13,
+    "y": 655.619,
+    "price": 11000,
     "district": "Сан-Андреас"
   },
   {
@@ -22341,6 +22281,66 @@
     "x": -2368.82,
     "y": 763.504,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 975,
+    "server_id": 32,
+    "type": "house",
+    "name": "деп.условия",
+    "owner": "Donny_Lood",
+    "status": "Аукцион",
+    "x": -2464.03,
+    "y": 2486.08,
+    "price": 11000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 976,
+    "server_id": 32,
+    "type": "house",
+    "name": "деп.условия",
+    "owner": "Donny_Lood",
+    "status": "Аукцион",
+    "x": -2446.17,
+    "y": 2491.81,
+    "price": 11000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1307,
+    "server_id": 32,
+    "type": "house",
+    "name": "деп.условия",
+    "owner": "Donny_Lood",
+    "status": "Аукцион",
+    "x": -2524.33,
+    "y": -198.7969,
+    "price": 11000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1452,
+    "server_id": 32,
+    "type": "house",
+    "name": "деп.условия",
+    "owner": "Donny_Lood",
+    "status": "Аукцион",
+    "x": 885.424,
+    "y": 2180.92,
+    "price": 11000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1467,
+    "server_id": 32,
+    "type": "house",
+    "name": "деп.условия",
+    "owner": "Donny_Lood",
+    "status": "Аукцион",
+    "x": 957.505,
+    "y": 2215.29,
+    "price": 11000,
     "district": "Сан-Андреас"
   },
   {
@@ -22509,6 +22509,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 5,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 2309.79,
+    "y": -1643.68,
+    "price": 325999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 7,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 1315.5,
+    "y": -898.048,
+    "price": 325999,
     "district": "Сан-Андреас"
   },
   {
@@ -22728,18 +22752,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 5,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 2309.79,
-    "y": -1643.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 51,
     "server_id": 32,
     "type": "business",
@@ -22940,18 +22952,6 @@
     "status": "Занято",
     "x": 1352.4,
     "y": -1758.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 7,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 1315.5,
-    "y": -898.048,
     "price": 0,
     "district": "Сан-Андреас"
   },
