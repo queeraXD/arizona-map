@@ -3160,7 +3160,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Paradise Trailers",
-    "owner": "Sania_Farmer",
+    "owner": "Rostislav_Paradise",
     "status": "Занято",
     "x": 235.1909,
     "y": -308.6579,
@@ -3184,7 +3184,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Paradise Trailers",
-    "owner": "Sania_Farmer",
+    "owner": "Rostislav_Paradise",
     "status": "Занято",
     "x": 226.3999,
     "y": -303.0809,
@@ -3712,7 +3712,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Paradise Trailers",
-    "owner": "Sania_Farmer",
+    "owner": "Rostislav_Paradise",
     "status": "Занято",
     "x": 260.441,
     "y": -303.1679,
@@ -3736,7 +3736,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Paradise Trailers",
-    "owner": "Sania_Farmer",
+    "owner": "Rostislav_Paradise",
     "status": "Занято",
     "x": 263.9849,
     "y": -283.7479,
@@ -4384,7 +4384,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Paradise Trailers",
-    "owner": "Sania_Farmer",
+    "owner": "Rostislav_Paradise",
     "status": "Занято",
     "x": 254.0599,
     "y": -274.3049,
@@ -4408,7 +4408,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Paradise Trailers",
-    "owner": "Sania_Farmer",
+    "owner": "Rostislav_Paradise",
     "status": "Занято",
     "x": 261.466,
     "y": -270.3829,
@@ -11096,6 +11096,18 @@
     "status": "Занято",
     "x": -1842.22,
     "y": 1114.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 928,
+    "server_id": 10,
+    "type": "house",
+    "name": "Arestants House",
+    "owner": "Hiroto_Surprise",
+    "status": "Занято",
+    "x": -1860.83,
+    "y": 1114.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19080,18 +19092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1595,
-    "server_id": 10,
-    "type": "house",
-    "name": "Хата Merce | Фамы Rozzetka",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 2751.5,
-    "y": -1936.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1596,
     "server_id": 10,
     "type": "house",
@@ -22392,6 +22392,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1871,
+    "server_id": 10,
+    "type": "house",
+    "name": "дом схеркаушов",
+    "owner": "Hiroto_Surprise",
+    "status": "Занято",
+    "x": 1796.59,
+    "y": 2803.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1872,
     "server_id": 10,
     "type": "house",
@@ -23124,30 +23136,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 928,
-    "server_id": 10,
-    "type": "house",
-    "name": "Arestants House",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -1860.83,
-    "y": 1114.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1871,
-    "server_id": 10,
-    "type": "house",
-    "name": "дом схеркаушов",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1796.59,
-    "y": 2803.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 451,
     "server_id": 10,
     "type": "house",
@@ -23181,6 +23169,18 @@
     "x": -2541.46,
     "y": -198.798,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1595,
+    "server_id": 10,
+    "type": "house",
+    "name": "Хата Merce | Фамы Rozzetka",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 2751.5,
+    "y": -1936.46,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {

@@ -4780,7 +4780,7 @@
     "server_id": 26,
     "type": "house",
     "name": "by merlyn",
-    "owner": "Malcolm_Merlyn",
+    "owner": "Routine_Swarovski",
     "status": "Занято",
     "x": 2415.43,
     "y": -51.5713,
@@ -11248,7 +11248,7 @@
     "server_id": 26,
     "type": "house",
     "name": "forever young ",
-    "owner": "Mikky_Prikol",
+    "owner": "Mikky_Haunted",
     "status": "Занято",
     "x": -2029.79,
     "y": 796.554,
@@ -20196,6 +20196,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1689,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом Сыры Уины",
+    "owner": "Kevin_Cobra",
+    "status": "Занято",
+    "x": 1503.25,
+    "y": 2026.96,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1690,
     "server_id": 26,
     "type": "house",
@@ -22308,18 +22320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1867,
-    "server_id": 26,
-    "type": "house",
-    "name": "Опочивальня",
-    "owner": "Not_See",
-    "status": "Занято",
-    "x": -2620.79,
-    "y": 103.388,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1868,
     "server_id": 26,
     "type": "house",
@@ -23384,18 +23384,6 @@
     "status": "Занято",
     "x": 2625.14,
     "y": 2019.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1957,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": 2627.52,
-    "y": 2018.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24924,18 +24912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1689,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом Сыры Уины",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1503.25,
-    "y": 2026.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 335,
     "server_id": 26,
     "type": "house",
@@ -24980,7 +24956,7 @@
     "status": "Аукцион",
     "x": -2223.62,
     "y": 820.458,
-    "price": 1000,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {
@@ -25005,6 +24981,30 @@
     "x": 2666.39,
     "y": 750.0989,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1867,
+    "server_id": 26,
+    "type": "house",
+    "name": "Опочивальня",
+    "owner": "Not_See",
+    "status": "Аукцион",
+    "x": -2620.79,
+    "y": 103.388,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1957,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Grafi_Kus",
+    "status": "Аукцион",
+    "x": 2627.52,
+    "y": 2018.86,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
