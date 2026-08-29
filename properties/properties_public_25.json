@@ -6168,18 +6168,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 514,
-    "server_id": 25,
-    "type": "house",
-    "name": "калитка закрыта гуляй отсюда",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 1549.98,
-    "y": 2096.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 515,
     "server_id": 25,
     "type": "house",
@@ -9604,7 +9592,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Депозит условия",
-    "owner": "Veronika_Hex",
+    "owner": "Maya_Kotlas",
     "status": "Занято",
     "x": -2358.42,
     "y": 820.0349,
@@ -15800,6 +15788,18 @@
     "status": "Занято",
     "x": -89.1909,
     "y": -1564.46,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1319,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Naldon_Legenda",
+    "status": "Занято",
+    "x": -102.482,
+    "y": -1576.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23568,15 +23568,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1319,
+    "id": 514,
     "server_id": 25,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -102.482,
-    "y": -1576.0,
-    "price": 0,
+    "name": "налдон ловит",
+    "owner": "Naldon_Legenda",
+    "status": "Аукцион",
+    "x": 1549.98,
+    "y": 2096.4,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -26848,7 +26848,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Veronika_Hex",
+    "owner": "Maya_Kotlas",
     "status": "Занято",
     "x": 1433.75,
     "y": -1739.79,
