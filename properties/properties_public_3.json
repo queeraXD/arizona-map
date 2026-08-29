@@ -2256,18 +2256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 188,
-    "server_id": 3,
-    "type": "house",
-    "name": "Pistachio house",
-    "owner": "Angel_Sykes",
-    "status": "Занято",
-    "x": 769.1149,
-    "y": -1696.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 189,
     "server_id": 3,
     "type": "house",
@@ -8584,7 +8572,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Дом",
-    "owner": "Angel_Sykes",
+    "owner": "Grafi_Kus",
     "status": "Занято",
     "x": 1580.14,
     "y": 2708.88,
@@ -20424,18 +20412,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1703,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lord_Shamanov",
-    "status": "Занято",
-    "x": 2150.27,
-    "y": -1584.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1704,
     "server_id": 3,
     "type": "house",
@@ -20444,18 +20420,6 @@
     "status": "Занято",
     "x": 2172.61,
     "y": -1615.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1705,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lord_Shamanov",
-    "status": "Занято",
-    "x": 2151.31,
-    "y": -1598.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23841,6 +23805,42 @@
     "x": -86.2182,
     "y": 974.4639,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 188,
+    "server_id": 3,
+    "type": "house",
+    "name": "Pistachio house",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 769.1149,
+    "y": -1696.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1703,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lord_Shamanov",
+    "status": "Аукцион",
+    "x": 2150.27,
+    "y": -1584.28,
+    "price": 55000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1705,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lord_Shamanov",
+    "status": "Аукцион",
+    "x": 2151.31,
+    "y": -1598.41,
+    "price": 55000,
     "district": "Сан-Андреас"
   },
   {

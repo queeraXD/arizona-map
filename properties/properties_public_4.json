@@ -2919,7 +2919,7 @@
     "id": 243,
     "server_id": 4,
     "type": "house",
-    "name": "Здесь живет Нео Мурарри",
+    "name": "Здесь живёт Viktoria_Arasaka",
     "owner": "Victoria_Arasaka",
     "status": "Занято",
     "x": 298.0239,
@@ -16656,18 +16656,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1405,
-    "server_id": 4,
-    "type": "house",
-    "name": "Фарм/Ферма",
-    "owner": "Raffaile_Grand",
-    "status": "Занято",
-    "x": 2433.93,
-    "y": -1320.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1406,
     "server_id": 4,
     "type": "house",
@@ -20096,18 +20084,6 @@
     "status": "Занято",
     "x": 2690.54,
     "y": -1238.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1693,
-    "server_id": 4,
-    "type": "house",
-    "name": "Gachi house",
-    "owner": "Toma_Hunter",
-    "status": "Занято",
-    "x": 2690.54,
-    "y": -1229.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23765,10 +23741,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Do_Bronx",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2473.12,
     "y": -1391.71,
-    "price": 4000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -24888,6 +24864,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1693,
+    "server_id": 4,
+    "type": "house",
+    "name": "Gachi house",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2690.54,
+    "y": -1229.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 282,
     "server_id": 4,
     "type": "house",
@@ -25077,6 +25065,18 @@
     "x": 2285.88,
     "y": 161.7709,
     "price": 63500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1405,
+    "server_id": 4,
+    "type": "house",
+    "name": "Фарм/Ферма",
+    "owner": "Raffaile_Grand",
+    "status": "Аукцион",
+    "x": 2433.93,
+    "y": -1320.69,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
