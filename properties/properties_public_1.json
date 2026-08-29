@@ -939,7 +939,7 @@
     "id": 78,
     "server_id": 1,
     "type": "house",
-    "name": "сычевальня паскаля",
+    "name": "Дом",
     "owner": "Pasquale_Borgese",
     "status": "Занято",
     "x": 2306.97,
@@ -6644,18 +6644,6 @@
     "status": "Занято",
     "x": 378.1589,
     "y": 1123.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 554,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Did_Inside",
-    "status": "Занято",
-    "x": 352.9729,
-    "y": 1099.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18048,18 +18036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1506,
-    "server_id": 1,
-    "type": "house",
-    "name": "Trager",
-    "owner": "Did_Inside",
-    "status": "Занято",
-    "x": 1461.03,
-    "y": 342.436,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1507,
     "server_id": 1,
     "type": "house",
@@ -20996,18 +20972,6 @@
     "status": "Занято",
     "x": -20.1259,
     "y": -14.1787,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1752,
-    "server_id": 1,
-    "type": "house",
-    "name": "Axel",
-    "owner": "Did_Inside",
-    "status": "Занято",
-    "x": -21.2075,
-    "y": 1348.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24000,6 +23964,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 554,
+    "server_id": 1,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Did_Inside",
+    "status": "Аукцион",
+    "x": 352.9729,
+    "y": 1099.58,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 955,
     "server_id": 1,
     "type": "house",
@@ -24009,6 +23985,30 @@
     "x": 2660.34,
     "y": 750.098,
     "price": 17500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1506,
+    "server_id": 1,
+    "type": "house",
+    "name": "Trager",
+    "owner": "Did_Inside",
+    "status": "Аукцион",
+    "x": 1461.03,
+    "y": 342.436,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1752,
+    "server_id": 1,
+    "type": "house",
+    "name": "Axel",
+    "owner": "Did_Inside",
+    "status": "Аукцион",
+    "x": -21.2075,
+    "y": 1348.14,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -24189,6 +24189,18 @@
     "x": 2170.48,
     "y": 542.934,
     "price": 249999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 467,
+    "server_id": 1,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Did_Inside",
+    "status": "Аукцион",
+    "x": -2015.06,
+    "y": -2.1872,
+    "price": 390000,
     "district": "Сан-Андреас"
   },
   {
@@ -26936,18 +26948,6 @@
     "status": "Занято",
     "x": 1365.16,
     "y": -1859.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 467,
-    "server_id": 1,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Did_Inside",
-    "status": "Занято",
-    "x": -2015.06,
-    "y": -2.1872,
     "price": 0,
     "district": "Сан-Андреас"
   },
