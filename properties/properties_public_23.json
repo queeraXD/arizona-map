@@ -3672,6 +3672,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 306,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом Донатера",
+    "owner": "Vegmo_Osumi",
+    "status": "Занято",
+    "x": 1895.99,
+    "y": -1064.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 307,
     "server_id": 23,
     "type": "house",
@@ -5540,18 +5552,6 @@
     "status": "Занято",
     "x": 2178.13,
     "y": 655.619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 463,
-    "server_id": 23,
-    "type": "house",
-    "name": "топчел",
-    "owner": "Nazar_Wappy",
-    "status": "Занято",
-    "x": 2206.36,
-    "y": 656.3729,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7992,6 +7992,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 669,
+    "server_id": 23,
+    "type": "house",
+    "name": "Desp 2",
+    "owner": "Desp_Palladin",
+    "status": "Занято",
+    "x": 1030.09,
+    "y": 2028.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 670,
     "server_id": 23,
     "type": "house",
@@ -8564,18 +8576,6 @@
     "status": "Занято",
     "x": 1627.09,
     "y": 2711.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 718,
-    "server_id": 23,
-    "type": "house",
-    "name": "Продам этот дом ДС: svit0120",
-    "owner": "Semen_Boobabov",
-    "status": "Занято",
-    "x": 1599.4,
-    "y": 2757.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20040,18 +20040,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1677,
-    "server_id": 23,
-    "type": "house",
-    "name": "Продам этот дом ДС: svit0120",
-    "owner": "Semen_Boobabov",
-    "status": "Занято",
-    "x": 2487.31,
-    "y": -1431.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1678,
     "server_id": 23,
     "type": "house",
@@ -20964,15 +20952,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 306,
+    "id": 463,
     "server_id": 23,
     "type": "house",
-    "name": "Дом Донатера",
-    "owner": "Государство",
+    "name": "топчел",
+    "owner": "Nazar_Wappy",
     "status": "Аукцион",
-    "x": 1895.99,
-    "y": -1064.77,
-    "price": 150,
+    "x": 2206.36,
+    "y": 656.3729,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -21000,15 +20988,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 669,
+    "id": 718,
     "server_id": 23,
     "type": "house",
-    "name": "Дом",
-    "owner": "Kawasaki_Ninja",
+    "name": "Продам этот дом ДС: svit0120",
+    "owner": "Semen_Boobabov",
     "status": "Аукцион",
-    "x": 1030.09,
-    "y": 2028.11,
-    "price": 1500,
+    "x": 1599.4,
+    "y": 2757.09,
+    "price": 8849,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1677,
+    "server_id": 23,
+    "type": "house",
+    "name": "Продам этот дом ДС: svit0120",
+    "owner": "Semen_Boobabov",
+    "status": "Аукцион",
+    "x": 2487.31,
+    "y": -1431.67,
+    "price": 8849,
     "district": "Сан-Андреас"
   },
   {
