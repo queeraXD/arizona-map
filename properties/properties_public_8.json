@@ -828,18 +828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 69,
-    "server_id": 8,
-    "type": "house",
-    "name": "NoterDam",
-    "owner": "TulchKyba_Savchenko",
-    "status": "Занято",
-    "x": 2362.86,
-    "y": -1644.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 70,
     "server_id": 8,
     "type": "house",
@@ -903,7 +891,7 @@
     "id": 75,
     "server_id": 8,
     "type": "house",
-    "name": "Maestro Garcia </3",
+    "name": "Opg Garcia </3",
     "owner": "Maestro_Garcia",
     "status": "Занято",
     "x": 2327.28,
@@ -2187,7 +2175,7 @@
     "id": 182,
     "server_id": 8,
     "type": "house",
-    "name": "Vespucci",
+    "name": "Расписной",
     "owner": "Obre_Raspisnoi",
     "status": "Занято",
     "x": 693.7069,
@@ -8960,18 +8948,6 @@
     "status": "Занято",
     "x": -2659.96,
     "y": 876.3309,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 749,
-    "server_id": 8,
-    "type": "house",
-    "name": "ТГ @arsenpfanera torg",
-    "owner": "TulchKyba_Savchenko",
-    "status": "Занято",
-    "x": -2671.31,
-    "y": 927.4249,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24852,18 +24828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2078,
-    "server_id": 8,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Fallen_Castle",
-    "status": "Занято",
-    "x": 2587.4,
-    "y": -1229.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2079,
     "server_id": 8,
     "type": "house",
@@ -25572,6 +25536,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2138,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Danil_Warren",
+    "status": "Занято",
+    "x": -48.7064,
+    "y": 956.5159,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 69,
+    "server_id": 8,
+    "type": "house",
+    "name": "NoterDam",
+    "owner": "TulchKyba_Savchenko",
+    "status": "Аукцион",
+    "x": 2362.86,
+    "y": -1644.65,
+    "price": 12500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 184,
     "server_id": 8,
     "type": "house",
@@ -25593,6 +25581,18 @@
     "x": 1195.57,
     "y": -1010.89,
     "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 749,
+    "server_id": 8,
+    "type": "house",
+    "name": "ТГ @arsenpfanera torg",
+    "owner": "TulchKyba_Savchenko",
+    "status": "Аукцион",
+    "x": -2671.31,
+    "y": 927.4249,
+    "price": 66666,
     "district": "Сан-Андреас"
   },
   {
@@ -25632,15 +25632,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2138,
+    "id": 2078,
     "server_id": 8,
     "type": "house",
-    "name": "Дом",
+    "name": "Деп условия",
     "owner": "Государство",
     "status": "Аукцион",
-    "x": -48.7064,
-    "y": 956.5159,
-    "price": 1000,
+    "x": 2587.4,
+    "y": -1229.29,
+    "price": 150,
     "district": "Сан-Андреас"
   },
   {

@@ -1428,18 +1428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 119,
-    "server_id": 14,
-    "type": "house",
-    "name": "<3 Sovhoz Corporation <3",
-    "owner": "Linkoln_Sovhoz",
-    "status": "Занято",
-    "x": 1891.9,
-    "y": -1914.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 120,
     "server_id": 14,
     "type": "house",
@@ -1760,6 +1748,18 @@
     "status": "Занято",
     "x": 1242.25,
     "y": -1076.36,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 147,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Armani_Exchange",
+    "status": "Занято",
+    "x": 1242.38,
+    "y": -1099.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -4316,18 +4316,6 @@
     "status": "Занято",
     "x": 648.853,
     "y": -1489.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 361,
-    "server_id": 14,
-    "type": "house",
-    "name": "<3 Sovhoz Corporation <3",
-    "owner": "Linkoln_Sovhoz",
-    "status": "Занято",
-    "x": 903.398,
-    "y": -1512.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22380,30 +22368,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1873,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Payper_Lovit",
-    "status": "Занято",
-    "x": 2468.34,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1874,
-    "server_id": 14,
-    "type": "house",
-    "name": "Sevens",
-    "owner": "Payper_Lovit",
-    "status": "Занято",
-    "x": 2473.25,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1875,
     "server_id": 14,
     "type": "house",
@@ -23500,7 +23464,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Дом",
-    "owner": "Sexy_Altushka",
+    "owner": "Web_World",
     "status": "Занято",
     "x": -42.2056,
     "y": 959.2109,
@@ -23508,15 +23472,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 147,
+    "id": 119,
     "server_id": 14,
     "type": "house",
-    "name": "Дом",
-    "owner": "Armani_Exchange",
+    "name": "<3 Sovhoz Corporation <3",
+    "owner": "Linkoln_Sovhoz",
     "status": "Аукцион",
-    "x": 1242.38,
-    "y": -1099.59,
-    "price": 50000,
+    "x": 1891.9,
+    "y": -1914.84,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 361,
+    "server_id": 14,
+    "type": "house",
+    "name": "<3 Sovhoz Corporation <3",
+    "owner": "Linkoln_Sovhoz",
+    "status": "Аукцион",
+    "x": 903.398,
+    "y": -1512.91,
+    "price": 65000,
     "district": "Сан-Андреас"
   },
   {
@@ -23541,6 +23517,30 @@
     "x": 2613.64,
     "y": 2053.25,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1873,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Payper_Lovit",
+    "status": "Аукцион",
+    "x": 2468.34,
+    "y": -1383.37,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1874,
+    "server_id": 14,
+    "type": "house",
+    "name": "Sevens",
+    "owner": "Payper_Lovit",
+    "status": "Аукцион",
+    "x": 2473.25,
+    "y": -1383.37,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -25120,7 +25120,7 @@
     "server_id": 14,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Stanislav_Povidlov",
+    "owner": "Gustaf_Calder",
     "status": "Занято",
     "x": 111.076,
     "y": -1782.68,

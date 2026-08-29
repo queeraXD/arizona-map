@@ -6444,18 +6444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 537,
-    "server_id": 18,
-    "type": "house",
-    "name": "Царский дом",
-    "owner": "bossov",
-    "status": "Занято",
-    "x": 2066.1,
-    "y": 2721.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 538,
     "server_id": 18,
     "type": "house",
@@ -8208,6 +8196,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 684,
+    "server_id": 18,
+    "type": "house",
+    "name": "Hummer",
+    "owner": "Leon_Hummer",
+    "status": "Занято",
+    "x": -2582.2,
+    "y": 2307.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 685,
     "server_id": 18,
     "type": "house",
@@ -8888,18 +8888,6 @@
     "status": "Занято",
     "x": -2860.27,
     "y": 835.6959,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 742,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Erik_Kaspi",
-    "status": "Занято",
-    "x": -2882.27,
-    "y": 779.971,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12532,7 +12520,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Fora House ",
-    "owner": "Fora_Mercy",
+    "owner": "Kris_Riedghfield",
     "status": "Занято",
     "x": -1872.44,
     "y": 1146.74,
@@ -22020,15 +22008,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 684,
+    "id": 537,
+    "server_id": 18,
+    "type": "house",
+    "name": "Царский дом",
+    "owner": "bossov",
+    "status": "Аукцион",
+    "x": 2066.1,
+    "y": 2721.71,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 742,
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Alice_Meynell",
+    "owner": "Erik_Kaspi",
     "status": "Аукцион",
-    "x": -2582.2,
-    "y": 2307.99,
-    "price": 40000,
+    "x": -2882.27,
+    "y": 779.971,
+    "price": 22000,
     "district": "Сан-Андреас"
   },
   {
