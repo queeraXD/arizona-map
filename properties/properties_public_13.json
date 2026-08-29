@@ -48,18 +48,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 4,
-    "server_id": 13,
-    "type": "house",
-    "name": "parrots",
-    "owner": "Billy_Gray",
-    "status": "Занято",
-    "x": 1955.12,
-    "y": -1115.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 5,
     "server_id": 13,
     "type": "house",
@@ -2452,7 +2440,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Хижина Жигуля [DeLorean Corp",
-    "owner": "Ottone_DeLorean",
+    "owner": "Roman_DeLorean",
     "status": "Занято",
     "x": 1527.47,
     "y": -772.895,
@@ -9356,6 +9344,18 @@
     "status": "Занято",
     "x": -2568.95,
     "y": 794.1749,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 780,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sky_White",
+    "status": "Занято",
+    "x": -2541.29,
+    "y": 733.153,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17952,18 +17952,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1500,
-    "server_id": 13,
-    "type": "house",
-    "name": "Escort base",
-    "owner": "Swanidze_Riwers",
-    "status": "Занято",
-    "x": 2051.26,
-    "y": -954.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1501,
     "server_id": 13,
     "type": "house",
@@ -23100,15 +23088,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 780,
+    "id": 1500,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Nikita_Holiks",
+    "name": "Escort base",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2051.26,
+    "y": -954.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 4,
+    "server_id": 13,
+    "type": "house",
+    "name": "parrots",
+    "owner": "Billy_Gray",
     "status": "Аукцион",
-    "x": -2541.29,
-    "y": 733.153,
-    "price": 3000,
+    "x": 1955.12,
+    "y": -1115.4,
+    "price": 9500,
     "district": "Сан-Андреас"
   },
   {
