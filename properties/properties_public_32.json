@@ -9348,18 +9348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 784,
-    "server_id": 32,
-    "type": "house",
-    "name": "CORSAR",
-    "owner": "Gopnik_Corsar",
-    "status": "Занято",
-    "x": -2513.5,
-    "y": 849.1569,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 785,
     "server_id": 32,
     "type": "house",
@@ -9512,18 +9500,6 @@
     "status": "Занято",
     "x": -2368.82,
     "y": 740.5089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 798,
-    "server_id": 32,
-    "type": "house",
-    "name": "Corsar",
-    "owner": "Gopnik_Corsar",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 763.504,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22341,6 +22317,30 @@
     "x": 866.827,
     "y": -1798.91,
     "price": 65000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 784,
+    "server_id": 32,
+    "type": "house",
+    "name": "CORSAR",
+    "owner": "Gopnik_Corsar",
+    "status": "Аукцион",
+    "x": -2513.5,
+    "y": 849.1569,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 798,
+    "server_id": 32,
+    "type": "house",
+    "name": "Corsar",
+    "owner": "Gopnik_Corsar",
+    "status": "Аукцион",
+    "x": -2368.82,
+    "y": 763.504,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
