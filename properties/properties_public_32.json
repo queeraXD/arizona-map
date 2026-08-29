@@ -108,18 +108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 9,
-    "server_id": 32,
-    "type": "house",
-    "name": "Kostum/Group",
-    "owner": "Egor_Kostum",
-    "status": "Занято",
-    "x": 2036.07,
-    "y": -1059.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 10,
     "server_id": 32,
     "type": "house",
@@ -2036,18 +2024,6 @@
     "status": "Занято",
     "x": 883.2899,
     "y": -1800.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 170,
-    "server_id": 32,
-    "type": "house",
-    "name": "Алтайский Потрошитель",
-    "owner": "Everlast_Wolfgang",
-    "status": "Занято",
-    "x": 866.827,
-    "y": -1798.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5535,7 +5511,7 @@
     "id": 461,
     "server_id": 32,
     "type": "house",
-    "name": "ЛВ | 461 | 10",
+    "name": "Дом",
     "owner": "Alejandro_Gerrard",
     "status": "Занято",
     "x": 2123.33,
@@ -8972,6 +8948,18 @@
     "status": "Занято",
     "x": -2655.45,
     "y": 985.7849,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 752,
+    "server_id": 32,
+    "type": "house",
+    "name": "Immortal",
+    "owner": "Kevin_Wallkers",
+    "status": "Занято",
+    "x": -2641.07,
+    "y": 935.7189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15435,8 +15423,8 @@
     "id": 1294,
     "server_id": 32,
     "type": "house",
-    "name": "ROMARIO",
-    "owner": "Nico_Blassed",
+    "name": "Hackney Downs",
+    "owner": "Adji_Gadjiev",
     "status": "Занято",
     "x": -2558.63,
     "y": -118.7289,
@@ -22296,6 +22284,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 9,
+    "server_id": 32,
+    "type": "house",
+    "name": "Kostum/Group",
+    "owner": "Egor_Kostum",
+    "status": "Аукцион",
+    "x": 2036.07,
+    "y": -1059.32,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 170,
+    "server_id": 32,
+    "type": "house",
+    "name": "Алтайский Потрошитель",
+    "owner": "Everlast_Wolfgang",
+    "status": "Аукцион",
+    "x": 866.827,
+    "y": -1798.91,
+    "price": 65000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 565,
     "server_id": 32,
     "type": "house",
@@ -22305,18 +22317,6 @@
     "x": 244.8269,
     "y": 1130.06,
     "price": 10000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 752,
-    "server_id": 32,
-    "type": "house",
-    "name": "Immortal",
-    "owner": "Kevin_Wallkers",
-    "status": "Аукцион",
-    "x": -2641.07,
-    "y": 935.7189,
-    "price": 70000,
     "district": "Сан-Андреас"
   },
   {
@@ -22533,18 +22533,6 @@
     "x": 1315.5,
     "y": -898.048,
     "price": 325999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 101,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Aleksandr_Emberheart",
-    "status": "Аукцион",
-    "x": -2242.28,
-    "y": -170.898,
-    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -23216,6 +23204,18 @@
     "status": "Занято",
     "x": -227.385,
     "y": 2711.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 101,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Aleksandr_Emberheart",
+    "status": "Занято",
+    "x": -2242.28,
+    "y": -170.898,
     "price": 0,
     "district": "Сан-Андреас"
   },

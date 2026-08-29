@@ -1128,18 +1128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 95,
-    "server_id": 8,
-    "type": "house",
-    "name": "10 lvl",
-    "owner": "Ekaterina_Btoraya",
-    "status": "Занято",
-    "x": 2695.44,
-    "y": -2020.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 96,
     "server_id": 8,
     "type": "house",
@@ -3188,6 +3176,18 @@
     "status": "Занято",
     "x": 1188.36,
     "y": -1011.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 269,
+    "server_id": 8,
+    "type": "house",
+    "name": "Расписной",
+    "owner": "Obre_Raspisnoi",
+    "status": "Занято",
+    "x": 1195.57,
+    "y": -1010.89,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21852,18 +21852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1829,
-    "server_id": 8,
-    "type": "house",
-    "name": "oreshik",
-    "owner": "Ekaterina_Btoraya",
-    "status": "Занято",
-    "x": 1453.73,
-    "y": 2026.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1830,
     "server_id": 8,
     "type": "house",
@@ -24132,6 +24120,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2019,
+    "server_id": 8,
+    "type": "house",
+    "name": "yt nysson",
+    "owner": "Sos_Krutoy",
+    "status": "Занято",
+    "x": 2537.75,
+    "y": 1638.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 2020,
     "server_id": 8,
     "type": "house",
@@ -25548,6 +25548,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 95,
+    "server_id": 8,
+    "type": "house",
+    "name": "10 lvl",
+    "owner": "Ekaterina_Btoraya",
+    "status": "Аукцион",
+    "x": 2695.44,
+    "y": -2020.52,
+    "price": 3200,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 183,
     "server_id": 8,
     "type": "house",
@@ -25569,18 +25581,6 @@
     "x": 693.841,
     "y": -1645.77,
     "price": 50000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 269,
-    "server_id": 8,
-    "type": "house",
-    "name": "Расписной",
-    "owner": "Obre_Raspisnoi",
-    "status": "Аукцион",
-    "x": 1195.57,
-    "y": -1010.89,
-    "price": 6500,
     "district": "Сан-Андреас"
   },
   {
@@ -25620,15 +25620,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2019,
+    "id": 1829,
     "server_id": 8,
     "type": "house",
-    "name": "yt nysson",
-    "owner": "Sos_Krutoy",
+    "name": "oreshik",
+    "owner": "Ekaterina_Btoraya",
     "status": "Аукцион",
-    "x": 2537.75,
-    "y": 1638.76,
-    "price": 2000,
+    "x": 1453.73,
+    "y": 2026.78,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
