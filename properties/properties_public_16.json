@@ -3588,18 +3588,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 299,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": 2101.94,
-    "y": -1075.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 300,
     "server_id": 16,
     "type": "house",
@@ -9820,7 +9808,7 @@
     "server_id": 16,
     "type": "house",
     "name": "_Chuvash defense_",
-    "owner": "Jizzee_Wilcox",
+    "owner": "Image_Material",
     "status": "Занято",
     "x": -2689.46,
     "y": -167.298,
@@ -9860,18 +9848,6 @@
     "status": "Занято",
     "x": -2689.56,
     "y": -141.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 822,
-    "server_id": 16,
-    "type": "house",
-    "name": "lee",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": -2691.24,
-    "y": -134.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11196,18 +11172,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 934,
-    "server_id": 16,
-    "type": "house",
-    "name": "Майнинг-Ферма №1",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": -2112.64,
-    "y": 745.564,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 935,
     "server_id": 16,
     "type": "house",
@@ -11264,18 +11228,6 @@
     "status": "Занято",
     "x": -2066.59,
     "y": 796.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 940,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": -2048.26,
-    "y": 796.4689,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11528,18 +11480,6 @@
     "status": "Занято",
     "x": -2158.17,
     "y": 753.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 962,
-    "server_id": 16,
-    "type": "house",
-    "name": "Майнинг-Ферма №3",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": -2168.74,
-    "y": 743.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14556,18 +14496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1214,
-    "server_id": 16,
-    "type": "house",
-    "name": "White Apartments",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": -2789.18,
-    "y": 183.845,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1215,
     "server_id": 16,
     "type": "house",
@@ -15511,18 +15439,6 @@
     "owner": "Mog_Ger",
     "status": "Занято",
     "x": -2321.73,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1294,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": -2340.12,
     "y": 656.7349,
     "price": 0,
     "district": "Сан-Андреас"
@@ -19780,7 +19696,7 @@
     "server_id": 16,
     "type": "house",
     "name": "_Chuvash defense_",
-    "owner": "Jizzee_Wilcox",
+    "owner": "Image_Material",
     "status": "Занято",
     "x": 2368.77,
     "y": 962.838,
@@ -22293,6 +22209,90 @@
     "x": -86.2182,
     "y": 974.4639,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 299,
+    "server_id": 16,
+    "type": "house",
+    "name": "гаражка гетто",
+    "owner": "Glebaryshnya",
+    "status": "Аукцион",
+    "x": 2101.94,
+    "y": -1075.22,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 822,
+    "server_id": 16,
+    "type": "house",
+    "name": "lee",
+    "owner": "Glebaryshnya",
+    "status": "Аукцион",
+    "x": -2691.24,
+    "y": -134.0,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 934,
+    "server_id": 16,
+    "type": "house",
+    "name": "Майнинг-Ферма №1",
+    "owner": "Glebaryshnya",
+    "status": "Аукцион",
+    "x": -2112.64,
+    "y": 745.564,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 940,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Glebaryshnya",
+    "status": "Аукцион",
+    "x": -2048.26,
+    "y": 796.4689,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 962,
+    "server_id": 16,
+    "type": "house",
+    "name": "Майнинг-Ферма №3",
+    "owner": "Glebaryshnya",
+    "status": "Аукцион",
+    "x": -2168.74,
+    "y": 743.76,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1214,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Glebaryshnya",
+    "status": "Аукцион",
+    "x": -2789.18,
+    "y": 183.845,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1294,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Glebaryshnya",
+    "status": "Аукцион",
+    "x": -2340.12,
+    "y": 656.7349,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
