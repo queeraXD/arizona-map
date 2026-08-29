@@ -10188,18 +10188,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 851,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ananas",
-    "owner": "Kristina_Ananasik",
-    "status": "Занято",
-    "x": -2189.26,
-    "y": 1164.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 852,
     "server_id": 22,
     "type": "house",
@@ -13136,18 +13124,6 @@
     "status": "Занято",
     "x": -2234.33,
     "y": 830.867,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1097,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stepan_Smolkin",
-    "status": "Занято",
-    "x": -2223.62,
-    "y": 820.458,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21864,6 +21840,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 851,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ananas",
+    "owner": "Kristina_Ananasik",
+    "status": "Аукцион",
+    "x": -2189.26,
+    "y": 1164.27,
+    "price": 17000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1097,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stepan_Smolkin",
+    "status": "Аукцион",
+    "x": -2223.62,
+    "y": 820.458,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1822,
     "server_id": 22,
     "type": "house",
@@ -26128,7 +26128,7 @@
     "server_id": 22,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Likveil_Revival",
+    "owner": "Strange_Revival",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

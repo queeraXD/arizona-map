@@ -6024,18 +6024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 502,
-    "server_id": 27,
-    "type": "house",
-    "name": "Кибитка",
-    "owner": "Ericko_Simans",
-    "status": "Занято",
-    "x": 1364.3,
-    "y": 1931.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 503,
     "server_id": 27,
     "type": "house",
@@ -8516,18 +8504,6 @@
     "status": "Занято",
     "x": 1666.97,
     "y": 2610.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 710,
-    "server_id": 27,
-    "type": "house",
-    "name": "Kanev",
-    "owner": "Kevin_Richardson",
-    "status": "Занято",
-    "x": 1610.94,
-    "y": 2648.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15519,7 +15495,7 @@
     "id": 1293,
     "server_id": 27,
     "type": "house",
-    "name": "деп условия",
+    "name": "Monopoly KM",
     "owner": "Kosmas_Monte",
     "status": "Занято",
     "x": -2576.46,
@@ -15531,7 +15507,7 @@
     "id": 1294,
     "server_id": 27,
     "type": "house",
-    "name": "Барсик Жилье",
+    "name": "Monopoly KM",
     "owner": "Kosmas_Monte",
     "status": "Занято",
     "x": -2558.63,
@@ -22647,7 +22623,7 @@
     "id": 1887,
     "server_id": 27,
     "type": "house",
-    "name": "Бункер ",
+    "name": "Monopoly KM",
     "owner": "Kosmas_Monte",
     "status": "Занято",
     "x": -2240.51,
@@ -24285,6 +24261,30 @@
     "x": -86.222,
     "y": 978.036,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 502,
+    "server_id": 27,
+    "type": "house",
+    "name": "Кибитка",
+    "owner": "Ericko_Simans",
+    "status": "Аукцион",
+    "x": 1364.3,
+    "y": 1931.64,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 710,
+    "server_id": 27,
+    "type": "house",
+    "name": "Kanev",
+    "owner": "Kevin_Richardson",
+    "status": "Аукцион",
+    "x": 1610.94,
+    "y": 2648.2,
+    "price": 11000,
     "district": "Сан-Андреас"
   },
   {
