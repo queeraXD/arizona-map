@@ -3231,8 +3231,8 @@
     "id": 269,
     "server_id": 6,
     "type": "house",
-    "name": "Drain Mafia 0_0",
-    "owner": "Albert_Chto",
+    "name": "Сhto Mafia 0_0",
+    "owner": "Federico_Dobryak",
     "status": "Занято",
     "x": 1195.57,
     "y": -1010.89,
@@ -6504,18 +6504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 542,
-    "server_id": 6,
-    "type": "house",
-    "name": "ларек",
-    "owner": "Artem_Bicevic",
-    "status": "Занято",
-    "x": 1894.88,
-    "y": 57.8525,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 543,
     "server_id": 6,
     "type": "house",
@@ -9584,18 +9572,6 @@
     "status": "Занято",
     "x": -2372.53,
     "y": 784.028,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 800,
-    "server_id": 6,
-    "type": "house",
-    "name": "Chuvash family",
-    "owner": "Elliot_Vintage",
-    "status": "Занято",
-    "x": -2358.42,
-    "y": 820.0349,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23556,18 +23532,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1968,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": 2647.11,
-    "y": 2260.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1969,
     "server_id": 6,
     "type": "house",
@@ -24279,7 +24243,7 @@
     "id": 2028,
     "server_id": 6,
     "type": "house",
-    "name": "Гуцульська банька",
+    "name": "Дом",
     "owner": "Yurchik_Duhobor",
     "status": "Занято",
     "x": -85.5623,
@@ -24291,7 +24255,7 @@
     "id": 2029,
     "server_id": 6,
     "type": "house",
-    "name": "Калбаса с фанфуриком",
+    "name": "Дом",
     "owner": "Yurchik_Duhobor",
     "status": "Занято",
     "x": -85.5818,
@@ -24336,6 +24300,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 542,
+    "server_id": 6,
+    "type": "house",
+    "name": "ларек",
+    "owner": "Artem_Bicevic",
+    "status": "Аукцион",
+    "x": 1894.88,
+    "y": 57.8525,
+    "price": 200000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 756,
     "server_id": 6,
     "type": "house",
@@ -24345,6 +24321,18 @@
     "x": -2731.47,
     "y": 723.703,
     "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 800,
+    "server_id": 6,
+    "type": "house",
+    "name": "Chuvash family",
+    "owner": "Elliot_Vintage",
+    "status": "Аукцион",
+    "x": -2358.42,
+    "y": 820.0349,
+    "price": 8200,
     "district": "Сан-Андреас"
   },
   {
@@ -24368,6 +24356,18 @@
     "status": "Аукцион",
     "x": 2608.32,
     "y": 2195.56,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1968,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": 2647.11,
+    "y": 2260.99,
     "price": 2000,
     "district": "Сан-Андреас"
   },

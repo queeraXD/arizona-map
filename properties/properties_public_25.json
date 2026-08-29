@@ -6168,6 +6168,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 514,
+    "server_id": 25,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Besso_NaTwinke",
+    "status": "Занято",
+    "x": 1549.98,
+    "y": 2096.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 515,
     "server_id": 25,
     "type": "house",
@@ -13260,18 +13272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1108,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Subaru_Stark",
-    "status": "Занято",
-    "x": 1802.88,
-    "y": -1300.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1109,
     "server_id": 25,
     "type": "house",
@@ -16539,7 +16539,7 @@
     "id": 1381,
     "server_id": 25,
     "type": "house",
-    "name": "клоповник",
+    "name": "но они же парей были",
     "owner": "Walter_Rockefeller",
     "status": "Занято",
     "x": 1972.24,
@@ -18332,18 +18332,6 @@
     "status": "Занято",
     "x": -2361.51,
     "y": 246.619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1531,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bender_Rodriguez",
-    "status": "Занято",
-    "x": -2361.44,
-    "y": 251.6199,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23568,15 +23556,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 514,
+    "id": 1969,
     "server_id": 25,
     "type": "house",
-    "name": "налдон ловит",
-    "owner": "Naldon_Legenda",
-    "status": "Аукцион",
-    "x": 1549.98,
-    "y": 2096.4,
-    "price": 1000,
+    "name": "Фарми и хвастайся",
+    "owner": "Moon_Bastard",
+    "status": "Занято",
+    "x": -86.2182,
+    "y": 974.4639,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23592,15 +23580,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1969,
+    "id": 1108,
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
+    "owner": "Subaru_Stark",
     "status": "Аукцион",
-    "x": -86.2182,
-    "y": 974.4639,
-    "price": 1000,
+    "x": 1802.88,
+    "y": -1300.88,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1531,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bender_Rodriguez",
+    "status": "Аукцион",
+    "x": -2361.44,
+    "y": 251.6199,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
