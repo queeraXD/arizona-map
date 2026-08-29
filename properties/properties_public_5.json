@@ -8928,18 +8928,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 751,
-    "server_id": 5,
-    "type": "house",
-    "name": "cuerto squad",
-    "owner": "Dostavka_Cuerto",
-    "status": "Занято",
-    "x": -2655.45,
-    "y": 985.7849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 752,
     "server_id": 5,
     "type": "house",
@@ -14620,7 +14608,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Дом",
-    "owner": "Vlad_Mafik",
+    "owner": "Leha_Bro",
     "status": "Занято",
     "x": -2790.25,
     "y": 126.9059,
@@ -21844,7 +21832,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Vegow house",
-    "owner": "Maxim_Vinson",
+    "owner": "Triple_Lin",
     "status": "Занято",
     "x": 2788.19,
     "y": 2268.49,
@@ -21896,18 +21884,6 @@
     "status": "Занято",
     "x": 2794.12,
     "y": 2261.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1834,
-    "server_id": 5,
-    "type": "house",
-    "name": "RIMAS-HOME",
-    "owner": "Rikardo_Rimas",
-    "status": "Занято",
-    "x": 2794.2,
-    "y": 2268.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24948,6 +24924,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 751,
+    "server_id": 5,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Dostavka_Cuerto",
+    "status": "Аукцион",
+    "x": -2655.45,
+    "y": 985.7849,
+    "price": 150123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1697,
     "server_id": 5,
     "type": "house",
@@ -24969,6 +24957,18 @@
     "x": 2818.53,
     "y": 2140.85,
     "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1834,
+    "server_id": 5,
+    "type": "house",
+    "name": "RIMAS-HOME",
+    "owner": "Rikardo_Rimas",
+    "status": "Аукцион",
+    "x": 2794.2,
+    "y": 2268.35,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -28372,7 +28372,7 @@
     "server_id": 5,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Dostavka_Cuerto",
+    "owner": "Sokoll_Nurminskiy",
     "status": "Занято",
     "x": -2245.69,
     "y": 2282.04,
