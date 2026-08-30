@@ -14800,7 +14800,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Фармилка",
-    "owner": "Flappi_Liubchenko",
+    "owner": "Nikita_Liubchenko",
     "status": "Занято",
     "x": -2433.99,
     "y": 1274.1,
@@ -23376,18 +23376,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 116,
-    "server_id": 31,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Dodo_Pizza",
-    "status": "Аукцион",
-    "x": -2163.47,
-    "y": 129.382,
-    "price": 350000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 232,
     "server_id": 31,
     "type": "business",
@@ -23492,6 +23480,18 @@
     "status": "Занято",
     "x": -2625.72,
     "y": 209.242,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 116,
+    "server_id": 31,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Dodo_Pizza",
+    "status": "Занято",
+    "x": -2163.47,
+    "y": 129.382,
     "price": 0,
     "district": "Сан-Андреас"
   },

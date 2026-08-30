@@ -340,7 +340,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Дом в Los-Santos",
-    "owner": "Gosha_Semenyuk",
+    "owner": "Maksik_Catton",
     "status": "Занято",
     "x": 2209.7,
     "y": -1240.25,
@@ -6732,18 +6732,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 563,
-    "server_id": 28,
-    "type": "house",
-    "name": "House of Mirrors",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 263.622,
-    "y": 1171.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 564,
     "server_id": 28,
     "type": "house",
@@ -6800,18 +6788,6 @@
     "status": "Занято",
     "x": 404.363,
     "y": 1243.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 569,
-    "server_id": 28,
-    "type": "house",
-    "name": "Deadinside",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 452.07,
-    "y": 1246.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8320,7 +8296,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Hate",
-    "owner": "Dominic_Darkness",
+    "owner": "Travis_Viper",
     "status": "Занято",
     "x": 1349.63,
     "y": 2567.69,
@@ -14676,18 +14652,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1228,
-    "server_id": 28,
-    "type": "house",
-    "name": "By Gonchez",
-    "owner": "Grey_Rock",
-    "status": "Занято",
-    "x": -2477.21,
-    "y": 1318.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1229,
     "server_id": 28,
     "type": "house",
@@ -15644,18 +15608,6 @@
     "status": "Занято",
     "x": -2515.38,
     "y": -189.2209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1309,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -170.9069,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20092,7 +20044,7 @@
     "server_id": 28,
     "type": "house",
     "name": "AMATERASU",
-    "owner": "Holy_Locket",
+    "owner": "Gojo_Stars",
     "status": "Занято",
     "x": -760.603,
     "y": 2765.4,
@@ -22164,6 +22116,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1853,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Flo_Rida",
+    "status": "Занято",
+    "x": -48.7064,
+    "y": 956.5159,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 45,
     "server_id": 28,
     "type": "house",
@@ -22188,39 +22152,75 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 563,
+    "server_id": 28,
+    "type": "house",
+    "name": "House of Mirrors",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": 263.622,
+    "y": 1171.51,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 569,
+    "server_id": 28,
+    "type": "house",
+    "name": "Deadinside",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": 452.07,
+    "y": 1246.99,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 864,
     "server_id": 28,
     "type": "house",
-    "name": "Grove street home",
+    "name": "полный шкаф вещей!",
     "owner": "Michail_Shtyh",
     "status": "Аукцион",
     "x": -245.722,
     "y": 2501.72,
-    "price": 1500,
+    "price": 3001,
     "district": "Сан-Андреас"
   },
   {
     "id": 865,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
+    "name": "полный шкаф вещей!",
     "owner": "Michail_Shtyh",
     "status": "Аукцион",
     "x": -269.1889,
     "y": 2504.93,
-    "price": 1500,
+    "price": 3001,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1853,
+    "id": 1228,
+    "server_id": 28,
+    "type": "house",
+    "name": "By Gonchez",
+    "owner": "Grey_Rock",
+    "status": "Аукцион",
+    "x": -2477.21,
+    "y": 1318.55,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1309,
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
+    "owner": "Grafi_Kus",
     "status": "Аукцион",
-    "x": -48.7064,
-    "y": 956.5159,
-    "price": 1000,
+    "x": -2515.38,
+    "y": -170.9069,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {

@@ -5112,6 +5112,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 426,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sasha_Gromovu",
+    "status": "Занято",
+    "x": 295.144,
+    "y": -54.6627,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 427,
     "server_id": 25,
     "type": "house",
@@ -6752,6 +6764,18 @@
     "status": "Занято",
     "x": 263.622,
     "y": 1171.51,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 564,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sasha_Gromovu",
+    "status": "Занято",
+    "x": 258.3089,
+    "y": 1151.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9668,18 +9692,6 @@
     "status": "Занято",
     "x": -2723.12,
     "y": -112.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 808,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": -2722.88,
-    "y": -127.9029,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15408,18 +15420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1287,
-    "server_id": 25,
-    "type": "house",
-    "name": "тут живет пидор",
-    "owner": "Seforolius_Lerned",
-    "status": "Занято",
-    "x": -2620.77,
-    "y": -120.2119,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1288,
     "server_id": 25,
     "type": "house",
@@ -15788,18 +15788,6 @@
     "status": "Занято",
     "x": -89.1909,
     "y": -1564.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1319,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": -102.482,
-    "y": -1576.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22948,7 +22936,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Durex Team",
-    "owner": "Timur_Durex",
+    "owner": "Naldon_Legenda",
     "status": "Занято",
     "x": 1751.46,
     "y": 2868.68,
@@ -23604,27 +23592,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 426,
+    "id": 808,
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Adrenaline_Bishop",
+    "owner": "Naldon_Legenda",
     "status": "Аукцион",
-    "x": 295.144,
-    "y": -54.6627,
-    "price": 5000,
+    "x": -2722.88,
+    "y": -127.9029,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 564,
+    "id": 1287,
+    "server_id": 25,
+    "type": "house",
+    "name": "тут живет пидор",
+    "owner": "Seforolius_Lerned",
+    "status": "Аукцион",
+    "x": -2620.77,
+    "y": -120.2119,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1319,
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Adrenaline_Bishop",
+    "owner": "Naldon_Legenda",
     "status": "Аукцион",
-    "x": 258.3089,
-    "y": 1151.77,
-    "price": 1500,
+    "x": -102.482,
+    "y": -1576.0,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
