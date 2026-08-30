@@ -1239,7 +1239,7 @@
     "id": 103,
     "server_id": 19,
     "type": "house",
-    "name": "<3DeForbs Empire<3",
+    "name": "kill mslf",
     "owner": "Jacob_Mavrody",
     "status": "Занято",
     "x": 1908.1,
@@ -7472,6 +7472,18 @@
     "status": "Занято",
     "x": -29.9144,
     "y": 1364.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 626,
+    "server_id": 19,
+    "type": "house",
+    "name": "Singer",
+    "owner": "Boby_Singer",
+    "status": "Занято",
+    "x": 4.1448,
+    "y": 1344.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21816,18 +21828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 626,
-    "server_id": 19,
-    "type": "house",
-    "name": "milligan",
-    "owner": "Thyra_Shadowveil",
-    "status": "Аукцион",
-    "x": 4.1448,
-    "y": 1344.59,
-    "price": 10,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 648,
     "server_id": 19,
     "type": "house",
@@ -22056,18 +22056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 6,
-    "server_id": 19,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Richard_Rockefeller",
-    "status": "Аукцион",
-    "x": 1352.4,
-    "y": -1758.84,
-    "price": 320000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 39,
     "server_id": 19,
     "type": "business",
@@ -22077,18 +22065,6 @@
     "x": 559.489,
     "y": -1293.21,
     "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 46,
-    "server_id": 19,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Richard_Rockefeller",
-    "status": "Аукцион",
-    "x": 1445.11,
-    "y": -1418.56,
-    "price": 240000,
     "district": "Сан-Андреас"
   },
   {
@@ -22524,6 +22500,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 6,
+    "server_id": 19,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Stas_Refaund",
+    "status": "Занято",
+    "x": 1352.4,
+    "y": -1758.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 7,
     "server_id": 19,
     "type": "business",
@@ -22640,6 +22628,18 @@
     "status": "Занято",
     "x": 2493.12,
     "y": -1958.75,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 46,
+    "server_id": 19,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Stas_Refaund",
+    "status": "Занято",
+    "x": 1445.11,
+    "y": -1418.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
