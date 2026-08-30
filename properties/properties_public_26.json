@@ -252,6 +252,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 21,
+    "server_id": 26,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Pari_Vision",
+    "status": "Занято",
+    "x": 2148.63,
+    "y": -1319.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 22,
     "server_id": 26,
     "type": "house",
@@ -4060,7 +4072,7 @@
     "server_id": 26,
     "type": "house",
     "name": "onyxflare ",
-    "owner": "CecTpa_Cruzika",
+    "owner": "Kor_Olb",
     "status": "Занято",
     "x": 723.6119,
     "y": 269.678,
@@ -4504,7 +4516,7 @@
     "server_id": 26,
     "type": "house",
     "name": "onyxflare",
-    "owner": "CecTpa_Cruzika",
+    "owner": "Kor_Olb",
     "status": "Занято",
     "x": 2285.84,
     "y": 160.977,
@@ -4520,18 +4532,6 @@
     "status": "Занято",
     "x": 2269.37,
     "y": 110.9479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 380,
-    "server_id": 26,
-    "type": "house",
-    "name": "karatel squad",
-    "owner": "Feldan_Lizalov",
-    "status": "Занято",
-    "x": 2249.24,
-    "y": 111.165,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6880,7 +6880,7 @@
     "server_id": 26,
     "type": "house",
     "name": "onyxflare",
-    "owner": "CecTpa_Cruzika",
+    "owner": "Kor_Olb",
     "status": "Занято",
     "x": -201.6629,
     "y": 2772.17,
@@ -12256,7 +12256,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Monopoly mr. Patrick ;3",
-    "owner": "Patrick_Cooper",
+    "owner": "Madam_Secret",
     "status": "Занято",
     "x": 2059.93,
     "y": -266.501,
@@ -12364,7 +12364,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Monopoly mr. Patrick ;3",
-    "owner": "Patrick_Cooper",
+    "owner": "Madam_Secret",
     "status": "Занято",
     "x": 1911.59,
     "y": -464.2439,
@@ -12924,6 +12924,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1085,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hound_Openmind",
+    "status": "Занято",
+    "x": 1780.95,
+    "y": 2744.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1086,
     "server_id": 26,
     "type": "house",
@@ -13052,18 +13064,6 @@
     "status": "Занято",
     "x": -2234.33,
     "y": 830.867,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1097,
-    "server_id": 26,
-    "type": "house",
-    "name": "дом",
-    "owner": "Takayuki_Hakegawa",
-    "status": "Занято",
-    "x": -2223.62,
-    "y": 820.458,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24888,18 +24888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 21,
-    "server_id": 26,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Pari_Vision",
-    "status": "Аукцион",
-    "x": 2148.63,
-    "y": -1319.0,
-    "price": 3500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 139,
     "server_id": 26,
     "type": "house",
@@ -24921,6 +24909,18 @@
     "x": 787.895,
     "y": 376.4259,
     "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 380,
+    "server_id": 26,
+    "type": "house",
+    "name": "karatel squad",
+    "owner": "Feldan_Lizalov",
+    "status": "Аукцион",
+    "x": 2249.24,
+    "y": 111.165,
+    "price": 700,
     "district": "Сан-Андреас"
   },
   {
@@ -24972,15 +24972,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1085,
+    "id": 1097,
     "server_id": 26,
     "type": "house",
-    "name": "Дом",
-    "owner": "Hound_Openmind",
+    "name": "дом",
+    "owner": "Takayuki_Hakegawa",
     "status": "Аукцион",
-    "x": 1780.95,
-    "y": 2744.99,
-    "price": 500,
+    "x": -2223.62,
+    "y": 820.458,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {

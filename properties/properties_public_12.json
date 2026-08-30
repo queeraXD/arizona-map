@@ -8364,6 +8364,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 697,
+    "server_id": 12,
+    "type": "house",
+    "name": "Нора кроликов",
+    "owner": "Serega_Shax",
+    "status": "Занято",
+    "x": 1362.71,
+    "y": 2525.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 698,
     "server_id": 12,
     "type": "house",
@@ -10380,18 +10392,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 866,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 6",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -340.7749,
-    "y": 2565.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 867,
     "server_id": 12,
     "type": "house",
@@ -10412,18 +10412,6 @@
     "status": "Занято",
     "x": -313.3299,
     "y": 2567.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 869,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 5",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -322.6199,
-    "y": 2554.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23619,8 +23607,8 @@
     "id": 1969,
     "server_id": 12,
     "type": "house",
-    "name": "MONOPOLY Empire <3",
-    "owner": "Evelone_Monopoly",
+    "name": "Moony_House",
+    "owner": "Moony_Monopoly",
     "status": "Занято",
     "x": -86.222,
     "y": 978.036,
@@ -23643,8 +23631,8 @@
     "id": 1971,
     "server_id": 12,
     "type": "house",
-    "name": "Moony House",
-    "owner": "Moony_Monopoly",
+    "name": "MONOPOLY Empire <3",
+    "owner": "Evelone_Monopoly",
     "status": "Занято",
     "x": -42.2056,
     "y": 959.2109,
@@ -23688,15 +23676,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 697,
+    "id": 866,
     "server_id": 12,
     "type": "house",
-    "name": "Нора кроликов",
-    "owner": "Serega_Shax",
+    "name": "Broker 6",
+    "owner": "Dylan_Broker",
     "status": "Аукцион",
-    "x": 1362.71,
-    "y": 2525.57,
-    "price": 12000,
+    "x": -340.7749,
+    "y": 2565.41,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 869,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 5",
+    "owner": "Dylan_Broker",
+    "status": "Аукцион",
+    "x": -322.6199,
+    "y": 2554.17,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
