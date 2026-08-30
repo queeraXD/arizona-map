@@ -5256,18 +5256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 438,
-    "server_id": 21,
-    "type": "house",
-    "name": "БИТФАРМ",
-    "owner": "Stepa_Turbocharger",
-    "status": "Занято",
-    "x": 228.067,
-    "y": -1405.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 439,
     "server_id": 21,
     "type": "house",
@@ -20244,18 +20232,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1690,
-    "server_id": 21,
-    "type": "house",
-    "name": "хранилище членов",
-    "owner": "Jirovaya_Skladka",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2140.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1691,
     "server_id": 21,
     "type": "house",
@@ -20420,18 +20396,6 @@
     "status": "Занято",
     "x": 2003.69,
     "y": 2154.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1705,
-    "server_id": 21,
-    "type": "house",
-    "name": "Aрина лучшая",
-    "owner": "Jirovaya_Skladka",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2150.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21768,6 +21732,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1817,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ded_Avgustinovich",
+    "status": "Занято",
+    "x": -54.6693,
+    "y": 950.1279,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 438,
+    "server_id": 21,
+    "type": "house",
+    "name": "БИТФАРМ",
+    "owner": "Stepa_Turbocharger",
+    "status": "Аукцион",
+    "x": 228.067,
+    "y": -1405.5,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1310,
     "server_id": 21,
     "type": "house",
@@ -21792,15 +21780,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1817,
+    "id": 1690,
     "server_id": 21,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
+    "name": "хранилище членов",
+    "owner": "Jirovaya_Skladka",
     "status": "Аукцион",
-    "x": -54.6693,
-    "y": 950.1279,
-    "price": 1000,
+    "x": 2003.69,
+    "y": 2140.68,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1705,
+    "server_id": 21,
+    "type": "house",
+    "name": "Aрина лучшая",
+    "owner": "Jirovaya_Skladka",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2150.0,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -24316,7 +24316,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Магазин аксессуаров",
-    "owner": "Valera_Botihin",
+    "owner": "KpblcA_Aa",
     "status": "Занято",
     "x": -2089.11,
     "y": 84.268,

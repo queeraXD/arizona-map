@@ -9940,7 +9940,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Дом",
-    "owner": "Night_Stark",
+    "owner": "Maruti_Suzuki",
     "status": "Занято",
     "x": -2723.16,
     "y": -16.7231,
@@ -13992,30 +13992,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1169,
-    "server_id": 6,
-    "type": "house",
-    "name": "TastyLab",
-    "owner": "Yarik_Cannon",
-    "status": "Занято",
-    "x": -2791.58,
-    "y": -107.372,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1170,
-    "server_id": 6,
-    "type": "house",
-    "name": "LaSakura Empire",
-    "owner": "Yarik_Cannon",
-    "status": "Занято",
-    "x": -2791.8,
-    "y": -94.7817,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1171,
     "server_id": 6,
     "type": "house",
@@ -14916,18 +14892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1246,
-    "server_id": 6,
-    "type": "house",
-    "name": "tt -temichbrooklyn",
-    "owner": "Temich_Brooklyn",
-    "status": "Занято",
-    "x": -2477.25,
-    "y": 1244.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1247,
     "server_id": 6,
     "type": "house",
@@ -15416,18 +15380,6 @@
     "status": "Занято",
     "x": -2510.89,
     "y": 950.8779,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1288,
-    "server_id": 6,
-    "type": "house",
-    "name": "tt - temichbrooklyn",
-    "owner": "Temich_Brooklyn",
-    "status": "Занято",
-    "x": -2542.5,
-    "y": 942.7369,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21516,18 +21468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1796,
-    "server_id": 6,
-    "type": "house",
-    "name": "tt -temichbrooklyn",
-    "owner": "Temich_Brooklyn",
-    "status": "Занято",
-    "x": 2468.31,
-    "y": -1424.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1797,
     "server_id": 6,
     "type": "house",
@@ -23520,18 +23460,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1967,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Temich_Brooklyn",
-    "status": "Занято",
-    "x": 2647.11,
-    "y": 2268.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1968,
     "server_id": 6,
     "type": "house",
@@ -24315,8 +24243,8 @@
     "id": 2033,
     "server_id": 6,
     "type": "house",
-    "name": "Умный в гору не пойдёт",
-    "owner": "Maruti_Suzuki",
+    "name": "Nebrasko",
+    "owner": "Night_Stark",
     "status": "Занято",
     "x": -48.7064,
     "y": 956.5159,
@@ -24332,6 +24260,18 @@
     "status": "Занято",
     "x": -54.6693,
     "y": 950.1279,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2035,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Maruti_Suzuki",
+    "status": "Занято",
+    "x": -44.7877,
+    "y": 947.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24372,6 +24312,66 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1169,
+    "server_id": 6,
+    "type": "house",
+    "name": "yarik house",
+    "owner": "Yarik_Cannon",
+    "status": "Аукцион",
+    "x": -2791.58,
+    "y": -107.372,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1170,
+    "server_id": 6,
+    "type": "house",
+    "name": "yarik house",
+    "owner": "Yarik_Cannon",
+    "status": "Аукцион",
+    "x": -2791.8,
+    "y": -94.7817,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1246,
+    "server_id": 6,
+    "type": "house",
+    "name": "tt -temichbrooklyn",
+    "owner": "Temich_Brooklyn",
+    "status": "Аукцион",
+    "x": -2477.25,
+    "y": 1244.34,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1288,
+    "server_id": 6,
+    "type": "house",
+    "name": "tt - temichbrooklyn",
+    "owner": "Temich_Brooklyn",
+    "status": "Аукцион",
+    "x": -2542.5,
+    "y": 942.7369,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1796,
+    "server_id": 6,
+    "type": "house",
+    "name": "tt -temichbrooklyn",
+    "owner": "Temich_Brooklyn",
+    "status": "Аукцион",
+    "x": 2468.31,
+    "y": -1424.58,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1890,
     "server_id": 6,
     "type": "house",
@@ -24396,14 +24396,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2035,
+    "id": 1967,
     "server_id": 6,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
+    "owner": "Temich_Brooklyn",
     "status": "Аукцион",
-    "x": -44.7877,
-    "y": 947.0,
+    "x": 2647.11,
+    "y": 2268.42,
     "price": 1000,
     "district": "Сан-Андреас"
   },
