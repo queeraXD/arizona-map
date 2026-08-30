@@ -468,18 +468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 39,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Занято",
-    "x": 2388.42,
-    "y": -1279.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 40,
     "server_id": 20,
     "type": "house",
@@ -1076,6 +1064,18 @@
     "status": "Занято",
     "x": 2016.2,
     "y": -1716.96,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 90,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Crystal_Reisz",
+    "status": "Занято",
+    "x": 2017.75,
+    "y": -1703.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9572,18 +9572,6 @@
     "status": "Занято",
     "x": -2340.03,
     "y": 820.0209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 802,
-    "server_id": 20,
-    "type": "house",
-    "name": "emotion ",
-    "owner": "Different_Thinking",
-    "status": "Занято",
-    "x": -2321.73,
-    "y": 820.036,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21975,7 +21963,7 @@
     "id": 1836,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
+    "name": "sell ds rostik2003",
     "owner": "Radovan_Karadzic",
     "status": "Занято",
     "x": -91.2031,
@@ -22176,15 +22164,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 90,
+    "id": 39,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
-    "owner": "Crystal_Reisz",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
     "status": "Аукцион",
-    "x": 2017.75,
-    "y": -1703.38,
-    "price": 59999,
+    "x": 2388.42,
+    "y": -1279.69,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
@@ -22221,6 +22209,18 @@
     "x": -2580.91,
     "y": 920.38,
     "price": 8500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 802,
+    "server_id": 20,
+    "type": "house",
+    "name": "emotion ",
+    "owner": "Different_Thinking",
+    "status": "Аукцион",
+    "x": -2321.73,
+    "y": 820.036,
+    "price": 8000,
     "district": "Сан-Андреас"
   },
   {

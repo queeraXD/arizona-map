@@ -2628,6 +2628,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 221,
+    "server_id": 21,
+    "type": "house",
+    "name": "Ackerman Family",
+    "owner": "Chris_Ackerman",
+    "status": "Занято",
+    "x": 848.593,
+    "y": -745.0729,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 222,
     "server_id": 21,
     "type": "house",
@@ -7480,7 +7492,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Нычка Сербии",
-    "owner": "Serbia_Market",
+    "owner": "Pay_PalFrod",
     "status": "Занято",
     "x": 4.1448,
     "y": 1344.59,
@@ -12816,18 +12828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1073,
-    "server_id": 21,
-    "type": "house",
-    "name": "Andromeda (HeavenlyEva)",
-    "owner": "NedoLovec_Murphy",
-    "status": "Занято",
-    "x": -2900.53,
-    "y": 1080.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1074,
     "server_id": 21,
     "type": "house",
@@ -14252,6 +14252,18 @@
     "status": "Занято",
     "x": -2791.58,
     "y": -17.7355,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1193,
+    "server_id": 21,
+    "type": "house",
+    "name": "Моя хата",
+    "owner": "Angela_Ackerman",
+    "status": "Занято",
+    "x": -2793.14,
+    "y": 11.0249,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20208,18 +20220,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1690,
-    "server_id": 21,
-    "type": "house",
-    "name": "хранилище членов",
-    "owner": "Jirovaya_Skladka",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2140.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1691,
     "server_id": 21,
     "type": "house",
@@ -20372,18 +20372,6 @@
     "status": "Занято",
     "x": 2003.69,
     "y": 2154.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1705,
-    "server_id": 21,
-    "type": "house",
-    "name": "Aрина лучшая",
-    "owner": "Jirovaya_Skladka",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2150.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21156,6 +21144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1771,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mex_Mex",
+    "status": "Занято",
+    "x": 766.9329,
+    "y": 1989.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1772,
     "server_id": 21,
     "type": "house",
@@ -21744,18 +21744,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 221,
-    "server_id": 21,
-    "type": "house",
-    "name": "Makima Love 221",
-    "owner": "Sem_Solex",
-    "status": "Аукцион",
-    "x": 848.593,
-    "y": -745.0729,
-    "price": 7000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 910,
     "server_id": 21,
     "type": "house",
@@ -21768,15 +21756,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1193,
+    "id": 1073,
     "server_id": 21,
     "type": "house",
-    "name": "Моя хата",
-    "owner": "Aperol_Spritz",
+    "name": "В шкафу много вещей 31,06,26",
+    "owner": "NedoLovec_Murphy",
     "status": "Аукцион",
-    "x": -2793.14,
-    "y": 11.0249,
-    "price": 300,
+    "x": -2900.53,
+    "y": 1080.98,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1690,
+    "server_id": 21,
+    "type": "house",
+    "name": "хранилище членов",
+    "owner": "Jirovaya_Skladka",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2140.68,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -21792,6 +21792,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1705,
+    "server_id": 21,
+    "type": "house",
+    "name": "Aрина лучшая",
+    "owner": "Jirovaya_Skladka",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2150.0,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1764,
     "server_id": 21,
     "type": "house",
@@ -21801,18 +21813,6 @@
     "x": 2826.36,
     "y": 2140.56,
     "price": 2995,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1771,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mex_Mex",
-    "status": "Аукцион",
-    "x": 766.9329,
-    "y": 1989.87,
-    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
