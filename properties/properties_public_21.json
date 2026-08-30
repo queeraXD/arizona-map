@@ -8848,7 +8848,7 @@
     "server_id": 21,
     "type": "house",
     "name": "братья",
-    "owner": "Dania_Freedom",
+    "owner": "Michail_Shtyh",
     "status": "Занято",
     "x": -2845.31,
     "y": 928.414,
@@ -15660,18 +15660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1310,
-    "server_id": 21,
-    "type": "house",
-    "name": "БИТФАРМ",
-    "owner": "Thousand_Enemies",
-    "status": "Занято",
-    "x": 161.531,
-    "y": -1455.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1311,
     "server_id": 21,
     "type": "house",
@@ -21768,6 +21756,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1310,
+    "server_id": 21,
+    "type": "house",
+    "name": "БИТФАРМ",
+    "owner": "Thousand_Enemies",
+    "status": "Аукцион",
+    "x": 161.531,
+    "y": -1455.85,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1690,
     "server_id": 21,
     "type": "house",
@@ -21933,18 +21933,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 191,
-    "server_id": 21,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "After_Hours",
-    "status": "Аукцион",
-    "x": 1143.17,
-    "y": -1473.83,
-    "price": 90000,
     "district": "Сан-Андреас"
   },
   {
@@ -24872,6 +24860,18 @@
     "status": "Занято",
     "x": 1123.41,
     "y": -1466.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 191,
+    "server_id": 21,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "After_Hours",
+    "status": "Занято",
+    "x": 1143.17,
+    "y": -1473.83,
     "price": 0,
     "district": "Сан-Андреас"
   },

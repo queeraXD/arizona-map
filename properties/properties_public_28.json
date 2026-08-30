@@ -3468,18 +3468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 289,
-    "server_id": 28,
-    "type": "house",
-    "name": "The Sparazza Family",
-    "owner": "Blake_Shadow",
-    "status": "Занято",
-    "x": 2534.44,
-    "y": -1063.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 290,
     "server_id": 28,
     "type": "house",
@@ -12408,6 +12396,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1038,
+    "server_id": 28,
+    "type": "house",
+    "name": "Deluxe",
+    "owner": "Mark_Business",
+    "status": "Занято",
+    "x": -1776.13,
+    "y": 1115.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1039,
     "server_id": 28,
     "type": "house",
@@ -14676,18 +14676,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1228,
-    "server_id": 28,
-    "type": "house",
-    "name": "By Gonchez",
-    "owner": "Grey_Rock",
-    "status": "Занято",
-    "x": -2477.21,
-    "y": 1318.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1229,
     "server_id": 28,
     "type": "house",
@@ -15639,7 +15627,7 @@
     "id": 1309,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
+    "name": "лаборатория",
     "owner": "Dead_Blazerr",
     "status": "Занято",
     "x": -2515.38,
@@ -22164,6 +22152,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 289,
+    "server_id": 28,
+    "type": "house",
+    "name": "The Sparazza Family",
+    "owner": "Blake_Shadow",
+    "status": "Аукцион",
+    "x": 2534.44,
+    "y": -1063.42,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 497,
     "server_id": 28,
     "type": "house",
@@ -22200,15 +22200,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1038,
+    "id": 1228,
     "server_id": 28,
     "type": "house",
-    "name": "Deluxe",
-    "owner": "Kimmi_Toxiclamee",
+    "name": "By Gonchez",
+    "owner": "Grey_Rock",
     "status": "Аукцион",
-    "x": -1776.13,
-    "y": 1115.2,
-    "price": 1000,
+    "x": -2477.21,
+    "y": 1318.55,
+    "price": 2999,
     "district": "Сан-Андреас"
   },
   {
@@ -24016,7 +24016,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Gasparov_Morry",
+    "owner": "John_Simmons",
     "status": "Занято",
     "x": 2105.21,
     "y": -1806.49,

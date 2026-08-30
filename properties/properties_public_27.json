@@ -6012,6 +6012,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 502,
+    "server_id": 27,
+    "type": "house",
+    "name": "Кибитка",
+    "owner": "Ericko_Simans",
+    "status": "Занято",
+    "x": 1364.3,
+    "y": 1931.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 503,
     "server_id": 27,
     "type": "house",
@@ -7832,6 +7844,18 @@
     "status": "Занято",
     "x": 2065.71,
     "y": 650.2559,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 655,
+    "server_id": 27,
+    "type": "house",
+    "name": " Monopoly Reich",
+    "owner": "Vincent_Cowalli",
+    "status": "Занято",
+    "x": 2013.32,
+    "y": 730.669,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9728,18 +9752,6 @@
     "status": "Занято",
     "x": -2723.28,
     "y": -166.408,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 814,
-    "server_id": 27,
-    "type": "house",
-    "name": "держите все мои волосы",
-    "owner": "Sila_Repa",
-    "status": "Занято",
-    "x": -2723.1,
-    "y": -178.8459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14892,18 +14904,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1244,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Seforolius_Lerned",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1336.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1245,
     "server_id": 27,
     "type": "house",
@@ -19272,18 +19272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1609,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Arlekin_Apostol",
-    "status": "Занято",
-    "x": -2225.96,
-    "y": 1001.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1610,
     "server_id": 27,
     "type": "house",
@@ -21184,7 +21172,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Культурный уголок",
-    "owner": "Vincent_Cowalli",
+    "owner": "Richard_Wotterson",
     "status": "Занято",
     "x": -284.8619,
     "y": 867.7139,
@@ -24300,27 +24288,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 502,
+    "id": 814,
     "server_id": 27,
     "type": "house",
-    "name": "Кибитка",
-    "owner": "Ericko_Simans",
+    "name": "держите все мои волосы",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 1364.3,
-    "y": 1931.64,
-    "price": 4500,
+    "x": -2723.1,
+    "y": -178.8459,
+    "price": 150,
     "district": "Сан-Андреас"
   },
   {
-    "id": 655,
+    "id": 1244,
     "server_id": 27,
     "type": "house",
-    "name": " Monopoly Reich",
-    "owner": "Ericko_Simans",
+    "name": "Дом",
+    "owner": "Seforolius_Lerned",
     "status": "Аукцион",
-    "x": 2013.32,
-    "y": 730.669,
-    "price": 5100,
+    "x": -2383.14,
+    "y": 1336.37,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1609,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2225.96,
+    "y": 1001.36,
+    "price": 150,
     "district": "Сан-Андреас"
   },
   {
