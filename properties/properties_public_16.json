@@ -1516,7 +1516,7 @@
     "server_id": 16,
     "type": "house",
     "name": "$Dynasty Morgan$",
-    "owner": "Pabllo_Escobar",
+    "owner": "Jeffre_Morgan",
     "status": "Занято",
     "x": 1872.44,
     "y": -2133.14,
@@ -1528,7 +1528,7 @@
     "server_id": 16,
     "type": "house",
     "name": "$Dynasty Morgan$",
-    "owner": "Pabllo_Escobar",
+    "owner": "Jeffre_Morgan",
     "status": "Занято",
     "x": 1894.17,
     "y": -2133.3,
@@ -3279,7 +3279,7 @@
     "id": 276,
     "server_id": 16,
     "type": "house",
-    "name": "дом нейва №1",
+    "name": "дом нейвика [1]",
     "owner": "Angel_Peruer",
     "status": "Занято",
     "x": 2561.86,
@@ -9780,6 +9780,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 818,
+    "server_id": 16,
+    "type": "house",
+    "name": "_Chuvash defense_",
+    "owner": "Pavel_Fiendo",
+    "status": "Занято",
+    "x": -2689.46,
+    "y": -167.298,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 819,
     "server_id": 16,
     "type": "house",
@@ -10112,6 +10124,18 @@
     "status": "Занято",
     "x": -2191.59,
     "y": 1080.32,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 847,
+    "server_id": 16,
+    "type": "house",
+    "name": "Legion Inverssion",
+    "owner": "Lauzen_Pauzen",
+    "status": "Занято",
+    "x": -2172.91,
+    "y": 1080.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10544,6 +10568,18 @@
     "status": "Занято",
     "x": -2238.8,
     "y": -2424.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 886,
+    "server_id": 16,
+    "type": "house",
+    "name": "дом нейвика [5]",
+    "owner": "Angel_Peruer",
+    "status": "Занято",
+    "x": -2214.31,
+    "y": -2451.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12972,6 +13008,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1090,
+    "server_id": 16,
+    "type": "house",
+    "name": "Майнинг-Ферма №5",
+    "owner": "Francesco_Carbon",
+    "status": "Занято",
+    "x": -2126.75,
+    "y": 832.6989,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1091,
     "server_id": 16,
     "type": "house",
@@ -13059,7 +13107,7 @@
     "id": 1098,
     "server_id": 16,
     "type": "house",
-    "name": "дом нейвика [5]",
+    "name": "дом нейвика [6]",
     "owner": "Angel_Peruer",
     "status": "Занято",
     "x": 2510.17,
@@ -14295,7 +14343,7 @@
     "id": 1201,
     "server_id": 16,
     "type": "house",
-    "name": "дом нейвика [6]",
+    "name": "дом нейвика [7]",
     "owner": "Angel_Peruer",
     "status": "Занято",
     "x": -2791.75,
@@ -22232,7 +22280,7 @@
     "status": "Аукцион",
     "x": 766.921,
     "y": -1605.89,
-    "price": 3000,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
@@ -22260,30 +22308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 818,
-    "server_id": 16,
-    "type": "house",
-    "name": "_Chuvash defense_",
-    "owner": "Image_Material",
-    "status": "Аукцион",
-    "x": -2689.46,
-    "y": -167.298,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 847,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Godblessme_Weeknd",
-    "status": "Аукцион",
-    "x": -2172.91,
-    "y": 1080.4,
-    "price": 500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 851,
     "server_id": 16,
     "type": "house",
@@ -22296,18 +22320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 886,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Damara_Amante",
-    "status": "Аукцион",
-    "x": -2214.31,
-    "y": -2451.65,
-    "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1060,
     "server_id": 16,
     "type": "house",
@@ -22317,18 +22329,6 @@
     "x": -2152.06,
     "y": 1248.54,
     "price": 3500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1090,
-    "server_id": 16,
-    "type": "house",
-    "name": "Майнинг-Ферма №5",
-    "owner": "Image_Material",
-    "status": "Аукцион",
-    "x": -2126.75,
-    "y": 832.6989,
-    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -22461,18 +22461,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 83,
-    "server_id": 16,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Pay_Palych",
-    "status": "Аукцион",
-    "x": 1872.26,
-    "y": 2071.74,
-    "price": 85000,
     "district": "Сан-Андреас"
   },
   {
@@ -23944,7 +23932,7 @@
     "server_id": 16,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Jeffre_Morgan",
+    "owner": "Pabllo_Escobar",
     "status": "Занято",
     "x": 1381.58,
     "y": 40.6967,
@@ -24136,7 +24124,7 @@
     "server_id": 16,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Jeffre_Morgan",
+    "owner": "Pabllo_Escobar",
     "status": "Занято",
     "x": 1567.98,
     "y": -1897.55,
@@ -24224,6 +24212,18 @@
     "status": "Занято",
     "x": 1879.19,
     "y": 2339.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 83,
+    "server_id": 16,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Pay_Palych",
+    "status": "Занято",
+    "x": 1872.26,
+    "y": 2071.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26080,7 +26080,7 @@
     "server_id": 16,
     "type": "business",
     "name": "Секонд хенд",
-    "owner": "Jeffre_Morgan",
+    "owner": "Pabllo_Escobar",
     "status": "Занято",
     "x": -1810.56,
     "y": 902.089,

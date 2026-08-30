@@ -471,7 +471,7 @@
     "id": 39,
     "server_id": 30,
     "type": "house",
-    "name": "деп условия + подвал ",
+    "name": "дом farmera",
     "owner": "Farmer_Koenigsegg",
     "status": "Занято",
     "x": 2388.42,
@@ -5564,18 +5564,6 @@
     "status": "Занято",
     "x": 2258.07,
     "y": 655.861,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 466,
-    "server_id": 30,
-    "type": "house",
-    "name": "Home Vlad Ko",
-    "owner": "Owner_Boss",
-    "status": "Занято",
-    "x": 2317.92,
-    "y": 655.669,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22584,6 +22572,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 466,
+    "server_id": 30,
+    "type": "house",
+    "name": "What the hell",
+    "owner": "Owner_Boss",
+    "status": "Аукцион",
+    "x": 2317.92,
+    "y": 655.669,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 955,
     "server_id": 30,
     "type": "house",
@@ -22749,6 +22749,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 253,
+    "server_id": 30,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Walter_Brayen",
+    "status": "Аукцион",
+    "x": 441.766,
+    "y": 313.07,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -24200,18 +24212,6 @@
     "status": "Занято",
     "x": -2975.86,
     "y": 623.271,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 253,
-    "server_id": 30,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Walter_Brayen",
-    "status": "Занято",
-    "x": 441.766,
-    "y": 313.07,
     "price": 0,
     "district": "Сан-Андреас"
   },

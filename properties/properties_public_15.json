@@ -3480,6 +3480,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 291,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Markco_Kast",
+    "status": "Занято",
+    "x": 2498.96,
+    "y": -1065.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 293,
     "server_id": 15,
     "type": "house",
@@ -6868,7 +6880,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Simons Mining",
-    "owner": "Simon_McCloud",
+    "owner": "Richard_Mostly",
     "status": "Занято",
     "x": -201.6629,
     "y": 2772.17,
@@ -8972,6 +8984,18 @@
     "status": "Занято",
     "x": -2642.31,
     "y": 728.0339,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 754,
+    "server_id": 15,
+    "type": "house",
+    "name": "CripsHouse",
+    "owner": "Jack_Clayton",
+    "status": "Занято",
+    "x": -2678.18,
+    "y": 722.1619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15436,7 +15460,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Koresh Sqwad",
-    "owner": "Simon_McCloud",
+    "owner": "Richard_Mostly",
     "status": "Занято",
     "x": -2856.7,
     "y": 841.8759,
@@ -21084,18 +21108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 291,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sam_McCloud",
-    "status": "Аукцион",
-    "x": 2498.96,
-    "y": -1065.56,
-    "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 292,
     "server_id": 15,
     "type": "house",
@@ -21144,18 +21156,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 754,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Radik_McCloud",
-    "status": "Аукцион",
-    "x": -2678.18,
-    "y": 722.1619,
-    "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 808,
     "server_id": 15,
     "type": "house",
@@ -21188,7 +21188,7 @@
     "status": "Аукцион",
     "x": 2807.99,
     "y": -1353.92,
-    "price": 6750,
+    "price": 6500,
     "district": "Сан-Андреас"
   },
   {
@@ -24328,7 +24328,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Simon_McCloud",
+    "owner": "Richard_Mostly",
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,
@@ -24496,7 +24496,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Sam_McCloud",
+    "owner": "Itsuki_Matsudo",
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,

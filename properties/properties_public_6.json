@@ -1980,18 +1980,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 165,
-    "server_id": 6,
-    "type": "house",
-    "name": "Drain Deposite [LS]",
-    "owner": "Bulat_Belkin",
-    "status": "Занято",
-    "x": 958.1389,
-    "y": -1808.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 166,
     "server_id": 6,
     "type": "house",
@@ -6508,7 +6496,7 @@
     "server_id": 6,
     "type": "house",
     "name": "ларек",
-    "owner": "Artem_Bicevic",
+    "owner": "Dmitriy_Nebrasko",
     "status": "Занято",
     "x": 1894.88,
     "y": 57.8525,
@@ -10140,18 +10128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 846,
-    "server_id": 6,
-    "type": "house",
-    "name": "Свинарник",
-    "owner": "Puzata_Hata",
-    "status": "Занято",
-    "x": -2240.49,
-    "y": 1054.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 847,
     "server_id": 6,
     "type": "house",
@@ -11884,7 +11860,7 @@
     "server_id": 6,
     "type": "house",
     "name": "***Дом продается***",
-    "owner": "Benjamin_Frash",
+    "owner": "Rossi_Martinez",
     "status": "Занято",
     "x": -743.0999,
     "y": 1432.31,
@@ -13720,7 +13696,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Домик Дмитрия и Екатерины",
-    "owner": "Dmitriy_Nebrasko",
+    "owner": "Artem_Bicevic",
     "status": "Занято",
     "x": -970.8699,
     "y": -1877.33,
@@ -13956,6 +13932,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1168,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kostik_Podpal",
+    "status": "Занято",
+    "x": -2790.25,
+    "y": -111.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1169,
     "server_id": 6,
     "type": "house",
@@ -13971,11 +13959,23 @@
     "id": 1170,
     "server_id": 6,
     "type": "house",
-    "name": "yarik house",
+    "name": "Pavlo House",
     "owner": "Pavlo_Dizz",
     "status": "Занято",
     "x": -2791.8,
     "y": -94.7817,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1171,
+    "server_id": 6,
+    "type": "house",
+    "name": "Лёня 1",
+    "owner": "Sela_Dala",
+    "status": "Занято",
+    "x": -2790.25,
+    "y": -82.4681,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24240,6 +24240,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 165,
+    "server_id": 6,
+    "type": "house",
+    "name": "Drain Deposite [LS]",
+    "owner": "Bulat_Belkin",
+    "status": "Аукцион",
+    "x": 958.1389,
+    "y": -1808.83,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 605,
     "server_id": 6,
     "type": "house",
@@ -24249,6 +24261,18 @@
     "x": -1577.62,
     "y": 2686.93,
     "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 846,
+    "server_id": 6,
+    "type": "house",
+    "name": "Свинарник",
+    "owner": "Puzata_Hata",
+    "status": "Аукцион",
+    "x": -2240.49,
+    "y": 1054.14,
+    "price": 4500,
     "district": "Сан-Андреас"
   },
   {
@@ -24272,7 +24296,7 @@
     "status": "Аукцион",
     "x": -2792.84,
     "y": -153.0379,
-    "price": 4000,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
@@ -24284,7 +24308,7 @@
     "status": "Аукцион",
     "x": -2791.77,
     "y": -145.9479,
-    "price": 4000,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
@@ -24297,30 +24321,6 @@
     "x": -2791.91,
     "y": -134.468,
     "price": 2500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1168,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kostik_Podpal",
-    "status": "Аукцион",
-    "x": -2790.25,
-    "y": -111.08,
-    "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1171,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kostik_Podpal",
-    "status": "Аукцион",
-    "x": -2790.25,
-    "y": -82.4681,
-    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -24400,7 +24400,7 @@
     "server_id": 6,
     "type": "house",
     "name": "XAVRIKS",
-    "owner": "Benjamin_Frash",
+    "owner": "Rossi_Martinez",
     "status": "Аукцион",
     "x": 2441.54,
     "y": 1233.11,
@@ -24412,7 +24412,7 @@
     "server_id": 6,
     "type": "house",
     "name": "tt - temichbrooklyn",
-    "owner": "Benjamin_Frash",
+    "owner": "Rossi_Martinez",
     "status": "Аукцион",
     "x": 2440.7,
     "y": 1215.07,
