@@ -4864,7 +4864,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Майнинг Patrika",
-    "owner": "Patrik_Patterson",
+    "owner": "Shadow_Darkpact",
     "status": "Занято",
     "x": 1428.29,
     "y": 355.7619,
@@ -8068,7 +8068,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Майнинг Patrika",
-    "owner": "Patrik_Patterson",
+    "owner": "Shadow_Darkpact",
     "status": "Занято",
     "x": 930.306,
     "y": 2027.86,
@@ -9756,18 +9756,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 816,
-    "server_id": 16,
-    "type": "house",
-    "name": "$DORIANO?$",
-    "owner": "Artem_Leontiev",
-    "status": "Занято",
-    "x": -2688.33,
-    "y": -175.0939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 817,
     "server_id": 16,
     "type": "house",
@@ -11192,18 +11180,6 @@
     "status": "Занято",
     "x": -2112.62,
     "y": 796.5349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 938,
-    "server_id": 16,
-    "type": "house",
-    "name": "Майнинг #2",
-    "owner": "Maad_Mercer",
-    "status": "Занято",
-    "x": -2094.08,
-    "y": 796.2789,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14844,18 +14820,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1243,
-    "server_id": 16,
-    "type": "house",
-    "name": "Hurma Enemy",
-    "owner": "Momento_Absoluto",
-    "status": "Занято",
-    "x": -2627.93,
-    "y": 168.908,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1244,
     "server_id": 16,
     "type": "house",
@@ -17568,18 +17532,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1470,
-    "server_id": 16,
-    "type": "house",
-    "name": "California Squad",
-    "owner": "Monctr",
-    "status": "Занято",
-    "x": 263.9639,
-    "y": -1765.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1471,
     "server_id": 16,
     "type": "house",
@@ -19636,7 +19588,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Sigma",
-    "owner": "Oleg_Nechiparenko",
+    "owner": "Vlad_Didovich",
     "status": "Занято",
     "x": 745.13,
     "y": 971.005,
@@ -22252,7 +22204,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Alcastro_Allience",
+    "owner": "Patrik_Patterson",
     "status": "Занято",
     "x": -54.6693,
     "y": 950.1279,
@@ -22308,6 +22260,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 816,
+    "server_id": 16,
+    "type": "house",
+    "name": "$DORIANO?$",
+    "owner": "Artem_Leontiev",
+    "status": "Аукцион",
+    "x": -2688.33,
+    "y": -175.0939,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 851,
     "server_id": 16,
     "type": "house",
@@ -22320,6 +22284,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 938,
+    "server_id": 16,
+    "type": "house",
+    "name": "Майнинг #2",
+    "owner": "Maad_Mercer",
+    "status": "Аукцион",
+    "x": -2094.08,
+    "y": 796.2789,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1060,
     "server_id": 16,
     "type": "house",
@@ -22329,6 +22305,30 @@
     "x": -2152.06,
     "y": 1248.54,
     "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1243,
+    "server_id": 16,
+    "type": "house",
+    "name": "Hurma Enemy",
+    "owner": "Momento_Absoluto",
+    "status": "Аукцион",
+    "x": -2627.93,
+    "y": 168.908,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1470,
+    "server_id": 16,
+    "type": "house",
+    "name": "California Squad",
+    "owner": "Monctr",
+    "status": "Аукцион",
+    "x": 263.9639,
+    "y": -1765.46,
+    "price": 7500,
     "district": "Сан-Андреас"
   },
   {
@@ -25132,7 +25132,7 @@
     "server_id": 16,
     "type": "business",
     "name": "Отель",
-    "owner": "Vlad_Didovich",
+    "owner": "Dasti_Advokat",
     "status": "Занято",
     "x": 8.3996,
     "y": 1212.035,

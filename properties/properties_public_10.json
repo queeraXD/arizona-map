@@ -12096,18 +12096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1011,
-    "server_id": 10,
-    "type": "house",
-    "name": "Manningimp",
-    "owner": "Adriano_Manning",
-    "status": "Занято",
-    "x": -2523.81,
-    "y": 1141.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1012,
     "server_id": 10,
     "type": "house",
@@ -12564,18 +12552,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1050,
-    "server_id": 10,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Oleg_Pivassik",
-    "status": "Занято",
-    "x": -1939.33,
-    "y": 1227.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1051,
     "server_id": 10,
     "type": "house",
@@ -12968,18 +12944,6 @@
     "status": "Занято",
     "x": -2844.68,
     "y": 921.177,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1084,
-    "server_id": 10,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Oleg_Pivassik",
-    "status": "Занято",
-    "x": -2844.09,
-    "y": 914.401,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21888,6 +21852,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1827,
+    "server_id": 10,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Oqsaz_Kqlas",
+    "status": "Занято",
+    "x": 2495.33,
+    "y": -1391.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1828,
     "server_id": 10,
     "type": "house",
@@ -23187,8 +23163,8 @@
     "id": 1937,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
-    "owner": "Borz_Obarg",
+    "name": "АнтиХайп /  Добыта у Borz_Obarg",
+    "owner": "Akeno_Crossman",
     "status": "Занято",
     "x": -38.2052,
     "y": 949.7329,
@@ -23220,15 +23196,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1827,
+    "id": 1011,
+    "server_id": 10,
+    "type": "house",
+    "name": "Manningimp",
+    "owner": "Adriano_Manning",
+    "status": "Аукцион",
+    "x": -2523.81,
+    "y": 1141.92,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1050,
     "server_id": 10,
     "type": "house",
     "name": "Pivo",
-    "owner": "Vezus_Baltassare",
+    "owner": "Oleg_Pivassik",
     "status": "Аукцион",
-    "x": 2495.33,
-    "y": -1391.71,
-    "price": 2000,
+    "x": -1939.33,
+    "y": 1227.54,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1084,
+    "server_id": 10,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Oleg_Pivassik",
+    "status": "Аукцион",
+    "x": -2844.09,
+    "y": 914.401,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {

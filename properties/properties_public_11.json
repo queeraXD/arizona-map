@@ -1924,7 +1924,7 @@
     "server_id": 11,
     "type": "house",
     "name": "Gantelya",
-    "owner": "Dmitriy_Gantelya",
+    "owner": "Elliot_Monopoly",
     "status": "Занято",
     "x": 1227.42,
     "y": -1017.05,
@@ -18447,8 +18447,8 @@
     "id": 1551,
     "server_id": 11,
     "type": "house",
-    "name": "Elliot",
-    "owner": "Elliot_Monopoly",
+    "name": "Adlery Home",
+    "owner": "Artem_Adlery",
     "status": "Занято",
     "x": -2320.12,
     "y": 580.0349,
@@ -24648,18 +24648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 208,
-    "server_id": 11,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Hrvoje_Brozovic",
-    "status": "Аукцион",
-    "x": 194.751,
-    "y": -273.823,
-    "price": 40000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 0,
     "server_id": 11,
     "type": "business",
@@ -27788,6 +27776,18 @@
     "status": "Занято",
     "x": 196.119,
     "y": -116.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 208,
+    "server_id": 11,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Hrvoje_Brozovic",
+    "status": "Занято",
+    "x": 194.751,
+    "y": -273.823,
     "price": 0,
     "district": "Сан-Андреас"
   },
