@@ -1128,6 +1128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 94,
+    "server_id": 14,
+    "type": "house",
+    "name": "Shinobi",
+    "owner": "Commers_Moskovskiy",
+    "status": "Занято",
+    "x": 2696.51,
+    "y": -1990.42,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 95,
     "server_id": 14,
     "type": "house",
@@ -1148,6 +1160,18 @@
     "status": "Занято",
     "x": 2673.33,
     "y": -2020.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 97,
+    "server_id": 14,
+    "type": "house",
+    "name": "Shinobi",
+    "owner": "Commers_Moskovskiy",
+    "status": "Занято",
+    "x": 2672.75,
+    "y": -1990.78,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5967,7 +5991,7 @@
     "id": 501,
     "server_id": 14,
     "type": "house",
-    "name": "СЕТ",
+    "name": "Ферма №3",
     "owner": "Danila_Kosmos",
     "status": "Занято",
     "x": 1364.67,
@@ -9932,6 +9956,18 @@
     "status": "Занято",
     "x": -2723.0,
     "y": 4.0472,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 832,
+    "server_id": 14,
+    "type": "house",
+    "name": "Sevens",
+    "owner": "Bot_Calder",
+    "status": "Занято",
+    "x": -2234.38,
+    "y": 888.869,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18564,6 +18600,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1552,
+    "server_id": 14,
+    "type": "house",
+    "name": "$DEFOSTER-HOUSE$",
+    "owner": "Def_Defoster",
+    "status": "Занято",
+    "x": 841.2219,
+    "y": -1471.36,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1553,
     "server_id": 14,
     "type": "house",
@@ -19155,8 +19203,8 @@
     "id": 1602,
     "server_id": 14,
     "type": "house",
-    "name": "Имущество Cotov",
-    "owner": "Maxim_Cotov",
+    "name": "#NewWave",
+    "owner": "Jacob_Cohen",
     "status": "Занято",
     "x": -2355.53,
     "y": 246.6649,
@@ -23508,30 +23556,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 94,
-    "server_id": 14,
-    "type": "house",
-    "name": "Shinobi",
-    "owner": "Commers_Moskovskiy",
-    "status": "Аукцион",
-    "x": 2696.51,
-    "y": -1990.42,
-    "price": 20000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 97,
-    "server_id": 14,
-    "type": "house",
-    "name": "Shinobi",
-    "owner": "Commers_Moskovskiy",
-    "status": "Аукцион",
-    "x": 2672.75,
-    "y": -1990.78,
-    "price": 20000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 101,
     "server_id": 14,
     "type": "house",
@@ -23553,30 +23577,6 @@
     "x": 1242.38,
     "y": -1099.59,
     "price": 50000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 832,
-    "server_id": 14,
-    "type": "house",
-    "name": "Sevens",
-    "owner": "Turbo_Ww",
-    "status": "Аукцион",
-    "x": -2234.38,
-    "y": 888.869,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1552,
-    "server_id": 14,
-    "type": "house",
-    "name": "$DEFOSTER-HOUSE$",
-    "owner": "Def_Defoster",
-    "status": "Аукцион",
-    "x": 841.2219,
-    "y": -1471.36,
-    "price": 70000,
     "district": "Сан-Андреас"
   },
   {
@@ -23700,42 +23700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 85,
-    "server_id": 14,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Thomas_Gosling",
-    "status": "Аукцион",
-    "x": -1213.8,
-    "y": 1830.33,
-    "price": 100000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 206,
-    "server_id": 14,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Thomas_Gosling",
-    "status": "Аукцион",
-    "x": 1381.1,
-    "y": -1805.03,
-    "price": 100000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 207,
-    "server_id": 14,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Thomas_Gosling",
-    "status": "Аукцион",
-    "x": 196.119,
-    "y": -116.76,
-    "price": 100000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 0,
     "server_id": 14,
     "type": "business",
@@ -23800,7 +23764,7 @@
     "server_id": 14,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Tro_Pic",
+    "owner": "Mistgan_Wens",
     "status": "Занято",
     "x": -316.162,
     "y": 829.757,
@@ -25512,6 +25476,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 85,
+    "server_id": 14,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Thomas_Gosling",
+    "status": "Занято",
+    "x": -1213.8,
+    "y": 1830.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 106,
     "server_id": 14,
     "type": "business",
@@ -26828,6 +26804,30 @@
     "status": "Занято",
     "x": 1136.92,
     "y": -1750.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 206,
+    "server_id": 14,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Thomas_Gosling",
+    "status": "Занято",
+    "x": 1381.1,
+    "y": -1805.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 207,
+    "server_id": 14,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Thomas_Gosling",
+    "status": "Занято",
+    "x": 196.119,
+    "y": -116.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
