@@ -4000,7 +4000,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Дом",
-    "owner": "Mark_Nelson",
+    "owner": "Konstantin_Pinko",
     "status": "Занято",
     "x": 787.895,
     "y": 376.4259,
@@ -4796,18 +4796,6 @@
     "status": "Занято",
     "x": 2392.35,
     "y": -54.2308,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 400,
-    "server_id": 26,
-    "type": "house",
-    "name": "by merlyn",
-    "owner": "Routine_Swarovski",
-    "status": "Занято",
-    "x": 2415.43,
-    "y": -51.5713,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6320,18 +6308,6 @@
     "status": "Занято",
     "x": 2049.55,
     "y": 2763.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 527,
-    "server_id": 26,
-    "type": "house",
-    "name": "Jesus Christ the Truth",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": 2039.57,
-    "y": 2766.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25008,6 +24984,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 400,
+    "server_id": 26,
+    "type": "house",
+    "name": "by merlyn",
+    "owner": "Routine_Swarovski",
+    "status": "Аукцион",
+    "x": 2415.43,
+    "y": -51.5713,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 527,
+    "server_id": 26,
+    "type": "house",
+    "name": "Jesus Christ the Truth",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": 2039.57,
+    "y": 2766.53,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1097,
     "server_id": 26,
     "type": "house",
@@ -25185,6 +25185,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 201,
+    "server_id": 26,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Slastik_Escobar",
+    "status": "Аукцион",
+    "x": -104.79,
+    "y": -309.98,
+    "price": 135000,
     "district": "Сан-Андреас"
   },
   {
@@ -28232,18 +28244,6 @@
     "status": "Занято",
     "x": -1983.44,
     "y": 127.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 201,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Slastik_Escobar",
-    "status": "Занято",
-    "x": -104.79,
-    "y": -309.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
