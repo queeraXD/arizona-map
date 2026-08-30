@@ -2544,18 +2544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
-    "server_id": 32,
-    "type": "house",
-    "name": "ШкольникHouse",
-    "owner": "Gde_Moiglaza",
-    "status": "Занято",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 213,
     "server_id": 32,
     "type": "house",
@@ -22356,6 +22344,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 212,
+    "server_id": 32,
+    "type": "house",
+    "name": "ШкольникHouse",
+    "owner": "Gde_Moiglaza",
+    "status": "Аукцион",
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 50000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1896,
     "server_id": 32,
     "type": "house",
@@ -24508,7 +24508,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Yem_Loshadey",
+    "owner": "Vasiliy_Vakulenko",
     "status": "Занято",
     "x": 1404.09,
     "y": 51.2512,
@@ -24712,7 +24712,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Yem_Loshadey",
+    "owner": "Vasiliy_Vakulenko",
     "status": "Занято",
     "x": 2262.75,
     "y": 2036.09,
@@ -25204,7 +25204,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Отель",
-    "owner": "Yem_Loshadey",
+    "owner": "Vasiliy_Vakulenko",
     "status": "Занято",
     "x": 2097.39,
     "y": 2170.27,
@@ -26404,7 +26404,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Рыболовный магазин",
-    "owner": "Yem_Loshadey",
+    "owner": "Vasiliy_Vakulenko",
     "status": "Занято",
     "x": -1354.1,
     "y": 2057.64,
