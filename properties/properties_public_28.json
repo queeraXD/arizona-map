@@ -540,18 +540,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 45,
-    "server_id": 28,
-    "type": "house",
-    "name": "Рыбалка",
-    "owner": "Tokyo_Unknown",
-    "status": "Занято",
-    "x": 2467.61,
-    "y": -1200.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 46,
     "server_id": 28,
     "type": "house",
@@ -9572,18 +9560,6 @@
     "status": "Занято",
     "x": -2368.82,
     "y": 740.5089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 798,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stu_Qarabas",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 763.504,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22197,6 +22173,30 @@
     "x": -42.2056,
     "y": 959.2109,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 45,
+    "server_id": 28,
+    "type": "house",
+    "name": "Рыбалка",
+    "owner": "Tokyo_Unknown",
+    "status": "Аукцион",
+    "x": 2467.61,
+    "y": -1200.41,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 798,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stu_Qarabas",
+    "status": "Аукцион",
+    "x": -2368.82,
+    "y": 763.504,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
