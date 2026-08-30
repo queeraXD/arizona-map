@@ -3675,7 +3675,7 @@
     "id": 306,
     "server_id": 13,
     "type": "house",
-    "name": "berry майнинг",
+    "name": "blueberry майнинг",
     "owner": "Rick_Prime",
     "status": "Занято",
     "x": 1895.99,
@@ -6036,18 +6036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 503,
-    "server_id": 13,
-    "type": "house",
-    "name": "Босс Хаус",
-    "owner": "Maksim_Lazaref",
-    "status": "Занято",
-    "x": 1341.49,
-    "y": 1930.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 504,
     "server_id": 13,
     "type": "house",
@@ -7268,6 +7256,18 @@
     "status": "Занято",
     "x": -1577.62,
     "y": 2686.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 606,
+    "server_id": 13,
+    "type": "house",
+    "name": "Yoshida",
+    "owner": "Domenic_Razor",
+    "status": "Занято",
+    "x": -1589.79,
+    "y": 2706.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14748,6 +14748,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1236,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Francis_Buonarroti",
+    "status": "Занято",
+    "x": -2433.07,
+    "y": 1338.29,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1237,
     "server_id": 13,
     "type": "house",
@@ -16768,7 +16780,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Finn_Balor",
+    "owner": "Toma_Hunter",
     "status": "Занято",
     "x": 467.118,
     "y": 1297.86,
@@ -19848,6 +19860,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1662,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zaur_Pro",
+    "status": "Занято",
+    "x": 2003.68,
+    "y": 2163.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1663,
     "server_id": 13,
     "type": "house",
@@ -21996,18 +22020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1842,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Maksim_Lazaref",
-    "status": "Занято",
-    "x": 2629.86,
-    "y": 2185.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1843,
     "server_id": 13,
     "type": "house",
@@ -23076,15 +23088,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 606,
+    "id": 503,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Anonymni_Kazah",
+    "name": "maga+rolvo",
+    "owner": "Maksim_Lazaref",
     "status": "Аукцион",
-    "x": -1589.79,
-    "y": 2706.18,
-    "price": 1000,
+    "x": 1341.49,
+    "y": 1930.03,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -23115,8 +23127,8 @@
     "id": 973,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Dima_Kashevich",
+    "name": "готовая май.ферма(реально)",
+    "owner": "Psicho_Morfozis",
     "status": "Аукцион",
     "x": -2478.74,
     "y": 2488.76,
@@ -23148,27 +23160,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1236,
+    "id": 1842,
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Dima_Kashevich",
+    "owner": "Maksim_Lazaref",
     "status": "Аукцион",
-    "x": -2433.07,
-    "y": 1338.29,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1662,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Anonymni_Kazah",
-    "status": "Аукцион",
-    "x": 2003.68,
-    "y": 2163.59,
-    "price": 1000,
+    "x": 2629.86,
+    "y": 2185.54,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -23292,27 +23292,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 38,
+    "id": 60,
     "server_id": 13,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "Maksim_Vengalbi",
+    "name": "АЗС/Магазин механики",
+    "owner": "Ragnar_Dereseo",
     "status": "Аукцион",
-    "x": 1567.98,
-    "y": -1897.55,
-    "price": 388888,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 141,
-    "server_id": 13,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Maksim_Vengalbi",
-    "status": "Аукцион",
-    "x": 1547.183,
-    "y": -1269.795,
-    "price": 530000,
+    "x": 1599.11,
+    "y": 2221.85,
+    "price": 320007,
     "district": "Сан-Андреас"
   },
   {
@@ -24660,18 +24648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 60,
-    "server_id": 13,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Ragnar_Dereseo",
-    "status": "Занято",
-    "x": 1599.11,
-    "y": 2221.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 61,
     "server_id": 13,
     "type": "business",
@@ -24980,6 +24956,18 @@
     "status": "Занято",
     "x": 2105.21,
     "y": -1806.49,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 38,
+    "server_id": 13,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Maksim_Vengalbi",
+    "status": "Занято",
+    "x": 1567.98,
+    "y": -1897.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25760,6 +25748,18 @@
     "status": "Занято",
     "x": 1486.788,
     "y": -1585.277,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 141,
+    "server_id": 13,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Maksim_Vengalbi",
+    "status": "Занято",
+    "x": 1547.183,
+    "y": -1269.795,
     "price": 0,
     "district": "Сан-Андреас"
   },

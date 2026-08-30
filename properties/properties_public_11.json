@@ -4692,18 +4692,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 391,
-    "server_id": 11,
-    "type": "house",
-    "name": "3ubrowka",
-    "owner": "Russian_Exclusive",
-    "status": "Занято",
-    "x": 2272.35,
-    "y": -118.814,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 392,
     "server_id": 11,
     "type": "house",
@@ -9116,6 +9104,18 @@
     "status": "Занято",
     "x": -2738.32,
     "y": 801.5289,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 760,
+    "server_id": 11,
+    "type": "house",
+    "name": "Милый дом",
+    "owner": "valera_Monopoly",
+    "status": "Занято",
+    "x": -2726.67,
+    "y": 822.992,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24372,6 +24372,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2045,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Felix_Blackford",
+    "status": "Занято",
+    "x": -38.2052,
+    "y": 949.7329,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1087,
     "server_id": 11,
     "type": "house",
@@ -24504,15 +24516,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 760,
+    "id": 391,
     "server_id": 11,
     "type": "house",
-    "name": "Милый дом",
-    "owner": "valera_Monopoly",
+    "name": "3ubrowka",
+    "owner": "Russian_Exclusive",
     "status": "Аукцион",
-    "x": -2726.67,
-    "y": 822.992,
-    "price": 4500,
+    "x": 2272.35,
+    "y": -118.814,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -24525,18 +24537,6 @@
     "x": -2422.26,
     "y": 2491.39,
     "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2045,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -38.2052,
-    "y": 949.7329,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -28360,7 +28360,7 @@
     "server_id": 11,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Alex_Mashev",
+    "owner": "Mega_Fame",
     "status": "Занято",
     "x": 2837.842,
     "y": 1392.9,
