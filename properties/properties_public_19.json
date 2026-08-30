@@ -5292,18 +5292,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 443,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "JlexaJlaJlaeB",
-    "status": "Занято",
-    "x": 2370.23,
-    "y": -1034.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 444,
     "server_id": 19,
     "type": "house",
@@ -5836,7 +5824,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом фармилы",
-    "owner": "Bubble_Gun",
+    "owner": "AllEyez_OnMe",
     "status": "Занято",
     "x": 2093.41,
     "y": 730.4819,
@@ -9452,18 +9440,6 @@
     "status": "Занято",
     "x": -2566.54,
     "y": 896.6409,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 792,
-    "server_id": 19,
-    "type": "house",
-    "name": "polina bez o4ka ostalasb",
-    "owner": "Muctep_Stepan",
-    "status": "Занято",
-    "x": -2540.21,
-    "y": 883.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19584,18 +19560,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1641,
-    "server_id": 19,
-    "type": "house",
-    "name": "DAGESTAN SQD",
-    "owner": "Muctep_Stepan",
-    "status": "Занято",
-    "x": 1795.78,
-    "y": 2800.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1642,
     "server_id": 19,
     "type": "house",
@@ -19812,18 +19776,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1660,
-    "server_id": 19,
-    "type": "house",
-    "name": "Квартира You_One",
-    "owner": "Mamba_Jamba",
-    "status": "Занято",
-    "x": 1881.98,
-    "y": 2792.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1661,
     "server_id": 19,
     "type": "house",
@@ -19856,6 +19808,18 @@
     "status": "Занято",
     "x": 1871.65,
     "y": 2782.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1664,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "ip_gespert",
+    "status": "Занято",
+    "x": 1865.32,
+    "y": 2775.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21840,6 +21804,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 443,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "JlexaJlaJlaeB",
+    "status": "Аукцион",
+    "x": 2370.23,
+    "y": -1034.98,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 626,
     "server_id": 19,
     "type": "house",
@@ -21861,6 +21837,18 @@
     "x": 2448.76,
     "y": 689.794,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 792,
+    "server_id": 19,
+    "type": "house",
+    "name": "polina bez o4ka ostalasb",
+    "owner": "Muctep_Stepan",
+    "status": "Аукцион",
+    "x": -2540.21,
+    "y": 883.2,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -21912,15 +21900,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1664,
+    "id": 1641,
     "server_id": 19,
     "type": "house",
-    "name": "Дом",
-    "owner": "ip_gespert",
+    "name": "SWAGSTEPA",
+    "owner": "Muctep_Stepan",
     "status": "Аукцион",
-    "x": 1865.32,
-    "y": 2775.83,
-    "price": 250,
+    "x": 1795.78,
+    "y": 2800.82,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1660,
+    "server_id": 19,
+    "type": "house",
+    "name": "Квартира You_One",
+    "owner": "Mamba_Jamba",
+    "status": "Аукцион",
+    "x": 1881.98,
+    "y": 2792.36,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -22056,6 +22056,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 6,
+    "server_id": 19,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Richard_Rockefeller",
+    "status": "Аукцион",
+    "x": 1352.4,
+    "y": -1758.84,
+    "price": 320000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 39,
     "server_id": 19,
     "type": "business",
@@ -22068,6 +22080,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 46,
+    "server_id": 19,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Richard_Rockefeller",
+    "status": "Аукцион",
+    "x": 1445.11,
+    "y": -1418.56,
+    "price": 240000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 133,
     "server_id": 19,
     "type": "business",
@@ -22076,7 +22100,7 @@
     "status": "Аукцион",
     "x": -2226.2,
     "y": 252.005,
-    "price": 254999,
+    "price": 249999,
     "district": "Сан-Андреас"
   },
   {
@@ -22500,18 +22524,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 6,
-    "server_id": 19,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Richard_Rockefeller",
-    "status": "Занято",
-    "x": 1352.4,
-    "y": -1758.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 7,
     "server_id": 19,
     "type": "business",
@@ -22628,18 +22640,6 @@
     "status": "Занято",
     "x": 2493.12,
     "y": -1958.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 46,
-    "server_id": 19,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Richard_Rockefeller",
-    "status": "Занято",
-    "x": 1445.11,
-    "y": -1418.56,
     "price": 0,
     "district": "Сан-Андреас"
   },

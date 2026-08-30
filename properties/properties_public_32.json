@@ -2544,6 +2544,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 212,
+    "server_id": 32,
+    "type": "house",
+    "name": "ШкольникHouse",
+    "owner": "Gde_Moiglaza",
+    "status": "Занято",
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 213,
     "server_id": 32,
     "type": "house",
@@ -8336,18 +8348,6 @@
     "status": "Занято",
     "x": 1362.71,
     "y": 2525.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 698,
-    "server_id": 32,
-    "type": "house",
-    "name": "Штаб квартира Навального",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 1407.6,
-    "y": 2524.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22344,15 +22344,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
+    "id": 698,
     "server_id": 32,
     "type": "house",
-    "name": "ШкольникHouse",
-    "owner": "Gde_Moiglaza",
+    "name": "Штаб квартира Навального",
+    "owner": "Sos_Krutoy",
     "status": "Аукцион",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 50000,
+    "x": 1407.6,
+    "y": 2524.46,
+    "price": 6500,
     "district": "Сан-Андреас"
   },
   {
@@ -22533,30 +22533,6 @@
     "x": 1315.5,
     "y": -898.048,
     "price": 325999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 49,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Basota_Grants",
-    "status": "Аукцион",
-    "x": 2045.05,
-    "y": -1908.03,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 112,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Basota_Grants",
-    "status": "Аукцион",
-    "x": -2672.26,
-    "y": 258.431,
-    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -24204,6 +24180,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 49,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Basota_Grants",
+    "status": "Занято",
+    "x": 2045.05,
+    "y": -1908.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 50,
     "server_id": 32,
     "type": "business",
@@ -24380,6 +24368,18 @@
     "status": "Занято",
     "x": -2767.51,
     "y": 788.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 112,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Basota_Grants",
+    "status": "Занято",
+    "x": -2672.26,
+    "y": 258.431,
     "price": 0,
     "district": "Сан-Андреас"
   },

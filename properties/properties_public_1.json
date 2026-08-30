@@ -8676,18 +8676,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 723,
-    "server_id": 1,
-    "type": "house",
-    "name": "Здесь живет семья Grasshopper.",
-    "owner": "Lovec_Pisunovv",
-    "status": "Занято",
-    "x": 1652.34,
-    "y": 2709.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 724,
     "server_id": 1,
     "type": "house",
@@ -15408,18 +15396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1285,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lovec_Pisunovv",
-    "status": "Занято",
-    "x": -2468.55,
-    "y": 1141.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1286,
     "server_id": 1,
     "type": "house",
@@ -15668,18 +15644,6 @@
     "status": "Занято",
     "x": -2413.0,
     "y": 921.434,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1307,
-    "server_id": 1,
-    "type": "house",
-    "name": "дом",
-    "owner": "Mini_Monimo",
-    "status": "Занято",
-    "x": -2413.01,
-    "y": 895.2269,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24028,11 +23992,47 @@
     "server_id": 1,
     "type": "house",
     "name": "Дом",
-    "owner": "Lucke_Hobbs",
+    "owner": "Martin_Fray",
     "status": "Занято",
     "x": -44.7877,
     "y": 947.0,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 723,
+    "server_id": 1,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunovv",
+    "status": "Аукцион",
+    "x": 1652.34,
+    "y": 2709.34,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1285,
+    "server_id": 1,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunovv",
+    "status": "Аукцион",
+    "x": -2468.55,
+    "y": 1141.92,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1307,
+    "server_id": 1,
+    "type": "house",
+    "name": "дом",
+    "owner": "Mini_Monimo",
+    "status": "Аукцион",
+    "x": -2413.01,
+    "y": 895.2269,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -24168,15 +24168,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 250,
+    "id": 267,
     "server_id": 1,
     "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Vladimir_Hmxd",
+    "name": "Ларек с уличной едой",
+    "owner": "Inj_Ury",
     "status": "Аукцион",
-    "x": 2170.48,
-    "y": 542.934,
-    "price": 249999,
+    "x": 1460.33,
+    "y": 2784.8,
+    "price": 240000,
     "district": "Сан-Андреас"
   },
   {
@@ -25592,6 +25592,18 @@
     "status": "Занято",
     "x": 111.076,
     "y": -1782.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 250,
+    "server_id": 1,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Vladimir_Hmxd",
+    "status": "Занято",
+    "x": 2170.48,
+    "y": 542.934,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27380,18 +27392,6 @@
     "status": "Занято",
     "x": 947.921,
     "y": 1719.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 267,
-    "server_id": 1,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Inj_Ury",
-    "status": "Занято",
-    "x": 1460.33,
-    "y": 2784.8,
     "price": 0,
     "district": "Сан-Андреас"
   },

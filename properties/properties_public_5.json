@@ -4860,18 +4860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 405,
-    "server_id": 5,
-    "type": "house",
-    "name": "Gambino Family Village",
-    "owner": "Tyler_Gambino",
-    "status": "Занято",
-    "x": 1451.08,
-    "y": 374.286,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 406,
     "server_id": 5,
     "type": "house",
@@ -4884,54 +4872,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 407,
-    "server_id": 5,
-    "type": "house",
-    "name": "Gambino Family Village",
-    "owner": "Tyler_Gambino",
-    "status": "Занято",
-    "x": 1413.46,
-    "y": 362.799,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 408,
-    "server_id": 5,
-    "type": "house",
-    "name": "Gambino Family Village",
-    "owner": "Tyler_Gambino",
-    "status": "Занято",
-    "x": 1428.29,
-    "y": 355.7619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 409,
-    "server_id": 5,
-    "type": "house",
-    "name": "Gambino Family Village",
-    "owner": "Tyler_Gambino",
-    "status": "Занято",
-    "x": 1408.62,
-    "y": 345.282,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 410,
-    "server_id": 5,
-    "type": "house",
-    "name": "Gambino Family Village",
-    "owner": "Tyler_Gambino",
-    "status": "Занято",
-    "x": 1402.4,
-    "y": 333.4599,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 411,
     "server_id": 5,
     "type": "house",
@@ -4940,30 +4880,6 @@
     "status": "Занято",
     "x": -2434.38,
     "y": -694.4149,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 412,
-    "server_id": 5,
-    "type": "house",
-    "name": "Gambino Family Village",
-    "owner": "Tyler_Gambino",
-    "status": "Занято",
-    "x": 1435.43,
-    "y": 334.625,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 413,
-    "server_id": 5,
-    "type": "house",
-    "name": "Gambino Family Village",
-    "owner": "Tyler_Gambino",
-    "status": "Занято",
-    "x": 1461.43,
-    "y": 341.859,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18072,6 +17988,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1506,
+    "server_id": 5,
+    "type": "house",
+    "name": "Trent House",
+    "owner": "Wonder_Ful",
+    "status": "Занято",
+    "x": 683.3619,
+    "y": -1435.49,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1507,
     "server_id": 5,
     "type": "house",
@@ -24975,7 +24903,7 @@
     "id": 2082,
     "server_id": 5,
     "type": "house",
-    "name": "Дом",
+    "name": "Tomka Shooter",
     "owner": "Tom_Shooter",
     "status": "Занято",
     "x": -44.7877,
@@ -24984,15 +24912,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1506,
+    "id": 405,
     "server_id": 5,
     "type": "house",
-    "name": "Trent House",
-    "owner": "Vanechka_Implored",
+    "name": "Gambino Family Village",
+    "owner": "Tyler_Gambino",
     "status": "Аукцион",
-    "x": 683.3619,
-    "y": -1435.49,
-    "price": 10000,
+    "x": 1451.08,
+    "y": 374.286,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 407,
+    "server_id": 5,
+    "type": "house",
+    "name": "Gambino Family Village",
+    "owner": "Tyler_Gambino",
+    "status": "Аукцион",
+    "x": 1413.46,
+    "y": 362.799,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 408,
+    "server_id": 5,
+    "type": "house",
+    "name": "Gambino Family Village",
+    "owner": "Tyler_Gambino",
+    "status": "Аукцион",
+    "x": 1428.29,
+    "y": 355.7619,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 409,
+    "server_id": 5,
+    "type": "house",
+    "name": "Gambino Family Village",
+    "owner": "Tyler_Gambino",
+    "status": "Аукцион",
+    "x": 1408.62,
+    "y": 345.282,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 410,
+    "server_id": 5,
+    "type": "house",
+    "name": "Gambino Family Village",
+    "owner": "Tyler_Gambino",
+    "status": "Аукцион",
+    "x": 1402.4,
+    "y": 333.4599,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 412,
+    "server_id": 5,
+    "type": "house",
+    "name": "Gambino Family Village",
+    "owner": "Tyler_Gambino",
+    "status": "Аукцион",
+    "x": 1435.43,
+    "y": 334.625,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 413,
+    "server_id": 5,
+    "type": "house",
+    "name": "Gambino Family Village",
+    "owner": "Tyler_Gambino",
+    "status": "Аукцион",
+    "x": 1461.43,
+    "y": 341.859,
+    "price": 13000,
     "district": "Сан-Андреас"
   },
   {
