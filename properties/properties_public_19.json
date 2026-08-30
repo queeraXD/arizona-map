@@ -3300,18 +3300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 275,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "lovecult",
-    "status": "Занято",
-    "x": 2579.67,
-    "y": -1033.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 276,
     "server_id": 19,
     "type": "house",
@@ -4480,7 +4468,7 @@
     "server_id": 19,
     "type": "house",
     "name": "poksqd",
-    "owner": "Larp_King",
+    "owner": "Richard_Rockefeller",
     "status": "Занято",
     "x": 1187.44,
     "y": -1233.23,
@@ -9664,7 +9652,7 @@
     "server_id": 19,
     "type": "house",
     "name": "GARIK",
-    "owner": "Garick_Dosik",
+    "owner": "Blowq_Wawq",
     "status": "Занято",
     "x": -2723.12,
     "y": -112.97,
@@ -11744,18 +11732,6 @@
     "status": "Занято",
     "x": -2278.81,
     "y": 787.749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 982,
-    "server_id": 19,
-    "type": "house",
-    "name": "bless me",
-    "owner": "Lewis_Gremory",
-    "status": "Занято",
-    "x": -2286.53,
-    "y": 796.7609,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14139,8 +14115,8 @@
     "id": 1182,
     "server_id": 19,
     "type": "house",
-    "name": "Набор Архитектора",
-    "owner": "Richard_Rockefeller",
+    "name": "Дом",
+    "owner": "Larp_King",
     "status": "Занято",
     "x": -491.3089,
     "y": -1503.05,
@@ -19407,7 +19383,7 @@
     "id": 1622,
     "server_id": 19,
     "type": "house",
-    "name": "Hog8",
+    "name": "восьмой архитектор",
     "owner": "Dima_Kharlamov",
     "status": "Занято",
     "x": 1797.73,
@@ -21852,6 +21828,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 275,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2579.67,
+    "y": -1033.2,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 626,
     "server_id": 19,
     "type": "house",
@@ -21873,6 +21861,18 @@
     "x": 2448.76,
     "y": 689.794,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 982,
+    "server_id": 19,
+    "type": "house",
+    "name": "Aura",
+    "owner": "Lewis_Gremory",
+    "status": "Аукцион",
+    "x": -2286.53,
+    "y": 796.7609,
+    "price": 2700,
     "district": "Сан-Андреас"
   },
   {
@@ -22053,6 +22053,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 39,
+    "server_id": 19,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Roman_Hayper",
+    "status": "Аукцион",
+    "x": 559.489,
+    "y": -1293.21,
+    "price": 80000,
     "district": "Сан-Андреас"
   },
   {
@@ -24168,18 +24180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 39,
-    "server_id": 19,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Roman_Hayper",
-    "status": "Занято",
-    "x": 559.489,
-    "y": -1293.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 40,
     "server_id": 19,
     "type": "business",
@@ -25276,7 +25276,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Coul_Price",
+    "owner": "Sly_Neysl",
     "status": "Занято",
     "x": 1460.33,
     "y": 2784.8,

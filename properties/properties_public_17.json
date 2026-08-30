@@ -11472,18 +11472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 958,
-    "server_id": 17,
-    "type": "house",
-    "name": "Slipside dynasty",
-    "owner": "Misha_Green",
-    "status": "Занято",
-    "x": -2229.52,
-    "y": 934.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 959,
     "server_id": 17,
     "type": "house",
@@ -11744,18 +11732,6 @@
     "status": "Занято",
     "x": -2278.21,
     "y": 768.1019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 981,
-    "server_id": 17,
-    "type": "house",
-    "name": "Slipside dynasty",
-    "owner": "Misha_Green",
-    "status": "Занято",
-    "x": -2278.81,
-    "y": 787.749,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12080,18 +12056,6 @@
     "status": "Занято",
     "x": -2549.0,
     "y": 1145.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1009,
-    "server_id": 17,
-    "type": "house",
-    "name": "#FENAZEPAM",
-    "owner": "Akasi_Memphis",
-    "status": "Занято",
-    "x": -2517.07,
-    "y": 1142.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17160,18 +17124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1432,
-    "server_id": 17,
-    "type": "house",
-    "name": "Storm",
-    "owner": "Muctep_Kpunep",
-    "status": "Занято",
-    "x": 1564.78,
-    "y": 2776.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1433,
     "server_id": 17,
     "type": "house",
@@ -18760,7 +18712,7 @@
     "server_id": 17,
     "type": "house",
     "name": "дом бродяги 2",
-    "owner": "Ryan_Golovanu",
+    "owner": "Michael_Sancez",
     "status": "Занято",
     "x": 1849.39,
     "y": -2028.42,
@@ -19184,18 +19136,6 @@
     "status": "Занято",
     "x": 1542.27,
     "y": 2026.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1601,
-    "server_id": 17,
-    "type": "house",
-    "name": "Майнинг ферма LVL 10",
-    "owner": "Misha_Green",
-    "status": "Занято",
-    "x": 1542.27,
-    "y": 2032.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22296,6 +22236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1866,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gabriel_Marlboro",
+    "status": "Занято",
+    "x": -54.6693,
+    "y": 950.1279,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 298,
     "server_id": 17,
     "type": "house",
@@ -22320,6 +22272,66 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 958,
+    "server_id": 17,
+    "type": "house",
+    "name": "Slipside dynasty",
+    "owner": "Misha_Green",
+    "status": "Аукцион",
+    "x": -2229.52,
+    "y": 934.32,
+    "price": 3001,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 981,
+    "server_id": 17,
+    "type": "house",
+    "name": "Slipside dynasty",
+    "owner": "Misha_Green",
+    "status": "Аукцион",
+    "x": -2278.81,
+    "y": 787.749,
+    "price": 3001,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1009,
+    "server_id": 17,
+    "type": "house",
+    "name": "#FENAZEPAM",
+    "owner": "Akasi_Memphis",
+    "status": "Аукцион",
+    "x": -2517.07,
+    "y": 1142.17,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1432,
+    "server_id": 17,
+    "type": "house",
+    "name": "Storm",
+    "owner": "Muctep_Kpunep",
+    "status": "Аукцион",
+    "x": 1564.78,
+    "y": 2776.62,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1601,
+    "server_id": 17,
+    "type": "house",
+    "name": "Майнинг ферма LVL 10",
+    "owner": "Misha_Green",
+    "status": "Аукцион",
+    "x": 1542.27,
+    "y": 2032.98,
+    "price": 2001,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1861,
     "server_id": 17,
     "type": "house",
@@ -22329,18 +22341,6 @@
     "x": -85.5818,
     "y": 977.598,
     "price": 260000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1866,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -54.6693,
-    "y": 950.1279,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
