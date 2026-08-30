@@ -19527,8 +19527,8 @@
     "id": 1630,
     "server_id": 31,
     "type": "house",
-    "name": "Хата у Logana",
-    "owner": "Logan_Hardy",
+    "name": "инвокер и сергундяй",
+    "owner": "Invoker_Concussion",
     "status": "Занято",
     "x": 2707.31,
     "y": -1202.99,
@@ -23364,6 +23364,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 13,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Boris_Brytva",
+    "status": "Аукцион",
+    "x": 2244.42,
+    "y": -1665.12,
+    "price": 450000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 116,
     "server_id": 31,
     "type": "business",
@@ -23373,6 +23385,30 @@
     "x": -2163.47,
     "y": 129.382,
     "price": 350000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 232,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Boris_Brytva",
+    "status": "Аукцион",
+    "x": 1071.66,
+    "y": -1438.98,
+    "price": 600000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 301,
+    "server_id": 31,
+    "type": "business",
+    "name": "Лотерейная",
+    "owner": "Boris_Brytva",
+    "status": "Аукцион",
+    "x": 1288.7,
+    "y": 271.232,
+    "price": 990000,
     "district": "Сан-Андреас"
   },
   {
@@ -24248,18 +24284,6 @@
     "status": "Занято",
     "x": 695.01,
     "y": -500.134,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 13,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 2244.42,
-    "y": -1665.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25740,18 +25764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 232,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 1071.66,
-    "y": -1438.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 352,
     "server_id": 31,
     "type": "business",
@@ -27008,18 +27020,6 @@
     "status": "Занято",
     "x": -2591.49,
     "y": 170.493,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 301,
-    "server_id": 31,
-    "type": "business",
-    "name": "Лотерейная",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 1288.7,
-    "y": 271.232,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -12060,18 +12060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1007,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Samson_Caballero",
-    "status": "Занято",
-    "x": -2383.84,
-    "y": 1127.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1008,
     "server_id": 11,
     "type": "house",
@@ -15624,18 +15612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1315,
-    "server_id": 11,
-    "type": "house",
-    "name": "домик ",
-    "owner": "Samson_Caballero",
-    "status": "Занято",
-    "x": -2048.26,
-    "y": 820.6939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1316,
     "server_id": 11,
     "type": "house",
@@ -18512,18 +18488,6 @@
     "status": "Занято",
     "x": -2402.42,
     "y": 849.1209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1556,
-    "server_id": 11,
-    "type": "house",
-    "name": "Нора",
-    "owner": "Samson_Caballero",
-    "status": "Занято",
-    "x": -2402.42,
-    "y": 869.0239,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24360,6 +24324,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2043,
+    "server_id": 11,
+    "type": "house",
+    "name": "логово энгеля кв майн",
+    "owner": "Engel_Silverston",
+    "status": "Занято",
+    "x": -54.6693,
+    "y": 950.1279,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1087,
     "server_id": 11,
     "type": "house",
@@ -24504,15 +24480,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2043,
+    "id": 1007,
     "server_id": 11,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
+    "owner": "Samson_Caballero",
     "status": "Аукцион",
-    "x": -54.6693,
-    "y": 950.1279,
-    "price": 1000,
+    "x": -2383.84,
+    "y": 1127.85,
+    "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1315,
+    "server_id": 11,
+    "type": "house",
+    "name": "домик ",
+    "owner": "Samson_Caballero",
+    "status": "Аукцион",
+    "x": -2048.26,
+    "y": 820.6939,
+    "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1556,
+    "server_id": 11,
+    "type": "house",
+    "name": "Нора",
+    "owner": "Samson_Caballero",
+    "status": "Аукцион",
+    "x": -2402.42,
+    "y": 869.0239,
+    "price": 4500,
     "district": "Сан-Андреас"
   },
   {

@@ -540,18 +540,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 45,
-    "server_id": 28,
-    "type": "house",
-    "name": "Рыбалка",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": 2467.61,
-    "y": -1200.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 46,
     "server_id": 28,
     "type": "house",
@@ -5328,18 +5316,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 444,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Fucking_Awesome",
-    "status": "Занято",
-    "x": 2355.7,
-    "y": -1039.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 445,
     "server_id": 28,
     "type": "house",
@@ -5960,6 +5936,18 @@
     "status": "Занято",
     "x": 1462.21,
     "y": 1950.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 497,
+    "server_id": 28,
+    "type": "house",
+    "name": "деп условия, аксы и тюн в шкафу",
+    "owner": "Knyaz_Agalar",
+    "status": "Занято",
+    "x": 1439.79,
+    "y": 1951.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10344,30 +10332,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 864,
-    "server_id": 28,
-    "type": "house",
-    "name": "Grove street home",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -245.722,
-    "y": 2501.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 865,
-    "server_id": 28,
-    "type": "house",
-    "name": "Grove street home",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -269.1889,
-    "y": 2504.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 866,
     "server_id": 28,
     "type": "house",
@@ -14331,8 +14295,8 @@
     "id": 1196,
     "server_id": 28,
     "type": "house",
-    "name": "Home by Mike",
-    "owner": "Logichek_Queen",
+    "name": "davis hata",
+    "owner": "Benito_Davis",
     "status": "Занято",
     "x": -2792.84,
     "y": 85.0083,
@@ -17331,7 +17295,7 @@
     "id": 1446,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
+    "name": "Nightmare Empire 2/15",
     "owner": "Mike_Nightmare",
     "status": "Занято",
     "x": 885.4719,
@@ -21999,7 +21963,7 @@
     "id": 1836,
     "server_id": 28,
     "type": "house",
-    "name": "Nightmare Empire",
+    "name": "Nightmare Empire 1/15",
     "owner": "Mike_Nightmare",
     "status": "Занято",
     "x": -77.3582,
@@ -22200,15 +22164,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 497,
+    "id": 45,
     "server_id": 28,
     "type": "house",
-    "name": "деп условия, аксы и тюн в шкафу",
-    "owner": "Knyaz_Agalar",
+    "name": "Деп условия+Подвал",
+    "owner": "Travis_Viper",
     "status": "Аукцион",
-    "x": 1439.79,
-    "y": 1951.65,
-    "price": 4000,
+    "x": 2467.61,
+    "y": -1200.41,
+    "price": 12499,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 444,
+    "server_id": 28,
+    "type": "house",
+    "name": "meow na lovle)",
+    "owner": "Fucking_Awesome",
+    "status": "Аукцион",
+    "x": 2355.7,
+    "y": -1039.24,
+    "price": 999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 864,
+    "server_id": 28,
+    "type": "house",
+    "name": "Grove street home",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": -245.722,
+    "y": 2501.72,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 865,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": -269.1889,
+    "y": 2504.93,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {

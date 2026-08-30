@@ -2712,6 +2712,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 226,
+    "server_id": 19,
+    "type": "house",
+    "name": "BAXTER HOUSE",
+    "owner": "Dizzy_Baxter",
+    "status": "Занято",
+    "x": 980.2369,
+    "y": -676.6939,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 227,
     "server_id": 19,
     "type": "house",
@@ -7496,18 +7508,6 @@
     "status": "Занято",
     "x": -29.9144,
     "y": 1364.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 626,
-    "server_id": 19,
-    "type": "house",
-    "name": "milligan",
-    "owner": "Thyra_Shadowveil",
-    "status": "Занято",
-    "x": 4.1448,
-    "y": 1344.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19395,7 +19395,7 @@
     "id": 1618,
     "server_id": 19,
     "type": "house",
-    "name": "zaz",
+    "name": "шестой архитектор",
     "owner": "Dima_Kharlamov",
     "status": "Занято",
     "x": 1791.69,
@@ -19419,7 +19419,7 @@
     "id": 1620,
     "server_id": 19,
     "type": "house",
-    "name": "buba",
+    "name": "седьмой архитектор",
     "owner": "Dima_Kharlamov",
     "status": "Занято",
     "x": 1794.69,
@@ -21888,15 +21888,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 226,
+    "id": 626,
     "server_id": 19,
     "type": "house",
-    "name": "BAXTER HOUSE",
-    "owner": "Dizzy_Baxter",
+    "name": "milligan",
+    "owner": "Thyra_Shadowveil",
     "status": "Аукцион",
-    "x": 980.2369,
-    "y": -676.6939,
-    "price": 250000,
+    "x": 4.1448,
+    "y": 1344.59,
+    "price": 10,
     "district": "Сан-Андреас"
   },
   {
