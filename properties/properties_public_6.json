@@ -7416,18 +7416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 620,
-    "server_id": 6,
-    "type": "house",
-    "name": "BlackMoon",
-    "owner": "Gumik_Lopez",
-    "status": "Занято",
-    "x": -886.291,
-    "y": 1514.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 621,
     "server_id": 6,
     "type": "house",
@@ -13683,7 +13671,7 @@
     "id": 1145,
     "server_id": 6,
     "type": "house",
-    "name": "Домик Дмитрия и Екатерины",
+    "name": "Черным-Черно",
     "owner": "Artem_Bicevic",
     "status": "Занято",
     "x": -970.8699,
@@ -15344,6 +15332,18 @@
     "status": "Занято",
     "x": -2510.9,
     "y": 942.8469,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1287,
+    "server_id": 6,
+    "type": "house",
+    "name": "Femboy House",
+    "owner": "Dominic_Thomson",
+    "status": "Занято",
+    "x": -2510.89,
+    "y": 950.8779,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21400,7 +21400,7 @@
     "server_id": 6,
     "type": "house",
     "name": "BADBOYS FAMILY",
-    "owner": "Vadim_Pelmenev",
+    "owner": "Seforolius_Lerned",
     "status": "Занято",
     "x": 2476.44,
     "y": -1383.12,
@@ -24300,6 +24300,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 620,
+    "server_id": 6,
+    "type": "house",
+    "name": "BlackMoon",
+    "owner": "Gumik_Lopez",
+    "status": "Аукцион",
+    "x": -886.291,
+    "y": 1514.59,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 846,
     "server_id": 6,
     "type": "house",
@@ -24369,18 +24381,6 @@
     "x": -2433.75,
     "y": 1318.61,
     "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1287,
-    "server_id": 6,
-    "type": "house",
-    "name": "Femboy House",
-    "owner": "Leha_Sevidov",
-    "status": "Аукцион",
-    "x": -2510.89,
-    "y": 950.8779,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -24784,7 +24784,7 @@
     "server_id": 6,
     "type": "business",
     "name": "Бар",
-    "owner": "Vanechka_Implored",
+    "owner": "Angel_Bank",
     "status": "Занято",
     "x": -91.2371,
     "y": 1188.43,
