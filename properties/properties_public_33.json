@@ -13036,7 +13036,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Skezz_Carleone",
+    "owner": "Pavel_Kovalev",
     "status": "Занято",
     "x": 2510.17,
     "y": 88.6072,
@@ -19116,6 +19116,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1713,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Macklin_Celebrini",
+    "status": "Занято",
+    "x": 2495.35,
+    "y": -1417.45,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1714,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Macklin_Celebrini",
+    "status": "Занято",
+    "x": 2492.13,
+    "y": -1417.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1715,
     "server_id": 33,
     "type": "house",
@@ -21936,30 +21960,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1713,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Macklin_Celebrini",
-    "status": "Аукцион",
-    "x": 2495.35,
-    "y": -1417.45,
-    "price": 11000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1714,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Macklin_Celebrini",
-    "status": "Аукцион",
-    "x": 2492.13,
-    "y": -1417.44,
-    "price": 11000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1863,
     "server_id": 33,
     "type": "house",
@@ -22509,18 +22509,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 70,
-    "server_id": 33,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Velikiy_Dvizh",
-    "status": "Аукцион",
-    "x": 2515.7,
-    "y": 1088.17,
-    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -23120,6 +23108,18 @@
     "status": "Занято",
     "x": 2856.2,
     "y": 1264.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 70,
+    "server_id": 33,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Roy_Renaissance",
+    "status": "Занято",
+    "x": 2515.7,
+    "y": 1088.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26536,8 +26536,8 @@
     "server_id": 33,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Государство",
-    "status": "Свободно",
+    "owner": "Rimury_Tempest",
+    "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
     "price": 0,
