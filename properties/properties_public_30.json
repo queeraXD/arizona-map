@@ -672,18 +672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
-    "server_id": 30,
-    "type": "house",
-    "name": "Dojan",
-    "owner": "Charles_Scofield",
-    "status": "Занято",
-    "x": 2151.18,
-    "y": -1400.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 58,
     "server_id": 30,
     "type": "house",
@@ -2756,18 +2744,6 @@
     "status": "Занято",
     "x": 648.1329,
     "y": -1058.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 231,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Prodavec_Labubu",
-    "status": "Занято",
-    "x": 612.2,
-    "y": -1085.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5067,7 +5043,7 @@
     "id": 423,
     "server_id": 30,
     "type": "house",
-    "name": "Дом",
+    "name": "Куплю дом рядом с этим",
     "owner": "Eco_Nomist",
     "status": "Занято",
     "x": 1316.66,
@@ -22596,6 +22572,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1894,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kirayne_McCallister",
+    "status": "Занято",
+    "x": -54.6693,
+    "y": 950.1279,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 51,
     "server_id": 30,
     "type": "house",
@@ -22608,15 +22596,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1894,
+    "id": 57,
+    "server_id": 30,
+    "type": "house",
+    "name": "Dojan",
+    "owner": "Charles_Scofield",
+    "status": "Аукцион",
+    "x": 2151.18,
+    "y": -1400.69,
+    "price": 42000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 231,
     "server_id": 30,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
+    "owner": "Prodavec_Labubu",
     "status": "Аукцион",
-    "x": -54.6693,
-    "y": 950.1279,
-    "price": 1000,
+    "x": 612.2,
+    "y": -1085.62,
+    "price": 59999,
     "district": "Сан-Андреас"
   },
   {
@@ -22749,6 +22749,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 74,
+    "server_id": 30,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Fasko_Fusko",
+    "status": "Аукцион",
+    "x": 2104.24,
+    "y": 2678.92,
+    "price": 140000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 218,
+    "server_id": 30,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Gast_Webster",
+    "status": "Аукцион",
+    "x": 1500.24,
+    "y": -1628.79,
+    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -23408,18 +23432,6 @@
     "status": "Занято",
     "x": 1657.04,
     "y": 1741.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 74,
-    "server_id": 30,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Fasko_Fusko",
-    "status": "Занято",
-    "x": 2104.24,
-    "y": 2678.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25940,18 +25952,6 @@
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 218,
-    "server_id": 30,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Gast_Webster",
-    "status": "Занято",
-    "x": 1500.24,
-    "y": -1628.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
