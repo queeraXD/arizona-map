@@ -3496,7 +3496,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Noname/NNC",
-    "owner": "Marci_Noname",
+    "owner": "Antimag_Noname",
     "status": "Занято",
     "x": 2498.96,
     "y": -1065.56,
@@ -3704,18 +3704,6 @@
     "status": "Занято",
     "x": 1912.61,
     "y": -1070.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 309,
-    "server_id": 23,
-    "type": "house",
-    "name": "Deviloshi",
-    "owner": "Nazar_Wappy",
-    "status": "Занято",
-    "x": 260.441,
-    "y": -303.1679,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21060,6 +21048,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 309,
+    "server_id": 23,
+    "type": "house",
+    "name": "Deviloshi",
+    "owner": "Nazar_Wappy",
+    "status": "Аукцион",
+    "x": 260.441,
+    "y": -303.1679,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 653,
     "server_id": 23,
     "type": "house",
@@ -21189,6 +21189,18 @@
     "x": 2411.93,
     "y": -1548.68,
     "price": 200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 268,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Diego_Darkness",
+    "status": "Аукцион",
+    "x": 8.3996,
+    "y": 1212.035,
+    "price": 234567,
     "district": "Сан-Андреас"
   },
   {
@@ -23828,18 +23840,6 @@
     "status": "Занято",
     "x": 2272.941,
     "y": -1795.335,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 268,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Diego_Darkness",
-    "status": "Занято",
-    "x": 8.3996,
-    "y": 1212.035,
     "price": 0,
     "district": "Сан-Андреас"
   },

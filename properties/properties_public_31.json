@@ -9192,18 +9192,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 766,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Obla_Milize",
-    "status": "Занято",
-    "x": -2687.81,
-    "y": 803.0819,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 767,
     "server_id": 31,
     "type": "house",
@@ -9392,18 +9380,6 @@
     "status": "Занято",
     "x": -2541.25,
     "y": 785.179,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 783,
-    "server_id": 31,
-    "type": "house",
-    "name": "ДОМ МОРРИСА ",
-    "owner": "Obla_Milize",
-    "status": "Занято",
-    "x": -2513.51,
-    "y": 830.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23232,6 +23208,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 766,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Obla_Milize",
+    "status": "Аукцион",
+    "x": -2687.81,
+    "y": 803.0819,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 783,
+    "server_id": 31,
+    "type": "house",
+    "name": "ДОМ МОРРИСА ",
+    "owner": "Obla_Milize",
+    "status": "Аукцион",
+    "x": -2513.51,
+    "y": 830.83,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 991,
     "server_id": 31,
     "type": "house",
@@ -23352,18 +23352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1,
-    "server_id": 31,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Concentration_Blood",
-    "status": "Аукцион",
-    "x": 2333.5,
-    "y": 61.624,
-    "price": 500000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 37,
     "server_id": 31,
     "type": "business",
@@ -23384,6 +23372,18 @@
     "status": "Занято",
     "x": 1368.77,
     "y": -1279.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1,
+    "server_id": 31,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Concentration_Blood",
+    "status": "Занято",
+    "x": 2333.5,
+    "y": 61.624,
     "price": 0,
     "district": "Сан-Андреас"
   },

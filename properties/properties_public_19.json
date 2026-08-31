@@ -204,6 +204,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 17,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nikitoks_Asylum",
+    "status": "Занято",
+    "x": 2100.94,
+    "y": -1321.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 20,
     "server_id": 19,
     "type": "house",
@@ -5916,18 +5928,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 498,
-    "server_id": 19,
-    "type": "house",
-    "name": "Russian House",
-    "owner": "Noir_Novel",
-    "status": "Занято",
-    "x": 1412.66,
-    "y": 1951.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 499,
     "server_id": 19,
     "type": "house",
@@ -6208,7 +6208,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Yamada",
-    "owner": "Terra_Sanchez",
+    "owner": "Zimbab_We",
     "status": "Занято",
     "x": 1645.49,
     "y": 2127.9,
@@ -11272,7 +11272,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Re-California",
-    "owner": "Loker_Layng",
+    "owner": "Misuse_Mishustin",
     "status": "Занято",
     "x": -2239.31,
     "y": 962.374,
@@ -19320,18 +19320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1621,
-    "server_id": 19,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Xanax_XR",
-    "status": "Занято",
-    "x": 1795.44,
-    "y": 2755.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1622,
     "server_id": 19,
     "type": "house",
@@ -19592,18 +19580,6 @@
     "status": "Занято",
     "x": 1796.79,
     "y": 2861.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1644,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zimbab_We",
-    "status": "Занято",
-    "x": 1803.34,
-    "y": 2855.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21828,15 +21804,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 17,
+    "id": 1831,
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Zimbab_We",
-    "status": "Аукцион",
-    "x": 2100.94,
-    "y": -1321.89,
-    "price": 2000,
+    "owner": "Sakuta_Evans",
+    "status": "Занято",
+    "x": -1.4931,
+    "y": 1011.83,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -21885,6 +21861,18 @@
     "x": 1303.1,
     "y": 186.9129,
     "price": 300,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 498,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Noir_Novel",
+    "status": "Аукцион",
+    "x": 1412.66,
+    "y": 1951.6,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
@@ -21948,6 +21936,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1621,
+    "server_id": 19,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Xanax_XR",
+    "status": "Аукцион",
+    "x": 1795.44,
+    "y": 2755.79,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1644,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zimbab_We",
+    "status": "Аукцион",
+    "x": 1803.34,
+    "y": 2855.45,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1698,
     "server_id": 19,
     "type": "house",
@@ -21957,18 +21969,6 @@
     "x": 2495.39,
     "y": -1399.05,
     "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1831,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -1.4931,
-    "y": 1011.83,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -22065,6 +22065,18 @@
     "x": -2226.2,
     "y": 252.005,
     "price": 259999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 181,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Keks_Marlboro",
+    "status": "Аукцион",
+    "x": 2029.71,
+    "y": 986.64,
+    "price": 55000,
     "district": "Сан-Андреас"
   },
   {
@@ -24860,18 +24872,6 @@
     "status": "Занято",
     "x": -63.12,
     "y": 1208.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 181,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Keks_Marlboro",
-    "status": "Занято",
-    "x": 2029.71,
-    "y": 986.64,
     "price": 0,
     "district": "Сан-Андреас"
   },

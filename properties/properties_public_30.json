@@ -684,6 +684,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 57,
+    "server_id": 30,
+    "type": "house",
+    "name": "Dojan",
+    "owner": "Charles_Scofield",
+    "status": "Занято",
+    "x": 2151.18,
+    "y": -1400.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 58,
     "server_id": 30,
     "type": "house",
@@ -2151,8 +2163,8 @@
     "id": 180,
     "server_id": 30,
     "type": "house",
-    "name": "Дом",
-    "owner": "Mastyrbek_Nagibator",
+    "name": "Бананоломня №180",
+    "owner": "Oleg_Banana",
     "status": "Занято",
     "x": 657.229,
     "y": -1652.59,
@@ -2756,6 +2768,18 @@
     "status": "Занято",
     "x": 648.1329,
     "y": -1058.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 231,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Prodavec_Labubu",
+    "status": "Занято",
+    "x": 612.2,
+    "y": -1085.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -4671,7 +4695,7 @@
     "id": 391,
     "server_id": 30,
     "type": "house",
-    "name": "Домик ПК",
+    "name": "Бананоломня №391",
     "owner": "Oleg_Banana",
     "status": "Занято",
     "x": 2272.35,
@@ -21483,7 +21507,7 @@
     "id": 1802,
     "server_id": 30,
     "type": "house",
-    "name": "Блядюшник",
+    "name": "Бананоломня №1802",
     "owner": "Oleg_Banana",
     "status": "Занято",
     "x": 2601.64,
@@ -22596,30 +22620,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
-    "server_id": 30,
-    "type": "house",
-    "name": "Dojan",
-    "owner": "Charles_Scofield",
-    "status": "Аукцион",
-    "x": 2151.18,
-    "y": -1400.69,
-    "price": 42000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 231,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Prodavec_Labubu",
-    "status": "Аукцион",
-    "x": 612.2,
-    "y": -1085.62,
-    "price": 59999,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1895,
     "server_id": 30,
     "type": "house",
@@ -22749,18 +22749,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 218,
-    "server_id": 30,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Gast_Webster",
-    "status": "Аукцион",
-    "x": 1500.24,
-    "y": -1628.79,
-    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -25940,6 +25928,18 @@
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 218,
+    "server_id": 30,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Mitchi_Matsumota",
+    "status": "Занято",
+    "x": 1500.24,
+    "y": -1628.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
