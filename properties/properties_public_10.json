@@ -7716,18 +7716,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 645,
-    "server_id": 10,
-    "type": "house",
-    "name": "Arestants House",
-    "owner": "Sinister_Surprise",
-    "status": "Занято",
-    "x": 1978.33,
-    "y": 715.1459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 646,
     "server_id": 10,
     "type": "house",
@@ -9812,6 +9800,18 @@
     "status": "Занято",
     "x": -2691.32,
     "y": -159.893,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 820,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Занято",
+    "x": -2689.39,
+    "y": -152.796,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14892,6 +14892,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1250,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Занято",
+    "x": -2303.39,
+    "y": 656.7349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1251,
     "server_id": 10,
     "type": "house",
@@ -19224,18 +19236,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1613,
-    "server_id": 10,
-    "type": "house",
-    "name": "#Nosferatu",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": 773.2169,
-    "y": -1794.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1614,
     "server_id": 10,
     "type": "house",
@@ -20540,18 +20540,6 @@
     "status": "Занято",
     "x": 761.205,
     "y": 948.825,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1723,
-    "server_id": 10,
-    "type": "house",
-    "name": "sonne scheint",
-    "owner": "Sinister_Surprise",
-    "status": "Занято",
-    "x": 2579.08,
-    "y": 719.4249,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23160,15 +23148,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 820,
+    "id": 645,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
+    "name": "Arestants House",
+    "owner": "Sinister_Surprise",
     "status": "Аукцион",
-    "x": -2689.39,
-    "y": -152.796,
-    "price": 1000,
+    "x": 1978.33,
+    "y": 715.1459,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
@@ -23232,18 +23220,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1250,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Аукцион",
-    "x": -2303.39,
-    "y": 656.7349,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1597,
     "server_id": 10,
     "type": "house",
@@ -23253,6 +23229,30 @@
     "x": 2787.07,
     "y": -1952.59,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1613,
+    "server_id": 10,
+    "type": "house",
+    "name": "#Nosferatu",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": 773.2169,
+    "y": -1794.47,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1723,
+    "server_id": 10,
+    "type": "house",
+    "name": "sonne scheint",
+    "owner": "Sinister_Surprise",
+    "status": "Аукцион",
+    "x": 2579.08,
+    "y": 719.4249,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
