@@ -3540,18 +3540,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 295,
-    "server_id": 11,
-    "type": "house",
-    "name": "Домик Андрея",
-    "owner": "Malbs_Mod",
-    "status": "Занято",
-    "x": 2352.16,
-    "y": -1170.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 296,
     "server_id": 11,
     "type": "house",
@@ -4688,18 +4676,6 @@
     "status": "Занято",
     "x": 2293.78,
     "y": -124.593,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 391,
-    "server_id": 11,
-    "type": "house",
-    "name": "3ubrowka",
-    "owner": "Nesquik_Blackford",
-    "status": "Занято",
-    "x": 2272.35,
-    "y": -118.814,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19200,18 +19176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1612,
-    "server_id": 11,
-    "type": "house",
-    "name": "Canadian Raper",
-    "owner": "Malbs_Mod",
-    "status": "Занято",
-    "x": 2007.28,
-    "y": -984.655,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1613,
     "server_id": 11,
     "type": "house",
@@ -24420,6 +24384,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2047,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Damnatio_Memoriae",
+    "status": "Занято",
+    "x": -1.4931,
+    "y": 1011.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1087,
     "server_id": 11,
     "type": "house",
@@ -24552,15 +24528,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2047,
+    "id": 295,
     "server_id": 11,
     "type": "house",
-    "name": "Дом",
+    "name": "Домик Андрея",
     "owner": "Государство",
     "status": "Аукцион",
-    "x": -1.4931,
-    "y": 1011.83,
-    "price": 1000,
+    "x": 2352.16,
+    "y": -1170.38,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 391,
+    "server_id": 11,
+    "type": "house",
+    "name": "3ubrowka",
+    "owner": "Nesquik_Blackford",
+    "status": "Аукцион",
+    "x": 2272.35,
+    "y": -118.814,
+    "price": 28000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1612,
+    "server_id": 11,
+    "type": "house",
+    "name": "Canadian Raper",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2007.28,
+    "y": -984.655,
+    "price": 150,
     "district": "Сан-Андреас"
   },
   {

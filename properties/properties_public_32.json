@@ -5379,7 +5379,7 @@
     "id": 450,
     "server_id": 32,
     "type": "house",
-    "name": "Absolute Squad",
+    "name": "Bank",
     "owner": "Sovcom_Bank",
     "status": "Занято",
     "x": 1845.81,
@@ -12912,18 +12912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1083,
-    "server_id": 32,
-    "type": "house",
-    "name": "Bernhard",
-    "owner": "Gopnik_Corsar",
-    "status": "Занято",
-    "x": -2844.68,
-    "y": 921.177,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1084,
     "server_id": 32,
     "type": "house",
@@ -19228,7 +19216,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Ellis_Perry",
+    "owner": "Pablo_Eckobarik",
     "status": "Занято",
     "x": 1970.08,
     "y": -1671.19,
@@ -21076,7 +21064,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Ben_Salemanov",
+    "owner": "lycanthropy",
     "status": "Занято",
     "x": 2620.27,
     "y": 2156.39,
@@ -22260,6 +22248,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1083,
+    "server_id": 32,
+    "type": "house",
+    "name": "Bernhard",
+    "owner": "Gopnik_Corsar",
+    "status": "Аукцион",
+    "x": -2844.68,
+    "y": 921.177,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1333,
     "server_id": 32,
     "type": "house",
@@ -22512,30 +22512,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 5,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Ronald_Mercy",
-    "status": "Аукцион",
-    "x": 2309.79,
-    "y": -1643.68,
-    "price": 325999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 7,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Ronald_Mercy",
-    "status": "Аукцион",
-    "x": 1315.5,
-    "y": -898.048,
-    "price": 325999,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 17,
     "server_id": 32,
     "type": "business",
@@ -22720,7 +22696,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Geforce_Nakatani",
+    "owner": "Howa_Thug",
     "status": "Занято",
     "x": 875.84,
     "y": -1565.01,
@@ -22796,6 +22772,18 @@
     "status": "Занято",
     "x": 1836.41,
     "y": -1682.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 5,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Ronald_Mercy",
+    "status": "Занято",
+    "x": 2309.79,
+    "y": -1643.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23000,6 +22988,18 @@
     "status": "Занято",
     "x": 1352.4,
     "y": -1758.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 7,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Ronald_Mercy",
+    "status": "Занято",
+    "x": 1315.5,
+    "y": -898.048,
     "price": 0,
     "district": "Сан-Андреас"
   },
