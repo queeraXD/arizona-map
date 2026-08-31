@@ -9987,7 +9987,7 @@
     "id": 832,
     "server_id": 14,
     "type": "house",
-    "name": "Sevens",
+    "name": "Дом заводчанина",
     "owner": "Frank_Werner",
     "status": "Занято",
     "x": -2234.38,
@@ -23712,6 +23712,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 207,
+    "server_id": 14,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Thomas_Gosling",
+    "status": "Аукцион",
+    "x": 196.119,
+    "y": -116.76,
+    "price": 100000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 14,
     "type": "business",
@@ -26816,18 +26828,6 @@
     "status": "Занято",
     "x": 1381.1,
     "y": -1805.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 207,
-    "server_id": 14,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Thomas_Gosling",
-    "status": "Занято",
-    "x": 196.119,
-    "y": -116.76,
     "price": 0,
     "district": "Сан-Андреас"
   },

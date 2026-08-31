@@ -13128,18 +13128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1097,
-    "server_id": 26,
-    "type": "house",
-    "name": "дом",
-    "owner": "Takayuki_Hakegawa",
-    "status": "Занято",
-    "x": -2223.62,
-    "y": 820.458,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1098,
     "server_id": 26,
     "type": "house",
@@ -25032,6 +25020,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1097,
+    "server_id": 26,
+    "type": "house",
+    "name": "дом",
+    "owner": "Takayuki_Hakegawa",
+    "status": "Аукцион",
+    "x": -2223.62,
+    "y": 820.458,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1323,
     "server_id": 26,
     "type": "house",
@@ -28168,7 +28168,7 @@
     "server_id": 26,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Ryan_Wright",
+    "owner": "Twenty_Bavaria",
     "status": "Занято",
     "x": -1548.81,
     "y": 673.91,
