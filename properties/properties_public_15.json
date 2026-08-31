@@ -2208,18 +2208,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 184,
-    "server_id": 15,
-    "type": "house",
-    "name": "__b0ych1k__",
-    "owner": "Sexy_Boy",
-    "status": "Занято",
-    "x": 693.841,
-    "y": -1645.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 185,
     "server_id": 15,
     "type": "house",
@@ -3332,18 +3320,6 @@
     "status": "Занято",
     "x": 2526.83,
     "y": -1033.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 279,
-    "server_id": 15,
-    "type": "house",
-    "name": "GRECO",
-    "owner": "California_McCloud",
-    "status": "Занято",
-    "x": 2194.16,
-    "y": -1000.94,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -4868,18 +4844,6 @@
     "status": "Занято",
     "x": 1419.97,
     "y": 390.411,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 407,
-    "server_id": 15,
-    "type": "house",
-    "name": "Dzenya&Monopoly 2.0",
-    "owner": "California_McCloud",
-    "status": "Занято",
-    "x": 1413.46,
-    "y": 362.799,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12428,6 +12392,18 @@
     "status": "Занято",
     "x": 1911.59,
     "y": -464.2439,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1038,
+    "server_id": 15,
+    "type": "house",
+    "name": "Samurai",
+    "owner": "Artem_Nikolaienko",
+    "status": "Занято",
+    "x": -1776.13,
+    "y": 1115.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21168,6 +21144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 184,
+    "server_id": 15,
+    "type": "house",
+    "name": "__b0ych1k__",
+    "owner": "Sexy_Boy",
+    "status": "Аукцион",
+    "x": 693.841,
+    "y": -1645.77,
+    "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 257,
     "server_id": 15,
     "type": "house",
@@ -21180,15 +21168,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1038,
+    "id": 279,
     "server_id": 15,
     "type": "house",
-    "name": "Pablo 11",
-    "owner": "Sergio_McCloud",
+    "name": "GRECO",
+    "owner": "California_McCloud",
     "status": "Аукцион",
-    "x": -1776.13,
-    "y": 1115.2,
-    "price": 1,
+    "x": 2194.16,
+    "y": -1000.94,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 407,
+    "server_id": 15,
+    "type": "house",
+    "name": "Dzenya&Monopoly 2.0",
+    "owner": "California_McCloud",
+    "status": "Аукцион",
+    "x": 1413.46,
+    "y": 362.799,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
