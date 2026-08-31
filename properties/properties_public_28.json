@@ -3240,18 +3240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 273,
-    "server_id": 28,
-    "type": "house",
-    "name": "house444",
-    "owner": "Hiroto_Christmas",
-    "status": "Занято",
-    "x": 2626.07,
-    "y": -1112.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 274,
     "server_id": 28,
     "type": "house",
@@ -6960,18 +6948,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 586,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dmitry_Vladimirov",
-    "status": "Занято",
-    "x": -582.4019,
-    "y": 2712.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 587,
     "server_id": 28,
     "type": "house",
@@ -7556,18 +7532,6 @@
     "status": "Занято",
     "x": -369.302,
     "y": 1169.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 636,
-    "server_id": 28,
-    "type": "house",
-    "name": "house444",
-    "owner": "Hiroto_Christmas",
-    "status": "Занято",
-    "x": -360.4819,
-    "y": 1141.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15072,18 +15036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1267,
-    "server_id": 28,
-    "type": "house",
-    "name": "Home By Mike",
-    "owner": "Gang_Gang",
-    "status": "Занято",
-    "x": -2301.78,
-    "y": 580.0339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1268,
     "server_id": 28,
     "type": "house",
@@ -20160,18 +20112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1693,
-    "server_id": 28,
-    "type": "house",
-    "name": "house444",
-    "owner": "Kosynoki_Rambery",
-    "status": "Занято",
-    "x": -914.3449,
-    "y": -528.8449,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1694,
     "server_id": 28,
     "type": "house",
@@ -22104,6 +22044,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 586,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -582.4019,
+    "y": 2712.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 28,
     "server_id": 28,
     "type": "house",
@@ -22140,6 +22092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 273,
+    "server_id": 28,
+    "type": "house",
+    "name": "house444",
+    "owner": "Hiroto_Christmas",
+    "status": "Аукцион",
+    "x": 2626.07,
+    "y": -1112.56,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 432,
     "server_id": 28,
     "type": "house",
@@ -22173,6 +22137,18 @@
     "x": 1439.79,
     "y": 1951.65,
     "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 636,
+    "server_id": 28,
+    "type": "house",
+    "name": "house444",
+    "owner": "Hiroto_Christmas",
+    "status": "Аукцион",
+    "x": -360.4819,
+    "y": 1141.62,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -22224,6 +22200,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1267,
+    "server_id": 28,
+    "type": "house",
+    "name": "Home By Mike",
+    "owner": "Gang_Gang",
+    "status": "Аукцион",
+    "x": -2301.78,
+    "y": 580.0339,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1289,
     "server_id": 28,
     "type": "house",
@@ -22245,6 +22233,18 @@
     "x": 1465.76,
     "y": 364.191,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1693,
+    "server_id": 28,
+    "type": "house",
+    "name": "house444",
+    "owner": "Kosynoki_Rambery",
+    "status": "Аукцион",
+    "x": -914.3449,
+    "y": -528.8449,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
@@ -22368,6 +22368,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 66,
+    "server_id": 28,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Serezhka_Zhuk",
+    "status": "Аукцион",
+    "x": 2085.67,
+    "y": 2054.97,
+    "price": 180000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 28,
     "type": "business",
@@ -22412,18 +22424,6 @@
     "status": "Занято",
     "x": 2539.54,
     "y": 2083.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 66,
-    "server_id": 28,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Serezhka_Zhuk",
-    "status": "Занято",
-    "x": 2085.67,
-    "y": 2054.97,
     "price": 0,
     "district": "Сан-Андреас"
   },

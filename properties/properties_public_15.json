@@ -3336,6 +3336,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 279,
+    "server_id": 15,
+    "type": "house",
+    "name": "GRECO",
+    "owner": "California_McCloud",
+    "status": "Занято",
+    "x": 2194.16,
+    "y": -1000.94,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 280,
     "server_id": 15,
     "type": "house",
@@ -4860,6 +4872,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 407,
+    "server_id": 15,
+    "type": "house",
+    "name": "Dzenya&Monopoly 2.0",
+    "owner": "California_McCloud",
+    "status": "Занято",
+    "x": 1413.46,
+    "y": 362.799,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 408,
     "server_id": 15,
     "type": "house",
@@ -6204,18 +6228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 521,
-    "server_id": 15,
-    "type": "house",
-    "name": "risson fam",
-    "owner": "Sinister_Payson",
-    "status": "Занято",
-    "x": 1639.79,
-    "y": 2102.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 522,
     "server_id": 15,
     "type": "house",
@@ -6376,7 +6388,7 @@
     "server_id": 15,
     "type": "house",
     "name": "revenantsize domination",
-    "owner": "Ravage_Revenantsize",
+    "owner": "Ravage_Routine",
     "status": "Занято",
     "x": 2018.09,
     "y": 2722.91,
@@ -7040,18 +7052,6 @@
     "status": "Занято",
     "x": -911.2329,
     "y": 2686.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 591,
-    "server_id": 15,
-    "type": "house",
-    "name": "Dzenya&Monopoly 2.0",
-    "owner": "Hiroto_McCloud",
-    "status": "Занято",
-    "x": -1476.21,
-    "y": 2563.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21180,30 +21180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 279,
-    "server_id": 15,
-    "type": "house",
-    "name": "GRECO",
-    "owner": "California_McCloud",
-    "status": "Аукцион",
-    "x": 2194.16,
-    "y": -1000.94,
-    "price": 4500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 407,
-    "server_id": 15,
-    "type": "house",
-    "name": "Dzenya&Monopoly 2.0",
-    "owner": "California_McCloud",
-    "status": "Аукцион",
-    "x": 1413.46,
-    "y": 362.799,
-    "price": 3500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 422,
     "server_id": 15,
     "type": "house",
@@ -21212,6 +21188,30 @@
     "status": "Аукцион",
     "x": 1312.43,
     "y": 170.811,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 521,
+    "server_id": 15,
+    "type": "house",
+    "name": "risson fam",
+    "owner": "Sinister_Payson",
+    "status": "Аукцион",
+    "x": 1639.79,
+    "y": 2102.8,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 591,
+    "server_id": 15,
+    "type": "house",
+    "name": "Dzenya&Monopoly 2.0",
+    "owner": "Hiroto_McCloud",
+    "status": "Аукцион",
+    "x": -1476.21,
+    "y": 2563.06,
     "price": 1,
     "district": "Сан-Андреас"
   },

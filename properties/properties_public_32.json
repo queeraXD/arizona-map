@@ -2532,18 +2532,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
-    "server_id": 32,
-    "type": "house",
-    "name": "ШкольникHouse",
-    "owner": "Gde_Moiglaza",
-    "status": "Занято",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 213,
     "server_id": 32,
     "type": "house",
@@ -9160,7 +9148,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Gospodin_Frytow",
+    "owner": "Aleksandr_Emberheart",
     "status": "Занято",
     "x": -2709.77,
     "y": 803.08,
@@ -13012,7 +13000,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Gospodin_Frytow",
+    "owner": "Aleksandr_Emberheart",
     "status": "Занято",
     "x": -2126.75,
     "y": 832.6989,
@@ -13024,7 +13012,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Gospodin_Frytow",
+    "owner": "Aleksandr_Emberheart",
     "status": "Занято",
     "x": -2129.67,
     "y": 894.8569,
@@ -15924,18 +15912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1333,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 1550.54,
-    "y": 2846.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1334,
     "server_id": 32,
     "type": "house",
@@ -15944,18 +15920,6 @@
     "status": "Занято",
     "x": 1575.88,
     "y": 2844.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1335,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 1601.87,
-    "y": 2846.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20580,18 +20544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1751,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": -789.703,
-    "y": 2747.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1752,
     "server_id": 32,
     "type": "house",
@@ -21396,18 +21348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1820,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 2645.53,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1821,
     "server_id": 32,
     "type": "house",
@@ -21584,18 +21524,6 @@
     "status": "Занято",
     "x": 2623.65,
     "y": 2046.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1838,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 2623.66,
-    "y": 2065.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22308,6 +22236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 212,
+    "server_id": 32,
+    "type": "house",
+    "name": "ШкольникHouse",
+    "owner": "Gde_Moiglaza",
+    "status": "Аукцион",
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 50000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 911,
     "server_id": 32,
     "type": "house",
@@ -22317,6 +22257,30 @@
     "x": -2126.55,
     "y": 1050.82,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1333,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 1550.54,
+    "y": 2846.08,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1335,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 1601.87,
+    "y": 2846.08,
+    "price": 25000,
     "district": "Сан-Андреас"
   },
   {
@@ -22332,6 +22296,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1751,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": -789.703,
+    "y": 2747.8,
+    "price": 11111,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1792,
     "server_id": 32,
     "type": "house",
@@ -22341,6 +22317,18 @@
     "x": 2625.17,
     "y": 2195.56,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1820,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 2645.53,
+    "y": 2019.21,
+    "price": 11111,
     "district": "Сан-Андреас"
   },
   {
@@ -22365,6 +22353,18 @@
     "x": 2623.66,
     "y": 2067.39,
     "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1838,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 2623.66,
+    "y": 2065.52,
+    "price": 11111,
     "district": "Сан-Андреас"
   },
   {
@@ -23248,7 +23248,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Aleksandr_Emberheart",
+    "owner": "Sardel_Ka",
     "status": "Занято",
     "x": -2242.28,
     "y": -170.898,
