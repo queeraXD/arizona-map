@@ -1044,18 +1044,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 88,
-    "server_id": 10,
-    "type": "house",
-    "name": "$Karleone$",
-    "owner": "Vulfi_Karleone",
-    "status": "Занято",
-    "x": 2014.91,
-    "y": -1732.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 89,
     "server_id": 10,
     "type": "house",
@@ -4616,6 +4604,18 @@
     "status": "Занято",
     "x": 2362.94,
     "y": 166.0709,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 387,
+    "server_id": 10,
+    "type": "house",
+    "name": "Майнинг ферма 10 лвл ПК",
+    "owner": "Seryozhka_Dementor",
+    "status": "Занято",
+    "x": 2363.25,
+    "y": 142.009,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11612,6 +11612,18 @@
     "status": "Занято",
     "x": -2478.74,
     "y": 2488.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 974,
+    "server_id": 10,
+    "type": "house",
+    "name": "Домик дядюшки Джейсона",
+    "owner": "Lovec_Tipa",
+    "status": "Занято",
+    "x": -2479.06,
+    "y": 2509.42,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20508,6 +20520,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1723,
+    "server_id": 10,
+    "type": "house",
+    "name": "sonne scheint",
+    "owner": "Sinister_Surprise",
+    "status": "Занято",
+    "x": 2579.08,
+    "y": 719.4249,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1724,
     "server_id": 10,
     "type": "house",
@@ -23076,18 +23100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1723,
-    "server_id": 10,
-    "type": "house",
-    "name": "sonne scheint",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2579.08,
-    "y": 719.4249,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 68,
     "server_id": 10,
     "type": "house",
@@ -23100,6 +23112,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 88,
+    "server_id": 10,
+    "type": "house",
+    "name": "$Karleone$",
+    "owner": "Vulfi_Karleone",
+    "status": "Аукцион",
+    "x": 2014.91,
+    "y": -1732.61,
+    "price": 22222,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 379,
     "server_id": 10,
     "type": "house",
@@ -23108,18 +23132,6 @@
     "status": "Аукцион",
     "x": 2269.37,
     "y": 110.9479,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 387,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Аукцион",
-    "x": 2363.25,
-    "y": 142.009,
     "price": 1000,
     "district": "Сан-Андреас"
   },
@@ -23145,18 +23157,6 @@
     "x": -2689.39,
     "y": -152.796,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 974,
-    "server_id": 10,
-    "type": "house",
-    "name": "Домик дядюшки Джейсона",
-    "owner": "Lovec_Tipa",
-    "status": "Аукцион",
-    "x": -2479.06,
-    "y": 2509.42,
-    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -23349,18 +23349,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 10,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Artem_Cuerto",
-    "status": "Аукцион",
-    "x": 2366.7,
-    "y": 2071.11,
-    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -25440,6 +25428,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 296,
+    "server_id": 10,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Artem_Cuerto",
+    "status": "Занято",
+    "x": 2366.7,
+    "y": 2071.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 357,
     "server_id": 10,
     "type": "business",
@@ -25552,7 +25552,7 @@
     "server_id": 10,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Nekitos_Evandos",
+    "owner": "Dostavka_Cuerto",
     "status": "Занято",
     "x": 2262.75,
     "y": 2036.09,

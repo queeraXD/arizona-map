@@ -612,6 +612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 51,
+    "server_id": 30,
+    "type": "house",
+    "name": "Dojan",
+    "owner": "Fasko_Fusko",
+    "status": "Занято",
+    "x": 2190.32,
+    "y": -1487.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 52,
     "server_id": 30,
     "type": "house",
@@ -22584,18 +22596,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 51,
-    "server_id": 30,
-    "type": "house",
-    "name": "Dojan",
-    "owner": "Fasko_Fusko",
-    "status": "Аукцион",
-    "x": 2190.32,
-    "y": -1487.64,
-    "price": 45000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 57,
     "server_id": 30,
     "type": "house",
@@ -22761,18 +22761,6 @@
     "x": 1500.24,
     "y": -1628.79,
     "price": 100000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 303,
-    "server_id": 30,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Artem_Cuerto",
-    "status": "Аукцион",
-    "x": -833.1396,
-    "y": 1622.985,
-    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -26444,6 +26432,18 @@
     "status": "Занято",
     "x": 156.6065,
     "y": 1149.47,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 303,
+    "server_id": 30,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Artem_Cuerto",
+    "status": "Занято",
+    "x": -833.1396,
+    "y": 1622.985,
     "price": 0,
     "district": "Сан-Андреас"
   },

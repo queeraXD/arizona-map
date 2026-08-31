@@ -2856,6 +2856,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 238,
+    "server_id": 28,
+    "type": "house",
+    "name": "Soprano Mafia",
+    "owner": "Maximus_Soprano",
+    "status": "Занято",
+    "x": 1095.35,
+    "y": -646.234,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 239,
     "server_id": 28,
     "type": "house",
@@ -6568,7 +6580,7 @@
     "server_id": 28,
     "type": "house",
     "name": "House of Mirrors",
-    "owner": "Kalandra_Mirror",
+    "owner": "Danald_Trump",
     "status": "Занято",
     "x": -281.673,
     "y": 961.9429,
@@ -6712,7 +6724,7 @@
     "server_id": 28,
     "type": "house",
     "name": "House of Mirrors",
-    "owner": "Gosha_Semenyuk",
+    "owner": "Jack_Net",
     "status": "Занято",
     "x": 263.622,
     "y": 1171.51,
@@ -6972,6 +6984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 586,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yaroslaw_Selo",
+    "status": "Занято",
+    "x": -582.4019,
+    "y": 2712.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 587,
     "server_id": 28,
     "type": "house",
@@ -7068,18 +7092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 595,
-    "server_id": 28,
-    "type": "house",
-    "name": "house444",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": -1444.99,
-    "y": 2653.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 596,
     "server_id": 28,
     "type": "house",
@@ -7100,18 +7112,6 @@
     "status": "Занято",
     "x": -1450.71,
     "y": 2691.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 598,
-    "server_id": 28,
-    "type": "house",
-    "name": "house444",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": -1466.16,
-    "y": 2693.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10964,6 +10964,18 @@
     "status": "Занято",
     "x": -2029.88,
     "y": 745.3209,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 926,
+    "server_id": 28,
+    "type": "house",
+    "name": "домик",
+    "owner": "Nelly_Sakura",
+    "status": "Занято",
+    "x": -2307.24,
+    "y": 944.2639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22035,36 +22047,12 @@
     "id": 1857,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
-    "owner": "Flo_Rida",
+    "name": "SENSATION! A Cute Chaotic Trail",
+    "owner": "Kalandra_Mirror",
     "status": "Занято",
     "x": -33.4878,
     "y": 958.9609,
     "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 586,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -582.4019,
-    "y": 2712.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 238,
-    "server_id": 28,
-    "type": "house",
-    "name": "Soprano Mafia",
-    "owner": "Maximus_Soprano",
-    "status": "Аукцион",
-    "x": 1095.35,
-    "y": -646.234,
-    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -22113,6 +22101,30 @@
     "x": 452.07,
     "y": 1246.99,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 595,
+    "server_id": 28,
+    "type": "house",
+    "name": "house444",
+    "owner": "Grafi_Kus",
+    "status": "Аукцион",
+    "x": -1444.99,
+    "y": 2653.32,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 598,
+    "server_id": 28,
+    "type": "house",
+    "name": "house444",
+    "owner": "Grafi_Kus",
+    "status": "Аукцион",
+    "x": -1466.16,
+    "y": 2693.15,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -22173,18 +22185,6 @@
     "x": -2282.07,
     "y": 1089.04,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 926,
-    "server_id": 28,
-    "type": "house",
-    "name": "домик",
-    "owner": "Nelly_Sakura",
-    "status": "Аукцион",
-    "x": -2307.24,
-    "y": 944.2639,
-    "price": 3500,
     "district": "Сан-Андреас"
   },
   {

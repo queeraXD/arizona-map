@@ -4284,18 +4284,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 357,
-    "server_id": 27,
-    "type": "house",
-    "name": "Bipolar gang",
-    "owner": "Did_Inside",
-    "status": "Занято",
-    "x": 1288.35,
-    "y": -873.8729,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 358,
     "server_id": 27,
     "type": "house",
@@ -21144,6 +21132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1763,
+    "server_id": 27,
+    "type": "house",
+    "name": "@CitrusCG",
+    "owner": "Citrus_Company",
+    "status": "Занято",
+    "x": -216.6309,
+    "y": 930.1619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1764,
     "server_id": 27,
     "type": "house",
@@ -24348,6 +24348,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 357,
+    "server_id": 27,
+    "type": "house",
+    "name": "Bipolar gang",
+    "owner": "Did_Inside",
+    "status": "Аукцион",
+    "x": 1288.35,
+    "y": -873.8729,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1471,
     "server_id": 27,
     "type": "house",
@@ -24357,18 +24369,6 @@
     "x": 2154.1,
     "y": -979.919,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1763,
-    "server_id": 27,
-    "type": "house",
-    "name": "Aura Team",
-    "owner": "Ericko_Simans",
-    "status": "Аукцион",
-    "x": -216.6309,
-    "y": 930.1619,
-    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -26044,8 +26044,8 @@
     "server_id": 27,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Johan_Hill",
-    "status": "Занято",
+    "owner": "Государство",
+    "status": "Свободно",
     "x": -736.159,
     "y": 2747.84,
     "price": 0,
@@ -26152,8 +26152,8 @@
     "server_id": 27,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Johan_Hill",
-    "status": "Занято",
+    "owner": "Государство",
+    "status": "Свободно",
     "x": 1038.22,
     "y": -1340.73,
     "price": 0,
@@ -27220,8 +27220,8 @@
     "server_id": 27,
     "type": "business",
     "name": "Отель",
-    "owner": "Johan_Hill",
-    "status": "Занято",
+    "owner": "Государство",
+    "status": "Свободно",
     "x": 1365.16,
     "y": -1859.35,
     "price": 0,
@@ -28180,8 +28180,8 @@
     "server_id": 27,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Johan_Hill",
-    "status": "Занято",
+    "owner": "Государство",
+    "status": "Свободно",
     "x": 2837.842,
     "y": 1392.9,
     "price": 0,
