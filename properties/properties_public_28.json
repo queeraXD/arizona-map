@@ -6744,6 +6744,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 563,
+    "server_id": 28,
+    "type": "house",
+    "name": "House of Mirrors",
+    "owner": "Gosha_Semenyuk",
+    "status": "Занято",
+    "x": 263.622,
+    "y": 1171.51,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 564,
     "server_id": 28,
     "type": "house",
@@ -10328,30 +10340,6 @@
     "status": "Занято",
     "x": -236.8439,
     "y": 2491.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 864,
-    "server_id": 28,
-    "type": "house",
-    "name": "полный шкаф вещей!",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -245.722,
-    "y": 2501.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 865,
-    "server_id": 28,
-    "type": "house",
-    "name": "полный шкаф вещей!",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -269.1889,
-    "y": 2504.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15160,7 +15148,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Home By Mike",
-    "owner": "Mike_Bueno",
+    "owner": "Gang_Gang",
     "status": "Занято",
     "x": -2301.78,
     "y": 580.0339,
@@ -18556,7 +18544,7 @@
     "server_id": 28,
     "type": "house",
     "name": "bellverk",
-    "owner": "Enrique_Mendoza",
+    "owner": "Johnsons_Baby",
     "status": "Занято",
     "x": -1802.61,
     "y": 2037.73,
@@ -22224,15 +22212,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 563,
+    "id": 864,
     "server_id": 28,
     "type": "house",
-    "name": "House of Mirrors",
-    "owner": "Gosha_Semenyuk",
+    "name": "полный шкаф вещей!",
+    "owner": "Michail_Shtyh",
     "status": "Аукцион",
-    "x": 263.622,
-    "y": 1171.51,
-    "price": 3500,
+    "x": -245.722,
+    "y": 2501.72,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 865,
+    "server_id": 28,
+    "type": "house",
+    "name": "полный шкаф вещей!",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": -269.1889,
+    "y": 2504.93,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
