@@ -1320,18 +1320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 110,
-    "server_id": 32,
-    "type": "house",
-    "name": "Rotate Empire | Ларцы",
-    "owner": "Vor_Vpogonah",
-    "status": "Занято",
-    "x": 2296.54,
-    "y": -1882.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 111,
     "server_id": 32,
     "type": "house",
@@ -21084,18 +21072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1792,
-    "server_id": 32,
-    "type": "house",
-    "name": "West LV ",
-    "owner": "Good",
-    "status": "Занято",
-    "x": 2625.17,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1793,
     "server_id": 32,
     "type": "house",
@@ -21444,18 +21420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1822,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Donny_Lood",
-    "status": "Занято",
-    "x": 2636.42,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1823,
     "server_id": 32,
     "type": "house",
@@ -21524,18 +21488,6 @@
     "status": "Занято",
     "x": 2623.66,
     "y": 2074.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1829,
-    "server_id": 32,
-    "type": "house",
-    "name": "KopMine",
-    "owner": "Donny_Lood",
-    "status": "Занято",
-    "x": 2623.66,
-    "y": 2067.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22368,6 +22320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 110,
+    "server_id": 32,
+    "type": "house",
+    "name": "Rotate Empire | Ларцы",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2296.54,
+    "y": -1882.34,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 826,
     "server_id": 32,
     "type": "house",
@@ -22388,6 +22352,42 @@
     "status": "Аукцион",
     "x": -768.616,
     "y": 2765.4,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1792,
+    "server_id": 32,
+    "type": "house",
+    "name": "West LV ",
+    "owner": "Good",
+    "status": "Аукцион",
+    "x": 2625.17,
+    "y": 2195.56,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1822,
+    "server_id": 32,
+    "type": "house",
+    "name": "деп.условия",
+    "owner": "Donny_Lood",
+    "status": "Аукцион",
+    "x": 2636.42,
+    "y": 2019.21,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1829,
+    "server_id": 32,
+    "type": "house",
+    "name": "деп.условия",
+    "owner": "Donny_Lood",
+    "status": "Аукцион",
+    "x": 2623.66,
+    "y": 2067.39,
     "price": 13000,
     "district": "Сан-Андреас"
   },
@@ -22533,6 +22533,42 @@
     "x": 1315.5,
     "y": -898.048,
     "price": 325999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 17,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Hiroshi_Tanaka",
+    "status": "Аукцион",
+    "x": -2165.77,
+    "y": -2416.71,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 133,
+    "server_id": 32,
+    "type": "business",
+    "name": "Рекламное агентство СФ",
+    "owner": "Hiroshi_Tanaka",
+    "status": "Аукцион",
+    "x": -2226.2,
+    "y": 252.005,
+    "price": 200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 172,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Hiroshi_Tanaka",
+    "status": "Аукцион",
+    "x": 2330.59,
+    "y": 2533.61,
+    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -23012,18 +23048,6 @@
     "status": "Занято",
     "x": -87.234,
     "y": -1202.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 17,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Hiroshi_Tanaka",
-    "status": "Занято",
-    "x": -2165.77,
-    "y": -2416.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23636,18 +23660,6 @@
     "status": "Занято",
     "x": -2226.19,
     "y": 259.338,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 133,
-    "server_id": 32,
-    "type": "business",
-    "name": "Рекламное агентство СФ",
-    "owner": "Hiroshi_Tanaka",
-    "status": "Занято",
-    "x": -2226.2,
-    "y": 252.005,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24488,18 +24500,6 @@
     "status": "Занято",
     "x": 2169.41,
     "y": 2795.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 172,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Hiroshi_Tanaka",
-    "status": "Занято",
-    "x": 2330.59,
-    "y": 2533.61,
     "price": 0,
     "district": "Сан-Андреас"
   },

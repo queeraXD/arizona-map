@@ -336,18 +336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 28,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом в Los-Santos",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": 2209.7,
-    "y": -1240.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 29,
     "server_id": 28,
     "type": "house",
@@ -536,18 +524,6 @@
     "status": "Занято",
     "x": 2520.72,
     "y": -1197.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 45,
-    "server_id": 28,
-    "type": "house",
-    "name": "Деп условия+Подвал",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": 2467.61,
-    "y": -1200.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3616,7 +3592,7 @@
     "server_id": 28,
     "type": "house",
     "name": "опг бархатово",
-    "owner": "Kaoru_Lacosta",
+    "owner": "Diegointhe_Dark",
     "status": "Занято",
     "x": 2144.89,
     "y": -1085.5,
@@ -3688,7 +3664,7 @@
     "server_id": 28,
     "type": "house",
     "name": "деп условия, аксы в шкафу",
-    "owner": "Kaoru_Lacosta",
+    "owner": "Demidochka_Tribal",
     "status": "Занято",
     "x": 1912.61,
     "y": -1070.59,
@@ -5924,18 +5900,6 @@
     "status": "Занято",
     "x": 1462.21,
     "y": 1950.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 497,
-    "server_id": 28,
-    "type": "house",
-    "name": "деп условия, аксы и тюн в шкафу",
-    "owner": "Knyaz_Agalar",
-    "status": "Занято",
-    "x": 1439.79,
-    "y": 1951.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11036,18 +11000,6 @@
     "status": "Занято",
     "x": -2029.88,
     "y": 745.3209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 926,
-    "server_id": 28,
-    "type": "house",
-    "name": "домик",
-    "owner": "Nelly_Sakura",
-    "status": "Занято",
-    "x": -2307.24,
-    "y": 944.2639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19575,7 +19527,7 @@
     "id": 1646,
     "server_id": 28,
     "type": "house",
-    "name": "ASALA",
+    "name": "Приветики пистолетики",
     "owner": "Dominator_Idarkside",
     "status": "Занято",
     "x": 2794.27,
@@ -21016,7 +20968,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Набор творчества + Деп.условия",
-    "owner": "Shin_Mandela",
+    "owner": "Daniil_Monte",
     "status": "Занято",
     "x": 1913.96,
     "y": -2021.47,
@@ -22068,6 +22020,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1856,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Magistaren_Mazaeev",
+    "status": "Занято",
+    "x": -38.2052,
+    "y": 949.7329,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 28,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом в Los-Santos",
+    "owner": "Travis_Viper",
+    "status": "Аукцион",
+    "x": 2209.7,
+    "y": -1240.25,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 45,
+    "server_id": 28,
+    "type": "house",
+    "name": "Деп условия+Подвал",
+    "owner": "Travis_Viper",
+    "status": "Аукцион",
+    "x": 2467.61,
+    "y": -1200.41,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 212,
     "server_id": 28,
     "type": "house",
@@ -22104,6 +22092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 497,
+    "server_id": 28,
+    "type": "house",
+    "name": "деп условия, аксы и тюн в шкафу",
+    "owner": "Knyaz_Agalar",
+    "status": "Аукцион",
+    "x": 1439.79,
+    "y": 1951.65,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 586,
     "server_id": 28,
     "type": "house",
@@ -22125,6 +22125,18 @@
     "x": 1735.65,
     "y": 2691.22,
     "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 926,
+    "server_id": 28,
+    "type": "house",
+    "name": "домик",
+    "owner": "Nelly_Sakura",
+    "status": "Аукцион",
+    "x": -2307.24,
+    "y": 944.2639,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
@@ -22196,7 +22208,7 @@
     "status": "Аукцион",
     "x": 1465.76,
     "y": 364.191,
-    "price": 1000,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
@@ -22245,18 +22257,6 @@
     "x": 1828.25,
     "y": -1974.7,
     "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1856,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -38.2052,
-    "y": 949.7329,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
