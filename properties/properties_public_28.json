@@ -336,18 +336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 28,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом в Los-Santos",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": 2209.7,
-    "y": -1240.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 29,
     "server_id": 28,
     "type": "house",
@@ -536,18 +524,6 @@
     "status": "Занято",
     "x": 2520.72,
     "y": -1197.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 45,
-    "server_id": 28,
-    "type": "house",
-    "name": "Деп условия+Подвал",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": 2467.61,
-    "y": -1200.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10888,7 +10864,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Vozduchnyy_Shar",
+    "owner": "Padro_Cheel",
     "status": "Занято",
     "x": -2126.8,
     "y": 1032.62,
@@ -15140,18 +15116,6 @@
     "status": "Занято",
     "x": -2320.15,
     "y": 580.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1267,
-    "server_id": 28,
-    "type": "house",
-    "name": "Home By Mike",
-    "owner": "Gang_Gang",
-    "status": "Занято",
-    "x": -2301.78,
-    "y": 580.0339,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22176,6 +22140,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 28,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом в Los-Santos",
+    "owner": "Travis_Viper",
+    "status": "Аукцион",
+    "x": 2209.7,
+    "y": -1240.25,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 45,
+    "server_id": 28,
+    "type": "house",
+    "name": "Деп условия+Подвал",
+    "owner": "Travis_Viper",
+    "status": "Аукцион",
+    "x": 2467.61,
+    "y": -1200.41,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 864,
     "server_id": 28,
     "type": "house",
@@ -22221,6 +22209,18 @@
     "x": -2282.42,
     "y": 999.619,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1267,
+    "server_id": 28,
+    "type": "house",
+    "name": "Home By Mike",
+    "owner": "Gang_Gang",
+    "status": "Аукцион",
+    "x": -2301.78,
+    "y": 580.0339,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
