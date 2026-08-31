@@ -1344,18 +1344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 112,
-    "server_id": 10,
-    "type": "house",
-    "name": "дом джеймса сандерленда",
-    "owner": "Fenix_Cote",
-    "status": "Занято",
-    "x": 2241.99,
-    "y": -1882.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 113,
     "server_id": 10,
     "type": "house",
@@ -10616,18 +10604,6 @@
     "status": "Занято",
     "x": -2238.8,
     "y": -2424.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 886,
-    "server_id": 10,
-    "type": "house",
-    "name": "Я не Цундере!!",
-    "owner": "Fenix_Cote",
-    "status": "Занято",
-    "x": -2214.31,
-    "y": -2451.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23244,6 +23220,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 112,
+    "server_id": 10,
+    "type": "house",
+    "name": "дом джеймса сандерленда",
+    "owner": "Fenix_Cote",
+    "status": "Аукцион",
+    "x": 2241.99,
+    "y": -1882.29,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 886,
+    "server_id": 10,
+    "type": "house",
+    "name": "Я не Цундере!!",
+    "owner": "Fenix_Cote",
+    "status": "Аукцион",
+    "x": -2214.31,
+    "y": -2451.65,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1938,
     "server_id": 10,
     "type": "house",
@@ -23349,18 +23349,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 148,
-    "server_id": 10,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Yuki_Skyworth",
-    "status": "Аукцион",
-    "x": -2013.727,
-    "y": -1012.418,
-    "price": 390000,
     "district": "Сан-Андреас"
   },
   {
@@ -25892,6 +25880,18 @@
     "status": "Занято",
     "x": -2174.971,
     "y": -29.964,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 148,
+    "server_id": 10,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Yuki_Skyworth",
+    "status": "Занято",
+    "x": -2013.727,
+    "y": -1012.418,
     "price": 0,
     "district": "Сан-Андреас"
   },
