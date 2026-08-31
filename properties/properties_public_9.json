@@ -3132,18 +3132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 261,
-    "server_id": 9,
-    "type": "house",
-    "name": "Продается. Связь @denck",
-    "owner": "Void_Shard",
-    "status": "Занято",
-    "x": 2374.1,
-    "y": 21.8838,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 262,
     "server_id": 9,
     "type": "house",
@@ -5492,18 +5480,6 @@
     "status": "Занято",
     "x": 2069.02,
     "y": 696.2709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 458,
-    "server_id": 9,
-    "type": "house",
-    "name": "Продам фулл дом Связь @denck",
-    "owner": "Void_Shard",
-    "status": "Занято",
-    "x": 2094.12,
-    "y": 650.4459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10160,18 +10136,6 @@
     "status": "Занято",
     "x": -2191.59,
     "y": 1080.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 847,
-    "server_id": 9,
-    "type": "house",
-    "name": "Логово Вейна",
-    "owner": "Flash_Wayne",
-    "status": "Занято",
-    "x": -2172.91,
-    "y": 1080.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23829,6 +23793,42 @@
     "x": -1.4931,
     "y": 1011.83,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 847,
+    "server_id": 9,
+    "type": "house",
+    "name": "Логово Вейна",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2172.91,
+    "y": 1080.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 261,
+    "server_id": 9,
+    "type": "house",
+    "name": "Продается. Связь @denck",
+    "owner": "Void_Shard",
+    "status": "Аукцион",
+    "x": 2374.1,
+    "y": 21.8838,
+    "price": 60000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 458,
+    "server_id": 9,
+    "type": "house",
+    "name": "Продам фулл дом Связь @denck",
+    "owner": "Void_Shard",
+    "status": "Аукцион",
+    "x": 2094.12,
+    "y": 650.4459,
+    "price": 60000,
     "district": "Сан-Андреас"
   },
   {
