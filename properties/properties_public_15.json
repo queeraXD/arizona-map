@@ -3348,18 +3348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 279,
-    "server_id": 15,
-    "type": "house",
-    "name": "GRECO",
-    "owner": "California_McCloud",
-    "status": "Занято",
-    "x": 2194.16,
-    "y": -1000.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 280,
     "server_id": 15,
     "type": "house",
@@ -4880,18 +4868,6 @@
     "status": "Занято",
     "x": 1419.97,
     "y": 390.411,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 407,
-    "server_id": 15,
-    "type": "house",
-    "name": "Dzenya&Monopoly 2.0",
-    "owner": "California_McCloud",
-    "status": "Занято",
-    "x": 1413.46,
-    "y": 362.799,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9471,8 +9447,8 @@
     "id": 789,
     "server_id": 15,
     "type": "house",
-    "name": "Dom 2",
-    "owner": "Dewy_Less",
+    "name": "Dom 1",
+    "owner": "Tony_Kitsune",
     "status": "Занято",
     "x": -2580.91,
     "y": 920.38,
@@ -17988,6 +17964,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1500,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Radik_McCloud",
+    "status": "Занято",
+    "x": 2807.99,
+    "y": -1353.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1501,
     "server_id": 15,
     "type": "house",
@@ -21192,15 +21180,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1500,
+    "id": 279,
     "server_id": 15,
     "type": "house",
-    "name": "Дом",
-    "owner": "Radik_McCloud",
+    "name": "GRECO",
+    "owner": "California_McCloud",
     "status": "Аукцион",
-    "x": 2807.99,
-    "y": -1353.92,
-    "price": 6500,
+    "x": 2194.16,
+    "y": -1000.94,
+    "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 407,
+    "server_id": 15,
+    "type": "house",
+    "name": "Dzenya&Monopoly 2.0",
+    "owner": "California_McCloud",
+    "status": "Аукцион",
+    "x": 1413.46,
+    "y": 362.799,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {

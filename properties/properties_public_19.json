@@ -240,30 +240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 20,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Munuctep_Makapon",
-    "status": "Занято",
-    "x": 2150.17,
-    "y": -1286.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 21,
-    "server_id": 19,
-    "type": "house",
-    "name": "Нарко",
-    "owner": "Tatsuki_Abe",
-    "status": "Занято",
-    "x": 2148.63,
-    "y": -1319.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 22,
     "server_id": 19,
     "type": "house",
@@ -3284,6 +3260,18 @@
     "status": "Занято",
     "x": 2576.59,
     "y": -1070.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 275,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Cole_Brookstone",
+    "status": "Занято",
+    "x": 2579.67,
+    "y": -1033.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9792,18 +9780,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 820,
-    "server_id": 19,
-    "type": "house",
-    "name": "Hog4",
-    "owner": "Ronde_Wu",
-    "status": "Занято",
-    "x": -2689.39,
-    "y": -152.796,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 821,
     "server_id": 19,
     "type": "house",
@@ -9824,18 +9800,6 @@
     "status": "Занято",
     "x": -2691.24,
     "y": -134.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 823,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Minecraft_LetsPlay",
-    "status": "Занято",
-    "x": -2688.28,
-    "y": -118.0049,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14704,7 +14668,7 @@
     "server_id": 19,
     "type": "house",
     "name": "богачи",
-    "owner": "Sasha_Nechiperenko",
+    "owner": "Levis_Trevis",
     "status": "Занято",
     "x": -2433.07,
     "y": 1338.22,
@@ -20292,18 +20256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1698,
-    "server_id": 19,
-    "type": "house",
-    "name": "Монополия You_One",
-    "owner": "Ronde_Wu",
-    "status": "Занято",
-    "x": 2495.39,
-    "y": -1399.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1699,
     "server_id": 19,
     "type": "house",
@@ -21008,18 +20960,6 @@
     "status": "Занято",
     "x": 2690.54,
     "y": -1224.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1758,
-    "server_id": 19,
-    "type": "house",
-    "name": "clubteined",
-    "owner": "Jovanny_Dunlap",
-    "status": "Занято",
-    "x": 2690.54,
-    "y": -1233.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21876,6 +21816,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 20,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Munuctep_Makapon",
+    "status": "Аукцион",
+    "x": 2150.17,
+    "y": -1286.35,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 21,
+    "server_id": 19,
+    "type": "house",
+    "name": "Нарко",
+    "owner": "Tatsuki_Abe",
+    "status": "Аукцион",
+    "x": 2148.63,
+    "y": -1319.0,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 226,
     "server_id": 19,
     "type": "house",
@@ -21885,18 +21849,6 @@
     "x": 980.2369,
     "y": -676.6939,
     "price": 100000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 275,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 2579.67,
-    "y": -1033.2,
-    "price": 150,
     "district": "Сан-Андреас"
   },
   {
@@ -21924,6 +21876,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 820,
+    "server_id": 19,
+    "type": "house",
+    "name": "Hog4",
+    "owner": "Ronde_Wu",
+    "status": "Аукцион",
+    "x": -2689.39,
+    "y": -152.796,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 823,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Minecraft_LetsPlay",
+    "status": "Аукцион",
+    "x": -2688.28,
+    "y": -118.0049,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1641,
     "server_id": 19,
     "type": "house",
@@ -21944,6 +21920,30 @@
     "status": "Аукцион",
     "x": 1786.49,
     "y": 2867.64,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1698,
+    "server_id": 19,
+    "type": "house",
+    "name": "Монополия You_One",
+    "owner": "Ronde_Wu",
+    "status": "Аукцион",
+    "x": 2495.39,
+    "y": -1399.05,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1758,
+    "server_id": 19,
+    "type": "house",
+    "name": "clubteined",
+    "owner": "Jovanny_Dunlap",
+    "status": "Аукцион",
+    "x": 2690.54,
+    "y": -1233.53,
     "price": 1,
     "district": "Сан-Андреас"
   },
