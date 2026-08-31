@@ -7608,6 +7608,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 636,
+    "server_id": 14,
+    "type": "house",
+    "name": "Neo home",
+    "owner": "Neo_Vortex",
+    "status": "Занято",
+    "x": -360.4819,
+    "y": 1141.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 637,
     "server_id": 14,
     "type": "house",
@@ -19188,18 +19200,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1602,
-    "server_id": 14,
-    "type": "house",
-    "name": "3 комнаты",
-    "owner": "Jacob_Cohen",
-    "status": "Занято",
-    "x": -2355.53,
-    "y": 246.6649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1603,
     "server_id": 14,
     "type": "house",
@@ -19915,18 +19915,6 @@
     "owner": "Ivan_Setchurin",
     "status": "Занято",
     "x": 1956.06,
-    "y": 742.875,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1663,
-    "server_id": 14,
-    "type": "house",
-    "name": "Логово Биткоина[10 LVL]",
-    "owner": "Storm_ShadowCartel",
-    "status": "Занято",
-    "x": 1949.21,
     "y": 742.875,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23604,15 +23592,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 636,
+    "id": 1602,
     "server_id": 14,
     "type": "house",
-    "name": "домик Mira",
-    "owner": "Mir_Mirov",
+    "name": "3 комнаты",
+    "owner": "Jacob_Cohen",
     "status": "Аукцион",
-    "x": -360.4819,
-    "y": 1141.62,
-    "price": 15000,
+    "x": -2355.53,
+    "y": 246.6649,
+    "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1663,
+    "server_id": 14,
+    "type": "house",
+    "name": "Логово Биткоина[10 LVL]",
+    "owner": "Storm_ShadowCartel",
+    "status": "Аукцион",
+    "x": 1949.21,
+    "y": 742.875,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
