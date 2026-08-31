@@ -4864,7 +4864,7 @@
     "server_id": 21,
     "type": "house",
     "name": "ВЕСЁЛАЯ ФЕРМА",
-    "owner": "Kacura_Daiki",
+    "owner": "Ded_Avgustinovich",
     "status": "Занято",
     "x": 1451.08,
     "y": 374.286,
@@ -5252,18 +5252,6 @@
     "status": "Занято",
     "x": 2801.93,
     "y": -1936.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 438,
-    "server_id": 21,
-    "type": "house",
-    "name": "БИТФАРМ",
-    "owner": "Stepa_Turbocharger",
-    "status": "Занято",
-    "x": 228.067,
-    "y": -1405.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10908,18 +10896,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 912,
-    "server_id": 21,
-    "type": "house",
-    "name": "полный шкаф ресов",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -2126.87,
-    "y": 1069.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 913,
     "server_id": 21,
     "type": "house",
@@ -12180,18 +12156,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1018,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -2541.3,
-    "y": 987.9089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1019,
     "server_id": 21,
     "type": "house",
@@ -13048,7 +13012,7 @@
     "server_id": 21,
     "type": "house",
     "name": "холостятская хата",
-    "owner": "Lui_Astra",
+    "owner": "Kashemir_NaBlock",
     "status": "Занято",
     "x": -2126.75,
     "y": 832.6989,
@@ -19692,18 +19656,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1644,
-    "server_id": 21,
-    "type": "house",
-    "name": "Склад",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": 2517.04,
-    "y": 1659.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1645,
     "server_id": 21,
     "type": "house",
@@ -20036,18 +19988,6 @@
     "status": "Занято",
     "x": 2516.2,
     "y": 1682.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1673,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": 2517.04,
-    "y": 1679.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21784,7 +21724,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Дом",
-    "owner": "Ded_Avgustinovich",
+    "owner": "Babka_Vasya",
     "status": "Занято",
     "x": -38.2052,
     "y": 949.7329,
@@ -21796,11 +21736,23 @@
     "server_id": 21,
     "type": "house",
     "name": "Дом",
-    "owner": "Ded_Avgustinovich",
+    "owner": "Babka_Vasya",
     "status": "Занято",
     "x": -33.4878,
     "y": 958.9609,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 438,
+    "server_id": 21,
+    "type": "house",
+    "name": "БИТФАРМ",
+    "owner": "Stepa_Turbocharger",
+    "status": "Аукцион",
+    "x": 228.067,
+    "y": -1405.5,
+    "price": 8000,
     "district": "Сан-Андреас"
   },
   {
@@ -21825,6 +21777,54 @@
     "x": -2126.8,
     "y": 1032.62,
     "price": 2560,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 912,
+    "server_id": 21,
+    "type": "house",
+    "name": "полный шкаф ресов",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": -2126.87,
+    "y": 1069.24,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1018,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": -2541.3,
+    "y": 987.9089,
+    "price": 1800,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1644,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": 2517.04,
+    "y": 1659.04,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1673,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": 2517.04,
+    "y": 1679.36,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {

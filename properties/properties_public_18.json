@@ -5715,7 +5715,7 @@
     "id": 476,
     "server_id": 18,
     "type": "house",
-    "name": "Vincents House",
+    "name": "A Cozy Place",
     "owner": "Vincent_Diablo",
     "status": "Занято",
     "x": 2317.23,
@@ -10448,6 +10448,18 @@
     "status": "Занято",
     "x": -298.635,
     "y": 2565.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 873,
+    "server_id": 18,
+    "type": "house",
+    "name": "меееееееееееепо",
+    "owner": "Vor_Kladov",
+    "status": "Занято",
+    "x": -289.134,
+    "y": 2548.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15595,18 +15607,6 @@
     "owner": "Junik_Raletasi",
     "status": "Занято",
     "x": -2576.42,
-    "y": -198.7969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1305,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pawel_Radoncef",
-    "status": "Занято",
-    "x": -2558.56,
     "y": -198.7969,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22080,18 +22080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 873,
-    "server_id": 18,
-    "type": "house",
-    "name": "меееееееееееепо",
-    "owner": "Ter_Minator",
-    "status": "Аукцион",
-    "x": -289.134,
-    "y": 2548.72,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 913,
     "server_id": 18,
     "type": "house",
@@ -22113,6 +22101,18 @@
     "x": -2542.09,
     "y": 967.7059,
     "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1305,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2558.56,
+    "y": -198.7969,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {

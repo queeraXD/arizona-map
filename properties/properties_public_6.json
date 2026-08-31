@@ -10164,6 +10164,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 848,
+    "server_id": 6,
+    "type": "house",
+    "name": "Свинарник",
+    "owner": "Time_Immortalis",
+    "status": "Занято",
+    "x": -2281.55,
+    "y": 1088.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 849,
     "server_id": 6,
     "type": "house",
@@ -11200,7 +11212,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Свинарник",
-    "owner": "Danila_Duhobor",
+    "owner": "Yurchik_Duhobor",
     "status": "Занято",
     "x": -2174.28,
     "y": 903.002,
@@ -13976,6 +13988,18 @@
     "status": "Занято",
     "x": -2793.14,
     "y": -126.9789,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1168,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kostik_Podpal",
+    "status": "Занято",
+    "x": -2790.25,
+    "y": -111.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21468,18 +21492,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1793,
-    "server_id": 6,
-    "type": "house",
-    "name": "BADBOYS FAMILY",
-    "owner": "Seforolius_Lerned",
-    "status": "Занято",
-    "x": 2476.44,
-    "y": -1383.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1794,
     "server_id": 6,
     "type": "house",
@@ -22872,18 +22884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1912,
-    "server_id": 6,
-    "type": "house",
-    "name": "XAVRIKS",
-    "owner": "Rossi_Martinez",
-    "status": "Занято",
-    "x": 2441.54,
-    "y": 1233.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1913,
     "server_id": 6,
     "type": "house",
@@ -22952,18 +22952,6 @@
     "status": "Занято",
     "x": 2440.7,
     "y": 1220.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1919,
-    "server_id": 6,
-    "type": "house",
-    "name": "tt - temichbrooklyn",
-    "owner": "Rossi_Martinez",
-    "status": "Занято",
-    "x": 2440.7,
-    "y": 1215.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24267,8 +24255,8 @@
     "id": 2028,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Yurchik_Duhobor",
+    "name": "СБУ",
+    "owner": "Danila_Duhobor",
     "status": "Занято",
     "x": -85.5623,
     "y": 974.833,
@@ -24408,18 +24396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 848,
-    "server_id": 6,
-    "type": "house",
-    "name": "Свинарник",
-    "owner": "Yurchik_Duhobor",
-    "status": "Аукцион",
-    "x": -2281.55,
-    "y": 1088.92,
-    "price": 4000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1166,
     "server_id": 6,
     "type": "house",
@@ -24432,14 +24408,38 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1168,
+    "id": 1793,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Kostik_Podpal",
+    "name": "BADBOYS FAMILY",
+    "owner": "Seforolius_Lerned",
     "status": "Аукцион",
-    "x": -2790.25,
-    "y": -111.08,
+    "x": 2476.44,
+    "y": -1383.12,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1912,
+    "server_id": 6,
+    "type": "house",
+    "name": "XAVRIKS",
+    "owner": "Rossi_Martinez",
+    "status": "Аукцион",
+    "x": 2441.54,
+    "y": 1233.11,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1919,
+    "server_id": 6,
+    "type": "house",
+    "name": "tt - temichbrooklyn",
+    "owner": "Rossi_Martinez",
+    "status": "Аукцион",
+    "x": 2440.7,
+    "y": 1215.07,
     "price": 2000,
     "district": "Сан-Андреас"
   },

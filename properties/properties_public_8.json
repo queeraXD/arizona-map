@@ -15852,18 +15852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1327,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "White_Investor",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -171.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1328,
     "server_id": 8,
     "type": "house",
@@ -18439,6 +18427,18 @@
     "owner": "Uucycc_Xpucmoc",
     "status": "Занято",
     "x": 1973.3,
+    "y": -1705.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1543,
+    "server_id": 8,
+    "type": "house",
+    "name": "Konoplev Corporation",
+    "owner": "Maksimka_Konoplev",
+    "status": "Занято",
+    "x": 1969.33,
     "y": -1705.14,
     "price": 0,
     "district": "Сан-Андреас"
@@ -25620,6 +25620,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2143,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ukrainskiy_Ambal",
+    "status": "Занято",
+    "x": -1.4931,
+    "y": 1011.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 183,
     "server_id": 8,
     "type": "house",
@@ -25680,27 +25692,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1543,
-    "server_id": 8,
-    "type": "house",
-    "name": "Konoplev Corporation",
-    "owner": "Maksimka_Konoplev",
-    "status": "Аукцион",
-    "x": 1969.33,
-    "y": -1705.14,
-    "price": 6000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2143,
+    "id": 1327,
     "server_id": 8,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
+    "owner": "White_Investor",
     "status": "Аукцион",
-    "x": -1.4931,
-    "y": 1011.83,
-    "price": 1000,
+    "x": -2515.38,
+    "y": -171.05,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -25785,30 +25785,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 122,
-    "server_id": 8,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Vlad_Cachan",
-    "status": "Аукцион",
-    "x": -1967.24,
-    "y": 296.392,
-    "price": 444444,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 339,
-    "server_id": 8,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Vlad_Cachan",
-    "status": "Аукцион",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -28056,6 +28032,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 122,
+    "server_id": 8,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Vlad_Cachan",
+    "status": "Занято",
+    "x": -1967.24,
+    "y": 296.392,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 123,
     "server_id": 8,
     "type": "business",
@@ -29849,6 +29837,18 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "Santino_Kray",
+    "status": "Занято",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 339,
+    "server_id": 8,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Vlad_Cachan",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
