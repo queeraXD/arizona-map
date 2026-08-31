@@ -2520,18 +2520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
-    "server_id": 28,
-    "type": "house",
-    "name": ":sun: Sun House :sun:",
-    "owner": "Arte_Fact",
-    "status": "Занято",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 213,
     "server_id": 28,
     "type": "house",
@@ -15264,18 +15252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1280,
-    "server_id": 28,
-    "type": "house",
-    "name": "Под охраной коров!",
-    "owner": "Kigo_Hozyainov",
-    "status": "Занято",
-    "x": -2725.79,
-    "y": -36.4976,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1281,
     "server_id": 28,
     "type": "house",
@@ -17300,18 +17276,6 @@
     "status": "Занято",
     "x": 883.95,
     "y": 2131.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1451,
-    "server_id": 28,
-    "type": "house",
-    "name": "GOLD",
-    "owner": "Vitalya_Bob",
-    "status": "Занято",
-    "x": 885.4229,
-    "y": 2153.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22152,6 +22116,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 212,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Arte_Fact",
+    "status": "Аукцион",
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 864,
     "server_id": 28,
     "type": "house",
@@ -22212,6 +22188,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1280,
+    "server_id": 28,
+    "type": "house",
+    "name": "Под охраной коров!",
+    "owner": "Kigo_Hozyainov",
+    "status": "Аукцион",
+    "x": -2725.79,
+    "y": -36.4976,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1323,
     "server_id": 28,
     "type": "house",
@@ -22221,6 +22209,18 @@
     "x": 1465.76,
     "y": 364.191,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1451,
+    "server_id": 28,
+    "type": "house",
+    "name": "GOLD",
+    "owner": "Vitalya_Bob",
+    "status": "Аукцион",
+    "x": 885.4229,
+    "y": 2153.95,
+    "price": 100,
     "district": "Сан-Андреас"
   },
   {
@@ -25192,7 +25192,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Jeffrey_Alpenstein",
+    "owner": "Everlasting_Nocturne",
     "status": "Занято",
     "x": 1104.78,
     "y": 1380.93,

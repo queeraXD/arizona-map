@@ -21096,18 +21096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1761,
-    "server_id": 13,
-    "type": "house",
-    "name": "Ферма 1",
-    "owner": "Edward_Maer",
-    "status": "Занято",
-    "x": 2473.13,
-    "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1762,
     "server_id": 13,
     "type": "house",
@@ -21331,18 +21319,6 @@
     "owner": "Invisible_Maxon",
     "status": "Занято",
     "x": 2487.25,
-    "y": -1359.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1781,
-    "server_id": 13,
-    "type": "house",
-    "name": "МАЙНИНГ 7 ЛВЛ",
-    "owner": "Loki_Daymas",
-    "status": "Занято",
-    "x": 2468.25,
     "y": -1359.1,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23148,6 +23124,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1761,
+    "server_id": 13,
+    "type": "house",
+    "name": "Ферма 1",
+    "owner": "Edward_Maer",
+    "status": "Аукцион",
+    "x": 2473.13,
+    "y": -1376.27,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1781,
+    "server_id": 13,
+    "type": "house",
+    "name": "МАЙНИНГ 7 ЛВЛ",
+    "owner": "Loki_Daymas",
+    "status": "Аукцион",
+    "x": 2468.25,
+    "y": -1359.1,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1842,
     "server_id": 13,
     "type": "house",
@@ -23301,6 +23301,18 @@
     "x": 681.561,
     "y": -473.347,
     "price": 130000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 466,
+    "server_id": 13,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Stepa_Dimas",
+    "status": "Аукцион",
+    "x": 1365.16,
+    "y": -1859.35,
+    "price": 300000,
     "district": "Сан-Андреас"
   },
   {
@@ -26036,18 +26048,6 @@
     "status": "Занято",
     "x": 2235.13,
     "y": -1148.169,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 466,
-    "server_id": 13,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Stepa_Dimas",
-    "status": "Занято",
-    "x": 1365.16,
-    "y": -1859.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
