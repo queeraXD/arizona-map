@@ -916,7 +916,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Syn_Tax",
+    "owner": "SynTax",
     "status": "Занято",
     "x": 2308.85,
     "y": -1714.33,
@@ -1676,18 +1676,6 @@
     "status": "Занято",
     "x": 1674.01,
     "y": -2122.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 141,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Valerius_Targaryen",
-    "status": "Занято",
-    "x": 1667.54,
-    "y": -2107.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2584,7 +2572,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Carl_Home",
+    "owner": "Zenitsu_Bloomberg",
     "status": "Занято",
     "x": 910.38,
     "y": -817.25,
@@ -2632,7 +2620,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Ddos_Nik x 32 Space",
-    "owner": "Starkysh",
+    "owner": "Jonni_Makaronina",
     "status": "Занято",
     "x": 808.908,
     "y": -759.291,
@@ -6832,7 +6820,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Melo_Hokage",
+    "owner": "White_Shark",
     "status": "Занято",
     "x": 532.2399,
     "y": 1301.69,
@@ -10824,18 +10812,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 909,
-    "server_id": 33,
-    "type": "house",
-    "name": "(Brown Home) St. 909",
-    "owner": "arthas",
-    "status": "Занято",
-    "x": -2168.8,
-    "y": 796.5159,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 910,
     "server_id": 33,
     "type": "house",
@@ -12008,18 +11984,6 @@
     "status": "Занято",
     "x": -2383.84,
     "y": 1127.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1008,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Valerius_Targaryen",
-    "status": "Занято",
-    "x": -2549.0,
-    "y": 1145.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14788,7 +14752,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Aim_Finesse",
+    "owner": "Minato_Suzuki",
     "status": "Занято",
     "x": -2383.14,
     "y": 1244.68,
@@ -16332,6 +16296,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1370,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Erisu_Wenzeflores",
+    "status": "Занято",
+    "x": 1112.2,
+    "y": -1557.42,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1372,
     "server_id": 33,
     "type": "house",
@@ -17680,7 +17656,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Nikita_Romashkin",
+    "owner": "Serega_Sweetline",
     "status": "Занято",
     "x": 2488.04,
     "y": -1135.24,
@@ -19155,7 +19131,7 @@
     "id": 1707,
     "server_id": 33,
     "type": "house",
-    "name": "Гетто",
+    "name": "Ghetto 1707 home",
     "owner": "Slow_Spirit",
     "status": "Занято",
     "x": 2492.14,
@@ -20136,18 +20112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1789,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "arthas",
-    "status": "Занято",
-    "x": 2617.68,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1790,
     "server_id": 33,
     "type": "house",
@@ -21072,18 +21036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1370,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1112.2,
-    "y": -1557.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1371,
     "server_id": 33,
     "type": "house",
@@ -21948,6 +21900,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 141,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Valerius_Targaryen",
+    "status": "Аукцион",
+    "x": 1667.54,
+    "y": -2107.17,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 564,
     "server_id": 33,
     "type": "house",
@@ -21969,6 +21933,42 @@
     "x": -275.376,
     "y": 2736.23,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 909,
+    "server_id": 33,
+    "type": "house",
+    "name": "(Brown Home) St. 909",
+    "owner": "arthas",
+    "status": "Аукцион",
+    "x": -2168.8,
+    "y": 796.5159,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1008,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Valerius_Targaryen",
+    "status": "Аукцион",
+    "x": -2549.0,
+    "y": 1145.65,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1789,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "arthas",
+    "status": "Аукцион",
+    "x": 2617.68,
+    "y": 2195.56,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {

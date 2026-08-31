@@ -5964,6 +5964,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 497,
+    "server_id": 28,
+    "type": "house",
+    "name": "деп условия, аксы и тюн в шкафу",
+    "owner": "Knyaz_Agalar",
+    "status": "Занято",
+    "x": 1439.79,
+    "y": 1951.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 498,
     "server_id": 28,
     "type": "house",
@@ -6195,7 +6207,7 @@
     "id": 517,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
+    "name": "FGS",
     "owner": "Boba_Casuals",
     "status": "Занято",
     "x": 1641.34,
@@ -11004,18 +11016,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 921,
-    "server_id": 28,
-    "type": "house",
-    "name": "house444",
-    "owner": "Stu_Qarabas",
-    "status": "Занято",
-    "x": -2282.07,
-    "y": 1089.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 922,
     "server_id": 28,
     "type": "house",
@@ -11060,6 +11060,18 @@
     "status": "Занято",
     "x": -2029.88,
     "y": 745.3209,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 926,
+    "server_id": 28,
+    "type": "house",
+    "name": "домик",
+    "owner": "Nelly_Sakura",
+    "status": "Занято",
+    "x": -2307.24,
+    "y": 944.2639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11288,18 +11300,6 @@
     "status": "Занято",
     "x": -2281.96,
     "y": 979.2269,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 946,
-    "server_id": 28,
-    "type": "house",
-    "name": "house444",
-    "owner": "Stu_Qarabas",
-    "status": "Занято",
-    "x": -2282.42,
-    "y": 999.619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19164,18 +19164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1602,
-    "server_id": 28,
-    "type": "house",
-    "name": "own by aleksander.",
-    "owner": "Stu_Qarabas",
-    "status": "Занято",
-    "x": 1754.71,
-    "y": 2736.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1603,
     "server_id": 28,
     "type": "house",
@@ -21396,18 +21384,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1788,
-    "server_id": 28,
-    "type": "house",
-    "name": "LSPD ",
-    "owner": "Feldan_Lizalov",
-    "status": "Занято",
-    "x": 1828.25,
-    "y": -1974.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1789,
     "server_id": 28,
     "type": "house",
@@ -22200,18 +22176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 497,
-    "server_id": 28,
-    "type": "house",
-    "name": "деп условия, аксы и тюн в шкафу",
-    "owner": "Knyaz_Agalar",
-    "status": "Аукцион",
-    "x": 1439.79,
-    "y": 1951.65,
-    "price": 3500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 864,
     "server_id": 28,
     "type": "house",
@@ -22236,15 +22200,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 926,
+    "id": 921,
     "server_id": 28,
     "type": "house",
-    "name": "домик",
-    "owner": "Nelly_Sakura",
+    "name": "house444",
+    "owner": "Stu_Qarabas",
     "status": "Аукцион",
-    "x": -2307.24,
-    "y": 944.2639,
-    "price": 4000,
+    "x": -2282.07,
+    "y": 1089.04,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 946,
+    "server_id": 28,
+    "type": "house",
+    "name": "house444",
+    "owner": "Stu_Qarabas",
+    "status": "Аукцион",
+    "x": -2282.42,
+    "y": 999.619,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1602,
+    "server_id": 28,
+    "type": "house",
+    "name": "own by aleksander.",
+    "owner": "Stu_Qarabas",
+    "status": "Аукцион",
+    "x": 1754.71,
+    "y": 2736.07,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1788,
+    "server_id": 28,
+    "type": "house",
+    "name": "LSPD ",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1828.25,
+    "y": -1974.7,
+    "price": 150,
     "district": "Сан-Андреас"
   },
   {
