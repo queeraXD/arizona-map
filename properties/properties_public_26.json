@@ -2499,7 +2499,7 @@
     "id": 209,
     "server_id": 26,
     "type": "house",
-    "name": "шизик ",
+    "name": "тарелка вуддика",
     "owner": "Wuddy_Overprice",
     "status": "Занято",
     "x": 1093.81,
@@ -3992,18 +3992,6 @@
     "status": "Занято",
     "x": 807.215,
     "y": 372.506,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 335,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stepan_Morton",
-    "status": "Занято",
-    "x": 805.4329,
-    "y": 358.6799,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24996,6 +24984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 335,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stepan_Morton",
+    "status": "Аукцион",
+    "x": 805.4329,
+    "y": 358.6799,
+    "price": 1800,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 410,
     "server_id": 26,
     "type": "house",
@@ -25185,6 +25185,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 79,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Aska_Mclarren",
+    "status": "Аукцион",
+    "x": 2884.55,
+    "y": 2454.04,
+    "price": 230000,
     "district": "Сан-Андреас"
   },
   {
@@ -26888,18 +26900,6 @@
     "status": "Занято",
     "x": 172.348,
     "y": 1177.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 79,
-    "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Aska_Mclarren",
-    "status": "Занято",
-    "x": 2884.55,
-    "y": 2454.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
