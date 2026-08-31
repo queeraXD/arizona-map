@@ -9084,18 +9084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 762,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pinki_Flores",
-    "status": "Занято",
-    "x": -2667.07,
-    "y": 820.3189,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 763,
     "server_id": 19,
     "type": "house",
@@ -11276,18 +11264,6 @@
     "status": "Занято",
     "x": -2239.15,
     "y": 943.854,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 948,
-    "server_id": 19,
-    "type": "house",
-    "name": "Re-California",
-    "owner": "Loker_Layng",
-    "status": "Занято",
-    "x": -2239.31,
-    "y": 962.374,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18744,18 +18720,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1570,
-    "server_id": 19,
-    "type": "house",
-    "name": "Krusi corporation ",
-    "owner": "3ABUC_HA_6A3E",
-    "status": "Занято",
-    "x": 1949.28,
-    "y": 742.875,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1571,
     "server_id": 19,
     "type": "house",
@@ -19592,6 +19556,18 @@
     "status": "Занято",
     "x": 1796.65,
     "y": 2803.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1641,
+    "server_id": 19,
+    "type": "house",
+    "name": "SWAGSTEPA",
+    "owner": "Sofia_Florence",
+    "status": "Занято",
+    "x": 1795.78,
+    "y": 2800.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21876,6 +21852,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 762,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pinki_Flores",
+    "status": "Аукцион",
+    "x": -2667.07,
+    "y": 820.3189,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 820,
     "server_id": 19,
     "type": "house",
@@ -21896,19 +21884,31 @@
     "status": "Аукцион",
     "x": -2688.28,
     "y": -118.0049,
-    "price": 1000,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1641,
+    "id": 948,
     "server_id": 19,
     "type": "house",
-    "name": "SWAGSTEPA",
-    "owner": "Aperol_Spritz",
+    "name": "Re-California",
+    "owner": "Loker_Layng",
     "status": "Аукцион",
-    "x": 1795.78,
-    "y": 2800.82,
-    "price": 300,
+    "x": -2239.31,
+    "y": 962.374,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1570,
+    "server_id": 19,
+    "type": "house",
+    "name": "Krusi corporation ",
+    "owner": "3ABUC_HA_6A3E",
+    "status": "Аукцион",
+    "x": 1949.28,
+    "y": 742.875,
+    "price": 200,
     "district": "Сан-Андреас"
   },
   {
@@ -22065,6 +22065,18 @@
     "x": -2226.2,
     "y": 252.005,
     "price": 249999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 186,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Shumka_Boom",
+    "status": "Аукцион",
+    "x": 2268.78,
+    "y": 624.86,
+    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -24920,18 +24932,6 @@
     "status": "Занято",
     "x": 2599.42,
     "y": 1060.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 186,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Shumka_Boom",
-    "status": "Занято",
-    "x": 2268.78,
-    "y": 624.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
