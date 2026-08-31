@@ -19839,7 +19839,7 @@
     "id": 1687,
     "server_id": 32,
     "type": "house",
-    "name": "Подсел: TG @Compich. Есть место",
+    "name": "Подсел: TG @Compich. Мест нет",
     "owner": "Dima_Compich",
     "status": "Занято",
     "x": 1115.59,
@@ -21007,6 +21007,18 @@
     "owner": "Thomas_Maddox",
     "status": "Занято",
     "x": 2629.8,
+    "y": 2185.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1785,
+    "server_id": 32,
+    "type": "house",
+    "name": "Mango House",
+    "owner": "Damko_Mango",
+    "status": "Занято",
+    "x": 2639.18,
     "y": 2185.54,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22404,18 +22416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1785,
-    "server_id": 32,
-    "type": "house",
-    "name": "Sovhoz15",
-    "owner": "Kirill_Shushkov",
-    "status": "Аукцион",
-    "x": 2639.18,
-    "y": 2185.54,
-    "price": 7000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1901,
     "server_id": 32,
     "type": "house",
@@ -22509,30 +22509,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 5,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Ronald_Mercy",
-    "status": "Аукцион",
-    "x": 2309.79,
-    "y": -1643.68,
-    "price": 325999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 7,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Ronald_Mercy",
-    "status": "Аукцион",
-    "x": 1315.5,
-    "y": -898.048,
-    "price": 325999,
     "district": "Сан-Андреас"
   },
   {
@@ -22752,6 +22728,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 5,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Ronald_Mercy",
+    "status": "Занято",
+    "x": 2309.79,
+    "y": -1643.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 51,
     "server_id": 32,
     "type": "business",
@@ -22952,6 +22940,18 @@
     "status": "Занято",
     "x": 1352.4,
     "y": -1758.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 7,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Ronald_Mercy",
+    "status": "Занято",
+    "x": 1315.5,
+    "y": -898.048,
     "price": 0,
     "district": "Сан-Андреас"
   },
