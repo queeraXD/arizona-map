@@ -11560,7 +11560,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Подпольное Казино Бреарста",
-    "owner": "Nick_Bober",
+    "owner": "Nick_Hawk",
     "status": "Занято",
     "x": 2782.15,
     "y": -1281.24,
@@ -15072,18 +15072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1257,
-    "server_id": 2,
-    "type": "house",
-    "name": "За 2 зайцами - воробей с яйцами",
-    "owner": "Stable_Diffusion",
-    "status": "Занято",
-    "x": -2160.15,
-    "y": 965.4439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1258,
     "server_id": 2,
     "type": "house",
@@ -15896,6 +15884,18 @@
     "status": "Занято",
     "x": -2576.34,
     "y": -118.7259,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1326,
+    "server_id": 2,
+    "type": "house",
+    "name": "Timmi house",
+    "owner": "Timmi_Vizard",
+    "status": "Занято",
+    "x": -2576.45,
+    "y": -145.865,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19108,7 +19108,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Дом",
-    "owner": "Nick_Bober",
+    "owner": "Nick_Hawk",
     "status": "Занято",
     "x": 2514.33,
     "y": -1240.46,
@@ -20441,10 +20441,10 @@
     "type": "house",
     "name": "pes family",
     "owner": "Pes_Vlados",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 928.616,
     "y": 2372.89,
-    "price": 12500,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23880,15 +23880,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1326,
+    "id": 1257,
     "server_id": 2,
     "type": "house",
-    "name": "Timmi house",
-    "owner": "Timmi_Vizard",
+    "name": "За 2 зайцами - воробей с яйцами",
+    "owner": "Stable_Diffusion",
     "status": "Аукцион",
-    "x": -2576.45,
-    "y": -145.865,
-    "price": 20000,
+    "x": -2160.15,
+    "y": 965.4439,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {
