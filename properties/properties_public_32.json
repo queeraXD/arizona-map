@@ -2544,6 +2544,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 212,
+    "server_id": 32,
+    "type": "house",
+    "name": "ШкольникHouse",
+    "owner": "Gde_Moiglaza",
+    "status": "Занято",
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 213,
     "server_id": 32,
     "type": "house",
@@ -12771,7 +12783,7 @@
     "id": 1070,
     "server_id": 32,
     "type": "house",
-    "name": "Kinoshita",
+    "name": "Bienvenido ",
     "owner": "Morty_Werside",
     "status": "Занято",
     "x": -2905.16,
@@ -18792,6 +18804,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1601,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом Антончика и Иванчика",
+    "owner": "Ray_Ben",
+    "status": "Занято",
+    "x": -2736.87,
+    "y": 846.609,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1602,
     "server_id": 32,
     "type": "house",
@@ -22404,18 +22428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
-    "server_id": 32,
-    "type": "house",
-    "name": "ШкольникHouse",
-    "owner": "Gde_Moiglaza",
-    "status": "Аукцион",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 50000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 745,
     "server_id": 32,
     "type": "house",
@@ -22425,18 +22437,6 @@
     "x": -2710.75,
     "y": 967.4719,
     "price": 80000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1601,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом Антончика и Иванчика",
-    "owner": "Ray_Ben",
-    "status": "Аукцион",
-    "x": -2736.87,
-    "y": 846.609,
-    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
@@ -22509,66 +22509,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 166,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Junk_Extendo",
-    "status": "Аукцион",
-    "x": 2419.71,
-    "y": -1509.04,
-    "price": 167000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 210,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ферма",
-    "owner": "Junk_Extendo",
-    "status": "Аукцион",
-    "x": -250.371,
-    "y": -1361.65,
-    "price": 640000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 325,
-    "server_id": 32,
-    "type": "business",
-    "name": "Рыболовный магазин",
-    "owner": "Junk_Extendo",
-    "status": "Аукцион",
-    "x": -2057.44,
-    "y": -2464.48,
-    "price": 167000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 348,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Junk_Extendo",
-    "status": "Аукцион",
-    "x": 2820.58,
-    "y": -1602.87,
-    "price": 193000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Junk_Extendo",
-    "status": "Аукцион",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 125000,
     "district": "Сан-Андреас"
   },
   {
@@ -23432,6 +23372,18 @@
     "status": "Занято",
     "x": 2452.42,
     "y": 2065.05,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 348,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Junk_Extendo",
+    "status": "Занято",
+    "x": 2820.58,
+    "y": -1602.87,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24468,6 +24420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 166,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Samuel_Heiliger",
+    "status": "Занято",
+    "x": 2419.71,
+    "y": -1509.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 167,
     "server_id": 32,
     "type": "business",
@@ -24644,6 +24608,18 @@
     "status": "Занято",
     "x": 693.619,
     "y": 1967.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Junk_Extendo",
+    "status": "Занято",
+    "x": -2103.59,
+    "y": -2342.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25900,7 +25876,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Школа танцев",
-    "owner": "Junk_Extendo",
+    "owner": "Space_Oreol",
     "status": "Занято",
     "x": 602.322,
     "y": -1572.9,
@@ -26432,6 +26408,18 @@
     "status": "Занято",
     "x": -1354.1,
     "y": 2057.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 325,
+    "server_id": 32,
+    "type": "business",
+    "name": "Рыболовный магазин",
+    "owner": "Junk_Extendo",
+    "status": "Занято",
+    "x": -2057.44,
+    "y": -2464.48,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -5200,7 +5200,7 @@
     "server_id": 20,
     "type": "house",
     "name": "бидыщ",
-    "owner": "Alexandr_McLovin",
+    "owner": "Ley_Spark",
     "status": "Занято",
     "x": 2297.67,
     "y": -1053.05,
@@ -18327,7 +18327,7 @@
     "id": 1529,
     "server_id": 20,
     "type": "house",
-    "name": "Aurora Forever",
+    "name": "Продается",
     "owner": "Aurora_Demure",
     "status": "Занято",
     "x": 1111.5,
@@ -19320,6 +19320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1612,
+    "server_id": 20,
+    "type": "house",
+    "name": "Мой хоусе",
+    "owner": "Ivan_Snov",
+    "status": "Занято",
+    "x": 2003.69,
+    "y": 2150.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1613,
     "server_id": 20,
     "type": "house",
@@ -19436,6 +19448,18 @@
     "status": "Занято",
     "x": 2003.68,
     "y": 2163.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1623,
+    "server_id": 20,
+    "type": "house",
+    "name": "здесь обитает DRAKYLA",
+    "owner": "Konstantin_Pinko",
+    "status": "Занято",
+    "x": 2003.68,
+    "y": 2159.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20476,7 +20500,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Abzurs",
-    "owner": "Sasha_Abzur",
+    "owner": "Monya_Arbuz",
     "status": "Занято",
     "x": 2495.36,
     "y": -1424.58,
@@ -20755,6 +20779,18 @@
     "owner": "Vladik_Dryn",
     "status": "Занято",
     "x": 2473.14,
+    "y": -1376.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1737,
+    "server_id": 20,
+    "type": "house",
+    "name": "<<McGrath Avenue>>",
+    "owner": "Ren_Kato",
+    "status": "Занято",
+    "x": 2492.29,
     "y": -1376.27,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21576,6 +21612,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1806,
+    "server_id": 20,
+    "type": "house",
+    "name": "Recorti",
+    "owner": "Maikl_Carlo",
+    "status": "Занято",
+    "x": 2645.63,
+    "y": 2019.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1807,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
+    "status": "Занято",
+    "x": 2636.28,
+    "y": 2019.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1808,
     "server_id": 20,
     "type": "house",
@@ -21964,7 +22024,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Moretti lord",
-    "owner": "Alexandr_McLovin",
+    "owner": "Ley_Spark",
     "status": "Занято",
     "x": -76.7878,
     "y": 978.0369,
@@ -22164,6 +22224,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1857,
+    "server_id": 20,
+    "type": "house",
+    "name": "D e m u r e | Company",
+    "owner": "Hazard_Demure",
+    "status": "Занято",
+    "x": -2.0703,
+    "y": 1012.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 39,
     "server_id": 20,
     "type": "house",
@@ -22185,30 +22257,6 @@
     "x": 1639.89,
     "y": 2075.81,
     "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1612,
-    "server_id": 20,
-    "type": "house",
-    "name": "здесь обитает DRAKYLA",
-    "owner": "Vanechka_Implored",
-    "status": "Аукцион",
-    "x": 2003.69,
-    "y": 2150.07,
-    "price": 1500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1623,
-    "server_id": 20,
-    "type": "house",
-    "name": "здесь обитает DRAKYLA",
-    "owner": "Konstantin_Pinko",
-    "status": "Аукцион",
-    "x": 2003.68,
-    "y": 2159.28,
-    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -22244,54 +22292,6 @@
     "status": "Аукцион",
     "x": 2468.22,
     "y": -1391.71,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1737,
-    "server_id": 20,
-    "type": "house",
-    "name": "<<McGrath Avenue>>",
-    "owner": "Moto_Vladik",
-    "status": "Аукцион",
-    "x": 2492.29,
-    "y": -1376.27,
-    "price": 1500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1806,
-    "server_id": 20,
-    "type": "house",
-    "name": "Recorti",
-    "owner": "Danil_Drova",
-    "status": "Аукцион",
-    "x": 2645.63,
-    "y": 2019.21,
-    "price": 500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1807,
-    "server_id": 20,
-    "type": "house",
-    "name": "Recorti",
-    "owner": "Vanechka_Implored",
-    "status": "Аукцион",
-    "x": 2636.28,
-    "y": 2019.21,
-    "price": 1500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1857,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -2.0703,
-    "y": 1012.19,
     "price": 1000,
     "district": "Сан-Андреас"
   },

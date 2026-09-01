@@ -672,6 +672,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 57,
+    "server_id": 30,
+    "type": "house",
+    "name": "Dojan",
+    "owner": "Charles_Scofield",
+    "status": "Занято",
+    "x": 2151.18,
+    "y": -1400.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 58,
     "server_id": 30,
     "type": "house",
@@ -1612,7 +1624,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Monopoly №6",
-    "owner": "Nikolay_Medvedev",
+    "owner": "Terror_Punisher",
     "status": "Занято",
     "x": 1711.53,
     "y": -2101.56,
@@ -8880,18 +8892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 743,
-    "server_id": 30,
-    "type": "house",
-    "name": "Gazprom Invest",
-    "owner": "Russian_Bearz",
-    "status": "Занято",
-    "x": -2884.17,
-    "y": 743.6279,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 744,
     "server_id": 30,
     "type": "house",
@@ -14444,42 +14444,6 @@
     "status": "Занято",
     "x": -2872.46,
     "y": 697.502,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1208,
-    "server_id": 30,
-    "type": "house",
-    "name": "Gazprom Invest",
-    "owner": "Russian_Bearz",
-    "status": "Занято",
-    "x": -2882.35,
-    "y": 726.682,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1209,
-    "server_id": 30,
-    "type": "house",
-    "name": "Gazprom Invest",
-    "owner": "Russian_Bearz",
-    "status": "Занято",
-    "x": -2883.57,
-    "y": 736.702,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1210,
-    "server_id": 30,
-    "type": "house",
-    "name": "Gazprom Invest",
-    "owner": "Russian_Bearz",
-    "status": "Занято",
-    "x": -2884.79,
-    "y": 750.6229,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22536,6 +22500,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1897,
+    "server_id": 30,
+    "type": "house",
+    "name": "Квартирка опасного",
+    "owner": "Franklin_Lincoln",
+    "status": "Занято",
+    "x": -33.4878,
+    "y": 958.9609,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 51,
     "server_id": 30,
     "type": "house",
@@ -22545,18 +22521,6 @@
     "x": 2190.32,
     "y": -1487.64,
     "price": 41000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 57,
-    "server_id": 30,
-    "type": "house",
-    "name": "Dojan",
-    "owner": "Charles_Scofield",
-    "status": "Аукцион",
-    "x": 2151.18,
-    "y": -1400.69,
-    "price": 44444,
     "district": "Сан-Андреас"
   },
   {
@@ -22572,6 +22536,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 743,
+    "server_id": 30,
+    "type": "house",
+    "name": "Gazprom Invest",
+    "owner": "Russian_Bearz",
+    "status": "Аукцион",
+    "x": -2884.17,
+    "y": 743.6279,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1019,
     "server_id": 30,
     "type": "house",
@@ -22581,6 +22557,42 @@
     "x": -2542.09,
     "y": 967.7059,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1208,
+    "server_id": 30,
+    "type": "house",
+    "name": "Gazprom Invest",
+    "owner": "Russian_Bearz",
+    "status": "Аукцион",
+    "x": -2882.35,
+    "y": 726.682,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1209,
+    "server_id": 30,
+    "type": "house",
+    "name": "Gazprom Invest",
+    "owner": "Russian_Bearz",
+    "status": "Аукцион",
+    "x": -2883.57,
+    "y": 736.702,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1210,
+    "server_id": 30,
+    "type": "house",
+    "name": "Gazprom Invest",
+    "owner": "Russian_Bearz",
+    "status": "Аукцион",
+    "x": -2884.79,
+    "y": 750.6229,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {
@@ -22641,18 +22653,6 @@
     "x": 2591.62,
     "y": 2215.95,
     "price": 7777,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1897,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -33.4878,
-    "y": 958.9609,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
