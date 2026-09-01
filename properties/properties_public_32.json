@@ -8892,18 +8892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 745,
-    "server_id": 32,
-    "type": "house",
-    "name": ":house:",
-    "owner": "Kayomi_Paradise",
-    "status": "Занято",
-    "x": -2710.75,
-    "y": 967.4719,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 746,
     "server_id": 32,
     "type": "house",
@@ -13516,7 +13504,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Oplya",
+    "owner": "Kylie_Ramirez",
     "status": "Занято",
     "x": 1816.29,
     "y": -1292.68,
@@ -22416,6 +22404,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 745,
+    "server_id": 32,
+    "type": "house",
+    "name": ":house:",
+    "owner": "Kayomi_Paradise",
+    "status": "Аукцион",
+    "x": -2710.75,
+    "y": 967.4719,
+    "price": 80000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1601,
     "server_id": 32,
     "type": "house",
@@ -22545,18 +22545,6 @@
     "x": 1599.11,
     "y": 2221.85,
     "price": 167000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 101,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Vittorio_Savage",
-    "status": "Аукцион",
-    "x": -2242.28,
-    "y": -170.898,
-    "price": 350000,
     "district": "Сан-Андреас"
   },
   {
@@ -23312,6 +23300,18 @@
     "status": "Занято",
     "x": -227.385,
     "y": 2711.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 101,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Vittorio_Savage",
+    "status": "Занято",
+    "x": -2242.28,
+    "y": -170.898,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25360,7 +25360,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Temka_Corleonka",
+    "owner": "Wade_Grey",
     "status": "Занято",
     "x": 2029.71,
     "y": 986.64,

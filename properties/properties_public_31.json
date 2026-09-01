@@ -11700,18 +11700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 978,
-    "server_id": 31,
-    "type": "house",
-    "name": "Lopez Dynasty",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": 515.148,
-    "y": 1313.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 979,
     "server_id": 31,
     "type": "house",
@@ -15028,7 +15016,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Anti-Police Squad",
-    "owner": "Vladislav_Shakur",
+    "owner": "Mark_Demidow",
     "status": "Занято",
     "x": -2303.41,
     "y": 679.963,
@@ -17536,7 +17524,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Pritono - 2corno",
-    "owner": "Too_Corn",
+    "owner": "Vladislav_Shakur",
     "status": "Занято",
     "x": 885.9019,
     "y": 2014.87,
@@ -19592,6 +19580,18 @@
     "status": "Занято",
     "x": -17.0489,
     "y": 1391.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1637,
+    "server_id": 31,
+    "type": "house",
+    "name": "empty",
+    "owner": "Ray_Rosseti",
+    "status": "Занято",
+    "x": -20.7702,
+    "y": 1388.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22308,18 +22308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1866,
-    "server_id": 31,
-    "type": "house",
-    "name": "Dep + Podval",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": -2431.4,
-    "y": 895.234,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1867,
     "server_id": 31,
     "type": "house",
@@ -22340,18 +22328,6 @@
     "status": "Занято",
     "x": -2471.78,
     "y": 895.2349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1869,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом Легенды",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": -2502.89,
-    "y": 921.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23256,15 +23232,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1637,
+    "id": 978,
     "server_id": 31,
     "type": "house",
-    "name": "empty",
-    "owner": "Mish_Kish",
+    "name": "Lopez Dynasty",
+    "owner": "Jerry_Burberry",
     "status": "Аукцион",
-    "x": -20.7702,
-    "y": 1388.16,
-    "price": 10000,
+    "x": 515.148,
+    "y": 1313.96,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1866,
+    "server_id": 31,
+    "type": "house",
+    "name": "Dep + Podval",
+    "owner": "Jerry_Burberry",
+    "status": "Аукцион",
+    "x": -2431.4,
+    "y": 895.234,
+    "price": 17123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1869,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом Легенды",
+    "owner": "Jerry_Burberry",
+    "status": "Аукцион",
+    "x": -2502.89,
+    "y": 921.38,
+    "price": 17123,
     "district": "Сан-Андреас"
   },
   {
@@ -23352,6 +23352,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1,
+    "server_id": 31,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Concentration_Blood",
+    "status": "Аукцион",
+    "x": 2333.5,
+    "y": 61.624,
+    "price": 500000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 31,
     "type": "business",
@@ -23360,18 +23372,6 @@
     "status": "Занято",
     "x": 1368.77,
     "y": -1279.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1,
-    "server_id": 31,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Concentration_Blood",
-    "status": "Занято",
-    "x": 2333.5,
-    "y": 61.624,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25408,7 +25408,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Noro_Kolumb",
+    "owner": "Christopher_Kolumb",
     "status": "Занято",
     "x": 2472.77,
     "y": 2034.24,

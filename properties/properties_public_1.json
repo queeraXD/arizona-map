@@ -12072,18 +12072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1008,
-    "server_id": 1,
-    "type": "house",
-    "name": "Здесь живет семья Грэссхоппер.",
-    "owner": "Konstantin_Pinko",
-    "status": "Занято",
-    "x": -1775.96,
-    "y": 1115.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1009,
     "server_id": 1,
     "type": "house",
@@ -24084,6 +24072,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1008,
+    "server_id": 1,
+    "type": "house",
+    "name": "Здесь живет семья Грэссхоппер.",
+    "owner": "Konstantin_Pinko",
+    "status": "Аукцион",
+    "x": -1775.96,
+    "y": 1115.08,
+    "price": 22000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1314,
     "server_id": 1,
     "type": "house",
@@ -24168,18 +24168,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 250,
-    "server_id": 1,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Vladimir_Hmxd",
-    "status": "Аукцион",
-    "x": 2170.48,
-    "y": 542.934,
-    "price": 249999,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 0,
     "server_id": 1,
     "type": "business",
@@ -24244,7 +24232,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "LordOf_TheMysteries",
+    "owner": "Vladimir_Hmxd",
     "status": "Занято",
     "x": -316.162,
     "y": 829.757,
@@ -25592,6 +25580,18 @@
     "status": "Занято",
     "x": 111.076,
     "y": -1782.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 250,
+    "server_id": 1,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Vladimir_Hmxd",
+    "status": "Занято",
+    "x": 2170.48,
+    "y": 542.934,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27256,7 +27256,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Vanechka_Implored",
+    "owner": "Schyka_Bocman",
     "status": "Занято",
     "x": 1502.14,
     "y": -1278.58,

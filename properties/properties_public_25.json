@@ -5052,18 +5052,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 421,
-    "server_id": 25,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Oleksii_Dashkivskyi",
-    "status": "Занято",
-    "x": 1308.05,
-    "y": 152.9629,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 422,
     "server_id": 25,
     "type": "house",
@@ -6372,18 +6360,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 532,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом Стиви",
-    "owner": "Mike_Delorian",
-    "status": "Занято",
-    "x": 1931.33,
-    "y": 2721.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 533,
     "server_id": 25,
     "type": "house",
@@ -6843,7 +6819,7 @@
     "id": 571,
     "server_id": 25,
     "type": "house",
-    "name": "Крутой дом",
+    "name": "Дом",
     "owner": "Adrenaline_Bishop",
     "status": "Занято",
     "x": 532.2399,
@@ -10076,18 +10052,6 @@
     "status": "Занято",
     "x": -2188.13,
     "y": 1107.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 841,
-    "server_id": 25,
-    "type": "house",
-    "name": "Майнинг ферма",
-    "owner": "Bogdan_Dedrikob",
-    "status": "Занято",
-    "x": -2208.08,
-    "y": 1108.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23616,6 +23580,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 421,
+    "server_id": 25,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Oleksii_Dashkivskyi",
+    "status": "Аукцион",
+    "x": 1308.05,
+    "y": 152.9629,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 511,
     "server_id": 25,
     "type": "house",
@@ -23625,6 +23601,30 @@
     "x": 1684.51,
     "y": 2046.57,
     "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 532,
+    "server_id": 25,
+    "type": "house",
+    "name": "шкаф забит гараж 7мест лифт 5ко",
+    "owner": "Noren_Tise",
+    "status": "Аукцион",
+    "x": 1931.33,
+    "y": 2721.72,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 841,
+    "server_id": 25,
+    "type": "house",
+    "name": "Майнинг ферма",
+    "owner": "Bogdan_Dedrikob",
+    "status": "Аукцион",
+    "x": -2208.08,
+    "y": 1108.05,
+    "price": 4500,
     "district": "Сан-Андреас"
   },
   {
