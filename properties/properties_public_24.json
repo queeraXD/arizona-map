@@ -3024,18 +3024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 252,
-    "server_id": 24,
-    "type": "house",
-    "name": " Sosuke House",
-    "owner": "Konstantin_Pinko",
-    "status": "Занято",
-    "x": 2518.4,
-    "y": 128.988,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 253,
     "server_id": 24,
     "type": "house",
@@ -5976,18 +5964,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 498,
-    "server_id": 24,
-    "type": "house",
-    "name": "Логово Maccarti",
-    "owner": "Samp_Bet",
-    "status": "Занято",
-    "x": 1412.66,
-    "y": 1951.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 499,
     "server_id": 24,
     "type": "house",
@@ -7928,18 +7904,6 @@
     "status": "Занято",
     "x": 1030.21,
     "y": 1848.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 661,
-    "server_id": 24,
-    "type": "house",
-    "name": "F-N-X",
-    "owner": "Samp_Bet",
-    "status": "Занято",
-    "x": 984.2689,
-    "y": 1878.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11868,18 +11832,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 990,
-    "server_id": 24,
-    "type": "house",
-    "name": " Sosuke House",
-    "owner": "Samp_Bet",
-    "status": "Занято",
-    "x": 2556.37,
-    "y": 87.7666,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 991,
     "server_id": 24,
     "type": "house",
@@ -12992,18 +12944,6 @@
     "status": "Занято",
     "x": -2844.68,
     "y": 921.177,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1084,
-    "server_id": 24,
-    "type": "house",
-    "name": "сф мост",
-    "owner": "Samp_Bet",
-    "status": "Занято",
-    "x": -2844.09,
-    "y": 914.401,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21957,6 +21897,66 @@
     "x": -1.4931,
     "y": 1011.83,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 252,
+    "server_id": 24,
+    "type": "house",
+    "name": " Sosuke House",
+    "owner": "Konstantin_Pinko",
+    "status": "Аукцион",
+    "x": 2518.4,
+    "y": 128.988,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 498,
+    "server_id": 24,
+    "type": "house",
+    "name": "Логово Maccarti",
+    "owner": "Samp_Bet",
+    "status": "Аукцион",
+    "x": 1412.66,
+    "y": 1951.6,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 661,
+    "server_id": 24,
+    "type": "house",
+    "name": "F-N-X",
+    "owner": "Samp_Bet",
+    "status": "Аукцион",
+    "x": 984.2689,
+    "y": 1878.91,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 990,
+    "server_id": 24,
+    "type": "house",
+    "name": " Sosuke House",
+    "owner": "Samp_Bet",
+    "status": "Аукцион",
+    "x": 2556.37,
+    "y": 87.7666,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1084,
+    "server_id": 24,
+    "type": "house",
+    "name": "сф мост",
+    "owner": "Samp_Bet",
+    "status": "Аукцион",
+    "x": -2844.09,
+    "y": 914.401,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {

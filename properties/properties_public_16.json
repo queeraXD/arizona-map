@@ -3696,18 +3696,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 308,
-    "server_id": 16,
-    "type": "house",
-    "name": "Simpson",
-    "owner": "Astralniy_Oxford",
-    "status": "Занято",
-    "x": 1912.61,
-    "y": -1070.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 309,
     "server_id": 16,
     "type": "house",
@@ -9552,6 +9540,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 798,
+    "server_id": 16,
+    "type": "house",
+    "name": "Жилище",
+    "owner": "Aleks_Blackwood",
+    "status": "Занято",
+    "x": -2368.82,
+    "y": 763.504,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 799,
     "server_id": 16,
     "type": "house",
@@ -10532,6 +10532,18 @@
     "status": "Занято",
     "x": 2808.02,
     "y": -1190.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 882,
+    "server_id": 16,
+    "type": "house",
+    "name": "Автогонки",
+    "owner": "Inferno_Savage",
+    "status": "Занято",
+    "x": 2847.13,
+    "y": -1309.75,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12444,18 +12456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1042,
-    "server_id": 16,
-    "type": "house",
-    "name": "Автогонки",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -1742.51,
-    "y": 1174.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1043,
     "server_id": 16,
     "type": "house",
@@ -12464,18 +12464,6 @@
     "status": "Занято",
     "x": -1761.0,
     "y": 1174.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1044,
-    "server_id": 16,
-    "type": "house",
-    "name": "2 подвала,гараж х8 и деп услови",
-    "owner": "Astralniy_Oxford",
-    "status": "Занято",
-    "x": -1780.35,
-    "y": 1138.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20232,18 +20220,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1691,
-    "server_id": 16,
-    "type": "house",
-    "name": "жоский гей клуб",
-    "owner": "Astralniy_Oxford",
-    "status": "Занято",
-    "x": 2012.63,
-    "y": 2132.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1692,
     "server_id": 16,
     "type": "house",
@@ -20804,18 +20780,6 @@
     "status": "Занято",
     "x": 2437.04,
     "y": 1211.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1739,
-    "server_id": 16,
-    "type": "house",
-    "name": "Goblins Empire",
-    "owner": "Astralniy_Oxford",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1205.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22332,6 +22296,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 308,
+    "server_id": 16,
+    "type": "house",
+    "name": "Simpson",
+    "owner": "Astralniy_Oxford",
+    "status": "Аукцион",
+    "x": 1912.61,
+    "y": -1070.59,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 596,
     "server_id": 16,
     "type": "house",
@@ -22356,27 +22332,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 798,
-    "server_id": 16,
-    "type": "house",
-    "name": "Жилище",
-    "owner": "Aleks_Blackwood",
-    "status": "Аукцион",
-    "x": -2368.82,
-    "y": 763.504,
-    "price": 7000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 882,
+    "id": 1042,
     "server_id": 16,
     "type": "house",
     "name": "Автогонки",
-    "owner": "Inferno_Savage",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 2847.13,
-    "y": -1309.75,
-    "price": 15000,
+    "x": -1742.51,
+    "y": 1174.37,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1044,
+    "server_id": 16,
+    "type": "house",
+    "name": "2 подвала,гараж х8 и деп услови",
+    "owner": "Astralniy_Oxford",
+    "status": "Аукцион",
+    "x": -1780.35,
+    "y": 1138.77,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1691,
+    "server_id": 16,
+    "type": "house",
+    "name": "жоский гей клуб",
+    "owner": "Astralniy_Oxford",
+    "status": "Аукцион",
+    "x": 2012.63,
+    "y": 2132.91,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1739,
+    "server_id": 16,
+    "type": "house",
+    "name": "Goblins Empire",
+    "owner": "Astralniy_Oxford",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1205.26,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
