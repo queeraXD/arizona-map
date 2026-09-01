@@ -4920,18 +4920,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 410,
-    "server_id": 29,
-    "type": "house",
-    "name": "#2016",
-    "owner": "Fuzze_Qq",
-    "status": "Занято",
-    "x": 1402.4,
-    "y": 333.4599,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 411,
     "server_id": 29,
     "type": "house",
@@ -6560,18 +6548,6 @@
     "status": "Занято",
     "x": 12.7711,
     "y": 1113.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 548,
-    "server_id": 29,
-    "type": "house",
-    "name": "#2016",
-    "owner": "Fuzze_Qq",
-    "status": "Занято",
-    "x": 570.7319,
-    "y": 1174.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9284,18 +9260,6 @@
     "status": "Занято",
     "x": -2621.68,
     "y": 802.908,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 775,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Fuzze_Qq",
-    "status": "Занято",
-    "x": -2590.92,
-    "y": 819.7999,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17280,6 +17244,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1443,
+    "server_id": 29,
+    "type": "house",
+    "name": "<3Golden House<3",
+    "owner": "Gennadiy_Spekter",
+    "status": "Занято",
+    "x": 688.802,
+    "y": 1276.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1444,
     "server_id": 29,
     "type": "house",
@@ -18768,6 +18744,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1568,
+    "server_id": 29,
+    "type": "house",
+    "name": "Carl_Jackson/Psycho_Killer",
+    "owner": "Carl_Jackson",
+    "status": "Занято",
+    "x": 2129.63,
+    "y": -1361.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1569,
     "server_id": 29,
     "type": "house",
@@ -19707,8 +19695,8 @@
     "id": 1647,
     "server_id": 29,
     "type": "house",
-    "name": "Хатка Чемергесика",
-    "owner": "Artem_Chemergezov",
+    "name": "Дом",
+    "owner": "Canibal_Cortez",
     "status": "Занято",
     "x": -2843.69,
     "y": -2269.19,
@@ -21012,6 +21000,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 410,
+    "server_id": 29,
+    "type": "house",
+    "name": "деп условия подвалы",
+    "owner": "Fuzze_Qq",
+    "status": "Аукцион",
+    "x": 1402.4,
+    "y": 333.4599,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 477,
     "server_id": 29,
     "type": "house",
@@ -21024,6 +21024,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 548,
+    "server_id": 29,
+    "type": "house",
+    "name": "деп условия шкаф",
+    "owner": "Fuzze_Qq",
+    "status": "Аукцион",
+    "x": 570.7319,
+    "y": 1174.37,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 775,
+    "server_id": 29,
+    "type": "house",
+    "name": "деп условия аптечка подвалы шка",
+    "owner": "Fuzze_Qq",
+    "status": "Аукцион",
+    "x": -2590.92,
+    "y": 819.7999,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 910,
     "server_id": 29,
     "type": "house",
@@ -21033,30 +21057,6 @@
     "x": -2126.8,
     "y": 1032.62,
     "price": 6667,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1443,
-    "server_id": 29,
-    "type": "house",
-    "name": "<3Golden House<3",
-    "owner": "Waseri_Abaes",
-    "status": "Аукцион",
-    "x": 688.802,
-    "y": 1276.88,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1568,
-    "server_id": 29,
-    "type": "house",
-    "name": "Extended Family",
-    "owner": "Waseri_Abaes",
-    "status": "Аукцион",
-    "x": 2129.63,
-    "y": -1361.69,
-    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -22156,7 +22156,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Ded_Dizquezo",
+    "owner": "Dominic_Visconti",
     "status": "Занято",
     "x": -2373.8,
     "y": 910.117,
