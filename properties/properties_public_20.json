@@ -6216,18 +6216,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 519,
-    "server_id": 20,
-    "type": "house",
-    "name": "Taro Estate",
-    "owner": "Rjey_Javelin",
-    "status": "Занято",
-    "x": 1639.89,
-    "y": 2075.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 520,
     "server_id": 20,
     "type": "house",
@@ -18652,7 +18640,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Nexus",
-    "owner": "Aki_Nexus",
+    "owner": "Keyoge_Wintik",
     "status": "Занято",
     "x": 2357.04,
     "y": 1022.07,
@@ -19320,18 +19308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1612,
-    "server_id": 20,
-    "type": "house",
-    "name": "здесь обитает DRAKYLA",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2150.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1613,
     "server_id": 20,
     "type": "house",
@@ -19448,18 +19424,6 @@
     "status": "Занято",
     "x": 2003.68,
     "y": 2163.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1623,
-    "server_id": 20,
-    "type": "house",
-    "name": "здесь обитает DRAKYLA",
-    "owner": "Konstantin_Pinko",
-    "status": "Занято",
-    "x": 2003.68,
-    "y": 2159.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20808,18 +20772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1737,
-    "server_id": 20,
-    "type": "house",
-    "name": "<<McGrath Avenue>>",
-    "owner": "Moto_Vladik",
-    "status": "Занято",
-    "x": 2492.29,
-    "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1738,
     "server_id": 20,
     "type": "house",
@@ -21268,7 +21220,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Nexus",
-    "owner": "Aki_Nexus",
+    "owner": "Rjey_Javelin",
     "status": "Занято",
     "x": 1783.73,
     "y": 2868.63,
@@ -21632,30 +21584,6 @@
     "status": "Занято",
     "x": 2659.15,
     "y": 1978.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1806,
-    "server_id": 20,
-    "type": "house",
-    "name": "Recorti",
-    "owner": "Danil_Drova",
-    "status": "Занято",
-    "x": 2645.63,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1807,
-    "server_id": 20,
-    "type": "house",
-    "name": "Recorti",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 2636.28,
-    "y": 2019.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22236,6 +22164,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1856,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Troy_Floyd",
+    "status": "Занято",
+    "x": -1.4938,
+    "y": 1009.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 490,
     "server_id": 20,
     "type": "house",
@@ -22245,6 +22185,18 @@
     "x": 2065.03,
     "y": 730.408,
     "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 519,
+    "server_id": 20,
+    "type": "house",
+    "name": "Taro Estate",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1639.89,
+    "y": 2075.81,
+    "price": 150,
     "district": "Сан-Андреас"
   },
   {
@@ -22260,6 +22212,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1612,
+    "server_id": 20,
+    "type": "house",
+    "name": "здесь обитает DRAKYLA",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2150.07,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1623,
+    "server_id": 20,
+    "type": "house",
+    "name": "здесь обитает DRAKYLA",
+    "owner": "Konstantin_Pinko",
+    "status": "Аукцион",
+    "x": 2003.68,
+    "y": 2159.28,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1676,
     "server_id": 20,
     "type": "house",
@@ -22272,15 +22248,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1856,
+    "id": 1737,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
+    "name": "<<McGrath Avenue>>",
+    "owner": "Moto_Vladik",
     "status": "Аукцион",
-    "x": -1.4938,
-    "y": 1009.09,
-    "price": 1000,
+    "x": 2492.29,
+    "y": -1376.27,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1806,
+    "server_id": 20,
+    "type": "house",
+    "name": "Recorti",
+    "owner": "Danil_Drova",
+    "status": "Аукцион",
+    "x": 2645.63,
+    "y": 2019.21,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1807,
+    "server_id": 20,
+    "type": "house",
+    "name": "Recorti",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": 2636.28,
+    "y": 2019.21,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {

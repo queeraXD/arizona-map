@@ -4140,18 +4140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 346,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alexey_Dobrovolsky",
-    "status": "Занято",
-    "x": 1252.6,
-    "y": -901.893,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 347,
     "server_id": 4,
     "type": "house",
@@ -8460,18 +8448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 717,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продажа",
-    "owner": "Arthur_Whitmore",
-    "status": "Занято",
-    "x": 1627.09,
-    "y": 2711.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 718,
     "server_id": 4,
     "type": "house",
@@ -10599,7 +10575,7 @@
     "id": 898,
     "server_id": 4,
     "type": "house",
-    "name": "Baburka squad",
+    "name": "D E F E N D E R S",
     "owner": "Baburka_Defender",
     "status": "Занято",
     "x": 2808.11,
@@ -10611,7 +10587,7 @@
     "id": 899,
     "server_id": 4,
     "type": "house",
-    "name": "Baburka squad ",
+    "name": "D E F E N D E R S",
     "owner": "Baburka_Defender",
     "status": "Занято",
     "x": 2808.08,
@@ -24948,6 +24924,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2109,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Miroslav_Neil",
+    "status": "Занято",
+    "x": -2.0703,
+    "y": 1012.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 346,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1252.6,
+    "y": -901.893,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 282,
     "server_id": 4,
     "type": "house",
@@ -25092,6 +25092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 717,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продажа",
+    "owner": "Arthur_Whitmore",
+    "status": "Аукцион",
+    "x": 1627.09,
+    "y": 2711.79,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 854,
     "server_id": 4,
     "type": "house",
@@ -25185,18 +25197,6 @@
     "x": 2794.41,
     "y": 2221.92,
     "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2109,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -2.0703,
-    "y": 1012.19,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {

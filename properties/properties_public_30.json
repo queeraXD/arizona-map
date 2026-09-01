@@ -612,6 +612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 51,
+    "server_id": 30,
+    "type": "house",
+    "name": "Dojan",
+    "owner": "Fasko_Fusko",
+    "status": "Занято",
+    "x": 2190.32,
+    "y": -1487.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 52,
     "server_id": 30,
     "type": "house",
@@ -668,18 +680,6 @@
     "status": "Занято",
     "x": 2150.71,
     "y": -1419.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 57,
-    "server_id": 30,
-    "type": "house",
-    "name": "Dojan",
-    "owner": "Charles_Scofield",
-    "status": "Занято",
-    "x": 2151.18,
-    "y": -1400.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7744,7 +7744,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Mining 10 lvl+Dep",
-    "owner": "Buy_Auto",
+    "owner": "Week_Great",
     "status": "Занято",
     "x": 2450.36,
     "y": 714.341,
@@ -22608,15 +22608,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 51,
+    "id": 1896,
+    "server_id": 30,
+    "type": "house",
+    "name": "#lovedota",
+    "owner": "Dota_Terrorblade",
+    "status": "Занято",
+    "x": -38.2052,
+    "y": 949.7329,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
     "server_id": 30,
     "type": "house",
     "name": "Dojan",
-    "owner": "Fasko_Fusko",
+    "owner": "Charles_Scofield",
     "status": "Аукцион",
-    "x": 2190.32,
-    "y": -1487.64,
-    "price": 42000,
+    "x": 2151.18,
+    "y": -1400.69,
+    "price": 44444,
     "district": "Сан-Андреас"
   },
   {
@@ -22629,18 +22641,6 @@
     "x": 2794.29,
     "y": 2229.48,
     "price": 3999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1896,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -38.2052,
-    "y": 949.7329,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {

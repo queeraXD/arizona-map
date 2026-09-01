@@ -5184,18 +5184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 432,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lorenso_Abudabi",
-    "status": "Занято",
-    "x": 2279.2,
-    "y": -1076.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 433,
     "server_id": 28,
     "type": "house",
@@ -8700,18 +8688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 726,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lorenso_Abudabi",
-    "status": "Занято",
-    "x": 1735.65,
-    "y": 2691.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 727,
     "server_id": 28,
     "type": "house",
@@ -10328,30 +10304,6 @@
     "status": "Занято",
     "x": -236.8439,
     "y": 2491.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 864,
-    "server_id": 28,
-    "type": "house",
-    "name": "полный шкаф вещей!",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -245.722,
-    "y": 2501.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 865,
-    "server_id": 28,
-    "type": "house",
-    "name": "полный шкаф вещей!",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -269.1889,
-    "y": 2504.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15416,18 +15368,6 @@
     "status": "Занято",
     "x": -2623.43,
     "y": -99.4082,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1289,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lorenso_Abudabi",
-    "status": "Занято",
-    "x": -2558.72,
-    "y": -79.9783,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22248,6 +22188,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 432,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lorenso_Abudabi",
+    "status": "Аукцион",
+    "x": 2279.2,
+    "y": -1076.63,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 615,
     "server_id": 28,
     "type": "house",
@@ -22257,6 +22209,18 @@
     "x": -905.638,
     "y": 1543.5,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 726,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lorenso_Abudabi",
+    "status": "Аукцион",
+    "x": 1735.65,
+    "y": 2691.22,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -22272,6 +22236,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 864,
+    "server_id": 28,
+    "type": "house",
+    "name": "полный шкаф вещей!",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": -245.722,
+    "y": 2501.72,
+    "price": 1800,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 865,
+    "server_id": 28,
+    "type": "house",
+    "name": "полный шкаф вещей!",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": -269.1889,
+    "y": 2504.93,
+    "price": 1800,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1228,
     "server_id": 28,
     "type": "house",
@@ -22281,6 +22269,18 @@
     "x": -2477.21,
     "y": 1318.55,
     "price": 750,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1289,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lorenso_Abudabi",
+    "status": "Аукцион",
+    "x": -2558.72,
+    "y": -79.9783,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -22365,18 +22365,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 22,
-    "server_id": 28,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Whiter_Christmas",
-    "status": "Аукцион",
-    "x": -1623.67,
-    "y": -2693.49,
-    "price": 310000,
     "district": "Сан-Андреас"
   },
   {
@@ -22552,7 +22540,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Sol_Ana",
+    "owner": "Lion_Carillo",
     "status": "Занято",
     "x": 2159.55,
     "y": 943.24,
@@ -23564,6 +23552,18 @@
     "status": "Занято",
     "x": -78.68,
     "y": -1169.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 22,
+    "server_id": 28,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Whiter_Christmas",
+    "status": "Занято",
+    "x": -1623.67,
+    "y": -2693.49,
     "price": 0,
     "district": "Сан-Андреас"
   },

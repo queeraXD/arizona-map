@@ -2940,18 +2940,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 245,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Montana_McLarren",
-    "status": "Занято",
-    "x": 398.14,
-    "y": -1271.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 246,
     "server_id": 26,
     "type": "house",
@@ -3124,7 +3112,7 @@
     "server_id": 26,
     "type": "house",
     "name": "ДОМ ПОД ГАНЫ",
-    "owner": "Egor_RockWell",
+    "owner": "Otec_Oxycodon",
     "status": "Занято",
     "x": 2374.05,
     "y": 42.1341,
@@ -13132,7 +13120,7 @@
     "server_id": 26,
     "type": "house",
     "name": "дом",
-    "owner": "Jeffrey_Cardon",
+    "owner": "Otec_Oxycodon",
     "status": "Занято",
     "x": -2223.62,
     "y": 820.458,
@@ -15812,6 +15800,18 @@
     "status": "Занято",
     "x": 1475.31,
     "y": 372.7489,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1323,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом. фрутика",
+    "owner": "Takayuki_Hakegawa",
+    "status": "Занято",
+    "x": 1465.76,
+    "y": 364.191,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21144,18 +21144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1769,
-    "server_id": 26,
-    "type": "house",
-    "name": "ТВИЧ sanyokmoney",
-    "owner": "Munuctep_Makapon",
-    "status": "Занято",
-    "x": 1795.8,
-    "y": 2800.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1770,
     "server_id": 26,
     "type": "house",
@@ -25020,6 +25008,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 245,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Montana_McLarren",
+    "status": "Аукцион",
+    "x": 398.14,
+    "y": -1271.38,
+    "price": 38500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 400,
     "server_id": 26,
     "type": "house",
@@ -25052,7 +25052,7 @@
     "status": "Аукцион",
     "x": -2840.23,
     "y": 884.5809,
-    "price": 1000,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
@@ -25068,18 +25068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1323,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом. фрутика",
-    "owner": "Takayuki_Hakegawa",
-    "status": "Аукцион",
-    "x": 1465.76,
-    "y": 364.191,
-    "price": 1200,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1758,
     "server_id": 26,
     "type": "house",
@@ -25089,6 +25077,18 @@
     "x": 2601.64,
     "y": 2202.01,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1769,
+    "server_id": 26,
+    "type": "house",
+    "name": "ТВИЧ sanyokmoney",
+    "owner": "Munuctep_Makapon",
+    "status": "Аукцион",
+    "x": 1795.8,
+    "y": 2800.81,
+    "price": 250,
     "district": "Сан-Андреас"
   },
   {
