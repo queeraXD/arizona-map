@@ -19780,7 +19780,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Zakymarilofam",
-    "owner": "Frostmoorne_Marginal",
+    "owner": "Cold_Spades",
     "status": "Занято",
     "x": 2501.23,
     "y": 1682.87,
@@ -21120,18 +21120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1764,
-    "server_id": 21,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Kiger_Ice",
-    "status": "Занято",
-    "x": 2826.36,
-    "y": 2140.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1765,
     "server_id": 21,
     "type": "house",
@@ -21832,7 +21820,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Кирюха Кент был тут",
-    "owner": "Denis_Kosolapov",
+    "owner": "Denis_Deep",
     "status": "Занято",
     "x": -2.0703,
     "y": 1012.19,
@@ -21873,6 +21861,18 @@
     "x": -2158.75,
     "y": 786.197,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1764,
+    "server_id": 21,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Kiger_Ice",
+    "status": "Аукцион",
+    "x": 2826.36,
+    "y": 2140.56,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
@@ -21945,18 +21945,6 @@
     "x": 1143.17,
     "y": -1473.83,
     "price": 80000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 269,
-    "server_id": 21,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Cainhurst_Summons",
-    "status": "Аукцион",
-    "x": -2188.019,
-    "y": -2264.83,
-    "price": 123456,
     "district": "Сан-Андреас"
   },
   {
@@ -24632,6 +24620,18 @@
     "status": "Занято",
     "x": 8.3996,
     "y": 1212.035,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 269,
+    "server_id": 21,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Cainhurst_Summons",
+    "status": "Занято",
+    "x": -2188.019,
+    "y": -2264.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
