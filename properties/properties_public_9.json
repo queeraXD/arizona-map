@@ -3144,6 +3144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 262,
+    "server_id": 9,
+    "type": "house",
+    "name": "Продается за 7ккк",
+    "owner": "Kenzo_Triad",
+    "status": "Занято",
+    "x": 2373.85,
+    "y": -8.6736,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 263,
     "server_id": 9,
     "type": "house",
@@ -3688,7 +3700,7 @@
     "server_id": 9,
     "type": "house",
     "name": "[!] Makarov [!]",
-    "owner": "Roberto_Makarov",
+    "owner": "Albert_Makarov",
     "status": "Занято",
     "x": 1912.61,
     "y": -1070.59,
@@ -6564,18 +6576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 548,
-    "server_id": 9,
-    "type": "house",
-    "name": "MS-13 House / Luca Brazi",
-    "owner": "Akito_Furin",
-    "status": "Занято",
-    "x": 570.7319,
-    "y": 1174.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 549,
     "server_id": 9,
     "type": "house",
@@ -6776,18 +6776,6 @@
     "status": "Занято",
     "x": 232.205,
     "y": 1151.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 566,
-    "server_id": 9,
-    "type": "house",
-    "name": "dom stas_finte",
-    "owner": "Akito_Furin",
-    "status": "Занято",
-    "x": 386.686,
-    "y": 1272.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23868,15 +23856,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 262,
+    "id": 548,
     "server_id": 9,
     "type": "house",
-    "name": "Продается за 7ккк",
-    "owner": "Kenzo_Triad",
+    "name": "MS-13 House / Luca Brazi",
+    "owner": "Akito_Furin",
     "status": "Аукцион",
-    "x": 2373.85,
-    "y": -8.6736,
-    "price": 90000,
+    "x": 570.7319,
+    "y": 1174.37,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 566,
+    "server_id": 9,
+    "type": "house",
+    "name": "dom stas_finte",
+    "owner": "Akito_Furin",
+    "status": "Аукцион",
+    "x": 386.686,
+    "y": 1272.14,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -24904,7 +24904,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Roberto_Makarov",
+    "owner": "Albert_Makarov",
     "status": "Занято",
     "x": -1694.58,
     "y": 951.914,
@@ -25708,7 +25708,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Roberto_Makarov",
+    "owner": "Albert_Makarov",
     "status": "Занято",
     "x": 1872.26,
     "y": 2071.74,

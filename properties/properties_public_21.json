@@ -2571,7 +2571,7 @@
     "id": 215,
     "server_id": 21,
     "type": "house",
-    "name": "123",
+    "name": "ПОТУЖНІСТЬ",
     "owner": "After_Hours",
     "status": "Занято",
     "x": 924.3809,
@@ -2672,6 +2672,18 @@
     "status": "Занято",
     "x": 867.6599,
     "y": -717.242,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 224,
+    "server_id": 21,
+    "type": "house",
+    "name": "Makima Love 224",
+    "owner": "After_Hours",
+    "status": "Занято",
+    "x": 898.2739,
+    "y": -677.5339,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11460,6 +11472,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 960,
+    "server_id": 21,
+    "type": "house",
+    "name": "Maestro",
+    "owner": "Dante_Wise",
+    "status": "Занято",
+    "x": -2158.94,
+    "y": 769.9379,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 961,
     "server_id": 21,
     "type": "house",
@@ -19660,7 +19684,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Дом",
-    "owner": "Michail_Shtyh",
+    "owner": "Quelling_Blade",
     "status": "Занято",
     "x": 2517.04,
     "y": 1659.04,
@@ -21816,18 +21840,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 960,
-    "server_id": 21,
-    "type": "house",
-    "name": "Maestro",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2158.94,
-    "y": 769.9379,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 148,
     "server_id": 21,
     "type": "house",
@@ -21837,18 +21849,6 @@
     "x": 1183.28,
     "y": -1076.05,
     "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 224,
-    "server_id": 21,
-    "type": "house",
-    "name": "Makima Love 224",
-    "owner": "Tokyo_Amoore",
-    "status": "Аукцион",
-    "x": 898.2739,
-    "y": -677.5339,
-    "price": 4500,
     "district": "Сан-Андреас"
   },
   {
@@ -21933,6 +21933,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 191,
+    "server_id": 21,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "After_Hours",
+    "status": "Аукцион",
+    "x": 1143.17,
+    "y": -1473.83,
+    "price": 80000,
     "district": "Сан-Андреас"
   },
   {
@@ -24860,18 +24872,6 @@
     "status": "Занято",
     "x": 1123.41,
     "y": -1466.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 191,
-    "server_id": 21,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "After_Hours",
-    "status": "Занято",
-    "x": 1143.17,
-    "y": -1473.83,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -7908,18 +7908,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 661,
-    "server_id": 24,
-    "type": "house",
-    "name": "F-N-X",
-    "owner": "Killua_Zoldik",
-    "status": "Занято",
-    "x": 984.2689,
-    "y": 1878.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 662,
     "server_id": 24,
     "type": "house",
@@ -14640,18 +14628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1223,
-    "server_id": 24,
-    "type": "house",
-    "name": "Stark",
-    "owner": "Feldan_Lizalov",
-    "status": "Занято",
-    "x": -2477.93,
-    "y": 1264.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1224,
     "server_id": 24,
     "type": "house",
@@ -14936,6 +14912,18 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1299.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1248,
+    "server_id": 24,
+    "type": "house",
+    "name": "НИЗ СФ 2",
+    "owner": "Tommy_Diablo",
+    "status": "Занято",
+    "x": -2351.14,
+    "y": 1281.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21972,15 +21960,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1248,
+    "id": 661,
     "server_id": 24,
     "type": "house",
-    "name": "НИЗ СФ 2",
-    "owner": "Jerry_Burberry",
+    "name": "F-N-X",
+    "owner": "Killua_Zoldik",
     "status": "Аукцион",
-    "x": -2351.14,
-    "y": 1281.39,
-    "price": 5000,
+    "x": 984.2689,
+    "y": 1878.91,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1223,
+    "server_id": 24,
+    "type": "house",
+    "name": "Stark",
+    "owner": "Feldan_Lizalov",
+    "status": "Аукцион",
+    "x": -2477.93,
+    "y": 1264.16,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
@@ -22684,7 +22684,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Steers_Man",
+    "owner": "Sergio_Tohok",
     "status": "Занято",
     "x": 1657.04,
     "y": 1741.65,
