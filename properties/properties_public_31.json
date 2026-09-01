@@ -16385,10 +16385,10 @@
     "type": "house",
     "name": "Monetti ",
     "owner": "Kazutora_Monetti",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1110.53,
     "y": -1578.45,
-    "price": 19000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23364,6 +23364,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 232,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Boris_Brytva",
+    "status": "Аукцион",
+    "x": 1071.66,
+    "y": -1438.98,
+    "price": 650000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 236,
     "server_id": 31,
     "type": "business",
@@ -23376,6 +23388,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 281,
+    "server_id": 31,
+    "type": "business",
+    "name": "Секонд хенд",
+    "owner": "Boris_Brytva",
+    "status": "Аукцион",
+    "x": 1457.39,
+    "y": -1137.57,
+    "price": 450000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 301,
+    "server_id": 31,
+    "type": "business",
+    "name": "Лотерейная",
+    "owner": "Boris_Brytva",
+    "status": "Аукцион",
+    "x": 1288.7,
+    "y": 271.232,
+    "price": 950000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 31,
     "type": "business",
@@ -23384,6 +23420,18 @@
     "status": "Занято",
     "x": 1368.77,
     "y": -1279.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1,
+    "server_id": 31,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Concentration_Blood",
+    "status": "Занято",
+    "x": 2333.5,
+    "y": 61.624,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25752,18 +25800,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 232,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 1071.66,
-    "y": -1438.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 352,
     "server_id": 31,
     "type": "business",
@@ -26940,18 +26976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 281,
-    "server_id": 31,
-    "type": "business",
-    "name": "Секонд хенд",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 1457.39,
-    "y": -1137.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 282,
     "server_id": 31,
     "type": "business",
@@ -26996,18 +27020,6 @@
     "status": "Занято",
     "x": -2591.49,
     "y": 170.493,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 301,
-    "server_id": 31,
-    "type": "business",
-    "name": "Лотерейная",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 1288.7,
-    "y": 271.232,
     "price": 0,
     "district": "Сан-Андреас"
   },

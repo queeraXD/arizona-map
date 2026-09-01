@@ -5897,10 +5897,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Victor_Gideon",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1756.79,
     "y": 66.9654,
-    "price": 700000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -10148,18 +10148,6 @@
     "status": "Занято",
     "x": -2209.65,
     "y": 1079.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 846,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pablo_Johnson",
-    "status": "Занято",
-    "x": -2191.59,
-    "y": 1080.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22113,6 +22101,18 @@
     "x": -1.4931,
     "y": 1011.83,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 846,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pablo_Johnson",
+    "status": "Аукцион",
+    "x": -2191.59,
+    "y": 1080.32,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {

@@ -3353,10 +3353,10 @@
     "type": "house",
     "name": "GRECO",
     "owner": "California_McCloud",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2194.16,
     "y": -1000.94,
-    "price": 4000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -3497,10 +3497,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Markco_Kast",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2498.96,
     "y": -1065.56,
-    "price": 7000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -4887,12 +4887,12 @@
     "id": 407,
     "server_id": 15,
     "type": "house",
-    "name": "Dzenya&Monopoly 2.0",
-    "owner": "California_McCloud",
-    "status": "Аукцион",
+    "name": "ТВИЧ sanyokmoney",
+    "owner": "Sanyok_Money",
+    "status": "Занято",
     "x": 1413.46,
     "y": 362.799,
-    "price": 3000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -17988,18 +17988,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1500,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Radik_McCloud",
-    "status": "Занято",
-    "x": 2807.99,
-    "y": -1353.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1501,
     "server_id": 15,
     "type": "house",
@@ -21237,6 +21225,18 @@
     "x": -1.4931,
     "y": 1011.83,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1500,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Radik_McCloud",
+    "status": "Аукцион",
+    "x": 2807.99,
+    "y": -1353.92,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {

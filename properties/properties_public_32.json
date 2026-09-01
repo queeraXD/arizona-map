@@ -10176,18 +10176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 852,
-    "server_id": 32,
-    "type": "house",
-    "name": "Cavalli",
-    "owner": "Narko_Champion",
-    "status": "Занято",
-    "x": -2402.41,
-    "y": 849.2369,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 853,
     "server_id": 32,
     "type": "house",
@@ -12920,18 +12908,6 @@
     "status": "Занято",
     "x": -2860.63,
     "y": 963.5679,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1083,
-    "server_id": 32,
-    "type": "house",
-    "name": "Bernhard",
-    "owner": "Gopnik_Corsar",
-    "status": "Занято",
-    "x": -2844.68,
-    "y": 921.177,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22404,6 +22380,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 852,
+    "server_id": 32,
+    "type": "house",
+    "name": "Cavalli",
+    "owner": "Narko_Champion",
+    "status": "Аукцион",
+    "x": -2402.41,
+    "y": 849.2369,
+    "price": 5500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 911,
     "server_id": 32,
     "type": "house",
@@ -22413,6 +22401,18 @@
     "x": -2126.55,
     "y": 1050.82,
     "price": 11500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1083,
+    "server_id": 32,
+    "type": "house",
+    "name": "Corsar",
+    "owner": "Gopnik_Corsar",
+    "status": "Аукцион",
+    "x": -2844.68,
+    "y": 921.177,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
