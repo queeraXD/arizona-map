@@ -408,18 +408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 34,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pinki_Flores",
-    "status": "Занято",
-    "x": 2439.65,
-    "y": -1338.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 35,
     "server_id": 19,
     "type": "house",
@@ -2900,18 +2888,6 @@
     "status": "Занято",
     "x": 190.733,
     "y": -1308.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 242,
-    "server_id": 19,
-    "type": "house",
-    "name": "BAXTER HOUSE",
-    "owner": "Dizzy_Baxter",
-    "status": "Занято",
-    "x": 255.1679,
-    "y": -1366.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6276,18 +6252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 524,
-    "server_id": 19,
-    "type": "house",
-    "name": "Yamada",
-    "owner": "Munuctep_Makapon",
-    "status": "Занято",
-    "x": 1596.98,
-    "y": 2147.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 525,
     "server_id": 19,
     "type": "house",
@@ -7308,6 +7272,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 610,
+    "server_id": 19,
+    "type": "house",
+    "name": "Красный стул",
+    "owner": "Exe_Excel",
+    "status": "Занято",
+    "x": -821.0969,
+    "y": 1603.47,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 611,
     "server_id": 19,
     "type": "house",
@@ -7792,7 +7768,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Badim_Hyga",
+    "owner": "Toma_Hunter",
     "status": "Занято",
     "x": 1939.93,
     "y": 642.882,
@@ -18663,7 +18639,7 @@
     "id": 1563,
     "server_id": 19,
     "type": "house",
-    "name": "sell подвал майнинг",
+    "name": "Дом",
     "owner": "Nova_Sadness",
     "status": "Занято",
     "x": 1957.04,
@@ -21816,6 +21792,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 34,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pinki_Flores",
+    "status": "Аукцион",
+    "x": 2439.65,
+    "y": -1338.73,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 242,
+    "server_id": 19,
+    "type": "house",
+    "name": "BAXTER HOUSE",
+    "owner": "Dizzy_Baxter",
+    "status": "Аукцион",
+    "x": 255.1679,
+    "y": -1366.77,
+    "price": 120000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 514,
     "server_id": 19,
     "type": "house",
@@ -21828,15 +21828,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 610,
+    "id": 524,
     "server_id": 19,
     "type": "house",
-    "name": "Красный стул",
-    "owner": "Exe_Excel",
+    "name": "Yamada",
+    "owner": "Munuctep_Makapon",
     "status": "Аукцион",
-    "x": -821.0969,
-    "y": 1603.47,
-    "price": 100,
+    "x": 1596.98,
+    "y": 2147.31,
+    "price": 850,
     "district": "Сан-Андреас"
   },
   {

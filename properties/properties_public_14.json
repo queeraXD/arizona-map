@@ -3768,6 +3768,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 314,
+    "server_id": 14,
+    "type": "house",
+    "name": "Exclusive Dynasty",
+    "owner": "Jack_Piterson",
+    "status": "Занято",
+    "x": 1954.5,
+    "y": -1074.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 315,
     "server_id": 14,
     "type": "house",
@@ -4584,18 +4596,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 383,
-    "server_id": 14,
-    "type": "house",
-    "name": "Набор творчества",
-    "owner": "Www_Www",
-    "status": "Занято",
-    "x": 2324.66,
-    "y": 162.2019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 384,
     "server_id": 14,
     "type": "house",
@@ -4832,18 +4832,6 @@
     "status": "Занято",
     "x": 2411.22,
     "y": -5.5777,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 404,
-    "server_id": 14,
-    "type": "house",
-    "name": "Живет Божественный Гошан",
-    "owner": "Www_Www",
-    "status": "Занято",
-    "x": 2416.56,
-    "y": 17.9109,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13116,18 +13104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1098,
-    "server_id": 14,
-    "type": "house",
-    "name": "КРУТОЙ ДОМ",
-    "owner": "Pablo_Ton",
-    "status": "Занято",
-    "x": 2510.17,
-    "y": 88.6072,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1099,
     "server_id": 14,
     "type": "house",
@@ -15232,7 +15208,7 @@
     "server_id": 14,
     "type": "house",
     "name": "я класный",
-    "owner": "Golden_Ramsy",
+    "owner": "Stepan_Jagger",
     "status": "Занято",
     "x": -2402.42,
     "y": 869.065,
@@ -17179,18 +17155,6 @@
     "owner": "Antonio_Clemente",
     "status": "Занято",
     "x": 928.0239,
-    "y": 2214.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1437,
-    "server_id": 14,
-    "type": "house",
-    "name": "Exclusive Dynasty",
-    "owner": "Axaxa_Axaxaxa",
-    "status": "Занято",
-    "x": 981.6199,
     "y": 2214.39,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23508,15 +23472,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 314,
+    "id": 383,
     "server_id": 14,
     "type": "house",
-    "name": "Exclusive Dynasty",
-    "owner": "Axaxa_Axaxaxa",
+    "name": "Набор творчества",
+    "owner": "Www_Www",
     "status": "Аукцион",
-    "x": 1954.5,
-    "y": -1074.88,
-    "price": 5000,
+    "x": 2324.66,
+    "y": 162.2019,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 404,
+    "server_id": 14,
+    "type": "house",
+    "name": "Живет Божественный Гошан",
+    "owner": "Www_Www",
+    "status": "Аукцион",
+    "x": 2416.56,
+    "y": 17.9109,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -23528,7 +23504,7 @@
     "status": "Аукцион",
     "x": 1596.51,
     "y": 2567.69,
-    "price": 12000,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -23565,6 +23541,30 @@
     "x": -2192.58,
     "y": 903.109,
     "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1098,
+    "server_id": 14,
+    "type": "house",
+    "name": "КРУТОЙ ДОМ",
+    "owner": "Pablo_Ton",
+    "status": "Аукцион",
+    "x": 2510.17,
+    "y": 88.6072,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1437,
+    "server_id": 14,
+    "type": "house",
+    "name": "Exclusive Dynasty",
+    "owner": "Axaxa_Axaxaxa",
+    "status": "Аукцион",
+    "x": 981.6199,
+    "y": 2214.39,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -23624,7 +23624,7 @@
     "status": "Аукцион",
     "x": 1925.61,
     "y": 663.976,
-    "price": 5000,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {

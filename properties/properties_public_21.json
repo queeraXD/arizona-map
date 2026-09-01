@@ -6564,18 +6564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 550,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Santa_Martinelli",
-    "status": "Занято",
-    "x": 618.3629,
-    "y": 1168.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 551,
     "server_id": 21,
     "type": "house",
@@ -11456,18 +11444,6 @@
     "status": "Занято",
     "x": -2229.52,
     "y": 934.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 960,
-    "server_id": 21,
-    "type": "house",
-    "name": "Maestro",
-    "owner": "Denis_Kosolapov",
-    "status": "Занято",
-    "x": -2158.94,
-    "y": 769.9379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21820,10 +21796,22 @@
     "server_id": 21,
     "type": "house",
     "name": "Кирюха Кент был тут",
-    "owner": "Immortals_Millensium",
+    "owner": "Denis_Kosolapov",
     "status": "Занято",
     "x": -2.0703,
     "y": 1012.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 960,
+    "server_id": 21,
+    "type": "house",
+    "name": "Maestro",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2158.94,
+    "y": 769.9379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21861,6 +21849,18 @@
     "x": 898.2739,
     "y": -677.5339,
     "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 550,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Santa_Martinelli",
+    "status": "Аукцион",
+    "x": 618.3629,
+    "y": 1168.83,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -22492,7 +22492,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Rik_Shelby",
+    "owner": "Favela_Santiago",
     "status": "Занято",
     "x": 1224.56,
     "y": 249.852,
