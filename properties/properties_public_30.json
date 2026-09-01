@@ -612,18 +612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 51,
-    "server_id": 30,
-    "type": "house",
-    "name": "Dojan",
-    "owner": "Fasko_Fusko",
-    "status": "Занято",
-    "x": 2190.32,
-    "y": -1487.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 52,
     "server_id": 30,
     "type": "house",
@@ -22624,11 +22612,23 @@
     "server_id": 30,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
+    "owner": "Elio_Miu",
+    "status": "Занято",
     "x": -44.7877,
     "y": 947.0,
-    "price": 1000,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 51,
+    "server_id": 30,
+    "type": "house",
+    "name": "Dojan",
+    "owner": "Fasko_Fusko",
+    "status": "Аукцион",
+    "x": 2190.32,
+    "y": -1487.64,
+    "price": 42000,
     "district": "Сан-Андреас"
   },
   {

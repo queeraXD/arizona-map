@@ -1164,18 +1164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 97,
-    "server_id": 14,
-    "type": "house",
-    "name": "Shinobi",
-    "owner": "Commers_Moskovskiy",
-    "status": "Занято",
-    "x": 2672.75,
-    "y": -1990.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 98,
     "server_id": 14,
     "type": "house",
@@ -3268,7 +3256,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Дом",
-    "owner": "Kolya_Warzone",
+    "owner": "Payper_Lovit",
     "status": "Занято",
     "x": 2626.19,
     "y": -1098.72,
@@ -4600,7 +4588,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Набор творчества",
-    "owner": "Kolya_Warzone",
+    "owner": "Www_Www",
     "status": "Занято",
     "x": 2324.66,
     "y": 162.2019,
@@ -4852,7 +4840,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Живет Божественный Гошан",
-    "owner": "Kolya_Warzone",
+    "owner": "Www_Www",
     "status": "Занято",
     "x": 2416.56,
     "y": 17.9109,
@@ -10464,6 +10452,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 872,
+    "server_id": 14,
+    "type": "house",
+    "name": "1/15",
+    "owner": "Fluxxwave_Endless",
+    "status": "Занято",
+    "x": -298.635,
+    "y": 2565.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 873,
     "server_id": 14,
     "type": "house",
@@ -11936,18 +11936,6 @@
     "status": "Занято",
     "x": -2340.07,
     "y": 797.5759,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 996,
-    "server_id": 14,
-    "type": "house",
-    "name": "Vani Home",
-    "owner": "Vani_Capone",
-    "status": "Занято",
-    "x": -2358.71,
-    "y": 796.9899,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23580,15 +23568,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 872,
+    "id": 996,
     "server_id": 14,
     "type": "house",
-    "name": "1/15",
+    "name": "Vani Home",
     "owner": "Государство",
     "status": "Свободно",
-    "x": -298.635,
-    "y": 2565.81,
+    "x": -2358.71,
+    "y": 796.9899,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 97,
+    "server_id": 14,
+    "type": "house",
+    "name": "Shinobi",
+    "owner": "Commers_Moskovskiy",
+    "status": "Аукцион",
+    "x": 2672.75,
+    "y": -1990.78,
+    "price": 11500,
     "district": "Сан-Андреас"
   },
   {

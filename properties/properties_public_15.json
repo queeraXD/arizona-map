@@ -1824,18 +1824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 152,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bobby_Baccalieri",
-    "status": "Занято",
-    "x": 1103.22,
-    "y": -1069.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 153,
     "server_id": 15,
     "type": "house",
@@ -9788,6 +9776,18 @@
     "status": "Занято",
     "x": -2688.33,
     "y": -175.0939,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 817,
+    "server_id": 15,
+    "type": "house",
+    "name": "Majorka Brooklyn ",
+    "owner": "California_McCloud",
+    "status": "Занято",
+    "x": -2621.01,
+    "y": -173.2859,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20904,18 +20904,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1746,
-    "server_id": 15,
-    "type": "house",
-    "name": "CripsHouse",
-    "owner": "Stefan_Crips",
-    "status": "Занято",
-    "x": -175.6519,
-    "y": 875.2529,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1747,
     "server_id": 15,
     "type": "house",
@@ -21204,15 +21192,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 817,
+    "id": 152,
     "server_id": 15,
     "type": "house",
-    "name": "Majorka Brooklyn ",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2621.01,
-    "y": -173.2859,
-    "price": 0,
+    "name": "Дом",
+    "owner": "Bobby_Baccalieri",
+    "status": "Аукцион",
+    "x": 1103.22,
+    "y": -1069.38,
+    "price": 22000,
     "district": "Сан-Андреас"
   },
   {
@@ -21237,6 +21225,18 @@
     "x": 2807.99,
     "y": -1353.92,
     "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1746,
+    "server_id": 15,
+    "type": "house",
+    "name": "CripsHouse",
+    "owner": "Stefan_Crips",
+    "status": "Аукцион",
+    "x": -175.6519,
+    "y": 875.2529,
+    "price": 1100000,
     "district": "Сан-Андреас"
   },
   {
