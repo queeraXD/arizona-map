@@ -2148,18 +2148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 179,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dima_Shmakov",
-    "status": "Занято",
-    "x": 656.023,
-    "y": -1636.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 180,
     "server_id": 3,
     "type": "house",
@@ -8036,18 +8024,6 @@
     "status": "Занято",
     "x": 1084.33,
     "y": 2031.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 671,
-    "server_id": 3,
-    "type": "house",
-    "name": "домбогов",
-    "owner": "6ypca",
-    "status": "Занято",
-    "x": 1085.88,
-    "y": 2000.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23904,6 +23880,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 179,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dima_Shmakov",
+    "status": "Аукцион",
+    "x": 656.023,
+    "y": -1636.08,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 654,
     "server_id": 3,
     "type": "house",
@@ -23913,6 +23901,18 @@
     "x": 2065.71,
     "y": 650.2559,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 671,
+    "server_id": 3,
+    "type": "house",
+    "name": "домбогов",
+    "owner": "6ypca",
+    "status": "Аукцион",
+    "x": 1085.88,
+    "y": 2000.85,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {

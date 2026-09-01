@@ -2784,18 +2784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 233,
-    "server_id": 31,
-    "type": "house",
-    "name": "Кошечкин",
-    "owner": "Nekich_Bossov",
-    "status": "Занято",
-    "x": 470.8739,
-    "y": -1164.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 234,
     "server_id": 31,
     "type": "house",
@@ -23244,6 +23232,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 233,
+    "server_id": 31,
+    "type": "house",
+    "name": "Кошечкин",
+    "owner": "Nekich_Bossov",
+    "status": "Аукцион",
+    "x": 470.8739,
+    "y": -1164.12,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1071,
     "server_id": 31,
     "type": "house",
@@ -25132,7 +25132,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Serega_Mercy",
+    "owner": "Mickey_Desmond",
     "status": "Занято",
     "x": -1213.8,
     "y": 1830.33,

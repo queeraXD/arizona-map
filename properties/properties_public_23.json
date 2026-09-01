@@ -420,18 +420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
-    "server_id": 23,
-    "type": "house",
-    "name": "Татары рулят ",
-    "owner": "Kawasaki_Ninja",
-    "status": "Занято",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 36,
     "server_id": 23,
     "type": "house",
@@ -21064,7 +21052,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Giovanni_Markelovani",
+    "owner": "DeLauren_Markelovani",
     "status": "Занято",
     "x": -33.4878,
     "y": 958.9609,
@@ -21088,11 +21076,23 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
+    "owner": "Maxx_Berg",
+    "status": "Занято",
     "x": -1.4938,
     "y": 1009.09,
-    "price": 1000,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 35,
+    "server_id": 23,
+    "type": "house",
+    "name": "Татары рулят ",
+    "owner": "Kawasaki_Ninja",
+    "status": "Аукцион",
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -21165,18 +21165,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 174,
-    "server_id": 23,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Vanya_Pitya",
-    "status": "Аукцион",
-    "x": 2411.93,
-    "y": -1548.68,
-    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -21944,6 +21932,18 @@
     "status": "Занято",
     "x": 1112.05,
     "y": -1370.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 174,
+    "server_id": 23,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Vanya_Pitya",
+    "status": "Занято",
+    "x": 2411.93,
+    "y": -1548.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
