@@ -8976,18 +8976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 759,
-    "server_id": 32,
-    "type": "house",
-    "name": "ROOM13",
-    "owner": "Asuka_Xivivide",
-    "status": "Занято",
-    "x": -2738.32,
-    "y": 801.5289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 760,
     "server_id": 32,
     "type": "house",
@@ -22380,6 +22368,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 759,
+    "server_id": 32,
+    "type": "house",
+    "name": "ROOM13",
+    "owner": "Asuka_Xivivide",
+    "status": "Аукцион",
+    "x": -2738.32,
+    "y": 801.5289,
+    "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 880,
     "server_id": 32,
     "type": "house",
@@ -22509,30 +22509,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 5,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Ronald_Mercy",
-    "status": "Аукцион",
-    "x": 2309.79,
-    "y": -1643.68,
-    "price": 325999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 7,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Ronald_Mercy",
-    "status": "Аукцион",
-    "x": 1315.5,
-    "y": -898.048,
-    "price": 325999,
     "district": "Сан-Андреас"
   },
   {
@@ -22776,6 +22752,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 5,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Ronald_Mercy",
+    "status": "Занято",
+    "x": 2309.79,
+    "y": -1643.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 51,
     "server_id": 32,
     "type": "business",
@@ -22976,6 +22964,18 @@
     "status": "Занято",
     "x": 1352.4,
     "y": -1758.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 7,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Ronald_Mercy",
+    "status": "Занято",
+    "x": 1315.5,
+    "y": -898.048,
     "price": 0,
     "district": "Сан-Андреас"
   },
