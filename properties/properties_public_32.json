@@ -8080,7 +8080,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Продам Звони",
-    "owner": "Dasha_Karpovich",
+    "owner": "Roman_Morozoff",
     "status": "Занято",
     "x": 885.9299,
     "y": 1980.43,
@@ -8892,18 +8892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 745,
-    "server_id": 32,
-    "type": "house",
-    "name": ":house:",
-    "owner": "Kayomi_Paradise",
-    "status": "Занято",
-    "x": -2710.75,
-    "y": 967.4719,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 746,
     "server_id": 32,
     "type": "house",
@@ -9400,7 +9388,7 @@
     "server_id": 32,
     "type": "house",
     "name": "налдон ловит",
-    "owner": "Dasha_Karpovich",
+    "owner": "Roman_Morozoff",
     "status": "Занято",
     "x": -2543.58,
     "y": 922.2329,
@@ -22392,6 +22380,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 745,
+    "server_id": 32,
+    "type": "house",
+    "name": ":house:",
+    "owner": "Kayomi_Paradise",
+    "status": "Аукцион",
+    "x": -2710.75,
+    "y": 967.4719,
+    "price": 80000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 852,
     "server_id": 32,
     "type": "house",
@@ -22509,18 +22509,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 101,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Sardel_Ka",
-    "status": "Аукцион",
-    "x": -2242.28,
-    "y": -170.898,
-    "price": 370000,
     "district": "Сан-Андреас"
   },
   {
@@ -23216,6 +23204,18 @@
     "status": "Занято",
     "x": -227.385,
     "y": 2711.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 101,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Sardel_Ka",
+    "status": "Занято",
+    "x": -2242.28,
+    "y": -170.898,
     "price": 0,
     "district": "Сан-Андреас"
   },
