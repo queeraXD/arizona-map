@@ -22392,6 +22392,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1901,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Andreano_Rockstar",
+    "status": "Занято",
+    "x": -1.4931,
+    "y": 1011.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 110,
     "server_id": 32,
     "type": "house",
@@ -22413,18 +22425,6 @@
     "x": -2710.75,
     "y": 967.4719,
     "price": 80000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1901,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -1.4931,
-    "y": 1011.83,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -22512,6 +22512,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 5,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 2309.79,
+    "y": -1643.68,
+    "price": 325999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 7,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 1315.5,
+    "y": -898.048,
+    "price": 325999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 60,
+    "server_id": 32,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Junk_Extendo",
+    "status": "Аукцион",
+    "x": 1599.11,
+    "y": 2221.85,
+    "price": 167000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 101,
     "server_id": 32,
     "type": "business",
@@ -22521,6 +22557,18 @@
     "x": -2242.28,
     "y": -170.898,
     "price": 350000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 290,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Junk_Extendo",
+    "status": "Аукцион",
+    "x": 2097.67,
+    "y": 2224.31,
+    "price": 167000,
     "district": "Сан-Андреас"
   },
   {
@@ -22740,18 +22788,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 5,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 2309.79,
-    "y": -1643.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 51,
     "server_id": 32,
     "type": "business",
@@ -22952,18 +22988,6 @@
     "status": "Занято",
     "x": 1352.4,
     "y": -1758.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 7,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 1315.5,
-    "y": -898.048,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23348,18 +23372,6 @@
     "status": "Занято",
     "x": -2479.24,
     "y": 2317.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 290,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Junk_Extendo",
-    "status": "Занято",
-    "x": 2097.67,
-    "y": 2224.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23840,18 +23852,6 @@
     "status": "Занято",
     "x": 2187.71,
     "y": 2469.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 60,
-    "server_id": 32,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Junk_Extendo",
-    "status": "Занято",
-    "x": 1599.11,
-    "y": 2221.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26560,7 +26560,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Quincy_Winklaar",
+    "owner": "Nelson_Rockefeller",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
@@ -26596,7 +26596,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Quincy_Winklaar",
+    "owner": "Nelson_Rockefeller",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
