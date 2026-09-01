@@ -444,18 +444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 37,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Loli_Popo",
-    "status": "Занято",
-    "x": 2389.73,
-    "y": -1346.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 38,
     "server_id": 19,
     "type": "house",
@@ -9116,18 +9104,6 @@
     "status": "Занято",
     "x": -2700.33,
     "y": 820.8649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 762,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pinki_Flores",
-    "status": "Занято",
-    "x": -2667.07,
-    "y": 820.3189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18255,8 +18231,8 @@
     "id": 1524,
     "server_id": 19,
     "type": "house",
-    "name": "~ Luxury Apartments Asylum ~",
-    "owner": "Coul_Price",
+    "name": "МОЯ ХАТА",
+    "owner": "Daniel_Demorgan",
     "status": "Занято",
     "x": 1929.24,
     "y": 742.875,
@@ -18267,7 +18243,7 @@
     "id": 1525,
     "server_id": 19,
     "type": "house",
-    "name": "40 squad",
+    "name": "МОЯ ХАТА",
     "owner": "Daniel_Demorgan",
     "status": "Занято",
     "x": 1936.06,
@@ -19676,18 +19652,6 @@
     "status": "Занято",
     "x": 1794.34,
     "y": 2863.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1644,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zimbab_We",
-    "status": "Занято",
-    "x": 1803.34,
-    "y": 2855.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21948,6 +21912,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 37,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2389.73,
+    "y": -1346.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 416,
     "server_id": 19,
     "type": "house",
@@ -21972,6 +21948,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 762,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pinki_Flores",
+    "status": "Аукцион",
+    "x": -2667.07,
+    "y": 820.3189,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1643,
     "server_id": 19,
     "type": "house",
@@ -21980,6 +21968,18 @@
     "status": "Аукцион",
     "x": 1796.79,
     "y": 2861.59,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1644,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zimbab_We",
+    "status": "Аукцион",
+    "x": 1803.34,
+    "y": 2855.45,
     "price": 1,
     "district": "Сан-Андреас"
   },

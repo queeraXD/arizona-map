@@ -6231,7 +6231,7 @@
     "id": 519,
     "server_id": 18,
     "type": "house",
-    "name": "one love ГЦЛ",
+    "name": "Дом",
     "owner": "Shepard_Bendy",
     "status": "Занято",
     "x": 1639.89,
@@ -12212,18 +12212,6 @@
     "status": "Занято",
     "x": -2541.3,
     "y": 987.9089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1019,
-    "server_id": 18,
-    "type": "house",
-    "name": "в шкафу подарки",
-    "owner": "Nazar_Wappy",
-    "status": "Занято",
-    "x": -2542.09,
-    "y": 967.7059,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19872,18 +19860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1658,
-    "server_id": 18,
-    "type": "house",
-    "name": " Логово фармилы",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": 1798.97,
-    "y": 2812.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1659,
     "server_id": 18,
     "type": "house",
@@ -19940,18 +19916,6 @@
     "status": "Занято",
     "x": 1783.84,
     "y": 2755.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1664,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": 1778.62,
-    "y": 2735.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20160,18 +20124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1682,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": -789.7189,
-    "y": 2765.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1683,
     "server_id": 18,
     "type": "house",
@@ -20191,18 +20143,6 @@
     "owner": "Osobist_Zaslon",
     "status": "Занято",
     "x": -767.192,
-    "y": 2765.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1685,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": -760.692,
     "y": 2765.4,
     "price": 0,
     "district": "Сан-Андреас"
@@ -20468,18 +20408,6 @@
     "status": "Занято",
     "x": 2476.45,
     "y": -1424.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1709,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": 2487.33,
-    "y": -1383.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20964,18 +20892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1750,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": 2636.51,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1751,
     "server_id": 18,
     "type": "house",
@@ -21044,18 +20960,6 @@
     "status": "Занято",
     "x": 2629.52,
     "y": 2185.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1757,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": 2639.11,
-    "y": 2185.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22116,6 +22020,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1019,
+    "server_id": 18,
+    "type": "house",
+    "name": "в шкафу подарки",
+    "owner": "Nazar_Wappy",
+    "status": "Аукцион",
+    "x": -2542.09,
+    "y": 967.7059,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1305,
     "server_id": 18,
     "type": "house",
@@ -22128,6 +22044,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1658,
+    "server_id": 18,
+    "type": "house",
+    "name": " Логово фармилы",
+    "owner": "Jerry_Burberry",
+    "status": "Аукцион",
+    "x": 1798.97,
+    "y": 2812.13,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1664,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jerry_Burberry",
+    "status": "Аукцион",
+    "x": 1778.62,
+    "y": 2735.99,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1682,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jerry_Burberry",
+    "status": "Аукцион",
+    "x": -789.7189,
+    "y": 2765.16,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1685,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jerry_Burberry",
+    "status": "Аукцион",
+    "x": -760.692,
+    "y": 2765.4,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1704,
     "server_id": 18,
     "type": "house",
@@ -22137,6 +22101,42 @@
     "x": 2492.23,
     "y": -1424.58,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1709,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jerry_Burberry",
+    "status": "Аукцион",
+    "x": 2487.33,
+    "y": -1383.38,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1750,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jerry_Burberry",
+    "status": "Аукцион",
+    "x": 2636.51,
+    "y": 2195.56,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1757,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jerry_Burberry",
+    "status": "Аукцион",
+    "x": 2639.11,
+    "y": 2185.54,
+    "price": 25000,
     "district": "Сан-Андреас"
   },
   {
