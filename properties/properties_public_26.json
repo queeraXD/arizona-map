@@ -820,7 +820,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Дом",
-    "owner": "Ilya_Andreev",
+    "owner": "Oleg_Andreev",
     "status": "Занято",
     "x": 2393.19,
     "y": -1646.03,
@@ -4784,6 +4784,18 @@
     "status": "Занято",
     "x": 2392.35,
     "y": -54.2308,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 400,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Rait_Prit",
+    "status": "Занято",
+    "x": 2415.43,
+    "y": -51.5713,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9328,7 +9340,7 @@
     "server_id": 26,
     "type": "house",
     "name": "ShelbyHouse",
-    "owner": "Edward_Shelby",
+    "owner": "Starry_Horse",
     "status": "Занято",
     "x": -2541.29,
     "y": 733.153,
@@ -15824,18 +15836,6 @@
     "status": "Занято",
     "x": 1447.38,
     "y": 361.768,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1325,
-    "server_id": 26,
-    "type": "house",
-    "name": "курымдык",
-    "owner": "Starry_Horse",
-    "status": "Занято",
-    "x": 1461.16,
-    "y": 342.493,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23904,6 +23904,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1999,
+    "server_id": 26,
+    "type": "house",
+    "name": "дарк ку всем",
+    "owner": "Hawick_Eclipse",
+    "status": "Занято",
+    "x": 1733.29,
+    "y": 2814.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 2000,
     "server_id": 26,
     "type": "house",
@@ -25044,18 +25056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 400,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Grafi_Kus",
-    "status": "Аукцион",
-    "x": 2415.43,
-    "y": -51.5713,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 410,
     "server_id": 26,
     "type": "house",
@@ -25092,6 +25092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1325,
+    "server_id": 26,
+    "type": "house",
+    "name": "курымдык",
+    "owner": "Starry_Horse",
+    "status": "Аукцион",
+    "x": 1461.16,
+    "y": 342.493,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1769,
     "server_id": 26,
     "type": "house",
@@ -25101,18 +25113,6 @@
     "x": 1795.8,
     "y": 2800.81,
     "price": 250,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1999,
-    "server_id": 26,
-    "type": "house",
-    "name": "дарк ку всем",
-    "owner": "Hawick_Eclipse",
-    "status": "Аукцион",
-    "x": 1733.29,
-    "y": 2814.92,
-    "price": 500,
     "district": "Сан-Андреас"
   },
   {

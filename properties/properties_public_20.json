@@ -468,18 +468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 39,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Занято",
-    "x": 2388.42,
-    "y": -1279.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 40,
     "server_id": 20,
     "type": "house",
@@ -21268,7 +21256,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Snickers",
-    "owner": "Snickers_Salamanca",
+    "owner": "Izanapi_Sennheiser",
     "status": "Занято",
     "x": 1778.46,
     "y": 2736.03,
@@ -22173,6 +22161,18 @@
     "x": -1.4938,
     "y": 1009.09,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 39,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
+    "status": "Аукцион",
+    "x": 2388.42,
+    "y": -1279.69,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
@@ -26152,7 +26152,7 @@
     "server_id": 20,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Serega_Star",
+    "owner": "Noro_Knight",
     "status": "Занято",
     "x": 641.4393,
     "y": -494.824,
