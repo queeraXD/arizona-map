@@ -84,6 +84,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 7,
+    "server_id": 3,
+    "type": "house",
+    "name": "ДОМ ДЛЯ ДУШИ ",
+    "owner": "Mont_Blanc",
+    "status": "Занято",
+    "x": 2045.39,
+    "y": -1116.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 8,
     "server_id": 3,
     "type": "house",
@@ -7152,30 +7164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 597,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом продаётся с соседним",
-    "owner": "Aleks_Weiss",
-    "status": "Занято",
-    "x": -1450.71,
-    "y": 2691.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 598,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом продаётся с соседним",
-    "owner": "Aleks_Weiss",
-    "status": "Занято",
-    "x": -1466.16,
-    "y": 2693.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 599,
     "server_id": 3,
     "type": "house",
@@ -8648,18 +8636,6 @@
     "status": "Занято",
     "x": 1643.87,
     "y": 2752.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 722,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом с набором творчества",
-    "owner": "Aleks_Weiss",
-    "status": "Занято",
-    "x": 1663.37,
-    "y": 2753.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17724,18 +17700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1479,
-    "server_id": 3,
-    "type": "house",
-    "name": "все подвалы  тг @vladick_shop",
-    "owner": "Vladislav_Greco",
-    "status": "Занято",
-    "x": 1798.05,
-    "y": 2764.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1480,
     "server_id": 3,
     "type": "house",
@@ -21576,6 +21540,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1800,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом Хускара",
+    "owner": "Alfred_Lesters",
+    "status": "Занято",
+    "x": 883.95,
+    "y": 2131.46,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1801,
     "server_id": 3,
     "type": "house",
@@ -23964,26 +23940,50 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 7,
+    "id": 597,
     "server_id": 3,
     "type": "house",
-    "name": "ДОМ ДЛЯ ДУШИ ",
-    "owner": "Artem_Cuerto",
+    "name": "Дом с набором архитектора",
+    "owner": "Aleks_Weiss",
     "status": "Аукцион",
-    "x": 2045.39,
-    "y": -1116.44,
-    "price": 10000,
+    "x": -1450.71,
+    "y": 2691.05,
+    "price": 43500,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1800,
+    "id": 598,
     "server_id": 3,
     "type": "house",
-    "name": "Дом Хускара",
-    "owner": "Huskar_Krabov",
+    "name": "Дом с набором архитектора",
+    "owner": "Aleks_Weiss",
     "status": "Аукцион",
-    "x": 883.95,
-    "y": 2131.46,
+    "x": -1466.16,
+    "y": 2693.15,
+    "price": 43500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 722,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом с набором творчества",
+    "owner": "Aleks_Weiss",
+    "status": "Аукцион",
+    "x": 1663.37,
+    "y": 2753.72,
+    "price": 53500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1479,
+    "server_id": 3,
+    "type": "house",
+    "name": "все подвалы  тг @vladick_shop",
+    "owner": "Vladislav_Greco",
+    "status": "Аукцион",
+    "x": 1798.05,
+    "y": 2764.26,
     "price": 7000,
     "district": "Сан-Андреас"
   },

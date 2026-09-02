@@ -15948,18 +15948,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1335,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 1601.87,
-    "y": 2846.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1336,
     "server_id": 32,
     "type": "house",
@@ -20592,18 +20580,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1751,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": -789.703,
-    "y": 2747.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1752,
     "server_id": 32,
     "type": "house",
@@ -21612,18 +21588,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1838,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 2623.66,
-    "y": 2065.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1839,
     "server_id": 32,
     "type": "house",
@@ -21684,18 +21648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1844,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 2613.64,
-    "y": 2044.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1845,
     "server_id": 32,
     "type": "house",
@@ -21704,18 +21656,6 @@
     "status": "Занято",
     "x": 2613.64,
     "y": 2051.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1846,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 2613.64,
-    "y": 2060.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22452,6 +22392,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1335,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 1601.87,
+    "y": 2846.08,
+    "price": 19999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1751,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": -789.703,
+    "y": 2747.8,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1797,
     "server_id": 32,
     "type": "house",
@@ -22472,6 +22436,42 @@
     "status": "Аукцион",
     "x": 2610.33,
     "y": 2162.9,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1838,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 2623.66,
+    "y": 2065.52,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1844,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 2613.64,
+    "y": 2044.07,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1846,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 2613.64,
+    "y": 2060.96,
     "price": 9999,
     "district": "Сан-Андреас"
   },
@@ -22509,6 +22509,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 7,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 1315.5,
+    "y": -898.048,
+    "price": 330000,
     "district": "Сан-Андреас"
   },
   {
@@ -22952,18 +22964,6 @@
     "status": "Занято",
     "x": 1352.4,
     "y": -1758.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 7,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 1315.5,
-    "y": -898.048,
     "price": 0,
     "district": "Сан-Андреас"
   },
