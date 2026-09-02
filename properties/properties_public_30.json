@@ -612,6 +612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 51,
+    "server_id": 30,
+    "type": "house",
+    "name": "Dojan",
+    "owner": "Fasko_Fusko",
+    "status": "Занято",
+    "x": 2190.32,
+    "y": -1487.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 52,
     "server_id": 30,
     "type": "house",
@@ -668,6 +680,18 @@
     "status": "Занято",
     "x": 2150.71,
     "y": -1419.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
+    "server_id": 30,
+    "type": "house",
+    "name": "Binance House",
+    "owner": "Trump_Binance",
+    "status": "Занято",
+    "x": 2151.18,
+    "y": -1400.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15048,18 +15072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1256,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом фармилы 3",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": -2303.4,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1257,
     "server_id": 30,
     "type": "house",
@@ -20080,7 +20092,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Дом",
-    "owner": "Dark_Dream",
+    "owner": "Marin_Kitagawaa",
     "status": "Занято",
     "x": 2468.35,
     "y": -1431.68,
@@ -20160,18 +20172,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1686,
-    "server_id": 30,
-    "type": "house",
-    "name": "Mining House 9",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 1806.7,
-    "y": 2797.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1687,
     "server_id": 30,
     "type": "house",
@@ -20204,18 +20204,6 @@
     "status": "Занято",
     "x": 1809.7,
     "y": 2809.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1690,
-    "server_id": 30,
-    "type": "house",
-    "name": "Mining House 1",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 1799.76,
-    "y": 2814.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22632,27 +22620,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 51,
+    "id": 1256,
     "server_id": 30,
     "type": "house",
-    "name": "Dojan",
-    "owner": "Fasko_Fusko",
+    "name": "налдон ловит",
+    "owner": "Naldon_Legenda",
     "status": "Аукцион",
-    "x": 2190.32,
-    "y": -1487.64,
-    "price": 40000,
+    "x": -2303.4,
+    "y": 656.7349,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
+    "id": 1686,
     "server_id": 30,
     "type": "house",
-    "name": "Dojan",
-    "owner": "Charles_Scofield",
+    "name": "Дом",
+    "owner": "Ga_Tila",
     "status": "Аукцион",
-    "x": 2151.18,
-    "y": -1400.69,
-    "price": 35000,
+    "x": 1806.7,
+    "y": 2797.9,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1690,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 1799.76,
+    "y": 2814.9,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -23728,7 +23728,7 @@
     "server_id": 30,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Lev_Tigr",
+    "owner": "Naldon_Legenda",
     "status": "Занято",
     "x": -2718.47,
     "y": 50.452,
