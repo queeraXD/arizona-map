@@ -12760,7 +12760,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Vagodroch",
-    "owner": "Only_Revo",
+    "owner": "Ozon_Finance",
     "status": "Занято",
     "x": -2853.21,
     "y": 947.4849,
@@ -21024,18 +21024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1803,
-    "server_id": 32,
-    "type": "house",
-    "name": "Пиратство",
-    "owner": "Roronoa_Zoro",
-    "status": "Занято",
-    "x": 2610.33,
-    "y": 2162.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1804,
     "server_id": 32,
     "type": "house",
@@ -22176,6 +22164,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1904,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Egor_Kostum",
+    "status": "Занято",
+    "x": -2.0408,
+    "y": 1008.55,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 207,
     "server_id": 32,
     "type": "house",
@@ -22392,6 +22392,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1803,
+    "server_id": 32,
+    "type": "house",
+    "name": "Пиратство",
+    "owner": "Roronoa_Zoro",
+    "status": "Аукцион",
+    "x": 2610.33,
+    "y": 2162.9,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1820,
     "server_id": 32,
     "type": "house",
@@ -22452,18 +22464,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1904,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -2.0408,
-    "y": 1008.55,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1905,
     "server_id": 32,
     "type": "house",
@@ -22509,18 +22509,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1,
-    "server_id": 32,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Cepera_Expulsion",
-    "status": "Аукцион",
-    "x": 2333.5,
-    "y": 61.624,
-    "price": 666666,
     "district": "Сан-Андреас"
   },
   {
@@ -22592,6 +22580,18 @@
     "status": "Занято",
     "x": 1368.77,
     "y": -1279.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1,
+    "server_id": 32,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Cepera_Expulsion",
+    "status": "Занято",
+    "x": 2333.5,
+    "y": 61.624,
     "price": 0,
     "district": "Сан-Андреас"
   },
