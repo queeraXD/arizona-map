@@ -7744,7 +7744,7 @@
     "server_id": 8,
     "type": "house",
     "name": "[$] Morphine Corp [$]",
-    "owner": "Samoed_Emmerson",
+    "owner": "Ren_Kudzo",
     "status": "Занято",
     "x": 1978.33,
     "y": 715.1459,
@@ -9620,18 +9620,6 @@
     "status": "Занято",
     "x": -2340.03,
     "y": 820.0209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 802,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dirty_Stu",
-    "status": "Занято",
-    "x": -2321.73,
-    "y": 820.036,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15080,18 +15068,6 @@
     "status": "Занято",
     "x": -2872.46,
     "y": 697.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1258,
-    "server_id": 8,
-    "type": "house",
-    "name": "1258 street, San-Fierro",
-    "owner": "John_McTracher",
-    "status": "Занято",
-    "x": -2882.35,
-    "y": 726.6359,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22308,18 +22284,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1860,
-    "server_id": 8,
-    "type": "house",
-    "name": "дом с деп условиями",
-    "owner": "Dirty_Stu",
-    "status": "Занято",
-    "x": 2468.21,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1861,
     "server_id": 8,
     "type": "house",
@@ -25744,11 +25708,47 @@
     "server_id": 8,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
+    "owner": "Choppa_Henderson",
+    "status": "Занято",
     "x": 6.7891,
     "y": 1009.02,
-    "price": 1000,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 802,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dirty_Stu",
+    "status": "Аукцион",
+    "x": -2321.73,
+    "y": 820.036,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1258,
+    "server_id": 8,
+    "type": "house",
+    "name": "1258 street, San-Fierro",
+    "owner": "John_McTracher",
+    "status": "Аукцион",
+    "x": -2882.35,
+    "y": 726.6359,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1860,
+    "server_id": 8,
+    "type": "house",
+    "name": "дом с деп условиями",
+    "owner": "Dirty_Stu",
+    "status": "Аукцион",
+    "x": 2468.21,
+    "y": -1391.71,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
