@@ -4923,7 +4923,7 @@
     "id": 410,
     "server_id": 29,
     "type": "house",
-    "name": "деп условия подвалы",
+    "name": "#2016",
     "owner": "Fuzze_Qq",
     "status": "Занято",
     "x": 1402.4,
@@ -6572,18 +6572,6 @@
     "status": "Занято",
     "x": 12.7711,
     "y": 1113.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 548,
-    "server_id": 29,
-    "type": "house",
-    "name": "деп условия шкаф",
-    "owner": "Fuzze_Qq",
-    "status": "Занято",
-    "x": 570.7319,
-    "y": 1174.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12524,6 +12512,18 @@
     "status": "Занято",
     "x": -1761.0,
     "y": 1174.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1044,
+    "server_id": 29,
+    "type": "house",
+    "name": "2-ой",
+    "owner": "Papochka_NaLudke",
+    "status": "Занято",
+    "x": -1780.35,
+    "y": 1138.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21060,27 +21060,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1044,
-    "server_id": 29,
-    "type": "house",
-    "name": "2-ой",
-    "owner": "Konstantin_Pinko",
-    "status": "Аукцион",
-    "x": -1780.35,
-    "y": 1138.77,
-    "price": 6000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1763,
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
+    "owner": "Canibal_Cortez",
+    "status": "Занято",
     "x": -2.0408,
     "y": 1008.55,
-    "price": 1000,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 548,
+    "server_id": 29,
+    "type": "house",
+    "name": "деп условия шкаф",
+    "owner": "Fuzze_Qq",
+    "status": "Аукцион",
+    "x": 570.7319,
+    "y": 1174.37,
+    "price": 8000,
     "district": "Сан-Андреас"
   },
   {
@@ -23428,7 +23428,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Abdul_Morgan",
+    "owner": "Konstantin_Pinko",
     "status": "Занято",
     "x": 1864.59,
     "y": -1393.39,

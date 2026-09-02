@@ -3336,18 +3336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 279,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "California_McCloud",
-    "status": "Занято",
-    "x": 2194.16,
-    "y": -1000.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 280,
     "server_id": 15,
     "type": "house",
@@ -3567,7 +3555,7 @@
     "id": 298,
     "server_id": 15,
     "type": "house",
-    "name": "Берлога Харумы 6",
+    "name": "ремонт ЗУСАА",
     "owner": "Gigabyte_Monster",
     "status": "Занято",
     "x": 2092.26,
@@ -21240,6 +21228,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1774,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Quzik_McCloud",
+    "status": "Занято",
+    "x": 6.7891,
+    "y": 1009.02,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 152,
     "server_id": 15,
     "type": "house",
@@ -21249,6 +21249,18 @@
     "x": 1103.22,
     "y": -1069.38,
     "price": 22000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 279,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "California_McCloud",
+    "status": "Аукцион",
+    "x": 2194.16,
+    "y": -1000.94,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -21273,18 +21285,6 @@
     "x": 1546.32,
     "y": 32.3086,
     "price": 70000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1774,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 6.7891,
-    "y": 1009.02,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -24364,7 +24364,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Sam_McCloud",
+    "owner": "Ludik_NeTokado",
     "status": "Занято",
     "x": -1983.44,
     "y": 127.66,
