@@ -1824,18 +1824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 152,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bobby_Baccalieri",
-    "status": "Занято",
-    "x": 1103.22,
-    "y": -1069.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 153,
     "server_id": 15,
     "type": "house",
@@ -3339,7 +3327,7 @@
     "id": 279,
     "server_id": 15,
     "type": "house",
-    "name": "Дом",
+    "name": "домик призрака",
     "owner": "Ghost_Vpotoke",
     "status": "Занято",
     "x": 2194.16,
@@ -17847,7 +17835,7 @@
     "id": 1493,
     "server_id": 15,
     "type": "house",
-    "name": "Vert HOUSE",
+    "name": "@VertMonopoliy",
     "owner": "Kostya_Vert",
     "status": "Занято",
     "x": 2782.15,
@@ -17928,10 +17916,22 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1500,
+    "server_id": 15,
+    "type": "house",
+    "name": "@VertMonopoliy",
+    "owner": "Kostya_Vert",
+    "status": "Занято",
+    "x": 2807.99,
+    "y": -1353.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1501,
     "server_id": 15,
     "type": "house",
-    "name": "#VertHouse",
+    "name": "@VertMonopoliy",
     "owner": "Kostya_Vert",
     "status": "Занято",
     "x": 2807.99,
@@ -18351,7 +18351,7 @@
     "id": 1536,
     "server_id": 15,
     "type": "house",
-    "name": "Притон майнеров ",
+    "name": "Дом",
     "owner": "Laurence_Rousset",
     "status": "Занято",
     "x": 652.666,
@@ -21228,6 +21228,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 152,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bobby_Baccalieri",
+    "status": "Аукцион",
+    "x": 1103.22,
+    "y": -1069.38,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 277,
     "server_id": 15,
     "type": "house",
@@ -21285,18 +21297,6 @@
     "x": 161.5729,
     "y": -1455.81,
     "price": 12000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1500,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Radik_McCloud",
-    "status": "Аукцион",
-    "x": 2807.99,
-    "y": -1353.92,
-    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
