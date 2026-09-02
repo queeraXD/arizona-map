@@ -3084,18 +3084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 257,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ricco^s Home",
-    "owner": "Ricco_Revival",
-    "status": "Занято",
-    "x": 2122.32,
-    "y": -970.3649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 258,
     "server_id": 22,
     "type": "house",
@@ -3500,18 +3488,6 @@
     "status": "Занято",
     "x": 2498.96,
     "y": -1065.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 292,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ricco^s Ghetto",
-    "owner": "Ricco_Revival",
-    "status": "Занято",
-    "x": 2479.2,
-    "y": -1063.87,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6160,7 +6136,7 @@
     "server_id": 22,
     "type": "house",
     "name": "$$Evans$$ I Empire",
-    "owner": "Catherine_Molligan",
+    "owner": "Owen_Unstendet",
     "status": "Занято",
     "x": 1548.62,
     "y": 2125.54,
@@ -6848,18 +6824,6 @@
     "status": "Занято",
     "x": 467.118,
     "y": 1297.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 571,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ricco^s House",
-    "owner": "Ricco_Revival",
-    "status": "Занято",
-    "x": 532.2399,
-    "y": 1301.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10584,18 +10548,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 885,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ricco^s Pine",
-    "owner": "Ricco_Revival",
-    "status": "Занято",
-    "x": -2238.8,
-    "y": -2424.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 886,
     "server_id": 22,
     "type": "house",
@@ -11480,6 +11432,18 @@
     "status": "Занято",
     "x": -2158.75,
     "y": 786.197,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 960,
+    "server_id": 22,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Soy_Sauce",
+    "status": "Занято",
+    "x": -2158.94,
+    "y": 769.9379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12404,6 +12368,18 @@
     "status": "Занято",
     "x": -1776.13,
     "y": 1115.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1039,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kitayski_Pyps",
+    "status": "Занято",
+    "x": -1732.18,
+    "y": 1114.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21844,11 +21820,47 @@
     "server_id": 22,
     "type": "house",
     "name": "Unstendet Squad",
-    "owner": "Owen_Unstendet",
+    "owner": "Catherine_Molligan",
     "status": "Занято",
     "x": 6.7891,
     "y": 1009.02,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 257,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ricco^s Home",
+    "owner": "Ricco_Revival",
+    "status": "Аукцион",
+    "x": 2122.32,
+    "y": -970.3649,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 292,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ricco^s Ghetto",
+    "owner": "Ricco_Revival",
+    "status": "Аукцион",
+    "x": 2479.2,
+    "y": -1063.87,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 571,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ricco^s House",
+    "owner": "Ricco_Revival",
+    "status": "Аукцион",
+    "x": 532.2399,
+    "y": 1301.69,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -21888,15 +21900,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 960,
+    "id": 885,
     "server_id": 22,
     "type": "house",
-    "name": "деп условия",
-    "owner": "Soy_Sauce",
+    "name": "Ricco^s Pine",
+    "owner": "Ricco_Revival",
     "status": "Аукцион",
-    "x": -2158.94,
-    "y": 769.9379,
-    "price": 8000,
+    "x": -2238.8,
+    "y": -2424.21,
+    "price": 17000,
     "district": "Сан-Андреас"
   },
   {
@@ -21909,18 +21921,6 @@
     "x": -2168.74,
     "y": 743.76,
     "price": 35000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1039,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kitayski_Pyps",
-    "status": "Аукцион",
-    "x": -1732.18,
-    "y": 1114.92,
-    "price": 12000,
     "district": "Сан-Андреас"
   },
   {
