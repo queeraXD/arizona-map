@@ -3660,18 +3660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 305,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Santiago_Osobov",
-    "status": "Занято",
-    "x": 2060.47,
-    "y": -1076.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 306,
     "server_id": 23,
     "type": "house",
@@ -6212,6 +6200,18 @@
     "status": "Занято",
     "x": 1641.34,
     "y": 2044.78,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 518,
+    "server_id": 23,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Robet_Below",
+    "status": "Занято",
+    "x": 1595.41,
+    "y": 2070.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14796,18 +14796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1236,
-    "server_id": 23,
-    "type": "house",
-    "name": "Yamazaki Empire",
-    "owner": "Nelda_Holiday",
-    "status": "Занято",
-    "x": -2433.03,
-    "y": 1264.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1237,
     "server_id": 23,
     "type": "house",
@@ -15471,7 +15459,7 @@
     "id": 1292,
     "server_id": 23,
     "type": "house",
-    "name": "МиТЯЙ ПиДоРаС <3",
+    "name": "<3 VipRussiaHouse <3",
     "owner": "Mikendy_Doberman",
     "status": "Занято",
     "x": -2590.53,
@@ -20619,7 +20607,7 @@
     "id": 1724,
     "server_id": 23,
     "type": "house",
-    "name": "Osobov house",
+    "name": "Wright House",
     "owner": "Lifan_Wright",
     "status": "Занято",
     "x": 129.024,
@@ -21096,15 +21084,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 518,
+    "id": 305,
     "server_id": 23,
     "type": "house",
-    "name": "деп условия",
-    "owner": "Lovec_Tipa",
+    "name": "Дом",
+    "owner": "Santiago_Osobov",
     "status": "Аукцион",
-    "x": 1595.41,
-    "y": 2070.99,
-    "price": 2000,
+    "x": 2060.47,
+    "y": -1076.7,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -21117,6 +21105,18 @@
     "x": -2688.68,
     "y": -89.4464,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1236,
+    "server_id": 23,
+    "type": "house",
+    "name": "Yamazaki Empire",
+    "owner": "Nelda_Holiday",
+    "status": "Аукцион",
+    "x": -2433.03,
+    "y": 1264.16,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -21165,6 +21165,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 60,
+    "server_id": 23,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Ringo_Spirit",
+    "status": "Аукцион",
+    "x": 1599.11,
+    "y": 2221.85,
+    "price": 170000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 82,
+    "server_id": 23,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Ringo_Spirit",
+    "status": "Аукцион",
+    "x": 1879.19,
+    "y": 2339.5,
+    "price": 170000,
     "district": "Сан-Андреас"
   },
   {
@@ -22500,18 +22524,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 60,
-    "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Ringo_Spirit",
-    "status": "Занято",
-    "x": 1599.11,
-    "y": 2221.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 61,
     "server_id": 23,
     "type": "business",
@@ -22904,18 +22916,6 @@
     "status": "Занято",
     "x": 2101.89,
     "y": 2228.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 82,
-    "server_id": 23,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ringo_Spirit",
-    "status": "Занято",
-    "x": 1879.19,
-    "y": 2339.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
