@@ -7164,30 +7164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 597,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом продаётся с соседним",
-    "owner": "Aleks_Weiss",
-    "status": "Занято",
-    "x": -1450.71,
-    "y": 2691.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 598,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом продаётся с соседним",
-    "owner": "Aleks_Weiss",
-    "status": "Занято",
-    "x": -1466.16,
-    "y": 2693.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 599,
     "server_id": 3,
     "type": "house",
@@ -8660,18 +8636,6 @@
     "status": "Занято",
     "x": 1643.87,
     "y": 2752.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 722,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом с набором творчества",
-    "owner": "Aleks_Weiss",
-    "status": "Занято",
-    "x": 1663.37,
-    "y": 2753.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23883,8 +23847,8 @@
     "id": 1992,
     "server_id": 3,
     "type": "house",
-    "name": "кладменчики",
-    "owner": "Therohrome_Discover",
+    "name": "Илья Заводчанин",
+    "owner": "Ilya_Zavodchanin",
     "status": "Занято",
     "x": -38.2052,
     "y": 949.7329,
@@ -23949,6 +23913,42 @@
     "x": -2.0408,
     "y": 1008.55,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 597,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом продаётся с соседним",
+    "owner": "Aleks_Weiss",
+    "status": "Аукцион",
+    "x": -1450.71,
+    "y": 2691.05,
+    "price": 47000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 598,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом продаётся с соседним",
+    "owner": "Aleks_Weiss",
+    "status": "Аукцион",
+    "x": -1466.16,
+    "y": 2693.15,
+    "price": 47000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 722,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом с набором творчества",
+    "owner": "Aleks_Weiss",
+    "status": "Аукцион",
+    "x": 1663.37,
+    "y": 2753.72,
+    "price": 52000,
     "district": "Сан-Андреас"
   },
   {
@@ -24244,7 +24244,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Бар",
-    "owner": "Ilya_Zavodchanin",
+    "owner": "Therohrome_Discover",
     "status": "Занято",
     "x": 385.891,
     "y": -1817.9,

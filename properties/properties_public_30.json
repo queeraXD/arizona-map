@@ -612,18 +612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 51,
-    "server_id": 30,
-    "type": "house",
-    "name": "Dojan",
-    "owner": "Fasko_Fusko",
-    "status": "Занято",
-    "x": 2190.32,
-    "y": -1487.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 52,
     "server_id": 30,
     "type": "house",
@@ -680,18 +668,6 @@
     "status": "Занято",
     "x": 2150.71,
     "y": -1419.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 57,
-    "server_id": 30,
-    "type": "house",
-    "name": "Dojan",
-    "owner": "Charles_Scofield",
-    "status": "Занято",
-    "x": 2151.18,
-    "y": -1400.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15076,7 +15052,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Дом фармилы 3",
-    "owner": "Naldon_Obossal",
+    "owner": "Naldon_Legenda",
     "status": "Занято",
     "x": -2303.4,
     "y": 656.7349,
@@ -21844,7 +21820,7 @@
     "server_id": 30,
     "type": "house",
     "name": "налдон ловит",
-    "owner": "Naldon_Obossal",
+    "owner": "Naldon_Legenda",
     "status": "Занято",
     "x": 2574.99,
     "y": 2203.06,
@@ -22653,6 +22629,30 @@
     "x": -33.4878,
     "y": 958.9609,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 51,
+    "server_id": 30,
+    "type": "house",
+    "name": "Dojan",
+    "owner": "Fasko_Fusko",
+    "status": "Аукцион",
+    "x": 2190.32,
+    "y": -1487.64,
+    "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
+    "server_id": 30,
+    "type": "house",
+    "name": "Dojan",
+    "owner": "Charles_Scofield",
+    "status": "Аукцион",
+    "x": 2151.18,
+    "y": -1400.69,
+    "price": 35000,
     "district": "Сан-Андреас"
   },
   {

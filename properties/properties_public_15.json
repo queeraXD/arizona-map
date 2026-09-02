@@ -17632,7 +17632,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Дом",
-    "owner": "Bruce_McCloud",
+    "owner": "Scrooge_McCloud",
     "status": "Занято",
     "x": 857.4089,
     "y": -978.7739,
@@ -17976,6 +17976,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1500,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Radik_McCloud",
+    "status": "Занято",
+    "x": 2807.99,
+    "y": -1353.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1501,
     "server_id": 15,
     "type": "house",
@@ -18080,18 +18092,6 @@
     "status": "Занято",
     "x": -2621.02,
     "y": -134.7709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1510,
-    "server_id": 15,
-    "type": "house",
-    "name": "два подвала, обьекты, шкаф",
-    "owner": "Farmer_McCloud",
-    "status": "Занято",
-    "x": -2620.77,
-    "y": -146.2169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20919,8 +20919,8 @@
     "id": 1746,
     "server_id": 15,
     "type": "house",
-    "name": "CripsHouse",
-    "owner": "Stefan_Crips",
+    "name": "Дом",
+    "owner": "Bruce_McCloud",
     "status": "Занято",
     "x": -175.6519,
     "y": 875.2529,
@@ -21252,15 +21252,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1500,
+    "id": 1510,
     "server_id": 15,
     "type": "house",
-    "name": "Дом",
-    "owner": "Radik_McCloud",
+    "name": "два подвала, обьекты, шкаф",
+    "owner": "Farmer_McCloud",
     "status": "Аукцион",
-    "x": 2807.99,
-    "y": -1353.92,
-    "price": 6000,
+    "x": -2620.77,
+    "y": -146.2169,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {

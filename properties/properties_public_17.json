@@ -6076,7 +6076,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Dimanich",
-    "owner": "Dima_Borz",
+    "owner": "Dima_Graph",
     "status": "Занято",
     "x": 1364.57,
     "y": 2003.7,
@@ -6388,7 +6388,7 @@
     "server_id": 17,
     "type": "house",
     "name": ":u1f49c:Marlboro:u1f49c:",
-    "owner": "Gabriel_Marlboro",
+    "owner": "Evelina_Marlboro",
     "status": "Занято",
     "x": 1931.33,
     "y": 2721.72,
@@ -6640,7 +6640,7 @@
     "server_id": 17,
     "type": "house",
     "name": "DIMANICH",
-    "owner": "Dima_Borz",
+    "owner": "Dima_Graph",
     "status": "Занято",
     "x": 378.1589,
     "y": 1123.55,
@@ -11496,18 +11496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 958,
-    "server_id": 17,
-    "type": "house",
-    "name": "Slipside dynasty",
-    "owner": "Misha_Green",
-    "status": "Занято",
-    "x": -2229.52,
-    "y": 934.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 959,
     "server_id": 17,
     "type": "house",
@@ -12008,18 +11996,6 @@
     "status": "Занято",
     "x": -2359.06,
     "y": 1117.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1001,
-    "server_id": 17,
-    "type": "house",
-    "name": "Поместье Lunarcy",
-    "owner": "Evelina_Marlboro",
-    "status": "Занято",
-    "x": -2369.51,
-    "y": 1121.8,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22413,6 +22389,30 @@
     "x": -2.0703,
     "y": 1012.19,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 958,
+    "server_id": 17,
+    "type": "house",
+    "name": "Slipside dynasty",
+    "owner": "Misha_Green",
+    "status": "Аукцион",
+    "x": -2229.52,
+    "y": 934.32,
+    "price": 2501,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1001,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Evelina_Marlboro",
+    "status": "Аукцион",
+    "x": -2369.51,
+    "y": 1121.8,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
