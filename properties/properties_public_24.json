@@ -12960,18 +12960,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1084,
-    "server_id": 24,
-    "type": "house",
-    "name": "сф мост",
-    "owner": "Samp_Bet",
-    "status": "Занято",
-    "x": -2844.09,
-    "y": 914.401,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1085,
     "server_id": 24,
     "type": "house",
@@ -18828,6 +18816,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1574,
+    "server_id": 24,
+    "type": "house",
+    "name": "qween",
+    "owner": "Mihail_Obramov",
+    "status": "Занято",
+    "x": -262.8739,
+    "y": 967.036,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1575,
     "server_id": 24,
     "type": "house",
@@ -21936,6 +21936,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1841,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Maksim_Koscheev",
+    "status": "Занято",
+    "x": 6.7891,
+    "y": 1009.02,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 380,
     "server_id": 24,
     "type": "house",
@@ -21972,6 +21984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1084,
+    "server_id": 24,
+    "type": "house",
+    "name": "сф мост",
+    "owner": "Samp_Bet",
+    "status": "Аукцион",
+    "x": -2844.09,
+    "y": 914.401,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1378,
     "server_id": 24,
     "type": "house",
@@ -21981,30 +22005,6 @@
     "x": 1972.24,
     "y": -1633.71,
     "price": 9000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1574,
-    "server_id": 24,
-    "type": "house",
-    "name": "qween",
-    "owner": "Mihail_Obramov",
-    "status": "Аукцион",
-    "x": -262.8739,
-    "y": 967.036,
-    "price": 9000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1841,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 6.7891,
-    "y": 1009.02,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -22041,6 +22041,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 31,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Fucking_Nerd",
+    "status": "Аукцион",
+    "x": 604.441,
+    "y": -1513.29,
+    "price": 651000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 265,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Fucking_Nerd",
+    "status": "Аукцион",
+    "x": 1019.18,
+    "y": -1871.74,
+    "price": 651000,
     "district": "Сан-Андреас"
   },
   {
@@ -23340,18 +23364,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 31,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Fucking_Nerd",
-    "status": "Занято",
-    "x": 604.441,
-    "y": -1513.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 32,
     "server_id": 24,
     "type": "business",
@@ -23552,18 +23564,6 @@
     "status": "Занято",
     "x": -109.1,
     "y": -1521.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 265,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Fucking_Nerd",
-    "status": "Занято",
-    "x": 1019.18,
-    "y": -1871.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24724,7 +24724,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Отель",
-    "owner": "Sonic_Arctic",
+    "owner": "Varya_Mur",
     "status": "Занято",
     "x": -2188.019,
     "y": -2264.83,

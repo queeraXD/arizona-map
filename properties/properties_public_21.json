@@ -9459,7 +9459,7 @@
     "id": 788,
     "server_id": 21,
     "type": "house",
-    "name": "Продам",
+    "name": "Дом",
     "owner": "Dmitriy_Lacker",
     "status": "Занято",
     "x": -2551.89,
@@ -21936,18 +21936,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 191,
-    "server_id": 21,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "After_Hours",
-    "status": "Аукцион",
-    "x": 1143.17,
-    "y": -1473.83,
-    "price": 80000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 0,
     "server_id": 21,
     "type": "business",
@@ -24872,6 +24860,18 @@
     "status": "Занято",
     "x": 1123.41,
     "y": -1466.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 191,
+    "server_id": 21,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "After_Hours",
+    "status": "Занято",
+    "x": 1143.17,
+    "y": -1473.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
