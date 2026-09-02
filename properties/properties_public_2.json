@@ -7104,18 +7104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 592,
-    "server_id": 2,
-    "type": "house",
-    "name": "pes family",
-    "owner": "Pes_Vlados",
-    "status": "Занято",
-    "x": -2219.86,
-    "y": -2400.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 593,
     "server_id": 2,
     "type": "house",
@@ -7836,18 +7824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 653,
-    "server_id": 2,
-    "type": "house",
-    "name": "zamahy_nakanhay",
-    "owner": "Kirill_Tumba",
-    "status": "Занято",
-    "x": 2128.68,
-    "y": 650.179,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 654,
     "server_id": 2,
     "type": "house",
@@ -8084,18 +8060,6 @@
     "status": "Занято",
     "x": 930.3229,
     "y": 1928.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 674,
-    "server_id": 2,
-    "type": "house",
-    "name": "pes family",
-    "owner": "Pes_Vlados",
-    "status": "Занято",
-    "x": 928.6199,
-    "y": 2006.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21876,6 +21840,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1824,
+    "server_id": 2,
+    "type": "house",
+    "name": "<< The Sheldon Collection >>",
+    "owner": "Nurik_Asakura",
+    "status": "Занято",
+    "x": -2879.97,
+    "y": -2266.9,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1825,
     "server_id": 2,
     "type": "house",
@@ -23916,15 +23892,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1824,
+    "id": 653,
     "server_id": 2,
     "type": "house",
-    "name": "<< The Sheldon Collection >>",
-    "owner": "Rikki_Tikki",
+    "name": "zamahy_nakanhay",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2128.68,
+    "y": 650.179,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 592,
+    "server_id": 2,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Pes_Vlados",
     "status": "Аукцион",
-    "x": -2879.97,
-    "y": -2266.9,
-    "price": 10000,
+    "x": -2219.86,
+    "y": -2400.42,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 674,
+    "server_id": 2,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Pes_Vlados",
+    "status": "Аукцион",
+    "x": 928.6199,
+    "y": 2006.45,
+    "price": 25000,
     "district": "Сан-Андреас"
   },
   {
