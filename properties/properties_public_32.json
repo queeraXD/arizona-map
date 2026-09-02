@@ -6520,7 +6520,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Jonny_Bravo",
+    "owner": "Enrique_Bravo",
     "status": "Занято",
     "x": 1921.69,
     "y": 2664.64,
@@ -8892,18 +8892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 745,
-    "server_id": 32,
-    "type": "house",
-    "name": ":house:",
-    "owner": "Kayomi_Paradise",
-    "status": "Занято",
-    "x": -2710.75,
-    "y": 967.4719,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 746,
     "server_id": 32,
     "type": "house",
@@ -10392,18 +10380,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 871,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tony_Underground",
-    "status": "Занято",
-    "x": -302.976,
-    "y": 2552.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 872,
     "server_id": 32,
     "type": "house",
@@ -11644,7 +11620,7 @@
     "server_id": 32,
     "type": "house",
     "name": "деп.условия",
-    "owner": "Donny_Lood",
+    "owner": "Maksim_Tinkoff",
     "status": "Занято",
     "x": -2464.03,
     "y": 2486.08,
@@ -21156,18 +21132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1797,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "lycanthropy",
-    "status": "Занято",
-    "x": 2620.27,
-    "y": 2156.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1798,
     "server_id": 32,
     "type": "house",
@@ -22440,6 +22404,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 745,
+    "server_id": 32,
+    "type": "house",
+    "name": ":house:",
+    "owner": "Kayomi_Paradise",
+    "status": "Аукцион",
+    "x": -2710.75,
+    "y": 967.4719,
+    "price": 80000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 871,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tony_Underground",
+    "status": "Аукцион",
+    "x": -302.976,
+    "y": 2552.28,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1797,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2620.27,
+    "y": 2156.39,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1903,
     "server_id": 32,
     "type": "house",
@@ -22524,15 +22524,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 70,
+    "id": 74,
     "server_id": 32,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Theomars_Emberheart",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 2515.7,
-    "y": 1088.17,
-    "price": 155000,
+    "x": 2104.24,
+    "y": 2678.92,
+    "price": 150,
     "district": "Сан-Андреас"
   },
   {
@@ -23160,6 +23160,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 70,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Theomars_Emberheart",
+    "status": "Занято",
+    "x": 2515.7,
+    "y": 1088.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 71,
     "server_id": 32,
     "type": "business",
@@ -23192,18 +23204,6 @@
     "status": "Занято",
     "x": 1657.04,
     "y": 1741.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 74,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Qasd_Xasd",
-    "status": "Занято",
-    "x": 2104.24,
-    "y": 2678.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24520,7 +24520,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Vasiliy_Vakulenko",
+    "owner": "Aleksandr_Emberheart",
     "status": "Занято",
     "x": 1404.09,
     "y": 51.2512,

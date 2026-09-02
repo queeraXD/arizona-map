@@ -5592,6 +5592,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 467,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Unquestionable_Brown",
+    "status": "Занято",
+    "x": 2346.22,
+    "y": 656.447,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 468,
     "server_id": 6,
     "type": "house",
@@ -10200,18 +10212,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 852,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Yurchik_Duhobor",
-    "status": "Занято",
-    "x": -2281.78,
-    "y": 1023.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 853,
     "server_id": 6,
     "type": "house",
@@ -10956,18 +10956,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 915,
-    "server_id": 6,
-    "type": "house",
-    "name": "Свинарник",
-    "owner": "Yurchik_Duhobor",
-    "status": "Занято",
-    "x": -2160.06,
-    "y": 1048.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 916,
     "server_id": 6,
     "type": "house",
@@ -11192,18 +11180,6 @@
     "status": "Занято",
     "x": -2158.06,
     "y": 889.3419,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 935,
-    "server_id": 6,
-    "type": "house",
-    "name": "Свинарник",
-    "owner": "Yurchik_Duhobor",
-    "status": "Занято",
-    "x": -2174.28,
-    "y": 903.002,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24468,15 +24444,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 467,
+    "id": 852,
     "server_id": 6,
     "type": "house",
-    "name": "чтоб не запутаться",
-    "owner": "Fear_Lunary",
+    "name": "Дом",
+    "owner": "Yurchik_Duhobor",
     "status": "Аукцион",
-    "x": 2346.22,
-    "y": 656.447,
-    "price": 3000,
+    "x": -2281.78,
+    "y": 1023.14,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 915,
+    "server_id": 6,
+    "type": "house",
+    "name": "Свинарник",
+    "owner": "Yurchik_Duhobor",
+    "status": "Аукцион",
+    "x": -2160.06,
+    "y": 1048.58,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 935,
+    "server_id": 6,
+    "type": "house",
+    "name": "Свинарник",
+    "owner": "Yurchik_Duhobor",
+    "status": "Аукцион",
+    "x": -2174.28,
+    "y": 903.002,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
