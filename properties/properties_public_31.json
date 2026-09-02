@@ -168,18 +168,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 14,
-    "server_id": 31,
-    "type": "house",
-    "name": "House of Gods Knights | 2",
-    "owner": "Ares_Spartillion",
-    "status": "Занято",
-    "x": 2091.5,
-    "y": -1184.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 15,
     "server_id": 31,
     "type": "house",
@@ -2792,18 +2780,6 @@
     "status": "Занято",
     "x": 552.9169,
     "y": -1200.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 233,
-    "server_id": 31,
-    "type": "house",
-    "name": "House of Gods Knights | 3",
-    "owner": "Ares_Spartillion",
-    "status": "Занято",
-    "x": 470.8739,
-    "y": -1164.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11544,6 +11520,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 963,
+    "server_id": 31,
+    "type": "house",
+    "name": "ДЕП УСЛОВИЯ",
+    "owner": "Denny_Immortal",
+    "status": "Занято",
+    "x": -2187.12,
+    "y": 743.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 964,
     "server_id": 31,
     "type": "house",
@@ -11871,8 +11859,8 @@
     "id": 991,
     "server_id": 31,
     "type": "house",
-    "name": "House of Gods Knights | 6",
-    "owner": "Ares_Spartillion",
+    "name": "Дом",
+    "owner": "Santerro_Bounteiro",
     "status": "Занято",
     "x": 977.3939,
     "y": -771.3049,
@@ -19884,6 +19872,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1660,
+    "server_id": 31,
+    "type": "house",
+    "name": "Maine",
+    "owner": "Hmeli_Suneli",
+    "status": "Занято",
+    "x": 2416.05,
+    "y": 1063.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1661,
     "server_id": 31,
     "type": "house",
@@ -20768,6 +20768,18 @@
     "status": "Занято",
     "x": 1775.02,
     "y": 2870.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1736,
+    "server_id": 31,
+    "type": "house",
+    "name": "депозитные условия",
+    "owner": "Braine_Mercy",
+    "status": "Занято",
+    "x": 1784.2,
+    "y": 2868.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22120,7 +22132,7 @@
     "server_id": 31,
     "type": "house",
     "name": "KAZAH MONOPOLYA",
-    "owner": "Kazah_Monopolist",
+    "owner": "Kirill_Bambie",
     "status": "Занято",
     "x": 2653.01,
     "y": 2019.21,
@@ -23187,7 +23199,7 @@
     "id": 1939,
     "server_id": 31,
     "type": "house",
-    "name": "Юэн Уоррен",
+    "name": "Юэн Уоррен (1/2)",
     "owner": "Ewan_Warren",
     "status": "Занято",
     "x": -44.7877,
@@ -23211,7 +23223,7 @@
     "id": 1941,
     "server_id": 31,
     "type": "house",
-    "name": "СПРИНГС",
+    "name": "Юэн Уоррен (2/2)",
     "owner": "Ewan_Warren",
     "status": "Занято",
     "x": -33.4878,
@@ -23280,39 +23292,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 963,
+    "id": 14,
     "server_id": 31,
     "type": "house",
-    "name": "ДЕП УСЛОВИЯ",
-    "owner": "Hmeli_Suneli",
+    "name": "House of Gods Knights | 2",
+    "owner": "Ares_Spartillion",
     "status": "Аукцион",
-    "x": -2187.12,
-    "y": 743.71,
-    "price": 15000,
+    "x": 2091.5,
+    "y": -1184.36,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1660,
+    "id": 233,
     "server_id": 31,
     "type": "house",
-    "name": "Maine",
-    "owner": "Hmeli_Suneli",
+    "name": "House of Gods Knights | 3",
+    "owner": "Ares_Spartillion",
     "status": "Аукцион",
-    "x": 2416.05,
-    "y": 1063.58,
-    "price": 15000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1736,
-    "server_id": 31,
-    "type": "house",
-    "name": "депозитные условия",
-    "owner": "Hmeli_Suneli",
-    "status": "Аукцион",
-    "x": 1784.2,
-    "y": 2868.28,
-    "price": 15000,
+    "x": 470.8739,
+    "y": -1164.12,
+    "price": 50000,
     "district": "Сан-Андреас"
   },
   {
@@ -23349,6 +23349,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 253,
+    "server_id": 31,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Shapka_Snoop",
+    "status": "Аукцион",
+    "x": 441.766,
+    "y": 313.07,
+    "price": 128000,
     "district": "Сан-Андреас"
   },
   {
@@ -24800,18 +24812,6 @@
     "status": "Занято",
     "x": -2975.86,
     "y": 623.271,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 253,
-    "server_id": 31,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Shapka_Snoop",
-    "status": "Занято",
-    "x": 441.766,
-    "y": 313.07,
     "price": 0,
     "district": "Сан-Андреас"
   },

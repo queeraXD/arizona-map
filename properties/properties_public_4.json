@@ -4488,30 +4488,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 376,
-    "server_id": 4,
-    "type": "house",
-    "name": "Сюжетка+Набор Архитектора",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2236.42,
-    "y": 167.7779,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 377,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается дом за 8ккк",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2258.04,
-    "y": 167.8099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 378,
     "server_id": 4,
     "type": "house",
@@ -6332,6 +6308,18 @@
     "status": "Занято",
     "x": 1992.58,
     "y": 2764.63,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 530,
+    "server_id": 4,
+    "type": "house",
+    "name": "Innokentiy",
+    "owner": "Implored_Space",
+    "status": "Занято",
+    "x": 1967.26,
+    "y": 2766.48,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16224,18 +16212,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1358,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2285.88,
-    "y": 161.7709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1359,
     "server_id": 4,
     "type": "house",
@@ -17540,18 +17516,6 @@
     "status": "Занято",
     "x": 745.6749,
     "y": -590.9829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1468,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2373.85,
-    "y": 21.9458,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25188,15 +25152,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 530,
+    "id": 376,
     "server_id": 4,
     "type": "house",
-    "name": "Innokentiy",
-    "owner": "Implored_Space",
+    "name": "Сюжетка+Набор Архитектора",
+    "owner": "Doctor_Infernales",
     "status": "Аукцион",
-    "x": 1967.26,
-    "y": 2766.48,
-    "price": 2500,
+    "x": 2236.42,
+    "y": 167.7779,
+    "price": 167000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 377,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается дом за 8ккк",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2258.04,
+    "y": 167.8099,
+    "price": 102000,
     "district": "Сан-Андреас"
   },
   {
@@ -25221,6 +25197,30 @@
     "x": 161.416,
     "y": -1456.0,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1358,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2285.88,
+    "y": 161.7709,
+    "price": 63000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1468,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2373.85,
+    "y": 21.9458,
+    "price": 63000,
     "district": "Сан-Андреас"
   },
   {
