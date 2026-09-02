@@ -9545,10 +9545,10 @@
     "type": "house",
     "name": "Основа",
     "owner": "Salvadore_Behidson",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2372.53,
     "y": 692.763,
-    "price": 1200,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -14252,18 +14252,6 @@
     "status": "Занято",
     "x": -2789.17,
     "y": -52.6333,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1189,
-    "server_id": 26,
-    "type": "house",
-    "name": "Strong",
-    "owner": "Donny_Harris",
-    "status": "Занято",
-    "x": -2791.85,
-    "y": -41.8134,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25124,6 +25112,18 @@
     "status": "Занято",
     "x": -2.0703,
     "y": 1012.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1189,
+    "server_id": 26,
+    "type": "house",
+    "name": "Strong",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2791.85,
+    "y": -41.8134,
     "price": 0,
     "district": "Сан-Андреас"
   },

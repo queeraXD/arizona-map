@@ -10092,18 +10092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 841,
-    "server_id": 25,
-    "type": "house",
-    "name": "Майнинг ферма",
-    "owner": "Bogdan_Dedrikob",
-    "status": "Занято",
-    "x": -2208.08,
-    "y": 1108.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 842,
     "server_id": 25,
     "type": "house",
@@ -15643,6 +15631,18 @@
     "owner": "Oleg_Akerman",
     "status": "Занято",
     "x": -2576.42,
+    "y": -198.7969,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1305,
+    "server_id": 25,
+    "type": "house",
+    "name": ">>CROSS<<",
+    "owner": "Geoffrey_Cross",
+    "status": "Занято",
+    "x": -2558.56,
     "y": -198.7969,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21664,7 +21664,7 @@
     "server_id": 25,
     "type": "house",
     "name": "FULL 10LVL BTC",
-    "owner": "Stas_Barecky",
+    "owner": "Adrenaline_Bishop",
     "status": "Занято",
     "x": 2506.3,
     "y": 1682.87,
@@ -21892,7 +21892,7 @@
     "server_id": 25,
     "type": "house",
     "name": "cuerto squad",
-    "owner": "Stas_Barecky",
+    "owner": "ImLeaving_ToTokyo",
     "status": "Занято",
     "x": 1414.44,
     "y": 1996.36,
@@ -22253,10 +22253,10 @@
     "type": "house",
     "name": "ЛС, майнинг (хуйня)",
     "owner": "Oleksii_Dashkivskyi",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2468.17,
     "y": -1410.34,
-    "price": 5500,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23700,15 +23700,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1305,
+    "id": 841,
     "server_id": 25,
     "type": "house",
-    "name": "Feasts Berloga",
-    "owner": "Государство",
+    "name": "Майнинг ферма",
+    "owner": "Bogdan_Dedrikob",
     "status": "Аукцион",
-    "x": -2558.56,
-    "y": -198.7969,
-    "price": 150,
+    "x": -2208.08,
+    "y": 1108.05,
+    "price": 4250,
     "district": "Сан-Андреас"
   },
   {
