@@ -6604,7 +6604,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Дом",
-    "owner": "After_Hours",
+    "owner": "Monster_Stop",
     "status": "Занято",
     "x": 618.3629,
     "y": 1168.83,
@@ -8091,7 +8091,7 @@
     "id": 674,
     "server_id": 21,
     "type": "house",
-    "name": "afterhours LV2",
+    "name": "берлога ЛВ",
     "owner": "After_Hours",
     "status": "Занято",
     "x": 928.6199,
@@ -9320,6 +9320,18 @@
     "status": "Занято",
     "x": -2576.56,
     "y": 819.7999,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 777,
+    "server_id": 21,
+    "type": "house",
+    "name": "Owner fam Nether",
+    "owner": "Kawai_Donatte",
+    "status": "Занято",
+    "x": -2548.71,
+    "y": 819.799,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21864,27 +21876,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 777,
-    "server_id": 21,
-    "type": "house",
-    "name": "Owner fam Nether",
-    "owner": "Kawai_Donatte",
-    "status": "Аукцион",
-    "x": -2548.71,
-    "y": 819.799,
-    "price": 9000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1824,
     "server_id": 21,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
+    "owner": "Yatsik_Vishnevsky",
+    "status": "Занято",
     "x": -2.0408,
     "y": 1008.55,
-    "price": 1000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
