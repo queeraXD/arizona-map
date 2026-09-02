@@ -4800,18 +4800,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 400,
-    "server_id": 2,
-    "type": "house",
-    "name": "В продаже",
-    "owner": "Sergo_Kititsa",
-    "status": "Занято",
-    "x": 2415.43,
-    "y": -51.5713,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 401,
     "server_id": 2,
     "type": "house",
@@ -7104,18 +7092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 592,
-    "server_id": 2,
-    "type": "house",
-    "name": "Walker",
-    "owner": "Pes_Vlados",
-    "status": "Занято",
-    "x": -2219.86,
-    "y": -2400.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 593,
     "server_id": 2,
     "type": "house",
@@ -8088,18 +8064,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 674,
-    "server_id": 2,
-    "type": "house",
-    "name": "Walker",
-    "owner": "Pes_Vlados",
-    "status": "Занято",
-    "x": 928.6199,
-    "y": 2006.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 675,
     "server_id": 2,
     "type": "house",
@@ -8979,8 +8943,8 @@
     "id": 748,
     "server_id": 2,
     "type": "house",
-    "name": "цитадель Покорителя ",
-    "owner": "Lonio_Nee",
+    "name": "Штаб-квартира Russo Dynasty!)",
+    "owner": "Kio_Hatake",
     "status": "Занято",
     "x": -2659.96,
     "y": 876.3309,
@@ -9404,18 +9368,6 @@
     "status": "Занято",
     "x": -2513.51,
     "y": 830.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 784,
-    "server_id": 2,
-    "type": "house",
-    "name": "SFPD ",
-    "owner": "Nvidia_App",
-    "status": "Занято",
-    "x": -2513.5,
-    "y": 849.1569,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12980,18 +12932,6 @@
     "status": "Занято",
     "x": -2159.09,
     "y": 753.3189,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1083,
-    "server_id": 2,
-    "type": "house",
-    "name": "$ San Fierro China Town st. $",
-    "owner": "Pes_Vlados",
-    "status": "Занято",
-    "x": -2223.61,
-    "y": 743.882,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23547,8 +23487,8 @@
     "id": 1967,
     "server_id": 2,
     "type": "house",
-    "name": "Дом",
-    "owner": "Roxy_Reynolds",
+    "name": "Capybara Empire",
+    "owner": "Olya_Fernandess",
     "status": "Занято",
     "x": -149.597,
     "y": 1032.06,
@@ -23937,6 +23877,66 @@
     "x": 6.7789,
     "y": 1011.7,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 400,
+    "server_id": 2,
+    "type": "house",
+    "name": "В продаже",
+    "owner": "Sergo_Kititsa",
+    "status": "Аукцион",
+    "x": 2415.43,
+    "y": -51.5713,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 592,
+    "server_id": 2,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Pes_Vlados",
+    "status": "Аукцион",
+    "x": -2219.86,
+    "y": -2400.42,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 674,
+    "server_id": 2,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Pes_Vlados",
+    "status": "Аукцион",
+    "x": 928.6199,
+    "y": 2006.45,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 784,
+    "server_id": 2,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nvidia_App",
+    "status": "Аукцион",
+    "x": -2513.5,
+    "y": 849.1569,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1083,
+    "server_id": 2,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Pes_Vlados",
+    "status": "Аукцион",
+    "x": -2223.61,
+    "y": 743.882,
+    "price": 14000,
     "district": "Сан-Андреас"
   },
   {
@@ -26824,7 +26824,7 @@
     "server_id": 2,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Sexy_Macho",
+    "owner": "Jis_Tej",
     "status": "Занято",
     "x": 2599.42,
     "y": 1060.38,
