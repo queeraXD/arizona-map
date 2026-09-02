@@ -3144,18 +3144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 262,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kimmi_Continental",
-    "status": "Занято",
-    "x": 2373.85,
-    "y": -8.6736,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 263,
     "server_id": 4,
     "type": "house",
@@ -4268,18 +4256,6 @@
     "status": "Занято",
     "x": 1288.34,
     "y": -873.7819,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 356,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vadim_Lamborghini",
-    "status": "Занято",
-    "x": 1280.86,
-    "y": -874.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8316,18 +8292,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 694,
-    "server_id": 4,
-    "type": "house",
-    "name": "Baburka squad",
-    "owner": "Konstantin_Vladimiro",
-    "status": "Занято",
-    "x": 1325.5,
-    "y": 2567.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 695,
     "server_id": 4,
     "type": "house",
@@ -11895,8 +11859,8 @@
     "id": 993,
     "server_id": 4,
     "type": "house",
-    "name": "Дом",
-    "owner": "Blake_Fox",
+    "name": "TRAP XATA 4",
+    "owner": "Kabinet_Ministrov",
     "status": "Занято",
     "x": -2280.24,
     "y": 1149.24,
@@ -13768,7 +13732,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Бурмолда House",
-    "owner": "Cristobal_Balenciaga",
+    "owner": "Sergio_Perez",
     "status": "Занято",
     "x": -2791.93,
     "y": -160.4669,
@@ -24000,6 +23964,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2004,
+    "server_id": 4,
+    "type": "house",
+    "name": "autohotkey fam",
+    "owner": "Do_Bronx",
+    "status": "Занято",
+    "x": 2492.12,
+    "y": -1376.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 2005,
     "server_id": 4,
     "type": "house",
@@ -25188,15 +25164,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1675,
+    "id": 262,
     "server_id": 4,
     "type": "house",
-    "name": "pes family",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2683.0,
-    "y": 192.8119,
-    "price": 0,
+    "name": "Дом",
+    "owner": "Kimmi_Continental",
+    "status": "Аукцион",
+    "x": 2373.85,
+    "y": -8.6736,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 356,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vadim_Lamborghini",
+    "status": "Аукцион",
+    "x": 1280.86,
+    "y": -874.83,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
@@ -25212,6 +25200,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 694,
+    "server_id": 4,
+    "type": "house",
+    "name": "Baburka squad",
+    "owner": "Konstantin_Vladimiro",
+    "status": "Аукцион",
+    "x": 1325.5,
+    "y": 2567.57,
+    "price": 22000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1352,
     "server_id": 4,
     "type": "house",
@@ -25224,14 +25224,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2004,
+    "id": 1675,
     "server_id": 4,
     "type": "house",
-    "name": "autohotkey fam",
-    "owner": "Savelij_Professional",
+    "name": "pes family",
+    "owner": "Vova_Gnevvv",
     "status": "Аукцион",
-    "x": 2492.12,
-    "y": -1376.27,
+    "x": -2683.0,
+    "y": 192.8119,
     "price": 2000,
     "district": "Сан-Андреас"
   },

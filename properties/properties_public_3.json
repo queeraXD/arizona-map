@@ -84,18 +84,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 7,
-    "server_id": 3,
-    "type": "house",
-    "name": "ДОМ ДЛЯ ДУШИ ",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": 2045.39,
-    "y": -1116.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 8,
     "server_id": 3,
     "type": "house",
@@ -21576,18 +21564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1800,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом Хускара",
-    "owner": "Huskar_Krabov",
-    "status": "Занято",
-    "x": 883.95,
-    "y": 2131.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1801,
     "server_id": 3,
     "type": "house",
@@ -23976,6 +23952,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 7,
+    "server_id": 3,
+    "type": "house",
+    "name": "ДОМ ДЛЯ ДУШИ ",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": 2045.39,
+    "y": -1116.44,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 753,
     "server_id": 3,
     "type": "house",
@@ -23985,6 +23973,18 @@
     "x": -2642.31,
     "y": 728.0339,
     "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1800,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом Хускара",
+    "owner": "Huskar_Krabov",
+    "status": "Аукцион",
+    "x": 883.95,
+    "y": 2131.46,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {
@@ -24009,6 +24009,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 262,
+    "server_id": 3,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Sak_Noel",
+    "status": "Аукцион",
+    "x": 58.9409,
+    "y": 1221.86,
+    "price": 2000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 286,
+    "server_id": 3,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Sak_Noel",
+    "status": "Аукцион",
+    "x": 1826.39,
+    "y": 626.525,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25488,18 +25512,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 262,
-    "server_id": 3,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Sak_Noel",
-    "status": "Занято",
-    "x": 58.9409,
-    "y": 1221.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 263,
     "server_id": 3,
     "type": "business",
@@ -25544,18 +25556,6 @@
     "status": "Занято",
     "x": 1031.61,
     "y": 1354.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 286,
-    "server_id": 3,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Sak_Noel",
-    "status": "Занято",
-    "x": 1826.39,
-    "y": 626.525,
     "price": 0,
     "district": "Сан-Андреас"
   },

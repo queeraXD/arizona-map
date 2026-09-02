@@ -1044,18 +1044,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 88,
-    "server_id": 10,
-    "type": "house",
-    "name": "$Karleone$",
-    "owner": "Vulfi_Karleone",
-    "status": "Занято",
-    "x": 2014.91,
-    "y": -1732.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 89,
     "server_id": 10,
     "type": "house",
@@ -6588,18 +6576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 550,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Yapy_May",
-    "status": "Занято",
-    "x": 618.3629,
-    "y": 1168.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 551,
     "server_id": 10,
     "type": "house",
@@ -7096,7 +7072,7 @@
     "server_id": 10,
     "type": "house",
     "name": "хата с деп условиями",
-    "owner": "Optimys_Skyworth",
+    "owner": "Optimys_Yaremenko",
     "status": "Занято",
     "x": -1478.59,
     "y": 2547.3,
@@ -12532,7 +12508,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Pivo",
-    "owner": "Optimys_Skyworth",
+    "owner": "Optimys_Yaremenko",
     "status": "Занято",
     "x": -1939.33,
     "y": 1227.54,
@@ -12940,7 +12916,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Pivo",
-    "owner": "Optimys_Skyworth",
+    "owner": "Optimys_Yaremenko",
     "status": "Занято",
     "x": -2844.09,
     "y": 914.401,
@@ -16648,7 +16624,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Военная база г. Лас-Вентурас",
-    "owner": "Nikita_Yaremenko",
+    "owner": "James_Razvodila",
     "status": "Занято",
     "x": 1601.82,
     "y": 2846.08,
@@ -20328,18 +20304,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1704,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Satoru_Nakamura",
-    "status": "Занято",
-    "x": -2358.48,
-    "y": 244.4989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1705,
     "server_id": 10,
     "type": "house",
@@ -20560,7 +20524,7 @@
     "server_id": 10,
     "type": "house",
     "name": "sonne scheint",
-    "owner": "Optimys_Skyworth",
+    "owner": "Optimys_Yaremenko",
     "status": "Занято",
     "x": 2579.08,
     "y": 719.4249,
@@ -22660,7 +22624,7 @@
     "server_id": 10,
     "type": "house",
     "name": "pivo",
-    "owner": "Optimys_Skyworth",
+    "owner": "Optimys_Yaremenko",
     "status": "Занято",
     "x": 2653.02,
     "y": 2019.21,
@@ -23216,7 +23180,31 @@
     "status": "Аукцион",
     "x": 2393.19,
     "y": -1646.03,
-    "price": 25000,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 88,
+    "server_id": 10,
+    "type": "house",
+    "name": "$Karleone$",
+    "owner": "Vulfi_Karleone",
+    "status": "Аукцион",
+    "x": 2014.91,
+    "y": -1732.61,
+    "price": 20123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 550,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yapy_May",
+    "status": "Аукцион",
+    "x": 618.3629,
+    "y": 1168.83,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -23313,6 +23301,18 @@
     "x": 2787.07,
     "y": -1952.59,
     "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1704,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2358.48,
+    "y": 244.4989,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
