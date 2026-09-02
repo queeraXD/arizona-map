@@ -5784,6 +5784,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 482,
+    "server_id": 10,
+    "type": "house",
+    "name": "Частная территория",
+    "owner": "Ded_Immortals",
+    "status": "Занято",
+    "x": 2206.36,
+    "y": 691.505,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 483,
     "server_id": 10,
     "type": "house",
@@ -12464,6 +12476,18 @@
     "status": "Занято",
     "x": -1727.98,
     "y": 1138.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1041,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Xanax_XR",
+    "status": "Занято",
+    "x": -1728.11,
+    "y": 1158.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22572,18 +22596,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1884,
-    "server_id": 10,
-    "type": "house",
-    "name": "immortal",
-    "owner": "Ded_Immortals",
-    "status": "Занято",
-    "x": 2648.32,
-    "y": 2029.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1885,
     "server_id": 10,
     "type": "house",
@@ -22735,18 +22747,6 @@
     "owner": "[19]Fernandes_Escabaro",
     "status": "Занято",
     "x": 2617.64,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1898,
-    "server_id": 10,
-    "type": "house",
-    "name": "Immortal",
-    "owner": "Ded_Immortals",
-    "status": "Занято",
-    "x": 2634.34,
     "y": 2019.21,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23280,27 +23280,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 482,
+    "id": 1884,
     "server_id": 10,
     "type": "house",
-    "name": "Частная территория",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2206.36,
-    "y": 691.505,
-    "price": 0,
+    "name": "immortal",
+    "owner": "Ded_Immortals",
+    "status": "Аукцион",
+    "x": 2648.32,
+    "y": 2029.23,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1041,
+    "id": 1898,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -1728.11,
-    "y": 1158.95,
-    "price": 0,
+    "name": "Immortal",
+    "owner": "Ded_Immortals",
+    "status": "Аукцион",
+    "x": 2634.34,
+    "y": 2019.21,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
@@ -23349,18 +23349,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 193,
-    "server_id": 10,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Aura_Laga",
-    "status": "Аукцион",
-    "x": 2405.02,
-    "y": -1933.97,
-    "price": 135000,
     "district": "Сан-Андреас"
   },
   {
@@ -26312,6 +26300,18 @@
     "status": "Занято",
     "x": 1136.97,
     "y": -1456.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 193,
+    "server_id": 10,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Aura_Laga",
+    "status": "Занято",
+    "x": 2405.02,
+    "y": -1933.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
