@@ -9435,7 +9435,7 @@
     "id": 786,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
+    "name": "Tesoro 2/15",
     "owner": "Francesco_Carbon",
     "status": "Занято",
     "x": -2513.51,
@@ -9459,7 +9459,7 @@
     "id": 788,
     "server_id": 16,
     "type": "house",
-    "name": "+деп условия",
+    "name": "Tesoro 1/15",
     "owner": "Francesco_Carbon",
     "status": "Занято",
     "x": -2551.89,
@@ -11763,7 +11763,7 @@
     "id": 981,
     "server_id": 16,
     "type": "house",
-    "name": "Подвалы оба,гараж",
+    "name": "Tesoro 3/15",
     "owner": "Francesco_Carbon",
     "status": "Занято",
     "x": -2278.81,
@@ -12492,6 +12492,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1042,
+    "server_id": 16,
+    "type": "house",
+    "name": "Автогонки",
+    "owner": "Milexa_Desire",
+    "status": "Занято",
+    "x": -1742.51,
+    "y": 1174.37,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1043,
     "server_id": 16,
     "type": "house",
@@ -13047,7 +13059,7 @@
     "id": 1090,
     "server_id": 16,
     "type": "house",
-    "name": "Майнинг-Ферма №5",
+    "name": "Tesoro 4/15",
     "owner": "Francesco_Carbon",
     "status": "Занято",
     "x": -2126.75,
@@ -20256,18 +20268,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1691,
-    "server_id": 16,
-    "type": "house",
-    "name": "жоский гей клуб",
-    "owner": "Astralniy_Oxford",
-    "status": "Занято",
-    "x": 2012.63,
-    "y": 2132.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1692,
     "server_id": 16,
     "type": "house",
@@ -20828,18 +20828,6 @@
     "status": "Занято",
     "x": 2437.04,
     "y": 1211.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1739,
-    "server_id": 16,
-    "type": "house",
-    "name": "Goblins Empire",
-    "owner": "Astralniy_Oxford",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1205.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22380,15 +22368,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1042,
+    "id": 1868,
     "server_id": 16,
     "type": "house",
-    "name": "Автогонки",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -1742.51,
-    "y": 1174.37,
-    "price": 150,
+    "name": "Дом",
+    "owner": "Kristina_Coffe",
+    "status": "Занято",
+    "x": -2.0408,
+    "y": 1008.55,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -22404,15 +22392,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1868,
+    "id": 1691,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
+    "name": "жоский гей клуб",
+    "owner": "Astralniy_Oxford",
     "status": "Аукцион",
-    "x": -2.0408,
-    "y": 1008.55,
-    "price": 1000,
+    "x": 2012.63,
+    "y": 2132.91,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1739,
+    "server_id": 16,
+    "type": "house",
+    "name": "Goblins Empire",
+    "owner": "Astralniy_Oxford",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1205.26,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
