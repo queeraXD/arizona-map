@@ -5784,18 +5784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 482,
-    "server_id": 10,
-    "type": "house",
-    "name": "Частная территория",
-    "owner": "Rikardo_Martiz",
-    "status": "Занято",
-    "x": 2206.36,
-    "y": 691.505,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 483,
     "server_id": 10,
     "type": "house",
@@ -12480,18 +12468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1041,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Rikardo_Martiz",
-    "status": "Занято",
-    "x": -1728.11,
-    "y": 1158.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1042,
     "server_id": 10,
     "type": "house",
@@ -17204,6 +17180,18 @@
     "status": "Занято",
     "x": 2809.53,
     "y": -1324.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1435,
+    "server_id": 10,
+    "type": "house",
+    "name": "SLAVAMARLOW TRAPHOUSE",
+    "owner": "Jack_Chaltsev",
+    "status": "Занято",
+    "x": 2781.94,
+    "y": -1333.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23292,14 +23280,26 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1435,
+    "id": 482,
     "server_id": 10,
     "type": "house",
-    "name": "SLAVAMARLOW TRAPHOUSE",
+    "name": "Частная территория",
     "owner": "Государство",
     "status": "Свободно",
-    "x": 2781.94,
-    "y": -1333.25,
+    "x": 2206.36,
+    "y": 691.505,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1041,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -1728.11,
+    "y": 1158.95,
     "price": 0,
     "district": "Сан-Андреас"
   },

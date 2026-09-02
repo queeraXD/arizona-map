@@ -15328,7 +15328,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Hackney Downs",
-    "owner": "Adji_Gadjiev",
+    "owner": "Jonathan_Flander",
     "status": "Занято",
     "x": -2558.63,
     "y": -118.7289,
@@ -22239,7 +22239,7 @@
     "id": 1900,
     "server_id": 32,
     "type": "house",
-    "name": "Дом",
+    "name": "Во владении очень богатого Voda",
     "owner": "Voda_Nety",
     "status": "Занято",
     "x": -33.4878,
@@ -22509,30 +22509,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 325,
-    "server_id": 32,
-    "type": "business",
-    "name": "Рыболовный магазин",
-    "owner": "Junk_Extendo",
-    "status": "Аукцион",
-    "x": -2057.44,
-    "y": -2464.48,
-    "price": 155800,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Junk_Extendo",
-    "status": "Аукцион",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 117000,
     "district": "Сан-Андреас"
   },
   {
@@ -24636,6 +24612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 358,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Junk_Extendo",
+    "status": "Занято",
+    "x": -2103.59,
+    "y": -2342.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 39,
     "server_id": 32,
     "type": "business",
@@ -26420,6 +26408,18 @@
     "status": "Занято",
     "x": -1354.1,
     "y": 2057.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 325,
+    "server_id": 32,
+    "type": "business",
+    "name": "Рыболовный магазин",
+    "owner": "Junk_Extendo",
+    "status": "Занято",
+    "x": -2057.44,
+    "y": -2464.48,
     "price": 0,
     "district": "Сан-Андреас"
   },
