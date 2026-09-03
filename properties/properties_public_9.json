@@ -1960,7 +1960,7 @@
     "server_id": 9,
     "type": "house",
     "name": "дом сатошика",
-    "owner": "Satoshi_Sextezze",
+    "owner": "Vorovka_Mansory",
     "status": "Занято",
     "x": 980.997,
     "y": -1814.69,
@@ -2300,6 +2300,18 @@
     "status": "Занято",
     "x": 315.8299,
     "y": -1769.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 192,
+    "server_id": 9,
+    "type": "house",
+    "name": "United House",
+    "owner": "London_United",
+    "status": "Занято",
+    "x": 295.3489,
+    "y": -1765.47,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13152,18 +13164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1100,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ryder_Compton",
-    "status": "Занято",
-    "x": 1748.72,
-    "y": 2758.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1101,
     "server_id": 9,
     "type": "house",
@@ -23868,18 +23868,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 192,
-    "server_id": 9,
-    "type": "house",
-    "name": "United House",
-    "owner": "London_United",
-    "status": "Аукцион",
-    "x": 295.3489,
-    "y": -1765.47,
-    "price": 65000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 377,
     "server_id": 9,
     "type": "house",
@@ -23904,6 +23892,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1100,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ryder_Compton",
+    "status": "Аукцион",
+    "x": 1748.72,
+    "y": 2758.54,
+    "price": 7500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1320,
     "server_id": 9,
     "type": "house",
@@ -23925,6 +23925,30 @@
     "x": -17.7366,
     "y": 1215.41,
     "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 37,
+    "server_id": 9,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Yaponchik_Lee",
+    "status": "Аукцион",
+    "x": 2105.21,
+    "y": -1806.49,
+    "price": 240000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 43,
+    "server_id": 9,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Yaponchik_Lee",
+    "status": "Аукцион",
+    "x": 2273.62,
+    "y": 82.047,
+    "price": 240000,
     "district": "Сан-Андреас"
   },
   {
@@ -24440,18 +24464,6 @@
     "status": "Занято",
     "x": -2165.77,
     "y": -2416.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 43,
-    "server_id": 9,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Yaponchik_Lee",
-    "status": "Занято",
-    "x": 2273.62,
-    "y": 82.047,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25568,18 +25580,6 @@
     "status": "Занято",
     "x": 928.254,
     "y": -1352.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 37,
-    "server_id": 9,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Yaponchik_Lee",
-    "status": "Занято",
-    "x": 2105.21,
-    "y": -1806.49,
     "price": 0,
     "district": "Сан-Андреас"
   },

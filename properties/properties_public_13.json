@@ -1632,18 +1632,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 137,
-    "server_id": 13,
-    "type": "house",
-    "name": "Берлога Блитц Багаева ",
-    "owner": "Pasquale_Blackwood",
-    "status": "Занято",
-    "x": 1714.97,
-    "y": -2124.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 138,
     "server_id": 13,
     "type": "house",
@@ -21064,7 +21052,7 @@
     "server_id": 13,
     "type": "house",
     "name": "quinfrize",
-    "owner": "Dmitry_Friendov",
+    "owner": "Ottone_DeLorean",
     "status": "Занято",
     "x": 2473.13,
     "y": -1359.09,
@@ -21319,18 +21307,6 @@
     "owner": "Invisible_Maxon",
     "status": "Занято",
     "x": 2487.25,
-    "y": -1359.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1781,
-    "server_id": 13,
-    "type": "house",
-    "name": "МАЙНИНГ 7 ЛВЛ",
-    "owner": "Loki_Daymas",
-    "status": "Занято",
-    "x": 2468.25,
     "y": -1359.1,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22323,7 +22299,7 @@
     "id": 1864,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
+    "name": "0_0",
     "owner": "Leonardo_Smith",
     "status": "Занято",
     "x": 2657.13,
@@ -22352,6 +22328,18 @@
     "status": "Занято",
     "x": 2657.13,
     "y": 2247.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1867,
+    "server_id": 13,
+    "type": "house",
+    "name": "датка из тбилиси",
+    "owner": "Maksim_Kocho",
+    "status": "Занято",
+    "x": 2657.13,
+    "y": 2235.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23244,6 +23232,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 137,
+    "server_id": 13,
+    "type": "house",
+    "name": "Берлога Блитц Багаева ",
+    "owner": "Pasquale_Blackwood",
+    "status": "Аукцион",
+    "x": 1714.97,
+    "y": -2124.91,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1523,
     "server_id": 13,
     "type": "house",
@@ -23268,15 +23268,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1867,
+    "id": 1781,
     "server_id": 13,
     "type": "house",
-    "name": "датка из тбилиси",
-    "owner": "Mael_Sunset",
+    "name": "МАЙНИНГ 7 ЛВЛ",
+    "owner": "Loki_Daymas",
     "status": "Аукцион",
-    "x": 2657.13,
-    "y": 2235.88,
-    "price": 500,
+    "x": 2468.25,
+    "y": -1359.1,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {

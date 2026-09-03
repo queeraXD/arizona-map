@@ -19692,18 +19692,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1643,
-    "server_id": 26,
-    "type": "house",
-    "name": "Toni House",
-    "owner": "Aleksandr_Kostolev",
-    "status": "Занято",
-    "x": -594.8129,
-    "y": -1056.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1644,
     "server_id": 26,
     "type": "house",
@@ -21076,7 +21064,7 @@
     "server_id": 26,
     "type": "house",
     "name": "ДОЗАНАТОР",
-    "owner": "Saymon_Torenno",
+    "owner": "Georgy_Torenno",
     "status": "Занято",
     "x": 2601.64,
     "y": 2202.01,
@@ -23820,18 +23808,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1987,
-    "server_id": 26,
-    "type": "house",
-    "name": "Suprovech Corp",
-    "owner": "Stormy_Suprovech",
-    "status": "Занято",
-    "x": -768.5989,
-    "y": 2765.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1988,
     "server_id": 26,
     "type": "house",
@@ -24104,18 +24080,6 @@
     "status": "Занято",
     "x": 1730.37,
     "y": 2826.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2011,
-    "server_id": 26,
-    "type": "house",
-    "name": "karatel squad",
-    "owner": "Aleksandr_Kostolev",
-    "status": "Занято",
-    "x": 1740.79,
-    "y": 2863.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25152,6 +25116,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2099,
+    "server_id": 26,
+    "type": "house",
+    "name": "Архипелаг Грёз",
+    "owner": "Roman_Bondi",
+    "status": "Занято",
+    "x": 7.3228,
+    "y": 1008.63,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 21,
     "server_id": 26,
     "type": "house",
@@ -25164,14 +25140,38 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2099,
+    "id": 1643,
     "server_id": 26,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
+    "name": "Toni House",
+    "owner": "Aleksandr_Kostolev",
     "status": "Аукцион",
-    "x": 7.3228,
-    "y": 1008.63,
+    "x": -594.8129,
+    "y": -1056.87,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1987,
+    "server_id": 26,
+    "type": "house",
+    "name": "Suprovech Corp",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": -768.5989,
+    "y": 2765.4,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2011,
+    "server_id": 26,
+    "type": "house",
+    "name": "karatel squad",
+    "owner": "Aleksandr_Kostolev",
+    "status": "Аукцион",
+    "x": 1740.79,
+    "y": 2863.35,
     "price": 1000,
     "district": "Сан-Андреас"
   },
@@ -25185,30 +25185,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 91,
-    "server_id": 26,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Lovec_Pisunov",
-    "status": "Аукцион",
-    "x": 2186.91,
-    "y": 1113.35,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Despair_Empressions",
-    "status": "Аукцион",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 130000,
     "district": "Сан-Андреас"
   },
   {
@@ -25484,6 +25460,18 @@
     "status": "Занято",
     "x": -36.098,
     "y": 2349.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 91,
+    "server_id": 26,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Lovec_Pisunov",
+    "status": "Занято",
+    "x": 2186.91,
+    "y": 1113.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27296,6 +27284,18 @@
     "status": "Занято",
     "x": 693.619,
     "y": 1967.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Stormy_Suprovech",
+    "status": "Занято",
+    "x": -2103.59,
+    "y": -2342.04,
     "price": 0,
     "district": "Сан-Андреас"
   },

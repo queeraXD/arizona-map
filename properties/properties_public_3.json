@@ -3784,7 +3784,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Бог",
-    "owner": "Feramon_Cacciatore",
+    "owner": "Domingo_Alvarez",
     "status": "Занято",
     "x": 1959.61,
     "y": -1069.92,
@@ -9032,18 +9032,6 @@
     "status": "Занято",
     "x": -2641.07,
     "y": 935.7189,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 753,
-    "server_id": 3,
-    "type": "house",
-    "name": "дом:Uzbeka",
-    "owner": "Asad_Uzbelas",
-    "status": "Занято",
-    "x": -2642.31,
-    "y": 728.0339,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18120,18 +18108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1512,
-    "server_id": 3,
-    "type": "house",
-    "name": ".:: Designed by Bell Cranel ::.",
-    "owner": "Mex_Mex",
-    "status": "Занято",
-    "x": 2129.58,
-    "y": -1361.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1514,
     "server_id": 3,
     "type": "house",
@@ -23976,6 +23952,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 753,
+    "server_id": 3,
+    "type": "house",
+    "name": "дом:Uzbeka",
+    "owner": "Asad_Uzbelas",
+    "status": "Аукцион",
+    "x": -2642.31,
+    "y": 728.0339,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 761,
     "server_id": 3,
     "type": "house",
@@ -23985,6 +23973,18 @@
     "x": -2700.33,
     "y": 820.8649,
     "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1512,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mex_Mex",
+    "status": "Аукцион",
+    "x": 2129.58,
+    "y": -1361.69,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {

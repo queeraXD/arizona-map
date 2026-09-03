@@ -2799,8 +2799,8 @@
     "id": 233,
     "server_id": 32,
     "type": "house",
-    "name": "Legendary Murky",
-    "owner": "Murky_Mercy",
+    "name": "Мерси Ван Лав :3",
+    "owner": "Ronald_Mercy",
     "status": "Занято",
     "x": 470.8739,
     "y": -1164.12,
@@ -19164,18 +19164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1632,
-    "server_id": 32,
-    "type": "house",
-    "name": "Pride",
-    "owner": "Vor_Vpogonah",
-    "status": "Занято",
-    "x": 26.7684,
-    "y": 1361.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1633,
     "server_id": 32,
     "type": "house",
@@ -21792,18 +21780,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1855,
-    "server_id": 32,
-    "type": "house",
-    "name": "GodDarkness 1",
-    "owner": "German_Sky",
-    "status": "Занято",
-    "x": 2656.49,
-    "y": 1968.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1856,
     "server_id": 32,
     "type": "house",
@@ -22440,6 +22416,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1632,
+    "server_id": 32,
+    "type": "house",
+    "name": "Pride",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 26.7684,
+    "y": 1361.9,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1751,
     "server_id": 32,
     "type": "house",
@@ -22488,6 +22476,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1855,
+    "server_id": 32,
+    "type": "house",
+    "name": "GodDarkness 1",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2656.49,
+    "y": 1968.83,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1907,
     "server_id": 32,
     "type": "house",
@@ -22533,18 +22533,6 @@
     "x": 1315.5,
     "y": -898.048,
     "price": 330000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 94,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Basota_Vs",
-    "status": "Аукцион",
-    "x": 1966.2,
-    "y": 1623.14,
-    "price": 130000,
     "district": "Сан-Андреас"
   },
   {
@@ -22844,6 +22832,18 @@
     "status": "Занято",
     "x": 2506.95,
     "y": 2120.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 94,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Basota_Vs",
+    "status": "Занято",
+    "x": 1966.2,
+    "y": 1623.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24712,7 +24712,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Aleksandr_Emberheart",
+    "owner": "Oplya",
     "status": "Занято",
     "x": 2262.75,
     "y": 2036.09,
