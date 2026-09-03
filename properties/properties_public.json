@@ -4288,7 +4288,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Awa_Iwai",
+    "owner": "Mike_Ehrmantraut",
     "status": "Занято",
     "x": 1179.89,
     "y": -1261.04,
@@ -4336,7 +4336,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Awa_Iwai",
+    "owner": "Mike_Ehrmantraut",
     "status": "Занято",
     "x": 1187.44,
     "y": -1260.88,
@@ -7635,8 +7635,8 @@
     "id": 648,
     "server_id": 33,
     "type": "house",
-    "name": "Furry Squad",
-    "owner": "Hunter_Osobov",
+    "name": "JesusHouse",
+    "owner": "Artem_Pudchenko",
     "status": "Занято",
     "x": 2449.23,
     "y": 689.8359,
@@ -8712,6 +8712,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 741,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kirill_Black",
+    "status": "Занято",
+    "x": -2860.27,
+    "y": 835.6959,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 742,
     "server_id": 33,
     "type": "house",
@@ -9615,7 +9627,7 @@
     "id": 817,
     "server_id": 33,
     "type": "house",
-    "name": "Украіна",
+    "name": "dnevnikru",
     "owner": "Dneeevnik_Ru",
     "status": "Занято",
     "x": -2621.01,
@@ -10724,18 +10736,6 @@
     "status": "Занято",
     "x": -2126.55,
     "y": 1050.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 912,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Damage_Net",
-    "status": "Занято",
-    "x": -2126.87,
-    "y": 1069.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14728,7 +14728,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "PayPal",
+    "owner": "Ryan_Pharaoh",
     "status": "Занято",
     "x": -2351.14,
     "y": 1281.39,
@@ -16371,7 +16371,7 @@
     "id": 1391,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "Euphoria",
     "owner": "Jlexa_Tadjik",
     "status": "Занято",
     "x": 1115.72,
@@ -20908,7 +20908,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Paradise_Lost",
+    "owner": "Kostik_Bursevich",
     "status": "Занято",
     "x": 2629.72,
     "y": 2029.23,
@@ -22104,18 +22104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 741,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kirill_Black",
-    "status": "Аукцион",
-    "x": -2860.27,
-    "y": 835.6959,
-    "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 906,
     "server_id": 33,
     "type": "house",
@@ -22125,6 +22113,18 @@
     "x": -2126.7,
     "y": 978.411,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 912,
+    "server_id": 33,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Damage_Net",
+    "status": "Аукцион",
+    "x": -2126.87,
+    "y": 1069.24,
+    "price": 1399,
     "district": "Сан-Андреас"
   },
   {
@@ -22521,18 +22521,6 @@
     "x": 2085.84,
     "y": 2486.25,
     "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 182,
-    "server_id": 33,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Tiho_NeSpesha",
-    "status": "Аукцион",
-    "x": 1104.78,
-    "y": 1380.93,
-    "price": 22000,
     "district": "Сан-Андреас"
   },
   {
@@ -25340,6 +25328,18 @@
     "status": "Занято",
     "x": 2029.71,
     "y": 986.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 182,
+    "server_id": 33,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Tiho_NeSpesha",
+    "status": "Занято",
+    "x": 1104.78,
+    "y": 1380.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
