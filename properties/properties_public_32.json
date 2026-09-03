@@ -1216,7 +1216,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Karim_Monolit",
+    "owner": "Karen_Monolit",
     "status": "Занято",
     "x": 2650.38,
     "y": -2021.82,
@@ -14212,7 +14212,7 @@
     "server_id": 32,
     "type": "house",
     "name": "дом в сф у моря",
-    "owner": "Gustav_Elijah",
+    "owner": "Lovec_Pisunov",
     "status": "Занято",
     "x": -2791.87,
     "y": -24.3971,
@@ -21204,18 +21204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1803,
-    "server_id": 32,
-    "type": "house",
-    "name": "Пиратство",
-    "owner": "Roronoa_Zoro",
-    "status": "Занято",
-    "x": 2610.33,
-    "y": 2162.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1804,
     "server_id": 32,
     "type": "house",
@@ -22464,6 +22452,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1803,
+    "server_id": 32,
+    "type": "house",
+    "name": "Пиратство",
+    "owner": "Roronoa_Zoro",
+    "status": "Аукцион",
+    "x": 2610.33,
+    "y": 2162.9,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1821,
     "server_id": 32,
     "type": "house",
@@ -22509,6 +22509,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 249,
+    "server_id": 32,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Oskar_Bratishkin",
+    "status": "Аукцион",
+    "x": 111.076,
+    "y": -1782.68,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -23912,18 +23924,6 @@
     "status": "Занято",
     "x": 2637.25,
     "y": 1129.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 249,
-    "server_id": 32,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Oskar_Bratishkin",
-    "status": "Занято",
-    "x": 111.076,
-    "y": -1782.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
