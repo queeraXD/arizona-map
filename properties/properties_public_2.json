@@ -5500,7 +5500,7 @@
     "server_id": 2,
     "type": "house",
     "name": "whitty\\\"s house",
-    "owner": "Whitty_Ballistic",
+    "owner": "Escobar_Darkness",
     "status": "Занято",
     "x": 2094.12,
     "y": 650.4459,
@@ -5772,6 +5772,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 481,
+    "server_id": 2,
+    "type": "house",
+    "name": "Не продается",
+    "owner": "Ghost_Rampage",
+    "status": "Занято",
+    "x": 2228.36,
+    "y": 734.7039,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 482,
     "server_id": 2,
     "type": "house",
@@ -5787,8 +5799,8 @@
     "id": 483,
     "server_id": 2,
     "type": "house",
-    "name": "Домик Escobara Darknesa ",
-    "owner": "Escobar_Darkness",
+    "name": "Берлога Milly",
+    "owner": "Milly_Muller",
     "status": "Занято",
     "x": 2177.57,
     "y": 735.885,
@@ -7784,6 +7796,18 @@
     "status": "Занято",
     "x": 2317.15,
     "y": 690.3499,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 651,
+    "server_id": 2,
+    "type": "house",
+    "name": "Не продается",
+    "owner": "Maxim_LI",
+    "status": "Занято",
+    "x": 2205.85,
+    "y": 736.3439,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10564,7 +10588,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Home Island",
-    "owner": "Sano_Manjero",
+    "owner": "Rase_Gremory",
     "status": "Занято",
     "x": -2634.95,
     "y": 2402.72,
@@ -12896,18 +12920,6 @@
     "status": "Занято",
     "x": -2240.57,
     "y": 785.9639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1081,
-    "server_id": 2,
-    "type": "house",
-    "name": "Шкаф забит, улучшения почти фул",
-    "owner": "Andrew_Polskii",
-    "status": "Занято",
-    "x": -2223.78,
-    "y": 795.702,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23856,18 +23868,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 481,
-    "server_id": 2,
-    "type": "house",
-    "name": "Не продается",
-    "owner": "Ghost_Rampage",
-    "status": "Аукцион",
-    "x": 2228.36,
-    "y": 734.7039,
-    "price": 15000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 592,
     "server_id": 2,
     "type": "house",
@@ -23877,18 +23877,6 @@
     "x": -2219.86,
     "y": -2400.42,
     "price": 25000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 651,
-    "server_id": 2,
-    "type": "house",
-    "name": "Не продается",
-    "owner": "Ghost_Rampage",
-    "status": "Аукцион",
-    "x": 2205.85,
-    "y": 736.3439,
-    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -23913,6 +23901,18 @@
     "x": -2726.67,
     "y": 822.992,
     "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1081,
+    "server_id": 2,
+    "type": "house",
+    "name": "Шкаф забит, улучшения почти фул",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2223.78,
+    "y": 795.702,
+    "price": 150,
     "district": "Сан-Андреас"
   },
   {

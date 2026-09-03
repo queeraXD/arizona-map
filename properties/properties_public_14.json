@@ -135,8 +135,8 @@
     "id": 11,
     "server_id": 14,
     "type": "house",
-    "name": "Дом",
-    "owner": "Anastasiya_Ploho",
+    "name": "Morris-Fam",
+    "owner": "Alexey_Morris",
     "status": "Занято",
     "x": 2093.85,
     "y": -1122.68,
@@ -4820,18 +4820,6 @@
     "status": "Занято",
     "x": 2411.22,
     "y": -5.5777,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 404,
-    "server_id": 14,
-    "type": "house",
-    "name": "Живет Божественный Гошан",
-    "owner": "Www_Www",
-    "status": "Занято",
-    "x": 2416.56,
-    "y": 17.9109,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23700,6 +23688,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 404,
+    "server_id": 14,
+    "type": "house",
+    "name": "Живет Божественный Гошан",
+    "owner": "Www_Www",
+    "status": "Аукцион",
+    "x": 2416.56,
+    "y": 17.9109,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 57,
     "server_id": 14,
     "type": "business",
@@ -23721,18 +23721,6 @@
     "x": -91.2371,
     "y": 1188.43,
     "price": 120000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 101,
-    "server_id": 14,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Sonic_Arctic",
-    "status": "Аукцион",
-    "x": -2242.28,
-    "y": -170.898,
-    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -24440,6 +24428,18 @@
     "status": "Занято",
     "x": -227.385,
     "y": 2711.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 101,
+    "server_id": 14,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Sonic_Arctic",
+    "status": "Занято",
+    "x": -2242.28,
+    "y": -170.898,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27844,7 +27844,7 @@
     "server_id": 14,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Zavetniy_Son",
+    "owner": "Lazer_Dim",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
