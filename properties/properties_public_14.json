@@ -988,7 +988,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Morales turns the world",
-    "owner": "Rina_Morales",
+    "owner": "Rina_Rinova",
     "status": "Занято",
     "x": 2069.08,
     "y": -1628.9,
@@ -4196,6 +4196,18 @@
     "status": "Занято",
     "x": 1249.51,
     "y": -877.4349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 351,
+    "server_id": 14,
+    "type": "house",
+    "name": "Overdose",
+    "owner": "Maga_Borec",
+    "status": "Занято",
+    "x": 1283.53,
+    "y": -897.7899,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20448,18 +20460,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1709,
-    "server_id": 14,
-    "type": "house",
-    "name": "ваззерс",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": 1898.47,
-    "y": -1979.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1710,
     "server_id": 14,
     "type": "house",
@@ -23608,7 +23608,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Дом",
-    "owner": "Web_World",
+    "owner": "Monty_Kristo",
     "status": "Занято",
     "x": 6.7789,
     "y": 1011.7,
@@ -23637,18 +23637,6 @@
     "x": 2650.38,
     "y": -2021.82,
     "price": 55000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 351,
-    "server_id": 14,
-    "type": "house",
-    "name": "Overdose",
-    "owner": "Maga_Borec",
-    "status": "Аукцион",
-    "x": 1283.53,
-    "y": -897.7899,
-    "price": 7500,
     "district": "Сан-Андреас"
   },
   {
@@ -23684,7 +23672,19 @@
     "status": "Аукцион",
     "x": 841.2219,
     "y": -1471.36,
-    "price": 55000,
+    "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1709,
+    "server_id": 14,
+    "type": "house",
+    "name": "ваззерс",
+    "owner": "Spike_Scout",
+    "status": "Аукцион",
+    "x": 1898.47,
+    "y": -1979.62,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {

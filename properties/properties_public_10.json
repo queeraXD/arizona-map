@@ -6600,18 +6600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 550,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jaden_Gusev",
-    "status": "Занято",
-    "x": 618.3629,
-    "y": 1168.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 551,
     "server_id": 10,
     "type": "house",
@@ -8204,18 +8192,6 @@
     "status": "Занято",
     "x": 986.117,
     "y": 2314.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 684,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ivan_Abyshev",
-    "status": "Занято",
-    "x": -2582.2,
-    "y": 2307.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11340,6 +11316,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 946,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Timur_Shpakov",
+    "status": "Занято",
+    "x": -2282.42,
+    "y": 999.619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 947,
     "server_id": 10,
     "type": "house",
@@ -11652,6 +11640,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 974,
+    "server_id": 10,
+    "type": "house",
+    "name": "@YMER1 тг, связь грязь ауе",
+    "owner": "Nikita_Debebe",
+    "status": "Занято",
+    "x": -2479.06,
+    "y": 2509.42,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 975,
     "server_id": 10,
     "type": "house",
@@ -11660,6 +11660,30 @@
     "status": "Занято",
     "x": -2464.03,
     "y": 2486.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 976,
+    "server_id": 10,
+    "type": "house",
+    "name": "@YMER1 тг, связь грязь ауе",
+    "owner": "Nikita_Debebe",
+    "status": "Занято",
+    "x": -2446.17,
+    "y": 2491.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 977,
+    "server_id": 10,
+    "type": "house",
+    "name": "@YMER1 тг, связь грязь ауе",
+    "owner": "Nikita_Debebe",
+    "status": "Занято",
+    "x": -2422.26,
+    "y": 2491.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22456,7 +22480,7 @@
     "server_id": 10,
     "type": "house",
     "name": "_BENZ_",
-    "owner": "Sander_Skyworth",
+    "owner": "Rita_Skyworth",
     "status": "Занято",
     "x": 2623.65,
     "y": 2039.48,
@@ -22468,7 +22492,7 @@
     "server_id": 10,
     "type": "house",
     "name": "_BENZ_",
-    "owner": "Rayn_Skyworth",
+    "owner": "Rita_Skyworth",
     "status": "Занято",
     "x": 2620.38,
     "y": 2029.23,
@@ -23232,15 +23256,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 946,
+    "id": 684,
     "server_id": 10,
     "type": "house",
     "name": "Дом",
-    "owner": "Timur_Shpakov",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2582.2,
+    "y": 2307.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 550,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jaden_Gusev",
     "status": "Аукцион",
-    "x": -2282.42,
-    "y": 999.619,
-    "price": 999,
+    "x": 618.3629,
+    "y": 1168.83,
+    "price": 3600,
     "district": "Сан-Андреас"
   },
   {
@@ -23253,42 +23289,6 @@
     "x": -2424.9,
     "y": 2448.35,
     "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 974,
-    "server_id": 10,
-    "type": "house",
-    "name": "@YMER1 тг, связь грязь ауе",
-    "owner": "Nikita_Debebe",
-    "status": "Аукцион",
-    "x": -2479.06,
-    "y": 2509.42,
-    "price": 2500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 976,
-    "server_id": 10,
-    "type": "house",
-    "name": "@YMER1 тг, связь грязь ауе",
-    "owner": "Nikita_Debebe",
-    "status": "Аукцион",
-    "x": -2446.17,
-    "y": 2491.81,
-    "price": 2500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 977,
-    "server_id": 10,
-    "type": "house",
-    "name": "@YMER1 тг, связь грязь ауе",
-    "owner": "Nikita_Debebe",
-    "status": "Аукцион",
-    "x": -2422.26,
-    "y": 2491.39,
-    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
@@ -23349,6 +23349,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 55,
+    "server_id": 10,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": 2262.75,
+    "y": 2036.09,
+    "price": 150123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 10,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": 2366.7,
+    "y": 2071.11,
+    "price": 150123,
     "district": "Сан-Андреас"
   },
   {
@@ -25428,18 +25452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 296,
-    "server_id": 10,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": 2366.7,
-    "y": 2071.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 357,
     "server_id": 10,
     "type": "business",
@@ -25544,18 +25556,6 @@
     "status": "Занято",
     "x": 2200.76,
     "y": 1394.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 55,
-    "server_id": 10,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": 2262.75,
-    "y": 2036.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
