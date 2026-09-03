@@ -7876,7 +7876,7 @@
     "server_id": 10,
     "type": "house",
     "name": "НИЗ ЛВ",
-    "owner": "Aura_Hardi",
+    "owner": "Rey_Evans",
     "status": "Занято",
     "x": 1978.35,
     "y": 665.8079,
@@ -9400,7 +9400,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Дом с депом",
-    "owner": "Luiso_King",
+    "owner": "Jonny_Bro",
     "status": "Занято",
     "x": -2513.51,
     "y": 830.83,
@@ -11600,18 +11600,6 @@
     "status": "Занято",
     "x": -2472.46,
     "y": 2450.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 969,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dexter_Parliament",
-    "status": "Занято",
-    "x": -2424.9,
-    "y": 2448.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15200,18 +15188,6 @@
     "status": "Занято",
     "x": -2723.1,
     "y": 21.905,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1273,
-    "server_id": 10,
-    "type": "house",
-    "name": "ParadiseX Family",
-    "owner": "Tom_Swezzy",
-    "status": "Занято",
-    "x": -2722.11,
-    "y": 14.4434,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19064,18 +19040,6 @@
     "status": "Занято",
     "x": 2751.5,
     "y": -1962.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1595,
-    "server_id": 10,
-    "type": "house",
-    "name": "Хата Merce | Фамы Rozzetka",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 2751.5,
-    "y": -1936.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,6 +23244,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 969,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dexter_Parliament",
+    "status": "Аукцион",
+    "x": -2424.9,
+    "y": 2448.35,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 974,
     "server_id": 10,
     "type": "house",
@@ -23325,6 +23301,30 @@
     "x": -1728.11,
     "y": 1158.95,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1273,
+    "server_id": 10,
+    "type": "house",
+    "name": "ParadiseX Family",
+    "owner": "Tom_Swezzy",
+    "status": "Аукцион",
+    "x": -2722.11,
+    "y": 14.4434,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1595,
+    "server_id": 10,
+    "type": "house",
+    "name": "Хата Merce | Фамы Rozzetka",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 2751.5,
+    "y": -1936.46,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {

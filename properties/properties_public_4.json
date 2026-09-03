@@ -4692,30 +4692,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 394,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом за 8ккк",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2197.81,
-    "y": -60.608,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 395,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом за 9ккк",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2200.47,
-    "y": -37.3367,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 396,
     "server_id": 4,
     "type": "house",
@@ -5048,18 +5024,6 @@
     "status": "Занято",
     "x": 295.144,
     "y": -54.6627,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 427,
-    "server_id": 4,
-    "type": "house",
-    "name": "sell 5ккк|лучше не найдешь тут",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 271.57,
-    "y": -48.9888,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19932,6 +19896,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1675,
+    "server_id": 4,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Alan_Harvey",
+    "status": "Занято",
+    "x": -2683.0,
+    "y": 192.8119,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1676,
     "server_id": 4,
     "type": "house",
@@ -20756,18 +20732,6 @@
     "status": "Занято",
     "x": 1911.87,
     "y": 663.578,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1745,
-    "server_id": 4,
-    "type": "house",
-    "name": "деп услов,  1 стр. шкафа, ",
-    "owner": "Johnny_Stark",
-    "status": "Занято",
-    "x": 1897.93,
-    "y": 663.577,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25104,6 +25068,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 394,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом за 8ккк",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2197.81,
+    "y": -60.608,
+    "price": 102000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 395,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом за 9ккк",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2200.47,
+    "y": -37.3367,
+    "price": 114000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 398,
     "server_id": 4,
     "type": "house",
@@ -25137,6 +25125,18 @@
     "x": 2438.82,
     "y": -54.6911,
     "price": 102000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 427,
+    "server_id": 4,
+    "type": "house",
+    "name": "sell 5ккк|лучше не найдешь тут",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 271.57,
+    "y": -48.9888,
+    "price": 60000,
     "district": "Сан-Андреас"
   },
   {
@@ -25224,15 +25224,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1675,
+    "id": 1745,
     "server_id": 4,
     "type": "house",
-    "name": "pes family",
-    "owner": "Vova_Gnevvv",
+    "name": "деп услов,  1 стр. шкафа, ",
+    "owner": "Johnny_Stark",
     "status": "Аукцион",
-    "x": -2683.0,
-    "y": 192.8119,
-    "price": 1000,
+    "x": 1897.93,
+    "y": 663.577,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
