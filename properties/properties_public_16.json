@@ -3340,7 +3340,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Neys House",
-    "owner": "Smonar_Insane",
+    "owner": "Roma_Neys",
     "status": "Занято",
     "x": 2194.16,
     "y": -1000.94,
@@ -3656,18 +3656,6 @@
     "status": "Занято",
     "x": 2060.47,
     "y": -1076.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 306,
-    "server_id": 16,
-    "type": "house",
-    "name": "Андрюхина Берлога",
-    "owner": "Mog_Ger",
-    "status": "Занято",
-    "x": 1895.99,
-    "y": -1064.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9744,18 +9732,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 816,
-    "server_id": 16,
-    "type": "house",
-    "name": "$DORIANO?$",
-    "owner": "Artem_Leontiev",
-    "status": "Занято",
-    "x": -2688.33,
-    "y": -175.0939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 817,
     "server_id": 16,
     "type": "house",
@@ -15403,18 +15379,6 @@
     "owner": "Owen_Thompson",
     "status": "Занято",
     "x": -2303.45,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1293,
-    "server_id": 16,
-    "type": "house",
-    "name": "ТУРЫЧ В ГОРОДЕ",
-    "owner": "Mog_Ger",
-    "status": "Занято",
-    "x": -2321.73,
     "y": 656.7349,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22344,6 +22308,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 306,
+    "server_id": 16,
+    "type": "house",
+    "name": "Андрюхина Берлога",
+    "owner": "Mog_Ger",
+    "status": "Аукцион",
+    "x": 1895.99,
+    "y": -1064.77,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 640,
     "server_id": 16,
     "type": "house",
@@ -22377,6 +22353,18 @@
     "x": -2576.56,
     "y": 819.7999,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 816,
+    "server_id": 16,
+    "type": "house",
+    "name": "$DORIANO?$",
+    "owner": "Artem_Leontiev",
+    "status": "Аукцион",
+    "x": -2688.33,
+    "y": -175.0939,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {
@@ -22425,6 +22413,18 @@
     "x": -2477.93,
     "y": 1264.11,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1293,
+    "server_id": 16,
+    "type": "house",
+    "name": "ТУРЫЧ В ГОРОДЕ",
+    "owner": "Mog_Ger",
+    "status": "Аукцион",
+    "x": -2321.73,
+    "y": 656.7349,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {

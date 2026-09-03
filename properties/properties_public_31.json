@@ -168,6 +168,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 14,
+    "server_id": 31,
+    "type": "house",
+    "name": "Qonstatez House | Mining 2",
+    "owner": "Ajazz_Qonstatez",
+    "status": "Занято",
+    "x": 2091.5,
+    "y": -1184.36,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 15,
     "server_id": 31,
     "type": "house",
@@ -4200,18 +4212,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 351,
-    "server_id": 31,
-    "type": "house",
-    "name": "Patrick Home №4",
-    "owner": "Patrick_Sand",
-    "status": "Занято",
-    "x": 1283.53,
-    "y": -897.7899,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 352,
     "server_id": 31,
     "type": "house",
@@ -6972,18 +6972,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 582,
-    "server_id": 31,
-    "type": "house",
-    "name": "Patrick Home №1",
-    "owner": "Patrick_Sand",
-    "status": "Занято",
-    "x": -275.376,
-    "y": 2736.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 583,
     "server_id": 31,
     "type": "house",
@@ -8028,18 +8016,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 670,
-    "server_id": 31,
-    "type": "house",
-    "name": "Patrick Home №2",
-    "owner": "Patrick_Sand",
-    "status": "Занято",
-    "x": 1084.33,
-    "y": 2031.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 671,
     "server_id": 31,
     "type": "house",
@@ -8216,18 +8192,6 @@
     "status": "Занято",
     "x": 1225.28,
     "y": 2584.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 686,
-    "server_id": 31,
-    "type": "house",
-    "name": "Patrick Home №3",
-    "owner": "Patrick_Sand",
-    "status": "Занято",
-    "x": 1223.02,
-    "y": 2616.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10203,7 +10167,7 @@
     "id": 851,
     "server_id": 31,
     "type": "house",
-    "name": "Qonstatez House",
+    "name": "Qonstatez House | Mining 1",
     "owner": "Ajazz_Qonstatez",
     "status": "Занято",
     "x": -2189.26,
@@ -23316,15 +23280,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 14,
+    "id": 351,
     "server_id": 31,
     "type": "house",
-    "name": "House of Gods Knights | 2",
-    "owner": "Ares_Spartillion",
-    "status": "Аукцион",
-    "x": 2091.5,
-    "y": -1184.36,
-    "price": 25000,
+    "name": "Patrick Home №4",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1283.53,
+    "y": -897.7899,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 582,
+    "server_id": 31,
+    "type": "house",
+    "name": "Patrick Home №1",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -275.376,
+    "y": 2736.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 670,
+    "server_id": 31,
+    "type": "house",
+    "name": "Patrick Home №2",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1084.33,
+    "y": 2031.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 686,
+    "server_id": 31,
+    "type": "house",
+    "name": "Patrick Home №3",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1223.02,
+    "y": 2616.74,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
