@@ -8904,18 +8904,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 745,
-    "server_id": 32,
-    "type": "house",
-    "name": ":house:",
-    "owner": "Kayomi_Paradise",
-    "status": "Занято",
-    "x": -2710.75,
-    "y": 967.4719,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 746,
     "server_id": 32,
     "type": "house",
@@ -21144,6 +21132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1797,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Rudy_Mori",
+    "status": "Занято",
+    "x": 2620.27,
+    "y": 2156.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1798,
     "server_id": 32,
     "type": "house",
@@ -22428,6 +22428,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 745,
+    "server_id": 32,
+    "type": "house",
+    "name": ":house:",
+    "owner": "Kayomi_Paradise",
+    "status": "Аукцион",
+    "x": -2710.75,
+    "y": 967.4719,
+    "price": 80000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 911,
     "server_id": 32,
     "type": "house",
@@ -22449,18 +22461,6 @@
     "x": 1816.29,
     "y": -1292.68,
     "price": 6700,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1797,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 2620.27,
-    "y": 2156.39,
-    "price": 150,
     "district": "Сан-Андреас"
   },
   {
@@ -22509,18 +22509,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 74,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 2104.24,
-    "y": 2678.92,
-    "price": 150,
     "district": "Сан-Андреас"
   },
   {
@@ -23168,6 +23156,18 @@
     "status": "Занято",
     "x": 1657.04,
     "y": 1741.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 74,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Jonny_Bravo",
+    "status": "Занято",
+    "x": 2104.24,
+    "y": 2678.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24196,7 +24196,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Vasiliy_Vakulenko",
+    "owner": "Akio_Mercy",
     "status": "Занято",
     "x": 1038.22,
     "y": -1340.73,

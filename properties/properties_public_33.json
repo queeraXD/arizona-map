@@ -1056,18 +1056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 88,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Andryusha_Tinilin",
-    "status": "Занято",
-    "x": 2014.91,
-    "y": -1732.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 89,
     "server_id": 33,
     "type": "house",
@@ -6484,7 +6472,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Criminal_Beat",
+    "owner": "Thai_Lung",
     "status": "Занято",
     "x": 1517.45,
     "y": -93.2789,
@@ -11572,7 +11560,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Odi_Wheeler",
+    "owner": "Minato_Suzuki",
     "status": "Занято",
     "x": -2398.35,
     "y": 2409.29,
@@ -20488,7 +20476,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Artem_Cuerto",
+    "owner": "Vladimir_Drey",
     "status": "Занято",
     "x": 2634.42,
     "y": 2195.56,
@@ -20572,7 +20560,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Artem_Cuerto",
+    "owner": "Andrey_Drey",
     "status": "Занято",
     "x": 2643.8,
     "y": 2195.56,
@@ -22104,6 +22092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 88,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Andryusha_Tinilin",
+    "status": "Аукцион",
+    "x": 2014.91,
+    "y": -1732.61,
+    "price": 6700,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 198,
     "server_id": 33,
     "type": "house",
@@ -22509,18 +22509,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 182,
-    "server_id": 33,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Tiho_NeSpesha",
-    "status": "Аукцион",
-    "x": 1104.78,
-    "y": 1380.93,
-    "price": 22000,
     "district": "Сан-Андреас"
   },
   {
@@ -23008,7 +22996,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Atlas_God",
+    "owner": "Criminal_Beat",
     "status": "Занято",
     "x": 171.86,
     "y": -200.879,
@@ -25340,6 +25328,18 @@
     "status": "Занято",
     "x": 2029.71,
     "y": 986.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 182,
+    "server_id": 33,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Tiho_NeSpesha",
+    "status": "Занято",
+    "x": 1104.78,
+    "y": 1380.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
