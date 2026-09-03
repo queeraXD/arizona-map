@@ -1056,6 +1056,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 88,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Andryusha_Tinilin",
+    "status": "Занято",
+    "x": 2014.91,
+    "y": -1732.61,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 89,
     "server_id": 33,
     "type": "house",
@@ -8756,18 +8768,6 @@
     "status": "Занято",
     "x": -2904.9,
     "y": 1178.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 734,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "LEADER",
-    "status": "Занято",
-    "x": -2904.37,
-    "y": 1118.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19780,7 +19780,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Patriarch_Tserkovny",
+    "owner": "Shini_Desu",
     "status": "Занято",
     "x": 2487.37,
     "y": -1366.2,
@@ -22104,15 +22104,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 88,
+    "id": 734,
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Andryusha_Tinilin",
+    "owner": "Leader_Leader",
     "status": "Аукцион",
-    "x": 2014.91,
-    "y": -1732.61,
-    "price": 6700,
+    "x": -2904.37,
+    "y": 1118.84,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
@@ -22509,18 +22509,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 266,
-    "server_id": 33,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Igoryan_Promahov",
-    "status": "Аукцион",
-    "x": 947.921,
-    "y": 1719.16,
-    "price": 16000,
     "district": "Сан-Андреас"
   },
   {
@@ -25724,6 +25712,18 @@
     "status": "Занято",
     "x": 2824.77,
     "y": 1290.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 266,
+    "server_id": 33,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Igoryan_Promahov",
+    "status": "Занято",
+    "x": 947.921,
+    "y": 1719.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
