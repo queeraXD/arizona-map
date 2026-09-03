@@ -411,8 +411,8 @@
     "id": 34,
     "server_id": 19,
     "type": "house",
-    "name": "Дом",
-    "owner": "Arise_Leveling",
+    "name": "Leveling",
+    "owner": "Shadow_Leveling",
     "status": "Занято",
     "x": 2439.65,
     "y": -1338.73,
@@ -9420,6 +9420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 785,
+    "server_id": 19,
+    "type": "house",
+    "name": "деп условия + подвалы",
+    "owner": "lovecult",
+    "status": "Занято",
+    "x": -2513.5,
+    "y": 867.418,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 786,
     "server_id": 19,
     "type": "house",
@@ -12432,18 +12444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1038,
-    "server_id": 19,
-    "type": "house",
-    "name": "dostavka lovlya",
-    "owner": "Kimmi_Toxiclamee",
-    "status": "Занято",
-    "x": -1776.13,
-    "y": 1115.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1039,
     "server_id": 19,
     "type": "house",
@@ -12836,18 +12836,6 @@
     "status": "Занято",
     "x": -2905.1,
     "y": 1154.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1072,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kimmi_Toxiclamee",
-    "status": "Занято",
-    "x": -2904.47,
-    "y": 1101.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14856,18 +14844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1240,
-    "server_id": 19,
-    "type": "house",
-    "name": "FAMHAUSE",
-    "owner": "Lewis_Gremory",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1262.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1241,
     "server_id": 19,
     "type": "house",
@@ -15128,18 +15104,6 @@
     "status": "Занято",
     "x": -2372.53,
     "y": 614.0969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1263,
-    "server_id": 19,
-    "type": "house",
-    "name": "Rusell",
-    "owner": "Kimmi_Toxiclamee",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 595.7219,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18511,18 +18475,6 @@
     "owner": "Psycho_Acidsun",
     "status": "Занято",
     "x": 1911.91,
-    "y": 663.577,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1545,
-    "server_id": 19,
-    "type": "house",
-    "name": "Seller | 1",
-    "owner": "Alexonchik_Trips",
-    "status": "Занято",
-    "x": 1904.93,
     "y": 663.577,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22008,15 +21960,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 785,
+    "id": 1545,
     "server_id": 19,
     "type": "house",
-    "name": "деп условия + подвалы",
-    "owner": "lovecult",
+    "name": "Seller | 1",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1904.93,
+    "y": 663.577,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1038,
+    "server_id": 19,
+    "type": "house",
+    "name": "dostavka lovlya",
+    "owner": "Kimmi_Toxiclamee",
     "status": "Аукцион",
-    "x": -2513.5,
-    "y": 867.418,
-    "price": 500,
+    "x": -1776.13,
+    "y": 1115.2,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1072,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kimmi_Toxiclamee",
+    "status": "Аукцион",
+    "x": -2904.47,
+    "y": 1101.11,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1240,
+    "server_id": 19,
+    "type": "house",
+    "name": "FAMHAUSE",
+    "owner": "Lewis_Gremory",
+    "status": "Аукцион",
+    "x": -2383.14,
+    "y": 1262.97,
+    "price": 2800,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1263,
+    "server_id": 19,
+    "type": "house",
+    "name": "Rusell",
+    "owner": "Kimmi_Toxiclamee",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 595.7219,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
