@@ -5524,7 +5524,7 @@
     "server_id": 24,
     "type": "house",
     "name": "rezo castle",
-    "owner": "Rezo_Blackwood",
+    "owner": "Samp_Bet",
     "status": "Занято",
     "x": 2178.13,
     "y": 655.619,
@@ -11436,18 +11436,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 958,
-    "server_id": 24,
-    "type": "house",
-    "name": "ляля",
-    "owner": "Killua_Zoldik",
-    "status": "Занято",
-    "x": -2229.52,
-    "y": 934.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 959,
     "server_id": 24,
     "type": "house",
@@ -14943,7 +14931,7 @@
     "id": 1250,
     "server_id": 24,
     "type": "house",
-    "name": "Сдача бочек СФ (пирс)",
+    "name": "GrantFamily",
     "owner": "Kolya_Potap",
     "status": "Занято",
     "x": -2351.14,
@@ -21996,6 +21984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 958,
+    "server_id": 24,
+    "type": "house",
+    "name": "ляля",
+    "owner": "Killua_Zoldik",
+    "status": "Аукцион",
+    "x": -2229.52,
+    "y": 934.32,
+    "price": 7015,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1373,
     "server_id": 24,
     "type": "house",
@@ -22041,18 +22041,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 198,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Mefi_Milton",
-    "status": "Аукцион",
-    "x": -1826.43,
-    "y": -566.68,
-    "price": 76990,
     "district": "Сан-Андреас"
   },
   {
@@ -25064,6 +25052,18 @@
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 198,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Mefi_Milton",
+    "status": "Занято",
+    "x": -1826.43,
+    "y": -566.68,
     "price": 0,
     "district": "Сан-Андреас"
   },

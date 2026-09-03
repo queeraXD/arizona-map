@@ -2643,7 +2643,7 @@
     "id": 220,
     "server_id": 9,
     "type": "house",
-    "name": "Takada Home",
+    "name": "Shiron House",
     "owner": "Egor_Shiron",
     "status": "Занято",
     "x": 808.908,
@@ -3132,18 +3132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 261,
-    "server_id": 9,
-    "type": "house",
-    "name": "Продается. Связь @denck",
-    "owner": "Void_Shard",
-    "status": "Занято",
-    "x": 2374.1,
-    "y": 21.8838,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 262,
     "server_id": 9,
     "type": "house",
@@ -3351,8 +3339,8 @@
     "id": 279,
     "server_id": 9,
     "type": "house",
-    "name": "benzo | finecc",
-    "owner": "Gabriel_Elyazyan",
+    "name": "хата уважаемых ",
+    "owner": "Serega_Pyzo",
     "status": "Занято",
     "x": 2194.16,
     "y": -1000.94,
@@ -5484,18 +5472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 458,
-    "server_id": 9,
-    "type": "house",
-    "name": "Продам фулл дом Связь @denck",
-    "owner": "Void_Shard",
-    "status": "Занято",
-    "x": 2094.12,
-    "y": 650.4459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 459,
     "server_id": 9,
     "type": "house",
@@ -6776,18 +6752,6 @@
     "status": "Занято",
     "x": 232.205,
     "y": 1151.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 566,
-    "server_id": 9,
-    "type": "house",
-    "name": "dom stas_finte",
-    "owner": "Akito_Furin",
-    "status": "Занято",
-    "x": 386.686,
-    "y": 1272.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23880,6 +23844,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 261,
+    "server_id": 9,
+    "type": "house",
+    "name": "Продается. Связь @denck",
+    "owner": "Void_Shard",
+    "status": "Аукцион",
+    "x": 2374.1,
+    "y": 21.8838,
+    "price": 60000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 346,
     "server_id": 9,
     "type": "house",
@@ -23889,6 +23865,30 @@
     "x": 1252.6,
     "y": -901.893,
     "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 458,
+    "server_id": 9,
+    "type": "house",
+    "name": "Продам фулл дом Связь @denck",
+    "owner": "Void_Shard",
+    "status": "Аукцион",
+    "x": 2094.12,
+    "y": 650.4459,
+    "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 566,
+    "server_id": 9,
+    "type": "house",
+    "name": "dom stas_finte",
+    "owner": "Akito_Furin",
+    "status": "Аукцион",
+    "x": 386.686,
+    "y": 1272.14,
+    "price": 14000,
     "district": "Сан-Андреас"
   },
   {
@@ -23928,15 +23928,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 157,
+    "id": 201,
     "server_id": 9,
     "type": "business",
-    "name": "Отель",
-    "owner": "Sashka_Taha",
+    "name": "Ларек с уличной едой",
+    "owner": "Balagan_Quartz",
     "status": "Аукцион",
-    "x": 2230.115,
-    "y": -1795.364,
-    "price": 230000,
+    "x": -104.79,
+    "y": -309.98,
+    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -26580,6 +26580,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 157,
+    "server_id": 9,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Balagan_Quartz",
+    "status": "Занято",
+    "x": 2230.115,
+    "y": -1795.364,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 158,
     "server_id": 9,
     "type": "business",
@@ -26972,18 +26984,6 @@
     "status": "Занято",
     "x": -1983.44,
     "y": 127.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 201,
-    "server_id": 9,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Balagan_Quartz",
-    "status": "Занято",
-    "x": -104.79,
-    "y": -309.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
