@@ -4152,18 +4152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 346,
-    "server_id": 9,
-    "type": "house",
-    "name": "Домик половины",
-    "owner": "Polovina_Tebya",
-    "status": "Занято",
-    "x": 1252.6,
-    "y": -901.893,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 347,
     "server_id": 9,
     "type": "house",
@@ -11280,6 +11268,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 941,
+    "server_id": 9,
+    "type": "house",
+    "name": "Будка",
+    "owner": "Carter_Moreno",
+    "status": "Занято",
+    "x": -2029.79,
+    "y": 796.554,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 942,
     "server_id": 9,
     "type": "house",
@@ -14943,8 +14943,8 @@
     "id": 1248,
     "server_id": 9,
     "type": "house",
-    "name": "TS//HCS-O/SI//ORCON/NOFORN",
-    "owner": "Erik_Cros",
+    "name": "Дуршлаг",
+    "owner": "Ilya_Pepe",
     "status": "Занято",
     "x": -2789.17,
     "y": -52.5903,
@@ -15807,7 +15807,7 @@
     "id": 1320,
     "server_id": 9,
     "type": "house",
-    "name": "Дом",
+    "name": "домик половинки",
     "owner": "Polovina_Tebya",
     "status": "Занято",
     "x": -2303.38,
@@ -23224,7 +23224,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Вейнов",
-    "owner": "Pavel_May",
+    "owner": "Pity_Shock",
     "status": "Занято",
     "x": 1746.05,
     "y": 2767.21,
@@ -23312,18 +23312,6 @@
     "status": "Занято",
     "x": 1793.64,
     "y": 2792.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1950,
-    "server_id": 9,
-    "type": "house",
-    "name": "Оливер 200",
-    "owner": "Takeru_Rize",
-    "status": "Занято",
-    "x": 1796.56,
-    "y": 2803.61,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23892,15 +23880,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 941,
+    "id": 346,
     "server_id": 9,
     "type": "house",
-    "name": "Будка",
-    "owner": "Choko_Paika",
+    "name": "Домик половины",
+    "owner": "Polovina_Tebya",
     "status": "Аукцион",
-    "x": -2029.79,
-    "y": 796.554,
-    "price": 12000,
+    "x": 1252.6,
+    "y": -901.893,
+    "price": 13000,
     "district": "Сан-Андреас"
   },
   {
@@ -23925,6 +23913,18 @@
     "x": -17.7366,
     "y": 1215.41,
     "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1950,
+    "server_id": 9,
+    "type": "house",
+    "name": "Оливер 200",
+    "owner": "Takeru_Rize",
+    "status": "Аукцион",
+    "x": 1796.56,
+    "y": 2803.61,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {

@@ -144,18 +144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 12,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kimmi_Toxiclamee",
-    "status": "Занято",
-    "x": 2095.36,
-    "y": -1145.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 13,
     "server_id": 28,
     "type": "house",
@@ -2384,18 +2372,6 @@
     "status": "Занято",
     "x": 1468.62,
     "y": -905.5709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 201,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mister_Sheldon",
-    "status": "Занято",
-    "x": 1536.32,
-    "y": -884.789,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22248,6 +22224,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 12,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kimmi_Toxiclamee",
+    "status": "Аукцион",
+    "x": 2095.36,
+    "y": -1145.09,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 28,
     "server_id": 28,
     "type": "house",
@@ -22269,6 +22257,18 @@
     "x": 2467.61,
     "y": -1200.41,
     "price": 5750,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 201,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mister_Sheldon",
+    "status": "Аукцион",
+    "x": 1536.32,
+    "y": -884.789,
+    "price": 6500,
     "district": "Сан-Андреас"
   },
   {
@@ -22456,7 +22456,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Mario_Soprano",
+    "owner": "Maximus_Soprano",
     "status": "Занято",
     "x": -2625.72,
     "y": 209.242,
@@ -22996,7 +22996,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Sergio_Cerezon",
+    "owner": "Aleksey_Alabaev",
     "status": "Занято",
     "x": 1998.29,
     "y": 2302.91,

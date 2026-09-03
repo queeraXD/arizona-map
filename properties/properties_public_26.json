@@ -16608,18 +16608,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1385,
-    "server_id": 26,
-    "type": "house",
-    "name": "Хата мамбчика",
-    "owner": "Mambel_Gum",
-    "status": "Занято",
-    "x": 1110.55,
-    "y": -1554.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1386,
     "server_id": 26,
     "type": "house",
@@ -25140,6 +25128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1385,
+    "server_id": 26,
+    "type": "house",
+    "name": "Хата мамбчика",
+    "owner": "Mambel_Gum",
+    "status": "Аукцион",
+    "x": 1110.55,
+    "y": -1554.05,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1643,
     "server_id": 26,
     "type": "house",
@@ -27064,7 +27064,7 @@
     "server_id": 26,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Stormy_Suprovech",
+    "owner": "Christian_Butler",
     "status": "Занято",
     "x": -1808.68,
     "y": 945.944,

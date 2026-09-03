@@ -784,7 +784,7 @@
     "server_id": 21,
     "type": "house",
     "name": "alone",
-    "owner": "Denis_Deep",
+    "owner": "Denis_Kosolapov",
     "status": "Занято",
     "x": 2469.52,
     "y": -1646.46,
@@ -10348,7 +10348,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Maestro ",
-    "owner": "Denis_Kosolapov",
+    "owner": "Danya_Prizrack",
     "status": "Занято",
     "x": -245.722,
     "y": 2501.72,
@@ -10884,18 +10884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 909,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом Криптана",
-    "owner": "Rafael_Moretti",
-    "status": "Занято",
-    "x": -2168.8,
-    "y": 796.5159,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 910,
     "server_id": 21,
     "type": "house",
@@ -11048,18 +11036,6 @@
     "status": "Занято",
     "x": -2280.46,
     "y": 1130.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 923,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом Криптана",
-    "owner": "Rafael_Moretti",
-    "status": "Занято",
-    "x": -2239.14,
-    "y": 1154.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19788,18 +19764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1652,
-    "server_id": 21,
-    "type": "house",
-    "name": "Zakymarilofam",
-    "owner": "Kiger_Ice",
-    "status": "Занято",
-    "x": 2501.23,
-    "y": 1682.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1653,
     "server_id": 21,
     "type": "house",
@@ -21120,18 +21084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1764,
-    "server_id": 21,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Kiger_Ice",
-    "status": "Занято",
-    "x": 2826.36,
-    "y": 2140.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1765,
     "server_id": 21,
     "type": "house",
@@ -21844,7 +21796,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Дом Эдуарда 4",
-    "owner": "Yatsik_Vishnevsky",
+    "owner": "Denis_Deep",
     "status": "Занято",
     "x": -2.0408,
     "y": 1008.55,
@@ -21900,6 +21852,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 909,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом Криптана",
+    "owner": "Rafael_Moretti",
+    "status": "Аукцион",
+    "x": -2168.8,
+    "y": 796.5159,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 923,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом Криптана",
+    "owner": "Rafael_Moretti",
+    "status": "Аукцион",
+    "x": -2239.14,
+    "y": 1154.01,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1644,
     "server_id": 21,
     "type": "house",
@@ -21912,6 +21888,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1652,
+    "server_id": 21,
+    "type": "house",
+    "name": "Zakymarilofam",
+    "owner": "Kiger_Ice",
+    "status": "Аукцион",
+    "x": 2501.23,
+    "y": 1682.87,
+    "price": 1495,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1674,
     "server_id": 21,
     "type": "house",
@@ -21921,6 +21909,18 @@
     "x": 2517.04,
     "y": 1674.35,
     "price": 111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1764,
+    "server_id": 21,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Kiger_Ice",
+    "status": "Аукцион",
+    "x": 2826.36,
+    "y": 2140.56,
+    "price": 1495,
     "district": "Сан-Андреас"
   },
   {

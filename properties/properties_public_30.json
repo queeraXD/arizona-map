@@ -8904,18 +8904,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 743,
-    "server_id": 30,
-    "type": "house",
-    "name": "Gazprom Invest",
-    "owner": "Russian_Bearz",
-    "status": "Занято",
-    "x": -2884.17,
-    "y": 743.6279,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 744,
     "server_id": 30,
     "type": "house",
@@ -9776,6 +9764,18 @@
     "status": "Занято",
     "x": -2724.34,
     "y": -191.276,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 816,
+    "server_id": 30,
+    "type": "house",
+    "name": "Имя отсутствует 4",
+    "owner": "Zilaxera_Oxycodon",
+    "status": "Занято",
+    "x": -2688.33,
+    "y": -175.0939,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14468,42 +14468,6 @@
     "status": "Занято",
     "x": -2872.46,
     "y": 697.502,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1208,
-    "server_id": 30,
-    "type": "house",
-    "name": "Gazprom Invest",
-    "owner": "Russian_Bearz",
-    "status": "Занято",
-    "x": -2882.35,
-    "y": 726.682,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1209,
-    "server_id": 30,
-    "type": "house",
-    "name": "Gazprom Invest",
-    "owner": "Russian_Bearz",
-    "status": "Занято",
-    "x": -2883.57,
-    "y": 736.702,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1210,
-    "server_id": 30,
-    "type": "house",
-    "name": "Gazprom Invest",
-    "owner": "Russian_Bearz",
-    "status": "Занято",
-    "x": -2884.79,
-    "y": 750.6229,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22644,15 +22608,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 816,
+    "id": 743,
     "server_id": 30,
     "type": "house",
-    "name": "Имя отсутствует 4",
-    "owner": "Zilaxera_Oxycodon",
+    "name": "Gazprom Invest",
+    "owner": "Russian_Bearz",
     "status": "Аукцион",
-    "x": -2688.33,
-    "y": -175.0939,
-    "price": 5999,
+    "x": -2884.17,
+    "y": 743.6279,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1208,
+    "server_id": 30,
+    "type": "house",
+    "name": "Gazprom Invest",
+    "owner": "Russian_Bearz",
+    "status": "Аукцион",
+    "x": -2882.35,
+    "y": 726.682,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1209,
+    "server_id": 30,
+    "type": "house",
+    "name": "Gazprom Invest",
+    "owner": "Russian_Bearz",
+    "status": "Аукцион",
+    "x": -2883.57,
+    "y": 736.702,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1210,
+    "server_id": 30,
+    "type": "house",
+    "name": "Gazprom Invest",
+    "owner": "Russian_Bearz",
+    "status": "Аукцион",
+    "x": -2884.79,
+    "y": 750.6229,
+    "price": 100,
     "district": "Сан-Андреас"
   },
   {
@@ -22749,6 +22749,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 250,
+    "server_id": 30,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Makoto_Furukawa",
+    "status": "Аукцион",
+    "x": 2170.48,
+    "y": 542.934,
+    "price": 40000,
     "district": "Сан-Андреас"
   },
   {
@@ -23608,7 +23620,7 @@
     "server_id": 30,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "One_Insane",
+    "owner": "Pharaoh_Mayakov",
     "status": "Занято",
     "x": 2452.42,
     "y": 2065.05,
@@ -24164,18 +24176,6 @@
     "status": "Занято",
     "x": 111.076,
     "y": -1782.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 250,
-    "server_id": 30,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Makoto_Furukawa",
-    "status": "Занято",
-    "x": 2170.48,
-    "y": 542.934,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25960,7 +25960,7 @@
     "server_id": 30,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Ruslyana_Dredd",
+    "owner": "Mitchi_Matsumota",
     "status": "Занято",
     "x": 947.921,
     "y": 1719.16,

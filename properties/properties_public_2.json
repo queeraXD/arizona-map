@@ -4716,6 +4716,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 393,
+    "server_id": 2,
+    "type": "house",
+    "name": "В продаже",
+    "owner": "Astral_Step",
+    "status": "Занято",
+    "x": 2203.11,
+    "y": -89.2798,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 394,
+    "server_id": 2,
+    "type": "house",
+    "name": "В продаже",
+    "owner": "Astral_Step",
+    "status": "Занято",
+    "x": 2197.81,
+    "y": -60.608,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 395,
+    "server_id": 2,
+    "type": "house",
+    "name": "В продаже",
+    "owner": "Astral_Step",
+    "status": "Занято",
+    "x": 2200.47,
+    "y": -37.3367,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 396,
     "server_id": 2,
     "type": "house",
@@ -7056,18 +7092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 592,
-    "server_id": 2,
-    "type": "house",
-    "name": "pes family",
-    "owner": "Pes_Vlados",
-    "status": "Занято",
-    "x": -2219.86,
-    "y": -2400.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 593,
     "server_id": 2,
     "type": "house",
@@ -7772,18 +7796,6 @@
     "status": "Занято",
     "x": 2127.94,
     "y": 730.1129,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 653,
-    "server_id": 2,
-    "type": "house",
-    "name": "zamahy_nakanhay",
-    "owner": "Pes_Vlados",
-    "status": "Занято",
-    "x": 2128.68,
-    "y": 650.179,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17007,7 +17019,7 @@
     "id": 1424,
     "server_id": 2,
     "type": "house",
-    "name": "FBI Domination",
+    "name": "Pivo",
     "owner": "[08]Oleg_Pivassik",
     "status": "Занято",
     "x": 142.641,
@@ -18068,18 +18080,6 @@
     "status": "Занято",
     "x": 1565.47,
     "y": 2757.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1513,
-    "server_id": 2,
-    "type": "house",
-    "name": "Slevin",
-    "owner": "Slevin_Kilevin",
-    "status": "Занято",
-    "x": 1564.78,
-    "y": 2776.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23844,42 +23844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 393,
-    "server_id": 2,
-    "type": "house",
-    "name": "В продаже",
-    "owner": "Astral_Step",
-    "status": "Аукцион",
-    "x": 2203.11,
-    "y": -89.2798,
-    "price": 325000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 394,
-    "server_id": 2,
-    "type": "house",
-    "name": "В продаже",
-    "owner": "Astral_Step",
-    "status": "Аукцион",
-    "x": 2197.81,
-    "y": -60.608,
-    "price": 325000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 395,
-    "server_id": 2,
-    "type": "house",
-    "name": "В продаже",
-    "owner": "Astral_Step",
-    "status": "Аукцион",
-    "x": 2200.47,
-    "y": -37.3367,
-    "price": 325000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 481,
     "server_id": 2,
     "type": "house",
@@ -23889,6 +23853,18 @@
     "x": 2228.36,
     "y": 734.7039,
     "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 592,
+    "server_id": 2,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Pes_Vlados",
+    "status": "Аукцион",
+    "x": -2219.86,
+    "y": -2400.42,
+    "price": 25000,
     "district": "Сан-Андреас"
   },
   {
@@ -23904,6 +23880,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 653,
+    "server_id": 2,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Pes_Vlados",
+    "status": "Аукцион",
+    "x": 2128.68,
+    "y": 650.179,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 760,
     "server_id": 2,
     "type": "house",
@@ -23913,6 +23901,18 @@
     "x": -2726.67,
     "y": 822.992,
     "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1513,
+    "server_id": 2,
+    "type": "house",
+    "name": "Slevin",
+    "owner": "Slevin_Kilevin",
+    "status": "Аукцион",
+    "x": 1564.78,
+    "y": 2776.62,
+    "price": 45000,
     "district": "Сан-Андреас"
   },
   {
