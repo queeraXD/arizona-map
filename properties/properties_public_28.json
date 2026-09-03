@@ -336,18 +336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 28,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом в Los-Santos",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": 2209.7,
-    "y": -1240.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 29,
     "server_id": 28,
     "type": "house",
@@ -536,18 +524,6 @@
     "status": "Занято",
     "x": 2520.72,
     "y": -1197.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 45,
-    "server_id": 28,
-    "type": "house",
-    "name": "Деп условия+Подвал",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": 2467.61,
-    "y": -1200.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19152,18 +19128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1602,
-    "server_id": 28,
-    "type": "house",
-    "name": "1602",
-    "owner": "Oliver_Ackerman",
-    "status": "Занято",
-    "x": 1754.71,
-    "y": 2736.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1603,
     "server_id": 28,
     "type": "house",
@@ -21471,7 +21435,7 @@
     "id": 1796,
     "server_id": 28,
     "type": "house",
-    "name": "sell 40kkk",
+    "name": "35ккк",
     "owner": "Wonderful_Blood",
     "status": "Занято",
     "x": -2894.69,
@@ -22240,7 +22204,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Гамбос эмперия мира",
-    "owner": "Professor_Gamos",
+    "owner": "Gustav_Ferrara",
     "status": "Занято",
     "x": -2.0408,
     "y": 1008.55,
@@ -22264,11 +22228,35 @@
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Gustav_Ferrara",
+    "owner": "Professor_Gamos",
     "status": "Занято",
     "x": 6.7789,
     "y": 1011.7,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 28,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом в Los-Santos",
+    "owner": "Travis_Viper",
+    "status": "Аукцион",
+    "x": 2209.7,
+    "y": -1240.25,
+    "price": 5500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 45,
+    "server_id": 28,
+    "type": "house",
+    "name": "Деп условия+Подвал",
+    "owner": "Travis_Viper",
+    "status": "Аукцион",
+    "x": 2467.61,
+    "y": -1200.41,
+    "price": 5750,
     "district": "Сан-Андреас"
   },
   {
@@ -22329,6 +22317,18 @@
     "x": 1786.92,
     "y": 2767.24,
     "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1602,
+    "server_id": 28,
+    "type": "house",
+    "name": "1602",
+    "owner": "Oliver_Ackerman",
+    "status": "Аукцион",
+    "x": 1754.71,
+    "y": 2736.07,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {

@@ -5463,8 +5463,8 @@
     "id": 458,
     "server_id": 2,
     "type": "house",
-    "name": "Дом",
-    "owner": "Valentin_Antonovv",
+    "name": "whitty\\\"s house",
+    "owner": "Whitty_Ballistic",
     "status": "Занято",
     "x": 2094.12,
     "y": 650.4459,
@@ -5732,18 +5732,6 @@
     "status": "Занято",
     "x": 2256.91,
     "y": 690.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 481,
-    "server_id": 2,
-    "type": "house",
-    "name": "Не продается",
-    "owner": "Ghost_Rampage",
-    "status": "Занято",
-    "x": 2228.36,
-    "y": 734.7039,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7760,18 +7748,6 @@
     "status": "Занято",
     "x": 2317.15,
     "y": 690.3499,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 651,
-    "server_id": 2,
-    "type": "house",
-    "name": "Не продается",
-    "owner": "Ghost_Rampage",
-    "status": "Занято",
-    "x": 2205.85,
-    "y": 736.3439,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22396,7 +22372,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Дом",
-    "owner": "Guts_Shelson",
+    "owner": "Jerry_Burberry",
     "status": "Занято",
     "x": 1739.36,
     "y": 2792.24,
@@ -22784,18 +22760,6 @@
     "status": "Занято",
     "x": 1789.88,
     "y": 2778.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1909,
-    "server_id": 2,
-    "type": "house",
-    "name": "Morton Dynasty",
-    "owner": "Mega_Fame",
-    "status": "Занято",
-    "x": 1780.77,
-    "y": 2744.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23940,6 +23904,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 481,
+    "server_id": 2,
+    "type": "house",
+    "name": "Не продается",
+    "owner": "Ghost_Rampage",
+    "status": "Аукцион",
+    "x": 2228.36,
+    "y": 734.7039,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 592,
     "server_id": 2,
     "type": "house",
@@ -23952,6 +23928,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 651,
+    "server_id": 2,
+    "type": "house",
+    "name": "Не продается",
+    "owner": "Ghost_Rampage",
+    "status": "Аукцион",
+    "x": 2205.85,
+    "y": 736.3439,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 674,
     "server_id": 2,
     "type": "house",
@@ -23961,6 +23949,18 @@
     "x": 928.6199,
     "y": 2006.45,
     "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1909,
+    "server_id": 2,
+    "type": "house",
+    "name": "Morton Dynasty",
+    "owner": "Mega_Fame",
+    "status": "Аукцион",
+    "x": 1780.77,
+    "y": 2744.58,
+    "price": 11111,
     "district": "Сан-Андреас"
   },
   {

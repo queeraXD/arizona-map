@@ -2544,18 +2544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
-    "server_id": 29,
-    "type": "house",
-    "name": "AltaHouse",
-    "owner": "More_Alta",
-    "status": "Занято",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 213,
     "server_id": 29,
     "type": "house",
@@ -6644,18 +6632,6 @@
     "status": "Занято",
     "x": 378.1589,
     "y": 1123.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 554,
-    "server_id": 29,
-    "type": "house",
-    "name": "Кибитка Кабана",
-    "owner": "[31]Misha_Nikollenko",
-    "status": "Занято",
-    "x": 352.9729,
-    "y": 1099.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21093,6 +21069,30 @@
     "x": 6.7789,
     "y": 1011.7,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 212,
+    "server_id": 29,
+    "type": "house",
+    "name": "AltaHouse",
+    "owner": "More_Alta",
+    "status": "Аукцион",
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 554,
+    "server_id": 29,
+    "type": "house",
+    "name": "Кибитка Кабана",
+    "owner": "[31]Misha_Nikollenko",
+    "status": "Аукцион",
+    "x": 352.9729,
+    "y": 1099.58,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
