@@ -5772,18 +5772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 481,
-    "server_id": 2,
-    "type": "house",
-    "name": "Не продается",
-    "owner": "Ghost_Rampage",
-    "status": "Занято",
-    "x": 2228.36,
-    "y": 734.7039,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 482,
     "server_id": 2,
     "type": "house",
@@ -9092,6 +9080,18 @@
     "status": "Занято",
     "x": -2738.32,
     "y": 801.5289,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 760,
+    "server_id": 2,
+    "type": "house",
+    "name": "Царство",
+    "owner": "[24]Samp_Bet",
+    "status": "Занято",
+    "x": -2726.67,
+    "y": 822.992,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19876,7 +19876,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Power Empire",
-    "owner": "Aki_Continental",
+    "owner": "Patricio_Continental",
     "status": "Занято",
     "x": 1115.72,
     "y": -1570.0,
@@ -22704,6 +22704,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1903,
+    "server_id": 2,
+    "type": "house",
+    "name": "Вистерия Лейн",
+    "owner": "Mira_Desert",
+    "status": "Занято",
+    "x": 1798.88,
+    "y": 2812.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1904,
     "server_id": 2,
     "type": "house",
@@ -22748,6 +22760,18 @@
     "status": "Занято",
     "x": 1789.98,
     "y": 2778.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1908,
+    "server_id": 2,
+    "type": "house",
+    "name": "норм дом",
+    "owner": "Lamarka_Desert",
+    "status": "Занято",
+    "x": 1789.88,
+    "y": 2778.6,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23868,6 +23892,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 481,
+    "server_id": 2,
+    "type": "house",
+    "name": "Не продается",
+    "owner": "Ghost_Rampage",
+    "status": "Аукцион",
+    "x": 2228.36,
+    "y": 734.7039,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 592,
     "server_id": 2,
     "type": "house",
@@ -23889,18 +23925,6 @@
     "x": 2128.68,
     "y": 650.179,
     "price": 15000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 760,
-    "server_id": 2,
-    "type": "house",
-    "name": "Царство",
-    "owner": "[24]Samp_Bet",
-    "status": "Аукцион",
-    "x": -2726.67,
-    "y": 822.992,
-    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
@@ -23937,30 +23961,6 @@
     "x": 1803.35,
     "y": 2855.46,
     "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1903,
-    "server_id": 2,
-    "type": "house",
-    "name": "Вистерия Лейн",
-    "owner": "[24]Samp_Bet",
-    "status": "Аукцион",
-    "x": 1798.88,
-    "y": 2812.15,
-    "price": 10000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1908,
-    "server_id": 2,
-    "type": "house",
-    "name": "норм дом",
-    "owner": "[24]Samp_Bet",
-    "status": "Аукцион",
-    "x": 1789.88,
-    "y": 2778.6,
-    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -26644,7 +26644,7 @@
     "server_id": 2,
     "type": "business",
     "name": "Отель",
-    "owner": "Aki_Continental",
+    "owner": "Patricio_Continental",
     "status": "Занято",
     "x": -2188.019,
     "y": -2264.83,
@@ -26824,7 +26824,7 @@
     "server_id": 2,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Jis_Tej",
+    "owner": "Igor_Myasnikov",
     "status": "Занято",
     "x": 2599.42,
     "y": 1060.38,

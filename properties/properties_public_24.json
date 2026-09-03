@@ -3528,18 +3528,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 295,
-    "server_id": 24,
-    "type": "house",
-    "name": " ??  Davenport Monopoly  ??",
-    "owner": "Akira_Tonaka",
-    "status": "Занято",
-    "x": 2352.16,
-    "y": -1170.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 296,
     "server_id": 24,
     "type": "house",
@@ -5355,8 +5343,8 @@
     "id": 447,
     "server_id": 24,
     "type": "house",
-    "name": "|Д|О|М|И|К|Б|Р|А|Т|И|Ш|Е|К|",
-    "owner": "Sonic_Arctic",
+    "name": "гетто конура 2",
+    "owner": "Thiago_Flores",
     "status": "Занято",
     "x": 2457.76,
     "y": -1054.57,
@@ -6308,18 +6296,6 @@
     "status": "Занято",
     "x": 2049.55,
     "y": 2763.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 527,
-    "server_id": 24,
-    "type": "house",
-    "name": "домик крутого фармилы <3",
-    "owner": "Planka_Blueberry",
-    "status": "Занято",
-    "x": 2039.57,
-    "y": 2766.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8272,7 +8248,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Clapton Ind.",
-    "owner": "Nikita_Nakamura",
+    "owner": "Dostavka_Cuerto",
     "status": "Занято",
     "x": 1270.4,
     "y": 2554.5,
@@ -8559,8 +8535,8 @@
     "id": 715,
     "server_id": 24,
     "type": "house",
-    "name": "Дом",
-    "owner": "Sonic_Arctic",
+    "name": "майнинг лкн",
+    "owner": "Thiago_Flores",
     "status": "Занято",
     "x": 1580.14,
     "y": 2708.88,
@@ -12552,6 +12528,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1049,
+    "server_id": 24,
+    "type": "house",
+    "name": "майнинг сф",
+    "owner": "Thiago_Flores",
+    "status": "Занято",
+    "x": -1982.57,
+    "y": 1190.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1050,
     "server_id": 24,
     "type": "house",
@@ -14848,7 +14836,7 @@
     "server_id": 24,
     "type": "house",
     "name": "НИЗ СФ 3",
-    "owner": "Dima_Dalik",
+    "owner": "Sergio_Tohok",
     "status": "Занято",
     "x": -2383.14,
     "y": 1281.34,
@@ -14948,6 +14936,18 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1263.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1250,
+    "server_id": 24,
+    "type": "house",
+    "name": "Сдача бочек СФ (пирс)",
+    "owner": "Kolya_Potap",
+    "status": "Занято",
+    "x": -2351.14,
+    "y": 1244.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21075,8 +21075,8 @@
     "id": 1764,
     "server_id": 24,
     "type": "house",
-    "name": "Maining ferma 7LVL",
-    "owner": "Sonic_Arctic",
+    "name": "гетто конура",
+    "owner": "Thiago_Flores",
     "status": "Занято",
     "x": 2601.05,
     "y": -1216.34,
@@ -21960,6 +21960,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 295,
+    "server_id": 24,
+    "type": "house",
+    "name": " ??  Davenport Monopoly  ??",
+    "owner": "Akira_Tonaka",
+    "status": "Аукцион",
+    "x": 2352.16,
+    "y": -1170.38,
+    "price": 27000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 527,
+    "server_id": 24,
+    "type": "house",
+    "name": "домик крутого фармилы <3",
+    "owner": "Planka_Blueberry",
+    "status": "Аукцион",
+    "x": 2039.57,
+    "y": 2766.53,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 540,
     "server_id": 24,
     "type": "house",
@@ -21969,30 +21993,6 @@
     "x": 2017.82,
     "y": 2663.33,
     "price": 7000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1049,
-    "server_id": 24,
-    "type": "house",
-    "name": "Sharager 4/15 майнинг ",
-    "owner": "Bomj_Krutoi",
-    "status": "Аукцион",
-    "x": -1982.57,
-    "y": 1190.26,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1250,
-    "server_id": 24,
-    "type": "house",
-    "name": "Сдача бочек СФ (пирс)",
-    "owner": "Bomj_Krutoi",
-    "status": "Аукцион",
-    "x": -2351.14,
-    "y": 1244.73,
-    "price": 1,
     "district": "Сан-Андреас"
   },
   {
