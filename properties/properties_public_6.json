@@ -5896,7 +5896,7 @@
     "server_id": 6,
     "type": "house",
     "name": "дом гуля",
-    "owner": "Tema_Ghoul",
+    "owner": "Zhi_Shi",
     "status": "Занято",
     "x": 1464.71,
     "y": 1895.06,
@@ -7220,18 +7220,6 @@
     "status": "Занято",
     "x": -1568.17,
     "y": 2629.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 605,
-    "server_id": 6,
-    "type": "house",
-    "name": "Йоу",
-    "owner": "Dmytro_AgesiIay",
-    "status": "Занято",
-    "x": -1577.62,
-    "y": 2686.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11484,6 +11472,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 964,
+    "server_id": 6,
+    "type": "house",
+    "name": "деп условия + ферма",
+    "owner": "Tom_Infinity",
+    "status": "Занято",
+    "x": -2223.85,
+    "y": 795.8759,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 965,
     "server_id": 6,
     "type": "house",
@@ -12452,18 +12452,6 @@
     "status": "Занято",
     "x": -1927.71,
     "y": 1252.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1046,
-    "server_id": 6,
-    "type": "house",
-    "name": "Miyazaki Sensei №2",
-    "owner": "Dmytro_AgesiIay",
-    "status": "Занято",
-    "x": -1955.34,
-    "y": 1272.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14952,18 +14940,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1255,
-    "server_id": 6,
-    "type": "house",
-    "name": "хижина варворов",
-    "owner": "Dmytro_AgesiIay",
-    "status": "Занято",
-    "x": -2433.75,
-    "y": 1318.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1256,
     "server_id": 6,
     "type": "house",
@@ -16880,18 +16856,6 @@
     "status": "Занято",
     "x": 2517.86,
     "y": -965.4459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1416,
-    "server_id": 6,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Dmytro_AgesiIay",
-    "status": "Занято",
-    "x": 2552.01,
-    "y": -958.1939,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22464,6 +22428,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1883,
+    "server_id": 6,
+    "type": "house",
+    "name": "mafiozniki",
+    "owner": "Katsu_Akuma",
+    "status": "Занято",
+    "x": 1797.67,
+    "y": 2764.36,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1884,
     "server_id": 6,
     "type": "house",
@@ -24396,6 +24372,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 605,
+    "server_id": 6,
+    "type": "house",
+    "name": "Йоу",
+    "owner": "Dmytro_AgesiIay",
+    "status": "Аукцион",
+    "x": -1577.62,
+    "y": 2686.93,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 778,
     "server_id": 6,
     "type": "house",
@@ -24444,15 +24432,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 964,
+    "id": 1046,
     "server_id": 6,
     "type": "house",
-    "name": "деп условия + ферма",
-    "owner": "Lovec_Tipa",
+    "name": "Miyazaki Sensei №2",
+    "owner": "Dmytro_AgesiIay",
     "status": "Аукцион",
-    "x": -2223.85,
-    "y": 795.8759,
-    "price": 500,
+    "x": -1955.34,
+    "y": 1272.99,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -24468,15 +24456,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1883,
+    "id": 1255,
     "server_id": 6,
     "type": "house",
-    "name": "mafiozniki",
-    "owner": "Lovec_Tipa",
+    "name": "хижина варворов",
+    "owner": "Dmytro_AgesiIay",
     "status": "Аукцион",
-    "x": 1797.67,
-    "y": 2764.36,
-    "price": 500,
+    "x": -2433.75,
+    "y": 1318.61,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1416,
+    "server_id": 6,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Dmytro_AgesiIay",
+    "status": "Аукцион",
+    "x": 2552.01,
+    "y": -958.1939,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
