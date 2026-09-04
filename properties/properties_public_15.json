@@ -3340,7 +3340,7 @@
     "server_id": 15,
     "type": "house",
     "name": "домик призрака",
-    "owner": "Ghost_Vpotoke",
+    "owner": "Lonik_Vini",
     "status": "Занято",
     "x": 2194.16,
     "y": -1000.94,
@@ -15244,7 +15244,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Кибитка от Jasona",
-    "owner": "Jeson_McCloud",
+    "owner": "Tommu_McCloud",
     "status": "Занято",
     "x": -2433.03,
     "y": 1264.13,
@@ -18092,18 +18092,6 @@
     "status": "Занято",
     "x": -2621.02,
     "y": -134.7709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1510,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alex_Sedoy",
-    "status": "Занято",
-    "x": -2620.77,
-    "y": -146.2169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21312,6 +21300,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1510,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alex_Sedoy",
+    "status": "Аукцион",
+    "x": -2620.77,
+    "y": -146.2169,
+    "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1542,
     "server_id": 15,
     "type": "house",
@@ -21321,6 +21321,18 @@
     "x": 2015.5,
     "y": -977.6119,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 120,
+    "server_id": 15,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Max_Fantom",
+    "status": "Аукцион",
+    "x": -2718.47,
+    "y": 50.452,
+    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -22280,18 +22292,6 @@
     "status": "Занято",
     "x": -1694.58,
     "y": 951.914,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 120,
-    "server_id": 15,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Max_Fantom",
-    "status": "Занято",
-    "x": -2718.47,
-    "y": 50.452,
     "price": 0,
     "district": "Сан-Андреас"
   },
