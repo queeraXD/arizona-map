@@ -3432,18 +3432,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 286,
-    "server_id": 29,
-    "type": "house",
-    "name": "Geforse Corporation",
-    "owner": "Sosiska_Killer",
-    "status": "Занято",
-    "x": 2259.37,
-    "y": -1019.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 287,
     "server_id": 29,
     "type": "house",
@@ -5956,7 +5944,7 @@
     "server_id": 29,
     "type": "house",
     "name": "drug farms",
-    "owner": "Mark_Beast",
+    "owner": "Mark_Business",
     "status": "Занято",
     "x": 1462.21,
     "y": 1950.23,
@@ -8196,6 +8184,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 683,
+    "server_id": 29,
+    "type": "house",
+    "name": "Kingsman",
+    "owner": "Mark_Beast",
+    "status": "Занято",
+    "x": 986.117,
+    "y": 2314.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 684,
     "server_id": 29,
     "type": "house",
@@ -9068,6 +9068,18 @@
     "status": "Занято",
     "x": -2731.47,
     "y": 723.703,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 757,
+    "server_id": 29,
+    "type": "house",
+    "name": "Домик Golda 3 <3",
+    "owner": "Danielle_Rodriguez",
+    "status": "Занято",
+    "x": -2738.32,
+    "y": 746.648,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10892,18 +10904,6 @@
     "status": "Занято",
     "x": -2168.8,
     "y": 796.5159,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 910,
-    "server_id": 29,
-    "type": "house",
-    "name": "shafter_team",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": -2126.8,
-    "y": 1032.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17464,7 +17464,7 @@
     "server_id": 29,
     "type": "house",
     "name": "чотка",
-    "owner": "Mark_Beast",
+    "owner": "Mark_Business",
     "status": "Занято",
     "x": 932.8909,
     "y": 2271.17,
@@ -21072,27 +21072,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 683,
+    "id": 286,
     "server_id": 29,
     "type": "house",
-    "name": "Kingsman",
-    "owner": "Flipi_Parliament",
-    "status": "Аукцион",
-    "x": 986.117,
-    "y": 2314.1,
-    "price": 1000,
+    "name": "Geforse Corporation",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2259.37,
+    "y": -1019.17,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 757,
+    "id": 910,
     "server_id": 29,
     "type": "house",
-    "name": "Домик Golda 3 <3",
-    "owner": "Danielle_Rodriguez",
-    "status": "Аукцион",
-    "x": -2738.32,
-    "y": 746.648,
-    "price": 6000,
+    "name": "shafter_team",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2126.8,
+    "y": 1032.62,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -21129,18 +21129,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 102,
-    "server_id": 29,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Paccyk_Onyx",
-    "status": "Аукцион",
-    "x": -1735.96,
-    "y": 897.68,
-    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -21848,6 +21836,18 @@
     "status": "Занято",
     "x": -2242.28,
     "y": -170.898,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 102,
+    "server_id": 29,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Paccyk_Onyx",
+    "status": "Занято",
+    "x": -1735.96,
+    "y": 897.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
