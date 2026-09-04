@@ -21708,18 +21708,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1817,
-    "server_id": 8,
-    "type": "house",
-    "name": "пиво",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": -2168.27,
-    "y": 1108.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1818,
     "server_id": 8,
     "type": "house",
@@ -25764,6 +25752,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1817,
+    "server_id": 8,
+    "type": "house",
+    "name": "пиво",
+    "owner": "Spike_Scout",
+    "status": "Аукцион",
+    "x": -2168.27,
+    "y": 1108.05,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1830,
     "server_id": 8,
     "type": "house",
@@ -29704,7 +29704,7 @@
     "server_id": 8,
     "type": "business",
     "name": "Рыболовный магазин",
-    "owner": "Natsu_Dragnilka",
+    "owner": "Emilia_Chillmeowna",
     "status": "Занято",
     "x": -2057.44,
     "y": -2464.48,
