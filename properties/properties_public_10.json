@@ -4252,7 +4252,7 @@
     "server_id": 10,
     "type": "house",
     "name": "майнинг ферма 4 lvl -7 lvl",
-    "owner": "Authority_Influencer",
+    "owner": "Spike_Scout",
     "status": "Занято",
     "x": 1280.86,
     "y": -874.83,
@@ -7668,18 +7668,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 643,
-    "server_id": 10,
-    "type": "house",
-    "name": "Майнинг 6лвл деп. условия",
-    "owner": "Owner_Family",
-    "status": "Занято",
-    "x": 1897.15,
-    "y": 736.687,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 644,
     "server_id": 10,
     "type": "house",
@@ -10040,18 +10028,6 @@
     "status": "Занято",
     "x": -2208.08,
     "y": 1108.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 842,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Selivan",
-    "status": "Занято",
-    "x": -2227.76,
-    "y": 1107.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23220,6 +23196,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 643,
+    "server_id": 10,
+    "type": "house",
+    "name": "Майнинг 6лвл деп. условия",
+    "owner": "Owner_Family",
+    "status": "Аукцион",
+    "x": 1897.15,
+    "y": 736.687,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 820,
     "server_id": 10,
     "type": "house",
@@ -23229,6 +23217,18 @@
     "x": -2689.39,
     "y": -152.796,
     "price": 800,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 842,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Selivan",
+    "status": "Аукцион",
+    "x": -2227.76,
+    "y": 1107.37,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {

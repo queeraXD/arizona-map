@@ -3780,18 +3780,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 316,
-    "server_id": 3,
-    "type": "house",
-    "name": ":lw::le::li::ls::ls:",
-    "owner": "Parkovocnoe_Mesto",
-    "status": "Занято",
-    "x": 1245.66,
-    "y": -902.775,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 317,
     "server_id": 3,
     "type": "house",
@@ -8016,18 +8004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 669,
-    "server_id": 3,
-    "type": "house",
-    "name": "10 видюх",
-    "owner": "Rodion_Johnson",
-    "status": "Занято",
-    "x": 1030.09,
-    "y": 2028.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 670,
     "server_id": 3,
     "type": "house",
@@ -10664,6 +10640,18 @@
     "status": "Занято",
     "x": -2101.77,
     "y": -2532.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 891,
+    "server_id": 3,
+    "type": "house",
+    "name": "GG HOUSE",
+    "owner": "Monero_Explosion",
+    "status": "Занято",
+    "x": -2075.03,
+    "y": -2526.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23452,7 +23440,7 @@
     "server_id": 3,
     "type": "house",
     "name": ".:: Designed by Bell Cranel ::.",
-    "owner": "Bell_Cranel",
+    "owner": "Geralt_Rivs",
     "status": "Занято",
     "x": 74.7917,
     "y": 1065.96,
@@ -24000,15 +23988,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 891,
+    "id": 316,
     "server_id": 3,
     "type": "house",
-    "name": "GG HOUSE",
-    "owner": "Monero_Explosion",
+    "name": "Дом",
+    "owner": "Parkovocnoe_Mesto",
     "status": "Аукцион",
-    "x": -2075.03,
-    "y": -2526.84,
+    "x": 1245.66,
+    "y": -902.775,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 669,
+    "server_id": 3,
+    "type": "house",
+    "name": "трэп хата",
+    "owner": "Rodion_Johnson",
+    "status": "Аукцион",
+    "x": 1030.09,
+    "y": 2028.11,
     "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 116,
+    "server_id": 3,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Ray_Rasta",
+    "status": "Аукцион",
+    "x": -2163.47,
+    "y": 129.382,
+    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
@@ -24116,18 +24128,6 @@
     "status": "Занято",
     "x": -2625.72,
     "y": 209.242,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 116,
-    "server_id": 3,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Ray_Rasta",
-    "status": "Занято",
-    "x": -2163.47,
-    "y": 129.382,
     "price": 0,
     "district": "Сан-Андреас"
   },
