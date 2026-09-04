@@ -7560,18 +7560,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 630,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Roma_Monsory",
-    "status": "Занято",
-    "x": -258.752,
-    "y": 1151.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 631,
     "server_id": 25,
     "type": "house",
@@ -10316,6 +10304,18 @@
     "status": "Занято",
     "x": -1432.72,
     "y": -953.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 861,
+    "server_id": 25,
+    "type": "house",
+    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
+    "owner": "Zane_Ward",
+    "status": "Занято",
+    "x": -218.123,
+    "y": 2481.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23736,15 +23736,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 861,
+    "id": 1983,
     "server_id": 25,
     "type": "house",
-    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
-    "owner": "Zane_Ward",
+    "name": "Springs x3",
+    "owner": "Evgen_Karleone",
+    "status": "Занято",
+    "x": 7.3323,
+    "y": 1012.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 630,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Roma_Monsory",
     "status": "Аукцион",
-    "x": -218.123,
-    "y": 2481.23,
-    "price": 10501,
+    "x": -258.752,
+    "y": 1151.06,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -23760,15 +23772,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1983,
+    "id": 249,
     "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Wyatt_Jack",
     "status": "Аукцион",
-    "x": 7.3323,
-    "y": 1012.12,
-    "price": 1000,
+    "x": 111.076,
+    "y": -1782.68,
+    "price": 110000,
     "district": "Сан-Андреас"
   },
   {
@@ -25172,18 +25184,6 @@
     "status": "Занято",
     "x": 2637.25,
     "y": 1129.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 249,
-    "server_id": 25,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Wyatt_Jack",
-    "status": "Занято",
-    "x": 111.076,
-    "y": -1782.68,
     "price": 0,
     "district": "Сан-Андреас"
   },

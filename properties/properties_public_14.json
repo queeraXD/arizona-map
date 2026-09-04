@@ -11092,7 +11092,7 @@
     "server_id": 14,
     "type": "house",
     "name": "DEmp",
-    "owner": "Sasha_Dealer",
+    "owner": "Fmt_Println",
     "status": "Занято",
     "x": -2205.53,
     "y": 796.0319,
@@ -14656,7 +14656,7 @@
     "server_id": 14,
     "type": "house",
     "name": "DARMOED",
-    "owner": "Sasha_Dealer",
+    "owner": "Fmt_Println",
     "status": "Занято",
     "x": -2477.93,
     "y": 1264.05,
@@ -15284,6 +15284,18 @@
     "status": "Занято",
     "x": -2402.42,
     "y": 886.0859,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1274,
+    "server_id": 14,
+    "type": "house",
+    "name": "я класный",
+    "owner": "Stepan_Jagger",
+    "status": "Занято",
+    "x": -2402.42,
+    "y": 869.065,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19008,18 +19020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1585,
-    "server_id": 14,
-    "type": "house",
-    "name": "#NewWave",
-    "owner": "Jacob_Cohen",
-    "status": "Занято",
-    "x": -2361.44,
-    "y": 251.6199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1586,
     "server_id": 14,
     "type": "house",
@@ -19208,18 +19208,6 @@
     "status": "Занято",
     "x": -2355.59,
     "y": 251.6069,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1602,
-    "server_id": 14,
-    "type": "house",
-    "name": "3 комнаты",
-    "owner": "Jacob_Cohen",
-    "status": "Занято",
-    "x": -2355.53,
-    "y": 246.6649,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21864,6 +21852,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1828,
+    "server_id": 14,
+    "type": "house",
+    "name": "rammstein",
+    "owner": "Dmitry_Dlezuh",
+    "status": "Занято",
+    "x": -2620.74,
+    "y": 120.814,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1829,
     "server_id": 14,
     "type": "house",
@@ -23676,27 +23676,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1274,
+    "id": 1585,
     "server_id": 14,
     "type": "house",
-    "name": "я класный",
-    "owner": "Stepan_Jagger",
+    "name": "#NewWave",
+    "owner": "Jacob_Cohen",
     "status": "Аукцион",
-    "x": -2402.42,
-    "y": 869.065,
-    "price": 10000,
+    "x": -2361.44,
+    "y": 251.6199,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1828,
+    "id": 1602,
     "server_id": 14,
     "type": "house",
-    "name": "rammstein",
-    "owner": "Constellate_Tears",
+    "name": "3 комнаты",
+    "owner": "Jacob_Cohen",
     "status": "Аукцион",
-    "x": -2620.74,
-    "y": 120.814,
-    "price": 1000,
+    "x": -2355.53,
+    "y": 246.6649,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {

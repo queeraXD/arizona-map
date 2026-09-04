@@ -3480,6 +3480,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 291,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Markco_Kast",
+    "status": "Занято",
+    "x": 2498.96,
+    "y": -1065.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 292,
     "server_id": 15,
     "type": "house",
@@ -4552,7 +4564,7 @@
     "server_id": 15,
     "type": "house",
     "name": "DreamTeam family",
-    "owner": "Monopoly_McCloud",
+    "owner": "Scrooge_McCloud",
     "status": "Занято",
     "x": 2324.6,
     "y": 116.079,
@@ -4588,7 +4600,7 @@
     "server_id": 15,
     "type": "house",
     "name": "DreamTeam family",
-    "owner": "Monopoly_McCloud",
+    "owner": "Scrooge_McCloud",
     "status": "Занято",
     "x": 2324.37,
     "y": 191.1929,
@@ -18468,18 +18480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1542,
-    "server_id": 15,
-    "type": "house",
-    "name": "PiDiDi_HoUsE",
-    "owner": "Yoshio_Masuda",
-    "status": "Занято",
-    "x": 2015.5,
-    "y": -977.6119,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1543,
     "server_id": 15,
     "type": "house",
@@ -21312,27 +21312,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 291,
+    "id": 1542,
     "server_id": 15,
     "type": "house",
-    "name": "Дом",
-    "owner": "Markco_Kast",
+    "name": "PiDiDi_HoUsE",
+    "owner": "Yoshio_Masuda",
     "status": "Аукцион",
-    "x": 2498.96,
-    "y": -1065.56,
-    "price": 6000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 198,
-    "server_id": 15,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Vanechka_Implored",
-    "status": "Аукцион",
-    "x": -1826.43,
-    "y": -566.68,
-    "price": 60000,
+    "x": 2015.5,
+    "y": -977.6119,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -24344,6 +24332,18 @@
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 198,
+    "server_id": 15,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Peter_Bilt",
+    "status": "Занято",
+    "x": -1826.43,
+    "y": -566.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
