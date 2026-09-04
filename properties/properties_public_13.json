@@ -9576,18 +9576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 798,
-    "server_id": 13,
-    "type": "house",
-    "name": "хата Мистера Вонга",
-    "owner": "Artem_Kazantsev",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 763.504,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 799,
     "server_id": 13,
     "type": "house",
@@ -23280,6 +23268,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 798,
+    "server_id": 13,
+    "type": "house",
+    "name": "хата Мистера Вонга",
+    "owner": "Artem_Kazantsev",
+    "status": "Аукцион",
+    "x": -2368.82,
+    "y": 763.504,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 978,
     "server_id": 13,
     "type": "house",
@@ -23289,18 +23289,6 @@
     "x": 452.07,
     "y": 1246.99,
     "price": 3333,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 38,
-    "server_id": 13,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Maksim_Vengalbi",
-    "status": "Аукцион",
-    "x": 1567.98,
-    "y": -1897.55,
-    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -24956,6 +24944,18 @@
     "status": "Занято",
     "x": 2105.21,
     "y": -1806.49,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 38,
+    "server_id": 13,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Maksim_Vengalbi",
+    "status": "Занято",
+    "x": 1567.98,
+    "y": -1897.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
