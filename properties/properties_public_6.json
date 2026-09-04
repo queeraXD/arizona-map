@@ -9324,18 +9324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 778,
-    "server_id": 6,
-    "type": "house",
-    "name": "mafiozniki",
-    "owner": "Roxy_Reynolds",
-    "status": "Занято",
-    "x": -2550.67,
-    "y": 794.174,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 779,
     "server_id": 6,
     "type": "house",
@@ -10160,18 +10148,6 @@
     "status": "Занято",
     "x": -2240.66,
     "y": 1070.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 848,
-    "server_id": 6,
-    "type": "house",
-    "name": "Свинарник",
-    "owner": "Alexander_Smertnikov",
-    "status": "Занято",
-    "x": -2281.55,
-    "y": 1088.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24444,6 +24420,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 778,
+    "server_id": 6,
+    "type": "house",
+    "name": "mafiozniki",
+    "owner": "Roxy_Reynolds",
+    "status": "Аукцион",
+    "x": -2550.67,
+    "y": 794.174,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 848,
+    "server_id": 6,
+    "type": "house",
+    "name": "Свинарник",
+    "owner": "Alexander_Smertnikov",
+    "status": "Аукцион",
+    "x": -2281.55,
+    "y": 1088.92,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 852,
     "server_id": 6,
     "type": "house",
@@ -24524,7 +24524,7 @@
     "status": "Аукцион",
     "x": 2440.7,
     "y": 1215.07,
-    "price": 1500,
+    "price": 800,
     "district": "Сан-Андреас"
   },
   {

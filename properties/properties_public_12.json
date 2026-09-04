@@ -14388,18 +14388,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1200,
-    "server_id": 12,
-    "type": "house",
-    "name": "Never stop shine",
-    "owner": "Fedor_Dostoevskiy",
-    "status": "Занято",
-    "x": -2791.58,
-    "y": -17.7035,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1201,
     "server_id": 12,
     "type": "house",
@@ -18300,18 +18288,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1527,
-    "server_id": 12,
-    "type": "house",
-    "name": "..:Escobar Monopoly:..",
-    "owner": "Polina_Rokerha",
-    "status": "Занято",
-    "x": 652.6649,
-    "y": -1694.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1528,
     "server_id": 12,
     "type": "house",
@@ -19172,18 +19148,6 @@
     "status": "Занято",
     "x": 515.1489,
     "y": 1314.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1600,
-    "server_id": 12,
-    "type": "house",
-    "name": ".::STRIT::.",
-    "owner": "Polina_Rokerha",
-    "status": "Занято",
-    "x": 688.802,
-    "y": 1276.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23760,6 +23724,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1200,
+    "server_id": 12,
+    "type": "house",
+    "name": "Never stop shine",
+    "owner": "Fedor_Dostoevskiy",
+    "status": "Аукцион",
+    "x": -2791.58,
+    "y": -17.7035,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1244,
     "server_id": 12,
     "type": "house",
@@ -23769,6 +23745,30 @@
     "x": -2433.03,
     "y": 1264.2,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1527,
+    "server_id": 12,
+    "type": "house",
+    "name": "..:Escobar Monopoly:..",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 652.6649,
+    "y": -1694.01,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1600,
+    "server_id": 12,
+    "type": "house",
+    "name": ".::STRIT::.",
+    "owner": "Polina_Rokerha",
+    "status": "Аукцион",
+    "x": 688.802,
+    "y": 1276.88,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {

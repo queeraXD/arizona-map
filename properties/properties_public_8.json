@@ -2184,6 +2184,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 183,
+    "server_id": 8,
+    "type": "house",
+    "name": "хата",
+    "owner": "Blake_Obi",
+    "status": "Занято",
+    "x": 694.833,
+    "y": -1690.29,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 184,
     "server_id": 8,
     "type": "house",
@@ -21912,18 +21924,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1830,
-    "server_id": 8,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Orochimaru_Mikami",
-    "status": "Занято",
-    "x": 1461.27,
-    "y": 2027.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1831,
     "server_id": 8,
     "type": "house",
@@ -24612,18 +24612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2056,
-    "server_id": 8,
-    "type": "house",
-    "name": "Parkere",
-    "owner": "Matvey_Potapov",
-    "status": "Занято",
-    "x": 2601.05,
-    "y": -1211.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2057,
     "server_id": 8,
     "type": "house",
@@ -25764,18 +25752,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 183,
-    "server_id": 8,
-    "type": "house",
-    "name": "хата",
-    "owner": "Blake_Obi",
-    "status": "Аукцион",
-    "x": 694.833,
-    "y": -1690.29,
-    "price": 25000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1486,
     "server_id": 8,
     "type": "house",
@@ -25784,7 +25760,31 @@
     "status": "Аукцион",
     "x": 566.083,
     "y": -1113.16,
-    "price": 14600,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1830,
+    "server_id": 8,
+    "type": "house",
+    "name": "деп",
+    "owner": "Orochimaru_Mikami",
+    "status": "Аукцион",
+    "x": 1461.27,
+    "y": 2027.06,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2056,
+    "server_id": 8,
+    "type": "house",
+    "name": "Parkere",
+    "owner": "Matvey_Potapov",
+    "status": "Аукцион",
+    "x": 2601.05,
+    "y": -1211.75,
+    "price": 1200,
     "district": "Сан-Андреас"
   },
   {
