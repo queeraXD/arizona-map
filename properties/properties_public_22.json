@@ -10164,6 +10164,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 851,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ananas",
+    "owner": "Kristina_Ananasik",
+    "status": "Занято",
+    "x": -2189.26,
+    "y": 1164.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 852,
     "server_id": 22,
     "type": "house",
@@ -12404,30 +12416,6 @@
     "status": "Занято",
     "x": -1727.98,
     "y": 1138.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1041,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tony_Grozny",
-    "status": "Занято",
-    "x": -1728.11,
-    "y": 1158.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1042,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tony_Grozny",
-    "status": "Занято",
-    "x": -1742.51,
-    "y": 1174.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21924,18 +21912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 851,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ananas",
-    "owner": "Kristina_Ananasik",
-    "status": "Аукцион",
-    "x": -2189.26,
-    "y": 1164.27,
-    "price": 18000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 922,
     "server_id": 22,
     "type": "house",
@@ -21957,6 +21933,30 @@
     "x": -2168.74,
     "y": 743.76,
     "price": 33000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1041,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tony_Grozny",
+    "status": "Аукцион",
+    "x": -1728.11,
+    "y": 1158.95,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1042,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tony_Grozny",
+    "status": "Аукцион",
+    "x": -1742.51,
+    "y": 1174.37,
+    "price": 7500,
     "district": "Сан-Андреас"
   },
   {

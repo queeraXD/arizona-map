@@ -6795,7 +6795,7 @@
     "id": 569,
     "server_id": 6,
     "type": "house",
-    "name": "SHHHHSH",
+    "name": "Продается",
     "owner": "Lovlya_Vip",
     "status": "Занято",
     "x": -2717.85,
@@ -9288,6 +9288,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 778,
+    "server_id": 6,
+    "type": "house",
+    "name": "12390",
+    "owner": "Six_Seven",
+    "status": "Занято",
+    "x": -2550.67,
+    "y": 794.174,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 779,
     "server_id": 6,
     "type": "house",
@@ -10088,6 +10100,18 @@
     "status": "Занято",
     "x": -2240.66,
     "y": 1070.49,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 848,
+    "server_id": 6,
+    "type": "house",
+    "name": "Свинарник",
+    "owner": "Junior_Falcone",
+    "status": "Занято",
+    "x": -2281.55,
+    "y": 1088.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22431,7 +22455,7 @@
     "id": 1883,
     "server_id": 6,
     "type": "house",
-    "name": "mafiozniki",
+    "name": "Home",
     "owner": "Katsu_Akuma",
     "status": "Занято",
     "x": 1797.67,
@@ -22812,18 +22836,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1917,
-    "server_id": 6,
-    "type": "house",
-    "name": "Covzlovski 2",
-    "owner": "Daniel_Covzlovski",
-    "status": "Занято",
-    "x": 2440.7,
-    "y": 1225.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1918,
     "server_id": 6,
     "type": "house",
@@ -22832,6 +22844,18 @@
     "status": "Занято",
     "x": 2440.7,
     "y": 1220.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1919,
+    "server_id": 6,
+    "type": "house",
+    "name": "tt - temichbrooklyn",
+    "owner": "Romka_Aksionov",
+    "status": "Занято",
+    "x": 2440.7,
+    "y": 1215.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22916,18 +22940,6 @@
     "status": "Занято",
     "x": 2608.15,
     "y": -1203.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1927,
-    "server_id": 6,
-    "type": "house",
-    "name": "VERMIN MANSION",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": 2608.15,
-    "y": -1207.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24384,18 +24396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 778,
-    "server_id": 6,
-    "type": "house",
-    "name": "mafiozniki",
-    "owner": "Roxy_Reynolds",
-    "status": "Аукцион",
-    "x": -2550.67,
-    "y": 794.174,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 821,
     "server_id": 6,
     "type": "house",
@@ -24417,18 +24417,6 @@
     "x": -2723.16,
     "y": -16.7231,
     "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 848,
-    "server_id": 6,
-    "type": "house",
-    "name": "Свинарник",
-    "owner": "Alexander_Smertnikov",
-    "status": "Аукцион",
-    "x": -2281.55,
-    "y": 1088.92,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -24504,15 +24492,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1919,
+    "id": 1917,
     "server_id": 6,
     "type": "house",
-    "name": "tt - temichbrooklyn",
-    "owner": "Romka_Aksionov",
+    "name": "Covzlovski 2",
+    "owner": "Daniel_Covzlovski",
     "status": "Аукцион",
     "x": 2440.7,
-    "y": 1215.07,
-    "price": 800,
+    "y": 1225.86,
+    "price": 1105,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1927,
+    "server_id": 6,
+    "type": "house",
+    "name": "VERMIN MANSION",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": 2608.15,
+    "y": -1207.54,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
