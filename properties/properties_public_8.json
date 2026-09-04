@@ -2184,18 +2184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 184,
-    "server_id": 8,
-    "type": "house",
-    "name": "Brudberry <3",
-    "owner": "Bread_Blueberry",
-    "status": "Занято",
-    "x": 693.841,
-    "y": -1645.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 185,
     "server_id": 8,
     "type": "house",
@@ -25716,6 +25704,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 184,
+    "server_id": 8,
+    "type": "house",
+    "name": "Brudberry <3",
+    "owner": "Bread_Blueberry",
+    "status": "Аукцион",
+    "x": 693.841,
+    "y": -1645.77,
+    "price": 50000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 862,
     "server_id": 8,
     "type": "house",
@@ -25796,7 +25796,19 @@
     "status": "Аукцион",
     "x": -2419.97,
     "y": 969.867,
-    "price": 400000,
+    "price": 380000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 431,
+    "server_id": 8,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "Mop_Sik",
+    "status": "Аукцион",
+    "x": -185.565,
+    "y": -1428.86,
+    "price": 1100000,
     "district": "Сан-Андреас"
   },
   {

@@ -6039,7 +6039,7 @@
     "id": 503,
     "server_id": 30,
     "type": "house",
-    "name": "Дом",
+    "name": "Домик Danila",
     "owner": "Daniil_Sadness",
     "status": "Занято",
     "x": 1341.49,
@@ -20103,8 +20103,8 @@
     "id": 1679,
     "server_id": 30,
     "type": "house",
-    "name": "Дом",
-    "owner": "Marin_Kitagawaa",
+    "name": "Кристи хаус",
+    "owner": "Kristiee_Lovely",
     "status": "Занято",
     "x": 2468.35,
     "y": -1431.68,
@@ -20648,18 +20648,6 @@
     "status": "Занято",
     "x": 1794.46,
     "y": 2863.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1728,
-    "server_id": 30,
-    "type": "house",
-    "name": "FULL BLACK",
-    "owner": "Fanat_Makana",
-    "status": "Занято",
-    "x": 1738.38,
-    "y": 2861.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22740,6 +22728,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1728,
+    "server_id": 30,
+    "type": "house",
+    "name": "FULL BLACK",
+    "owner": "Fanat_Makana",
+    "status": "Аукцион",
+    "x": 1738.38,
+    "y": 2861.64,
+    "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1905,
     "server_id": 30,
     "type": "house",
@@ -22749,6 +22749,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 45,
+    "server_id": 30,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Mulveriz_Memorialize",
+    "status": "Аукцион",
+    "x": 2493.12,
+    "y": -1958.75,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 48,
+    "server_id": 30,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Mulveriz_Memorialize",
+    "status": "Аукцион",
+    "x": 1830.46,
+    "y": -1173.59,
+    "price": 245000,
     "district": "Сан-Андреас"
   },
   {
@@ -23304,18 +23328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 45,
-    "server_id": 30,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Mulveriz_Memorialize",
-    "status": "Занято",
-    "x": 2493.12,
-    "y": -1958.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 46,
     "server_id": 30,
     "type": "business",
@@ -23336,18 +23348,6 @@
     "status": "Занято",
     "x": 822.506,
     "y": -1757.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 48,
-    "server_id": 30,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Mulveriz_Memorialize",
-    "status": "Занято",
-    "x": 1830.46,
-    "y": -1173.59,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -6999,7 +6999,7 @@
     "id": 585,
     "server_id": 28,
     "type": "house",
-    "name": "подвал",
+    "name": "antirat squad",
     "owner": "Users_Unknown",
     "status": "Занято",
     "x": -306.5914,
@@ -9264,6 +9264,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 774,
+    "server_id": 28,
+    "type": "house",
+    "name": "house444",
+    "owner": "Erik_Tarasov",
+    "status": "Занято",
+    "x": -2621.68,
+    "y": 802.908,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 775,
     "server_id": 28,
     "type": "house",
@@ -9908,18 +9920,6 @@
     "status": "Занято",
     "x": -2721.08,
     "y": -44.7512,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 829,
-    "server_id": 28,
-    "type": "house",
-    "name": "Все условия",
-    "owner": "Kirill_Vasilkov",
-    "status": "Занято",
-    "x": -2720.98,
-    "y": -23.3173,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10856,6 +10856,18 @@
     "status": "Занято",
     "x": -2126.98,
     "y": 1014.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 909,
+    "server_id": 28,
+    "type": "house",
+    "name": "house444",
+    "owner": "Very_Strange",
+    "status": "Занято",
+    "x": -2168.8,
+    "y": 796.5159,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12908,18 +12920,6 @@
     "status": "Занято",
     "x": -2876.04,
     "y": 980.9829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1081,
-    "server_id": 28,
-    "type": "house",
-    "name": "Словил Брокер",
-    "owner": "Don_Broker",
-    "status": "Занято",
-    "x": -2853.21,
-    "y": 947.4849,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20604,18 +20604,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1723,
-    "server_id": 28,
-    "type": "house",
-    "name": "Leader Vagos",
-    "owner": "Don_Broker",
-    "status": "Занято",
-    "x": 2608.15,
-    "y": -1203.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1724,
     "server_id": 28,
     "type": "house",
@@ -22332,27 +22320,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 774,
+    "id": 829,
     "server_id": 28,
     "type": "house",
-    "name": "house444",
-    "owner": "Spotify_Free",
+    "name": "Все условия",
+    "owner": "Kirill_Vasilkov",
     "status": "Аукцион",
-    "x": -2621.68,
-    "y": 802.908,
-    "price": 1,
+    "x": -2720.98,
+    "y": -23.3173,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 909,
+    "id": 1081,
     "server_id": 28,
     "type": "house",
-    "name": "house444",
-    "owner": "Spotify_Free",
+    "name": "Словил Брокер",
+    "owner": "Don_Broker",
     "status": "Аукцион",
-    "x": -2168.8,
-    "y": 796.5159,
-    "price": 1,
+    "x": -2853.21,
+    "y": 947.4849,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -22365,6 +22353,18 @@
     "x": -914.3449,
     "y": -528.8449,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1723,
+    "server_id": 28,
+    "type": "house",
+    "name": "Leader Vagos",
+    "owner": "Don_Broker",
+    "status": "Аукцион",
+    "x": 2608.15,
+    "y": -1203.09,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
