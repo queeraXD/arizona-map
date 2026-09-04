@@ -6432,18 +6432,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 536,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vito_Corvus",
-    "status": "Занято",
-    "x": 2037.32,
-    "y": 2721.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 537,
     "server_id": 29,
     "type": "house",
@@ -6524,18 +6512,6 @@
     "status": "Занято",
     "x": 1950.41,
     "y": 2663.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 544,
-    "server_id": 29,
-    "type": "house",
-    "name": "depozity",
-    "owner": "Vito_Corvus",
-    "status": "Занято",
-    "x": 1921.69,
-    "y": 2664.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9432,18 +9408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 787,
-    "server_id": 29,
-    "type": "house",
-    "name": "Майнинг Ролтона №2",
-    "owner": "Vito_Corvus",
-    "status": "Занято",
-    "x": -2543.58,
-    "y": 922.2329,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 788,
     "server_id": 29,
     "type": "house",
@@ -11276,18 +11240,6 @@
     "status": "Занято",
     "x": -2018.45,
     "y": 784.7659,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 943,
-    "server_id": 29,
-    "type": "house",
-    "name": "darkness ebt!",
-    "owner": "Vito_Corvus",
-    "status": "Занято",
-    "x": -2018.3,
-    "y": 766.4459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20088,18 +20040,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1680,
-    "server_id": 29,
-    "type": "house",
-    "name": "darkness ebt!",
-    "owner": "Vito_Corvus",
-    "status": "Занято",
-    "x": 2487.31,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1681,
     "server_id": 29,
     "type": "house",
@@ -21056,6 +20996,66 @@
     "status": "Занято",
     "x": 7.3323,
     "y": 1012.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 536,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2037.32,
+    "y": 2721.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 544,
+    "server_id": 29,
+    "type": "house",
+    "name": "depozity",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1921.69,
+    "y": 2664.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 787,
+    "server_id": 29,
+    "type": "house",
+    "name": "Майнинг Ролтона №2",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2543.58,
+    "y": 922.2329,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 943,
+    "server_id": 29,
+    "type": "house",
+    "name": "darkness ebt!",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2018.3,
+    "y": 766.4459,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1680,
+    "server_id": 29,
+    "type": "house",
+    "name": "darkness ebt!",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2487.31,
+    "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
