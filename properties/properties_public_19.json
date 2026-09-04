@@ -4228,7 +4228,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Takumi_White",
+    "owner": "Sela_Vstan",
     "status": "Занято",
     "x": 1290.98,
     "y": -896.9199,
@@ -11180,18 +11180,6 @@
     "status": "Занято",
     "x": -2126.66,
     "y": 755.6099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 936,
-    "server_id": 19,
-    "type": "house",
-    "name": "Уютный домик",
-    "owner": "Boby_Singer",
-    "status": "Занято",
-    "x": -2127.05,
-    "y": 773.752,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19320,18 +19308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1619,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Aperol_Spritz",
-    "status": "Занято",
-    "x": 1792.42,
-    "y": 2744.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1620,
     "server_id": 19,
     "type": "house",
@@ -21936,6 +21912,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 936,
+    "server_id": 19,
+    "type": "house",
+    "name": "Уютный домик",
+    "owner": "Boby_Singer",
+    "status": "Аукцион",
+    "x": -2127.05,
+    "y": 773.752,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 996,
     "server_id": 19,
     "type": "house",
@@ -21992,6 +21980,18 @@
     "status": "Аукцион",
     "x": 1952.15,
     "y": 663.577,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1619,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Aperol_Spritz",
+    "status": "Аукцион",
+    "x": 1792.42,
+    "y": 2744.45,
     "price": 1,
     "district": "Сан-Андреас"
   },
