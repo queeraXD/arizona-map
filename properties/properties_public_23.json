@@ -9300,18 +9300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 776,
-    "server_id": 23,
-    "type": "house",
-    "name": "Первый",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": -2576.56,
-    "y": 819.7999,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 777,
     "server_id": 23,
     "type": "house",
@@ -21168,15 +21156,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 174,
+    "id": 776,
+    "server_id": 23,
+    "type": "house",
+    "name": "Первый",
+    "owner": "Night_Sosiska",
+    "status": "Аукцион",
+    "x": -2576.56,
+    "y": 819.7999,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 124,
     "server_id": 23,
     "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Vanya_Pitya",
+    "name": "Аренда транспорта",
+    "owner": "Roberto_Ardila",
     "status": "Аукцион",
-    "x": 2411.93,
-    "y": -1548.68,
-    "price": 133333,
+    "x": -2455.77,
+    "y": 799.522,
+    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -21944,6 +21944,18 @@
     "status": "Занято",
     "x": 1112.05,
     "y": -1370.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 174,
+    "server_id": 23,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Vanya_Pitya",
+    "status": "Занято",
+    "x": 2411.93,
+    "y": -1548.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23432,18 +23444,6 @@
     "status": "Занято",
     "x": -2579.43,
     "y": 310.085,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 124,
-    "server_id": 23,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Roberto_Ardila",
-    "status": "Занято",
-    "x": -2455.77,
-    "y": 799.522,
     "price": 0,
     "district": "Сан-Андреас"
   },
