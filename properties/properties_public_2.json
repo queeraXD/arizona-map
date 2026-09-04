@@ -5736,18 +5736,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 481,
-    "server_id": 2,
-    "type": "house",
-    "name": "Не продается",
-    "owner": "Ghost_Rampage",
-    "status": "Занято",
-    "x": 2228.36,
-    "y": 734.7039,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 482,
     "server_id": 2,
     "type": "house",
@@ -23916,6 +23904,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 481,
+    "server_id": 2,
+    "type": "house",
+    "name": "Не продается",
+    "owner": "Ghost_Rampage",
+    "status": "Аукцион",
+    "x": 2228.36,
+    "y": 734.7039,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 592,
     "server_id": 2,
     "type": "house",
@@ -23961,30 +23961,6 @@
     "x": -2223.78,
     "y": 795.702,
     "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 205,
-    "server_id": 2,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Nurik_Asakura",
-    "status": "Аукцион",
-    "x": 1136.92,
-    "y": -1750.19,
-    "price": 300000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 324,
-    "server_id": 2,
-    "type": "business",
-    "name": "Рыболовный магазин",
-    "owner": "Nurik_Asakura",
-    "status": "Аукцион",
-    "x": -1354.1,
-    "y": 2057.64,
-    "price": 300000,
     "district": "Сан-Андреас"
   },
   {
@@ -27084,6 +27060,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 205,
+    "server_id": 2,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Nurik_Asakura",
+    "status": "Занято",
+    "x": 1136.92,
+    "y": -1750.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 206,
     "server_id": 2,
     "type": "business",
@@ -27860,6 +27848,18 @@
     "status": "Занято",
     "x": 2489.24,
     "y": 2123.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 324,
+    "server_id": 2,
+    "type": "business",
+    "name": "Рыболовный магазин",
+    "owner": "Nurik_Asakura",
+    "status": "Занято",
+    "x": -1354.1,
+    "y": 2057.64,
     "price": 0,
     "district": "Сан-Андреас"
   },

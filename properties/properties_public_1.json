@@ -10860,18 +10860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 907,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Arab_Sheikh",
-    "status": "Занято",
-    "x": -651.3439,
-    "y": 1450.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 908,
     "server_id": 1,
     "type": "house",
@@ -24168,6 +24156,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 907,
+    "server_id": 1,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Arab_Sheikh",
+    "status": "Аукцион",
+    "x": -651.3439,
+    "y": 1450.37,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 250,
     "server_id": 1,
     "type": "business",
@@ -27436,7 +27436,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Автосалон эконом",
-    "owner": "[18]Subaru_Heartless",
+    "owner": "LordOf_TheMysteries",
     "status": "Занято",
     "x": -479.773,
     "y": -542.696,

@@ -13380,18 +13380,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1118,
-    "server_id": 4,
-    "type": "house",
-    "name": "Царство Уолькотта ",
-    "owner": "Ostap_Wallcot",
-    "status": "Занято",
-    "x": 289.665,
-    "y": -1619.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1119,
     "server_id": 4,
     "type": "house",
@@ -25260,6 +25248,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1118,
+    "server_id": 4,
+    "type": "house",
+    "name": "Царство Уолькотта ",
+    "owner": "Ostap_Wallcot",
+    "status": "Аукцион",
+    "x": 289.665,
+    "y": -1619.71,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 4,
     "type": "business",
@@ -29296,7 +29296,7 @@
     "server_id": 4,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "[30]Stu_Love",
+    "owner": "[15]Bruce_McCloud",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
