@@ -11128,7 +11128,7 @@
     "server_id": 30,
     "type": "house",
     "name": "kadzukii",
-    "owner": "Atsushi_Likimuro",
+    "owner": "Meow_Zakatov",
     "status": "Занято",
     "x": -1842.22,
     "y": 1114.76,
@@ -20297,10 +20297,10 @@
     "type": "house",
     "name": "Автогонки",
     "owner": "Shifu_Todoroki",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1730.43,
     "y": 2826.31,
-    "price": 9997,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -22752,6 +22752,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 45,
+    "server_id": 30,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Mulveriz_Memorialize",
+    "status": "Аукцион",
+    "x": 2493.12,
+    "y": -1958.75,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 48,
+    "server_id": 30,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Mulveriz_Memorialize",
+    "status": "Аукцион",
+    "x": 1830.46,
+    "y": -1173.59,
+    "price": 245000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 30,
     "type": "business",
@@ -23292,18 +23316,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 45,
-    "server_id": 30,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Mulveriz_Memorialize",
-    "status": "Занято",
-    "x": 2493.12,
-    "y": -1958.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 46,
     "server_id": 30,
     "type": "business",
@@ -23324,18 +23336,6 @@
     "status": "Занято",
     "x": 822.506,
     "y": -1757.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 48,
-    "server_id": 30,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Mulveriz_Memorialize",
-    "status": "Занято",
-    "x": 1830.46,
-    "y": -1173.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
