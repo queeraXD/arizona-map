@@ -3660,6 +3660,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 305,
+    "server_id": 23,
+    "type": "house",
+    "name": "sklim monopoly ",
+    "owner": "Robet_Below",
+    "status": "Занято",
+    "x": 2060.47,
+    "y": -1076.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 306,
     "server_id": 23,
     "type": "house",
@@ -3980,18 +3992,6 @@
     "status": "Занято",
     "x": 758.6879,
     "y": 375.0509,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 333,
-    "server_id": 23,
-    "type": "house",
-    "name": "Укромное местечко",
-    "owner": "Turbo_Ww",
-    "status": "Занято",
-    "x": 787.895,
-    "y": 376.4259,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21123,7 +21123,7 @@
     "id": 1766,
     "server_id": 23,
     "type": "house",
-    "name": "бенззззин",
+    "name": "бензин",
     "owner": "Deficit_Benzina",
     "status": "Занято",
     "x": 7.3228,
@@ -21144,14 +21144,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 305,
+    "id": 333,
     "server_id": 23,
     "type": "house",
-    "name": "sklim monopoly ",
-    "owner": "Maksim_Flori",
+    "name": "Укромное местечко",
+    "owner": "Turbo_Ww",
     "status": "Аукцион",
-    "x": 2060.47,
-    "y": -1076.7,
+    "x": 787.895,
+    "y": 376.4259,
     "price": 2000,
     "district": "Сан-Андреас"
   },
@@ -21165,6 +21165,42 @@
     "x": 930.306,
     "y": 2027.86,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 124,
+    "server_id": 23,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Roberto_Ardila",
+    "status": "Аукцион",
+    "x": -2455.77,
+    "y": 799.522,
+    "price": 100000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 174,
+    "server_id": 23,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Vanya_Pitya",
+    "status": "Аукцион",
+    "x": 2411.93,
+    "y": -1548.68,
+    "price": 145123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 460,
+    "server_id": 23,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Okasion_WhiteRex",
+    "status": "Аукцион",
+    "x": 1586.208,
+    "y": -1394.485,
+    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -21932,18 +21968,6 @@
     "status": "Занято",
     "x": 1112.05,
     "y": -1370.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 174,
-    "server_id": 23,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Vanya_Pitya",
-    "status": "Занято",
-    "x": 2411.93,
-    "y": -1548.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23436,18 +23460,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 124,
-    "server_id": 23,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Roberto_Ardila",
-    "status": "Занято",
-    "x": -2455.77,
-    "y": 799.522,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 125,
     "server_id": 23,
     "type": "business",
@@ -23468,18 +23480,6 @@
     "status": "Занято",
     "x": 1864.59,
     "y": -1393.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 460,
-    "server_id": 23,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Okasion_WhiteRex",
-    "status": "Занято",
-    "x": 1586.208,
-    "y": -1394.485,
     "price": 0,
     "district": "Сан-Андреас"
   },
