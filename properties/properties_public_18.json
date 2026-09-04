@@ -6399,7 +6399,7 @@
     "id": 533,
     "server_id": 18,
     "type": "house",
-    "name": "Pataki",
+    "name": "Дом",
     "owner": "Chase_Mercy",
     "status": "Занято",
     "x": 1950.82,
@@ -9956,18 +9956,6 @@
     "status": "Занято",
     "x": -2720.98,
     "y": -23.3173,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 830,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Chase_Mercy",
-    "status": "Занято",
-    "x": -2723.16,
-    "y": -16.7231,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15320,18 +15308,6 @@
     "status": "Занято",
     "x": -2689.47,
     "y": 57.0872,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1278,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Prince_Pierrot",
-    "status": "Занято",
-    "x": -2723.06,
-    "y": 21.9043,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22209,6 +22185,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 830,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Chase_Mercy",
+    "status": "Аукцион",
+    "x": -2723.16,
+    "y": -16.7231,
+    "price": 34910,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1278,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Prince_Pierrot",
+    "status": "Аукцион",
+    "x": -2723.06,
+    "y": 21.9043,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {
