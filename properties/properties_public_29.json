@@ -9024,18 +9024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 757,
-    "server_id": 29,
-    "type": "house",
-    "name": "Домик Golda 3 <3",
-    "owner": "Danielle_Rodriguez",
-    "status": "Занято",
-    "x": -2738.32,
-    "y": 746.648,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 758,
     "server_id": 29,
     "type": "house",
@@ -10760,18 +10748,6 @@
     "status": "Занято",
     "x": -2116.77,
     "y": 927.3969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 905,
-    "server_id": 29,
-    "type": "house",
-    "name": "ГачиМучи",
-    "owner": "Kent_Thug",
-    "status": "Занято",
-    "x": -2130.12,
-    "y": 942.562,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15432,18 +15408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1303,
-    "server_id": 29,
-    "type": "house",
-    "name": "@midafo",
-    "owner": "Drug_Smuggler",
-    "status": "Занято",
-    "x": -2590.53,
-    "y": -186.0579,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1304,
     "server_id": 29,
     "type": "house",
@@ -19368,18 +19332,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1631,
-    "server_id": 29,
-    "type": "house",
-    "name": "@midafo",
-    "owner": "Drug_Smuggler",
-    "status": "Занято",
-    "x": 2417.74,
-    "y": 964.4739,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1632,
     "server_id": 29,
     "type": "house",
@@ -20679,8 +20631,8 @@
     "id": 1748,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
-    "owner": "Somik_Yukihira",
+    "name": "Johnson House",
+    "owner": "Frederic_Johnson",
     "status": "Занято",
     "x": -85.6872,
     "y": 960.486,
@@ -20908,7 +20860,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Johnson House",
-    "owner": "Frederic_Johnson",
+    "owner": "Somik_Yukihira",
     "status": "Занято",
     "x": 7.3323,
     "y": 1012.12,
@@ -20976,6 +20928,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 757,
+    "server_id": 29,
+    "type": "house",
+    "name": "Домик Golda 3 <3",
+    "owner": "Danielle_Rodriguez",
+    "status": "Аукцион",
+    "x": -2738.32,
+    "y": 746.648,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 823,
     "server_id": 29,
     "type": "house",
@@ -21009,6 +20973,18 @@
     "x": -2188.13,
     "y": 1107.64,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 905,
+    "server_id": 29,
+    "type": "house",
+    "name": "ГачиМучи",
+    "owner": "Kent_Thug",
+    "status": "Аукцион",
+    "x": -2130.12,
+    "y": 942.562,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {
@@ -21104,7 +21080,31 @@
     "status": "Аукцион",
     "x": -2689.51,
     "y": 96.3162,
-    "price": 5000,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1303,
+    "server_id": 29,
+    "type": "house",
+    "name": "@midafo",
+    "owner": "Drug_Smuggler",
+    "status": "Аукцион",
+    "x": -2590.53,
+    "y": -186.0579,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1631,
+    "server_id": 29,
+    "type": "house",
+    "name": "@midafo",
+    "owner": "Drug_Smuggler",
+    "status": "Аукцион",
+    "x": 2417.74,
+    "y": 964.4739,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {
@@ -23428,7 +23428,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Konstantin_Pinko",
+    "owner": "Aleks_NewLight",
     "status": "Занято",
     "x": 1864.59,
     "y": -1393.39,

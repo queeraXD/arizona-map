@@ -6636,18 +6636,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 554,
-    "server_id": 26,
-    "type": "house",
-    "name": "Треп Хата",
-    "owner": "Podpal_Dryn",
-    "status": "Занято",
-    "x": 352.9729,
-    "y": 1099.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 555,
     "server_id": 26,
     "type": "house",
@@ -14700,18 +14688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1228,
-    "server_id": 26,
-    "type": "house",
-    "name": "Чайный домик",
-    "owner": "Tea_Otsuka",
-    "status": "Занято",
-    "x": -2477.21,
-    "y": 1318.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1229,
     "server_id": 26,
     "type": "house",
@@ -14768,18 +14744,6 @@
     "status": "Занято",
     "x": -2433.05,
     "y": 1301.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1234,
-    "server_id": 26,
-    "type": "house",
-    "name": "Чайный домик",
-    "owner": "Tea_Otsuka",
-    "status": "Занято",
-    "x": -2433.73,
-    "y": 1281.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16088,18 +16052,6 @@
     "status": "Занято",
     "x": 1646.47,
     "y": 2569.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1344,
-    "server_id": 26,
-    "type": "house",
-    "name": "Чайный домик",
-    "owner": "Tea_Otsuka",
-    "status": "Занято",
-    "x": 1623.48,
-    "y": 2567.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25164,6 +25116,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 554,
+    "server_id": 26,
+    "type": "house",
+    "name": "Треп Хата",
+    "owner": "Podpal_Dryn",
+    "status": "Аукцион",
+    "x": 352.9729,
+    "y": 1099.58,
+    "price": 750,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 939,
     "server_id": 26,
     "type": "house",
@@ -25176,6 +25140,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1228,
+    "server_id": 26,
+    "type": "house",
+    "name": "Чайный домик",
+    "owner": "Tea_Otsuka",
+    "status": "Аукцион",
+    "x": -2477.21,
+    "y": 1318.55,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1234,
+    "server_id": 26,
+    "type": "house",
+    "name": "Чайный домик",
+    "owner": "Tea_Otsuka",
+    "status": "Аукцион",
+    "x": -2433.73,
+    "y": 1281.56,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1344,
+    "server_id": 26,
+    "type": "house",
+    "name": "Чайный домик",
+    "owner": "Tea_Otsuka",
+    "status": "Аукцион",
+    "x": 1623.48,
+    "y": 2567.34,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1958,
     "server_id": 26,
     "type": "house",
@@ -25185,6 +25185,18 @@
     "x": -2618.75,
     "y": 831.004,
     "price": 499,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 193,
+    "server_id": 26,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Montana_McLarren",
+    "status": "Аукцион",
+    "x": 2405.02,
+    "y": -1933.97,
+    "price": 50000,
     "district": "Сан-Андреас"
   },
   {
@@ -28136,18 +28148,6 @@
     "status": "Занято",
     "x": 1136.97,
     "y": -1456.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 193,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Montana_McLarren",
-    "status": "Занято",
-    "x": 2405.02,
-    "y": -1933.97,
     "price": 0,
     "district": "Сан-Андреас"
   },

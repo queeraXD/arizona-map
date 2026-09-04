@@ -1336,7 +1336,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Дом Ivankasqad",
-    "owner": "Eternal_Opulence",
+    "owner": "Dura_Chok",
     "status": "Занято",
     "x": -49.8596,
     "y": -269.3619,
@@ -7404,18 +7404,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 617,
-    "server_id": 1,
-    "type": "house",
-    "name": "Revenge house",
-    "owner": "Bender_Revenge",
-    "status": "Занято",
-    "x": -881.726,
-    "y": 1532.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 618,
     "server_id": 1,
     "type": "house",
@@ -10536,18 +10524,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 879,
-    "server_id": 1,
-    "type": "house",
-    "name": "Religion",
-    "owner": "Bender_Revenge",
-    "status": "Занято",
-    "x": -186.8869,
-    "y": 2539.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 880,
     "server_id": 1,
     "type": "house",
@@ -11728,7 +11704,7 @@
     "server_id": 1,
     "type": "house",
     "name": "ivankasqad geng",
-    "owner": "Eternal_Opulence",
+    "owner": "Dura_Chok",
     "status": "Занято",
     "x": -23.8712,
     "y": -2481.97,
@@ -11752,7 +11728,7 @@
     "server_id": 1,
     "type": "house",
     "name": "ivankasqad",
-    "owner": "Eternal_Opulence",
+    "owner": "Dura_Chok",
     "status": "Занято",
     "x": -7.3498,
     "y": -2510.14,
@@ -24156,6 +24132,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 617,
+    "server_id": 1,
+    "type": "house",
+    "name": "Revenge house",
+    "owner": "Bender_Revenge",
+    "status": "Аукцион",
+    "x": -881.726,
+    "y": 1532.36,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 879,
+    "server_id": 1,
+    "type": "house",
+    "name": "Religion",
+    "owner": "Bender_Revenge",
+    "status": "Аукцион",
+    "x": -186.8869,
+    "y": 2539.08,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 907,
     "server_id": 1,
     "type": "house",
@@ -24165,18 +24165,6 @@
     "x": -651.3439,
     "y": 1450.37,
     "price": 9000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 250,
-    "server_id": 1,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Vladimir_Hmxd",
-    "status": "Аукцион",
-    "x": 2170.48,
-    "y": 542.934,
-    "price": 249999,
     "district": "Сан-Андреас"
   },
   {
@@ -25592,6 +25580,18 @@
     "status": "Занято",
     "x": 111.076,
     "y": -1782.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 250,
+    "server_id": 1,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Vladimir_Hmxd",
+    "status": "Занято",
+    "x": 2170.48,
+    "y": 542.934,
     "price": 0,
     "district": "Сан-Андреас"
   },

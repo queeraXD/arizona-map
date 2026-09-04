@@ -3432,6 +3432,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 287,
+    "server_id": 25,
+    "type": "house",
+    "name": "ТОп",
+    "owner": "Oleksii_Dashkivskyi",
+    "status": "Занято",
+    "x": 2491.35,
+    "y": -1012.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 288,
     "server_id": 25,
     "type": "house",
@@ -6664,7 +6676,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Naldon_Legenda",
+    "owner": "Lovec_Pisunov",
     "status": "Занято",
     "x": 312.3569,
     "y": 1068.43,
@@ -11004,18 +11016,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 922,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Maxim_Reqwezz",
-    "status": "Занято",
-    "x": -2280.46,
-    "y": 1130.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 923,
     "server_id": 25,
     "type": "house",
@@ -11120,18 +11120,6 @@
     "status": "Занято",
     "x": -2017.56,
     "y": 982.8229,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 932,
-    "server_id": 25,
-    "type": "house",
-    "name": "ферма дорелли",
-    "owner": "Bot_Lovli",
-    "status": "Занято",
-    "x": -2017.94,
-    "y": 970.2399,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15920,18 +15908,6 @@
     "status": "Занято",
     "x": 1564.78,
     "y": 2776.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1332,
-    "server_id": 25,
-    "type": "house",
-    "name": "Empire_Cruel",
-    "owner": "Bot_Lovli",
-    "status": "Занято",
-    "x": 1565.47,
-    "y": 2757.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21016,7 +20992,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Tixo",
-    "owner": "Naldon_Legenda",
+    "owner": "Lovec_Pisunov",
     "status": "Занято",
     "x": 2003.68,
     "y": 2159.12,
@@ -21595,18 +21571,6 @@
     "owner": "Ivan_Brabus",
     "status": "Занято",
     "x": 2501.34,
-    "y": 1682.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1809,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Maxim_Reqwezz",
-    "status": "Занято",
-    "x": 2506.3,
     "y": 1682.87,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22304,18 +22268,6 @@
     "status": "Занято",
     "x": 2476.31,
     "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1868,
-    "server_id": 25,
-    "type": "house",
-    "name": "ЛС, Майнинг",
-    "owner": "Vitalij_Hog",
-    "status": "Занято",
-    "x": 2473.12,
-    "y": -1383.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23712,18 +23664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 287,
-    "server_id": 25,
-    "type": "house",
-    "name": "ТОп",
-    "owner": "Oleksii_Dashkivskyi",
-    "status": "Аукцион",
-    "x": 2491.35,
-    "y": -1012.34,
-    "price": 5500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 524,
     "server_id": 25,
     "type": "house",
@@ -23748,6 +23688,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 922,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Maxim_Reqwezz",
+    "status": "Аукцион",
+    "x": -2280.46,
+    "y": 1130.83,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 932,
+    "server_id": 25,
+    "type": "house",
+    "name": "ферма дорелли",
+    "owner": "Bot_Lovli",
+    "status": "Аукцион",
+    "x": -2017.94,
+    "y": 970.2399,
+    "price": 2005,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1332,
+    "server_id": 25,
+    "type": "house",
+    "name": "Empire_Cruel",
+    "owner": "Bot_Lovli",
+    "status": "Аукцион",
+    "x": 1565.47,
+    "y": 2757.16,
+    "price": 4005,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1531,
     "server_id": 25,
     "type": "house",
@@ -23769,6 +23745,30 @@
     "x": 2601.05,
     "y": -1200.18,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1809,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Maxim_Reqwezz",
+    "status": "Аукцион",
+    "x": 2506.3,
+    "y": 1682.87,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1868,
+    "server_id": 25,
+    "type": "house",
+    "name": "Майнинг 10LVL",
+    "owner": "Vitalij_Hog",
+    "status": "Аукцион",
+    "x": 2473.12,
+    "y": -1383.12,
+    "price": 4005,
     "district": "Сан-Андреас"
   },
   {
@@ -26272,7 +26272,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Отель",
-    "owner": "Besso_Reez",
+    "owner": "Alexey_Silverstone",
     "status": "Занято",
     "x": 1274.509,
     "y": -1319.577,
@@ -26320,7 +26320,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Отель",
-    "owner": "Alexey_Silverstone",
+    "owner": "Besso_Reez",
     "status": "Занято",
     "x": 2135.145,
     "y": 2379.054,

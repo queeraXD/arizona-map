@@ -60,30 +60,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 5,
-    "server_id": 13,
-    "type": "house",
-    "name": "Берлога Медведя Балу",
-    "owner": "Wolf_Akela",
-    "status": "Занято",
-    "x": 1997.59,
-    "y": -1112.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 6,
-    "server_id": 13,
-    "type": "house",
-    "name": "Берлога Медведя Балу",
-    "owner": "Wolf_Akela",
-    "status": "Занято",
-    "x": 1997.48,
-    "y": -1116.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 7,
     "server_id": 13,
     "type": "house",
@@ -10032,6 +10008,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 836,
+    "server_id": 13,
+    "type": "house",
+    "name": "My House the like",
+    "owner": "Sandy_Evans",
+    "status": "Занято",
+    "x": -2284.87,
+    "y": 849.708,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 837,
     "server_id": 13,
     "type": "house",
@@ -14907,7 +14895,7 @@
     "id": 1246,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
+    "name": "Берлога Зетсубо",
     "owner": "Zetsubo_Rasuta",
     "status": "Занято",
     "x": -2383.14,
@@ -18224,18 +18212,6 @@
     "status": "Занято",
     "x": 898.5319,
     "y": -1472.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1523,
-    "server_id": 13,
-    "type": "house",
-    "name": "Набор Архитектора",
-    "owner": "Ferdinand_Blessed",
-    "status": "Занято",
-    "x": 852.5189,
-    "y": -1436.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23244,15 +23220,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 836,
+    "id": 5,
     "server_id": 13,
     "type": "house",
-    "name": "My House the like",
-    "owner": "Vlad_Hikikomori",
+    "name": "Берлога Медведя Балу",
+    "owner": "Wolf_Akela",
     "status": "Аукцион",
-    "x": -2284.87,
-    "y": 849.708,
-    "price": 4000,
+    "x": 1997.59,
+    "y": -1112.05,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 6,
+    "server_id": 13,
+    "type": "house",
+    "name": "Берлога Медведя Балу",
+    "owner": "Wolf_Akela",
+    "status": "Аукцион",
+    "x": 1997.48,
+    "y": -1116.92,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -23276,6 +23264,18 @@
     "status": "Аукцион",
     "x": 452.07,
     "y": 1246.99,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1523,
+    "server_id": 13,
+    "type": "house",
+    "name": "Набор Архитектора",
+    "owner": "Ferdinand_Blessed",
+    "status": "Аукцион",
+    "x": 852.5189,
+    "y": -1436.23,
     "price": 1,
     "district": "Сан-Андреас"
   },
