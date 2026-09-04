@@ -312,18 +312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 26,
-    "server_id": 15,
-    "type": "house",
-    "name": "KIM",
-    "owner": "Anyta_Kim",
-    "status": "Занято",
-    "x": 2247.91,
-    "y": -1238.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 27,
     "server_id": 15,
     "type": "house",
@@ -17328,18 +17316,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1445,
-    "server_id": 15,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Anyta_Kim",
-    "status": "Занято",
-    "x": 161.5729,
-    "y": -1455.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1446,
     "server_id": 15,
     "type": "house",
@@ -18104,6 +18080,18 @@
     "status": "Занято",
     "x": -2621.02,
     "y": -134.7709,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1510,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alex_Sedoy",
+    "status": "Занято",
+    "x": -2620.77,
+    "y": -146.2169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21312,15 +21300,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1510,
+    "id": 26,
     "server_id": 15,
     "type": "house",
-    "name": "Дом",
-    "owner": "Alex_Sedoy",
+    "name": "KIM",
+    "owner": "Anyta_Kim",
     "status": "Аукцион",
-    "x": -2620.77,
-    "y": -146.2169,
-    "price": 4500,
+    "x": 2247.91,
+    "y": -1238.57,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1445,
+    "server_id": 15,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Anyta_Kim",
+    "status": "Аукцион",
+    "x": 161.5729,
+    "y": -1455.81,
+    "price": 9000,
     "district": "Сан-Андреас"
   },
   {
@@ -24328,7 +24328,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Richard_Mostly",
+    "owner": "Semka_McCloud",
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,

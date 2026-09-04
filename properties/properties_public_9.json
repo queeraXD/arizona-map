@@ -2268,18 +2268,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 192,
-    "server_id": 9,
-    "type": "house",
-    "name": "United House",
-    "owner": "London_United",
-    "status": "Занято",
-    "x": 295.3489,
-    "y": -1765.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 193,
     "server_id": 9,
     "type": "house",
@@ -3112,7 +3100,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Продается за 7ккк",
-    "owner": "Kenzo_Triad",
+    "owner": "Bob_Bursik",
     "status": "Занято",
     "x": 2373.85,
     "y": -8.6736,
@@ -9200,6 +9188,18 @@
     "status": "Занято",
     "x": -2594.19,
     "y": 768.164,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 770,
+    "server_id": 9,
+    "type": "house",
+    "name": "Spirits",
+    "owner": "Alex_Kaber",
+    "status": "Занято",
+    "x": -2594.19,
+    "y": 785.1649,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22488,18 +22488,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1882,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Eternal_Despaired",
-    "status": "Занято",
-    "x": -17.7366,
-    "y": 1215.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1883,
     "server_id": 9,
     "type": "house",
@@ -23904,15 +23892,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 770,
+    "id": 192,
     "server_id": 9,
     "type": "house",
-    "name": "Milivins",
-    "owner": "Unwritten_Reply",
+    "name": "United House",
+    "owner": "London_United",
     "status": "Аукцион",
-    "x": -2594.19,
-    "y": 785.1649,
-    "price": 7000,
+    "x": 295.3489,
+    "y": -1765.47,
+    "price": 65000,
     "district": "Сан-Андреас"
   },
   {
@@ -23925,6 +23913,18 @@
     "x": -2303.38,
     "y": 656.7349,
     "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1882,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Eternal_Despaired",
+    "status": "Аукцион",
+    "x": -17.7366,
+    "y": 1215.41,
+    "price": 13500,
     "district": "Сан-Андреас"
   },
   {
