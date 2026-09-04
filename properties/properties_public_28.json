@@ -336,18 +336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 28,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом в Los-Santos",
-    "owner": "Junior_Darkside",
-    "status": "Занято",
-    "x": 2209.7,
-    "y": -1240.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 29,
     "server_id": 28,
     "type": "house",
@@ -12972,18 +12960,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1083,
-    "server_id": 28,
-    "type": "house",
-    "name": "1083",
-    "owner": "Djonny_Fox",
-    "status": "Занято",
-    "x": -2844.68,
-    "y": 921.177,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1084,
     "server_id": 28,
     "type": "house",
@@ -22335,7 +22311,7 @@
     "id": 1864,
     "server_id": 28,
     "type": "house",
-    "name": "1865 it is mine, берегите деньг",
+    "name": "братская",
     "owner": "Professor_Gamos",
     "status": "Занято",
     "x": 7.3228,
@@ -22356,6 +22332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 28,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом в Los-Santos",
+    "owner": "Junior_Darkside",
+    "status": "Аукцион",
+    "x": 2209.7,
+    "y": -1240.25,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 210,
     "server_id": 28,
     "type": "house",
@@ -22368,27 +22356,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 77,
+    "id": 1083,
     "server_id": 28,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Maximus_Soprano",
+    "type": "house",
+    "name": "1083",
+    "owner": "Djonny_Fox",
     "status": "Аукцион",
-    "x": -227.385,
-    "y": 2711.95,
-    "price": 135000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 219,
-    "server_id": 28,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Maximus_Soprano",
-    "status": "Аукцион",
-    "x": 2824.77,
-    "y": 1290.68,
-    "price": 100000,
+    "x": -2844.68,
+    "y": 921.177,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
@@ -23072,6 +23048,18 @@
     "status": "Занято",
     "x": -179.189,
     "y": 1133.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 77,
+    "server_id": 28,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Maximus_Soprano",
+    "status": "Занято",
+    "x": -227.385,
+    "y": 2711.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25568,6 +25556,18 @@
     "status": "Занято",
     "x": 1500.24,
     "y": -1628.79,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 219,
+    "server_id": 28,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Maximus_Soprano",
+    "status": "Занято",
+    "x": 2824.77,
+    "y": 1290.68,
     "price": 0,
     "district": "Сан-Андреас"
   },

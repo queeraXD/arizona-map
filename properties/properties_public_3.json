@@ -2256,6 +2256,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 188,
+    "server_id": 3,
+    "type": "house",
+    "name": "Бурмалда",
+    "owner": "Sterling_Ravenscroft",
+    "status": "Занято",
+    "x": 769.1149,
+    "y": -1696.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 189,
     "server_id": 3,
     "type": "house",
@@ -23988,18 +24000,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 188,
-    "server_id": 3,
-    "type": "house",
-    "name": "Бурмалда",
-    "owner": "Sterling_Ravenscroft",
-    "status": "Аукцион",
-    "x": 769.1149,
-    "y": -1696.62,
-    "price": 35000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 891,
     "server_id": 3,
     "type": "house",
@@ -24009,18 +24009,6 @@
     "x": -2075.03,
     "y": -2526.84,
     "price": 13000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 116,
-    "server_id": 3,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Ray_Rasta",
-    "status": "Аукцион",
-    "x": -2163.47,
-    "y": 129.382,
-    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
@@ -24128,6 +24116,18 @@
     "status": "Занято",
     "x": -2625.72,
     "y": 209.242,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 116,
+    "server_id": 3,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Ray_Rasta",
+    "status": "Занято",
+    "x": -2163.47,
+    "y": 129.382,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25048,7 +25048,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Liza_Typova",
+    "owner": "Volt_Fruktoviy",
     "status": "Занято",
     "x": -2373.8,
     "y": 910.117,
