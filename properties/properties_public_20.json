@@ -5196,6 +5196,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 434,
+    "server_id": 20,
+    "type": "house",
+    "name": "бидыщ",
+    "owner": "Luz_Noceda",
+    "status": "Занято",
+    "x": 2297.67,
+    "y": -1053.05,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 435,
     "server_id": 20,
     "type": "house",
@@ -5464,7 +5476,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Scrooge C.O.",
-    "owner": "Vanechka_Implored",
+    "owner": "Kizaru_Hella",
     "status": "Занято",
     "x": 2069.02,
     "y": 696.2709,
@@ -9384,18 +9396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 784,
-    "server_id": 20,
-    "type": "house",
-    "name": ":cross: Хатынка Ковбасы :cross:",
-    "owner": "Angel_Horny",
-    "status": "Занято",
-    "x": -2513.5,
-    "y": 849.1569,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 785,
     "server_id": 20,
     "type": "house",
@@ -9448,7 +9448,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Taro Estate",
-    "owner": "Rjey_Javelin",
+    "owner": "Kos_Mos",
     "status": "Занято",
     "x": -2580.91,
     "y": 920.38,
@@ -10216,7 +10216,7 @@
     "server_id": 20,
     "type": "house",
     "name": "алинка котик",
-    "owner": "Rjey_Javelin",
+    "owner": "Kos_Mos",
     "status": "Занято",
     "x": -2102.68,
     "y": 1160.96,
@@ -14668,7 +14668,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Lauren House",
-    "owner": "Rjey_Javelin",
+    "owner": "Denis_Savelev",
     "status": "Занято",
     "x": -2476.96,
     "y": 1273.98,
@@ -19276,7 +19276,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Farmila SWAG",
-    "owner": "Rjey_Javelin",
+    "owner": "Kos_Mos",
     "status": "Занято",
     "x": 2007.31,
     "y": 2132.91,
@@ -21736,7 +21736,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Берлога Астры",
-    "owner": "Rjey_Javelin",
+    "owner": "Kos_Mos",
     "status": "Занято",
     "x": 2633.17,
     "y": 1978.84,
@@ -22332,15 +22332,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 434,
+    "id": 784,
     "server_id": 20,
     "type": "house",
-    "name": "бидыщ",
-    "owner": "Sawa_Moretti",
+    "name": ":cross: Хатынка Ковбасы :cross:",
+    "owner": "Angel_Horny",
     "status": "Аукцион",
-    "x": 2297.67,
-    "y": -1053.05,
-    "price": 100,
+    "x": -2513.5,
+    "y": 849.1569,
+    "price": 8000,
     "district": "Сан-Андреас"
   },
   {
@@ -22353,30 +22353,6 @@
     "x": 1749.16,
     "y": 2755.89,
     "price": 7000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 182,
-    "server_id": 20,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Alfredo_James",
-    "status": "Аукцион",
-    "x": 1104.78,
-    "y": 1380.93,
-    "price": 90000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 187,
-    "server_id": 20,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Alfredo_James",
-    "status": "Аукцион",
-    "x": 158.63,
-    "y": -1812.59,
-    "price": 80000,
     "district": "Сан-Андреас"
   },
   {
@@ -25200,6 +25176,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 182,
+    "server_id": 20,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Alfredo_James",
+    "status": "Занято",
+    "x": 1104.78,
+    "y": 1380.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 183,
     "server_id": 20,
     "type": "business",
@@ -25244,6 +25232,18 @@
     "status": "Занято",
     "x": 2268.78,
     "y": 624.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 187,
+    "server_id": 20,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Alfredo_James",
+    "status": "Занято",
+    "x": 158.63,
+    "y": -1812.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
