@@ -48,6 +48,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 4,
+    "server_id": 1,
+    "type": "house",
+    "name": "Bernhard | Ghetto 1 | Dynasty",
+    "owner": "Thomas_Bernhard",
+    "status": "Занято",
+    "x": 1955.12,
+    "y": -1115.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 5,
     "server_id": 1,
     "type": "house",
@@ -24132,18 +24144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 4,
-    "server_id": 1,
-    "type": "house",
-    "name": "Bernhard | Ghetto 1 | Dynasty",
-    "owner": "Thomas_Bernhard",
-    "status": "Аукцион",
-    "x": 1955.12,
-    "y": -1115.4,
-    "price": 35000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 617,
     "server_id": 1,
     "type": "house",
@@ -24165,30 +24165,6 @@
     "x": -186.8869,
     "y": 2539.08,
     "price": 12000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 138,
-    "server_id": 1,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Thomas_Bernhard",
-    "status": "Аукцион",
-    "x": 493.9368,
-    "y": -1642.748,
-    "price": 400000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 139,
-    "server_id": 1,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Thomas_Bernhard",
-    "status": "Аукцион",
-    "x": 349.0463,
-    "y": -1492.653,
-    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -26600,6 +26576,30 @@
     "status": "Занято",
     "x": 1256.55,
     "y": 274.927,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 138,
+    "server_id": 1,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Thomas_Bernhard",
+    "status": "Занято",
+    "x": 493.9368,
+    "y": -1642.748,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 139,
+    "server_id": 1,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Tweenky_Twix",
+    "status": "Занято",
+    "x": 349.0463,
+    "y": -1492.653,
     "price": 0,
     "district": "Сан-Андреас"
   },
