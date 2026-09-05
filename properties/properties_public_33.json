@@ -1,17 +1,5 @@
 [
   {
-    "id": 0,
-    "server_id": 33,
-    "type": "house",
-    "name": "КРУТОЙ ДОМИК",
-    "owner": "Kfs_Hokage",
-    "status": "Занято",
-    "x": 1885.88,
-    "y": -1113.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1,
     "server_id": 33,
     "type": "house",
@@ -1635,7 +1623,7 @@
     "id": 137,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "bonus1",
     "owner": "Kirill_Homie",
     "status": "Занято",
     "x": 1714.97,
@@ -1647,7 +1635,7 @@
     "id": 138,
     "server_id": 33,
     "type": "house",
-    "name": "40 squad",
+    "name": "bonus",
     "owner": "Kirill_Homie",
     "status": "Занято",
     "x": 1695.52,
@@ -3096,6 +3084,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 259,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Andrey_Drey",
+    "status": "Занято",
+    "x": 2089.57,
+    "y": -995.971,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 260,
     "server_id": 33,
     "type": "house",
@@ -4220,6 +4220,18 @@
     "status": "Занято",
     "x": 1280.86,
     "y": -874.8439,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 355,
+    "server_id": 33,
+    "type": "house",
+    "name": "333",
+    "owner": "Andrey_Drey",
+    "status": "Занято",
+    "x": 1288.34,
+    "y": -873.7819,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5812,7 +5824,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Kirill_Morys",
+    "owner": "Serega_Binance",
     "status": "Занято",
     "x": 2071.46,
     "y": 776.244,
@@ -11360,6 +11372,30 @@
     "status": "Занято",
     "x": -2159.6,
     "y": 946.984,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 956,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Andrey_Drey",
+    "status": "Занято",
+    "x": -2192.67,
+    "y": 934.1019,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 957,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Andrey_Drey",
+    "status": "Занято",
+    "x": -2211.09,
+    "y": 933.7139,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18652,22 +18688,10 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Geforce_Rtx",
+    "owner": "Rastenia_Protivzombe",
     "status": "Занято",
     "x": 2541.53,
     "y": 1231.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1618,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Privat24",
-    "status": "Занято",
-    "x": 2541.53,
-    "y": 1225.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20772,6 +20796,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1795,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Andrey_Drey",
+    "status": "Занято",
+    "x": 2643.8,
+    "y": 2195.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1796,
     "server_id": 33,
     "type": "house",
@@ -22140,6 +22176,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 0,
+    "server_id": 33,
+    "type": "house",
+    "name": "КРУТОЙ ДОМИК",
+    "owner": "Kfs_Hokage",
+    "status": "Аукцион",
+    "x": 1885.88,
+    "y": -1113.56,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 111,
     "server_id": 33,
     "type": "house",
@@ -22149,18 +22197,6 @@
     "x": 2269.22,
     "y": -1882.41,
     "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 259,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Andrey_Drey",
-    "status": "Аукцион",
-    "x": 2089.57,
-    "y": -995.971,
-    "price": 4500,
     "district": "Сан-Андреас"
   },
   {
@@ -22176,18 +22212,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 355,
-    "server_id": 33,
-    "type": "house",
-    "name": "333",
-    "owner": "Andrey_Drey",
-    "status": "Аукцион",
-    "x": 1288.34,
-    "y": -873.7819,
-    "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 382,
     "server_id": 33,
     "type": "house",
@@ -22200,27 +22224,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 956,
+    "id": 1618,
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Andrey_Drey",
+    "owner": "Sergio_Mozol",
     "status": "Аукцион",
-    "x": -2192.67,
-    "y": 934.1019,
-    "price": 1800,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 957,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Andrey_Drey",
-    "status": "Аукцион",
-    "x": -2211.09,
-    "y": 933.7139,
-    "price": 1800,
+    "x": 2541.53,
+    "y": 1225.79,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
@@ -22233,18 +22245,6 @@
     "x": 2468.33,
     "y": -1383.37,
     "price": 2500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1795,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Andrey_Drey",
-    "status": "Аукцион",
-    "x": 2643.8,
-    "y": 2195.56,
-    "price": 1100,
     "district": "Сан-Андреас"
   },
   {

@@ -4944,18 +4944,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 412,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sinister_Surprise",
-    "status": "Занято",
-    "x": 1435.43,
-    "y": 334.625,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 413,
     "server_id": 10,
     "type": "house",
@@ -11532,6 +11520,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 962,
+    "server_id": 10,
+    "type": "house",
+    "name": "могила хаус",
+    "owner": "Niyaz_Skyworth",
+    "status": "Занято",
+    "x": -2168.74,
+    "y": 743.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 963,
     "server_id": 10,
     "type": "house",
@@ -17724,18 +17724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1479,
-    "server_id": 10,
-    "type": "house",
-    "name": "Санта-Клаус",
-    "owner": "Podpal_Dryn",
-    "status": "Занято",
-    "x": -2591.17,
-    "y": 960.7509,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1480,
     "server_id": 10,
     "type": "house",
@@ -19280,6 +19268,18 @@
     "status": "Занято",
     "x": -2158.67,
     "y": 889.114,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1609,
+    "server_id": 10,
+    "type": "house",
+    "name": "Недвижимость Forbes",
+    "owner": "Niyaz_Skyworth",
+    "status": "Занято",
+    "x": -2129.23,
+    "y": 894.9019,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23328,27 +23328,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 962,
+    "id": 412,
     "server_id": 10,
     "type": "house",
-    "name": "могила хаус",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2168.74,
-    "y": 743.76,
-    "price": 0,
+    "name": "Дом",
+    "owner": "Sinister_Surprise",
+    "status": "Аукцион",
+    "x": 1435.43,
+    "y": 334.625,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1609,
+    "id": 1479,
     "server_id": 10,
     "type": "house",
-    "name": "Недвижимость Forbes",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2129.23,
-    "y": 894.9019,
-    "price": 0,
+    "name": "Дом",
+    "owner": "Podpal_Dryn",
+    "status": "Аукцион",
+    "x": -2591.17,
+    "y": 960.7509,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
