@@ -6684,18 +6684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 558,
-    "server_id": 3,
-    "type": "house",
-    "name": "UnderPivo Sqd",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": 312.3569,
-    "y": 1068.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 559,
     "server_id": 3,
     "type": "house",
@@ -9360,18 +9348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 781,
-    "server_id": 3,
-    "type": "house",
-    "name": "UnderPivo Sqd",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": -2541.25,
-    "y": 750.9169,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 782,
     "server_id": 3,
     "type": "house",
@@ -10504,7 +10480,7 @@
     "server_id": 3,
     "type": "house",
     "name": "ГОМЕР БАРТОВ",
-    "owner": "Santiago_Barbaro",
+    "owner": "Joan_Garcia",
     "status": "Занято",
     "x": -192.645,
     "y": 2552.0,
@@ -15600,18 +15576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1304,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": -2524.38,
-    "y": -145.865,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1305,
     "server_id": 3,
     "type": "house",
@@ -15956,18 +15920,6 @@
     "status": "Занято",
     "x": -2583.97,
     "y": 992.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1334,
-    "server_id": 3,
-    "type": "house",
-    "name": "Vehovets House",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": -2596.65,
-    "y": 986.419,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17436,30 +17388,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1457,
-    "server_id": 3,
-    "type": "house",
-    "name": "ИЗБУХА ФАРМИЛЫ",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": 1738.43,
-    "y": 2861.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1458,
-    "server_id": 3,
-    "type": "house",
-    "name": "gangster lovit",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": 1728.11,
-    "y": 2834.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1459,
     "server_id": 3,
     "type": "house",
@@ -17979,7 +17907,7 @@
     "id": 1502,
     "server_id": 3,
     "type": "house",
-    "name": "Братва",
+    "name": "с деп.условиями",
     "owner": "Asu_Lesters",
     "status": "Занято",
     "x": -2359.34,
@@ -23976,6 +23904,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 558,
+    "server_id": 3,
+    "type": "house",
+    "name": "с деп.условиями",
+    "owner": "Asu_Lesters",
+    "status": "Аукцион",
+    "x": 312.3569,
+    "y": 1068.43,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 781,
+    "server_id": 3,
+    "type": "house",
+    "name": "UnderPivo Sqd",
+    "owner": "Asu_Lesters",
+    "status": "Аукцион",
+    "x": -2541.25,
+    "y": 750.9169,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 840,
     "server_id": 3,
     "type": "house",
@@ -23997,6 +23949,54 @@
     "x": -2075.03,
     "y": -2526.84,
     "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1304,
+    "server_id": 3,
+    "type": "house",
+    "name": "деп.условиями",
+    "owner": "Asu_Lesters",
+    "status": "Аукцион",
+    "x": -2524.38,
+    "y": -145.865,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1334,
+    "server_id": 3,
+    "type": "house",
+    "name": "с деп.условиями",
+    "owner": "Asu_Lesters",
+    "status": "Аукцион",
+    "x": -2596.65,
+    "y": 986.419,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1457,
+    "server_id": 3,
+    "type": "house",
+    "name": "с деп.условиями",
+    "owner": "Asu_Lesters",
+    "status": "Аукцион",
+    "x": 1738.43,
+    "y": 2861.56,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1458,
+    "server_id": 3,
+    "type": "house",
+    "name": "gangster lovit",
+    "owner": "Asu_Lesters",
+    "status": "Аукцион",
+    "x": 1728.11,
+    "y": 2834.84,
+    "price": 6500,
     "district": "Сан-Андреас"
   },
   {

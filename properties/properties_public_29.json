@@ -2544,18 +2544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
-    "server_id": 29,
-    "type": "house",
-    "name": "AltaHouse",
-    "owner": "More_Alta",
-    "status": "Занято",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 213,
     "server_id": 29,
     "type": "house",
@@ -6504,18 +6492,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 544,
-    "server_id": 29,
-    "type": "house",
-    "name": "depozity",
-    "owner": "Easy_Way",
-    "status": "Занято",
-    "x": 1921.69,
-    "y": 2664.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 545,
     "server_id": 29,
     "type": "house",
@@ -7324,7 +7300,7 @@
     "server_id": 29,
     "type": "house",
     "name": "unlucky squad",
-    "owner": "Valeriy_Romanson",
+    "owner": "Waseri_Abaes",
     "status": "Занято",
     "x": -881.6329,
     "y": 1562.08,
@@ -7336,7 +7312,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Horas",
-    "owner": "Valeriy_Romanson",
+    "owner": "Chokoladniy_Zaika",
     "status": "Занято",
     "x": -884.163,
     "y": 1553.25,
@@ -7820,6 +7796,18 @@
     "status": "Занято",
     "x": 2065.71,
     "y": 650.2559,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 655,
+    "server_id": 29,
+    "type": "house",
+    "name": "Home №2",
+    "owner": "Steve_Bober",
+    "status": "Занято",
+    "x": 2013.32,
+    "y": 730.669,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9380,18 +9368,6 @@
     "status": "Занято",
     "x": -2513.51,
     "y": 885.7399,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 787,
-    "server_id": 29,
-    "type": "house",
-    "name": "Майнинг Ролтона №2",
-    "owner": "Easy_Way",
-    "status": "Занято",
-    "x": -2543.58,
-    "y": 922.2329,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12464,18 +12440,6 @@
     "status": "Занято",
     "x": -1761.0,
     "y": 1174.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1044,
-    "server_id": 29,
-    "type": "house",
-    "name": "Папочка могает",
-    "owner": "Artur_Xamam",
-    "status": "Занято",
-    "x": -1780.35,
-    "y": 1138.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21036,6 +21000,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 212,
+    "server_id": 29,
+    "type": "house",
+    "name": "AltaHouse",
+    "owner": "More_Alta",
+    "status": "Аукцион",
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 532,
     "server_id": 29,
     "type": "house",
@@ -21060,6 +21036,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 544,
+    "server_id": 29,
+    "type": "house",
+    "name": "depozity",
+    "owner": "Easy_Way",
+    "status": "Аукцион",
+    "x": 1921.69,
+    "y": 2664.64,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 558,
     "server_id": 29,
     "type": "house",
@@ -21068,18 +21056,6 @@
     "status": "Аукцион",
     "x": 312.3569,
     "y": 1068.43,
-    "price": 4000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 655,
-    "server_id": 29,
-    "type": "house",
-    "name": "Watson Family",
-    "owner": "Searchnight_Wth",
-    "status": "Аукцион",
-    "x": 2013.32,
-    "y": 730.669,
     "price": 4000,
     "district": "Сан-Андреас"
   },
@@ -21093,6 +21069,30 @@
     "x": -2738.32,
     "y": 746.648,
     "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 787,
+    "server_id": 29,
+    "type": "house",
+    "name": "Майнинг Ролтона №2",
+    "owner": "Easy_Way",
+    "status": "Аукцион",
+    "x": -2543.58,
+    "y": 922.2329,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1044,
+    "server_id": 29,
+    "type": "house",
+    "name": "Папочка могает",
+    "owner": "Artur_Xamam",
+    "status": "Аукцион",
+    "x": -1780.35,
+    "y": 1138.77,
+    "price": 4444,
     "district": "Сан-Андреас"
   },
   {
