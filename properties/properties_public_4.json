@@ -360,18 +360,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 30,
-    "server_id": 4,
-    "type": "house",
-    "name": "Amaterasu House",
-    "owner": "Nate_Amaterasu",
-    "status": "Занято",
-    "x": 2153.86,
-    "y": -1243.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 31,
     "server_id": 4,
     "type": "house",
@@ -8420,30 +8408,6 @@
     "status": "Занято",
     "x": 1451.27,
     "y": 2565.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 702,
-    "server_id": 4,
-    "type": "house",
-    "name": "Amaterasu House",
-    "owner": "Nate_Amaterasu",
-    "status": "Занято",
-    "x": 1454.23,
-    "y": 2525.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 703,
-    "server_id": 4,
-    "type": "house",
-    "name": "Amaterasu House",
-    "owner": "Nate_Amaterasu",
-    "status": "Занято",
-    "x": 1503.29,
-    "y": 2567.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17184,18 +17148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1434,
-    "server_id": 4,
-    "type": "house",
-    "name": "Amaterasu House",
-    "owner": "Nate_Amaterasu",
-    "status": "Занято",
-    "x": 2090.56,
-    "y": -1235.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1435,
     "server_id": 4,
     "type": "house",
@@ -18332,18 +18284,6 @@
     "status": "Занято",
     "x": 1551.47,
     "y": 2567.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1530,
-    "server_id": 4,
-    "type": "house",
-    "name": "Amaterasu House",
-    "owner": "Nate_Amaterasu",
-    "status": "Занято",
-    "x": 1513.43,
-    "y": 2565.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19892,18 +19832,6 @@
     "status": "Занято",
     "x": -2515.38,
     "y": -154.0319,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1660,
-    "server_id": 4,
-    "type": "house",
-    "name": "Amaterasu House",
-    "owner": "Nate_Amaterasu",
-    "status": "Занято",
-    "x": 1500.82,
-    "y": 2535.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22484,18 +22412,6 @@
     "status": "Занято",
     "x": -2361.51,
     "y": 246.619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1877,
-    "server_id": 4,
-    "type": "house",
-    "name": "Amaterasu Apartments",
-    "owner": "Nate_Amaterasu",
-    "status": "Занято",
-    "x": -2361.44,
-    "y": 251.6199,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25236,6 +25152,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 30,
+    "server_id": 4,
+    "type": "house",
+    "name": "Amaterasu House",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2153.86,
+    "y": -1243.36,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 702,
+    "server_id": 4,
+    "type": "house",
+    "name": "Amaterasu House",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1454.23,
+    "y": 2525.59,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 703,
+    "server_id": 4,
+    "type": "house",
+    "name": "Amaterasu House",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1503.29,
+    "y": 2567.72,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1040,
     "server_id": 4,
     "type": "house",
@@ -25248,6 +25200,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1434,
+    "server_id": 4,
+    "type": "house",
+    "name": "Amaterasu House",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2090.56,
+    "y": -1235.18,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1530,
+    "server_id": 4,
+    "type": "house",
+    "name": "Amaterasu House",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1513.43,
+    "y": 2565.43,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1660,
+    "server_id": 4,
+    "type": "house",
+    "name": "Amaterasu House",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1500.82,
+    "y": 2535.29,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1772,
     "server_id": 4,
     "type": "house",
@@ -25257,6 +25245,18 @@
     "x": 1115.72,
     "y": -1562.69,
     "price": 115000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1877,
+    "server_id": 4,
+    "type": "house",
+    "name": "Amaterasu Apartments",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2361.44,
+    "y": 251.6199,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {

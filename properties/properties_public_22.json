@@ -2976,18 +2976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 248,
-    "server_id": 22,
-    "type": "house",
-    "name": "Unstendet Squad",
-    "owner": "Nox_Nostra",
-    "status": "Занято",
-    "x": 2481.22,
-    "y": 64.3796,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 249,
     "server_id": 22,
     "type": "house",
@@ -4124,18 +4112,6 @@
     "status": "Занято",
     "x": 719.0629,
     "y": 300.639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 344,
-    "server_id": 22,
-    "type": "house",
-    "name": "owner 123123",
-    "owner": "Tap_Mcloud",
-    "status": "Занято",
-    "x": 746.4089,
-    "y": 304.946,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5336,6 +5312,18 @@
     "status": "Занято",
     "x": 2439.9,
     "y": -1010.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 446,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nikolay_Johnson",
+    "status": "Занято",
+    "x": 2440.64,
+    "y": -1057.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10160,18 +10148,6 @@
     "status": "Занято",
     "x": -2157.62,
     "y": 1117.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 849,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tony_Grozny",
-    "status": "Занято",
-    "x": -2158.05,
-    "y": 1148.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20748,18 +20724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1731,
-    "server_id": 22,
-    "type": "house",
-    "name": "СПОРТИК",
-    "owner": "Erick_Martins",
-    "status": "Занято",
-    "x": 2468.47,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1732,
     "server_id": 22,
     "type": "house",
@@ -22020,6 +21984,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 248,
+    "server_id": 22,
+    "type": "house",
+    "name": "Unstendet Squad",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2481.22,
+    "y": 64.3796,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 344,
+    "server_id": 22,
+    "type": "house",
+    "name": "owner 123123",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 746.4089,
+    "y": 304.946,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 350,
     "server_id": 22,
     "type": "house",
@@ -22032,15 +22020,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 446,
+    "id": 849,
     "server_id": 22,
     "type": "house",
     "name": "Дом",
-    "owner": "Nikolay_Johnson",
+    "owner": "Tony_Grozny",
     "status": "Аукцион",
-    "x": 2440.64,
-    "y": -1057.33,
-    "price": 9000,
+    "x": -2158.05,
+    "y": 1148.62,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1731,
+    "server_id": 22,
+    "type": "house",
+    "name": "СПОРТИК",
+    "owner": "Erick_Martins",
+    "status": "Аукцион",
+    "x": 2468.47,
+    "y": -1391.71,
+    "price": 7999,
     "district": "Сан-Андреас"
   },
   {
