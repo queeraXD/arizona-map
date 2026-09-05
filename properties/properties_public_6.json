@@ -3420,18 +3420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
-    "server_id": 6,
-    "type": "house",
-    "name": "tt -temichbrooklyn",
-    "owner": "Temich_Brooklyn",
-    "status": "Занято",
-    "x": 2219.28,
-    "y": -1031.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 286,
     "server_id": 6,
     "type": "house",
@@ -12396,18 +12384,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1033,
-    "server_id": 6,
-    "type": "house",
-    "name": "211",
-    "owner": "Gideon_MacDuck",
-    "status": "Занято",
-    "x": -2172.72,
-    "y": 1163.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1034,
     "server_id": 6,
     "type": "house",
@@ -15992,18 +15968,6 @@
     "status": "Занято",
     "x": -2493.38,
     "y": 1141.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1333,
-    "server_id": 6,
-    "type": "house",
-    "name": "123",
-    "owner": "Gideon_MacDuck",
-    "status": "Занято",
-    "x": -2205.68,
-    "y": 1163.75,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23244,18 +23208,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1944,
-    "server_id": 6,
-    "type": "house",
-    "name": "mafiozniki",
-    "owner": "Temich_Brooklyn",
-    "status": "Занято",
-    "x": -1780.1,
-    "y": 1138.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1945,
     "server_id": 6,
     "type": "house",
@@ -24468,6 +24420,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 285,
+    "server_id": 6,
+    "type": "house",
+    "name": "tt -temichbrooklyn",
+    "owner": "Temich_Brooklyn",
+    "status": "Аукцион",
+    "x": 2219.28,
+    "y": -1031.06,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1033,
+    "server_id": 6,
+    "type": "house",
+    "name": "211",
+    "owner": "Gideon_MacDuck",
+    "status": "Аукцион",
+    "x": -2172.72,
+    "y": 1163.81,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1333,
+    "server_id": 6,
+    "type": "house",
+    "name": "123",
+    "owner": "Gideon_MacDuck",
+    "status": "Аукцион",
+    "x": -2205.68,
+    "y": 1163.75,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1474,
     "server_id": 6,
     "type": "house",
@@ -24525,6 +24513,18 @@
     "x": 2440.7,
     "y": 1215.07,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1944,
+    "server_id": 6,
+    "type": "house",
+    "name": "tt - temichbrooklyn",
+    "owner": "Temich_Brooklyn",
+    "status": "Аукцион",
+    "x": -1780.1,
+    "y": 1138.83,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {

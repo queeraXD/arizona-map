@@ -11472,18 +11472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 959,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nik_Mellodi",
-    "status": "Занято",
-    "x": -2158.75,
-    "y": 786.197,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 960,
     "server_id": 15,
     "type": "house",
@@ -15292,7 +15280,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Ореховское ОПГ",
-    "owner": "Stepan_Orexov",
+    "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": -2383.14,
     "y": 1281.33,
@@ -17300,6 +17288,18 @@
     "status": "Занято",
     "x": 2518.62,
     "y": 58.401,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1445,
+    "server_id": 15,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Anyta_Kim",
+    "status": "Занято",
+    "x": 161.5729,
+    "y": -1455.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21312,15 +21312,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1445,
+    "id": 959,
     "server_id": 15,
     "type": "house",
-    "name": "деп условия",
-    "owner": "Anyta_Kim",
+    "name": "Дом",
+    "owner": "Nik_Mellodi",
     "status": "Аукцион",
-    "x": 161.5729,
-    "y": -1455.81,
-    "price": 9000,
+    "x": -2158.75,
+    "y": 786.197,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 120,
+    "server_id": 15,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Max_Fantom",
+    "status": "Аукцион",
+    "x": -2718.47,
+    "y": 50.452,
+    "price": 135000,
     "district": "Сан-Андреас"
   },
   {
@@ -22292,18 +22304,6 @@
     "status": "Занято",
     "x": -1694.58,
     "y": 951.914,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 120,
-    "server_id": 15,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Max_Fantom",
-    "status": "Занято",
-    "x": -2718.47,
-    "y": 50.452,
     "price": 0,
     "district": "Сан-Андреас"
   },

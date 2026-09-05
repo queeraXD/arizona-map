@@ -6420,18 +6420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 536,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Skiter_Lepko",
-    "status": "Занято",
-    "x": 2037.32,
-    "y": 2721.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 537,
     "server_id": 29,
     "type": "house",
@@ -7836,18 +7824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 655,
-    "server_id": 29,
-    "type": "house",
-    "name": "Watson Family",
-    "owner": "Searchnight_Wth",
-    "status": "Занято",
-    "x": 2013.32,
-    "y": 730.669,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 656,
     "server_id": 29,
     "type": "house",
@@ -9056,18 +9032,6 @@
     "status": "Занято",
     "x": -2731.47,
     "y": 723.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 757,
-    "server_id": 29,
-    "type": "house",
-    "name": "Домик Golda 3 <3",
-    "owner": "Danielle_Rodriguez",
-    "status": "Занято",
-    "x": -2738.32,
-    "y": 746.648,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10892,6 +10856,18 @@
     "status": "Занято",
     "x": -2168.8,
     "y": 796.5159,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 910,
+    "server_id": 29,
+    "type": "house",
+    "name": "shafter_team",
+    "owner": "Maxim_Aloha",
+    "status": "Занято",
+    "x": -2126.8,
+    "y": 1032.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12932,18 +12908,6 @@
     "status": "Занято",
     "x": -2876.04,
     "y": 980.9829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1081,
-    "server_id": 29,
-    "type": "house",
-    "name": "Спрайтер",
-    "owner": "Vitalya_Bob",
-    "status": "Занято",
-    "x": -2853.21,
-    "y": 947.4849,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21084,6 +21048,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 536,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Skiter_Lepko",
+    "status": "Аукцион",
+    "x": 2037.32,
+    "y": 2721.21,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 558,
     "server_id": 29,
     "type": "house",
@@ -21096,15 +21072,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 910,
+    "id": 655,
     "server_id": 29,
     "type": "house",
-    "name": "shafter_team",
-    "owner": "Waseri_Abaes",
+    "name": "Watson Family",
+    "owner": "Searchnight_Wth",
     "status": "Аукцион",
-    "x": -2126.8,
-    "y": 1032.62,
-    "price": 500,
+    "x": 2013.32,
+    "y": 730.669,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 757,
+    "server_id": 29,
+    "type": "house",
+    "name": "Домик Golda 3 <3",
+    "owner": "Danielle_Rodriguez",
+    "status": "Аукцион",
+    "x": -2738.32,
+    "y": 746.648,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1081,
+    "server_id": 29,
+    "type": "house",
+    "name": "Спрайтер",
+    "owner": "Vitalya_Bob",
+    "status": "Аукцион",
+    "x": -2853.21,
+    "y": 947.4849,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -22528,7 +22528,7 @@
     "server_id": 29,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Feldan_Plaki",
+    "owner": "Pharaon_Visconti",
     "status": "Занято",
     "x": 2637.25,
     "y": 1129.68,
