@@ -15048,18 +15048,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1257,
-    "server_id": 8,
-    "type": "house",
-    "name": "во владении пол года",
-    "owner": "Mark_Golovanskiy",
-    "status": "Занято",
-    "x": -2872.46,
-    "y": 697.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1258,
     "server_id": 8,
     "type": "house",
@@ -25764,6 +25752,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1257,
+    "server_id": 8,
+    "type": "house",
+    "name": "во владении пол года",
+    "owner": "Mark_Golovanskiy",
+    "status": "Аукцион",
+    "x": -2872.46,
+    "y": 697.51,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1335,
     "server_id": 8,
     "type": "house",
@@ -25772,7 +25772,7 @@
     "status": "Аукцион",
     "x": -2620.74,
     "y": 120.8109,
-    "price": 2000,
+    "price": 100,
     "district": "Сан-Андреас"
   },
   {
@@ -25785,6 +25785,18 @@
     "x": -2686.8,
     "y": 115.5299,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 24,
+    "server_id": 8,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Maksimka_Konoplev",
+    "status": "Аукцион",
+    "x": -2419.97,
+    "y": 969.867,
+    "price": 380000,
     "district": "Сан-Андреас"
   },
   {
@@ -26996,18 +27008,6 @@
     "status": "Занято",
     "x": -2032.76,
     "y": 161.471,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 24,
-    "server_id": 8,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Maksimka_Konoplev",
-    "status": "Занято",
-    "x": -2419.97,
-    "y": 969.867,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -29896,7 +29896,7 @@
     "server_id": 8,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Vanechka_Implored",
+    "owner": "Natsu_Dragnilka",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

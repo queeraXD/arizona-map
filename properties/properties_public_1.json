@@ -48,18 +48,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 4,
-    "server_id": 1,
-    "type": "house",
-    "name": "Bernhard | Ghetto 1 | Dynasty",
-    "owner": "Thomas_Bernhard",
-    "status": "Занято",
-    "x": 1955.12,
-    "y": -1115.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 5,
     "server_id": 1,
     "type": "house",
@@ -7404,6 +7392,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 617,
+    "server_id": 1,
+    "type": "house",
+    "name": "Revenge house",
+    "owner": "Kakash_Katsuro",
+    "status": "Занято",
+    "x": -881.726,
+    "y": 1532.36,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 618,
     "server_id": 1,
     "type": "house",
@@ -10520,6 +10520,18 @@
     "status": "Занято",
     "x": -192.645,
     "y": 2552.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 879,
+    "server_id": 1,
+    "type": "house",
+    "name": "Religion",
+    "owner": "Kakash_Katsuro",
+    "status": "Занято",
+    "x": -186.8869,
+    "y": 2539.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17280,18 +17292,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1444,
-    "server_id": 1,
-    "type": "house",
-    "name": "деп условия ",
-    "owner": "Hoodrich_Nekit",
-    "status": "Занято",
-    "x": 1495.7,
-    "y": 2033.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1445,
     "server_id": 1,
     "type": "house",
@@ -20211,8 +20211,8 @@
     "id": 1688,
     "server_id": 1,
     "type": "house",
-    "name": "Nevermore_Alienware",
-    "owner": "Vanechka_Travkin",
+    "name": "Kudos Forever",
+    "owner": "Kyosuke_Kudo",
     "status": "Занято",
     "x": 928.6149,
     "y": 2319.31,
@@ -23208,18 +23208,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1941,
-    "server_id": 1,
-    "type": "house",
-    "name": "meow na lovle)",
-    "owner": "Gospodin_Lubimov",
-    "status": "Занято",
-    "x": 2610.35,
-    "y": 2163.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1942,
     "server_id": 1,
     "type": "house",
@@ -24120,27 +24108,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 617,
+    "id": 4,
     "server_id": 1,
     "type": "house",
-    "name": "Revenge house",
-    "owner": "Bender_Revenge",
+    "name": "Bernhard | Ghetto 1 | Dynasty",
+    "owner": "Thomas_Bernhard",
     "status": "Аукцион",
-    "x": -881.726,
-    "y": 1532.36,
-    "price": 12000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 879,
-    "server_id": 1,
-    "type": "house",
-    "name": "Religion",
-    "owner": "Bender_Revenge",
-    "status": "Аукцион",
-    "x": -186.8869,
-    "y": 2539.08,
-    "price": 12000,
+    "x": 1955.12,
+    "y": -1115.4,
+    "price": 35000,
     "district": "Сан-Андреас"
   },
   {
@@ -24156,6 +24132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1444,
+    "server_id": 1,
+    "type": "house",
+    "name": "деп условия ",
+    "owner": "Hoodrich_Nekit",
+    "status": "Аукцион",
+    "x": 1495.7,
+    "y": 2033.2,
+    "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1753,
     "server_id": 1,
     "type": "house",
@@ -24165,6 +24153,42 @@
     "x": -29.395,
     "y": 1363.31,
     "price": 17900,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1941,
+    "server_id": 1,
+    "type": "house",
+    "name": "meow na lovle)",
+    "owner": "Gospodin_Lubimov",
+    "status": "Аукцион",
+    "x": 2610.35,
+    "y": 2163.24,
+    "price": 11500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 138,
+    "server_id": 1,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Thomas_Bernhard",
+    "status": "Аукцион",
+    "x": 493.9368,
+    "y": -1642.748,
+    "price": 400000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 250,
+    "server_id": 1,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Vladimir_Hmxd",
+    "status": "Аукцион",
+    "x": 2170.48,
+    "y": 542.934,
+    "price": 229900,
     "district": "Сан-Андреас"
   },
   {
@@ -24232,7 +24256,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Vladimir_Hmxd",
+    "owner": "Cameron_Wright",
     "status": "Занято",
     "x": -316.162,
     "y": 829.757,
@@ -25060,7 +25084,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Vladimir_Hmxd",
+    "owner": "LordOf_TheMysteries",
     "status": "Занято",
     "x": 695.01,
     "y": -500.134,
@@ -25580,18 +25604,6 @@
     "status": "Занято",
     "x": 111.076,
     "y": -1782.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 250,
-    "server_id": 1,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Vladimir_Hmxd",
-    "status": "Занято",
-    "x": 2170.48,
-    "y": 542.934,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26576,18 +26588,6 @@
     "status": "Занято",
     "x": 1256.55,
     "y": 274.927,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 138,
-    "server_id": 1,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Thomas_Bernhard",
-    "status": "Занято",
-    "x": 493.9368,
-    "y": -1642.748,
     "price": 0,
     "district": "Сан-Андреас"
   },
