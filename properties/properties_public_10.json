@@ -1337,10 +1337,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Jack_Chaltsev",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2269.22,
     "y": -1882.41,
-    "price": 2000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -9845,10 +9845,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Jack_Chaltsev",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2689.39,
     "y": -152.796,
-    "price": 800,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -11129,10 +11129,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Jack_Chaltsev",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -1860.83,
     "y": 1114.77,
-    "price": 800,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -11165,10 +11165,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Jack_Chaltsev",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2017.56,
     "y": 982.8229,
-    "price": 800,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -12104,6 +12104,18 @@
     "status": "Занято",
     "x": -2468.65,
     "y": 1141.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1011,
+    "server_id": 10,
+    "type": "house",
+    "name": "Manningimp",
+    "owner": "[17]Eugene_Macedonsky",
+    "status": "Занято",
+    "x": -2523.81,
+    "y": 1141.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14969,10 +14981,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Jack_Chaltsev",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2303.39,
     "y": 656.7349,
-    "price": 800,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -15521,10 +15533,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Jack_Chaltsev",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2590.53,
     "y": -158.559,
-    "price": 800,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23324,18 +23336,6 @@
     "status": "Свободно",
     "x": -2168.74,
     "y": 743.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1011,
-    "server_id": 10,
-    "type": "house",
-    "name": "Manningimp",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2523.81,
-    "y": 1141.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
