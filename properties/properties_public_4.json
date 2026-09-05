@@ -4200,18 +4200,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 350,
-    "server_id": 4,
-    "type": "house",
-    "name": "Cummings St.",
-    "owner": "Yohan_International",
-    "status": "Занято",
-    "x": 1249.51,
-    "y": -877.4349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 351,
     "server_id": 4,
     "type": "house",
@@ -10276,7 +10264,7 @@
     "server_id": 4,
     "type": "house",
     "name": "sell -@lariable",
-    "owner": "Sirius_Cybernetik",
+    "owner": "Edul_Abgaryan",
     "status": "Занято",
     "x": -1289.37,
     "y": -2102.77,
@@ -12460,7 +12448,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Twin House Mining",
-    "owner": "Collin_Twin",
+    "owner": "Savelij_Professional",
     "status": "Занято",
     "x": 1793.11,
     "y": 2792.19,
@@ -20772,6 +20760,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1733,
+    "server_id": 4,
+    "type": "house",
+    "name": "Деп.Условия",
+    "owner": "Konstantin_Pinko",
+    "status": "Занято",
+    "x": 1915.9,
+    "y": 742.874,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1734,
     "server_id": 4,
     "type": "house",
@@ -25236,6 +25236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 350,
+    "server_id": 4,
+    "type": "house",
+    "name": "Cummings St.",
+    "owner": "Yohan_International",
+    "status": "Аукцион",
+    "x": 1249.51,
+    "y": -877.4349,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 356,
     "server_id": 4,
     "type": "house",
@@ -25245,30 +25257,6 @@
     "x": 1280.86,
     "y": -874.83,
     "price": 2500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1733,
-    "server_id": 4,
-    "type": "house",
-    "name": "Деп.Условия",
-    "owner": "Konstantin_Pinko",
-    "status": "Аукцион",
-    "x": 1915.9,
-    "y": 742.874,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 308,
-    "server_id": 4,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Cuerto_Artem",
-    "status": "Аукцион",
-    "x": -1992.936,
-    "y": 583.4068,
-    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -29012,6 +29000,18 @@
     "status": "Занято",
     "x": -1996.361,
     "y": -50.6903,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 308,
+    "server_id": 4,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Cuerto_Artem",
+    "status": "Занято",
+    "x": -1992.936,
+    "y": 583.4068,
     "price": 0,
     "district": "Сан-Андреас"
   },

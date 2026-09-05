@@ -1812,18 +1812,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 151,
-    "server_id": 16,
-    "type": "house",
-    "name": "NIGGA",
-    "owner": "Negative_Creeper",
-    "status": "Занято",
-    "x": 1141.96,
-    "y": -1069.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 152,
     "server_id": 16,
     "type": "house",
@@ -2235,7 +2223,7 @@
     "id": 186,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
+    "name": "Kessinger House",
     "owner": "Katana_Kessinger",
     "status": "Занято",
     "x": 766.921,
@@ -5812,7 +5800,7 @@
     "server_id": 16,
     "type": "house",
     "name": "ИМПЕРИЯ ЯНГ",
-    "owner": "Jonathan_Young",
+    "owner": "Valeriy_Kalashnikov",
     "status": "Занято",
     "x": 2177.28,
     "y": 690.3499,
@@ -5836,7 +5824,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Берлога Атсуки, 0/20 10lvl",
-    "owner": "Atsuki_Young",
+    "owner": "Vanya_Pytak",
     "status": "Занято",
     "x": 2123.36,
     "y": 775.8049,
@@ -7144,7 +7132,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Exodus Domination",
-    "owner": "Sanchez_Exodus",
+    "owner": "Lis_Exodus",
     "status": "Занято",
     "x": -1444.99,
     "y": 2653.32,
@@ -7683,7 +7671,7 @@
     "id": 640,
     "server_id": 16,
     "type": "house",
-    "name": "ИМПЕРИЯ ЯНГ",
+    "name": "Kessinger House",
     "owner": "Katana_Kessinger",
     "status": "Занято",
     "x": -247.8639,
@@ -8660,6 +8648,18 @@
     "status": "Занято",
     "x": -300.595,
     "y": 2658.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 722,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mike_Salvator",
+    "status": "Занято",
+    "x": 1663.37,
+    "y": 2753.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12084,6 +12084,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1009,
+    "server_id": 16,
+    "type": "house",
+    "name": "Lewis (аксы)",
+    "owner": "Dante_Lewis",
+    "status": "Занято",
+    "x": -2517.07,
+    "y": 1142.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1010,
+    "server_id": 16,
+    "type": "house",
+    "name": "Lewis (грунт 3)",
+    "owner": "Marcus_Weeknd",
+    "status": "Занято",
+    "x": -2468.65,
+    "y": 1141.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1011,
+    "server_id": 16,
+    "type": "house",
+    "name": "Lewis (приколы)",
+    "owner": "Dante_Lewis",
+    "status": "Занято",
+    "x": -2523.81,
+    "y": 1141.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1012,
     "server_id": 16,
     "type": "house",
@@ -12096,6 +12132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1013,
+    "server_id": 16,
+    "type": "house",
+    "name": "Lewis (грунт 2)",
+    "owner": "Dante_Lewis",
+    "status": "Занято",
+    "x": -2506.37,
+    "y": 1141.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1014,
     "server_id": 16,
     "type": "house",
@@ -12104,6 +12152,18 @@
     "status": "Занято",
     "x": -2493.38,
     "y": 1141.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1015,
+    "server_id": 16,
+    "type": "house",
+    "name": "Lewis (мусор)",
+    "owner": "Marcus_Weeknd",
+    "status": "Занято",
+    "x": -2478.95,
+    "y": 1141.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19188,6 +19248,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1607,
+    "server_id": 16,
+    "type": "house",
+    "name": "Exodus Domination",
+    "owner": "Sanchez_Exodus",
+    "status": "Занято",
+    "x": -2355.53,
+    "y": 246.6649,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1608,
     "server_id": 16,
     "type": "house",
@@ -22368,75 +22440,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 722,
+    "id": 151,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
-    "owner": "Mike_Salvator",
+    "name": "NIGGA",
+    "owner": "Negative_Creeper",
     "status": "Аукцион",
-    "x": 1663.37,
-    "y": 2753.72,
-    "price": 6000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1009,
-    "server_id": 16,
-    "type": "house",
-    "name": "Lewis (аксы)",
-    "owner": "Dante_Lewis",
-    "status": "Аукцион",
-    "x": -2517.07,
-    "y": 1142.17,
-    "price": 3800,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1010,
-    "server_id": 16,
-    "type": "house",
-    "name": "Lewis (грунт 3)",
-    "owner": "Dante_Lewis",
-    "status": "Аукцион",
-    "x": -2468.65,
-    "y": 1141.54,
-    "price": 3800,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1011,
-    "server_id": 16,
-    "type": "house",
-    "name": "Lewis (приколы)",
-    "owner": "Dante_Lewis",
-    "status": "Аукцион",
-    "x": -2523.81,
-    "y": 1141.92,
-    "price": 3800,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1013,
-    "server_id": 16,
-    "type": "house",
-    "name": "Lewis (грунт 2)",
-    "owner": "Dante_Lewis",
-    "status": "Аукцион",
-    "x": -2506.37,
-    "y": 1141.87,
-    "price": 3800,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1015,
-    "server_id": 16,
-    "type": "house",
-    "name": "Lewis (мусор)",
-    "owner": "Dante_Lewis",
-    "status": "Аукцион",
-    "x": -2478.95,
-    "y": 1141.58,
-    "price": 3800,
+    "x": 1141.96,
+    "y": -1069.88,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -22449,18 +22461,6 @@
     "x": -1939.33,
     "y": 1227.54,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1607,
-    "server_id": 16,
-    "type": "house",
-    "name": "Lewis Corp.",
-    "owner": "Dante_Lewis",
-    "status": "Аукцион",
-    "x": -2355.53,
-    "y": 246.6649,
-    "price": 62800,
     "district": "Сан-Андреас"
   },
   {

@@ -7104,18 +7104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 592,
-    "server_id": 2,
-    "type": "house",
-    "name": "pes family",
-    "owner": "Pes_Vlados",
-    "status": "Занято",
-    "x": -2219.86,
-    "y": -2400.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 593,
     "server_id": 2,
     "type": "house",
@@ -7832,18 +7820,6 @@
     "status": "Занято",
     "x": 2127.94,
     "y": 730.1129,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 653,
-    "server_id": 2,
-    "type": "house",
-    "name": "pes family",
-    "owner": "Pes_Vlados",
-    "status": "Занято",
-    "x": 2128.68,
-    "y": 650.179,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11776,7 +11752,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Capybara Empire",
-    "owner": "Olya_Fernandess",
+    "owner": "Kuzma_Morozov",
     "status": "Занято",
     "x": -7.3126,
     "y": -2510.19,
@@ -12824,18 +12800,6 @@
     "status": "Занято",
     "x": -2282.06,
     "y": 1089.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1070,
-    "server_id": 2,
-    "type": "house",
-    "name": "Дом барыг сф",
-    "owner": "Aleksey_Contex",
-    "status": "Занято",
-    "x": -2282.42,
-    "y": 1070.3,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14355,7 +14319,7 @@
     "id": 1197,
     "server_id": 2,
     "type": "house",
-    "name": "оушенгенг",
+    "name": "4UDIKI №5",
     "owner": "Daniil_Maer",
     "status": "Занято",
     "x": -2477.23,
@@ -17496,18 +17460,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1460,
-    "server_id": 2,
-    "type": "house",
-    "name": "Continental Empire!",
-    "owner": "Kigo_Hozyainov",
-    "status": "Занято",
-    "x": -2625.87,
-    "y": 78.7677,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1461,
     "server_id": 2,
     "type": "house",
@@ -19779,8 +19731,8 @@
     "id": 1650,
     "server_id": 2,
     "type": "house",
-    "name": "kuzma",
-    "owner": "Kuzma_Morozov",
+    "name": "Capybara Empire",
+    "owner": "Olya_Fernandess",
     "status": "Занято",
     "x": 1112.2,
     "y": -1557.42,
@@ -23952,6 +23904,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 592,
+    "server_id": 2,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Pes_Vlados",
+    "status": "Аукцион",
+    "x": -2219.86,
+    "y": -2400.42,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 653,
+    "server_id": 2,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Pes_Vlados",
+    "status": "Аукцион",
+    "x": 2128.68,
+    "y": 650.179,
+    "price": 14000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1070,
+    "server_id": 2,
+    "type": "house",
+    "name": "Дом барыг сф",
+    "owner": "Aleksey_Contex",
+    "status": "Аукцион",
+    "x": -2282.42,
+    "y": 1070.3,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1341,
     "server_id": 2,
     "type": "house",
@@ -23961,6 +23949,30 @@
     "x": -2515.38,
     "y": -154.188,
     "price": 22000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1460,
+    "server_id": 2,
+    "type": "house",
+    "name": "Continental Empire!",
+    "owner": "Kigo_Hozyainov",
+    "status": "Аукцион",
+    "x": -2625.87,
+    "y": 78.7677,
+    "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 297,
+    "server_id": 2,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Pes_Vlados",
+    "status": "Аукцион",
+    "x": 2330.78,
+    "y": 2165.8,
+    "price": 300000,
     "district": "Сан-Андреас"
   },
   {
@@ -24320,18 +24332,6 @@
     "status": "Занято",
     "x": 816.203,
     "y": -1386.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 297,
-    "server_id": 2,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Pes_Vlados",
-    "status": "Занято",
-    "x": 2330.78,
-    "y": 2165.8,
     "price": 0,
     "district": "Сан-Андреас"
   },

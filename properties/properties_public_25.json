@@ -5064,6 +5064,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 422,
+    "server_id": 25,
+    "type": "house",
+    "name": "Ludens",
+    "owner": "Kerik_Ludens",
+    "status": "Занято",
+    "x": 1312.43,
+    "y": 170.811,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 423,
     "server_id": 25,
     "type": "house",
@@ -8796,18 +8808,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 734,
-    "server_id": 25,
-    "type": "house",
-    "name": "Meen?",
-    "owner": "Noren_Tise",
-    "status": "Занято",
-    "x": -2904.37,
-    "y": 1118.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 735,
     "server_id": 25,
     "type": "house",
@@ -10308,18 +10308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 861,
-    "server_id": 25,
-    "type": "house",
-    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
-    "owner": "Zane_Ward",
-    "status": "Занято",
-    "x": -218.123,
-    "y": 2481.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 862,
     "server_id": 25,
     "type": "house",
@@ -11444,6 +11432,18 @@
     "status": "Занято",
     "x": -2159.6,
     "y": 946.984,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 956,
+    "server_id": 25,
+    "type": "house",
+    "name": "Home Stok",
+    "owner": "Nikita_Grenrik",
+    "status": "Занято",
+    "x": -2192.67,
+    "y": 934.1019,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18336,18 +18336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1531,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bender_Rodriguez",
-    "status": "Занято",
-    "x": -2361.44,
-    "y": 251.6199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1532,
     "server_id": 25,
     "type": "house",
@@ -23748,27 +23736,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 422,
+    "id": 734,
     "server_id": 25,
     "type": "house",
-    "name": "//by Blood",
-    "owner": "Seforolius_Lerned",
+    "name": "Meen?",
+    "owner": "Noren_Tise",
     "status": "Аукцион",
-    "x": 1312.43,
-    "y": 170.811,
-    "price": 1000,
+    "x": -2904.37,
+    "y": 1118.84,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 956,
+    "id": 861,
     "server_id": 25,
     "type": "house",
-    "name": "Home Stok",
-    "owner": "Nikita_Grenrik",
+    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
+    "owner": "Zane_Ward",
     "status": "Аукцион",
-    "x": -2192.67,
-    "y": 934.1019,
-    "price": 3500,
+    "x": -218.123,
+    "y": 2481.23,
+    "price": 10501,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1531,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bender_Rodriguez",
+    "status": "Аукцион",
+    "x": -2361.44,
+    "y": 251.6199,
+    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
