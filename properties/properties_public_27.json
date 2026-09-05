@@ -3076,7 +3076,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Relogia Monopoly",
-    "owner": "Tank_Overpowered",
+    "owner": "Tolik_Prokladka",
     "status": "Занято",
     "x": 2109.07,
     "y": -1000.65,
@@ -3572,18 +3572,6 @@
     "status": "Занято",
     "x": 2105.31,
     "y": -1056.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 298,
-    "server_id": 27,
-    "type": "house",
-    "name": "Залупівка 52",
-    "owner": "Fred_Maloy",
-    "status": "Занято",
-    "x": 2092.26,
-    "y": -1067.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10572,30 +10560,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 882,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sanchez_Sneck",
-    "status": "Занято",
-    "x": 2847.13,
-    "y": -1309.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 883,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sanchez_Sneck",
-    "status": "Занято",
-    "x": 2852.5,
-    "y": -1365.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 884,
     "server_id": 27,
     "type": "house",
@@ -12723,7 +12687,7 @@
     "id": 1061,
     "server_id": 27,
     "type": "house",
-    "name": "  F",
+    "name": "ds 9asdw",
     "owner": "Ilyhich_Golovorez",
     "status": "Занято",
     "x": 2185.19,
@@ -14356,7 +14320,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Культурный уголок Castellano",
-    "owner": "Vincent_Cowalli",
+    "owner": "Artem_Forzi",
     "status": "Занято",
     "x": -2791.59,
     "y": 92.1184,
@@ -24432,6 +24396,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 298,
+    "server_id": 27,
+    "type": "house",
+    "name": "Залупівка 52",
+    "owner": "Fred_Maloy",
+    "status": "Аукцион",
+    "x": 2092.26,
+    "y": -1067.44,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 814,
     "server_id": 27,
     "type": "house",
@@ -24441,6 +24417,30 @@
     "x": -2723.1,
     "y": -178.8459,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 882,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sanchez_Sneck",
+    "status": "Аукцион",
+    "x": 2847.13,
+    "y": -1309.75,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 883,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sanchez_Sneck",
+    "status": "Аукцион",
+    "x": 2852.5,
+    "y": -1365.96,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {

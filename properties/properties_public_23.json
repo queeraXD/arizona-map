@@ -12648,18 +12648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1057,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sinister_Holiday",
-    "status": "Занято",
-    "x": -1970.43,
-    "y": 1273.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1058,
     "server_id": 23,
     "type": "house",
@@ -15296,18 +15284,6 @@
     "status": "Занято",
     "x": -2723.06,
     "y": 21.9043,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1279,
-    "server_id": 23,
-    "type": "house",
-    "name": "Kochevnikov",
-    "owner": "Sinister_Holiday",
-    "status": "Занято",
-    "x": -2722.11,
-    "y": 14.5172,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21132,6 +21108,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1057,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sinister_Holiday",
+    "status": "Аукцион",
+    "x": -1970.43,
+    "y": 1273.05,
+    "price": 700,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1083,
     "server_id": 23,
     "type": "house",
@@ -21141,6 +21129,18 @@
     "x": -2844.68,
     "y": 921.177,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1279,
+    "server_id": 23,
+    "type": "house",
+    "name": "Kochevnikov",
+    "owner": "Sinister_Holiday",
+    "status": "Аукцион",
+    "x": -2722.11,
+    "y": 14.5172,
+    "price": 600,
     "district": "Сан-Андреас"
   },
   {
@@ -21165,18 +21165,6 @@
     "x": 2495.37,
     "y": -1410.34,
     "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 124,
-    "server_id": 23,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Roberto_Ardila",
-    "status": "Аукцион",
-    "x": -2455.77,
-    "y": 799.522,
-    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -23444,6 +23432,18 @@
     "status": "Занято",
     "x": -2579.43,
     "y": 310.085,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 124,
+    "server_id": 23,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Roberto_Ardila",
+    "status": "Занято",
+    "x": -2455.77,
+    "y": 799.522,
     "price": 0,
     "district": "Сан-Андреас"
   },
