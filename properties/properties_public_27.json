@@ -8043,7 +8043,7 @@
     "id": 670,
     "server_id": 27,
     "type": "house",
-    "name": "house",
+    "name": "@CitrusCG",
     "owner": "Citrus_Company",
     "status": "Занято",
     "x": 1084.33,
@@ -8060,18 +8060,6 @@
     "status": "Занято",
     "x": 1085.88,
     "y": 2000.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 672,
-    "server_id": 27,
-    "type": "house",
-    "name": "house",
-    "owner": "Effy_Stonem",
-    "status": "Занято",
-    "x": 1084.59,
-    "y": 1976.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24432,6 +24420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 672,
+    "server_id": 27,
+    "type": "house",
+    "name": "house",
+    "owner": "Effy_Stonem",
+    "status": "Аукцион",
+    "x": 1084.59,
+    "y": 1976.83,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 682,
     "server_id": 27,
     "type": "house",
@@ -26152,7 +26152,7 @@
     "server_id": 27,
     "type": "business",
     "name": "Закусочная",
-    "owner": "harlequinave",
+    "owner": "Donald_Bop",
     "status": "Занято",
     "x": 1038.22,
     "y": -1340.73,

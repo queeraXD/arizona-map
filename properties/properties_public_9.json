@@ -13263,8 +13263,8 @@
     "id": 1106,
     "server_id": 9,
     "type": "house",
-    "name": "Cherix",
-    "owner": "Angelina_Cherix",
+    "name": "Willen Farm",
+    "owner": "Matvey_Willen",
     "status": "Занято",
     "x": -1728.01,
     "y": 1138.81,
@@ -14600,18 +14600,6 @@
     "status": "Занято",
     "x": 294.6979,
     "y": -1623.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1218,
-    "server_id": 9,
-    "type": "house",
-    "name": "Florencia",
-    "owner": "Soroka_Soroka",
-    "status": "Занято",
-    "x": 1623.42,
-    "y": 2567.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23256,18 +23244,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1942,
-    "server_id": 9,
-    "type": "house",
-    "name": "Вейнов",
-    "owner": "Pity_Shock",
-    "status": "Занято",
-    "x": 1746.05,
-    "y": 2767.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1943,
     "server_id": 9,
     "type": "house",
@@ -23928,15 +23904,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 249,
+    "id": 1218,
     "server_id": 9,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Balagan_Quartz",
+    "type": "house",
+    "name": "Florencia",
+    "owner": "Soroka_Soroka",
     "status": "Аукцион",
-    "x": 111.076,
-    "y": -1782.68,
-    "price": 160000,
+    "x": 1623.42,
+    "y": 2567.34,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1942,
+    "server_id": 9,
+    "type": "house",
+    "name": "Вейнов",
+    "owner": "Pity_Shock",
+    "status": "Аукцион",
+    "x": 1746.05,
+    "y": 2767.21,
+    "price": 9100,
     "district": "Сан-Андреас"
   },
   {
@@ -25340,6 +25328,18 @@
     "status": "Занято",
     "x": 2637.25,
     "y": 1129.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 249,
+    "server_id": 9,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Balagan_Quartz",
+    "status": "Занято",
+    "x": 111.076,
+    "y": -1782.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
