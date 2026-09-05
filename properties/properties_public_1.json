@@ -7392,18 +7392,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 617,
-    "server_id": 1,
-    "type": "house",
-    "name": "Revenge house",
-    "owner": "Bender_Revenge",
-    "status": "Занято",
-    "x": -881.726,
-    "y": 1532.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 618,
     "server_id": 1,
     "type": "house",
@@ -10520,18 +10508,6 @@
     "status": "Занято",
     "x": -192.645,
     "y": 2552.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 879,
-    "server_id": 1,
-    "type": "house",
-    "name": "Religion",
-    "owner": "Bender_Revenge",
-    "status": "Занято",
-    "x": -186.8869,
-    "y": 2539.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24165,6 +24141,30 @@
     "x": 1955.12,
     "y": -1115.4,
     "price": 35000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 617,
+    "server_id": 1,
+    "type": "house",
+    "name": "Revenge house",
+    "owner": "Bender_Revenge",
+    "status": "Аукцион",
+    "x": -881.726,
+    "y": 1532.36,
+    "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 879,
+    "server_id": 1,
+    "type": "house",
+    "name": "Religion",
+    "owner": "Bender_Revenge",
+    "status": "Аукцион",
+    "x": -186.8869,
+    "y": 2539.08,
+    "price": 12000,
     "district": "Сан-Андреас"
   },
   {
