@@ -5340,18 +5340,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 447,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": 2457.76,
-    "y": -1054.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 448,
     "server_id": 10,
     "type": "house",
@@ -11292,18 +11280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 946,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Trinix_Sweety",
-    "status": "Занято",
-    "x": -2282.42,
-    "y": 999.619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 947,
     "server_id": 10,
     "type": "house",
@@ -11480,18 +11456,6 @@
     "status": "Занято",
     "x": -2158.17,
     "y": 753.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 962,
-    "server_id": 10,
-    "type": "house",
-    "name": "могила хаус",
-    "owner": "Niyaz_Skyworth",
-    "status": "Занято",
-    "x": -2168.74,
-    "y": 743.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15019,18 +14983,6 @@
     "owner": "Aomine_Kudo",
     "status": "Занято",
     "x": -2320.24,
-    "y": 580.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1261,
-    "server_id": 10,
-    "type": "house",
-    "name": "хата за последний волосок",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -2301.74,
     "y": 580.036,
     "price": 0,
     "district": "Сан-Андреас"
@@ -19164,18 +19116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1609,
-    "server_id": 10,
-    "type": "house",
-    "name": "Недвижимость Forbes",
-    "owner": "Niyaz_Skyworth",
-    "status": "Занято",
-    "x": -2129.23,
-    "y": 894.9019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1610,
     "server_id": 10,
     "type": "house",
@@ -23232,6 +23172,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 447,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": 2457.76,
+    "y": -1054.57,
+    "price": 900,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 643,
     "server_id": 10,
     "type": "house",
@@ -23253,6 +23205,30 @@
     "x": 1030.52,
     "y": 1928.08,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 946,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Trinix_Sweety",
+    "status": "Аукцион",
+    "x": -2282.42,
+    "y": 999.619,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 962,
+    "server_id": 10,
+    "type": "house",
+    "name": "могила хаус",
+    "owner": "Niyaz_Skyworth",
+    "status": "Аукцион",
+    "x": -2168.74,
+    "y": 743.76,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {
@@ -23304,6 +23280,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1261,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": -2301.74,
+    "y": 580.036,
+    "price": 800,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1479,
     "server_id": 10,
     "type": "house",
@@ -23337,6 +23325,18 @@
     "x": 2787.07,
     "y": -1952.59,
     "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1609,
+    "server_id": 10,
+    "type": "house",
+    "name": "Недвижимость Forbes",
+    "owner": "Niyaz_Skyworth",
+    "status": "Аукцион",
+    "x": -2129.23,
+    "y": 894.9019,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {

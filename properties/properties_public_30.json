@@ -22744,23 +22744,11 @@
     "server_id": 30,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
+    "owner": "Castro_Dominguez",
+    "status": "Занято",
     "x": 7.3323,
     "y": 1012.12,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 164,
-    "server_id": 30,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Cerberus_Nuestra",
-    "status": "Аукцион",
-    "x": -2624.67,
-    "y": 1412.73,
-    "price": 314000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23096,6 +23084,18 @@
     "status": "Занято",
     "x": 1940.01,
     "y": -2116.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 164,
+    "server_id": 30,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Cerberus_Nuestra",
+    "status": "Занято",
+    "x": -2624.67,
+    "y": 1412.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
