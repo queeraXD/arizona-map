@@ -12372,18 +12372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1034,
-    "server_id": 3,
-    "type": "house",
-    "name": "хоум биба",
-    "owner": "Biba_Palma",
-    "status": "Занято",
-    "x": -2029.92,
-    "y": 745.7719,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1035,
     "server_id": 3,
     "type": "house",
@@ -16372,7 +16360,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Veritas Familly ",
-    "owner": "Ben_Bradberry",
+    "owner": "Joan_Garcia",
     "status": "Занято",
     "x": 68.6192,
     "y": 1161.96,
@@ -23952,6 +23940,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1034,
+    "server_id": 3,
+    "type": "house",
+    "name": "хоум биба",
+    "owner": "Biba_Palma",
+    "status": "Аукцион",
+    "x": -2029.92,
+    "y": 745.7719,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1304,
     "server_id": 3,
     "type": "house",
@@ -24033,18 +24033,6 @@
     "x": 1826.39,
     "y": 626.525,
     "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 322,
-    "server_id": 3,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Nikita_Holiday",
-    "status": "Аукцион",
-    "x": 995.8817,
-    "y": -1156.47,
-    "price": 666666,
     "district": "Сан-Андреас"
   },
   {
@@ -26744,6 +26732,18 @@
     "status": "Занято",
     "x": -2412.909,
     "y": 350.0828,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 322,
+    "server_id": 3,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Nikita_Holiday",
+    "status": "Занято",
+    "x": 995.8817,
+    "y": -1156.47,
     "price": 0,
     "district": "Сан-Андреас"
   },

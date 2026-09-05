@@ -100,7 +100,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Shelby Brothers",
-    "owner": "Ellie_Rivera",
+    "owner": "Negative_Creeper",
     "status": "Занято",
     "x": 2023.29,
     "y": -1053.16,
@@ -3036,18 +3036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 253,
-    "server_id": 16,
-    "type": "house",
-    "name": "Домик Бобика",
-    "owner": "Bob_Smoke",
-    "status": "Занято",
-    "x": 2536.19,
-    "y": 128.9869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 254,
     "server_id": 16,
     "type": "house",
@@ -4112,6 +4100,18 @@
     "status": "Занято",
     "x": 705.4279,
     "y": 292.096,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 343,
+    "server_id": 16,
+    "type": "house",
+    "name": "123",
+    "owner": "Vadim_Lamborghini",
+    "status": "Занято",
+    "x": 719.0629,
+    "y": 300.639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5816,18 +5816,6 @@
     "status": "Занято",
     "x": 2122.4,
     "y": 731.726,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 486,
-    "server_id": 16,
-    "type": "house",
-    "name": "Берлога Атсуки, 0/20 10lvl",
-    "owner": "Vanya_Pytak",
-    "status": "Занято",
-    "x": 2123.36,
-    "y": 775.8049,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14676,18 +14664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1225,
-    "server_id": 16,
-    "type": "house",
-    "name": "Tesoro",
-    "owner": "Chervyak_Weeknd",
-    "status": "Занято",
-    "x": -2632.0,
-    "y": 274.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1226,
     "server_id": 16,
     "type": "house",
@@ -18564,6 +18540,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1549,
+    "server_id": 16,
+    "type": "house",
+    "name": "Майнинг 9",
+    "owner": "Oliver_Faustinn",
+    "status": "Занято",
+    "x": 648.8569,
+    "y": -1442.45,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1550,
     "server_id": 16,
     "type": "house",
@@ -19588,7 +19576,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Shelby Brothers",
-    "owner": "Ellie_Rivera",
+    "owner": "Jackson_Sparks",
     "status": "Занято",
     "x": 1970.15,
     "y": -1671.19,
@@ -20672,6 +20660,18 @@
     "status": "Занято",
     "x": 2824.03,
     "y": 2268.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1726,
+    "server_id": 16,
+    "type": "house",
+    "name": "autohotkey fam",
+    "owner": "Milexa_Desire",
+    "status": "Занято",
+    "x": 2437.04,
+    "y": 1204.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22404,38 +22404,38 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 343,
+    "id": 253,
     "server_id": 16,
     "type": "house",
-    "name": "123",
-    "owner": "Vadim_Lamborghini",
+    "name": "Домик Бобика",
+    "owner": "Bob_Smoke",
     "status": "Аукцион",
-    "x": 719.0629,
-    "y": 300.639,
-    "price": 3500,
+    "x": 2536.19,
+    "y": 128.9869,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1549,
+    "id": 486,
     "server_id": 16,
     "type": "house",
-    "name": "Особа ЛС",
-    "owner": "Godblessme_Weeknd",
+    "name": "Берлога Атсуки, 0/20 10lvl",
+    "owner": "Vanya_Pytak",
     "status": "Аукцион",
-    "x": 648.8569,
-    "y": -1442.45,
-    "price": 5000,
+    "x": 2123.36,
+    "y": 775.8049,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1726,
+    "id": 1225,
     "server_id": 16,
     "type": "house",
-    "name": "autohotkey fam",
-    "owner": "Supa_Playa",
+    "name": "Tesoro",
+    "owner": "Chervyak_Weeknd",
     "status": "Аукцион",
-    "x": 2437.04,
-    "y": 1204.26,
+    "x": -2632.0,
+    "y": 274.54,
     "price": 1500,
     "district": "Сан-Андреас"
   },
