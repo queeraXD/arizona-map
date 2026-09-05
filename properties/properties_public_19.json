@@ -2544,30 +2544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 214,
-    "server_id": 19,
-    "type": "house",
-    "name": "Набор Архитектора",
-    "owner": "Majorka_DeForbs",
-    "status": "Занято",
-    "x": 937.3889,
-    "y": -847.7479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 215,
-    "server_id": 19,
-    "type": "house",
-    "name": "Без Набора Архитектора",
-    "owner": "Majorka_DeForbs",
-    "status": "Занято",
-    "x": 924.3809,
-    "y": -853.1829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 216,
     "server_id": 19,
     "type": "house",
@@ -4200,6 +4176,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 352,
+    "server_id": 19,
+    "type": "house",
+    "name": "шкаф",
+    "owner": "Jimmy_Martino",
+    "status": "Занято",
+    "x": 1290.98,
+    "y": -896.9199,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 353,
     "server_id": 19,
     "type": "house",
@@ -5804,6 +5792,18 @@
     "status": "Занято",
     "x": 2094.08,
     "y": 774.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 488,
+    "server_id": 19,
+    "type": "house",
+    "name": "шкаф",
+    "owner": "Jimmy_Martino",
+    "status": "Занято",
+    "x": 2093.41,
+    "y": 730.4819,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21852,15 +21852,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 352,
+    "id": 214,
     "server_id": 19,
     "type": "house",
-    "name": "шкаф",
-    "owner": "Jimmy_Martino",
+    "name": "Набор Архитектора",
+    "owner": "Majorka_DeForbs",
     "status": "Аукцион",
-    "x": 1290.98,
-    "y": -896.9199,
-    "price": 1000,
+    "x": 937.3889,
+    "y": -847.7479,
+    "price": 60000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 215,
+    "server_id": 19,
+    "type": "house",
+    "name": "Без Набора Архитектора",
+    "owner": "Majorka_DeForbs",
+    "status": "Аукцион",
+    "x": 924.3809,
+    "y": -853.1829,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {
@@ -21873,18 +21885,6 @@
     "x": 2439.9,
     "y": -1010.88,
     "price": 300,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 488,
-    "server_id": 19,
-    "type": "house",
-    "name": "шкаф",
-    "owner": "Jimmy_Martino",
-    "status": "Аукцион",
-    "x": 2093.41,
-    "y": 730.4819,
-    "price": 500,
     "district": "Сан-Андреас"
   },
   {
