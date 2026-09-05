@@ -10104,18 +10104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 845,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Oplya",
-    "status": "Занято",
-    "x": -2209.65,
-    "y": 1079.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 846,
     "server_id": 32,
     "type": "house",
@@ -22512,6 +22500,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 845,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Oplya",
+    "status": "Аукцион",
+    "x": -2209.65,
+    "y": 1079.99,
+    "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 32,
     "type": "business",
@@ -24616,7 +24616,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Aleksandr_Emberheart",
+    "owner": "Oplya",
     "status": "Занято",
     "x": -2103.59,
     "y": -2342.04,
