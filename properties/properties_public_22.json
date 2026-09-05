@@ -12408,18 +12408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1039,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kitayski_Pyps",
-    "status": "Занято",
-    "x": -1732.18,
-    "y": 1114.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1040,
     "server_id": 22,
     "type": "house",
@@ -15224,18 +15212,6 @@
     "status": "Занято",
     "x": -2689.53,
     "y": 74.5092,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1276,
-    "server_id": 22,
-    "type": "house",
-    "name": "BOSSIK",
-    "owner": "Timur_Groznyy",
-    "status": "Занято",
-    "x": -2690.48,
-    "y": 64.5195,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18420,18 +18396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1542,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hiroto_Sedona",
-    "status": "Занято",
-    "x": -12.6569,
-    "y": -2501.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1543,
     "server_id": 22,
     "type": "house",
@@ -19420,7 +19384,7 @@
     "server_id": 22,
     "type": "house",
     "name": "BROOKS EMPIRE",
-    "owner": "Gurgen_Brooks",
+    "owner": "Cold_Spades",
     "status": "Занято",
     "x": 2818.53,
     "y": 2140.89,
@@ -20724,18 +20688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1734,
-    "server_id": 22,
-    "type": "house",
-    "name": "Solo",
-    "owner": "Denis_Way",
-    "status": "Занято",
-    "x": 2495.4,
-    "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1735,
     "server_id": 22,
     "type": "house",
@@ -22020,6 +21972,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1039,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kitayski_Pyps",
+    "status": "Аукцион",
+    "x": -1732.18,
+    "y": 1114.92,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1049,
     "server_id": 22,
     "type": "house",
@@ -22044,15 +22008,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 62,
+    "id": 1276,
     "server_id": 22,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Chill_Relax",
+    "type": "house",
+    "name": "BOSSIK",
+    "owner": "Timur_Groznyy",
     "status": "Аукцион",
-    "x": 2150.73,
-    "y": 2733.87,
-    "price": 300000,
+    "x": -2690.48,
+    "y": 64.5195,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1542,
+    "server_id": 22,
+    "type": "house",
+    "name": "продаю tg/vk: @hirotoqq",
+    "owner": "Hiroto_Sedona",
+    "status": "Аукцион",
+    "x": -12.6569,
+    "y": -2501.64,
+    "price": 100000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1734,
+    "server_id": 22,
+    "type": "house",
+    "name": "Solo",
+    "owner": "Denis_Way",
+    "status": "Аукцион",
+    "x": 2495.4,
+    "y": -1376.27,
+    "price": 7500,
     "district": "Сан-Андреас"
   },
   {
@@ -23408,6 +23396,18 @@
     "status": "Занято",
     "x": 663.131,
     "y": 1716.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 62,
+    "server_id": 22,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Chill_Relax",
+    "status": "Занято",
+    "x": 2150.73,
+    "y": 2733.87,
     "price": 0,
     "district": "Сан-Андреас"
   },

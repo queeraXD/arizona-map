@@ -9648,6 +9648,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 805,
+    "server_id": 21,
+    "type": "house",
+    "name": "Spiderman ",
+    "owner": "Majorka_Arias",
+    "status": "Занято",
+    "x": -2725.64,
+    "y": -92.5289,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 806,
     "server_id": 21,
     "type": "house",
@@ -17172,18 +17184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1436,
-    "server_id": 21,
-    "type": "house",
-    "name": "Wagner Corporation",
-    "owner": "Rich_Cross",
-    "status": "Занято",
-    "x": 707.137,
-    "y": 1284.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1437,
     "server_id": 21,
     "type": "house",
@@ -17331,8 +17331,8 @@
     "id": 1449,
     "server_id": 21,
     "type": "house",
-    "name": "Wagner Corparation",
-    "owner": "Rich_Cross",
+    "name": "logica",
+    "owner": "Logica_Nevermore",
     "status": "Занято",
     "x": 981.5859,
     "y": 2414.26,
@@ -17427,8 +17427,8 @@
     "id": 1458,
     "server_id": 21,
     "type": "house",
-    "name": "Wagner Corporation",
-    "owner": "Rich_Cross",
+    "name": "logica",
+    "owner": "Logica_Nevermore",
     "status": "Занято",
     "x": 885.9019,
     "y": 2211.72,
@@ -19755,7 +19755,7 @@
     "id": 1652,
     "server_id": 21,
     "type": "house",
-    "name": "Zakymarilofam",
+    "name": "Intellegence",
     "owner": "Kiger_Ice",
     "status": "Занято",
     "x": 2501.23,
@@ -21388,7 +21388,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Дом",
-    "owner": "Ghost_Fox",
+    "owner": "Farmer_Shelby",
     "status": "Занято",
     "x": 102.345,
     "y": 977.08,
@@ -21888,18 +21888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 805,
-    "server_id": 21,
-    "type": "house",
-    "name": "Spiderman ",
-    "owner": "Majorka_Arias",
-    "status": "Аукцион",
-    "x": -2725.64,
-    "y": -92.5289,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 974,
     "server_id": 21,
     "type": "house",
@@ -21921,6 +21909,18 @@
     "x": -2793.14,
     "y": 11.0249,
     "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1436,
+    "server_id": 21,
+    "type": "house",
+    "name": "Wagner Corporation",
+    "owner": "Rich_Cross",
+    "status": "Аукцион",
+    "x": 707.137,
+    "y": 1284.64,
+    "price": 3900,
     "district": "Сан-Андреас"
   },
   {
@@ -23104,7 +23104,7 @@
     "server_id": 21,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Ghost_Fox",
+    "owner": "Rik_Shelby",
     "status": "Занято",
     "x": 1929.45,
     "y": -1776.22,

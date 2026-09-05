@@ -1908,6 +1908,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 159,
+    "server_id": 8,
+    "type": "house",
+    "name": "<3Очень страшный Человек<3",
+    "owner": "Ryder_Smoke",
+    "status": "Занято",
+    "x": 1196.02,
+    "y": -1017.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 160,
     "server_id": 8,
     "type": "house",
@@ -3652,7 +3664,7 @@
     "server_id": 8,
     "type": "house",
     "name": "берлога",
-    "owner": "Ilya_Stoun",
+    "owner": "Vlad_Cachan",
     "status": "Занято",
     "x": 2060.47,
     "y": -1076.7,
@@ -10072,7 +10084,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Marneuli st 2",
-    "owner": "Eiichiro_Oda",
+    "owner": "Alessandro_Notem",
     "status": "Занято",
     "x": -2158.59,
     "y": 830.713,
@@ -10316,18 +10328,6 @@
     "status": "Занято",
     "x": -218.123,
     "y": 2481.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 862,
-    "server_id": 8,
-    "type": "house",
-    "name": "лука",
-    "owner": "Luke_Bailey",
-    "status": "Занято",
-    "x": -222.6519,
-    "y": 2496.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15056,18 +15056,6 @@
     "status": "Занято",
     "x": -2865.0,
     "y": 681.5339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1257,
-    "server_id": 8,
-    "type": "house",
-    "name": "во владении пол года",
-    "owner": "Mark_Golovanskiy",
-    "status": "Занято",
-    "x": -2872.46,
-    "y": 697.51,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25752,15 +25740,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 159,
+    "id": 862,
     "server_id": 8,
     "type": "house",
-    "name": "<3Очень страшный Человек<3",
-    "owner": "Государство",
+    "name": "лука",
+    "owner": "Luke_Bailey",
     "status": "Аукцион",
-    "x": 1196.02,
-    "y": -1017.04,
-    "price": 150,
+    "x": -222.6519,
+    "y": 2496.1,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1257,
+    "server_id": 8,
+    "type": "house",
+    "name": "во владении пол года",
+    "owner": "Mark_Golovanskiy",
+    "status": "Аукцион",
+    "x": -2872.46,
+    "y": 697.51,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
