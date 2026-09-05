@@ -2172,6 +2172,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 183,
+    "server_id": 10,
+    "type": "house",
+    "name": "есть деп условия",
+    "owner": "Oleg_Monopoly",
+    "status": "Занято",
+    "x": 694.833,
+    "y": -1690.29,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 184,
     "server_id": 10,
     "type": "house",
@@ -7680,18 +7692,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 643,
-    "server_id": 10,
-    "type": "house",
-    "name": "Майнинг 6лвл деп. условия",
-    "owner": "Owner_Family",
-    "status": "Занято",
-    "x": 1897.15,
-    "y": 736.687,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 644,
     "server_id": 10,
     "type": "house",
@@ -7844,18 +7844,6 @@
     "status": "Занято",
     "x": 1978.35,
     "y": 665.8079,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 657,
-    "server_id": 10,
-    "type": "house",
-    "name": "семья ",
-    "owner": "Owner_Family",
-    "status": "Занято",
-    "x": 1030.52,
-    "y": 1928.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18483,8 +18471,8 @@
     "id": 1552,
     "server_id": 10,
     "type": "house",
-    "name": "SCAM",
-    "owner": "Travka_Kanabis",
+    "name": "$$$Makadami Squad$$$",
+    "owner": "Andy_Mori",
     "status": "Занято",
     "x": 832.7199,
     "y": -928.07,
@@ -23208,15 +23196,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 183,
+    "id": 643,
     "server_id": 10,
     "type": "house",
-    "name": "есть деп условия",
-    "owner": "Oleg_Monopoly",
+    "name": "Майнинг 6лвл деп. условия",
+    "owner": "Owner_Family",
     "status": "Аукцион",
-    "x": 694.833,
-    "y": -1690.29,
-    "price": 10000,
+    "x": 1897.15,
+    "y": 736.687,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 657,
+    "server_id": 10,
+    "type": "house",
+    "name": "семья ",
+    "owner": "Owner_Family",
+    "status": "Аукцион",
+    "x": 1030.52,
+    "y": 1928.08,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {

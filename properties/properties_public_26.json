@@ -5424,6 +5424,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 452,
+    "server_id": 26,
+    "type": "house",
+    "name": "..::Skywalker::..",
+    "owner": "Nello_Visconti",
+    "status": "Занято",
+    "x": 1844.5,
+    "y": 718.656,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 453,
     "server_id": 26,
     "type": "house",
@@ -12852,18 +12864,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1075,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом фармилки",
-    "owner": "Maksim_Kyousuke",
-    "status": "Занято",
-    "x": -2900.45,
-    "y": 1056.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1076,
     "server_id": 26,
     "type": "house",
@@ -14196,18 +14196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1187,
-    "server_id": 26,
-    "type": "house",
-    "name": "onyxflare",
-    "owner": "Maksim_Kyousuke",
-    "status": "Занято",
-    "x": -2791.85,
-    "y": -94.7826,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1188,
     "server_id": 26,
     "type": "house",
@@ -14995,18 +14983,6 @@
     "owner": "Gabriel_McLarren",
     "status": "Занято",
     "x": -2321.75,
-    "y": 679.963,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1255,
-    "server_id": 26,
-    "type": "house",
-    "name": "МАЙНИНГ 1",
-    "owner": "Maksim_Kyousuke",
-    "status": "Занято",
-    "x": -2303.41,
     "y": 679.963,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22368,18 +22344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1874,
-    "server_id": 26,
-    "type": "house",
-    "name": "dostavka lovlya",
-    "owner": "Maksim_Kyousuke",
-    "status": "Занято",
-    "x": -2678.28,
-    "y": 200.3959,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1875,
     "server_id": 26,
     "type": "house",
@@ -25068,18 +25032,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 452,
-    "server_id": 26,
-    "type": "house",
-    "name": "..::Skywalker::..",
-    "owner": "Nello_Visconti",
-    "status": "Аукцион",
-    "x": 1844.5,
-    "y": 718.656,
-    "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 554,
     "server_id": 26,
     "type": "house",
@@ -25104,6 +25056,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1075,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом фармилки",
+    "owner": "Maksim_Kyousuke",
+    "status": "Аукцион",
+    "x": -2900.45,
+    "y": 1056.92,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1187,
+    "server_id": 26,
+    "type": "house",
+    "name": "onyxflare",
+    "owner": "Maksim_Kyousuke",
+    "status": "Аукцион",
+    "x": -2791.85,
+    "y": -94.7826,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1196,
     "server_id": 26,
     "type": "house",
@@ -25113,6 +25089,18 @@
     "x": -2792.84,
     "y": 85.0083,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1255,
+    "server_id": 26,
+    "type": "house",
+    "name": "МАЙНИНГ 1",
+    "owner": "Maksim_Kyousuke",
+    "status": "Аукцион",
+    "x": -2303.41,
+    "y": 679.963,
+    "price": 100,
     "district": "Сан-Андреас"
   },
   {
@@ -25176,6 +25164,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1874,
+    "server_id": 26,
+    "type": "house",
+    "name": "dostavka lovlya",
+    "owner": "Maksim_Kyousuke",
+    "status": "Аукцион",
+    "x": -2678.28,
+    "y": 200.3959,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 2047,
     "server_id": 26,
     "type": "house",
@@ -25185,6 +25185,18 @@
     "x": -2238.31,
     "y": 1117.55,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 195,
+    "server_id": 26,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Twenty_Bavaria",
+    "status": "Аукцион",
+    "x": -1548.81,
+    "y": 673.91,
+    "price": 115000,
     "district": "Сан-Андреас"
   },
   {
@@ -28160,18 +28172,6 @@
     "status": "Занято",
     "x": -2022.61,
     "y": 459.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 195,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Twenty_Bavaria",
-    "status": "Занято",
-    "x": -1548.81,
-    "y": 673.91,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -4936,7 +4936,7 @@
     "server_id": 15,
     "type": "house",
     "name": "<3 Smith Видюхи <3",
-    "owner": "Legion_Smith",
+    "owner": "Imp_Reza",
     "status": "Занято",
     "x": 1435.43,
     "y": 334.625,
@@ -6752,6 +6752,18 @@
     "status": "Занято",
     "x": 475.7619,
     "y": 1394.49,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 564,
+    "server_id": 15,
+    "type": "house",
+    "name": "Mellodi Company",
+    "owner": "Nik_Mellodi",
+    "status": "Занято",
+    "x": 258.3089,
+    "y": 1151.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9456,6 +9468,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 790,
+    "server_id": 15,
+    "type": "house",
+    "name": "Dom 2",
+    "owner": "Tony_Kitsune",
+    "status": "Занято",
+    "x": -2583.75,
+    "y": 896.255,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 791,
     "server_id": 15,
     "type": "house",
@@ -11456,6 +11480,18 @@
     "status": "Занято",
     "x": -2229.52,
     "y": 934.32,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 959,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Boba_McCloud",
+    "status": "Занято",
+    "x": -2158.75,
+    "y": 786.197,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21276,42 +21312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 564,
-    "server_id": 15,
-    "type": "house",
-    "name": "Mellodi Company",
-    "owner": "Nik_Mellodi",
-    "status": "Аукцион",
-    "x": 258.3089,
-    "y": 1151.77,
-    "price": 6500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 790,
-    "server_id": 15,
-    "type": "house",
-    "name": "CRIPS House",
-    "owner": "Nik_Mellodi",
-    "status": "Аукцион",
-    "x": -2583.75,
-    "y": 896.255,
-    "price": 4500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 959,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nik_Mellodi",
-    "status": "Аукцион",
-    "x": -2158.75,
-    "y": 786.197,
-    "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1445,
     "server_id": 15,
     "type": "house",
@@ -21333,18 +21333,6 @@
     "x": -2718.47,
     "y": 50.452,
     "price": 135000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 207,
-    "server_id": 15,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Boba_McCloud",
-    "status": "Аукцион",
-    "x": 196.119,
-    "y": -116.76,
-    "price": 80000,
     "district": "Сан-Андреас"
   },
   {
@@ -24452,6 +24440,18 @@
     "status": "Занято",
     "x": 1381.1,
     "y": -1805.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 207,
+    "server_id": 15,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Boba_McCloud",
+    "status": "Занято",
+    "x": 196.119,
+    "y": -116.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
