@@ -7840,7 +7840,7 @@
     "server_id": 3,
     "type": "house",
     "name": "paranoya",
-    "owner": "AyanamI_Mercenari",
+    "owner": "Maxon_Kefirov",
     "status": "Занято",
     "x": 2065.71,
     "y": 650.2559,
@@ -10664,6 +10664,18 @@
     "status": "Занято",
     "x": -2101.77,
     "y": -2532.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 891,
+    "server_id": 3,
+    "type": "house",
+    "name": "GG HOUSE",
+    "owner": "Monero_Explosion",
+    "status": "Занято",
+    "x": -2075.03,
+    "y": -2526.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14040,6 +14052,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1173,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом Парламента",
+    "owner": "Vlad_Wingauzer",
+    "status": "Занято",
+    "x": -2791.95,
+    "y": 91.9699,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1174,
     "server_id": 3,
     "type": "house",
@@ -14751,7 +14775,7 @@
     "id": 1233,
     "server_id": 3,
     "type": "house",
-    "name": "Дом как Дом",
+    "name": "Треп Хата",
     "owner": "Eugene_Krouwen",
     "status": "Занято",
     "x": -2351.14,
@@ -23984,31 +24008,7 @@
     "status": "Аукцион",
     "x": 769.1149,
     "y": -1696.62,
-    "price": 35000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 891,
-    "server_id": 3,
-    "type": "house",
-    "name": "GG HOUSE",
-    "owner": "Monero_Explosion",
-    "status": "Аукцион",
-    "x": -2075.03,
-    "y": -2526.84,
-    "price": 12000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1173,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом Парламента",
-    "owner": "Andy_Parliament",
-    "status": "Аукцион",
-    "x": -2791.95,
-    "y": 91.9699,
-    "price": 8100,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -24033,18 +24033,6 @@
     "x": -2163.47,
     "y": 129.382,
     "price": 500000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 272,
-    "server_id": 3,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Dostavka_Cuerto",
-    "status": "Аукцион",
-    "x": -144.085,
-    "y": 1224.66,
-    "price": 444444,
     "district": "Сан-Андреас"
   },
   {
@@ -26060,6 +26048,18 @@
     "status": "Занято",
     "x": -1912.17,
     "y": 827.954,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 272,
+    "server_id": 3,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Dostavka_Cuerto",
+    "status": "Занято",
+    "x": -144.085,
+    "y": 1224.66,
     "price": 0,
     "district": "Сан-Андреас"
   },

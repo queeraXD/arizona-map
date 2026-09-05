@@ -2400,18 +2400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 201,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mister_Sheldon",
-    "status": "Занято",
-    "x": 1536.32,
-    "y": -884.789,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 202,
     "server_id": 28,
     "type": "house",
@@ -2504,6 +2492,18 @@
     "status": "Занято",
     "x": 1093.81,
     "y": -806.668,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 210,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pavel_Spitsyn",
+    "status": "Занято",
+    "x": 1112.41,
+    "y": -742.067,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12388,7 +12388,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Deluxe",
-    "owner": "Mark_Business",
+    "owner": "Hunter_Soprano",
     "status": "Занято",
     "x": -1776.13,
     "y": 1115.2,
@@ -12452,18 +12452,6 @@
     "status": "Занято",
     "x": -1761.0,
     "y": 1174.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1044,
-    "server_id": 28,
-    "type": "house",
-    "name": "яйца",
-    "owner": "Kosynoki_Rambery",
-    "status": "Занято",
-    "x": -1780.35,
-    "y": 1138.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14632,7 +14620,7 @@
     "server_id": 28,
     "type": "house",
     "name": "5 комнат деп условия подвал  ",
-    "owner": "Max_Luchov",
+    "owner": "Lovec_Pisunov",
     "status": "Занято",
     "x": -2477.91,
     "y": 1301.16,
@@ -15272,18 +15260,6 @@
     "status": "Занято",
     "x": -2722.11,
     "y": 14.5172,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1280,
-    "server_id": 28,
-    "type": "house",
-    "name": "Под охраной коров!",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2725.79,
-    "y": -36.4976,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22308,15 +22284,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 210,
+    "id": 201,
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Pavel_Spitsyn",
+    "owner": "Mister_Sheldon",
     "status": "Аукцион",
-    "x": 1112.41,
-    "y": -742.067,
-    "price": 15000,
+    "x": 1536.32,
+    "y": -884.789,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -22356,6 +22332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1044,
+    "server_id": 28,
+    "type": "house",
+    "name": "яйца",
+    "owner": "Kosynoki_Rambery",
+    "status": "Аукцион",
+    "x": -1780.35,
+    "y": 1138.77,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1083,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22353,42 @@
     "x": -2844.68,
     "y": 921.177,
     "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1280,
+    "server_id": 28,
+    "type": "house",
+    "name": "Под охраной коров!",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2725.79,
+    "y": -36.4976,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 197,
+    "server_id": 28,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2400.04,
+    "y": 337.43,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 28,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2373.8,
+    "y": 910.117,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23384,18 +23408,6 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 28,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Dmitry_Darkside",
-    "status": "Занято",
-    "x": -2373.8,
-    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25364,18 +25376,6 @@
     "status": "Занято",
     "x": -2681.61,
     "y": 583.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 197,
-    "server_id": 28,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Dmitry_Darkside",
-    "status": "Занято",
-    "x": -2400.04,
-    "y": 337.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
