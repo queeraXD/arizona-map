@@ -1839,7 +1839,7 @@
     "id": 153,
     "server_id": 24,
     "type": "house",
-    "name": "Дом",
+    "name": "Wanted Corporation",
     "owner": "Ayanami_Wanted",
     "status": "Занято",
     "x": 1103.34,
@@ -4560,6 +4560,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 380,
+    "server_id": 24,
+    "type": "house",
+    "name": " Sosuke House",
+    "owner": "Daniil_Kostalev",
+    "status": "Занято",
+    "x": 2249.24,
+    "y": 111.165,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 381,
     "server_id": 24,
     "type": "house",
@@ -4736,6 +4748,18 @@
     "status": "Занято",
     "x": 2200.47,
     "y": -37.3367,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 396,
+    "server_id": 24,
+    "type": "house",
+    "name": "<3 Sovhoz Corporation <3",
+    "owner": "Sklad_Sovhoz",
+    "status": "Занято",
+    "x": 2245.43,
+    "y": -2.1438,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5516,18 +5540,6 @@
     "status": "Занято",
     "x": 2123.33,
     "y": 651.627,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 462,
-    "server_id": 24,
-    "type": "house",
-    "name": "rezo castle",
-    "owner": "Samp_Bet",
-    "status": "Занято",
-    "x": 2178.13,
-    "y": 655.619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10328,18 +10340,6 @@
     "status": "Занято",
     "x": -236.8439,
     "y": 2491.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 864,
-    "server_id": 24,
-    "type": "house",
-    "name": "KIVI",
-    "owner": "Samp_Bet",
-    "status": "Занято",
-    "x": -245.722,
-    "y": 2501.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16500,18 +16500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1379,
-    "server_id": 24,
-    "type": "house",
-    "name": "ПОМЕСТЬЕ FRAIDER",
-    "owner": "Ykyrish_Deeplace",
-    "status": "Занято",
-    "x": 1967.48,
-    "y": -1633.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1380,
     "server_id": 24,
     "type": "house",
@@ -20583,8 +20571,8 @@
     "id": 1720,
     "server_id": 24,
     "type": "house",
-    "name": "MaxGerkyl",
-    "owner": "Lui_Armstrong",
+    "name": "Wanted Corporation",
+    "owner": "Ayanami_Wanted",
     "status": "Занято",
     "x": 1802.75,
     "y": 2826.26,
@@ -22008,27 +21996,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 380,
+    "id": 462,
     "server_id": 24,
     "type": "house",
-    "name": " Sosuke House",
-    "owner": "Lil_Samural",
+    "name": "rezo castle",
+    "owner": "Samp_Bet",
     "status": "Аукцион",
-    "x": 2249.24,
-    "y": 111.165,
-    "price": 5000,
+    "x": 2178.13,
+    "y": 655.619,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 396,
+    "id": 864,
     "server_id": 24,
     "type": "house",
-    "name": "swag damn",
-    "owner": "Lil_Samural",
+    "name": "KIVI",
+    "owner": "Samp_Bet",
     "status": "Аукцион",
-    "x": 2245.43,
-    "y": -2.1438,
-    "price": 5000,
+    "x": -245.722,
+    "y": 2501.72,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -22044,6 +22032,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1379,
+    "server_id": 24,
+    "type": "house",
+    "name": "ПОМЕСТЬЕ FRAIDER",
+    "owner": "Ykyrish_Deeplace",
+    "status": "Аукцион",
+    "x": 1967.48,
+    "y": -1633.71,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 74,
     "server_id": 24,
     "type": "business",
@@ -22053,18 +22053,6 @@
     "x": 2104.24,
     "y": 2678.92,
     "price": 82500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 312,
-    "server_id": 24,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Dostavka_Cuerto",
-    "status": "Аукцион",
-    "x": 641.4393,
-    "y": -494.824,
-    "price": 250132,
     "district": "Сан-Андреас"
   },
   {
@@ -22720,7 +22708,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Sergio_Tohok",
+    "owner": "Tommy_Underwood",
     "status": "Занято",
     "x": 1657.04,
     "y": 1741.65,
@@ -25844,6 +25832,18 @@
     "status": "Занято",
     "x": -20.8111,
     "y": -1548.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 312,
+    "server_id": 24,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Dostavka_Cuerto",
+    "status": "Занято",
+    "x": 641.4393,
+    "y": -494.824,
     "price": 0,
     "district": "Сан-Андреас"
   },

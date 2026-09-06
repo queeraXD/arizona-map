@@ -1420,7 +1420,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Домик Туповой",
-    "owner": "Liza_Typova",
+    "owner": "Necati_Arabaci",
     "status": "Занято",
     "x": 1913.53,
     "y": -1911.91,
@@ -6316,7 +6316,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Особняк туповой",
-    "owner": "Liza_Typova",
+    "owner": "Necati_Arabaci",
     "status": "Занято",
     "x": 2039.57,
     "y": 2766.53,
@@ -7856,6 +7856,18 @@
     "status": "Занято",
     "x": 1030.52,
     "y": 1928.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 658,
+    "server_id": 3,
+    "type": "house",
+    "name": "GD)",
+    "owner": "Sos_Krutoy",
+    "status": "Занято",
+    "x": 1028.89,
+    "y": 1905.89,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10700,18 +10712,6 @@
     "status": "Занято",
     "x": -2043.27,
     "y": -2559.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 899,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": -2240.02,
-    "y": 962.1649,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23976,18 +23976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 658,
-    "server_id": 3,
-    "type": "house",
-    "name": "GD)",
-    "owner": "Sos_Krutoy",
-    "status": "Аукцион",
-    "x": 1028.89,
-    "y": 1905.89,
-    "price": 10000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 722,
     "server_id": 3,
     "type": "house",
@@ -24009,6 +23997,30 @@
     "x": -2075.03,
     "y": -2526.84,
     "price": 11000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 899,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Grafi_Kus",
+    "status": "Аукцион",
+    "x": -2240.02,
+    "y": 962.1649,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 113,
+    "server_id": 3,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "In_Jury",
+    "status": "Аукцион",
+    "x": -1808.68,
+    "y": 945.944,
+    "price": 170000,
     "district": "Сан-Андреас"
   },
   {
@@ -25880,18 +25892,6 @@
     "status": "Занято",
     "x": -2672.26,
     "y": 258.431,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 113,
-    "server_id": 3,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "In_Jury",
-    "status": "Занято",
-    "x": -1808.68,
-    "y": 945.944,
     "price": 0,
     "district": "Сан-Андреас"
   },

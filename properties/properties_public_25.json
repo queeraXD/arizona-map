@@ -4863,8 +4863,8 @@
     "id": 405,
     "server_id": 25,
     "type": "house",
-    "name": "Nelson  Empire",
-    "owner": "Drake_Yujinberg",
+    "name": "Toby Maguire",
+    "owner": "Toby_Maguire",
     "status": "Занято",
     "x": 1451.08,
     "y": 374.286,
@@ -5240,6 +5240,18 @@
     "status": "Занято",
     "x": 2801.92,
     "y": -1962.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 437,
+    "server_id": 25,
+    "type": "house",
+    "name": "grove",
+    "owner": "Mana_Nebesna",
+    "status": "Занято",
+    "x": 2801.93,
+    "y": -1936.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12352,7 +12364,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Neriya_Lemerel",
+    "owner": "Alice_Madness",
     "status": "Занято",
     "x": 1888.13,
     "y": -360.903,
@@ -18076,7 +18088,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Neriya_Lemerel",
+    "owner": "Alice_Madness",
     "status": "Занято",
     "x": -2361.44,
     "y": 251.6199,
@@ -19288,7 +19300,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Ryuosuke_Hashymota",
+    "owner": "Spichka_McKenzie",
     "status": "Занято",
     "x": 2540.06,
     "y": 719.523,
@@ -22656,18 +22668,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1899,
-    "server_id": 25,
-    "type": "house",
-    "name": "1       ",
-    "owner": "Kimmi_Toxiclame",
-    "status": "Занято",
-    "x": 1745.37,
-    "y": 2770.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1900,
     "server_id": 25,
     "type": "house",
@@ -22904,18 +22904,6 @@
     "status": "Занято",
     "x": 1731.78,
     "y": 2855.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1920,
-    "server_id": 25,
-    "type": "house",
-    "name": "Тут живет Ванек пивной ларек",
-    "owner": "Seforolius_Lerned",
-    "status": "Занято",
-    "x": 1728.03,
-    "y": 2834.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23676,18 +23664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 437,
-    "server_id": 25,
-    "type": "house",
-    "name": "angers",
-    "owner": "ImLeaving_ToTokyo",
-    "status": "Аукцион",
-    "x": 2801.93,
-    "y": -1936.58,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 663,
     "server_id": 25,
     "type": "house",
@@ -23769,6 +23745,30 @@
     "x": 2501.34,
     "y": 1682.87,
     "price": 1750,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1899,
+    "server_id": 25,
+    "type": "house",
+    "name": "1       ",
+    "owner": "Kimmi_Toxiclame",
+    "status": "Аукцион",
+    "x": 1745.37,
+    "y": 2770.03,
+    "price": 301,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1920,
+    "server_id": 25,
+    "type": "house",
+    "name": "Тут живет Ванек пивной ларек",
+    "owner": "Seforolius_Lerned",
+    "status": "Аукцион",
+    "x": 1728.03,
+    "y": 2834.82,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
