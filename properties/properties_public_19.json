@@ -444,18 +444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 37,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Povelitely_Sisek",
-    "status": "Занято",
-    "x": 2389.73,
-    "y": -1346.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 38,
     "server_id": 19,
     "type": "house",
@@ -9048,18 +9036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 757,
-    "server_id": 19,
-    "type": "house",
-    "name": "Queens House",
-    "owner": "Feldan_Lizalov",
-    "status": "Занято",
-    "x": -2738.32,
-    "y": 746.648,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 758,
     "server_id": 19,
     "type": "house",
@@ -10640,18 +10616,6 @@
     "status": "Занято",
     "x": -2087.62,
     "y": -2510.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 891,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stu_Love",
-    "status": "Занято",
-    "x": -2069.91,
-    "y": -2494.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12992,18 +12956,6 @@
     "status": "Занято",
     "x": -2158.02,
     "y": 889.281,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1088,
-    "server_id": 19,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Xanax_XR",
-    "status": "Занято",
-    "x": -2158.98,
-    "y": 866.3289,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18591,7 +18543,7 @@
     "id": 1557,
     "server_id": 19,
     "type": "house",
-    "name": "sell",
+    "name": "Дом",
     "owner": "Nova_Sadness",
     "status": "Занято",
     "x": 1932.09,
@@ -18663,7 +18615,7 @@
     "id": 1563,
     "server_id": 19,
     "type": "house",
-    "name": "sell подвал майнинг",
+    "name": "Дом",
     "owner": "Nova_Sadness",
     "status": "Занято",
     "x": 1957.04,
@@ -19299,7 +19251,7 @@
     "id": 1618,
     "server_id": 19,
     "type": "house",
-    "name": "шестой архитектор",
+    "name": "Дом",
     "owner": "Dima_Kharlamov",
     "status": "Занято",
     "x": 1791.69,
@@ -19323,7 +19275,7 @@
     "id": 1620,
     "server_id": 19,
     "type": "house",
-    "name": "седьмой архитектор",
+    "name": "Дом",
     "owner": "Dima_Kharlamov",
     "status": "Занято",
     "x": 1794.69,
@@ -19347,7 +19299,7 @@
     "id": 1622,
     "server_id": 19,
     "type": "house",
-    "name": "восьмой архитектор",
+    "name": "Дом",
     "owner": "Dima_Kharlamov",
     "status": "Занято",
     "x": 1797.73,
@@ -20784,18 +20736,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1744,
-    "server_id": 19,
-    "type": "house",
-    "name": "майнинг",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": 2690.54,
-    "y": -1229.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1745,
     "server_id": 19,
     "type": "house",
@@ -21924,6 +21864,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 37,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Povelitely_Sisek",
+    "status": "Аукцион",
+    "x": 2389.73,
+    "y": -1346.03,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 186,
     "server_id": 19,
     "type": "house",
@@ -21960,6 +21912,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 757,
+    "server_id": 19,
+    "type": "house",
+    "name": "Queens House",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2738.32,
+    "y": 746.648,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 891,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2069.91,
+    "y": -2494.76,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 902,
     "server_id": 19,
     "type": "house",
@@ -21969,6 +21945,18 @@
     "x": -2065.95,
     "y": 1160.62,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1088,
+    "server_id": 19,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2158.98,
+    "y": 866.3289,
+    "price": 150,
     "district": "Сан-Андреас"
   },
   {
@@ -22053,6 +22041,18 @@
     "x": 1803.34,
     "y": 2855.45,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1744,
+    "server_id": 19,
+    "type": "house",
+    "name": "майнинг",
+    "owner": "Spike_Scout",
+    "status": "Аукцион",
+    "x": 2690.54,
+    "y": -1229.18,
+    "price": 300,
     "district": "Сан-Андреас"
   },
   {

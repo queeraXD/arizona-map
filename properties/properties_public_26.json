@@ -4764,18 +4764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 397,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Molly_Roger",
-    "status": "Занято",
-    "x": 2270.49,
-    "y": -7.7322,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 398,
     "server_id": 26,
     "type": "house",
@@ -6368,6 +6356,18 @@
     "status": "Занято",
     "x": 1929.81,
     "y": 2774.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 532,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Munuctep_Makapon",
+    "status": "Занято",
+    "x": 1931.33,
+    "y": 2721.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14348,6 +14348,18 @@
     "status": "Занято",
     "x": -2793.14,
     "y": 110.911,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1200,
+    "server_id": 26,
+    "type": "house",
+    "name": "Strong",
+    "owner": "Tiki_Taki",
+    "status": "Занято",
+    "x": -2791.58,
+    "y": 130.6239,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23056,7 +23068,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Дом",
-    "owner": "Kedroviy_Openmind",
+    "owner": "Julian_Hall",
     "status": "Занято",
     "x": 2476.42,
     "y": -1383.37,
@@ -25116,6 +25128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 397,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Molly_Roger",
+    "status": "Аукцион",
+    "x": 2270.49,
+    "y": -7.7322,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 452,
     "server_id": 26,
     "type": "house",
@@ -25128,18 +25152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 532,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Munuctep_Makapon",
-    "status": "Аукцион",
-    "x": 1931.33,
-    "y": 2721.72,
-    "price": 1250,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 669,
     "server_id": 26,
     "type": "house",
@@ -25148,18 +25160,6 @@
     "status": "Аукцион",
     "x": 1030.09,
     "y": 2028.11,
-    "price": 500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1200,
-    "server_id": 26,
-    "type": "house",
-    "name": "Strong",
-    "owner": "Blake_Shadow",
-    "status": "Аукцион",
-    "x": -2791.58,
-    "y": 130.6239,
     "price": 500,
     "district": "Сан-Андреас"
   },
@@ -25185,6 +25185,42 @@
     "x": 2417.74,
     "y": 975.067,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 82,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Wuddy_Overprice",
+    "status": "Аукцион",
+    "x": 1879.19,
+    "y": 2339.5,
+    "price": 180000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Wuddy_Overprice",
+    "status": "Аукцион",
+    "x": 2366.7,
+    "y": 2071.11,
+    "price": 180000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 356,
+    "server_id": 26,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Wuddy_Overprice",
+    "status": "Аукцион",
+    "x": 2348.53,
+    "y": -1372.68,
+    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -25580,18 +25616,6 @@
     "status": "Занято",
     "x": 681.561,
     "y": -473.347,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 356,
-    "server_id": 26,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Wuddy_Overprice",
-    "status": "Занято",
-    "x": 2348.53,
-    "y": -1372.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26928,18 +26952,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 82,
-    "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Wuddy_Overprice",
-    "status": "Занято",
-    "x": 1879.19,
-    "y": 2339.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 83,
     "server_id": 26,
     "type": "business",
@@ -27260,18 +27272,6 @@
     "status": "Занято",
     "x": 2392.56,
     "y": 2042.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Wuddy_Overprice",
-    "status": "Занято",
-    "x": 2366.7,
-    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
