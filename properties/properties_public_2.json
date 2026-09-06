@@ -7109,10 +7109,10 @@
     "type": "house",
     "name": "pes family",
     "owner": "Pes_Vlados",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2219.86,
     "y": -2400.42,
-    "price": 22000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -7841,10 +7841,10 @@
     "type": "house",
     "name": "pes family",
     "owner": "Pes_Vlados",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2128.68,
     "y": 650.179,
-    "price": 12500,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -15341,10 +15341,10 @@
     "type": "house",
     "name": "pes family",
     "owner": "Pes_Vlados",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2511.74,
     "y": 975.716,
-    "price": 14000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -22887,7 +22887,7 @@
     "id": 1914,
     "server_id": 2,
     "type": "house",
-    "name": "Bitcoin_Ferma 6",
+    "name": "продаю",
     "owner": "Tlm_Really",
     "status": "Занято",
     "x": 2623.66,
@@ -23961,6 +23961,42 @@
     "x": -2280.84,
     "y": 1149.21,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 196,
+    "server_id": 2,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Tlm_Really",
+    "status": "Аукцион",
+    "x": -2681.61,
+    "y": 583.93,
+    "price": 190000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 306,
+    "server_id": 2,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Tlm_Really",
+    "status": "Аукцион",
+    "x": 2042.819,
+    "y": 2633.449,
+    "price": 190000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 2,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Tlm_Really",
+    "status": "Аукцион",
+    "x": -2103.59,
+    "y": -2342.04,
+    "price": 190000,
     "district": "Сан-Андреас"
   },
   {
@@ -26064,18 +26100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 358,
-    "server_id": 2,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Tlm_Really",
-    "status": "Занято",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 39,
     "server_id": 2,
     "type": "business",
@@ -26952,18 +26976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 196,
-    "server_id": 2,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Tlm_Really",
-    "status": "Занято",
-    "x": -2681.61,
-    "y": 583.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 197,
     "server_id": 2,
     "type": "business",
@@ -27680,18 +27692,6 @@
     "status": "Занято",
     "x": 2837.842,
     "y": 1392.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 306,
-    "server_id": 2,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Tlm_Really",
-    "status": "Занято",
-    "x": 2042.819,
-    "y": 2633.449,
     "price": 0,
     "district": "Сан-Андреас"
   },
