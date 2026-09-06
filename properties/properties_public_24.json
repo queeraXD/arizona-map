@@ -5544,18 +5544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 462,
-    "server_id": 24,
-    "type": "house",
-    "name": "rezo castle",
-    "owner": "Sandan_Sokrat",
-    "status": "Занято",
-    "x": 2178.13,
-    "y": 655.619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 463,
     "server_id": 24,
     "type": "house",
@@ -5788,7 +5776,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Clapton Industrial",
-    "owner": "Zhatecky_Gus",
+    "owner": "Sonic_Arctic",
     "status": "Занято",
     "x": 2206.36,
     "y": 691.505,
@@ -7652,6 +7640,18 @@
     "status": "Занято",
     "x": -362.6669,
     "y": 1110.63,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 638,
+    "server_id": 24,
+    "type": "house",
+    "name": "|DISTURBED|",
+    "owner": "Konstantin_Pinko",
+    "status": "Занято",
+    "x": -328.5119,
+    "y": 1118.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22008,15 +22008,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 638,
+    "id": 462,
     "server_id": 24,
     "type": "house",
-    "name": "|DISTURBED|",
-    "owner": "Konstantin_Pinko",
+    "name": "rezo castle",
+    "owner": "Sandan_Sokrat",
     "status": "Аукцион",
-    "x": -328.5119,
-    "y": 1118.86,
-    "price": 10000,
+    "x": 2178.13,
+    "y": 655.619,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -22041,18 +22041,6 @@
     "x": -2174.04,
     "y": -2482.31,
     "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 299,
-    "server_id": 24,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Konstantin_Pinko",
-    "status": "Аукцион",
-    "x": 1876.07,
-    "y": 2234.15,
-    "price": 95000,
     "district": "Сан-Андреас"
   },
   {
@@ -22424,6 +22412,18 @@
     "status": "Занято",
     "x": 2330.78,
     "y": 2165.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 299,
+    "server_id": 24,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Konstantin_Pinko",
+    "status": "Занято",
+    "x": 1876.07,
+    "y": 2234.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
