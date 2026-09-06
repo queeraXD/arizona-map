@@ -111,7 +111,7 @@
     "id": 9,
     "server_id": 32,
     "type": "house",
-    "name": "Kostum/Group",
+    "name": "Домик Роя",
     "owner": "Roy_Scheider",
     "status": "Занято",
     "x": 2036.07,
@@ -10260,6 +10260,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 859,
+    "server_id": 32,
+    "type": "house",
+    "name": "DeathRoom",
+    "owner": "Castles_Crystalll",
+    "status": "Занято",
+    "x": -2431.27,
+    "y": -1329.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 860,
     "server_id": 32,
     "type": "house",
@@ -17532,18 +17544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1467,
-    "server_id": 32,
-    "type": "house",
-    "name": "деп.условия",
-    "owner": "Bloody_Slayer",
-    "status": "Занято",
-    "x": 957.505,
-    "y": 2215.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1468,
     "server_id": 32,
     "type": "house",
@@ -20044,7 +20044,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Worker",
-    "owner": "Vlados_Tuning",
+    "owner": "Bloody_Slayer",
     "status": "Занято",
     "x": 2492.13,
     "y": -1376.27,
@@ -22488,15 +22488,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 859,
+    "id": 1467,
     "server_id": 32,
     "type": "house",
-    "name": "DeathRoom",
-    "owner": "Castles_Crystalll",
+    "name": "Дом",
+    "owner": "Bloody_Slayer",
     "status": "Аукцион",
-    "x": -2431.27,
-    "y": -1329.58,
-    "price": 600123,
+    "x": 957.505,
+    "y": 2215.29,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
