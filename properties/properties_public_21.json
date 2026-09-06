@@ -8424,6 +8424,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 702,
+    "server_id": 21,
+    "type": "house",
+    "name": "Dizel",
+    "owner": "Timur_Dizel",
+    "status": "Занято",
+    "x": 1454.23,
+    "y": 2525.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 703,
     "server_id": 21,
     "type": "house",
@@ -14704,7 +14716,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Дом",
-    "owner": "Den_Kontik",
+    "owner": "Pavel_Mortal",
     "status": "Занято",
     "x": -2477.21,
     "y": 1318.55,
@@ -21168,18 +21180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1767,
-    "server_id": 21,
-    "type": "house",
-    "name": "Tonights Family",
-    "owner": "Quelling_Blade",
-    "status": "Занято",
-    "x": 778.065,
-    "y": 1937.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1768,
     "server_id": 21,
     "type": "house",
@@ -21912,18 +21912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 702,
-    "server_id": 21,
-    "type": "house",
-    "name": "Dizel",
-    "owner": "Timur_Dizel",
-    "status": "Аукцион",
-    "x": 1454.23,
-    "y": 2525.59,
-    "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 997,
     "server_id": 21,
     "type": "house",
@@ -21936,15 +21924,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 99,
+    "id": 1767,
+    "server_id": 21,
+    "type": "house",
+    "name": "Tonights Family",
+    "owner": "Quelling_Blade",
+    "status": "Аукцион",
+    "x": 778.065,
+    "y": 1937.59,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 86,
     "server_id": 21,
     "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "KpblcA_Aa",
+    "name": "Бар",
+    "owner": "Nox_Nostra",
     "status": "Аукцион",
-    "x": -2089.11,
-    "y": 84.268,
-    "price": 100000,
+    "x": -88.742,
+    "y": 1378.27,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -22184,18 +22184,6 @@
     "status": "Занято",
     "x": 385.891,
     "y": -1817.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 86,
-    "server_id": 21,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Nox_Nostra",
-    "status": "Занято",
-    "x": -88.742,
-    "y": 1378.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24308,6 +24296,18 @@
     "status": "Занято",
     "x": 2016.15,
     "y": 1149.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 99,
+    "server_id": 21,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Bruno_Lee",
+    "status": "Занято",
+    "x": -2089.11,
+    "y": 84.268,
     "price": 0,
     "district": "Сан-Андреас"
   },
