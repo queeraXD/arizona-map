@@ -4912,7 +4912,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Clown_Wicked",
+    "owner": "Voda_Gaz",
     "status": "Занято",
     "x": 1402.4,
     "y": 333.4599,
@@ -4924,7 +4924,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Пиратство",
-    "owner": "Clown_Wicked",
+    "owner": "Voda_Gaz",
     "status": "Занято",
     "x": 1415.14,
     "y": 324.105,
@@ -4960,7 +4960,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Пиратство",
-    "owner": "Clown_Wicked",
+    "owner": "Voda_Gaz",
     "status": "Занято",
     "x": 1469.66,
     "y": 351.2609,
@@ -10380,18 +10380,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 871,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vlados_Papiros",
-    "status": "Занято",
-    "x": -302.976,
-    "y": 2552.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 872,
     "server_id": 32,
     "type": "house",
@@ -12615,7 +12603,7 @@
     "id": 1057,
     "server_id": 32,
     "type": "house",
-    "name": "Подвалы, майн, игровая, депозит",
+    "name": "Склад номер 2",
     "owner": "Adam_Hangovers",
     "status": "Занято",
     "x": -1970.43,
@@ -15796,7 +15784,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Пиратство",
-    "owner": "Clown_Wicked",
+    "owner": "Voda_Gaz",
     "status": "Занято",
     "x": 1475.31,
     "y": 372.7489,
@@ -15832,7 +15820,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Пиратство",
-    "owner": "Clown_Wicked",
+    "owner": "Voda_Gaz",
     "status": "Занято",
     "x": 1461.16,
     "y": 342.493,
@@ -20580,6 +20568,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1751,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Занято",
+    "x": -789.703,
+    "y": 2747.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1752,
     "server_id": 32,
     "type": "house",
@@ -21612,6 +21612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1838,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Занято",
+    "x": 2623.66,
+    "y": 2065.52,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1839,
     "server_id": 32,
     "type": "house",
@@ -21672,6 +21684,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1844,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Занято",
+    "x": 2613.64,
+    "y": 2044.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1845,
     "server_id": 32,
     "type": "house",
@@ -21680,6 +21704,18 @@
     "status": "Занято",
     "x": 2613.64,
     "y": 2051.63,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1846,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Занято",
+    "x": 2613.64,
+    "y": 2060.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22452,6 +22488,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 871,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vlados_Papiros",
+    "status": "Аукцион",
+    "x": -302.976,
+    "y": 2552.28,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1705,
     "server_id": 32,
     "type": "house",
@@ -22461,78 +22509,6 @@
     "x": 2492.13,
     "y": -1376.27,
     "price": 9000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1751,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Аукцион",
-    "x": -789.703,
-    "y": 2747.8,
-    "price": 9999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1838,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Аукцион",
-    "x": 2623.66,
-    "y": 2065.52,
-    "price": 9999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1844,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Аукцион",
-    "x": 2613.64,
-    "y": 2044.07,
-    "price": 9999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1846,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Аукцион",
-    "x": 2613.64,
-    "y": 2060.96,
-    "price": 9999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 5,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Ronald_Mercy",
-    "status": "Аукцион",
-    "x": 2309.79,
-    "y": -1643.68,
-    "price": 260000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 7,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Ronald_Mercy",
-    "status": "Аукцион",
-    "x": 1315.5,
-    "y": -898.048,
-    "price": 260000,
     "district": "Сан-Андреас"
   },
   {
@@ -22764,6 +22740,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 5,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Ronald_Mercy",
+    "status": "Занято",
+    "x": 2309.79,
+    "y": -1643.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 51,
     "server_id": 32,
     "type": "business",
@@ -22952,6 +22940,18 @@
     "status": "Занято",
     "x": 1352.4,
     "y": -1758.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 7,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Ronald_Mercy",
+    "status": "Занято",
+    "x": 1315.5,
+    "y": -898.048,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24544,7 +24544,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Nestor_Belkin",
+    "owner": "Ecolant_Vyksa",
     "status": "Занято",
     "x": -1912.17,
     "y": 827.954,
@@ -24568,7 +24568,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Nestor_Belkin",
+    "owner": "Ecolant_Vyksa",
     "status": "Занято",
     "x": 2472.77,
     "y": 2034.24,
@@ -24628,7 +24628,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Nestor_Belkin",
+    "owner": "Ecolant_Vyksa",
     "status": "Занято",
     "x": 559.489,
     "y": -1293.21,
