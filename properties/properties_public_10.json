@@ -1332,6 +1332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 111,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Занято",
+    "x": 2269.22,
+    "y": -1882.41,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 112,
     "server_id": 10,
     "type": "house",
@@ -8860,7 +8872,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Домек",
-    "owner": "True_Adam",
+    "owner": "Shashka_Kiskoder",
     "status": "Занято",
     "x": -2860.27,
     "y": 835.6959,
@@ -9800,6 +9812,18 @@
     "status": "Занято",
     "x": -2691.32,
     "y": -159.893,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 820,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Karlos_Zelensky",
+    "status": "Занято",
+    "x": -2689.39,
+    "y": -152.796,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11592,18 +11616,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 973,
-    "server_id": 10,
-    "type": "house",
-    "name": "[$]Dysphoria Empire[$]",
-    "owner": "baltika9",
-    "status": "Занято",
-    "x": -2478.74,
-    "y": 2488.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 974,
     "server_id": 10,
     "type": "house",
@@ -12044,18 +12056,6 @@
     "status": "Занято",
     "x": -2468.65,
     "y": 1141.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1011,
-    "server_id": 10,
-    "type": "house",
-    "name": "Manningimp",
-    "owner": "[17]Eugene_Macedonsky",
-    "status": "Занято",
-    "x": -2523.81,
-    "y": 1141.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23044,7 +23044,7 @@
     "server_id": 10,
     "type": "house",
     "name": "JustinHouse",
-    "owner": "True_Adam",
+    "owner": "Shashka_Kiskoder",
     "status": "Занято",
     "x": -86.222,
     "y": 978.036,
@@ -23232,15 +23232,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 111,
+    "id": 973,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Аукцион",
-    "x": 2269.22,
-    "y": -1882.41,
-    "price": 1500,
+    "name": "[$]Dysphoria Empire[$]",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2478.74,
+    "y": 2488.76,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23268,18 +23268,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 820,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Аукцион",
-    "x": -2689.39,
-    "y": -152.796,
-    "price": 800,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 928,
     "server_id": 10,
     "type": "house",
@@ -23301,6 +23289,18 @@
     "x": -2017.56,
     "y": 982.8229,
     "price": 800,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1011,
+    "server_id": 10,
+    "type": "house",
+    "name": "Manningimp",
+    "owner": "[17]Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": -2523.81,
+    "y": 1141.92,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
