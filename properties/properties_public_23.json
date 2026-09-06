@@ -264,18 +264,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 22,
-    "server_id": 23,
-    "type": "house",
-    "name": "Deviloshi",
-    "owner": "Tune_Yadets",
-    "status": "Занято",
-    "x": 2191.59,
-    "y": -1275.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 23,
     "server_id": 23,
     "type": "house",
@@ -3764,18 +3752,6 @@
     "status": "Занято",
     "x": 1939.25,
     "y": -1066.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 314,
-    "server_id": 23,
-    "type": "house",
-    "name": "Черная Пантера",
-    "owner": "Tune_Yadets",
-    "status": "Занято",
-    "x": 1954.5,
-    "y": -1074.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10064,6 +10040,18 @@
     "status": "Занято",
     "x": -2168.28,
     "y": 1107.37,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 839,
+    "server_id": 23,
+    "type": "house",
+    "name": "SF Таун Хауз",
+    "owner": "Enigma_Grim",
+    "status": "Занято",
+    "x": -2066.54,
+    "y": 745.802,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21144,15 +21132,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 839,
+    "id": 22,
     "server_id": 23,
     "type": "house",
-    "name": "SF Таун Хауз",
-    "owner": "Enigma_Grim",
+    "name": "Deviloshi",
+    "owner": "Tune_Yadets",
     "status": "Аукцион",
-    "x": -2066.54,
-    "y": 745.802,
-    "price": 3850,
+    "x": 2191.59,
+    "y": -1275.87,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 314,
+    "server_id": 23,
+    "type": "house",
+    "name": "Черная Пантера",
+    "owner": "Tune_Yadets",
+    "status": "Аукцион",
+    "x": 1954.5,
+    "y": -1074.88,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {

@@ -2691,7 +2691,7 @@
     "id": 224,
     "server_id": 31,
     "type": "house",
-    "name": "JUMALIEV x PUERCHIK",
+    "name": "Jumaliev Майнинг (10+1lvl)",
     "owner": "Dushambek_Jumaliev",
     "status": "Занято",
     "x": 898.2739,
@@ -7192,7 +7192,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Farm 1",
-    "owner": "Sanya_Svarshik",
+    "owner": "Romaniy_Abramovich",
     "status": "Занято",
     "x": -1482.54,
     "y": 2702.66,
@@ -11544,18 +11544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 963,
-    "server_id": 31,
-    "type": "house",
-    "name": "ДЕП УСЛОВИЯ",
-    "owner": "Nik_Yamiko",
-    "status": "Занято",
-    "x": -2187.12,
-    "y": 743.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 964,
     "server_id": 31,
     "type": "house",
@@ -12444,6 +12432,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1038,
+    "server_id": 31,
+    "type": "house",
+    "name": "Gorilla",
+    "owner": "Bestion_Gorilla",
+    "status": "Занято",
+    "x": -1776.13,
+    "y": 1115.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1039,
     "server_id": 31,
     "type": "house",
@@ -12579,7 +12579,7 @@
     "id": 1050,
     "server_id": 31,
     "type": "house",
-    "name": "Jumaliev x Puerchik",
+    "name": "Jumaliev Майнинг (10+1lvl)",
     "owner": "Dushambek_Jumaliev",
     "status": "Занято",
     "x": -1939.33,
@@ -14416,7 +14416,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Gustavo_World",
+    "owner": "Bomj_MajorY",
     "status": "Занято",
     "x": -2791.92,
     "y": 194.5769,
@@ -14768,18 +14768,6 @@
     "status": "Занято",
     "x": -2434.01,
     "y": 1311.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1233,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergio_Tohok",
-    "status": "Занято",
-    "x": -2433.05,
-    "y": 1301.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18720,18 +18708,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1563,
-    "server_id": 31,
-    "type": "house",
-    "name": "by satirin",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 2818.53,
-    "y": 2134.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1564,
     "server_id": 31,
     "type": "house",
@@ -19472,18 +19448,6 @@
     "status": "Занято",
     "x": 2707.33,
     "y": -1224.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1626,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hiroto_Drake",
-    "status": "Занято",
-    "x": 2707.3,
-    "y": -1220.51,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23340,15 +23304,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1038,
+    "id": 963,
     "server_id": 31,
     "type": "house",
-    "name": "Gorilla",
-    "owner": "Bestion_Gorilla",
+    "name": "ДЕП УСЛОВИЯ",
+    "owner": "Nik_Yamiko",
     "status": "Аукцион",
-    "x": -1776.13,
-    "y": 1115.2,
-    "price": 19000,
+    "x": -2187.12,
+    "y": 743.71,
+    "price": 18000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1233,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergio_Tohok",
+    "status": "Аукцион",
+    "x": -2433.05,
+    "y": 1301.24,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1563,
+    "server_id": 31,
+    "type": "house",
+    "name": "by satirin",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": 2818.53,
+    "y": 2134.54,
+    "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1626,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hiroto_Drake",
+    "status": "Аукцион",
+    "x": 2707.3,
+    "y": -1220.51,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 232,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Boris_Brytva",
+    "status": "Аукцион",
+    "x": 1071.66,
+    "y": -1438.98,
+    "price": 550000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 301,
+    "server_id": 31,
+    "type": "business",
+    "name": "Лотерейная",
+    "owner": "Boris_Brytva",
+    "status": "Аукцион",
+    "x": 1288.7,
+    "y": 271.232,
+    "price": 800000,
     "district": "Сан-Андреас"
   },
   {
@@ -25752,18 +25776,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 232,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 1071.66,
-    "y": -1438.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 138,
     "server_id": 31,
     "type": "business",
@@ -27008,18 +27020,6 @@
     "status": "Занято",
     "x": -2591.49,
     "y": 170.493,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 301,
-    "server_id": 31,
-    "type": "business",
-    "name": "Лотерейная",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 1288.7,
-    "y": 271.232,
     "price": 0,
     "district": "Сан-Андреас"
   },

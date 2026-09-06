@@ -1732,7 +1732,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Daisy_Duck",
+    "owner": "Lovec_Pisunov",
     "status": "Занято",
     "x": 1284.89,
     "y": -1067.24,
@@ -3428,18 +3428,6 @@
     "status": "Занято",
     "x": 2219.28,
     "y": -1031.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 286,
-    "server_id": 32,
-    "type": "house",
-    "name": "СКЛАД НОМЕРОВ",
-    "owner": "Vovka_Sever",
-    "status": "Занято",
-    "x": 2259.37,
-    "y": -1019.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9068,18 +9056,6 @@
     "status": "Занято",
     "x": -2738.32,
     "y": 801.5289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 760,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом Смешариков",
-    "owner": "Vlados_Papiros",
-    "status": "Занято",
-    "x": -2726.67,
-    "y": 822.992,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15555,7 +15531,7 @@
     "id": 1302,
     "server_id": 32,
     "type": "house",
-    "name": "Asuka House",
+    "name": "Yuki House",
     "owner": "Yuki_Langley",
     "status": "Занято",
     "x": -2590.53,
@@ -20016,18 +19992,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1705,
-    "server_id": 32,
-    "type": "house",
-    "name": "Worker",
-    "owner": "Bloody_Slayer",
-    "status": "Занято",
-    "x": 2492.13,
-    "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1706,
     "server_id": 32,
     "type": "house",
@@ -22416,6 +22380,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 286,
+    "server_id": 32,
+    "type": "house",
+    "name": "СКЛАД НОМЕРОВ",
+    "owner": "Vovka_Sever",
+    "status": "Аукцион",
+    "x": 2259.37,
+    "y": -1019.17,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 505,
     "server_id": 32,
     "type": "house",
@@ -22424,6 +22400,18 @@
     "status": "Аукцион",
     "x": 1364.25,
     "y": 1969.15,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 760,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом Смешариков",
+    "owner": "Vlados_Papiros",
+    "status": "Аукцион",
+    "x": -2726.67,
+    "y": 822.992,
     "price": 10000,
     "district": "Сан-Андреас"
   },
@@ -22461,6 +22449,18 @@
     "x": 1972.2,
     "y": -1633.71,
     "price": 25100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1705,
+    "server_id": 32,
+    "type": "house",
+    "name": "Worker",
+    "owner": "Bloody_Slayer",
+    "status": "Аукцион",
+    "x": 2492.13,
+    "y": -1376.27,
+    "price": 9000,
     "district": "Сан-Андреас"
   },
   {
