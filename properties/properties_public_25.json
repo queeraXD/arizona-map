@@ -5280,18 +5280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 440,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Artur_Stark",
-    "status": "Занято",
-    "x": 2513.33,
-    "y": -28.4032,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 441,
     "server_id": 25,
     "type": "house",
@@ -10304,18 +10292,6 @@
     "status": "Занято",
     "x": -1432.72,
     "y": -953.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 861,
-    "server_id": 25,
-    "type": "house",
-    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
-    "owner": "Zane_Ward",
-    "status": "Занято",
-    "x": -218.123,
-    "y": 2481.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23688,6 +23664,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 440,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Artur_Stark",
+    "status": "Аукцион",
+    "x": 2513.33,
+    "y": -28.4032,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 663,
     "server_id": 25,
     "type": "house",
@@ -23697,6 +23685,18 @@
     "x": 985.0139,
     "y": 1930.67,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 861,
+    "server_id": 25,
+    "type": "house",
+    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
+    "owner": "Zane_Ward",
+    "status": "Аукцион",
+    "x": -218.123,
+    "y": 2481.23,
+    "price": 10501,
     "district": "Сан-Андреас"
   },
   {
@@ -23769,6 +23769,18 @@
     "x": 1728.03,
     "y": 2834.82,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 172,
+    "server_id": 25,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Amor_Flurei",
+    "status": "Аукцион",
+    "x": 2330.59,
+    "y": 2533.61,
+    "price": 85000,
     "district": "Сан-Андреас"
   },
   {
@@ -25764,18 +25776,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 172,
-    "server_id": 25,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Amor_Flurei",
-    "status": "Занято",
-    "x": 2330.59,
-    "y": 2533.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 259,
     "server_id": 25,
     "type": "business",
@@ -26140,7 +26140,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Магазин аксессуаров",
-    "owner": "Amor_Flurei",
+    "owner": "[01]Daniil_Higas",
     "status": "Занято",
     "x": -2089.11,
     "y": 84.268,

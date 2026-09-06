@@ -3540,18 +3540,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 295,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Suguru_Getou",
-    "status": "Занято",
-    "x": 2352.16,
-    "y": -1170.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 296,
     "server_id": 7,
     "type": "house",
@@ -9195,8 +9183,8 @@
     "id": 767,
     "server_id": 7,
     "type": "house",
-    "name": "Берлога",
-    "owner": "Lupu_Pick",
+    "name": "ЭТА мая дома",
+    "owner": "Gabriel_Night",
     "status": "Занято",
     "x": -2709.77,
     "y": 803.08,
@@ -10124,6 +10112,18 @@
     "status": "Занято",
     "x": -2282.28,
     "y": 1023.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 845,
+    "server_id": 7,
+    "type": "house",
+    "name": "Vito Lydetto | LolzTeam",
+    "owner": "Emmanuel_Lodbrock",
+    "status": "Занято",
+    "x": -2278.61,
+    "y": 787.8569,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14784,18 +14784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1236,
-    "server_id": 7,
-    "type": "house",
-    "name": "Vincent House SF ",
-    "owner": "Floyd_Legendarity",
-    "status": "Занято",
-    "x": -2369.46,
-    "y": 1122.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1237,
     "server_id": 7,
     "type": "house",
@@ -18608,6 +18596,18 @@
     "status": "Занято",
     "x": 2488.02,
     "y": -1135.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1555,
+    "server_id": 7,
+    "type": "house",
+    "name": "BuddyHouse3",
+    "owner": "Brazilian_Phonk",
+    "status": "Занято",
+    "x": 2510.57,
+    "y": -1132.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25464,6 +25464,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 295,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Suguru_Getou",
+    "status": "Аукцион",
+    "x": 2352.16,
+    "y": -1170.38,
+    "price": 333336,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 669,
     "server_id": 7,
     "type": "house",
@@ -25473,18 +25485,6 @@
     "x": 1030.09,
     "y": 2028.11,
     "price": 42000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 845,
-    "server_id": 7,
-    "type": "house",
-    "name": "Vito Lydetto | LolzTeam",
-    "owner": "Vanechka_Implored",
-    "status": "Аукцион",
-    "x": -2278.61,
-    "y": 787.8569,
-    "price": 35000,
     "district": "Сан-Андреас"
   },
   {
@@ -25512,15 +25512,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1555,
+    "id": 1236,
     "server_id": 7,
     "type": "house",
-    "name": "BuddyHouse3",
-    "owner": "Brazilian_Phonk",
+    "name": "Vincent House SF ",
+    "owner": "Floyd_Legendarity",
     "status": "Аукцион",
-    "x": 2510.57,
-    "y": -1132.53,
-    "price": 50000,
+    "x": -2369.46,
+    "y": 1122.35,
+    "price": 45000,
     "district": "Сан-Андреас"
   },
   {
