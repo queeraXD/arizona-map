@@ -7860,18 +7860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 658,
-    "server_id": 3,
-    "type": "house",
-    "name": "GD)",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 1028.89,
-    "y": 1905.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 659,
     "server_id": 3,
     "type": "house",
@@ -9776,18 +9764,6 @@
     "status": "Занято",
     "x": -2689.46,
     "y": -167.298,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 819,
-    "server_id": 3,
-    "type": "house",
-    "name": "дом:UZBEKA",
-    "owner": "Asad_Uzbelas",
-    "status": "Занято",
-    "x": -2691.32,
-    "y": -159.893,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23960,7 +23936,7 @@
     "status": "Аукцион",
     "x": 769.1149,
     "y": -1696.62,
-    "price": 30000,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -23988,6 +23964,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 658,
+    "server_id": 3,
+    "type": "house",
+    "name": "GD)",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": 1028.89,
+    "y": 1905.89,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 722,
     "server_id": 3,
     "type": "house",
@@ -23997,6 +23985,18 @@
     "x": 1663.37,
     "y": 2753.72,
     "price": 49000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 819,
+    "server_id": 3,
+    "type": "house",
+    "name": "дом:UZBEKA",
+    "owner": "Asad_Uzbelas",
+    "status": "Аукцион",
+    "x": -2691.32,
+    "y": -159.893,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
@@ -24021,18 +24021,6 @@
     "x": -1808.68,
     "y": 945.944,
     "price": 170000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 116,
-    "server_id": 3,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Ray_Rasta",
-    "status": "Аукцион",
-    "x": -2163.47,
-    "y": 129.382,
-    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
@@ -24128,6 +24116,18 @@
     "status": "Занято",
     "x": -2625.72,
     "y": 209.242,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 116,
+    "server_id": 3,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Ray_Rasta",
+    "status": "Занято",
+    "x": -2163.47,
+    "y": 129.382,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26968,7 +26968,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Jesi_Pinkman",
+    "owner": "Maksimka_Enfirix",
     "status": "Занято",
     "x": 2405.02,
     "y": -1933.97,

@@ -7048,7 +7048,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Wiggins 7 lvl btc",
-    "owner": "Tima_Dedrikob",
+    "owner": "Aslan_Takizawa",
     "status": "Занято",
     "x": -604.3229,
     "y": 2716.72,
@@ -18336,18 +18336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1531,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bender_Rodriguez",
-    "status": "Занято",
-    "x": -2361.44,
-    "y": 251.6199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1532,
     "server_id": 25,
     "type": "house",
@@ -21600,6 +21588,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1805,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Master_Ugway",
+    "status": "Занято",
+    "x": 2517.05,
+    "y": 1648.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1806,
     "server_id": 25,
     "type": "house",
@@ -21620,18 +21620,6 @@
     "status": "Занято",
     "x": 2517.04,
     "y": 1674.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1808,
-    "server_id": 25,
-    "type": "house",
-    "name": "ферма 10+",
-    "owner": "Wyatt_Jack",
-    "status": "Занято",
-    "x": 2501.34,
-    "y": 1682.87,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22136,18 +22124,6 @@
     "status": "Занято",
     "x": 2492.16,
     "y": -1417.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1851,
-    "server_id": 25,
-    "type": "house",
-    "name": "Takizawa Team",
-    "owner": "Aslan_Takizawa",
-    "status": "Занято",
-    "x": 2487.34,
-    "y": -1410.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23736,15 +23712,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1805,
+    "id": 1531,
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Endless_Summer",
+    "owner": "Bender_Rodriguez",
     "status": "Аукцион",
-    "x": 2517.05,
-    "y": 1648.64,
-    "price": 1,
+    "x": -2361.44,
+    "y": 251.6199,
+    "price": 100000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1808,
+    "server_id": 25,
+    "type": "house",
+    "name": "ферма 10+",
+    "owner": "Wyatt_Jack",
+    "status": "Аукцион",
+    "x": 2501.34,
+    "y": 1682.87,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1851,
+    "server_id": 25,
+    "type": "house",
+    "name": "Takizawa Team",
+    "owner": "Aslan_Takizawa",
+    "status": "Аукцион",
+    "x": 2487.34,
+    "y": -1410.34,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
