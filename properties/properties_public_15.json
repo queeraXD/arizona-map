@@ -4635,7 +4635,7 @@
     "id": 386,
     "server_id": 15,
     "type": "house",
-    "name": "DreamTeam family",
+    "name": "PUFF",
     "owner": "Anita_Puff",
     "status": "Занято",
     "x": 2362.94,
@@ -4647,7 +4647,7 @@
     "id": 387,
     "server_id": 15,
     "type": "house",
-    "name": "DreamTeam family",
+    "name": "PUFF",
     "owner": "Anita_Puff",
     "status": "Занято",
     "x": 2363.25,
@@ -4659,7 +4659,7 @@
     "id": 388,
     "server_id": 15,
     "type": "house",
-    "name": "DreamTeam family",
+    "name": "PUFF",
     "owner": "Anita_Puff",
     "status": "Занято",
     "x": 2363.33,
@@ -8148,18 +8148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 679,
-    "server_id": 15,
-    "type": "house",
-    "name": ";-) PUFF ;-)",
-    "owner": "Anita_Puff",
-    "status": "Занято",
-    "x": 986.426,
-    "y": 2271.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 680,
     "server_id": 15,
     "type": "house",
@@ -9948,6 +9936,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 829,
+    "server_id": 15,
+    "type": "house",
+    "name": "PiDiDi_H0uSe",
+    "owner": "Routine_McCloud",
+    "status": "Занято",
+    "x": -2720.98,
+    "y": -23.3173,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 830,
     "server_id": 15,
     "type": "house",
@@ -11480,18 +11480,6 @@
     "status": "Занято",
     "x": -2229.52,
     "y": 934.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 959,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Boba_McCloud",
-    "status": "Занято",
-    "x": -2158.75,
-    "y": 786.197,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20184,18 +20172,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1684,
-    "server_id": 15,
-    "type": "house",
-    "name": "Empire Derate",
-    "owner": "Big_Derate",
-    "status": "Занято",
-    "x": 1546.32,
-    "y": 32.3086,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1685,
     "server_id": 15,
     "type": "house",
@@ -21312,15 +21288,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 829,
+    "id": 679,
     "server_id": 15,
     "type": "house",
-    "name": "PiDiDi_H0uSe",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2720.98,
-    "y": -23.3173,
-    "price": 0,
+    "name": ";-) PUFF ;-)",
+    "owner": "Anita_Puff",
+    "status": "Аукцион",
+    "x": 986.426,
+    "y": 2271.81,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 959,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Boba_McCloud",
+    "status": "Аукцион",
+    "x": -2158.75,
+    "y": 786.197,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1684,
+    "server_id": 15,
+    "type": "house",
+    "name": "Empire Derate",
+    "owner": "Big_Derate",
+    "status": "Аукцион",
+    "x": 1546.32,
+    "y": 32.3086,
+    "price": 80000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 207,
+    "server_id": 15,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Boba_McCloud",
+    "status": "Аукцион",
+    "x": 196.119,
+    "y": -116.76,
+    "price": 75000,
     "district": "Сан-Андреас"
   },
   {
@@ -24440,18 +24452,6 @@
     "status": "Занято",
     "x": 1381.1,
     "y": -1805.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 207,
-    "server_id": 15,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Boba_McCloud",
-    "status": "Занято",
-    "x": 196.119,
-    "y": -116.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
