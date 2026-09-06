@@ -2772,18 +2772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 231,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Prodavec_Labubu",
-    "status": "Занято",
-    "x": 612.2,
-    "y": -1085.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 232,
     "server_id": 30,
     "type": "house",
@@ -15891,7 +15879,7 @@
     "id": 1325,
     "server_id": 30,
     "type": "house",
-    "name": "Хлопок",
+    "name": "Хлопок/Лён",
     "owner": "Carl_Adams",
     "status": "Занято",
     "x": 1461.16,
@@ -22725,6 +22713,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 231,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Prodavec_Labubu",
+    "status": "Аукцион",
+    "x": 612.2,
+    "y": -1085.62,
+    "price": 59999,
     "district": "Сан-Андреас"
   },
   {

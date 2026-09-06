@@ -5544,18 +5544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 462,
-    "server_id": 24,
-    "type": "house",
-    "name": "rezo castle",
-    "owner": "Sandan_Sokrat",
-    "status": "Занято",
-    "x": 2178.13,
-    "y": 655.619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 463,
     "server_id": 24,
     "type": "house",
@@ -7108,7 +7096,7 @@
     "server_id": 24,
     "type": "house",
     "name": "ame blessee",
-    "owner": "Cristopher_Capone",
+    "owner": "Pharmacy_Throat",
     "status": "Занято",
     "x": -1478.59,
     "y": 2547.3,
@@ -7652,6 +7640,18 @@
     "status": "Занято",
     "x": -362.6669,
     "y": 1110.63,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 638,
+    "server_id": 24,
+    "type": "house",
+    "name": "|DISTURBED|",
+    "owner": "Konstantin_Pinko",
+    "status": "Занято",
+    "x": -328.5119,
+    "y": 1118.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9968,6 +9968,18 @@
     "status": "Занято",
     "x": -2723.0,
     "y": 4.0472,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 832,
+    "server_id": 24,
+    "type": "house",
+    "name": "Sharager 11/14 майнинг ",
+    "owner": "Daniil_Kostalev",
+    "status": "Занято",
+    "x": -2234.38,
+    "y": 888.869,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18196,7 +18208,7 @@
     "server_id": 24,
     "type": "house",
     "name": "+ 50 процентов к опыту БП",
-    "owner": "Fucking_Nerd",
+    "owner": "Big_Husler",
     "status": "Занято",
     "x": -2361.44,
     "y": 251.6199,
@@ -21012,18 +21024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1758,
-    "server_id": 24,
-    "type": "house",
-    "name": "miner 6/13",
-    "owner": "Arsen_Moshenik",
-    "status": "Занято",
-    "x": 2601.05,
-    "y": -1207.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1759,
     "server_id": 24,
     "type": "house",
@@ -21260,18 +21260,6 @@
     "status": "Занято",
     "x": -2303.5,
     "y": 796.7559,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1780,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Arsen_Moshenik",
-    "status": "Занято",
-    "x": -2487.25,
-    "y": 821.3079,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21972,27 +21960,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 638,
+    "id": 462,
     "server_id": 24,
     "type": "house",
-    "name": "|DISTURBED|",
-    "owner": "Konstantin_Pinko",
+    "name": "rezo castle",
+    "owner": "Sandan_Sokrat",
     "status": "Аукцион",
-    "x": -328.5119,
-    "y": 1118.86,
-    "price": 10123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 832,
-    "server_id": 24,
-    "type": "house",
-    "name": "Sharager 11/14 майнинг ",
-    "owner": "Vania_Oskora",
-    "status": "Аукцион",
-    "x": -2234.38,
-    "y": 888.869,
-    "price": 3500,
+    "x": 2178.13,
+    "y": 655.619,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
@@ -22032,6 +22008,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1758,
+    "server_id": 24,
+    "type": "house",
+    "name": "miner 6/13",
+    "owner": "Arsen_Moshenik",
+    "status": "Аукцион",
+    "x": 2601.05,
+    "y": -1207.49,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1765,
     "server_id": 24,
     "type": "house",
@@ -22044,6 +22032,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1780,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Arsen_Moshenik",
+    "status": "Аукцион",
+    "x": -2487.25,
+    "y": 821.3079,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 74,
     "server_id": 24,
     "type": "business",
@@ -22053,18 +22053,6 @@
     "x": 2104.24,
     "y": 2678.92,
     "price": 90000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 299,
-    "server_id": 24,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Konstantin_Pinko",
-    "status": "Аукцион",
-    "x": 1876.07,
-    "y": 2234.15,
-    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -22448,6 +22436,18 @@
     "status": "Занято",
     "x": 2330.78,
     "y": 2165.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 299,
+    "server_id": 24,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Konstantin_Pinko",
+    "status": "Занято",
+    "x": 1876.07,
+    "y": 2234.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23356,7 +23356,7 @@
     "server_id": 24,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Fucking_Nerd",
+    "owner": "Big_Husler",
     "status": "Занято",
     "x": 604.441,
     "y": -1513.29,
@@ -23572,7 +23572,7 @@
     "server_id": 24,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Fucking_Nerd",
+    "owner": "Big_Husler",
     "status": "Занято",
     "x": 1019.18,
     "y": -1871.74,

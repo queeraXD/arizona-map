@@ -4083,7 +4083,7 @@
     "id": 340,
     "server_id": 22,
     "type": "house",
-    "name": "shodo sai own",
+    "name": "Ferma 5",
     "owner": "Pavel_Diardi",
     "status": "Занято",
     "x": 747.122,
@@ -4095,7 +4095,7 @@
     "id": 341,
     "server_id": 22,
     "type": "house",
-    "name": "Дом",
+    "name": "Ferma 4",
     "owner": "Pavel_Diardi",
     "status": "Занято",
     "x": 723.6119,
@@ -4119,11 +4119,23 @@
     "id": 343,
     "server_id": 22,
     "type": "house",
-    "name": "$Tendo&ChiCha$ ",
+    "name": "Ferma 2",
     "owner": "Pavel_Diardi",
     "status": "Занято",
     "x": 719.0629,
     "y": 300.639,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 344,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ferma 1",
+    "owner": "Pavel_Diardi",
+    "status": "Занято",
+    "x": 746.4089,
+    "y": 304.946,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5336,6 +5348,18 @@
     "status": "Занято",
     "x": 2439.9,
     "y": -1010.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 446,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Axei_Blood",
+    "status": "Занято",
+    "x": 2440.64,
+    "y": -1057.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10160,18 +10184,6 @@
     "status": "Занято",
     "x": -2157.62,
     "y": 1117.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 849,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tony_Grozny",
-    "status": "Занято",
-    "x": -2158.05,
-    "y": 1148.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21972,27 +21984,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 344,
+    "id": 849,
     "server_id": 22,
     "type": "house",
     "name": "Дом",
-    "owner": "Grafi_Kus",
+    "owner": "Tony_Grozny",
     "status": "Аукцион",
-    "x": 746.4089,
-    "y": 304.946,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 446,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nikolay_Johnson",
-    "status": "Аукцион",
-    "x": 2440.64,
-    "y": -1057.33,
-    "price": 9000,
+    "x": -2158.05,
+    "y": 1148.62,
+    "price": 8000,
     "district": "Сан-Андреас"
   },
   {
@@ -22044,27 +22044,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 151,
+    "id": 80,
     "server_id": 22,
     "type": "business",
-    "name": "Отель",
-    "owner": "Balthazar_Castro",
+    "name": "Закусочная",
+    "owner": "Lukas_Fritsche",
     "status": "Аукцион",
-    "x": 2620.445,
-    "y": 2342.491,
-    "price": 400000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 268,
-    "server_id": 22,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Balthazar_Castro",
-    "status": "Аукцион",
-    "x": 8.3996,
-    "y": 1212.035,
-    "price": 330000,
+    "x": 2638.3,
+    "y": 1671.86,
+    "price": 90000,
     "district": "Сан-Андреас"
   },
   {
@@ -23236,7 +23224,7 @@
     "server_id": 22,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Strange_Revival",
+    "owner": "Boroda_Revival",
     "status": "Занято",
     "x": 1929.45,
     "y": -1776.22,
@@ -23780,18 +23768,6 @@
     "status": "Занято",
     "x": 2884.55,
     "y": 2454.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 80,
-    "server_id": 22,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Lukas_Fritsche",
-    "status": "Занято",
-    "x": 2638.3,
-    "y": 1671.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24636,6 +24612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 151,
+    "server_id": 22,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Balthazar_Castro",
+    "status": "Занято",
+    "x": 2620.445,
+    "y": 2342.491,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 152,
     "server_id": 22,
     "type": "business",
@@ -24716,6 +24704,18 @@
     "status": "Занято",
     "x": 2272.941,
     "y": -1795.335,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 268,
+    "server_id": 22,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Balthazar_Castro",
+    "status": "Занято",
+    "x": 8.3996,
+    "y": 1212.035,
     "price": 0,
     "district": "Сан-Андреас"
   },
