@@ -3111,8 +3111,8 @@
     "id": 259,
     "server_id": 7,
     "type": "house",
-    "name": "Могаю",
-    "owner": "Vlad_Maks",
+    "name": "Дом Соловея",
+    "owner": "Danya_Soloviev",
     "status": "Занято",
     "x": 2089.57,
     "y": -995.971,
@@ -8028,6 +8028,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 669,
+    "server_id": 7,
+    "type": "house",
+    "name": "Продаю, звонить 670",
+    "owner": "Robert_Pluhov",
+    "status": "Занято",
+    "x": 1030.09,
+    "y": 2028.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 670,
     "server_id": 7,
     "type": "house",
@@ -10124,18 +10136,6 @@
     "status": "Занято",
     "x": -2282.28,
     "y": 1023.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 845,
-    "server_id": 7,
-    "type": "house",
-    "name": "Vito Lydetto | LolzTeam",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2278.61,
-    "y": 787.8569,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18648,18 +18648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1555,
-    "server_id": 7,
-    "type": "house",
-    "name": "BuddyHouse3",
-    "owner": "Brazilian_Phonk",
-    "status": "Занято",
-    "x": 2510.57,
-    "y": -1132.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1556,
     "server_id": 7,
     "type": "house",
@@ -22884,6 +22872,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1909,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Konstantin_Pinko",
+    "status": "Занято",
+    "x": 514.2119,
+    "y": 1340.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1910,
     "server_id": 7,
     "type": "house",
@@ -25512,15 +25512,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 669,
+    "id": 845,
     "server_id": 7,
     "type": "house",
-    "name": "Продаю, звонить 670",
-    "owner": "Robert_Pluhov",
+    "name": "Vito Lydetto | LolzTeam",
+    "owner": "Vanechka_Implored",
     "status": "Аукцион",
-    "x": 1030.09,
-    "y": 2028.11,
-    "price": 45000,
+    "x": -2278.61,
+    "y": 787.8569,
+    "price": 35000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1555,
+    "server_id": 7,
+    "type": "house",
+    "name": "BuddyHouse3",
+    "owner": "Brazilian_Phonk",
+    "status": "Аукцион",
+    "x": 2510.57,
+    "y": -1132.53,
+    "price": 50000,
     "district": "Сан-Андреас"
   },
   {
@@ -25533,18 +25545,6 @@
     "x": 1461.28,
     "y": 2026.99,
     "price": 40000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1909,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Konstantin_Pinko",
-    "status": "Аукцион",
-    "x": 514.2119,
-    "y": 1340.48,
-    "price": 40132,
     "district": "Сан-Андреас"
   },
   {
