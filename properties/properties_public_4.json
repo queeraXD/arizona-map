@@ -3132,6 +3132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 262,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zaza_Cult",
+    "status": "Занято",
+    "x": 2373.85,
+    "y": -8.6736,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 263,
     "server_id": 4,
     "type": "house",
@@ -4628,6 +4640,18 @@
     "status": "Занято",
     "x": 2363.25,
     "y": 142.009,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 388,
+    "server_id": 4,
+    "type": "house",
+    "name": "zaza",
+    "owner": "Zaza_Cult",
+    "status": "Занято",
+    "x": 2363.33,
+    "y": 116.068,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7887,7 +7911,7 @@
     "id": 660,
     "server_id": 4,
     "type": "house",
-    "name": "Уютный уголок",
+    "name": "Fox House",
     "owner": "Blake_Fox",
     "status": "Занято",
     "x": 1030.21,
@@ -25068,30 +25092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 262,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zaza_Cult",
-    "status": "Аукцион",
-    "x": 2373.85,
-    "y": -8.6736,
-    "price": 47600,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 388,
-    "server_id": 4,
-    "type": "house",
-    "name": "zaza",
-    "owner": "Zaza_Cult",
-    "status": "Аукцион",
-    "x": 2363.33,
-    "y": 116.068,
-    "price": 49600,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 702,
     "server_id": 4,
     "type": "house",
@@ -25269,18 +25269,6 @@
     "x": 1940.01,
     "y": -2116.01,
     "price": 290000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 344,
-    "server_id": 4,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "[29]Chokoladniy_Zaika",
-    "status": "Аукцион",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 600123,
     "district": "Сан-Андреас"
   },
   {
@@ -29381,6 +29369,18 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "Vadim_Richmond",
+    "status": "Занято",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 344,
+    "server_id": 4,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "[29]Chokoladniy_Zaika",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

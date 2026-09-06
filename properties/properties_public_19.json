@@ -7824,18 +7824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 653,
-    "server_id": 19,
-    "type": "house",
-    "name": "Dom Santik",
-    "owner": "Hiroto_Page",
-    "status": "Занято",
-    "x": 1977.75,
-    "y": 677.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 654,
     "server_id": 19,
     "type": "house",
@@ -14592,18 +14580,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1219,
-    "server_id": 19,
-    "type": "house",
-    "name": "кто ограбит того сьем",
-    "owner": "Noir_Novel",
-    "status": "Занято",
-    "x": -2904.81,
-    "y": 1111.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1220,
     "server_id": 19,
     "type": "house",
@@ -18312,18 +18288,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1530,
-    "server_id": 19,
-    "type": "house",
-    "name": "бомжик",
-    "owner": "Hiroto_Page",
-    "status": "Занято",
-    "x": 1957.05,
-    "y": 731.278,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1531,
     "server_id": 19,
     "type": "house",
@@ -18864,18 +18828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1576,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Timofei_Fedulov",
-    "status": "Занято",
-    "x": 1908.99,
-    "y": 742.875,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1577,
     "server_id": 19,
     "type": "house",
@@ -19136,18 +19088,6 @@
     "status": "Занято",
     "x": 1717.18,
     "y": 2831.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1599,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Aleksey_Evans",
-    "status": "Занято",
-    "x": 1719.39,
-    "y": 2823.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19512,18 +19452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1630,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Aleksey_Evans",
-    "status": "Занято",
-    "x": 1809.71,
-    "y": 2809.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1631,
     "server_id": 19,
     "type": "house",
@@ -19676,18 +19604,6 @@
     "status": "Занято",
     "x": 1796.79,
     "y": 2861.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1644,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Blake_Shadow",
-    "status": "Занято",
-    "x": 1803.34,
-    "y": 2855.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22032,6 +21948,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 653,
+    "server_id": 19,
+    "type": "house",
+    "name": "Dom Santik",
+    "owner": "Hiroto_Page",
+    "status": "Аукцион",
+    "x": 1977.75,
+    "y": 677.4,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 936,
     "server_id": 19,
     "type": "house",
@@ -22044,6 +21972,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1219,
+    "server_id": 19,
+    "type": "house",
+    "name": "кто ограбит того сьем",
+    "owner": "Noir_Novel",
+    "status": "Аукцион",
+    "x": -2904.81,
+    "y": 1111.64,
+    "price": 200,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1247,
     "server_id": 19,
     "type": "house",
@@ -22052,6 +21992,66 @@
     "status": "Аукцион",
     "x": -2351.14,
     "y": 1299.69,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1530,
+    "server_id": 19,
+    "type": "house",
+    "name": "бомжик",
+    "owner": "Hiroto_Page",
+    "status": "Аукцион",
+    "x": 1957.05,
+    "y": 731.278,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1576,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Timofei_Fedulov",
+    "status": "Аукцион",
+    "x": 1908.99,
+    "y": 742.875,
+    "price": 200,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1599,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Aleksey_Evans",
+    "status": "Аукцион",
+    "x": 1719.39,
+    "y": 2823.35,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1630,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Aleksey_Evans",
+    "status": "Аукцион",
+    "x": 1809.71,
+    "y": 2809.24,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1644,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Blake_Shadow",
+    "status": "Аукцион",
+    "x": 1803.34,
+    "y": 2855.45,
     "price": 500,
     "district": "Сан-Андреас"
   },

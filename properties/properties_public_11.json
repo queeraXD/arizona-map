@@ -9000,18 +9000,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 752,
-    "server_id": 11,
-    "type": "house",
-    "name": "Gas_Monopoly",
-    "owner": "Shanghaidragon_Echo",
-    "status": "Занято",
-    "x": -2641.07,
-    "y": 935.7189,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 753,
     "server_id": 11,
     "type": "house",
@@ -9080,6 +9068,18 @@
     "status": "Занято",
     "x": -2738.32,
     "y": 801.5289,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 760,
+    "server_id": 11,
+    "type": "house",
+    "name": "Милый дом",
+    "owner": "Altrezza_Caballero",
+    "status": "Занято",
+    "x": -2726.67,
+    "y": 822.992,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24576,6 +24576,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 752,
+    "server_id": 11,
+    "type": "house",
+    "name": "Gas_Monopoly",
+    "owner": "Shanghaidragon_Echo",
+    "status": "Аукцион",
+    "x": -2641.07,
+    "y": 935.7189,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 755,
     "server_id": 11,
     "type": "house",
@@ -24585,18 +24597,6 @@
     "x": -104.1559,
     "y": 9.3408,
     "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 760,
-    "server_id": 11,
-    "type": "house",
-    "name": "Милый дом",
-    "owner": "Altrezza_Caballero",
-    "status": "Аукцион",
-    "x": -2726.67,
-    "y": 822.992,
-    "price": 4500,
     "district": "Сан-Андреас"
   },
   {
@@ -24916,7 +24916,7 @@
     "server_id": 11,
     "type": "business",
     "name": "Бар",
-    "owner": "Deed_Moriarty",
+    "owner": "Bastian_Goto",
     "status": "Занято",
     "x": -36.098,
     "y": 2349.65,

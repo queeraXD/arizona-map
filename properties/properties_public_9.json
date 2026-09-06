@@ -3075,8 +3075,8 @@
     "id": 256,
     "server_id": 9,
     "type": "house",
-    "name": "Гетто",
-    "owner": "Ben_Tix",
+    "name": "Камперка",
+    "owner": "Kent_Camper",
     "status": "Занято",
     "x": 2109.07,
     "y": -1000.65,
@@ -17892,18 +17892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1493,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tarakan_Prox",
-    "status": "Занято",
-    "x": 852.302,
-    "y": -1423.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1494,
     "server_id": 9,
     "type": "house",
@@ -18632,18 +18620,6 @@
     "status": "Занято",
     "x": 1863.78,
     "y": -1597.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1555,
-    "server_id": 9,
-    "type": "house",
-    "name": "VEGAS LS",
-    "owner": "Tarakan_Prox",
-    "status": "Занято",
-    "x": 1910.0,
-    "y": -1597.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23904,6 +23880,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1493,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tarakan_Prox",
+    "status": "Аукцион",
+    "x": 852.302,
+    "y": -1423.26,
+    "price": 80000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1555,
+    "server_id": 9,
+    "type": "house",
+    "name": "VEGAS LS",
+    "owner": "Tarakan_Prox",
+    "status": "Аукцион",
+    "x": 1910.0,
+    "y": -1597.41,
+    "price": 50000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1946,
     "server_id": 9,
     "type": "house",
@@ -23912,7 +23912,7 @@
     "status": "Аукцион",
     "x": 1736.43,
     "y": 2803.61,
-    "price": 8000,
+    "price": 12000,
     "district": "Сан-Андреас"
   },
   {
