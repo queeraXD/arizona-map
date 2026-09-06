@@ -18312,18 +18312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1531,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bender_Rodriguez",
-    "status": "Занято",
-    "x": -2361.44,
-    "y": 251.6199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1532,
     "server_id": 25,
     "type": "house",
@@ -19856,18 +19844,6 @@
     "status": "Занято",
     "x": 2601.05,
     "y": -1216.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1660,
-    "server_id": 25,
-    "type": "house",
-    "name": "Логово легендарного Мишаеля",
-    "owner": "Dimasik_Stark",
-    "status": "Занято",
-    "x": 2594.5,
-    "y": -1211.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21600,18 +21576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1808,
-    "server_id": 25,
-    "type": "house",
-    "name": "ферма 10+",
-    "owner": "Ivan_Brabus",
-    "status": "Занято",
-    "x": 2501.34,
-    "y": 1682.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1809,
     "server_id": 25,
     "type": "house",
@@ -22660,7 +22624,7 @@
     "server_id": 25,
     "type": "house",
     "name": "1      ",
-    "owner": "Dimasik_Stark",
+    "owner": "Tom_Nikollenko",
     "status": "Занято",
     "x": 1748.37,
     "y": 2758.67,
@@ -22696,7 +22660,7 @@
     "server_id": 25,
     "type": "house",
     "name": "1       ",
-    "owner": "Dimasik_Stark",
+    "owner": "Kimmi_Toxiclame",
     "status": "Занято",
     "x": 1745.37,
     "y": 2770.03,
@@ -22948,7 +22912,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Тут живет Ванек пивной ларек",
-    "owner": "Ivan_Brabus",
+    "owner": "Seforolius_Lerned",
     "status": "Занято",
     "x": 1728.03,
     "y": 2834.82,
@@ -23712,6 +23676,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1660,
+    "server_id": 25,
+    "type": "house",
+    "name": "Логово легендарного Мишаеля",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2594.5,
+    "y": -1211.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1808,
+    "server_id": 25,
+    "type": "house",
+    "name": "ферма 10+",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2501.34,
+    "y": 1682.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 287,
     "server_id": 25,
     "type": "house",
@@ -23757,6 +23745,18 @@
     "x": -2905.16,
     "y": 1165.02,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1531,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bender_Rodriguez",
+    "status": "Аукцион",
+    "x": -2361.44,
+    "y": 251.6199,
+    "price": 100000,
     "district": "Сан-Андреас"
   },
   {

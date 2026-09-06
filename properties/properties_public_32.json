@@ -15975,7 +15975,7 @@
     "id": 1335,
     "server_id": 32,
     "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "name": "Дом",
     "owner": "Martin_DeCorban",
     "status": "Занято",
     "x": 1601.87,
@@ -18808,7 +18808,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом Антончика и Иванчика",
-    "owner": "Ray_Ben",
+    "owner": "kortez",
     "status": "Занято",
     "x": -2736.87,
     "y": 846.609,
@@ -19880,6 +19880,18 @@
     "status": "Занято",
     "x": 1105.59,
     "y": -1562.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1691,
+    "server_id": 32,
+    "type": "house",
+    "name": "Leim",
+    "owner": "Oksik_Crips",
+    "status": "Занято",
+    "x": 1110.52,
+    "y": -1554.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22500,15 +22512,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1691,
+    "id": 17,
     "server_id": 32,
-    "type": "house",
-    "name": "Leim",
-    "owner": "Harry_Houdini",
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Hiroshi_Tanaka",
     "status": "Аукцион",
-    "x": 1110.52,
-    "y": -1554.05,
-    "price": 15000,
+    "x": -2165.77,
+    "y": -2416.71,
+    "price": 325000,
     "district": "Сан-Андреас"
   },
   {
@@ -23012,18 +23024,6 @@
     "status": "Занято",
     "x": -87.234,
     "y": -1202.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 17,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Hiroshi_Tanaka",
-    "status": "Занято",
-    "x": -2165.77,
-    "y": -2416.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
