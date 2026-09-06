@@ -592,7 +592,7 @@
     "server_id": 5,
     "type": "house",
     "name": "дом бигбосса",
-    "owner": "Barni_Underdog",
+    "owner": "Barni_NeNado",
     "status": "Занято",
     "x": 2192.94,
     "y": -1455.9,
@@ -15376,7 +15376,7 @@
     "server_id": 5,
     "type": "house",
     "name": "шачик",
-    "owner": "Barni_Underdog",
+    "owner": "Barni_NeNado",
     "status": "Занято",
     "x": -2523.85,
     "y": 1142.69,
@@ -16696,7 +16696,7 @@
     "server_id": 5,
     "type": "house",
     "name": "дом бигбосса",
-    "owner": "Barni_Underdog",
+    "owner": "Barni_NeNado",
     "status": "Занято",
     "x": 2776.07,
     "y": -1245.37,
@@ -23388,18 +23388,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1953,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 2468.46,
-    "y": -1376.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1954,
     "server_id": 5,
     "type": "house",
@@ -23444,18 +23432,6 @@
     "status": "Занято",
     "x": 2492.21,
     "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1958,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 2476.46,
-    "y": -1376.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25101,6 +25077,30 @@
     "x": -905.4119,
     "y": -1848.44,
     "price": 54800,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1953,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": 2468.46,
+    "y": -1376.26,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1958,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": 2476.46,
+    "y": -1376.54,
+    "price": 11000,
     "district": "Сан-Андреас"
   },
   {

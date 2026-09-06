@@ -2412,18 +2412,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 201,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mister_Sheldon",
-    "status": "Занято",
-    "x": 1536.32,
-    "y": -884.789,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 202,
     "server_id": 28,
     "type": "house",
@@ -3676,7 +3664,7 @@
     "server_id": 28,
     "type": "house",
     "name": "деп условия, аксы в шкафу",
-    "owner": "Angel_Pine",
+    "owner": "Boevoy_Korshunidze",
     "status": "Занято",
     "x": 1912.61,
     "y": -1070.59,
@@ -7148,6 +7136,18 @@
     "status": "Занято",
     "x": -1450.71,
     "y": 2691.05,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 598,
+    "server_id": 28,
+    "type": "house",
+    "name": "подвал майнинг/Деп условия",
+    "owner": "Ferrari_Peak",
+    "status": "Занято",
+    "x": -1466.16,
+    "y": 2693.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22284,6 +22284,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 201,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mister_Sheldon",
+    "status": "Аукцион",
+    "x": 1536.32,
+    "y": -884.789,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 210,
     "server_id": 28,
     "type": "house",
@@ -22305,18 +22317,6 @@
     "x": 559.1019,
     "y": -1076.19,
     "price": 15000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 598,
-    "server_id": 28,
-    "type": "house",
-    "name": "подвал майнинг/Деп условия",
-    "owner": "Ferrari_Peak",
-    "status": "Аукцион",
-    "x": -1466.16,
-    "y": 2693.15,
-    "price": 1500,
     "district": "Сан-Андреас"
   },
   {
@@ -22365,30 +22365,6 @@
     "x": 2437.04,
     "y": 1209.88,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 197,
-    "server_id": 28,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -2400.04,
-    "y": 337.43,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 28,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -2373.8,
-    "y": 910.117,
-    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23408,6 +23384,18 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 28,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Travis_Viper",
+    "status": "Занято",
+    "x": -2373.8,
+    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25376,6 +25364,18 @@
     "status": "Занято",
     "x": -2681.61,
     "y": 583.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 197,
+    "server_id": 28,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "John_Marchuk",
+    "status": "Занято",
+    "x": -2400.04,
+    "y": 337.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
