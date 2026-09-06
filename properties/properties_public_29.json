@@ -2544,18 +2544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
-    "server_id": 29,
-    "type": "house",
-    "name": "AltaHouse",
-    "owner": "More_Alta",
-    "status": "Занято",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 213,
     "server_id": 29,
     "type": "house",
@@ -6384,6 +6372,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 532,
+    "server_id": 29,
+    "type": "house",
+    "name": "Belucchi МАЙНИНГ 2 / Деп услови",
+    "owner": "Eugene_Macedonsky",
+    "status": "Занято",
+    "x": 1931.33,
+    "y": 2721.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 533,
     "server_id": 29,
     "type": "house",
@@ -6424,11 +6424,11 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Skiter_Lepko",
-    "status": "Аукцион",
+    "owner": "Nikolaj_Peulja",
+    "status": "Занято",
     "x": 2037.32,
     "y": 2721.21,
-    "price": 4000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -8884,7 +8884,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Кеша 2.0",
-    "owner": "Kesha_Boyko",
+    "owner": "Waseri_Abaes",
     "status": "Занято",
     "x": -2860.27,
     "y": 835.6959,
@@ -9284,6 +9284,18 @@
     "status": "Занято",
     "x": -2621.68,
     "y": 802.908,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 775,
+    "server_id": 29,
+    "type": "house",
+    "name": "деп условия аптечка подвалы шка",
+    "owner": "Fuzze_Qq",
+    "status": "Занято",
+    "x": -2590.92,
+    "y": 819.7999,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11656,7 +11668,7 @@
     "server_id": 29,
     "type": "house",
     "name": "House",
-    "owner": "Kesha_Boyko",
+    "owner": "Hiroto_Mirage",
     "status": "Занято",
     "x": -2478.74,
     "y": 2488.76,
@@ -19944,6 +19956,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1665,
+    "server_id": 29,
+    "type": "house",
+    "name": "Belucchi House / Деп условия",
+    "owner": "Ashot_NewLight",
+    "status": "Занято",
+    "x": 2476.39,
+    "y": -1366.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1666,
     "server_id": 29,
     "type": "house",
@@ -20107,6 +20131,18 @@
     "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": 2492.06,
+    "y": -1391.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1680,
+    "server_id": 29,
+    "type": "house",
+    "name": "darkness ebt!",
+    "owner": "Ashot_NewLight",
+    "status": "Занято",
+    "x": 2487.31,
     "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21084,51 +21120,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 532,
+    "id": 212,
     "server_id": 29,
     "type": "house",
-    "name": "Belucchi МАЙНИНГ 2 / Деп услови",
-    "owner": "Eugene_Macedonsky",
+    "name": "AltaHouse",
+    "owner": "More_Alta",
     "status": "Аукцион",
-    "x": 1931.33,
-    "y": 2721.72,
-    "price": 4000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 775,
-    "server_id": 29,
-    "type": "house",
-    "name": "деп условия аптечка подвалы шка",
-    "owner": "Fuzze_Qq",
-    "status": "Аукцион",
-    "x": -2590.92,
-    "y": 819.7999,
-    "price": 6500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1665,
-    "server_id": 29,
-    "type": "house",
-    "name": "Belucchi House / Деп условия",
-    "owner": "Ashot_NewLight",
-    "status": "Аукцион",
-    "x": 2476.39,
-    "y": -1366.2,
-    "price": 6000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1680,
-    "server_id": 29,
-    "type": "house",
-    "name": "darkness ebt!",
-    "owner": "Ashot_NewLight",
-    "status": "Аукцион",
-    "x": 2487.31,
-    "y": -1391.71,
-    "price": 6000,
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 25000,
     "district": "Сан-Андреас"
   },
   {
@@ -25324,7 +25324,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Электрокомпания",
-    "owner": "Chokoladniy_Zaika",
+    "owner": "Mitseru_Monopoly",
     "status": "Занято",
     "x": -1679.37,
     "y": -27.955,

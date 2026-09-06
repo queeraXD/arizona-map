@@ -9376,7 +9376,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Майнинг ферма битка 7лвл",
-    "owner": "Fred_Gelouz",
+    "owner": "Daniel_Bryan",
     "status": "Занято",
     "x": -2541.25,
     "y": 750.9169,
@@ -10553,10 +10553,10 @@
     "type": "house",
     "name": "Trager",
     "owner": "Racho_Phoenix",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -905.226,
     "y": 1527.96,
-    "price": 16666,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -12080,18 +12080,6 @@
     "status": "Занято",
     "x": -2017.81,
     "y": 849.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1008,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Konstantin_Pinko",
-    "status": "Занято",
-    "x": -1775.96,
-    "y": 1115.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24165,6 +24153,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1008,
+    "server_id": 1,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Konstantin_Pinko",
+    "status": "Аукцион",
+    "x": -1775.96,
+    "y": 1115.08,
+    "price": 12000,
     "district": "Сан-Андреас"
   },
   {
