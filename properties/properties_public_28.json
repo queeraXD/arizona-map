@@ -2520,18 +2520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 210,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pavel_Spitsyn",
-    "status": "Занято",
-    "x": 1112.41,
-    "y": -742.067,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 211,
     "server_id": 28,
     "type": "house",
@@ -2828,18 +2816,6 @@
     "status": "Занято",
     "x": 497.6589,
     "y": -1094.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 236,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pavel_Spitsyn",
-    "status": "Занято",
-    "x": 559.1019,
-    "y": -1076.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8452,7 +8428,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Soprano Mafia",
-    "owner": "Tony_Soprano",
+    "owner": "Maximus_Soprano",
     "status": "Занято",
     "x": 1554.44,
     "y": 2610.42,
@@ -22356,6 +22332,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 210,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pavel_Spitsyn",
+    "status": "Аукцион",
+    "x": 1112.41,
+    "y": -742.067,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 236,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pavel_Spitsyn",
+    "status": "Аукцион",
+    "x": 559.1019,
+    "y": -1076.19,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 598,
     "server_id": 28,
     "type": "house",
@@ -23944,7 +23944,7 @@
     "server_id": 28,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Wonderful_Blood",
+    "owner": "Anthony_Bosh",
     "status": "Занято",
     "x": 1948.4,
     "y": 2068.87,
