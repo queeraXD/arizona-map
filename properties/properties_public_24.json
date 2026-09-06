@@ -6003,8 +6003,8 @@
     "id": 501,
     "server_id": 24,
     "type": "house",
-    "name": "matabot",
-    "owner": "Lucifer_Grozny",
+    "name": "Tverskoy",
+    "owner": "Voodoo_Tverskoy",
     "status": "Занято",
     "x": 1364.67,
     "y": 1896.72,
@@ -10328,18 +10328,6 @@
     "status": "Занято",
     "x": -236.8439,
     "y": 2491.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 864,
-    "server_id": 24,
-    "type": "house",
-    "name": "KIVI",
-    "owner": "Samp_Bet",
-    "status": "Занято",
-    "x": -245.722,
-    "y": 2501.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21996,6 +21984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 864,
+    "server_id": 24,
+    "type": "house",
+    "name": "KIVI",
+    "owner": "Samp_Bet",
+    "status": "Аукцион",
+    "x": -245.722,
+    "y": 2501.72,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 887,
     "server_id": 24,
     "type": "house",
@@ -22041,18 +22041,6 @@
     "x": -2487.25,
     "y": 821.3079,
     "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 74,
-    "server_id": 24,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Mickey_Holland",
-    "status": "Аукцион",
-    "x": 2104.24,
-    "y": 2678.92,
-    "price": 90000,
     "district": "Сан-Андреас"
   },
   {
@@ -22712,6 +22700,18 @@
     "status": "Занято",
     "x": 1657.04,
     "y": 1741.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 74,
+    "server_id": 24,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Mickey_Holland",
+    "status": "Занято",
+    "x": 2104.24,
+    "y": 2678.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
