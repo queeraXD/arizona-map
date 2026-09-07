@@ -20400,18 +20400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1705,
-    "server_id": 9,
-    "type": "house",
-    "name": "Медный бык",
-    "owner": "Makson_Maizov",
-    "status": "Занято",
-    "x": 2073.37,
-    "y": -1583.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1706,
     "server_id": 9,
     "type": "house",
@@ -23824,7 +23812,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Дом",
-    "owner": "Boba_Brazzers",
+    "owner": "Ars_Dagestan",
     "status": "Занято",
     "x": 6.7891,
     "y": 1009.02,
@@ -23860,7 +23848,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Дом",
-    "owner": "Boba_Brazzers",
+    "owner": "Ars_Dagestan",
     "status": "Занято",
     "x": 7.3323,
     "y": 1012.12,
@@ -23916,6 +23904,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1705,
+    "server_id": 9,
+    "type": "house",
+    "name": "Медный бык",
+    "owner": "Makson_Maizov",
+    "status": "Аукцион",
+    "x": 2073.37,
+    "y": -1583.09,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1905,
     "server_id": 9,
     "type": "house",
@@ -23925,18 +23925,6 @@
     "x": 2468.24,
     "y": -1417.45,
     "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 36,
-    "server_id": 9,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Makson_Maizov",
-    "status": "Аукцион",
-    "x": 928.254,
-    "y": -1352.9,
-    "price": 130000,
     "district": "Сан-Андреас"
   },
   {
@@ -25568,6 +25556,18 @@
     "status": "Занято",
     "x": 1367.55,
     "y": 248.241,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 36,
+    "server_id": 9,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Makson_Maizov",
+    "status": "Занято",
+    "x": 928.254,
+    "y": -1352.9,
     "price": 0,
     "district": "Сан-Андреас"
   },

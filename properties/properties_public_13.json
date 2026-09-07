@@ -5328,18 +5328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 444,
-    "server_id": 13,
-    "type": "house",
-    "name": "помойка",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 2355.7,
-    "y": -1039.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 445,
     "server_id": 13,
     "type": "house",
@@ -6740,18 +6728,6 @@
     "status": "Занято",
     "x": 238.8159,
     "y": 1026.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 562,
-    "server_id": 13,
-    "type": "house",
-    "name": "помойка",
-    "owner": "Artemy_Young",
-    "status": "Занято",
-    "x": 227.699,
-    "y": 1070.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12464,18 +12440,6 @@
     "status": "Занято",
     "x": -1776.13,
     "y": 1115.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1039,
-    "server_id": 13,
-    "type": "house",
-    "name": "ГУЧЧИ ГЕНГ",
-    "owner": "Jonathan_Swashbuckle",
-    "status": "Занято",
-    "x": -1732.18,
-    "y": 1114.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22240,7 +22204,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Misha_Simpson",
+    "owner": "Pasha_Caplya",
     "status": "Занято",
     "x": 2622.4,
     "y": 2185.54,
@@ -23265,6 +23229,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 444,
+    "server_id": 13,
+    "type": "house",
+    "name": "помойка",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": 2355.7,
+    "y": -1039.24,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 562,
+    "server_id": 13,
+    "type": "house",
+    "name": "помойка",
+    "owner": "Artemy_Young",
+    "status": "Аукцион",
+    "x": 227.699,
+    "y": 1070.82,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1039,
+    "server_id": 13,
+    "type": "house",
+    "name": "ГУЧЧИ ГЕНГ",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -1732.18,
+    "y": 1114.92,
+    "price": 150,
     "district": "Сан-Андреас"
   },
   {
