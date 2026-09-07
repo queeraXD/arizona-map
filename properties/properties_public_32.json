@@ -1728,18 +1728,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 144,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 1284.89,
-    "y": -1067.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 145,
     "server_id": 32,
     "type": "house",
@@ -2736,18 +2724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 228,
-    "server_id": 32,
-    "type": "house",
-    "name": "Домик Молодого",
-    "owner": "Spice_Club",
-    "status": "Занято",
-    "x": 672.7119,
-    "y": -1019.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 229,
     "server_id": 32,
     "type": "house",
@@ -2924,18 +2900,6 @@
     "status": "Занято",
     "x": 354.445,
     "y": -1280.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 245,
-    "server_id": 32,
-    "type": "house",
-    "name": "Продам дом call 978",
-    "owner": "Martin_Navarro",
-    "status": "Занято",
-    "x": 398.14,
-    "y": -1271.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9044,18 +9008,6 @@
     "status": "Занято",
     "x": -2738.32,
     "y": 801.5289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 760,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом Смешариков",
-    "owner": "Vlados_Papiros",
-    "status": "Занято",
-    "x": -2726.67,
-    "y": 822.992,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22392,6 +22344,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 144,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": 1284.89,
+    "y": -1067.24,
+    "price": 110000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 228,
+    "server_id": 32,
+    "type": "house",
+    "name": "Домик Молодого",
+    "owner": "Spice_Club",
+    "status": "Аукцион",
+    "x": 672.7119,
+    "y": -1019.91,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 230,
     "server_id": 32,
     "type": "house",
@@ -22401,6 +22377,18 @@
     "x": 648.1329,
     "y": -1058.27,
     "price": 25123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 245,
+    "server_id": 32,
+    "type": "house",
+    "name": "Набор Архитектора 11 слотов",
+    "owner": "Martin_Navarro",
+    "status": "Аукцион",
+    "x": 398.14,
+    "y": -1271.38,
+    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -22425,6 +22413,18 @@
     "x": -2641.07,
     "y": 935.7189,
     "price": 75149,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 760,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом Смешариков",
+    "owner": "Vlados_Papiros",
+    "status": "Аукцион",
+    "x": -2726.67,
+    "y": 822.992,
+    "price": 8888,
     "district": "Сан-Андреас"
   },
   {
@@ -23116,7 +23116,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Psycho_Burmaldance",
+    "owner": "Pacifi_Cation",
     "status": "Занято",
     "x": 2515.7,
     "y": 1088.17,

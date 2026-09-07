@@ -420,18 +420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
-    "server_id": 3,
-    "type": "house",
-    "name": "ASTRAL HOUSE",
-    "owner": "Monero_Explosion",
-    "status": "Занято",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 36,
     "server_id": 3,
     "type": "house",
@@ -10620,18 +10608,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 891,
-    "server_id": 3,
-    "type": "house",
-    "name": "GG HOUSE",
-    "owner": "Monero_Explosion",
-    "status": "Занято",
-    "x": -2075.03,
-    "y": -2526.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 892,
     "server_id": 3,
     "type": "house",
@@ -17271,7 +17247,7 @@
     "id": 1446,
     "server_id": 3,
     "type": "house",
-    "name": "ЕСТЬ УЛУЧШЕНИЕ ДЕПОЗИТНЫЕ УСЛУГ",
+    "name": "скупаю дома по соседству",
     "owner": "Wkezzy_Wade",
     "status": "Занято",
     "x": 1749.16,
@@ -17295,7 +17271,7 @@
     "id": 1448,
     "server_id": 3,
     "type": "house",
-    "name": "ЕСТЬ УЛУЧШЕНИЕ ДЕПОЗИТНЫЕ УСЛУГ",
+    "name": "скупаю дома по соседству",
     "owner": "Wkezzy_Wade",
     "status": "Занято",
     "x": 1781.48,
@@ -17331,7 +17307,7 @@
     "id": 1451,
     "server_id": 3,
     "type": "house",
-    "name": "ЕСТЬ УЛУЧШЕНИЕ ДЕПОЗИТНЫЕ УСЛУГ",
+    "name": "скупаю дома по соседству",
     "owner": "Wkezzy_Wade",
     "status": "Занято",
     "x": 1799.67,
@@ -23880,6 +23856,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 35,
+    "server_id": 3,
+    "type": "house",
+    "name": "ASTRAL HOUSE",
+    "owner": "Monero_Explosion",
+    "status": "Аукцион",
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 17999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 60,
     "server_id": 3,
     "type": "house",
@@ -23937,6 +23925,18 @@
     "x": -2723.08,
     "y": -139.7019,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 891,
+    "server_id": 3,
+    "type": "house",
+    "name": "GG HOUSE",
+    "owner": "Monero_Explosion",
+    "status": "Аукцион",
+    "x": -2075.03,
+    "y": -2526.84,
+    "price": 11999,
     "district": "Сан-Андреас"
   },
   {
