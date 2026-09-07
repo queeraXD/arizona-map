@@ -3000,18 +3000,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 250,
-    "server_id": 26,
-    "type": "house",
-    "name": "Mono",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": 2458.76,
-    "y": 128.9869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 251,
     "server_id": 26,
     "type": "house",
@@ -4848,18 +4836,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 406,
-    "server_id": 26,
-    "type": "house",
-    "name": "курымдык",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": 1419.97,
-    "y": 390.411,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 407,
     "server_id": 26,
     "type": "house",
@@ -6416,18 +6392,6 @@
     "status": "Занято",
     "x": 2066.1,
     "y": 2721.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 538,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": 2056.57,
-    "y": 2664.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22500,18 +22464,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1884,
-    "server_id": 26,
-    "type": "house",
-    "name": "Montanich",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": -2066.42,
-    "y": 820.6929,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1885,
     "server_id": 26,
     "type": "house",
@@ -25092,6 +25044,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 250,
+    "server_id": 26,
+    "type": "house",
+    "name": "Mono",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": 2458.76,
+    "y": 128.9869,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 390,
     "server_id": 26,
     "type": "house",
@@ -25116,6 +25080,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 406,
+    "server_id": 26,
+    "type": "house",
+    "name": "курымдык",
+    "owner": "Grafi_Kus",
+    "status": "Аукцион",
+    "x": 1419.97,
+    "y": 390.411,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 454,
     "server_id": 26,
     "type": "house",
@@ -25125,6 +25101,18 @@
     "x": 2014.05,
     "y": 650.828,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 538,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": 2056.57,
+    "y": 2664.97,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
@@ -25184,6 +25172,18 @@
     "status": "Аукцион",
     "x": 2824.04,
     "y": 2274.92,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1884,
+    "server_id": 26,
+    "type": "house",
+    "name": "Montanich",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": -2066.42,
+    "y": 820.6929,
     "price": 1000,
     "district": "Сан-Андреас"
   },

@@ -8163,7 +8163,7 @@
     "id": 681,
     "server_id": 1,
     "type": "house",
-    "name": "дача",
+    "name": "Дом",
     "owner": "Nelson_Brooks",
     "status": "Занято",
     "x": 985.354,
@@ -11636,18 +11636,6 @@
     "status": "Занято",
     "x": 2532.51,
     "y": 713.372,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 972,
-    "server_id": 1,
-    "type": "house",
-    "name": "semqso",
-    "owner": "Fentoms_Tempest",
-    "status": "Занято",
-    "x": 2540.06,
-    "y": 719.5339,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24156,6 +24144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 972,
+    "server_id": 1,
+    "type": "house",
+    "name": "semqso",
+    "owner": "Fentoms_Tempest",
+    "status": "Аукцион",
+    "x": 2540.06,
+    "y": 719.5339,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1444,
     "server_id": 1,
     "type": "house",
@@ -24189,18 +24189,6 @@
     "x": 2097.389,
     "y": 2170.27,
     "price": 350000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 294,
-    "server_id": 1,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Artem_Cuerto",
-    "status": "Аукцион",
-    "x": 2472.77,
-    "y": 2034.24,
-    "price": 120000,
     "district": "Сан-Андреас"
   },
   {
@@ -26252,6 +26240,18 @@
     "status": "Занято",
     "x": -144.085,
     "y": 1224.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 294,
+    "server_id": 1,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Artem_Cuerto",
+    "status": "Занято",
+    "x": 2472.77,
+    "y": 2034.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
