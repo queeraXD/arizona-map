@@ -7404,6 +7404,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 617,
+    "server_id": 1,
+    "type": "house",
+    "name": "Katsuro Home",
+    "owner": "Kakash_MyLove",
+    "status": "Занято",
+    "x": -881.726,
+    "y": 1532.36,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 618,
     "server_id": 1,
     "type": "house",
@@ -8708,18 +8720,6 @@
     "status": "Занято",
     "x": 1735.65,
     "y": 2691.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 727,
-    "server_id": 1,
-    "type": "house",
-    "name": "Логово Красова",
-    "owner": "Aleksey_Krasov",
-    "status": "Занято",
-    "x": 1672.98,
-    "y": 2801.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24144,15 +24144,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 617,
+    "id": 727,
     "server_id": 1,
     "type": "house",
-    "name": "Katsuro Home",
-    "owner": "Kakash_MyLove",
+    "name": "Домик",
+    "owner": "Aleksey_Krasov",
     "status": "Аукцион",
-    "x": -881.726,
-    "y": 1532.36,
-    "price": 18000,
+    "x": 1672.98,
+    "y": 2801.06,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {
@@ -24388,7 +24388,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Бар",
-    "owner": "Matvey_Bosso",
+    "owner": "Arsen_Bosso",
     "status": "Занято",
     "x": 2421.52,
     "y": -1219.25,
