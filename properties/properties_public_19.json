@@ -21915,8 +21915,8 @@
     "id": 1838,
     "server_id": 19,
     "type": "house",
-    "name": "SELL 50KKK tg @dorzh10",
-    "owner": "Piggy_Singer",
+    "name": "Дом",
+    "owner": "Dizzy_Baxter",
     "status": "Занято",
     "x": 7.3323,
     "y": 1012.12,
@@ -21929,10 +21929,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Государство",
-    "status": "Аукцион",
+    "status": "Свободно",
     "x": 1801.86,
     "y": 2823.5,
-    "price": 150,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -22065,6 +22065,30 @@
     "x": 2515.7,
     "y": 1088.17,
     "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 198,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": -1826.43,
+    "y": -566.68,
+    "price": 45000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 231,
+    "server_id": 19,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": 1186.48,
+    "y": -1512.85,
+    "price": 230123,
     "district": "Сан-Андреас"
   },
   {
@@ -22856,18 +22880,6 @@
     "status": "Занято",
     "x": -2016.84,
     "y": -29.087,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 231,
-    "server_id": 19,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": 1186.48,
-    "y": -1512.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25064,18 +25076,6 @@
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 198,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": -1826.43,
-    "y": -566.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
