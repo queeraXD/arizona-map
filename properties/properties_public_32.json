@@ -5403,8 +5403,8 @@
     "id": 450,
     "server_id": 32,
     "type": "house",
-    "name": "Bank",
-    "owner": "Sovcom_Bank",
+    "name": "Халупка Джулиана",
+    "owner": "Julian_Mitchell",
     "status": "Занято",
     "x": 1845.81,
     "y": 741.2369,
@@ -8936,18 +8936,6 @@
     "status": "Занято",
     "x": -2709.04,
     "y": 853.1939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 748,
-    "server_id": 32,
-    "type": "house",
-    "name": "soc1o",
-    "owner": "Slava_Turbina",
-    "status": "Занято",
-    "x": -2659.96,
-    "y": 876.3309,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18804,18 +18792,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1601,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом Антончика и Иванчика",
-    "owner": "kortez",
-    "status": "Занято",
-    "x": -2736.87,
-    "y": 846.609,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1602,
     "server_id": 32,
     "type": "house",
@@ -19016,18 +18992,6 @@
     "status": "Занято",
     "x": 2541.53,
     "y": 1225.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1619,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "kortez",
-    "status": "Занято",
-    "x": 2541.53,
-    "y": 1224.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19328,6 +19292,18 @@
     "status": "Занято",
     "x": 1973.23,
     "y": -1654.67,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1645,
+    "server_id": 32,
+    "type": "house",
+    "name": "Mercy Family",
+    "owner": "Adrian_Mercy",
+    "status": "Занято",
+    "x": 1972.2,
+    "y": -1633.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22488,6 +22464,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 748,
+    "server_id": 32,
+    "type": "house",
+    "name": "soc1o",
+    "owner": "Slava_Turbina",
+    "status": "Аукцион",
+    "x": -2659.96,
+    "y": 876.3309,
+    "price": 100000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 871,
     "server_id": 32,
     "type": "house",
@@ -22500,15 +22488,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1645,
+    "id": 1601,
     "server_id": 32,
     "type": "house",
-    "name": "Mercy Family",
-    "owner": "Adrian_Mercy",
+    "name": "Дом Антончика и Иванчика",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 1972.2,
-    "y": -1633.71,
-    "price": 21195,
+    "x": -2736.87,
+    "y": 846.609,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1619,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2541.53,
+    "y": 1224.25,
+    "price": 150,
     "district": "Сан-Андреас"
   },
   {

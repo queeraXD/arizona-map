@@ -10344,18 +10344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 863,
-    "server_id": 2,
-    "type": "house",
-    "name": "начало конца",
-    "owner": "Alan_Waalker",
-    "status": "Занято",
-    "x": -236.8439,
-    "y": 2491.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 864,
     "server_id": 2,
     "type": "house",
@@ -16068,18 +16056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1341,
-    "server_id": 2,
-    "type": "house",
-    "name": "Hunter Sink",
-    "owner": "Hunter_Sink",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -154.188,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1342,
     "server_id": 2,
     "type": "house",
@@ -17500,7 +17476,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Escobar Darkness",
-    "owner": "Escobar_Darkness",
+    "owner": "Kenzo_Watanabe",
     "status": "Занято",
     "x": -2625.87,
     "y": 78.7677,
@@ -23940,6 +23916,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 863,
+    "server_id": 2,
+    "type": "house",
+    "name": "начало конца",
+    "owner": "Alan_Waalker",
+    "status": "Аукцион",
+    "x": -236.8439,
+    "y": 2491.76,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1074,
     "server_id": 2,
     "type": "house",
@@ -23952,6 +23940,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1341,
+    "server_id": 2,
+    "type": "house",
+    "name": "Hunter Sink",
+    "owner": "Hunter_Sink",
+    "status": "Аукцион",
+    "x": -2515.38,
+    "y": -154.188,
+    "price": 28000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1950,
     "server_id": 2,
     "type": "house",
@@ -23961,18 +23961,6 @@
     "x": 2631.7,
     "y": 2185.54,
     "price": 10501,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 2,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Tlm_Really",
-    "status": "Аукцион",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 190000,
     "district": "Сан-Андреас"
   },
   {
@@ -26072,6 +26060,18 @@
     "status": "Занято",
     "x": 693.619,
     "y": 1967.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 2,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Tlm_Really",
+    "status": "Занято",
+    "x": -2103.59,
+    "y": -2342.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
