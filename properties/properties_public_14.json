@@ -1212,6 +1212,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 101,
+    "server_id": 14,
+    "type": "house",
+    "name": "<3 Sovhoz Corporation <3",
+    "owner": "Mirco_Diamond",
+    "status": "Занято",
+    "x": 2650.38,
+    "y": -2021.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 102,
     "server_id": 14,
     "type": "house",
@@ -11064,18 +11076,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 923,
-    "server_id": 14,
-    "type": "house",
-    "name": "Холостятская берлога",
-    "owner": "Influess_Death",
-    "status": "Занято",
-    "x": -2239.14,
-    "y": 1154.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 924,
     "server_id": 14,
     "type": "house",
@@ -15535,18 +15535,6 @@
     "owner": "Johny_Brdzhony",
     "status": "Занято",
     "x": -2554.0,
-    "y": 719.031,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1296,
-    "server_id": 14,
-    "type": "house",
-    "name": "ДОм",
-    "owner": "Influess_Death",
-    "status": "Занято",
-    "x": -2581.42,
     "y": 719.031,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23664,15 +23652,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 101,
+    "id": 923,
     "server_id": 14,
     "type": "house",
-    "name": "<3 Sovhoz Corporation <3",
-    "owner": "Mirco_Diamond",
+    "name": "Холостятская берлога",
+    "owner": "Influess_Death",
     "status": "Аукцион",
-    "x": 2650.38,
-    "y": -2021.82,
-    "price": 55000,
+    "x": -2239.14,
+    "y": 1154.01,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1296,
+    "server_id": 14,
+    "type": "house",
+    "name": "ДОм",
+    "owner": "Influess_Death",
+    "status": "Аукцион",
+    "x": -2581.42,
+    "y": 719.031,
+    "price": 11000,
     "district": "Сан-Андреас"
   },
   {
