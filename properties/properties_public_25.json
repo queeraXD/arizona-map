@@ -3496,7 +3496,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Wiggins 5 lvl asc",
-    "owner": "Serega_Wiggins",
+    "owner": "Adrenaline_Bishop",
     "status": "Занято",
     "x": 2498.96,
     "y": -1065.56,
@@ -5304,18 +5304,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 442,
-    "server_id": 25,
-    "type": "house",
-    "name": "Wiggins 5 lvl asc",
-    "owner": "Serega_Wiggins",
-    "status": "Занято",
-    "x": 2389.24,
-    "y": -1037.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 443,
     "server_id": 25,
     "type": "house",
@@ -6584,18 +6572,6 @@
     "status": "Занято",
     "x": 570.7319,
     "y": 1174.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 549,
-    "server_id": 25,
-    "type": "house",
-    "name": "Wiggins 5 lvl asc",
-    "owner": "Serega_Wiggins",
-    "status": "Занято",
-    "x": 574.0339,
-    "y": 1156.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8664,6 +8640,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 723,
+    "server_id": 25,
+    "type": "house",
+    "name": "The Secret Studio",
+    "owner": "Chlorine_Mist",
+    "status": "Аукцион",
+    "x": 1652.34,
+    "y": 2709.34,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 724,
     "server_id": 25,
     "type": "house",
@@ -10296,18 +10284,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 861,
-    "server_id": 25,
-    "type": "house",
-    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
-    "owner": "Zane_Ward",
-    "status": "Занято",
-    "x": -218.123,
-    "y": 2481.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 862,
     "server_id": 25,
     "type": "house",
@@ -11228,18 +11204,6 @@
     "status": "Занято",
     "x": -2094.08,
     "y": 796.2789,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 939,
-    "server_id": 25,
-    "type": "house",
-    "name": "Wiggins 7 lvl btc",
-    "owner": "Serega_Wiggins",
-    "status": "Занято",
-    "x": -2066.59,
-    "y": 796.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23748,6 +23712,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 442,
+    "server_id": 25,
+    "type": "house",
+    "name": "Wiggins 5 lvl asc",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2389.24,
+    "y": -1037.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 549,
+    "server_id": 25,
+    "type": "house",
+    "name": "Wiggins 5 lvl asc",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 574.0339,
+    "y": 1156.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 939,
+    "server_id": 25,
+    "type": "house",
+    "name": "Wiggins 7 lvl btc",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2066.59,
+    "y": 796.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 663,
     "server_id": 25,
     "type": "house",
@@ -23760,15 +23760,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 723,
+    "id": 861,
     "server_id": 25,
     "type": "house",
-    "name": "The Secret Studio",
-    "owner": "Chlorine_Mist",
+    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
+    "owner": "Zane_Ward",
     "status": "Аукцион",
-    "x": 1652.34,
-    "y": 2709.34,
-    "price": 1,
+    "x": -218.123,
+    "y": 2481.23,
+    "price": 10501,
     "district": "Сан-Андреас"
   },
   {
