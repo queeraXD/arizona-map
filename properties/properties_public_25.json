@@ -6652,7 +6652,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Lovec_Pisunov",
+    "owner": "Dostavka_Cuerto",
     "status": "Занято",
     "x": 312.3569,
     "y": 1068.43,
@@ -7508,6 +7508,18 @@
     "status": "Занято",
     "x": -207.4239,
     "y": 1119.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 630,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Viper_Stark",
+    "status": "Занято",
+    "x": -258.752,
+    "y": 1151.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10260,6 +10272,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 861,
+    "server_id": 25,
+    "type": "house",
+    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
+    "owner": "Zane_Ward",
+    "status": "Занято",
+    "x": -218.123,
+    "y": 2481.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 862,
     "server_id": 25,
     "type": "house",
@@ -11188,7 +11212,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Wiggins 7 lvl btc",
-    "owner": "Wyatt_Jack",
+    "owner": "Aslan_Takizawa",
     "status": "Занято",
     "x": -2066.59,
     "y": 796.82,
@@ -12272,18 +12296,6 @@
     "status": "Занято",
     "x": 1955.61,
     "y": -303.604,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1031,
-    "server_id": 25,
-    "type": "house",
-    "name": "Poloskyn Family",
-    "owner": "Ilya_Poloskyn",
-    "status": "Занято",
-    "x": 1887.0,
-    "y": -531.244,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19839,7 +19851,7 @@
     "id": 1661,
     "server_id": 25,
     "type": "house",
-    "name": "FIRE 1",
+    "name": "house vaneek",
     "owner": "Vanek_Okashovich",
     "status": "Занято",
     "x": 2601.05,
@@ -19863,7 +19875,7 @@
     "id": 1663,
     "server_id": 25,
     "type": "house",
-    "name": "dlyalovli.ua",
+    "name": "house vaneek",
     "owner": "Vanek_Okashovich",
     "status": "Занято",
     "x": 2601.05,
@@ -23688,30 +23700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 630,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Roma_Monsory",
-    "status": "Аукцион",
-    "x": -258.752,
-    "y": 1151.06,
-    "price": 3300,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 861,
-    "server_id": 25,
-    "type": "house",
-    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
-    "owner": "Zane_Ward",
-    "status": "Аукцион",
-    "x": -218.123,
-    "y": 2481.23,
-    "price": 10501,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 950,
     "server_id": 25,
     "type": "house",
@@ -23721,6 +23709,18 @@
     "x": -2239.28,
     "y": 998.7769,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1031,
+    "server_id": 25,
+    "type": "house",
+    "name": "Poloskyn Family",
+    "owner": "Ilya_Poloskyn",
+    "status": "Аукцион",
+    "x": 1887.0,
+    "y": -531.244,
+    "price": 384000,
     "district": "Сан-Андреас"
   },
   {
@@ -23769,6 +23769,18 @@
     "x": 1748.41,
     "y": 2758.69,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 102,
+    "server_id": 25,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Ilya_Poloskyn",
+    "status": "Аукцион",
+    "x": -1735.96,
+    "y": 897.68,
+    "price": 64000,
     "district": "Сан-Андреас"
   },
   {
@@ -24476,18 +24488,6 @@
     "status": "Занято",
     "x": -2242.28,
     "y": -170.898,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 102,
-    "server_id": 25,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Ilya_Poloskyn",
-    "status": "Занято",
-    "x": -1735.96,
-    "y": 897.68,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -22792,7 +22792,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Дом",
-    "owner": "Ben_Tix",
+    "owner": "Tony_Humam",
     "status": "Занято",
     "x": 2476.31,
     "y": -1417.45,
@@ -23940,18 +23940,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 156,
-    "server_id": 9,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Ethan_Quinzy",
-    "status": "Аукцион",
-    "x": -2493.904,
-    "y": 2270.313,
-    "price": 220000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 249,
     "server_id": 9,
     "type": "business",
@@ -23961,18 +23949,6 @@
     "x": 111.076,
     "y": -1782.68,
     "price": 145000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 300,
-    "server_id": 9,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Ethan_Quinzy",
-    "status": "Аукцион",
-    "x": 1858.639,
-    "y": 2159.243,
-    "price": 220000,
     "district": "Сан-Андреас"
   },
   {
@@ -26580,6 +26556,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 156,
+    "server_id": 9,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Ethan_Quinzy",
+    "status": "Занято",
+    "x": -2493.904,
+    "y": 2270.313,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 157,
     "server_id": 9,
     "type": "business",
@@ -26636,6 +26624,18 @@
     "status": "Занято",
     "x": 2097.389,
     "y": 2170.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 300,
+    "server_id": 9,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Ethan_Quinzy",
+    "status": "Занято",
+    "x": 1858.639,
+    "y": 2159.243,
     "price": 0,
     "district": "Сан-Андреас"
   },
