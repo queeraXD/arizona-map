@@ -6024,18 +6024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 503,
-    "server_id": 13,
-    "type": "house",
-    "name": "могг",
-    "owner": "Dva_Piva",
-    "status": "Занято",
-    "x": 1341.49,
-    "y": 1930.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 504,
     "server_id": 13,
     "type": "house",
@@ -6896,18 +6884,6 @@
     "status": "Занято",
     "x": -165.173,
     "y": 2768.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 577,
-    "server_id": 13,
-    "type": "house",
-    "name": "Добрые чувачки",
-    "owner": "Dva_Piva",
-    "status": "Занято",
-    "x": -201.6629,
-    "y": 2772.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9052,7 +9028,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Limpik house",
-    "owner": "Royal_Shiker",
+    "owner": "Pasha_Caplya",
     "status": "Занято",
     "x": -2731.47,
     "y": 723.703,
@@ -10416,18 +10392,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 871,
-    "server_id": 13,
-    "type": "house",
-    "name": "помойка",
-    "owner": "Tri_Goth",
-    "status": "Занято",
-    "x": -302.976,
-    "y": 2552.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 872,
     "server_id": 13,
     "type": "house",
@@ -10928,18 +10892,6 @@
     "status": "Занято",
     "x": -2126.81,
     "y": 1087.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 914,
-    "server_id": 13,
-    "type": "house",
-    "name": "K-14",
-    "owner": "Jason_Silverhand",
-    "status": "Занято",
-    "x": -2159.76,
-    "y": 1066.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12980,18 +12932,6 @@
     "status": "Занято",
     "x": 1780.95,
     "y": 2744.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1086,
-    "server_id": 13,
-    "type": "house",
-    "name": "басик лв ",
-    "owner": "Dva_Piva",
-    "status": "Занято",
-    "x": 1781.15,
-    "y": 2747.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15296,18 +15236,6 @@
     "status": "Занято",
     "x": -2686.8,
     "y": 115.455,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1279,
-    "server_id": 13,
-    "type": "house",
-    "name": "видюхи и сет фарма",
-    "owner": "Dva_Piva",
-    "status": "Занято",
-    "x": -2690.77,
-    "y": 102.285,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17960,18 +17888,6 @@
     "status": "Занято",
     "x": 2129.63,
     "y": -1361.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1502,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дача Epshteyna",
-    "owner": "Dva_Piva",
-    "status": "Занято",
-    "x": 2147.77,
-    "y": -1366.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20928,18 +20844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1749,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dva_Piva",
-    "status": "Занято",
-    "x": 2487.4,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1750,
     "server_id": 13,
     "type": "house",
@@ -21008,18 +20912,6 @@
     "status": "Занято",
     "x": 2492.15,
     "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1756,
-    "server_id": 13,
-    "type": "house",
-    "name": "БЕРЛОГА СЕТА",
-    "owner": "Dva_Piva",
-    "status": "Занято",
-    "x": 2468.39,
-    "y": -1366.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23216,7 +23108,19 @@
     "status": "Аукцион",
     "x": 2355.7,
     "y": -1039.24,
-    "price": 1000,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 503,
+    "server_id": 13,
+    "type": "house",
+    "name": "могг",
+    "owner": "Dva_Piva",
+    "status": "Аукцион",
+    "x": 1341.49,
+    "y": 1930.03,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -23232,6 +23136,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 577,
+    "server_id": 13,
+    "type": "house",
+    "name": "Добрые чувачки",
+    "owner": "Dva_Piva",
+    "status": "Аукцион",
+    "x": -201.6629,
+    "y": 2772.17,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 777,
     "server_id": 13,
     "type": "house",
@@ -23241,6 +23157,30 @@
     "x": -2548.71,
     "y": 819.799,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 871,
+    "server_id": 13,
+    "type": "house",
+    "name": "3g0th2002",
+    "owner": "Tri_Goth",
+    "status": "Аукцион",
+    "x": -302.976,
+    "y": 2552.28,
+    "price": 4444,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 914,
+    "server_id": 13,
+    "type": "house",
+    "name": "K-14",
+    "owner": "Jason_Silverhand",
+    "status": "Аукцион",
+    "x": -2159.76,
+    "y": 1066.95,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
@@ -23256,6 +23196,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1086,
+    "server_id": 13,
+    "type": "house",
+    "name": "басик лв ",
+    "owner": "Dva_Piva",
+    "status": "Аукцион",
+    "x": 1781.15,
+    "y": 2747.27,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1279,
+    "server_id": 13,
+    "type": "house",
+    "name": "видюхи и сет фарма",
+    "owner": "Dva_Piva",
+    "status": "Аукцион",
+    "x": -2690.77,
+    "y": 102.285,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1480,
     "server_id": 13,
     "type": "house",
@@ -23265,6 +23229,42 @@
     "x": 2362.62,
     "y": -1046.45,
     "price": 200,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1502,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дача Epshteyna",
+    "owner": "Dva_Piva",
+    "status": "Аукцион",
+    "x": 2147.77,
+    "y": -1366.12,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1749,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dva_Piva",
+    "status": "Аукцион",
+    "x": 2487.4,
+    "y": -1391.71,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1756,
+    "server_id": 13,
+    "type": "house",
+    "name": "БЕРЛОГА СЕТА",
+    "owner": "Dva_Piva",
+    "status": "Аукцион",
+    "x": 2468.39,
+    "y": -1366.2,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {

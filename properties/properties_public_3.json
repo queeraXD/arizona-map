@@ -9904,7 +9904,7 @@
     "server_id": 3,
     "type": "house",
     "name": "HardBass хата",
-    "owner": "Oleg_Kozubash",
+    "owner": "Guf_Sabetta",
     "status": "Занято",
     "x": -2724.29,
     "y": -58.0475,
@@ -11176,7 +11176,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Хата",
-    "owner": "Guf_Sabetta",
+    "owner": "Oleg_Kozubash",
     "status": "Занято",
     "x": -2281.89,
     "y": 979.2609,
@@ -18796,7 +18796,7 @@
     "server_id": 3,
     "type": "house",
     "name": "ИЗИ БРИЖДИ",
-    "owner": "Guf_Sabetta",
+    "owner": "Roman_Mansory",
     "status": "Занято",
     "x": -2725.79,
     "y": -36.45,
@@ -23984,7 +23984,7 @@
     "status": "Аукцион",
     "x": 2066.84,
     "y": -1554.09,
-    "price": 7000,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
@@ -23996,7 +23996,7 @@
     "status": "Аукцион",
     "x": 2072.27,
     "y": -1551.22,
-    "price": 7000,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
@@ -24008,31 +24008,7 @@
     "status": "Аукцион",
     "x": 2072.5,
     "y": -1559.31,
-    "price": 7000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 55,
-    "server_id": 3,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ilya_Ethereal",
-    "status": "Аукцион",
-    "x": 2262.75,
-    "y": 2036.09,
-    "price": 400000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 102,
-    "server_id": 3,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Ilya_Ethereal",
-    "status": "Аукцион",
-    "x": -1735.96,
-    "y": 897.68,
-    "price": 400000,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
@@ -24057,18 +24033,6 @@
     "x": 2405.02,
     "y": -1933.97,
     "price": 155000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 286,
-    "server_id": 3,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Sak_Noel",
-    "status": "Аукцион",
-    "x": 1826.39,
-    "y": 626.525,
-    "price": 900000,
     "district": "Сан-Андреас"
   },
   {
@@ -24764,6 +24728,18 @@
     "status": "Занято",
     "x": -2242.28,
     "y": -170.898,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 102,
+    "server_id": 3,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Ilya_Ethereal",
+    "status": "Занято",
+    "x": -1735.96,
+    "y": 897.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25584,6 +25560,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 286,
+    "server_id": 3,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Sak_Noel",
+    "status": "Занято",
+    "x": 1826.39,
+    "y": 626.525,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 287,
     "server_id": 3,
     "type": "business",
@@ -26228,6 +26216,18 @@
     "status": "Занято",
     "x": 2200.76,
     "y": 1394.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 55,
+    "server_id": 3,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ilya_Ethereal",
+    "status": "Занято",
+    "x": 2262.75,
+    "y": 2036.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
