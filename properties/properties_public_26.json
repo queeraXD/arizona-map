@@ -6648,18 +6648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 554,
-    "server_id": 26,
-    "type": "house",
-    "name": "Треп Хата",
-    "owner": "Maxim_Gromov",
-    "status": "Занято",
-    "x": 352.9729,
-    "y": 1099.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 555,
     "server_id": 26,
     "type": "house",
@@ -21900,18 +21888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1829,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": 2824.04,
-    "y": 2274.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1830,
     "server_id": 26,
     "type": "house",
@@ -25152,6 +25128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 554,
+    "server_id": 26,
+    "type": "house",
+    "name": "Треп Хата",
+    "owner": "Maxim_Gromov",
+    "status": "Аукцион",
+    "x": 352.9729,
+    "y": 1099.58,
+    "price": 700,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 772,
     "server_id": 26,
     "type": "house",
@@ -25185,6 +25173,30 @@
     "x": 2417.74,
     "y": 975.067,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1829,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": 2824.04,
+    "y": 2274.92,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 7,
+    "server_id": 26,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": 1315.5,
+    "y": -898.048,
+    "price": 230000,
     "district": "Сан-Андреас"
   },
   {
@@ -25640,18 +25652,6 @@
     "status": "Занято",
     "x": 1352.4,
     "y": -1758.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 7,
-    "server_id": 26,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": 1315.5,
-    "y": -898.048,
     "price": 0,
     "district": "Сан-Андреас"
   },
