@@ -3423,7 +3423,7 @@
     "id": 286,
     "server_id": 32,
     "type": "house",
-    "name": "Johnson & Master mansion",
+    "name": "Гора Grove Street",
     "owner": "Dwayne_Jonhson",
     "status": "Занято",
     "x": 2259.37,
@@ -8960,18 +8960,6 @@
     "status": "Занято",
     "x": -2655.45,
     "y": 985.7849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 752,
-    "server_id": 32,
-    "type": "house",
-    "name": "Immortal",
-    "owner": "Lavoym_Masferi",
-    "status": "Занято",
-    "x": -2641.07,
-    "y": 935.7189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20556,18 +20544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1751,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": -789.703,
-    "y": 2747.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1752,
     "server_id": 32,
     "type": "house",
@@ -21600,18 +21576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1838,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 2623.66,
-    "y": 2065.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1839,
     "server_id": 32,
     "type": "house",
@@ -21672,18 +21636,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1844,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 2613.64,
-    "y": 2044.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1845,
     "server_id": 32,
     "type": "house",
@@ -21692,18 +21644,6 @@
     "status": "Занято",
     "x": 2613.64,
     "y": 2051.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1846,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп/Топ инт/2подвала/Максшкаф",
-    "owner": "Ronald_Mercy",
-    "status": "Занято",
-    "x": 2613.64,
-    "y": 2060.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22476,6 +22416,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 752,
+    "server_id": 32,
+    "type": "house",
+    "name": "Immortal",
+    "owner": "Lavoym_Masferi",
+    "status": "Аукцион",
+    "x": -2641.07,
+    "y": 935.7189,
+    "price": 75149,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1601,
     "server_id": 32,
     "type": "house",
@@ -22509,6 +22461,54 @@
     "x": 1972.2,
     "y": -1633.71,
     "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1751,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": -789.703,
+    "y": 2747.8,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1838,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 2623.66,
+    "y": 2065.52,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1844,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 2613.64,
+    "y": 2044.07,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1846,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп/Топ инт/2подвала/Максшкаф",
+    "owner": "Ronald_Mercy",
+    "status": "Аукцион",
+    "x": 2613.64,
+    "y": 2060.96,
+    "price": 9999,
     "district": "Сан-Андреас"
   },
   {
@@ -22588,7 +22588,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Banchus_Burmadella",
+    "owner": "Vasek_Banditov",
     "status": "Занято",
     "x": -316.162,
     "y": 829.757,
