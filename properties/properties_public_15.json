@@ -3468,18 +3468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 289,
-    "server_id": 15,
-    "type": "house",
-    "name": "Samokrutka house",
-    "owner": "Routine_McCloud",
-    "status": "Занято",
-    "x": 2534.44,
-    "y": -1063.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 290,
     "server_id": 15,
     "type": "house",
@@ -5300,18 +5288,6 @@
     "status": "Занято",
     "x": -691.8779,
     "y": 939.5889,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 442,
-    "server_id": 15,
-    "type": "house",
-    "name": "Dzenya&Monopoly 2.0",
-    "owner": "Routine_McCloud",
-    "status": "Занято",
-    "x": 2389.24,
-    "y": -1037.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9944,18 +9920,6 @@
     "status": "Занято",
     "x": -2721.08,
     "y": -44.7512,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 829,
-    "server_id": 15,
-    "type": "house",
-    "name": "PiDiDi_H0uSe",
-    "owner": "Routine_McCloud",
-    "status": "Занято",
-    "x": -2720.98,
-    "y": -23.3173,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21324,6 +21288,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 289,
+    "server_id": 15,
+    "type": "house",
+    "name": "Samokrutka house",
+    "owner": "Routine_McCloud",
+    "status": "Аукцион",
+    "x": 2534.44,
+    "y": -1063.42,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 442,
+    "server_id": 15,
+    "type": "house",
+    "name": "Dzenya&Monopoly 2.0",
+    "owner": "Routine_McCloud",
+    "status": "Аукцион",
+    "x": 2389.24,
+    "y": -1037.06,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 829,
+    "server_id": 15,
+    "type": "house",
+    "name": "PiDiDi_H0uSe",
+    "owner": "Routine_McCloud",
+    "status": "Аукцион",
+    "x": -2720.98,
+    "y": -23.3173,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 120,
+    "server_id": 15,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Max_Fantom",
+    "status": "Аукцион",
+    "x": -2718.47,
+    "y": 50.452,
+    "price": 115000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 15,
     "type": "business",
@@ -22280,18 +22292,6 @@
     "status": "Занято",
     "x": -1694.58,
     "y": 951.914,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 120,
-    "server_id": 15,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Max_Fantom",
-    "status": "Занято",
-    "x": -2718.47,
-    "y": 50.452,
     "price": 0,
     "district": "Сан-Андреас"
   },

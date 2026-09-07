@@ -11520,18 +11520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 961,
-    "server_id": 31,
-    "type": "house",
-    "name": "underbase",
-    "owner": "Object_Mode",
-    "status": "Занято",
-    "x": -2158.17,
-    "y": 753.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 962,
     "server_id": 31,
     "type": "house",
@@ -22851,8 +22839,8 @@
     "id": 1909,
     "server_id": 31,
     "type": "house",
-    "name": "Спотифайск",
-    "owner": "Satirin_OnSpotify",
+    "name": "Magnat WW",
+    "owner": "Magnat_WW",
     "status": "Занято",
     "x": 102.345,
     "y": 977.08,
@@ -23340,6 +23328,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 961,
+    "server_id": 31,
+    "type": "house",
+    "name": "underbase",
+    "owner": "Object_Mode",
+    "status": "Аукцион",
+    "x": -2158.17,
+    "y": 753.703,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 963,
     "server_id": 31,
     "type": "house",
@@ -23349,18 +23349,6 @@
     "x": -2187.12,
     "y": 743.71,
     "price": 16000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 352,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Santi_Lopez",
-    "status": "Аукцион",
-    "x": 1256.55,
-    "y": 274.927,
-    "price": 212500,
     "district": "Сан-Андреас"
   },
   {
@@ -25764,6 +25752,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 352,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Santi_Lopez",
+    "status": "Занято",
+    "x": 1256.55,
+    "y": 274.927,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 138,
     "server_id": 31,
     "type": "business",
@@ -26548,7 +26548,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Magnat_WW",
+    "owner": "Mickey_Desmond",
     "status": "Занято",
     "x": 2824.77,
     "y": 1290.68,

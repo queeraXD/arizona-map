@@ -7932,18 +7932,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 661,
-    "server_id": 11,
-    "type": "house",
-    "name": "poksqd ",
-    "owner": "Cricket_Temporal",
-    "status": "Занято",
-    "x": 984.2689,
-    "y": 1878.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 662,
     "server_id": 11,
     "type": "house",
@@ -9572,18 +9560,6 @@
     "status": "Занято",
     "x": -2368.82,
     "y": 740.5089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 798,
-    "server_id": 11,
-    "type": "house",
-    "name": "Gazan Empire",
-    "owner": "Cricket_Temporal",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 763.504,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12476,6 +12452,18 @@
     "status": "Занято",
     "x": -1727.98,
     "y": 1138.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1041,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kail_Foxi",
+    "status": "Занято",
+    "x": -1728.11,
+    "y": 1158.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24636,15 +24624,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1041,
+    "id": 661,
     "server_id": 11,
     "type": "house",
-    "name": "Дом",
-    "owner": "Kail_Foxi",
+    "name": "poksqd ",
+    "owner": "Cricket_Temporal",
     "status": "Аукцион",
-    "x": -1728.11,
-    "y": 1158.95,
-    "price": 6000,
+    "x": 984.2689,
+    "y": 1878.91,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 798,
+    "server_id": 11,
+    "type": "house",
+    "name": "Gazan Empire",
+    "owner": "Cricket_Temporal",
+    "status": "Аукцион",
+    "x": -2368.82,
+    "y": 763.504,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
