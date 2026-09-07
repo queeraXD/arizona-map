@@ -792,6 +792,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 70,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bell_Cranel",
+    "status": "Занято",
+    "x": 2368.3,
+    "y": -1673.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 71,
     "server_id": 3,
     "type": "house",
@@ -14008,7 +14020,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Indestructible Empire",
-    "owner": "Maksimka_Enfirix",
+    "owner": "Joan_Garcia",
     "status": "Занято",
     "x": -2793.14,
     "y": 110.9339,
@@ -17412,6 +17424,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1460,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Wkezzy_Wade",
+    "status": "Занято",
+    "x": 1731.12,
+    "y": 2823.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1461,
     "server_id": 3,
     "type": "house",
@@ -20264,6 +20288,18 @@
     "status": "Занято",
     "x": 2073.37,
     "y": -1582.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1699,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Egors_Aldento",
+    "status": "Занято",
+    "x": 2066.96,
+    "y": -1562.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23904,18 +23940,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 70,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Grafi_Kus",
-    "status": "Аукцион",
-    "x": 2368.3,
-    "y": -1673.26,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 810,
     "server_id": 3,
     "type": "house",
@@ -23952,30 +23976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1460,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Grafi_Kus",
-    "status": "Аукцион",
-    "x": 1731.12,
-    "y": 2823.5,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1699,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Grafi_Kus",
-    "status": "Аукцион",
-    "x": 2066.96,
-    "y": -1562.19,
-    "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1700,
     "server_id": 3,
     "type": "house",
@@ -23984,7 +23984,7 @@
     "status": "Аукцион",
     "x": 2066.84,
     "y": -1554.09,
-    "price": 5000,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -23996,7 +23996,7 @@
     "status": "Аукцион",
     "x": 2072.27,
     "y": -1551.22,
-    "price": 5000,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -24008,19 +24008,7 @@
     "status": "Аукцион",
     "x": 2072.5,
     "y": -1559.31,
-    "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 116,
-    "server_id": 3,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Ray_Rasta",
-    "status": "Аукцион",
-    "x": -2163.47,
-    "y": 129.382,
-    "price": 500000,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -24116,6 +24104,18 @@
     "status": "Занято",
     "x": -2625.72,
     "y": 209.242,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 116,
+    "server_id": 3,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Ray_Rasta",
+    "status": "Занято",
+    "x": -2163.47,
+    "y": 129.382,
     "price": 0,
     "district": "Сан-Андреас"
   },

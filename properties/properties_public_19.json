@@ -7164,18 +7164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 597,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Monopoly Asylum Famly ~",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": -1450.71,
-    "y": 2691.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 598,
     "server_id": 19,
     "type": "house",
@@ -10784,18 +10772,6 @@
     "status": "Занято",
     "x": -2075.14,
     "y": 899.366,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 902,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": -2065.95,
-    "y": 1160.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15096,18 +15072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1262,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 614.0969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1263,
     "server_id": 19,
     "type": "house",
@@ -18432,18 +18396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1540,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": 1938.78,
-    "y": 663.577,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1541,
     "server_id": 19,
     "type": "house",
@@ -19404,18 +19356,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1621,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~ ",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": 1795.44,
-    "y": 2755.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1622,
     "server_id": 19,
     "type": "house",
@@ -19872,30 +19812,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1660,
-    "server_id": 19,
-    "type": "house",
-    "name": "Квартира You_One",
-    "owner": "Feldan_Lizalov",
-    "status": "Занято",
-    "x": 1881.98,
-    "y": 2792.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1661,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Feldan_Lizalov",
-    "status": "Занято",
-    "x": 1879.96,
-    "y": 2790.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1662,
     "server_id": 19,
     "type": "house",
@@ -19988,18 +19904,6 @@
     "status": "Занято",
     "x": 1838.71,
     "y": 2749.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1670,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": 1832.59,
-    "y": 2742.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20516,18 +20420,6 @@
     "status": "Занято",
     "x": -914.3449,
     "y": -528.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1714,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": 1414.7,
-    "y": 2026.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22008,6 +21900,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 597,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Monopoly Asylum Famly ~",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": -1450.71,
+    "y": 2691.05,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 757,
     "server_id": 19,
     "type": "house",
@@ -22032,6 +21936,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 902,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": -2065.95,
+    "y": 1160.62,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1088,
     "server_id": 19,
     "type": "house",
@@ -22044,6 +21960,90 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1262,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 614.0969,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1540,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": 1938.78,
+    "y": 663.577,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1621,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~ ",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": 1795.44,
+    "y": 2755.79,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1660,
+    "server_id": 19,
+    "type": "house",
+    "name": "Квартира You_One",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1881.98,
+    "y": 2792.36,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1661,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1879.96,
+    "y": 2790.31,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1670,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": 1832.59,
+    "y": 2742.84,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1714,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": 1414.7,
+    "y": 2026.98,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1744,
     "server_id": 19,
     "type": "house",
@@ -22053,6 +22053,18 @@
     "x": 2690.54,
     "y": -1229.18,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 182,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": 1104.78,
+    "y": 1380.93,
+    "price": 135000,
     "district": "Сан-Андреас"
   },
   {
@@ -24884,18 +24896,6 @@
     "status": "Занято",
     "x": 2029.71,
     "y": 986.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 182,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": 1104.78,
-    "y": 1380.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
