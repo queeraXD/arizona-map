@@ -9300,18 +9300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 777,
-    "server_id": 13,
-    "type": "house",
-    "name": "помойка",
-    "owner": "Tolik_Prokladka",
-    "status": "Занято",
-    "x": -2548.71,
-    "y": 819.799,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 778,
     "server_id": 13,
     "type": "house",
@@ -11127,8 +11115,8 @@
     "id": 929,
     "server_id": 13,
     "type": "house",
-    "name": "сосиськи",
-    "owner": "Kenji_Akimoto",
+    "name": "UnderWorld SF",
+    "owner": "Anatoliy_Volk",
     "status": "Занято",
     "x": -2017.64,
     "y": 1017.06,
@@ -20256,6 +20244,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1692,
+    "server_id": 13,
+    "type": "house",
+    "name": "майнинг",
+    "owner": "Doctor_Pediatr",
+    "status": "Занято",
+    "x": 2437.04,
+    "y": 1211.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1693,
     "server_id": 13,
     "type": "house",
@@ -21300,18 +21300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1781,
-    "server_id": 13,
-    "type": "house",
-    "name": "МАЙНИНГ 7 ЛВЛ",
-    "owner": "Loki_Daymas",
-    "status": "Занято",
-    "x": 2468.25,
-    "y": -1359.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1782,
     "server_id": 13,
     "type": "house",
@@ -22284,18 +22272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1863,
-    "server_id": 13,
-    "type": "house",
-    "name": "классный дом",
-    "owner": "Lovec_Pisunovv",
-    "status": "Занято",
-    "x": 2647.11,
-    "y": 2259.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1864,
     "server_id": 13,
     "type": "house",
@@ -23256,6 +23232,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 777,
+    "server_id": 13,
+    "type": "house",
+    "name": "помойка",
+    "owner": "Tolik_Prokladka",
+    "status": "Аукцион",
+    "x": -2548.71,
+    "y": 819.799,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1039,
     "server_id": 13,
     "type": "house",
@@ -23280,15 +23268,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1692,
+    "id": 1781,
     "server_id": 13,
     "type": "house",
-    "name": "майнинг",
-    "owner": "Aperol_Spritz",
+    "name": "МАЙНИНГ 7 ЛВЛ",
+    "owner": "Loki_Daymas",
     "status": "Аукцион",
-    "x": 2437.04,
-    "y": 1211.07,
-    "price": 300,
+    "x": 2468.25,
+    "y": -1359.1,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1863,
+    "server_id": 13,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunovv",
+    "status": "Аукцион",
+    "x": 2647.11,
+    "y": 2259.19,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -24472,7 +24472,7 @@
     "server_id": 13,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Pendejo_Savchenko",
+    "owner": "Sakura_Haruma",
     "status": "Занято",
     "x": 1929.45,
     "y": -1776.22,
