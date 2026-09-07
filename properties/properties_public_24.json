@@ -3528,18 +3528,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 294,
-    "server_id": 24,
-    "type": "house",
-    "name": "Oldman",
-    "owner": "Pika_Shu",
-    "status": "Занято",
-    "x": 2347.94,
-    "y": -1202.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 295,
     "server_id": 24,
     "type": "house",
@@ -5787,8 +5775,8 @@
     "id": 482,
     "server_id": 24,
     "type": "house",
-    "name": "Clapton Industrial",
-    "owner": "Sonic_Arctic",
+    "name": "веселая ферма кпп лв 2",
+    "owner": "Thiago_Flores",
     "status": "Занято",
     "x": 2206.36,
     "y": 691.505,
@@ -6476,18 +6464,6 @@
     "status": "Занято",
     "x": 2037.05,
     "y": 2663.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 540,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pika_Shu",
-    "status": "Занято",
-    "x": 2017.82,
-    "y": 2663.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16440,18 +16416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1373,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pika_Shu",
-    "status": "Занято",
-    "x": 1970.04,
-    "y": -1671.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1374,
     "server_id": 24,
     "type": "house",
@@ -21228,18 +21192,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1773,
-    "server_id": 24,
-    "type": "house",
-    "name": "Склад микрозайма",
-    "owner": "Pika_Shu",
-    "status": "Занято",
-    "x": 2601.05,
-    "y": -1233.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1774,
     "server_id": 24,
     "type": "house",
@@ -22020,6 +21972,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 294,
+    "server_id": 24,
+    "type": "house",
+    "name": "Oldman",
+    "owner": "Pika_Shu",
+    "status": "Аукцион",
+    "x": 2347.94,
+    "y": -1202.84,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 540,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pika_Shu",
+    "status": "Аукцион",
+    "x": 2017.82,
+    "y": 2663.33,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 638,
     "server_id": 24,
     "type": "house",
@@ -22041,6 +22017,30 @@
     "x": -2568.95,
     "y": 794.1749,
     "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1373,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pika_Shu",
+    "status": "Аукцион",
+    "x": 1970.04,
+    "y": -1671.19,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1773,
+    "server_id": 24,
+    "type": "house",
+    "name": "Склад микрозайма",
+    "owner": "Pika_Shu",
+    "status": "Аукцион",
+    "x": 2601.05,
+    "y": -1233.55,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -23668,7 +23668,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Alt_Venom",
+    "owner": "Ammedessu_Crystal",
     "status": "Занято",
     "x": 1367.55,
     "y": 248.241,
