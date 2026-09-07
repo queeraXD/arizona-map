@@ -4944,18 +4944,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 412,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sinister_Surprise",
-    "status": "Занято",
-    "x": 1435.43,
-    "y": 334.625,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 413,
     "server_id": 10,
     "type": "house",
@@ -5852,18 +5840,6 @@
     "status": "Занято",
     "x": 2094.08,
     "y": 774.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 488,
-    "server_id": 10,
-    "type": "house",
-    "name": "WERSYN TEAM",
-    "owner": "Brown_Lazzarelli",
-    "status": "Занято",
-    "x": 2093.41,
-    "y": 730.4819,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9324,18 +9300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 777,
-    "server_id": 10,
-    "type": "house",
-    "name": "Недвижимость Forbes",
-    "owner": "Buba_RedRock",
-    "status": "Занято",
-    "x": -2548.71,
-    "y": 819.799,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 778,
     "server_id": 10,
     "type": "house",
@@ -9512,18 +9476,6 @@
     "status": "Занято",
     "x": -2540.21,
     "y": 883.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 793,
-    "server_id": 10,
-    "type": "house",
-    "name": "Недвижимость Forbes",
-    "owner": "Buba_RedRock",
-    "status": "Занято",
-    "x": -2540.68,
-    "y": 855.103,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12200,18 +12152,6 @@
     "status": "Занято",
     "x": -2563.4,
     "y": 1148.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1018,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zahar_Wanted",
-    "status": "Занято",
-    "x": -2541.3,
-    "y": 987.9089,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23337,6 +23277,66 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 412,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1435.43,
+    "y": 334.625,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 488,
+    "server_id": 10,
+    "type": "house",
+    "name": "WERSYN TEAM",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2093.41,
+    "y": 730.4819,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1018,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2541.3,
+    "y": 987.9089,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 777,
+    "server_id": 10,
+    "type": "house",
+    "name": "Недвижимость Forbes",
+    "owner": "Buba_RedRock",
+    "status": "Аукцион",
+    "x": -2548.71,
+    "y": 819.799,
+    "price": 300,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 793,
+    "server_id": 10,
+    "type": "house",
+    "name": "Недвижимость Forbes",
+    "owner": "Buba_RedRock",
+    "status": "Аукцион",
+    "x": -2540.68,
+    "y": 855.103,
+    "price": 300,
     "district": "Сан-Андреас"
   },
   {
