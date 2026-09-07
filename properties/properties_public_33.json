@@ -480,18 +480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 40,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michael_Scofield",
-    "status": "Занято",
-    "x": 2472.88,
-    "y": -1238.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 41,
     "server_id": 33,
     "type": "house",
@@ -548,18 +536,6 @@
     "status": "Занято",
     "x": 2467.61,
     "y": -1200.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 46,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michael_Scofield",
-    "status": "Занято",
-    "x": 2196.22,
-    "y": -1404.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11220,18 +11196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 941,
-    "server_id": 33,
-    "type": "house",
-    "name": ":fire:Nolimit Dynasty:fire:",
-    "owner": "Michael_Scofield",
-    "status": "Занято",
-    "x": -2029.79,
-    "y": 796.554,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 942,
     "server_id": 33,
     "type": "house",
@@ -11340,18 +11304,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 951,
-    "server_id": 33,
-    "type": "house",
-    "name": "schwartz",
-    "owner": "Michael_Scofield",
-    "status": "Занято",
-    "x": -2230.74,
-    "y": 1027.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 952,
     "server_id": 33,
     "type": "house",
@@ -11392,7 +11344,7 @@
     "server_id": 33,
     "type": "house",
     "name": "zxc",
-    "owner": "Cursed_Dispersion",
+    "owner": "Nox_Nostra",
     "status": "Занято",
     "x": -2159.6,
     "y": 946.984,
@@ -12207,7 +12159,7 @@
     "id": 1023,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "PALOMINO HILS",
     "owner": "Abaymba_Monopoly",
     "status": "Занято",
     "x": 1914.57,
@@ -14760,18 +14712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1237,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michael_Scofield",
-    "status": "Занято",
-    "x": -2433.71,
-    "y": 1244.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1238,
     "server_id": 33,
     "type": "house",
@@ -16275,7 +16215,7 @@
     "id": 1363,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "ARZ TOWER",
     "owner": "Abaymba_Monopoly",
     "status": "Занято",
     "x": 1105.59,
@@ -17835,7 +17775,7 @@
     "id": 1495,
     "server_id": 33,
     "type": "house",
-    "name": "qleveta mason",
+    "name": "mason tower",
     "owner": "Abaymba_Monopoly",
     "status": "Занято",
     "x": -2361.51,
@@ -21528,18 +21468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1832,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michael_Scofield",
-    "status": "Занято",
-    "x": 2613.64,
-    "y": 2053.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1833,
     "server_id": 33,
     "type": "house",
@@ -22344,6 +22272,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 40,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michael_Scofield",
+    "status": "Аукцион",
+    "x": 2472.88,
+    "y": -1238.12,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 46,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michael_Scofield",
+    "status": "Аукцион",
+    "x": 2196.22,
+    "y": -1404.09,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 237,
     "server_id": 33,
     "type": "house",
@@ -22368,6 +22320,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 941,
+    "server_id": 33,
+    "type": "house",
+    "name": ":fire:Nolimit Dynasty:fire:",
+    "owner": "Michael_Scofield",
+    "status": "Аукцион",
+    "x": -2029.79,
+    "y": 796.554,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 951,
+    "server_id": 33,
+    "type": "house",
+    "name": "schwartz",
+    "owner": "Michael_Scofield",
+    "status": "Аукцион",
+    "x": -2230.74,
+    "y": 1027.64,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1060,
     "server_id": 33,
     "type": "house",
@@ -22377,6 +22353,30 @@
     "x": -2152.69,
     "y": 1248.88,
     "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1237,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michael_Scofield",
+    "status": "Аукцион",
+    "x": -2433.71,
+    "y": 1244.56,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1832,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michael_Scofield",
+    "status": "Аукцион",
+    "x": 2613.64,
+    "y": 2053.44,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
