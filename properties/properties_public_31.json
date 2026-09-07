@@ -10812,18 +10812,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 902,
-    "server_id": 31,
-    "type": "house",
-    "name": "Disneyland",
-    "owner": "Lovell_Bueno",
-    "status": "Занято",
-    "x": -2065.95,
-    "y": 1160.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 903,
     "server_id": 31,
     "type": "house",
@@ -23340,6 +23328,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 902,
+    "server_id": 31,
+    "type": "house",
+    "name": "Disneyland",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2065.95,
+    "y": 1160.62,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1382,
     "server_id": 31,
     "type": "house",
@@ -23349,30 +23349,6 @@
     "x": 1115.72,
     "y": -1570.0,
     "price": 22500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 232,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Boris_Brytva",
-    "status": "Аукцион",
-    "x": 1071.66,
-    "y": -1438.98,
-    "price": 550000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 301,
-    "server_id": 31,
-    "type": "business",
-    "name": "Лотерейная",
-    "owner": "Boris_Brytva",
-    "status": "Аукцион",
-    "x": 1288.7,
-    "y": 271.232,
-    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25764,6 +25740,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 232,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Boris_Brytva",
+    "status": "Занято",
+    "x": 1071.66,
+    "y": -1438.98,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 352,
     "server_id": 31,
     "type": "business",
@@ -27020,6 +27008,18 @@
     "status": "Занято",
     "x": -2591.49,
     "y": 170.493,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 301,
+    "server_id": 31,
+    "type": "business",
+    "name": "Лотерейная",
+    "owner": "Boris_Brytva",
+    "status": "Занято",
+    "x": 1288.7,
+    "y": 271.232,
     "price": 0,
     "district": "Сан-Андреас"
   },
