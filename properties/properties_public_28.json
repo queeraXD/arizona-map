@@ -2412,6 +2412,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 201,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дiм Mr.Monza",
+    "owner": "Monza_Manson",
+    "status": "Занято",
+    "x": 1536.32,
+    "y": -884.789,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 202,
     "server_id": 28,
     "type": "house",
@@ -11828,18 +11840,6 @@
     "status": "Занято",
     "x": 2509.33,
     "y": 11.0761,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 988,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Angel_Pine",
-    "status": "Занято",
-    "x": 2446.82,
-    "y": 18.8796,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22356,27 +22356,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 201,
+    "id": 988,
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Mister_Sheldon",
+    "owner": "Angel_Pine",
     "status": "Аукцион",
-    "x": 1536.32,
-    "y": -884.789,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 28,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Travis_Viper",
-    "status": "Аукцион",
-    "x": -2373.8,
-    "y": 910.117,
-    "price": 240000,
+    "x": 2446.82,
+    "y": 18.8796,
+    "price": 6500,
     "district": "Сан-Андреас"
   },
   {
@@ -23396,6 +23384,18 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 28,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Travis_Viper",
+    "status": "Занято",
+    "x": -2373.8,
+    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },
