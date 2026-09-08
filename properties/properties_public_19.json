@@ -5340,18 +5340,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 445,
-    "server_id": 19,
-    "type": "house",
-    "name": "Katsu House",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": 2439.9,
-    "y": -1010.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 446,
     "server_id": 19,
     "type": "house",
@@ -9060,18 +9048,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 756,
-    "server_id": 19,
-    "type": "house",
-    "name": "  D.  Seller",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": -2731.47,
-    "y": 723.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 757,
     "server_id": 19,
     "type": "house",
@@ -9488,18 +9464,6 @@
     "status": "Занято",
     "x": -2566.54,
     "y": 896.6409,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 792,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alvaro_Chigevarro",
-    "status": "Занято",
-    "x": -2540.21,
-    "y": 883.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13084,7 +13048,7 @@
     "server_id": 19,
     "type": "house",
     "name": "маненький house",
-    "owner": "Ilyasigma_Page",
+    "owner": "Misha_Ivanovich",
     "status": "Занято",
     "x": -2210.98,
     "y": 902.885,
@@ -19572,6 +19536,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1641,
+    "server_id": 19,
+    "type": "house",
+    "name": "SWAGSTEPA",
+    "owner": "Polina_Collins",
+    "status": "Занято",
+    "x": 1795.78,
+    "y": 2800.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1642,
     "server_id": 19,
     "type": "house",
@@ -19588,7 +19564,7 @@
     "server_id": 19,
     "type": "house",
     "name": "UnderPivo Sqd",
-    "owner": "Ilyasigma_Page",
+    "owner": "Hiroto_Page",
     "status": "Занято",
     "x": 1796.79,
     "y": 2861.59,
@@ -19744,7 +19720,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Хижина Физика",
-    "owner": "Buba_Blue",
+    "owner": "Hiroto_Page",
     "status": "Занято",
     "x": 1896.52,
     "y": 2806.93,
@@ -19784,6 +19760,30 @@
     "status": "Занято",
     "x": 1897.06,
     "y": 2807.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1660,
+    "server_id": 19,
+    "type": "house",
+    "name": "Квартира You_One",
+    "owner": "Alokky_Miertov",
+    "status": "Занято",
+    "x": 1881.98,
+    "y": 2792.36,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1661,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Janclod_VanalDam",
+    "status": "Занято",
+    "x": 1879.96,
+    "y": 2790.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20176,7 +20176,7 @@
     "server_id": 19,
     "type": "house",
     "name": "drun house #2",
-    "owner": "God_Complex",
+    "owner": "Seledka_Karpunin",
     "status": "Занято",
     "x": 2492.25,
     "y": -1417.66,
@@ -21876,6 +21876,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 445,
+    "server_id": 19,
+    "type": "house",
+    "name": "Katsu House",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2439.9,
+    "y": -1010.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 756,
+    "server_id": 19,
+    "type": "house",
+    "name": "  D.  Seller",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2731.47,
+    "y": 723.703,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 597,
     "server_id": 19,
     "type": "house",
@@ -21885,6 +21909,18 @@
     "x": -1450.71,
     "y": 2691.05,
     "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 792,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alvaro_Chigevarro",
+    "status": "Аукцион",
+    "x": -2540.21,
+    "y": 883.2,
+    "price": 750,
     "district": "Сан-Андреас"
   },
   {
@@ -21981,42 +22017,6 @@
     "x": 1795.44,
     "y": 2755.79,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1641,
-    "server_id": 19,
-    "type": "house",
-    "name": "SWAGSTEPA",
-    "owner": "Kimmi_Toxiclamee",
-    "status": "Аукцион",
-    "x": 1795.78,
-    "y": 2800.82,
-    "price": 25,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1660,
-    "server_id": 19,
-    "type": "house",
-    "name": "Квартира You_One",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 1881.98,
-    "y": 2792.36,
-    "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1661,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 1879.96,
-    "y": 2790.31,
-    "price": 150,
     "district": "Сан-Андреас"
   },
   {

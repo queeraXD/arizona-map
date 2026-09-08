@@ -7611,7 +7611,7 @@
     "id": 636,
     "server_id": 28,
     "type": "house",
-    "name": "топ дом",
+    "name": "Блядское логово",
     "owner": "For_Died",
     "status": "Занято",
     "x": -360.4819,
@@ -11823,8 +11823,8 @@
     "id": 988,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
-    "owner": "Angel_Pine",
+    "name": "Блядское логово",
+    "owner": "For_Died",
     "status": "Занято",
     "x": 2446.82,
     "y": 18.8796,
@@ -22368,6 +22368,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 350,
+    "server_id": 28,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Travis_Viper",
+    "status": "Аукцион",
+    "x": -2373.8,
+    "y": 910.117,
+    "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 28,
     "type": "business",
@@ -23384,18 +23396,6 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 28,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": -2373.8,
-    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },

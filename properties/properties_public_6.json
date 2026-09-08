@@ -8440,7 +8440,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Хата на Тата",
-    "owner": "Judas_Saint",
+    "owner": "Dino_Dino",
     "status": "Занято",
     "x": 1515.82,
     "y": 2610.19,
@@ -14004,18 +14004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1168,
-    "server_id": 6,
-    "type": "house",
-    "name": "Matadora Fam",
-    "owner": "Romka_Aksionov",
-    "status": "Занято",
-    "x": -2790.25,
-    "y": -111.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1169,
     "server_id": 6,
     "type": "house",
@@ -15656,18 +15644,6 @@
     "status": "Занято",
     "x": -2593.21,
     "y": 883.3369,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1308,
-    "server_id": 6,
-    "type": "house",
-    "name": "Douglas House",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": -2593.42,
-    "y": 874.4949,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24468,6 +24444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1168,
+    "server_id": 6,
+    "type": "house",
+    "name": "Matadora Fam",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2790.25,
+    "y": -111.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 158,
     "server_id": 6,
     "type": "house",
@@ -24504,6 +24492,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1308,
+    "server_id": 6,
+    "type": "house",
+    "name": "Douglas House",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": -2593.42,
+    "y": 874.4949,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1853,
     "server_id": 6,
     "type": "house",
@@ -24525,6 +24525,30 @@
     "x": 1812.92,
     "y": 2820.54,
     "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 181,
+    "server_id": 6,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Mottoi_Cannon",
+    "status": "Аукцион",
+    "x": 2029.71,
+    "y": 986.64,
+    "price": 128000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 195,
+    "server_id": 6,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Mottoi_Cannon",
+    "status": "Аукцион",
+    "x": -1548.81,
+    "y": 673.91,
+    "price": 128000,
     "district": "Сан-Андреас"
   },
   {
@@ -27336,18 +27360,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 181,
-    "server_id": 6,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Mottoi_Cannon",
-    "status": "Занято",
-    "x": 2029.71,
-    "y": 986.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 182,
     "server_id": 6,
     "type": "business",
@@ -27500,18 +27512,6 @@
     "status": "Занято",
     "x": -2022.61,
     "y": 459.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 195,
-    "server_id": 6,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Mottoi_Cannon",
-    "status": "Занято",
-    "x": -1548.81,
-    "y": 673.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
