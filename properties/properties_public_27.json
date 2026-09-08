@@ -3696,18 +3696,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 309,
-    "server_id": 27,
-    "type": "house",
-    "name": "Домик в Деревне",
-    "owner": "Sila_Repa",
-    "status": "Занято",
-    "x": 260.441,
-    "y": -303.1679,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 310,
     "server_id": 27,
     "type": "house",
@@ -4220,18 +4208,6 @@
     "status": "Занято",
     "x": 1290.98,
     "y": -896.9199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 353,
-    "server_id": 27,
-    "type": "house",
-    "name": "хата павло",
-    "owner": "Pavlo_Romero",
-    "status": "Занято",
-    "x": 1283.53,
-    "y": -897.827,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24465,6 +24441,30 @@
     "x": 2480.55,
     "y": 126.995,
     "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 309,
+    "server_id": 27,
+    "type": "house",
+    "name": "Домик в Деревне",
+    "owner": "Sila_Repa",
+    "status": "Аукцион",
+    "x": 260.441,
+    "y": -303.1679,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 353,
+    "server_id": 27,
+    "type": "house",
+    "name": "хата павло",
+    "owner": "Pavlo_Romero",
+    "status": "Аукцион",
+    "x": 1283.53,
+    "y": -897.827,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {

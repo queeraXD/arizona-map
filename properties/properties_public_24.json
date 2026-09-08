@@ -3444,18 +3444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 294,
-    "server_id": 24,
-    "type": "house",
-    "name": "Oldman",
-    "owner": "Pika_Shu",
-    "status": "Занято",
-    "x": 2347.94,
-    "y": -1202.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 295,
     "server_id": 24,
     "type": "house",
@@ -6312,18 +6300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 540,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pika_Shu",
-    "status": "Занято",
-    "x": 2017.82,
-    "y": 2663.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 541,
     "server_id": 24,
     "type": "house",
@@ -8156,18 +8132,6 @@
     "status": "Занято",
     "x": 1316.23,
     "y": 2524.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 694,
-    "server_id": 24,
-    "type": "house",
-    "name": "pirat home ",
-    "owner": "Artem_Pirat",
-    "status": "Занято",
-    "x": 1325.5,
-    "y": 2567.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21780,6 +21744,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 294,
+    "server_id": 24,
+    "type": "house",
+    "name": "Oldman",
+    "owner": "Pika_Shu",
+    "status": "Аукцион",
+    "x": 2347.94,
+    "y": -1202.84,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 361,
     "server_id": 24,
     "type": "house",
@@ -21861,6 +21837,30 @@
     "x": 2438.82,
     "y": -54.6911,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 540,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pika_Shu",
+    "status": "Аукцион",
+    "x": 2017.82,
+    "y": 2663.33,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 694,
+    "server_id": 24,
+    "type": "house",
+    "name": "pirat home ",
+    "owner": "Artem_Pirat",
+    "status": "Аукцион",
+    "x": 1325.5,
+    "y": 2567.57,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
