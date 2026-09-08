@@ -96,18 +96,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 8,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sheldon_Rockstar",
-    "status": "Занято",
-    "x": 2023.29,
-    "y": -1053.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 9,
     "server_id": 15,
     "type": "house",
@@ -116,18 +104,6 @@
     "status": "Занято",
     "x": 2036.07,
     "y": -1059.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 10,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sheldon_Rockstar",
-    "status": "Занято",
-    "x": 2050.88,
-    "y": -1065.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -1908,18 +1884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 159,
-    "server_id": 15,
-    "type": "house",
-    "name": "TRB Empire",
-    "owner": "Sheldon_Rockstar",
-    "status": "Занято",
-    "x": 1196.02,
-    "y": -1017.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 160,
     "server_id": 15,
     "type": "house",
@@ -2756,18 +2720,6 @@
     "status": "Занято",
     "x": 699.8419,
     "y": -1059.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 230,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sheldon_Rockstar",
-    "status": "Занято",
-    "x": 648.1329,
-    "y": -1058.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17364,18 +17316,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1449,
-    "server_id": 15,
-    "type": "house",
-    "name": "$ ROCKSTAR $",
-    "owner": "Sheldon_Rockstar",
-    "status": "Занято",
-    "x": 580.585,
-    "y": -1149.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1450,
     "server_id": 15,
     "type": "house",
@@ -21312,6 +21252,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 8,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sheldon_Rockstar",
+    "status": "Аукцион",
+    "x": 2023.29,
+    "y": -1053.16,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 10,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sheldon_Rockstar",
+    "status": "Аукцион",
+    "x": 2050.88,
+    "y": -1065.7,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 159,
+    "server_id": 15,
+    "type": "house",
+    "name": "TRB Empire",
+    "owner": "Sheldon_Rockstar",
+    "status": "Аукцион",
+    "x": 1196.02,
+    "y": -1017.04,
+    "price": 5500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 230,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sheldon_Rockstar",
+    "status": "Аукцион",
+    "x": 648.1329,
+    "y": -1058.27,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 959,
     "server_id": 15,
     "type": "house",
@@ -21321,6 +21309,18 @@
     "x": -2158.75,
     "y": 786.197,
     "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1449,
+    "server_id": 15,
+    "type": "house",
+    "name": "$ ROCKSTAR $",
+    "owner": "Sheldon_Rockstar",
+    "status": "Аукцион",
+    "x": 580.585,
+    "y": -1149.73,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {
@@ -21336,15 +21336,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 193,
+    "id": 207,
     "server_id": 15,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Artemchik_Vasilenk",
+    "owner": "Boba_McCloud",
     "status": "Аукцион",
-    "x": 2405.02,
-    "y": -1933.97,
-    "price": 84999,
+    "x": 196.119,
+    "y": -116.76,
+    "price": 69000,
     "district": "Сан-Андреас"
   },
   {
@@ -24288,6 +24288,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 193,
+    "server_id": 15,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Matviy_Barsuk",
+    "status": "Занято",
+    "x": 2405.02,
+    "y": -1933.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 194,
     "server_id": 15,
     "type": "business",
@@ -24440,18 +24452,6 @@
     "status": "Занято",
     "x": 1381.1,
     "y": -1805.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 207,
-    "server_id": 15,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Boba_McCloud",
-    "status": "Занято",
-    "x": 196.119,
-    "y": -116.76,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -6516,6 +6516,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 544,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Artem_Kavay",
+    "status": "Занято",
+    "x": 1921.69,
+    "y": 2664.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 545,
     "server_id": 7,
     "type": "house",
@@ -8148,18 +8160,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 681,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Wistful_Gloaming",
-    "status": "Занято",
-    "x": 985.354,
-    "y": 2343.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 682,
     "server_id": 7,
     "type": "house",
@@ -8168,18 +8168,6 @@
     "status": "Занято",
     "x": 1032.54,
     "y": 2316.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 683,
-    "server_id": 7,
-    "type": "house",
-    "name": "Hurakancik",
-    "owner": "Wistful_Gloaming",
-    "status": "Занято",
-    "x": 986.117,
-    "y": 2314.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17268,18 +17256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1445,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nox_Nostra",
-    "status": "Занято",
-    "x": 648.8599,
-    "y": -1536.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1446,
     "server_id": 7,
     "type": "house",
@@ -20784,30 +20760,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1738,
-    "server_id": 7,
-    "type": "house",
-    "name": ":uf224: КОСМОДЕМЬЯНСК !",
-    "owner": "Aleksandr_Blackwoode",
-    "status": "Занято",
-    "x": 701.5209,
-    "y": 1003.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1739,
-    "server_id": 7,
-    "type": "house",
-    "name": ":uf224: Дом Вандама",
-    "owner": "Aleksandr_Blackwoode",
-    "status": "Занято",
-    "x": 724.58,
-    "y": 990.526,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1740,
     "server_id": 7,
     "type": "house",
@@ -22599,7 +22551,7 @@
     "id": 1892,
     "server_id": 7,
     "type": "house",
-    "name": "Aiden",
+    "name": "Swede fm.",
     "owner": "Alexandr_Swede",
     "status": "Занято",
     "x": 2666.48,
@@ -25440,15 +25392,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 544,
+    "id": 681,
     "server_id": 7,
     "type": "house",
     "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
+    "owner": "Wistful_Gloaming",
     "status": "Аукцион",
-    "x": 1921.69,
-    "y": 2664.64,
-    "price": 1,
+    "x": 985.354,
+    "y": 2343.7,
+    "price": 35000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 683,
+    "server_id": 7,
+    "type": "house",
+    "name": "Hurakancik",
+    "owner": "Wistful_Gloaming",
+    "status": "Аукцион",
+    "x": 986.117,
+    "y": 2314.1,
+    "price": 35000,
     "district": "Сан-Андреас"
   },
   {
@@ -25497,6 +25461,42 @@
     "x": -2286.55,
     "y": 796.755,
     "price": 35000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1445,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nox_Nostra",
+    "status": "Аукцион",
+    "x": 648.8599,
+    "y": -1536.72,
+    "price": 100000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1738,
+    "server_id": 7,
+    "type": "house",
+    "name": ":uf224: Salamanco Mafia ll M. R",
+    "owner": "Morgan_Rogers",
+    "status": "Аукцион",
+    "x": 701.5209,
+    "y": 1003.51,
+    "price": 315000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1739,
+    "server_id": 7,
+    "type": "house",
+    "name": ":uf224: Salamanco Mafia ll M. R",
+    "owner": "Morgan_Rogers",
+    "status": "Аукцион",
+    "x": 724.58,
+    "y": 990.526,
+    "price": 315000,
     "district": "Сан-Андреас"
   },
   {
@@ -28648,7 +28648,7 @@
     "server_id": 7,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Morgan_Rogers",
+    "owner": "Aleksandr_Blackwoode",
     "status": "Занято",
     "x": 1136.92,
     "y": -1750.19,
@@ -28660,7 +28660,7 @@
     "server_id": 7,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Morgan_Rogers",
+    "owner": "Aleksandr_Blackwoode",
     "status": "Занято",
     "x": 1381.1,
     "y": -1805.03,

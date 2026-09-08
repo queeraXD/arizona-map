@@ -8535,8 +8535,8 @@
     "id": 712,
     "server_id": 12,
     "type": "house",
-    "name": "Indulgence Squad",
-    "owner": "Leonid_Odessit",
+    "name": "Dynasty",
+    "owner": "Victoria_Nekrasova",
     "status": "Занято",
     "x": 1573.09,
     "y": 2658.39,
@@ -10011,8 +10011,8 @@
     "id": 835,
     "server_id": 12,
     "type": "house",
-    "name": "Ферма 2",
-    "owner": "Leonid_Odessit",
+    "name": "дом олежи моноброви",
+    "owner": "Olezha_Monopoly",
     "status": "Занято",
     "x": -2281.59,
     "y": 873.2329,
@@ -10316,18 +10316,6 @@
     "status": "Занято",
     "x": -1431.76,
     "y": -952.3989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 861,
-    "server_id": 12,
-    "type": "house",
-    "name": "Indulgence Squad",
-    "owner": "Musor_Drop",
-    "status": "Занято",
-    "x": -218.123,
-    "y": 2481.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11688,18 +11676,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 975,
-    "server_id": 12,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Oleg_Pivassik",
-    "status": "Занято",
-    "x": -2464.03,
-    "y": 2486.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 976,
     "server_id": 12,
     "type": "house",
@@ -12147,7 +12123,7 @@
     "id": 1013,
     "server_id": 12,
     "type": "house",
-    "name": "Домик Вики и Паши",
+    "name": "///",
     "owner": "Victoria_Nekrasova",
     "status": "Занято",
     "x": -2506.37,
@@ -18768,18 +18744,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1566,
-    "server_id": 12,
-    "type": "house",
-    "name": "Indulgence Squad",
-    "owner": "Musor_Drop",
-    "status": "Занято",
-    "x": 1989.12,
-    "y": 2665.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1567,
     "server_id": 12,
     "type": "house",
@@ -23796,6 +23760,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 861,
+    "server_id": 12,
+    "type": "house",
+    "name": "Indulgence Squad",
+    "owner": "Musor_Drop",
+    "status": "Аукцион",
+    "x": -218.123,
+    "y": 2481.23,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 975,
+    "server_id": 12,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Oleg_Pivassik",
+    "status": "Аукцион",
+    "x": -2464.03,
+    "y": 2486.08,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1227,
     "server_id": 12,
     "type": "house",
@@ -23805,6 +23793,18 @@
     "x": -2904.81,
     "y": 1111.64,
     "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1566,
+    "server_id": 12,
+    "type": "house",
+    "name": "Indulgence Squad",
+    "owner": "Musor_Drop",
+    "status": "Аукцион",
+    "x": 1989.12,
+    "y": 2665.2,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -23828,7 +23828,7 @@
     "status": "Аукцион",
     "x": 242.897,
     "y": -178.385,
-    "price": 600000,
+    "price": 550000,
     "district": "Сан-Андреас"
   },
   {
