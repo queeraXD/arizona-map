@@ -9891,8 +9891,8 @@
     "id": 825,
     "server_id": 3,
     "type": "house",
-    "name": "Вул. Лесі Українки 2",
-    "owner": "Maloi_Boy",
+    "name": "Бродяги",
+    "owner": "Aleksander_Hpen",
     "status": "Занято",
     "x": -2689.47,
     "y": -101.777,
@@ -20340,30 +20340,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1701,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": 2072.27,
-    "y": -1551.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1702,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": 2072.5,
-    "y": -1559.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1703,
     "server_id": 3,
     "type": "house",
@@ -24012,15 +23988,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 116,
+    "id": 1701,
     "server_id": 3,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Ray_Rasta",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Grafi_Kus",
     "status": "Аукцион",
-    "x": -2163.47,
-    "y": 129.382,
-    "price": 500000,
+    "x": 2072.27,
+    "y": -1551.22,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1702,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Grafi_Kus",
+    "status": "Аукцион",
+    "x": 2072.5,
+    "y": -1559.31,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -24032,18 +24020,6 @@
     "status": "Аукцион",
     "x": 2405.02,
     "y": -1933.97,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 271,
-    "server_id": 3,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Big_Brr",
-    "status": "Аукцион",
-    "x": -1912.17,
-    "y": 827.954,
     "price": 150000,
     "district": "Сан-Андреас"
   },
@@ -24140,6 +24116,18 @@
     "status": "Занято",
     "x": -2625.72,
     "y": 209.242,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 116,
+    "server_id": 3,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Ray_Rasta",
+    "status": "Занято",
+    "x": -2163.47,
+    "y": 129.382,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26060,6 +26048,18 @@
     "status": "Занято",
     "x": -53.8409,
     "y": 1189.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 271,
+    "server_id": 3,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Big_Brr",
+    "status": "Занято",
+    "x": -1912.17,
+    "y": 827.954,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -2832,6 +2832,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 236,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pavel_Spitsyn",
+    "status": "Занято",
+    "x": 559.1019,
+    "y": -1076.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 237,
     "server_id": 28,
     "type": "house",
@@ -9624,18 +9636,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 804,
-    "server_id": 28,
-    "type": "house",
-    "name": "Американская мечта",
-    "owner": "Mister_Sheldon",
-    "status": "Занято",
-    "x": -2791.84,
-    "y": 218.639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 805,
     "server_id": 28,
     "type": "house",
@@ -12180,18 +12180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1018,
-    "server_id": 28,
-    "type": "house",
-    "name": "house444",
-    "owner": "Ali_Asik",
-    "status": "Занято",
-    "x": -2541.3,
-    "y": 987.9089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1019,
     "server_id": 28,
     "type": "house",
@@ -12488,18 +12476,6 @@
     "status": "Занято",
     "x": -1761.0,
     "y": 1174.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1044,
-    "server_id": 28,
-    "type": "house",
-    "name": "яйца",
-    "owner": "Kosynoki_Rambery",
-    "status": "Занято",
-    "x": -1780.35,
-    "y": 1138.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22344,18 +22320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 236,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pavel_Spitsyn",
-    "status": "Аукцион",
-    "x": 559.1019,
-    "y": -1076.19,
-    "price": 15000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 351,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22329,42 @@
     "x": 1283.53,
     "y": -897.7899,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 804,
+    "server_id": 28,
+    "type": "house",
+    "name": "Американская мечта",
+    "owner": "Mister_Sheldon",
+    "status": "Аукцион",
+    "x": -2791.84,
+    "y": 218.639,
+    "price": 1250,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1018,
+    "server_id": 28,
+    "type": "house",
+    "name": "house444",
+    "owner": "Ali_Asik",
+    "status": "Аукцион",
+    "x": -2541.3,
+    "y": 987.9089,
+    "price": 2900,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1044,
+    "server_id": 28,
+    "type": "house",
+    "name": "яйца",
+    "owner": "Kosynoki_Rambery",
+    "status": "Аукцион",
+    "x": -1780.35,
+    "y": 1138.77,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {

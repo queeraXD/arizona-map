@@ -6156,18 +6156,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 513,
-    "server_id": 29,
-    "type": "house",
-    "name": "Matthew House",
-    "owner": "Konstantin_Pinko",
-    "status": "Занято",
-    "x": 1548.62,
-    "y": 2125.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 514,
     "server_id": 29,
     "type": "house",
@@ -10908,18 +10896,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 909,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Konstantin_Pinko",
-    "status": "Занято",
-    "x": -2168.8,
-    "y": 796.5159,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 910,
     "server_id": 29,
     "type": "house",
@@ -11192,18 +11168,6 @@
     "status": "Занято",
     "x": -2017.94,
     "y": 970.2399,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 933,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Konstantin_Pinko",
-    "status": "Занято",
-    "x": -2094.28,
-    "y": 745.752,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14388,18 +14352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1199,
-    "server_id": 29,
-    "type": "house",
-    "name": "pes family",
-    "owner": "Sergey_Murena",
-    "status": "Занято",
-    "x": -2793.14,
-    "y": 110.911,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1200,
     "server_id": 29,
     "type": "house",
@@ -14444,18 +14396,6 @@
     "status": "Занято",
     "x": -2791.92,
     "y": 194.5769,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1204,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Konstantin_Pinko",
-    "status": "Занято",
-    "x": -2791.59,
-    "y": 200.561,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21132,15 +21072,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 102,
+    "id": 513,
     "server_id": 29,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Paccyk_Onyx",
+    "type": "house",
+    "name": "Matthew House",
+    "owner": "Konstantin_Pinko",
     "status": "Аукцион",
-    "x": -1735.96,
-    "y": 897.68,
-    "price": 200000,
+    "x": 1548.62,
+    "y": 2125.54,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 909,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Konstantin_Pinko",
+    "status": "Аукцион",
+    "x": -2168.8,
+    "y": 796.5159,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 933,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Konstantin_Pinko",
+    "status": "Аукцион",
+    "x": -2094.28,
+    "y": 745.752,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1199,
+    "server_id": 29,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Sergey_Murena",
+    "status": "Аукцион",
+    "x": -2793.14,
+    "y": 110.911,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1204,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Konstantin_Pinko",
+    "status": "Аукцион",
+    "x": -2791.59,
+    "y": 200.561,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -21872,6 +21860,18 @@
     "status": "Занято",
     "x": -2242.28,
     "y": -170.898,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 102,
+    "server_id": 29,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Paccyk_Onyx",
+    "status": "Занято",
+    "x": -1735.96,
+    "y": 897.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
