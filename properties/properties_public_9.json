@@ -7164,18 +7164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 597,
-    "server_id": 9,
-    "type": "house",
-    "name": "Для Бомжиков",
-    "owner": "Mihail_Filonov",
-    "status": "Занято",
-    "x": -1450.71,
-    "y": 2691.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 598,
     "server_id": 9,
     "type": "house",
@@ -8816,18 +8804,6 @@
     "status": "Занято",
     "x": -2904.37,
     "y": 1118.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 735,
-    "server_id": 9,
-    "type": "house",
-    "name": "16видюх 7-8лвл",
-    "owner": "Klaneb_Serik",
-    "status": "Занято",
-    "x": -2900.72,
-    "y": 1067.02,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22816,7 +22792,7 @@
     "server_id": 9,
     "type": "house",
     "name": "tg-@korolevgood",
-    "owner": "Olga_Tramp",
+    "owner": "Larry_Tramp",
     "status": "Занято",
     "x": 2468.24,
     "y": -1417.45,
@@ -23928,15 +23904,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 249,
+    "id": 597,
     "server_id": 9,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Balagan_Quartz",
+    "type": "house",
+    "name": "Для Бомжиков",
+    "owner": "Mihail_Filonov",
     "status": "Аукцион",
-    "x": 111.076,
-    "y": -1782.68,
-    "price": 145000,
+    "x": -1450.71,
+    "y": 2691.05,
+    "price": 32000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 735,
+    "server_id": 9,
+    "type": "house",
+    "name": "16видюх 7-8лвл",
+    "owner": "Klaneb_Serik",
+    "status": "Аукцион",
+    "x": -2900.72,
+    "y": 1067.02,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
@@ -25340,6 +25328,18 @@
     "status": "Занято",
     "x": 2637.25,
     "y": 1129.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 249,
+    "server_id": 9,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Balagan_Quartz",
+    "status": "Занято",
+    "x": 111.076,
+    "y": -1782.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
