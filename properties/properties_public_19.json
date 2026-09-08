@@ -9065,10 +9065,10 @@
     "type": "house",
     "name": "  D.  Seller",
     "owner": "Eugene_Macedonsky",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2731.47,
     "y": 723.703,
-    "price": 500,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -9488,6 +9488,18 @@
     "status": "Занято",
     "x": -2566.54,
     "y": 896.6409,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 792,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alvaro_Chigevarro",
+    "status": "Занято",
+    "x": -2540.21,
+    "y": 883.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20436,18 +20448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1714,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": 1414.7,
-    "y": 2026.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1715,
     "server_id": 19,
     "type": "house",
@@ -21936,18 +21936,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 792,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2540.21,
-    "y": 883.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 597,
     "server_id": 19,
     "type": "house",
@@ -22052,6 +22040,18 @@
     "status": "Аукцион",
     "x": 1832.59,
     "y": 2742.84,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1714,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": 1414.7,
+    "y": 2026.98,
     "price": 1000,
     "district": "Сан-Андреас"
   },
