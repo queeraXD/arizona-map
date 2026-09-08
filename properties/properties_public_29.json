@@ -10224,18 +10224,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 853,
-    "server_id": 29,
-    "type": "house",
-    "name": "Graviano La Elite",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2102.68,
-    "y": 1160.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 854,
     "server_id": 29,
     "type": "house",
@@ -15735,8 +15723,8 @@
     "id": 1317,
     "server_id": 29,
     "type": "house",
-    "name": "Монополия домиков Джонни",
-    "owner": "Nikolaj_Peulja",
+    "name": "Монополия Энди",
+    "owner": "AndyAndy_We",
     "status": "Занято",
     "x": -68.7052,
     "y": -1545.73,
@@ -19908,18 +19896,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1665,
-    "server_id": 29,
-    "type": "house",
-    "name": "Belucchi House / Деп условия",
-    "owner": "Ashot_NewLight",
-    "status": "Занято",
-    "x": 2476.39,
-    "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1666,
     "server_id": 29,
     "type": "house",
@@ -20083,18 +20059,6 @@
     "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": 2492.06,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1680,
-    "server_id": 29,
-    "type": "house",
-    "name": "darkness ebt!",
-    "owner": "Ashot_NewLight",
-    "status": "Занято",
-    "x": 2487.31,
     "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21084,6 +21048,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 853,
+    "server_id": 29,
+    "type": "house",
+    "name": "Graviano La Elite",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2102.68,
+    "y": 1160.96,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 909,
     "server_id": 29,
     "type": "house",
@@ -21129,6 +21105,30 @@
     "x": -2791.59,
     "y": 200.561,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1665,
+    "server_id": 29,
+    "type": "house",
+    "name": "Belucchi House / Деп условия",
+    "owner": "Ashot_NewLight",
+    "status": "Аукцион",
+    "x": 2476.39,
+    "y": -1366.2,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1680,
+    "server_id": 29,
+    "type": "house",
+    "name": "darkness ebt!",
+    "owner": "Ashot_NewLight",
+    "status": "Аукцион",
+    "x": 2487.31,
+    "y": -1391.71,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
@@ -24184,7 +24184,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "[32]Implored_Space",
+    "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": 1771.74,
     "y": -1903.27,
