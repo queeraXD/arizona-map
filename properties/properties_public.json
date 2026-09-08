@@ -2748,6 +2748,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 230,
+    "server_id": 33,
+    "type": "house",
+    "name": "gradus",
+    "owner": "Visokiy_Gradus",
+    "status": "Занято",
+    "x": 648.1329,
+    "y": -1058.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 231,
     "server_id": 33,
     "type": "house",
@@ -7419,7 +7431,7 @@
     "id": 623,
     "server_id": 33,
     "type": "house",
-    "name": "happa",
+    "name": "БОРЯ ОДИНОКИЙ",
     "owner": "Boris_Fermerov",
     "status": "Занято",
     "x": -1499.93,
@@ -11860,7 +11872,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Amerigo_Dempsey",
+    "owner": "Minato_Suzuki",
     "status": "Занято",
     "x": -2358.71,
     "y": 796.9899,
@@ -12116,6 +12128,18 @@
     "status": "Занято",
     "x": -2563.4,
     "y": 1148.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1018,
+    "server_id": 33,
+    "type": "house",
+    "name": "чёткий дом",
+    "owner": "Saddam_Hussein",
+    "status": "Занято",
+    "x": -2541.3,
+    "y": 987.9089,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12884,6 +12908,18 @@
     "status": "Занято",
     "x": -2844.09,
     "y": 914.401,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1085,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kolyanx_Reebok",
+    "status": "Занято",
+    "x": 1780.95,
+    "y": 2744.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14655,8 +14691,8 @@
     "id": 1233,
     "server_id": 33,
     "type": "house",
-    "name": "drey FAM",
-    "owner": "Vladimir_Drey",
+    "name": "Home House",
+    "owner": "Home_Home",
     "status": "Занято",
     "x": -2433.05,
     "y": 1301.24,
@@ -15944,6 +15980,18 @@
     "status": "Занято",
     "x": 2469.18,
     "y": -1278.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1341,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Timosha_Galosha",
+    "status": "Занято",
+    "x": 2470.37,
+    "y": -1295.48,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17488,7 +17536,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Amerigo_Dempsey",
+    "owner": "Osama_BenLaden",
     "status": "Занято",
     "x": 929.5219,
     "y": 2343.43,
@@ -22332,18 +22380,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 230,
-    "server_id": 33,
-    "type": "house",
-    "name": "hugo solo",
-    "owner": "Saddam_Hussein",
-    "status": "Аукцион",
-    "x": 648.1329,
-    "y": -1058.27,
-    "price": 10002,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 550,
     "server_id": 33,
     "type": "house",
@@ -22368,18 +22404,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1018,
-    "server_id": 33,
-    "type": "house",
-    "name": "чёткий дом",
-    "owner": "Saddam_Hussein",
-    "status": "Аукцион",
-    "x": -2541.3,
-    "y": 987.9089,
-    "price": 3502,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1060,
     "server_id": 33,
     "type": "house",
@@ -22401,30 +22425,6 @@
     "x": -2887.9,
     "y": 1002.04,
     "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1085,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kolyanx_Reebok",
-    "status": "Аукцион",
-    "x": 1780.95,
-    "y": 2744.99,
-    "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1341,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Timosha_Galosha",
-    "status": "Аукцион",
-    "x": 2470.37,
-    "y": -1295.48,
-    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -24160,7 +24160,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Mate_Wolf",
+    "owner": "Sweet_Dream",
     "status": "Занято",
     "x": 2105.21,
     "y": -1806.49,
@@ -25660,7 +25660,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Eazy_Reyes",
+    "owner": "Pappa_Happa",
     "status": "Занято",
     "x": 1976.18,
     "y": -1980.19,

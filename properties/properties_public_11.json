@@ -876,18 +876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 73,
-    "server_id": 11,
-    "type": "house",
-    "name": "Staff House",
-    "owner": "Kostik_Podpal",
-    "status": "Занято",
-    "x": 2402.54,
-    "y": -1714.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 74,
     "server_id": 11,
     "type": "house",
@@ -3776,18 +3764,6 @@
     "status": "Занято",
     "x": 1954.5,
     "y": -1074.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 315,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "NeBarbie_Monopoly",
-    "status": "Занято",
-    "x": 1959.61,
-    "y": -1069.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7376,18 +7352,6 @@
     "status": "Занято",
     "x": -884.163,
     "y": 1553.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 615,
-    "server_id": 11,
-    "type": "house",
-    "name": "RnBclub / dep usloviya",
-    "owner": "Gas_Station",
-    "status": "Занято",
-    "x": -905.638,
-    "y": 1543.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18348,18 +18312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1547,
-    "server_id": 11,
-    "type": "house",
-    "name": "RnBclub / деп условия",
-    "owner": "Gas_Station",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 613.9799,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1548,
     "server_id": 11,
     "type": "house",
@@ -19076,18 +19028,6 @@
     "status": "Занято",
     "x": 2044.69,
     "y": -991.3189,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1608,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "NeBarbie_Monopoly",
-    "status": "Занято",
-    "x": 2049.19,
-    "y": -987.276,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21900,18 +21840,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1844,
-    "server_id": 11,
-    "type": "house",
-    "name": "Aleksees",
-    "owner": "Kostik_Podpal",
-    "status": "Занято",
-    "x": 1246.21,
-    "y": -908.981,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1845,
     "server_id": 11,
     "type": "house",
@@ -24528,6 +24456,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 73,
+    "server_id": 11,
+    "type": "house",
+    "name": "Staff House",
+    "owner": "Kostik_Podpal",
+    "status": "Аукцион",
+    "x": 2402.54,
+    "y": -1714.82,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "NeBarbie_Monopoly",
+    "status": "Аукцион",
+    "x": 1959.61,
+    "y": -1069.92,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 615,
+    "server_id": 11,
+    "type": "house",
+    "name": "RnBclub / dep usloviya",
+    "owner": "Gas_Station",
+    "status": "Аукцион",
+    "x": -905.638,
+    "y": 1543.5,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 670,
     "server_id": 11,
     "type": "house",
@@ -24600,6 +24564,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1547,
+    "server_id": 11,
+    "type": "house",
+    "name": "RnBclub / деп условия",
+    "owner": "Gas_Station",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 613.9799,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1608,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "NeBarbie_Monopoly",
+    "status": "Аукцион",
+    "x": 2049.19,
+    "y": -987.276,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1756,
     "server_id": 11,
     "type": "house",
@@ -24609,6 +24597,18 @@
     "x": 937.3469,
     "y": 1872.822,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1844,
+    "server_id": 11,
+    "type": "house",
+    "name": "Aleksees",
+    "owner": "Kostik_Podpal",
+    "status": "Аукцион",
+    "x": 1246.21,
+    "y": -908.981,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {

@@ -3756,18 +3756,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 314,
-    "server_id": 2,
-    "type": "house",
-    "name": "Helif-Mair I Skorpit",
-    "owner": "Hell_Light",
-    "status": "Занято",
-    "x": 1954.5,
-    "y": -1074.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 315,
     "server_id": 2,
     "type": "house",
@@ -23928,6 +23916,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 314,
+    "server_id": 2,
+    "type": "house",
+    "name": "Helif-Mair I Skorpit",
+    "owner": "Hell_Light",
+    "status": "Аукцион",
+    "x": 1954.5,
+    "y": -1074.88,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1382,
     "server_id": 2,
     "type": "house",
@@ -23961,18 +23961,6 @@
     "x": 1799.71,
     "y": 2814.92,
     "price": 20000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 250,
-    "server_id": 2,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Dmytrii_Markelov",
-    "status": "Аукцион",
-    "x": 2170.48,
-    "y": 542.934,
-    "price": 90000,
     "district": "Сан-Андреас"
   },
   {
@@ -25400,6 +25388,18 @@
     "status": "Занято",
     "x": 111.076,
     "y": -1782.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 250,
+    "server_id": 2,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Dmytrii_Markelov",
+    "status": "Занято",
+    "x": 2170.48,
+    "y": 542.934,
     "price": 0,
     "district": "Сан-Андреас"
   },
