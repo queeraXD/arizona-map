@@ -876,6 +876,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 73,
+    "server_id": 11,
+    "type": "house",
+    "name": "GOTOSQUAD DEATHBRIGADE",
+    "owner": "Foe_Goto",
+    "status": "Занято",
+    "x": 2402.54,
+    "y": -1714.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 74,
     "server_id": 11,
     "type": "house",
@@ -3740,6 +3752,18 @@
     "status": "Занято",
     "x": 1954.5,
     "y": -1074.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "NeBarbie_Monopoly",
+    "status": "Занято",
+    "x": 1959.61,
+    "y": -1069.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10980,30 +11004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 925,
-    "server_id": 11,
-    "type": "house",
-    "name": "монополия ТРОФИМЕНКО",
-    "owner": "valera_Monopoly",
-    "status": "Занято",
-    "x": -2029.88,
-    "y": 745.3209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 926,
-    "server_id": 11,
-    "type": "house",
-    "name": "War Thunder",
-    "owner": "valera_Monopoly",
-    "status": "Занято",
-    "x": -2307.24,
-    "y": 944.2639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 927,
     "server_id": 11,
     "type": "house",
@@ -14564,18 +14564,6 @@
     "status": "Занято",
     "x": -2383.14,
     "y": 1318.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1235,
-    "server_id": 11,
-    "type": "house",
-    "name": "МАЙНИНГ №1 +ДЕП",
-    "owner": "valera_Monopoly",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1299.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19020,6 +19008,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1608,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "NeBarbie_Monopoly",
+    "status": "Занято",
+    "x": 2049.19,
+    "y": -987.276,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1609,
     "server_id": 11,
     "type": "house",
@@ -21816,6 +21816,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1844,
+    "server_id": 11,
+    "type": "house",
+    "name": "Aleksees",
+    "owner": "Kot_Markelovani",
+    "status": "Занято",
+    "x": 1246.21,
+    "y": -908.981,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1845,
     "server_id": 11,
     "type": "house",
@@ -24468,18 +24480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 73,
-    "server_id": 11,
-    "type": "house",
-    "name": "Staff House",
-    "owner": "Kostik_Podpal",
-    "status": "Аукцион",
-    "x": 2402.54,
-    "y": -1714.82,
-    "price": 20000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 258,
     "server_id": 11,
     "type": "house",
@@ -24500,18 +24500,6 @@
     "status": "Аукцион",
     "x": 2194.16,
     "y": -1000.94,
-    "price": 4000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 315,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "NeBarbie_Monopoly",
-    "status": "Аукцион",
-    "x": 1959.61,
-    "y": -1069.92,
     "price": 4000,
     "district": "Сан-Андреас"
   },
@@ -24576,6 +24564,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 925,
+    "server_id": 11,
+    "type": "house",
+    "name": "монополия ТРОФИМЕНКО",
+    "owner": "valera_Monopoly",
+    "status": "Аукцион",
+    "x": -2029.88,
+    "y": 745.3209,
+    "price": 5500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 926,
+    "server_id": 11,
+    "type": "house",
+    "name": "War Thunder",
+    "owner": "valera_Monopoly",
+    "status": "Аукцион",
+    "x": -2307.24,
+    "y": 944.2639,
+    "price": 5500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1235,
+    "server_id": 11,
+    "type": "house",
+    "name": "МАЙНИНГ №1 +ДЕП",
+    "owner": "valera_Monopoly",
+    "status": "Аукцион",
+    "x": -2383.14,
+    "y": 1299.73,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1528,
     "server_id": 11,
     "type": "house",
@@ -24600,18 +24624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1608,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "NeBarbie_Monopoly",
-    "status": "Аукцион",
-    "x": 2049.19,
-    "y": -987.276,
-    "price": 4000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1673,
     "server_id": 11,
     "type": "house",
@@ -24633,18 +24645,6 @@
     "x": 937.3469,
     "y": 1872.822,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1844,
-    "server_id": 11,
-    "type": "house",
-    "name": "Aleksees",
-    "owner": "Kostik_Podpal",
-    "status": "Аукцион",
-    "x": 1246.21,
-    "y": -908.981,
-    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
