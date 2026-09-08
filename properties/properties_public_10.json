@@ -4944,6 +4944,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 412,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Занято",
+    "x": 1435.43,
+    "y": 334.625,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 413,
     "server_id": 10,
     "type": "house",
@@ -5360,18 +5372,6 @@
     "status": "Занято",
     "x": 2551.22,
     "y": -5.3846,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 449,
-    "server_id": 10,
-    "type": "house",
-    "name": "Eduardo House",
-    "owner": "Podpal_Dryn",
-    "status": "Занято",
-    "x": 2330.09,
-    "y": -1060.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5828,6 +5828,18 @@
     "status": "Занято",
     "x": 2094.08,
     "y": 774.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 488,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "CarI_Underground",
+    "status": "Занято",
+    "x": 2093.41,
+    "y": 730.4819,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12156,6 +12168,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1018,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Занято",
+    "x": -2541.3,
+    "y": 987.9089,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1019,
     "server_id": 10,
     "type": "house",
@@ -14840,18 +14864,6 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1281.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1243,
-    "server_id": 10,
-    "type": "house",
-    "name": "Шкаф бомжа",
-    "owner": "Waga_Keef",
-    "status": "Занято",
-    "x": -2351.14,
-    "y": 1263.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17672,18 +17684,6 @@
     "status": "Занято",
     "x": -2591.18,
     "y": 944.3229,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1479,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Podpal_Dryn",
-    "status": "Занято",
-    "x": -2591.17,
-    "y": 960.7509,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23292,15 +23292,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 412,
+    "id": 1243,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
-    "status": "Аукцион",
-    "x": 1435.43,
-    "y": 334.625,
-    "price": 500,
+    "name": "Шкаф бомжа",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2351.14,
+    "y": 1263.03,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23316,15 +23316,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 488,
+    "id": 449,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
+    "name": "Eduardo House",
+    "owner": "Podpal_Dryn",
     "status": "Аукцион",
-    "x": 2093.41,
-    "y": 730.4819,
-    "price": 1500,
+    "x": 2330.09,
+    "y": -1060.14,
+    "price": 200,
     "district": "Сан-Андреас"
   },
   {
@@ -23340,15 +23340,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1018,
+    "id": 1479,
     "server_id": 10,
     "type": "house",
     "name": "Дом",
-    "owner": "Michail_Shtyh",
+    "owner": "Podpal_Dryn",
     "status": "Аукцион",
-    "x": -2541.3,
-    "y": 987.9089,
-    "price": 1000,
+    "x": -2591.17,
+    "y": 960.7509,
+    "price": 200,
     "district": "Сан-Андреас"
   },
   {

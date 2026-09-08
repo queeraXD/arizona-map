@@ -4140,18 +4140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 345,
-    "server_id": 14,
-    "type": "house",
-    "name": "Overdose",
-    "owner": "Constellate_Tears",
-    "status": "Занято",
-    "x": 1245.81,
-    "y": -902.788,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 346,
     "server_id": 14,
     "type": "house",
@@ -6892,7 +6880,7 @@
     "server_id": 14,
     "type": "house",
     "name": "LiptonMining+ДепУсловия",
-    "owner": "Chif_Lin",
+    "owner": "Night_Sosiska",
     "status": "Занято",
     "x": -161.2409,
     "y": 2727.94,
@@ -6904,7 +6892,7 @@
     "server_id": 14,
     "type": "house",
     "name": "LiptonMining+ДепУсловия",
-    "owner": "Chif_Lin",
+    "owner": "Winter_Arc",
     "status": "Занято",
     "x": -155.673,
     "y": 2758.71,
@@ -6916,7 +6904,7 @@
     "server_id": 14,
     "type": "house",
     "name": "wayfs ",
-    "owner": "Chif_Lin",
+    "owner": "Crying_Smoking",
     "status": "Занято",
     "x": -165.173,
     "y": 2768.39,
@@ -11072,18 +11060,6 @@
     "status": "Занято",
     "x": -2280.46,
     "y": 1130.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 923,
-    "server_id": 14,
-    "type": "house",
-    "name": "Холостятская берлога",
-    "owner": "Influess_Death",
-    "status": "Занято",
-    "x": -2239.14,
-    "y": 1154.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23661,6 +23637,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 345,
+    "server_id": 14,
+    "type": "house",
+    "name": "Overdose",
+    "owner": "Constellate_Tears",
+    "status": "Аукцион",
+    "x": 1245.81,
+    "y": -902.788,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 923,
+    "server_id": 14,
+    "type": "house",
+    "name": "Холостятская берлога",
+    "owner": "Influess_Death",
+    "status": "Аукцион",
+    "x": -2239.14,
+    "y": 1154.01,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
