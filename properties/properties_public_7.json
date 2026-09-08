@@ -6036,18 +6036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 504,
-    "server_id": 7,
-    "type": "house",
-    "name": "BB Mesa",
-    "owner": "Dmiitry_Raus",
-    "status": "Занято",
-    "x": 1314.4,
-    "y": 1930.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 505,
     "server_id": 7,
     "type": "house",
@@ -9276,18 +9264,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 775,
-    "server_id": 7,
-    "type": "house",
-    "name": "BB Mesa",
-    "owner": "Dmiitry_Raus",
-    "status": "Занято",
-    "x": -2590.92,
-    "y": 819.7999,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 776,
     "server_id": 7,
     "type": "house",
@@ -10740,18 +10716,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 898,
-    "server_id": 7,
-    "type": "house",
-    "name": "Большая дача Панамеры и Ирониха",
-    "owner": "Gipopo_Tam",
-    "status": "Занято",
-    "x": -2472.49,
-    "y": 2451.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 899,
     "server_id": 7,
     "type": "house",
@@ -11132,6 +11096,18 @@
     "status": "Занято",
     "x": -2230.37,
     "y": 1027.94,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 931,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом бобра",
+    "owner": "Lupu_Pick",
+    "status": "Занято",
+    "x": -2282.16,
+    "y": 1046.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15067,18 +15043,6 @@
     "owner": "Nord_West",
     "status": "Занято",
     "x": -2303.39,
-    "y": 796.755,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1260,
-    "server_id": 7,
-    "type": "house",
-    "name": "BB Mesa",
-    "owner": "Dmiitry_Raus",
-    "status": "Занято",
-    "x": -2286.55,
     "y": 796.755,
     "price": 0,
     "district": "Сан-Андреас"
@@ -20964,18 +20928,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1751,
-    "server_id": 7,
-    "type": "house",
-    "name": "BB Mesa",
-    "owner": "Dmiitry_Raus",
-    "status": "Занято",
-    "x": 1408.23,
-    "y": 1996.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1752,
     "server_id": 7,
     "type": "house",
@@ -20984,18 +20936,6 @@
     "status": "Занято",
     "x": 1414.52,
     "y": 2003.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1753,
-    "server_id": 7,
-    "type": "house",
-    "name": "BB Mesa",
-    "owner": "Dmiitry_Raus",
-    "status": "Занято",
-    "x": 1414.49,
-    "y": 1996.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22832,18 +22772,6 @@
     "status": "Занято",
     "x": 524.914,
     "y": 1436.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1909,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Konstantin_Pinko",
-    "status": "Занято",
-    "x": 514.2119,
-    "y": 1340.48,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25488,6 +25416,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 504,
+    "server_id": 7,
+    "type": "house",
+    "name": "BB Mesa",
+    "owner": "Dmiitry_Raus",
+    "status": "Аукцион",
+    "x": 1314.4,
+    "y": 1930.11,
+    "price": 35000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 544,
     "server_id": 7,
     "type": "house",
@@ -25497,6 +25437,18 @@
     "x": 1921.69,
     "y": 2664.64,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 775,
+    "server_id": 7,
+    "type": "house",
+    "name": "BB Mesa",
+    "owner": "Dmiitry_Raus",
+    "status": "Аукцион",
+    "x": -2590.92,
+    "y": 819.7999,
+    "price": 35000,
     "district": "Сан-Андреас"
   },
   {
@@ -25512,15 +25464,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 931,
+    "id": 898,
     "server_id": 7,
     "type": "house",
-    "name": "Дом бобра",
-    "owner": "Lupu_Pick",
+    "name": "Большая дача Панамеры и Ирониха",
+    "owner": "Gipopo_Tam",
     "status": "Аукцион",
-    "x": -2282.16,
-    "y": 1046.54,
-    "price": 41000,
+    "x": -2472.49,
+    "y": 2451.18,
+    "price": 150111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1260,
+    "server_id": 7,
+    "type": "house",
+    "name": "BB Mesa",
+    "owner": "Dmiitry_Raus",
+    "status": "Аукцион",
+    "x": -2286.55,
+    "y": 796.755,
+    "price": 35000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1751,
+    "server_id": 7,
+    "type": "house",
+    "name": "BB Mesa",
+    "owner": "Dmiitry_Raus",
+    "status": "Аукцион",
+    "x": 1408.23,
+    "y": 1996.36,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1753,
+    "server_id": 7,
+    "type": "house",
+    "name": "BB Mesa",
+    "owner": "Dmiitry_Raus",
+    "status": "Аукцион",
+    "x": 1414.49,
+    "y": 1996.36,
+    "price": 25000,
     "district": "Сан-Андреас"
   },
   {
@@ -25545,6 +25533,18 @@
     "x": 2666.48,
     "y": 750.0989,
     "price": 22000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1909,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Konstantin_Pinko",
+    "status": "Аукцион",
+    "x": 514.2119,
+    "y": 1340.48,
+    "price": 35000,
     "district": "Сан-Андреас"
   },
   {
