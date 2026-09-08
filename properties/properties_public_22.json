@@ -10200,18 +10200,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 851,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ananas",
-    "owner": "Kristina_Ananasik",
-    "status": "Занято",
-    "x": -2189.26,
-    "y": 1164.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 852,
     "server_id": 22,
     "type": "house",
@@ -11640,18 +11628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 972,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dirty_Stu",
-    "status": "Занято",
-    "x": -2398.35,
-    "y": 2409.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 973,
     "server_id": 22,
     "type": "house",
@@ -12184,7 +12160,7 @@
     "server_id": 22,
     "type": "house",
     "name": "Lord_Gustov",
-    "owner": "Chappa_Jeezly",
+    "owner": "Mony_Moon",
     "status": "Занято",
     "x": -2563.4,
     "y": 1148.33,
@@ -12440,6 +12416,18 @@
     "status": "Занято",
     "x": -1776.13,
     "y": 1115.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1039,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kitayski_Pyps",
+    "status": "Занято",
+    "x": -1732.18,
+    "y": 1114.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21336,18 +21324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1781,
-    "server_id": 22,
-    "type": "house",
-    "name": "-Matsuda-",
-    "owner": "Dirty_Stu",
-    "status": "Занято",
-    "x": -775.414,
-    "y": 2765.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1782,
     "server_id": 22,
     "type": "house",
@@ -22020,6 +21996,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 851,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ananas",
+    "owner": "Kristina_Ananasik",
+    "status": "Аукцион",
+    "x": -2189.26,
+    "y": 1164.27,
+    "price": 17500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 892,
     "server_id": 22,
     "type": "house",
@@ -22032,15 +22020,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1039,
+    "id": 972,
     "server_id": 22,
     "type": "house",
     "name": "Дом",
-    "owner": "Kitayski_Pyps",
+    "owner": "Dirty_Stu",
     "status": "Аукцион",
-    "x": -1732.18,
-    "y": 1114.92,
-    "price": 9000,
+    "x": -2398.35,
+    "y": 2409.29,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1781,
+    "server_id": 22,
+    "type": "house",
+    "name": "-Matsuda-",
+    "owner": "Dirty_Stu",
+    "status": "Аукцион",
+    "x": -775.414,
+    "y": 2765.34,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {

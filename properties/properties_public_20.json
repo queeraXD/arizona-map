@@ -444,6 +444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 37,
+    "server_id": 20,
+    "type": "house",
+    "name": "халупа максона",
+    "owner": "Makson_Bandera",
+    "status": "Занято",
+    "x": 2389.73,
+    "y": -1346.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 38,
     "server_id": 20,
     "type": "house",
@@ -452,18 +464,6 @@
     "status": "Занято",
     "x": 2387.86,
     "y": -1328.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 39,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Занято",
-    "x": 2388.42,
-    "y": -1279.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20040,18 +20040,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1676,
-    "server_id": 20,
-    "type": "house",
-    "name": "Картоха",
-    "owner": "Yan_Reckless",
-    "status": "Занято",
-    "x": 1749.16,
-    "y": 2755.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1677,
     "server_id": 20,
     "type": "house",
@@ -22284,15 +22272,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 37,
+    "id": 39,
     "server_id": 20,
     "type": "house",
-    "name": "халупа максона",
-    "owner": "Makson_Bandera",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
     "status": "Аукцион",
-    "x": 2389.73,
-    "y": -1346.03,
-    "price": 15100,
+    "x": 2388.42,
+    "y": -1279.69,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
@@ -22353,6 +22341,18 @@
     "x": 932.8909,
     "y": 2271.17,
     "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1676,
+    "server_id": 20,
+    "type": "house",
+    "name": "Картоха",
+    "owner": "Yan_Reckless",
+    "status": "Аукцион",
+    "x": 1749.16,
+    "y": 2755.89,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {
