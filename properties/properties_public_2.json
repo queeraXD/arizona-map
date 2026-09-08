@@ -7815,7 +7815,7 @@
     "id": 651,
     "server_id": 2,
     "type": "house",
-    "name": "Не продается",
+    "name": "Дом",
     "owner": "Ris_Rais",
     "status": "Занято",
     "x": 2205.85,
@@ -15900,6 +15900,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1326,
+    "server_id": 2,
+    "type": "house",
+    "name": "Ферма 2",
+    "owner": "John_Barrow",
+    "status": "Занято",
+    "x": -2576.45,
+    "y": -145.865,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1327,
     "server_id": 2,
     "type": "house",
@@ -17392,7 +17404,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Дом",
-    "owner": "Quiwersaf_Quielreds",
+    "owner": "Wakenbauter_Qeredsse",
     "status": "Занято",
     "x": -2102.51,
     "y": 1159.83,
@@ -22588,7 +22600,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Дом",
-    "owner": "Quiwersaf_Quielreds",
+    "owner": "Wakenbauter_Qeredsse",
     "status": "Занято",
     "x": 1796.76,
     "y": 2861.56,
@@ -23949,30 +23961,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1326,
-    "server_id": 2,
-    "type": "house",
-    "name": "Timmi house",
-    "owner": "Timmi_Vizard",
-    "status": "Аукцион",
-    "x": -2576.45,
-    "y": -145.865,
-    "price": 20000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 2,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Tlm_Really",
-    "status": "Аукцион",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 190000,
     "district": "Сан-Андреас"
   },
   {
@@ -26072,6 +26060,18 @@
     "status": "Занято",
     "x": 693.619,
     "y": 1967.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 2,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Tlm_Really",
+    "status": "Занято",
+    "x": -2103.59,
+    "y": -2342.04,
     "price": 0,
     "district": "Сан-Андреас"
   },

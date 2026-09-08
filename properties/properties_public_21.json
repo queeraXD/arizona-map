@@ -10452,18 +10452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 872,
-    "server_id": 21,
-    "type": "house",
-    "name": "тут есть 2 этаж(не рофл)",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": -298.635,
-    "y": 2565.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 873,
     "server_id": 21,
     "type": "house",
@@ -13064,18 +13052,6 @@
     "status": "Занято",
     "x": -2158.92,
     "y": 830.585,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1090,
-    "server_id": 21,
-    "type": "house",
-    "name": "холостятская хата",
-    "owner": "Verixxs_Creek",
-    "status": "Занято",
-    "x": -2126.75,
-    "y": 832.6989,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21192,6 +21168,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1767,
+    "server_id": 21,
+    "type": "house",
+    "name": "Tonights Family",
+    "owner": "Piter_Polker",
+    "status": "Занято",
+    "x": 778.065,
+    "y": 1937.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1768,
     "server_id": 21,
     "type": "house",
@@ -21224,18 +21212,6 @@
     "status": "Занято",
     "x": 790.046,
     "y": 1973.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1771,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 766.9329,
-    "y": 1989.87,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21924,14 +21900,38 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1767,
+    "id": 872,
     "server_id": 21,
     "type": "house",
-    "name": "Tonights Family",
-    "owner": "Piter_Polker",
+    "name": "налдон ловит",
+    "owner": "Naldon_Legenda",
     "status": "Аукцион",
-    "x": 778.065,
-    "y": 1937.59,
+    "x": -298.635,
+    "y": 2565.81,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1090,
+    "server_id": 21,
+    "type": "house",
+    "name": "холостятская хата",
+    "owner": "Verixxs_Creek",
+    "status": "Аукцион",
+    "x": -2126.75,
+    "y": 832.6989,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1771,
+    "server_id": 21,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Naldon_Legenda",
+    "status": "Аукцион",
+    "x": 766.9329,
+    "y": 1989.87,
     "price": 1000,
     "district": "Сан-Андреас"
   },

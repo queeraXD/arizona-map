@@ -16200,18 +16200,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1355,
-    "server_id": 19,
-    "type": "house",
-    "name": "Склад Чоко Охаё",
-    "owner": "Chester_Stelon",
-    "status": "Занято",
-    "x": 1105.59,
-    "y": -1569.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1356,
     "server_id": 19,
     "type": "house",
@@ -18612,18 +18600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1557,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nova_Sadness",
-    "status": "Занято",
-    "x": 1932.09,
-    "y": 663.577,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1558,
     "server_id": 19,
     "type": "house",
@@ -18680,18 +18656,6 @@
     "status": "Занято",
     "x": 1957.04,
     "y": 671.3259,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1563,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nova_Sadness",
-    "status": "Занято",
-    "x": 1957.04,
-    "y": 678.018,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20620,7 +20584,7 @@
     "server_id": 19,
     "type": "house",
     "name": "~ Luxury Apartments Asylum ~",
-    "owner": "Meth_Heisenberg",
+    "owner": "Toma_Hunter",
     "status": "Занято",
     "x": 2690.54,
     "y": -1200.0,
@@ -21960,6 +21924,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1355,
+    "server_id": 19,
+    "type": "house",
+    "name": "Склад Чоко Охаё",
+    "owner": "Chester_Stelon",
+    "status": "Аукцион",
+    "x": 1105.59,
+    "y": -1569.98,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1540,
     "server_id": 19,
     "type": "house",
@@ -21969,6 +21945,30 @@
     "x": 1938.78,
     "y": 663.577,
     "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1557,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nova_Sadness",
+    "status": "Аукцион",
+    "x": 1932.09,
+    "y": 663.577,
+    "price": 300,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1563,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nova_Sadness",
+    "status": "Аукцион",
+    "x": 1957.04,
+    "y": 678.018,
+    "price": 350,
     "district": "Сан-Андреас"
   },
   {
