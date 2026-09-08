@@ -2628,18 +2628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 219,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом для иммигрантов",
-    "owner": "Mike_Angel",
-    "status": "Занято",
-    "x": 785.828,
-    "y": -828.3469,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 220,
     "server_id": 9,
     "type": "house",
@@ -3464,18 +3452,6 @@
     "status": "Занято",
     "x": 2512.81,
     "y": -1027.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 289,
-    "server_id": 9,
-    "type": "house",
-    "name": "Пряниковая Ферма",
-    "owner": "Mike_Angel",
-    "status": "Занято",
-    "x": 2534.44,
-    "y": -1063.42,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6576,23 +6552,11 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 549,
-    "server_id": 9,
-    "type": "house",
-    "name": "MS-13 House / Luca Brazi",
-    "owner": "Mike_Angel",
-    "status": "Занято",
-    "x": 574.0339,
-    "y": 1156.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 550,
     "server_id": 9,
     "type": "house",
     "name": "Мой Домик Jostko",
-    "owner": "Analny_Terrorist",
+    "owner": "Dota_Lox",
     "status": "Занято",
     "x": 618.3629,
     "y": 1168.83,
@@ -7796,18 +7760,6 @@
     "status": "Занято",
     "x": 1939.93,
     "y": 642.882,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 652,
-    "server_id": 9,
-    "type": "house",
-    "name": "dom",
-    "owner": "Mike_Angel",
-    "status": "Занято",
-    "x": 2169.36,
-    "y": 772.255,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10964,18 +10916,6 @@
     "status": "Занято",
     "x": -2169.66,
     "y": 1027.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 918,
-    "server_id": 9,
-    "type": "house",
-    "name": "жосткий майнинг",
-    "owner": "Kashemir_NaBlock",
-    "status": "Занято",
-    "x": -2282.05,
-    "y": 1023.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20412,6 +20352,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1705,
+    "server_id": 9,
+    "type": "house",
+    "name": "BRIAN MOGGING",
+    "owner": "Brian_Vogel",
+    "status": "Занято",
+    "x": 2073.37,
+    "y": -1583.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1706,
     "server_id": 9,
     "type": "house",
@@ -22560,18 +22512,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1887,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mike_Angel",
-    "status": "Занято",
-    "x": 2571.53,
-    "y": 719.507,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1888,
     "server_id": 9,
     "type": "house",
@@ -23880,6 +23820,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 219,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом для иммигрантов",
+    "owner": "Mike_Angel",
+    "status": "Аукцион",
+    "x": 785.828,
+    "y": -828.3469,
+    "price": 72000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 289,
+    "server_id": 9,
+    "type": "house",
+    "name": "Пряниковая Ферма",
+    "owner": "Mike_Angel",
+    "status": "Аукцион",
+    "x": 2534.44,
+    "y": -1063.42,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 377,
     "server_id": 9,
     "type": "house",
@@ -23889,6 +23853,18 @@
     "x": 2258.04,
     "y": 167.8099,
     "price": 126000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 549,
+    "server_id": 9,
+    "type": "house",
+    "name": "MS-13 House / Luca Brazi",
+    "owner": "Mike_Angel",
+    "status": "Аукцион",
+    "x": 574.0339,
+    "y": 1156.0,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -23904,6 +23880,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 652,
+    "server_id": 9,
+    "type": "house",
+    "name": "dom",
+    "owner": "Mike_Angel",
+    "status": "Аукцион",
+    "x": 2169.36,
+    "y": 772.255,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 750,
     "server_id": 9,
     "type": "house",
@@ -23916,15 +23904,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1705,
+    "id": 918,
     "server_id": 9,
     "type": "house",
-    "name": "Медный бык",
-    "owner": "Makson_Maizov",
+    "name": "жосткий майнинг",
+    "owner": "Kashemir_NaBlock",
     "status": "Аукцион",
-    "x": 2073.37,
-    "y": -1583.09,
-    "price": 10000,
+    "x": -2282.05,
+    "y": 1023.01,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1887,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mike_Angel",
+    "status": "Аукцион",
+    "x": 2571.53,
+    "y": 719.507,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {

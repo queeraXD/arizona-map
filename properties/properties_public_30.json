@@ -5892,18 +5892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 492,
-    "server_id": 30,
-    "type": "house",
-    "name": "Автогонки",
-    "owner": "Shifu_Todoroki",
-    "status": "Занято",
-    "x": 2042.4,
-    "y": 731.6829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 493,
     "server_id": 30,
     "type": "house",
@@ -7192,7 +7180,7 @@
     "server_id": 30,
     "type": "house",
     "name": "chmo nya",
-    "owner": "Airtlokjhnm_Iloqbv",
+    "owner": "Chmo_Nyanerakbot",
     "status": "Занято",
     "x": -2792.84,
     "y": -153.048,
@@ -14476,7 +14464,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Gazprom Invest",
-    "owner": "Airtlokjhnm_Iloqbv",
+    "owner": "Chmo_Nyanerakbot",
     "status": "Занято",
     "x": -2883.57,
     "y": 736.702,
@@ -20256,18 +20244,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1695,
-    "server_id": 30,
-    "type": "house",
-    "name": "Автогонки",
-    "owner": "Shifu_Todoroki",
-    "status": "Занято",
-    "x": 1730.43,
-    "y": 2826.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1696,
     "server_id": 30,
     "type": "house",
@@ -22560,18 +22536,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1893,
-    "server_id": 30,
-    "type": "house",
-    "name": "Forward Observations Group",
-    "owner": "Only_Wars",
-    "status": "Занято",
-    "x": -48.7064,
-    "y": 956.5159,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1894,
     "server_id": 30,
     "type": "house",
@@ -22588,7 +22552,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Дом",
-    "owner": "Airtlokjhnm_Iloqbv",
+    "owner": "Chmo_Nyanerakbot",
     "status": "Занято",
     "x": -44.7877,
     "y": 947.0,
@@ -22724,7 +22688,19 @@
     "status": "Аукцион",
     "x": 167.158,
     "y": -1758.93,
-    "price": 25000,
+    "price": 35000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 492,
+    "server_id": 30,
+    "type": "house",
+    "name": "Автогонки",
+    "owner": "Shifu_Todoroki",
+    "status": "Аукцион",
+    "x": 2042.4,
+    "y": 731.6829,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -22749,6 +22725,30 @@
     "x": 1816.11,
     "y": -1292.54,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1695,
+    "server_id": 30,
+    "type": "house",
+    "name": "Автогонки",
+    "owner": "Shifu_Todoroki",
+    "status": "Аукцион",
+    "x": 1730.43,
+    "y": 2826.31,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1893,
+    "server_id": 30,
+    "type": "house",
+    "name": "Forward Observations Group",
+    "owner": "Only_Wars",
+    "status": "Аукцион",
+    "x": -48.7064,
+    "y": 956.5159,
+    "price": 100000,
     "district": "Сан-Андреас"
   },
   {

@@ -2472,18 +2472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 207,
-    "server_id": 16,
-    "type": "house",
-    "name": "Exfazo Dynasty",
-    "owner": "Add_Forever",
-    "status": "Занято",
-    "x": 1331.84,
-    "y": -632.729,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 208,
     "server_id": 16,
     "type": "house",
@@ -12684,6 +12672,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1060,
+    "server_id": 16,
+    "type": "house",
+    "name": "HellNaahBruh",
+    "owner": "Burmalda_White",
+    "status": "Занято",
+    "x": -2152.06,
+    "y": 1248.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1061,
     "server_id": 16,
     "type": "house",
@@ -14412,6 +14412,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1205,
+    "server_id": 16,
+    "type": "house",
+    "name": "tt - temichbrooklyn",
+    "owner": "Temik_Wilcox",
+    "status": "Занято",
+    "x": -2790.24,
+    "y": 69.9206,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1206,
     "server_id": 16,
     "type": "house",
@@ -14984,18 +14996,6 @@
     "status": "Занято",
     "x": -2434.02,
     "y": 1311.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1255,
-    "server_id": 16,
-    "type": "house",
-    "name": "CALIFORNIA SQUAD",
-    "owner": "Igor_Vieru",
-    "status": "Занято",
-    "x": -2433.75,
-    "y": 1318.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17096,18 +17096,6 @@
     "status": "Занято",
     "x": 928.6149,
     "y": 2319.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1432,
-    "server_id": 16,
-    "type": "house",
-    "name": "aaaaaa",
-    "owner": "Zimbab_We",
-    "status": "Занято",
-    "x": 928.0239,
-    "y": 2214.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22380,6 +22368,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 207,
+    "server_id": 16,
+    "type": "house",
+    "name": "Exfazo Dynasty",
+    "owner": "Add_Forever",
+    "status": "Аукцион",
+    "x": 1331.84,
+    "y": -632.729,
+    "price": 999999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 720,
     "server_id": 16,
     "type": "house",
@@ -22389,30 +22389,6 @@
     "x": 1626.67,
     "y": 2753.24,
     "price": 3550,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1060,
-    "server_id": 16,
-    "type": "house",
-    "name": "HellNaahBruh",
-    "owner": "Burmalda_White",
-    "status": "Аукцион",
-    "x": -2152.06,
-    "y": 1248.54,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1205,
-    "server_id": 16,
-    "type": "house",
-    "name": "tt - temichbrooklyn",
-    "owner": "Temik_Wilcox",
-    "status": "Аукцион",
-    "x": -2790.24,
-    "y": 69.9206,
-    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -22428,6 +22404,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1255,
+    "server_id": 16,
+    "type": "house",
+    "name": "CALIFORNIA SQUAD",
+    "owner": "Igor_Vieru",
+    "status": "Аукцион",
+    "x": -2433.75,
+    "y": 1318.45,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1309,
     "server_id": 16,
     "type": "house",
@@ -22437,6 +22425,18 @@
     "x": -2240.51,
     "y": 786.2819,
     "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1432,
+    "server_id": 16,
+    "type": "house",
+    "name": "aaaaaa",
+    "owner": "Zimbab_We",
+    "status": "Аукцион",
+    "x": 928.0239,
+    "y": 2214.39,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -23884,7 +23884,7 @@
     "server_id": 16,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Scream_California",
+    "owner": "Andrey_Gonzales",
     "status": "Занято",
     "x": 2170.48,
     "y": 542.934,
@@ -24136,7 +24136,7 @@
     "server_id": 16,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Scream_California",
+    "owner": "Andrey_Gonzales",
     "status": "Занято",
     "x": 2045.05,
     "y": -1908.03,
