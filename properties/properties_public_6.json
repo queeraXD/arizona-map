@@ -7683,7 +7683,7 @@
     "id": 641,
     "server_id": 6,
     "type": "house",
-    "name": "tg: tama3vo",
+    "name": "Дом",
     "owner": "Kiryxa_Farmilkin",
     "status": "Занято",
     "x": 1535.16,
@@ -12267,7 +12267,7 @@
     "id": 1024,
     "server_id": 6,
     "type": "house",
-    "name": "тгк: Берлога Лафича",
+    "name": "Дом",
     "owner": "Federico_Dobryak",
     "status": "Занято",
     "x": -2382.8,
@@ -12303,7 +12303,7 @@
     "id": 1027,
     "server_id": 6,
     "type": "house",
-    "name": "тгк: Берлога Лафича",
+    "name": "Дом",
     "owner": "Federico_Dobryak",
     "status": "Занято",
     "x": -2383.03,
@@ -12327,7 +12327,7 @@
     "id": 1029,
     "server_id": 6,
     "type": "house",
-    "name": "tt -temichbrooklyn",
+    "name": "Дом",
     "owner": "Bogdan_Terminator",
     "status": "Занято",
     "x": -2383.14,
@@ -14307,7 +14307,7 @@
     "id": 1196,
     "server_id": 6,
     "type": "house",
-    "name": "@hold0nio first",
+    "name": "Дом",
     "owner": "Aristotle_Verstappen",
     "status": "Занято",
     "x": -2660.73,
@@ -14907,7 +14907,7 @@
     "id": 1246,
     "server_id": 6,
     "type": "house",
-    "name": "tt -temichbrooklyn",
+    "name": "Дом",
     "owner": "Magamad_Salaev",
     "status": "Занято",
     "x": -2477.25,
@@ -15399,7 +15399,7 @@
     "id": 1288,
     "server_id": 6,
     "type": "house",
-    "name": "tt - temichbrooklyn",
+    "name": "Дом",
     "owner": "Magamad_Salaev",
     "status": "Занято",
     "x": -2542.5,
@@ -15495,7 +15495,7 @@
     "id": 1296,
     "server_id": 6,
     "type": "house",
-    "name": "Colton Estate - Luxury Class",
+    "name": "Дом",
     "owner": "Trey_Colton",
     "status": "Занято",
     "x": -2591.17,
@@ -15632,6 +15632,18 @@
     "status": "Занято",
     "x": -2593.21,
     "y": 883.3369,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1308,
+    "server_id": 6,
+    "type": "house",
+    "name": "Coldsiemens House",
+    "owner": "Lantana_Coldsiemens",
+    "status": "Занято",
+    "x": -2593.42,
+    "y": 874.4949,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23040,18 +23052,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1929,
-    "server_id": 6,
-    "type": "house",
-    "name": "главный фанат дапо шлепы",
-    "owner": "Death_Souljah",
-    "status": "Занято",
-    "x": 2615.23,
-    "y": -1216.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1930,
     "server_id": 6,
     "type": "house",
@@ -24480,18 +24480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1308,
-    "server_id": 6,
-    "type": "house",
-    "name": "Douglas House",
-    "owner": "Viper_Darkness",
-    "status": "Аукцион",
-    "x": -2593.42,
-    "y": 874.4949,
-    "price": 1500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1416,
     "server_id": 6,
     "type": "house",
@@ -24501,6 +24489,18 @@
     "x": 2552.01,
     "y": -958.1939,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1929,
+    "server_id": 6,
+    "type": "house",
+    "name": "главный фанат дапо шлепы",
+    "owner": "Death_Souljah",
+    "status": "Аукцион",
+    "x": 2615.23,
+    "y": -1216.26,
+    "price": 3999,
     "district": "Сан-Андреас"
   },
   {
@@ -24525,30 +24525,6 @@
     "x": 2558.56,
     "y": 2203.06,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 181,
-    "server_id": 6,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Mottoi_Cannon",
-    "status": "Аукцион",
-    "x": 2029.71,
-    "y": 986.64,
-    "price": 128000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 195,
-    "server_id": 6,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Mottoi_Cannon",
-    "status": "Аукцион",
-    "x": -1548.81,
-    "y": 673.91,
-    "price": 128000,
     "district": "Сан-Андреас"
   },
   {
@@ -27360,6 +27336,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 181,
+    "server_id": 6,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Mottoi_Cannon",
+    "status": "Занято",
+    "x": 2029.71,
+    "y": 986.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 182,
     "server_id": 6,
     "type": "business",
@@ -27512,6 +27500,18 @@
     "status": "Занято",
     "x": -2022.61,
     "y": 459.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 195,
+    "server_id": 6,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Mottoi_Cannon",
+    "status": "Занято",
+    "x": -1548.81,
+    "y": 673.91,
     "price": 0,
     "district": "Сан-Андреас"
   },

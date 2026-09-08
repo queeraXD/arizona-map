@@ -5452,7 +5452,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Каменный дом",
-    "owner": "Ruslan_Smagin",
+    "owner": "Don_Owner",
     "status": "Занято",
     "x": 2040.69,
     "y": 695.8619,
@@ -11096,18 +11096,6 @@
     "status": "Занято",
     "x": -1860.83,
     "y": 1114.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 929,
-    "server_id": 8,
-    "type": "house",
-    "name": "Notem",
-    "owner": "Jackson_Jey",
-    "status": "Занято",
-    "x": -2017.64,
-    "y": 1017.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24900,18 +24888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2081,
-    "server_id": 8,
-    "type": "house",
-    "name": "Деп условия,подвал майнинга,инт",
-    "owner": "Trip_Scape",
-    "status": "Занято",
-    "x": 2608.15,
-    "y": -1216.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2082,
     "server_id": 8,
     "type": "house",
@@ -25776,6 +25752,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 929,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jackson_Jey",
+    "status": "Аукцион",
+    "x": -2017.64,
+    "y": 1017.06,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1896,
     "server_id": 8,
     "type": "house",
@@ -25785,6 +25773,18 @@
     "x": 2397.83,
     "y": 962.8809,
     "price": 3200,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2081,
+    "server_id": 8,
+    "type": "house",
+    "name": "Деп, подвал+майнинг подвал,инт",
+    "owner": "Trip_Scape",
+    "status": "Аукцион",
+    "x": 2608.15,
+    "y": -1216.3,
+    "price": 4111,
     "district": "Сан-Андреас"
   },
   {
@@ -28036,7 +28036,7 @@
     "server_id": 8,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Vlad_Cachan",
+    "owner": "Natsu_Dragnilka",
     "status": "Занято",
     "x": -1967.24,
     "y": 296.392,
@@ -29848,7 +29848,7 @@
     "server_id": 8,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Vlad_Cachan",
+    "owner": "Maru_Nesquik",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

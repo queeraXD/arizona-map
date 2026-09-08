@@ -3675,8 +3675,8 @@
     "id": 313,
     "server_id": 3,
     "type": "house",
-    "name": "boyarskiy farm 10lvl [4]",
-    "owner": "Dmitry_Kizak",
+    "name": "Геттовская чаща",
+    "owner": "Jesi_Pinkman",
     "status": "Занято",
     "x": 1939.25,
     "y": -1066.56,
@@ -8804,6 +8804,18 @@
     "status": "Занято",
     "x": -796.3729,
     "y": 2258.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 741,
+    "server_id": 3,
+    "type": "house",
+    "name": "pesfam top one",
+    "owner": "Vadim_Komarovinka",
+    "status": "Занято",
+    "x": -2860.27,
+    "y": 835.6959,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14187,7 +14199,7 @@
     "id": 1192,
     "server_id": 3,
     "type": "house",
-    "name": "Уютный уголок Аньки Печкиной",
+    "name": "скромный домик ростика",
     "owner": "Rostislav_Abigor",
     "status": "Занято",
     "x": -2875.99,
@@ -14199,7 +14211,7 @@
     "id": 1193,
     "server_id": 3,
     "type": "house",
-    "name": "Уютный уголок Аньки",
+    "name": "скромный домик ростика",
     "owner": "Rostislav_Abigor",
     "status": "Занято",
     "x": -2881.08,
@@ -17148,18 +17160,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1439,
-    "server_id": 3,
-    "type": "house",
-    "name": "Veritas Familly ",
-    "owner": "Aleksander_Hpen",
-    "status": "Занято",
-    "x": 1743.6,
-    "y": 2733.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1440,
     "server_id": 3,
     "type": "house",
@@ -18308,18 +18308,6 @@
     "status": "Занято",
     "x": -800.289,
     "y": 1596.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1536,
-    "server_id": 3,
-    "type": "house",
-    "name": "Бродяги",
-    "owner": "Aleksander_Hpen",
-    "status": "Занято",
-    "x": -761.627,
-    "y": 1613.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23964,18 +23952,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 741,
-    "server_id": 3,
-    "type": "house",
-    "name": "pesfam top one",
-    "owner": "Vadim_Komarovinka",
-    "status": "Аукцион",
-    "x": -2860.27,
-    "y": 835.6959,
-    "price": 8500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 826,
     "server_id": 3,
     "type": "house",
@@ -23985,6 +23961,30 @@
     "x": -2688.68,
     "y": -89.4464,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1439,
+    "server_id": 3,
+    "type": "house",
+    "name": "Veritas Familly ",
+    "owner": "Aleksander_Hpen",
+    "status": "Аукцион",
+    "x": 1743.6,
+    "y": 2733.09,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1536,
+    "server_id": 3,
+    "type": "house",
+    "name": "Бродяги",
+    "owner": "Aleksander_Hpen",
+    "status": "Аукцион",
+    "x": -761.627,
+    "y": 1613.16,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {

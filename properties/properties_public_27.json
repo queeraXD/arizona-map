@@ -2952,18 +2952,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 246,
-    "server_id": 27,
-    "type": "house",
-    "name": "Деп+шкаф+подвалы",
-    "owner": "Van_Ymik",
-    "status": "Занято",
-    "x": 431.881,
-    "y": -1253.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 247,
     "server_id": 27,
     "type": "house",
@@ -3008,18 +2996,6 @@
     "status": "Занято",
     "x": 2458.76,
     "y": 128.9869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 251,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Morok_Resell",
-    "status": "Занято",
-    "x": 2480.55,
-    "y": 126.995,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9388,7 +9364,7 @@
     "server_id": 27,
     "type": "house",
     "name": "хуй вам мусора",
-    "owner": "Nikita_Shlepens",
+    "owner": "harlequinave",
     "status": "Занято",
     "x": -2541.25,
     "y": 785.179,
@@ -17652,18 +17628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1471,
-    "server_id": 27,
-    "type": "house",
-    "name": "дом 5",
-    "owner": "Storm_Storm",
-    "status": "Занято",
-    "x": 2154.1,
-    "y": -979.919,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1472,
     "server_id": 27,
     "type": "house",
@@ -20624,6 +20588,18 @@
     "status": "Занято",
     "x": 2397.67,
     "y": 962.8809,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1719,
+    "server_id": 27,
+    "type": "house",
+    "name": "house",
+    "owner": "Chipa_Lino",
+    "status": "Занято",
+    "x": 2368.53,
+    "y": 962.8369,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24444,15 +24420,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1719,
+    "id": 246,
     "server_id": 27,
     "type": "house",
-    "name": "house",
-    "owner": "Chipa_Lino",
+    "name": "Деп+шкаф+подвалы",
+    "owner": "Van_Ymik",
     "status": "Аукцион",
-    "x": 2368.53,
-    "y": 962.8369,
-    "price": 4000,
+    "x": 431.881,
+    "y": -1253.44,
+    "price": 32000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 251,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Morok_Resell",
+    "status": "Аукцион",
+    "x": 2480.55,
+    "y": 126.995,
+    "price": 22000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1471,
+    "server_id": 27,
+    "type": "house",
+    "name": "дом 5",
+    "owner": "Storm_Storm",
+    "status": "Аукцион",
+    "x": 2154.1,
+    "y": -979.919,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
@@ -26380,7 +26380,7 @@
     "server_id": 27,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Djon_Garik",
+    "owner": "Patrick_Letuchev",
     "status": "Занято",
     "x": -2062.52,
     "y": -60.6291,

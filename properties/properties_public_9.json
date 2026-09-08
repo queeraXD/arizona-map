@@ -8976,18 +8976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 750,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом с набором Архитектора",
-    "owner": "Baron_Scandino",
-    "status": "Занято",
-    "x": -2652.27,
-    "y": 841.7739,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 751,
     "server_id": 9,
     "type": "house",
@@ -15220,7 +15208,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Babruiske Squad",
-    "owner": "Hugo_Smoke",
+    "owner": "Sunny_Highstyle",
     "status": "Занято",
     "x": -2881.36,
     "y": 790.4589,
@@ -18615,7 +18603,7 @@
     "id": 1554,
     "server_id": 9,
     "type": "house",
-    "name": "Дом Юриста ЛСПД",
+    "name": "Дом Юриста (особа гетто)",
     "owner": "Max_Shefov",
     "status": "Занято",
     "x": 1863.78,
@@ -19695,7 +19683,7 @@
     "id": 1644,
     "server_id": 9,
     "type": "house",
-    "name": "Дом Dore",
+    "name": "Халупа",
     "owner": "Buster_Lustra",
     "status": "Занято",
     "x": -2541.49,
@@ -23916,6 +23904,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 750,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом с набором Архитектора",
+    "owner": "Baron_Scandino",
+    "status": "Аукцион",
+    "x": -2652.27,
+    "y": 841.7739,
+    "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1705,
     "server_id": 9,
     "type": "house",
@@ -23925,18 +23925,6 @@
     "x": 2073.37,
     "y": -1583.09,
     "price": 10000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 249,
-    "server_id": 9,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Balagan_Quartz",
-    "status": "Аукцион",
-    "x": 111.076,
-    "y": -1782.68,
-    "price": 145000,
     "district": "Сан-Андреас"
   },
   {
@@ -25344,6 +25332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 249,
+    "server_id": 9,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Balagan_Quartz",
+    "status": "Занято",
+    "x": 111.076,
+    "y": -1782.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 250,
     "server_id": 9,
     "type": "business",
@@ -26524,7 +26524,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Отель",
-    "owner": "Carlos_Quinzy",
+    "owner": "Antonio_Russi",
     "status": "Занято",
     "x": 2746.322,
     "y": -1634.34,
@@ -26560,7 +26560,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Отель",
-    "owner": "Ethan_Quinzy",
+    "owner": "Antonio_Russi",
     "status": "Занято",
     "x": -2493.904,
     "y": 2270.313,
@@ -26632,7 +26632,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Отель",
-    "owner": "Ethan_Quinzy",
+    "owner": "Antonio_Russi",
     "status": "Занято",
     "x": 1858.639,
     "y": 2159.243,
