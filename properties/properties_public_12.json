@@ -3744,18 +3744,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 312,
-    "server_id": 12,
-    "type": "house",
-    "name": "Indulgence Squad",
-    "owner": "cash",
-    "status": "Занято",
-    "x": 1934.05,
-    "y": -1071.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 313,
     "server_id": 12,
     "type": "house",
@@ -4376,18 +4364,6 @@
     "status": "Занято",
     "x": 1179.89,
     "y": -1261.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 365,
-    "server_id": 12,
-    "type": "house",
-    "name": "Indulgence Squad",
-    "owner": "cash",
-    "status": "Занято",
-    "x": 254.0599,
-    "y": -274.3049,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22095,7 +22071,7 @@
     "id": 1847,
     "server_id": 12,
     "type": "house",
-    "name": "Майнинг 1",
+    "name": "sell",
     "owner": "Leo_Scott",
     "status": "Занято",
     "x": 1778.47,
@@ -22611,7 +22587,7 @@
     "id": 1890,
     "server_id": 12,
     "type": "house",
-    "name": "Miracle Brotherhood",
+    "name": "sell",
     "owner": "Leo_Scott",
     "status": "Занято",
     "x": 1763.11,
@@ -23024,6 +23000,18 @@
     "status": "Занято",
     "x": 2601.64,
     "y": 2185.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1925,
+    "server_id": 12,
+    "type": "house",
+    "name": "Собственно FIBYS",
+    "owner": "Beautiful_Sadness",
+    "status": "Занято",
+    "x": 2601.64,
+    "y": 2192.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23736,15 +23724,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1925,
+    "id": 312,
     "server_id": 12,
     "type": "house",
-    "name": "Собственно FIBYS",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2601.64,
-    "y": 2192.71,
-    "price": 0,
+    "name": "Indulgence Squad",
+    "owner": "cash",
+    "status": "Аукцион",
+    "x": 1934.05,
+    "y": -1071.5,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 365,
+    "server_id": 12,
+    "type": "house",
+    "name": "Indulgence Squad",
+    "owner": "cash",
+    "status": "Аукцион",
+    "x": 254.0599,
+    "y": -274.3049,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
