@@ -10140,18 +10140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 845,
-    "server_id": 1,
-    "type": "house",
-    "name": "FERRARIO EMPIREAL",
-    "owner": "Sota_Ferrario",
-    "status": "Занято",
-    "x": -2159.53,
-    "y": 983.763,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 846,
     "server_id": 1,
     "type": "house",
@@ -12080,6 +12068,18 @@
     "status": "Занято",
     "x": -2017.81,
     "y": 849.32,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1008,
+    "server_id": 1,
+    "type": "house",
+    "name": "Katsuro Home(подвал)",
+    "owner": "Kakash_MyLove",
+    "status": "Занято",
+    "x": -1775.96,
+    "y": 1115.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16872,18 +16872,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1408,
-    "server_id": 1,
-    "type": "house",
-    "name": "Axel",
-    "owner": "Did_Inside",
-    "status": "Занято",
-    "x": -2301.91,
-    "y": 580.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1409,
     "server_id": 1,
     "type": "house",
@@ -20988,18 +20976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1752,
-    "server_id": 1,
-    "type": "house",
-    "name": "Axel",
-    "owner": "Did_Inside",
-    "status": "Занято",
-    "x": -21.2075,
-    "y": 1348.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1753,
     "server_id": 1,
     "type": "house",
@@ -23220,6 +23196,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1941,
+    "server_id": 1,
+    "type": "house",
+    "name": "Katsuro Home",
+    "owner": "Kakash_MyLove",
+    "status": "Занято",
+    "x": 2610.35,
+    "y": 2163.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1942,
     "server_id": 1,
     "type": "house",
@@ -24120,15 +24108,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1008,
+    "id": 845,
     "server_id": 1,
     "type": "house",
-    "name": "Katsuro Home(подвал)",
-    "owner": "Kakash_MyLove",
+    "name": "FERRARIO EMPIREAL",
+    "owner": "Sota_Ferrario",
     "status": "Аукцион",
-    "x": -1775.96,
-    "y": 1115.08,
-    "price": 27000,
+    "x": -2159.53,
+    "y": 983.763,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1408,
+    "server_id": 1,
+    "type": "house",
+    "name": "Axel",
+    "owner": "Did_Inside",
+    "status": "Аукцион",
+    "x": -2301.91,
+    "y": 580.036,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -24144,6 +24144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1752,
+    "server_id": 1,
+    "type": "house",
+    "name": "Axel",
+    "owner": "Did_Inside",
+    "status": "Аукцион",
+    "x": -21.2075,
+    "y": 1348.14,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1890,
     "server_id": 1,
     "type": "house",
@@ -24156,18 +24168,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1941,
-    "server_id": 1,
-    "type": "house",
-    "name": "Katsuro Home",
-    "owner": "Kakash_MyLove",
-    "status": "Аукцион",
-    "x": 2610.35,
-    "y": 2163.24,
-    "price": 20000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 250,
     "server_id": 1,
     "type": "business",
@@ -24177,6 +24177,30 @@
     "x": 2170.48,
     "y": 542.934,
     "price": 179999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 267,
+    "server_id": 1,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Inj_Ury",
+    "status": "Аукцион",
+    "x": 1460.33,
+    "y": 2784.8,
+    "price": 180000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 303,
+    "server_id": 1,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Inj_Ury",
+    "status": "Аукцион",
+    "x": -833.1396,
+    "y": 1622.985,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -25072,7 +25096,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "LordOf_TheMysteries",
+    "owner": "Vladimir_Hmxd",
     "status": "Занято",
     "x": 695.01,
     "y": -500.134,
@@ -27384,18 +27408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 267,
-    "server_id": 1,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Inj_Ury",
-    "status": "Занято",
-    "x": 1460.33,
-    "y": 2784.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 292,
     "server_id": 1,
     "type": "business",
@@ -27848,18 +27860,6 @@
     "status": "Занято",
     "x": 156.6065,
     "y": 1149.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 303,
-    "server_id": 1,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Inj_Ury",
-    "status": "Занято",
-    "x": -833.1396,
-    "y": 1622.985,
     "price": 0,
     "district": "Сан-Андреас"
   },
