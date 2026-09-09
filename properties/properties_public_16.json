@@ -6708,18 +6708,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 559,
-    "server_id": 16,
-    "type": "house",
-    "name": "Комуналка №2",
-    "owner": "Dmitry_Peskov",
-    "status": "Занято",
-    "x": 707.137,
-    "y": 1284.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 560,
     "server_id": 16,
     "type": "house",
@@ -11079,8 +11067,8 @@
     "id": 925,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
-    "owner": "Pavel_Fiendo",
+    "name": "Tesoro 8/15",
+    "owner": "Francesco_Carbon",
     "status": "Занято",
     "x": -2029.88,
     "y": 745.3209,
@@ -11228,6 +11216,18 @@
     "status": "Занято",
     "x": -2112.62,
     "y": 796.5349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 938,
+    "server_id": 16,
+    "type": "house",
+    "name": "Tesoro 7/15",
+    "owner": "Francesco_Carbon",
+    "status": "Занято",
+    "x": -2094.08,
+    "y": 796.2789,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12680,18 +12680,6 @@
     "status": "Занято",
     "x": -2024.04,
     "y": 1275.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1060,
-    "server_id": 16,
-    "type": "house",
-    "name": "HellNaahBruh",
-    "owner": "Burmalda_White",
-    "status": "Занято",
-    "x": -2152.06,
-    "y": 1248.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15024,18 +15012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1255,
-    "server_id": 16,
-    "type": "house",
-    "name": "CALIFORNIA SQUAD",
-    "owner": "Igor_Vieru",
-    "status": "Занято",
-    "x": -2433.75,
-    "y": 1318.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1256,
     "server_id": 16,
     "type": "house",
@@ -16920,18 +16896,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1413,
-    "server_id": 16,
-    "type": "house",
-    "name": "С набором архитектора",
-    "owner": "Dmitry_Peskov",
-    "status": "Занято",
-    "x": 689.755,
-    "y": 1297.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1414,
     "server_id": 16,
     "type": "house",
@@ -17144,6 +17108,18 @@
     "status": "Занято",
     "x": 928.6149,
     "y": 2319.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1432,
+    "server_id": 16,
+    "type": "house",
+    "name": "aaaaaa",
+    "owner": "Pavel_Fiendo",
+    "status": "Занято",
+    "x": 928.0239,
+    "y": 2214.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22428,6 +22404,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 559,
+    "server_id": 16,
+    "type": "house",
+    "name": "Комуналка №2",
+    "owner": "Dmitry_Peskov",
+    "status": "Аукцион",
+    "x": 707.137,
+    "y": 1284.64,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 831,
     "server_id": 16,
     "type": "house",
@@ -22440,27 +22428,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 938,
+    "id": 1060,
     "server_id": 16,
     "type": "house",
-    "name": "Майнинг #2",
-    "owner": "Aperol_Weeknd",
+    "name": "HellNaahBruh",
+    "owner": "Burmalda_White",
     "status": "Аукцион",
-    "x": -2094.08,
-    "y": 796.2789,
-    "price": 300,
+    "x": -2152.06,
+    "y": 1248.54,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1432,
+    "id": 1255,
     "server_id": 16,
     "type": "house",
-    "name": "aaaaaa",
-    "owner": "Zimbab_We",
+    "name": "CALIFORNIA SQUAD",
+    "owner": "Igor_Vieru",
     "status": "Аукцион",
-    "x": 928.0239,
-    "y": 2214.39,
-    "price": 1000,
+    "x": -2433.75,
+    "y": 1318.45,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1413,
+    "server_id": 16,
+    "type": "house",
+    "name": "С набором архитектора",
+    "owner": "Dmitry_Peskov",
+    "status": "Аукцион",
+    "x": 689.755,
+    "y": 1297.17,
+    "price": 35000,
     "district": "Сан-Андреас"
   },
   {

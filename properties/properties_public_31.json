@@ -9216,18 +9216,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 768,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Eternal_Envy",
-    "status": "Занято",
-    "x": -2594.19,
-    "y": 733.1779,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 769,
     "server_id": 31,
     "type": "house",
@@ -23316,6 +23304,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 768,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Eternal_Envy",
+    "status": "Аукцион",
+    "x": -2594.19,
+    "y": 733.1779,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1750,
     "server_id": 31,
     "type": "house",
@@ -24724,7 +24724,7 @@
     "server_id": 31,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Sergey_Evsyukov",
+    "owner": "Serega_Scorsese",
     "status": "Занято",
     "x": -1320.49,
     "y": 2698.65,
