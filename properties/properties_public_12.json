@@ -3749,10 +3749,10 @@
     "type": "house",
     "name": "Indulgence Squad",
     "owner": "cash",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1934.05,
     "y": -1071.5,
-    "price": 2500,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -4385,10 +4385,10 @@
     "type": "house",
     "name": "Indulgence Squad",
     "owner": "cash",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 254.0599,
     "y": -274.3049,
-    "price": 2500,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23820,6 +23820,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2,
+    "server_id": 12,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Keisuke_Moore",
+    "status": "Аукцион",
+    "x": 242.897,
+    "y": -178.385,
+    "price": 500000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 12,
     "type": "business",
@@ -23840,18 +23852,6 @@
     "status": "Занято",
     "x": 2333.5,
     "y": 61.624,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2,
-    "server_id": 12,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Keisuke_Moore",
-    "status": "Занято",
-    "x": 242.897,
-    "y": -178.385,
     "price": 0,
     "district": "Сан-Андреас"
   },
