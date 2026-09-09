@@ -5700,18 +5700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 475,
-    "server_id": 18,
-    "type": "house",
-    "name": "-legendary",
-    "owner": "Lau_Ma",
-    "status": "Занято",
-    "x": 2346.59,
-    "y": 736.0939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 476,
     "server_id": 18,
     "type": "house",
@@ -8160,18 +8148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 680,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Shrek_Ogre",
-    "status": "Занято",
-    "x": -2626.44,
-    "y": 2291.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 681,
     "server_id": 18,
     "type": "house",
@@ -8872,7 +8848,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Shrek_Ogre",
+    "owner": "Polymarket_Whale",
     "status": "Занято",
     "x": -2845.31,
     "y": 928.414,
@@ -12988,7 +12964,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Shrek_Ogre",
+    "owner": "Jerry_Burberry",
     "status": "Занято",
     "x": -2844.68,
     "y": 921.177,
@@ -14788,7 +14764,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Shrek_Ogre",
+    "owner": "Kishlak",
     "status": "Занято",
     "x": -2433.05,
     "y": 1301.24,
@@ -22212,15 +22188,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 208,
+    "id": 680,
     "server_id": 18,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Lawrence_Ilich",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2626.44,
+    "y": 2291.9,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 475,
+    "server_id": 18,
+    "type": "house",
+    "name": "-legendary",
+    "owner": "Lau_Ma",
     "status": "Аукцион",
-    "x": 194.751,
-    "y": -273.823,
-    "price": 130000,
+    "x": 2346.59,
+    "y": 736.0939,
+    "price": 40000,
     "district": "Сан-Андреас"
   },
   {
@@ -25352,6 +25340,18 @@
     "status": "Занято",
     "x": 196.119,
     "y": -116.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 208,
+    "server_id": 18,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Yarik_Burmaldinni",
+    "status": "Занято",
+    "x": 194.751,
+    "y": -273.823,
     "price": 0,
     "district": "Сан-Андреас"
   },
