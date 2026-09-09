@@ -420,18 +420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
-    "server_id": 3,
-    "type": "house",
-    "name": "ASTRAL HOUSE",
-    "owner": "Monero_Explosion",
-    "status": "Занято",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 36,
     "server_id": 3,
     "type": "house",
@@ -10676,18 +10664,6 @@
     "status": "Занято",
     "x": -2101.77,
     "y": -2532.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 891,
-    "server_id": 3,
-    "type": "house",
-    "name": "GG HOUSE",
-    "owner": "Monero_Explosion",
-    "status": "Занято",
-    "x": -2075.03,
-    "y": -2526.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24012,15 +23988,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 116,
+    "id": 35,
     "server_id": 3,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Ray_Rasta",
+    "type": "house",
+    "name": "ASTRAL HOUSE",
+    "owner": "Monero_Explosion",
     "status": "Аукцион",
-    "x": -2163.47,
-    "y": 129.382,
-    "price": 500000,
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 16999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 891,
+    "server_id": 3,
+    "type": "house",
+    "name": "GG HOUSE",
+    "owner": "Monero_Explosion",
+    "status": "Аукцион",
+    "x": -2075.03,
+    "y": -2526.84,
+    "price": 11999,
     "district": "Сан-Андреас"
   },
   {
@@ -24116,6 +24104,18 @@
     "status": "Занято",
     "x": -2625.72,
     "y": 209.242,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 116,
+    "server_id": 3,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Ray_Rasta",
+    "status": "Занято",
+    "x": -2163.47,
+    "y": 129.382,
     "price": 0,
     "district": "Сан-Андреас"
   },
