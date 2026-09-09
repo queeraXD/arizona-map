@@ -21576,18 +21576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1809,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kirayne_McCallister",
-    "status": "Занято",
-    "x": 2610.33,
-    "y": 2142.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1810,
     "server_id": 30,
     "type": "house",
@@ -22752,6 +22740,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1809,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kirayne_McCallister",
+    "status": "Аукцион",
+    "x": 2610.33,
+    "y": 2142.27,
+    "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 72,
     "server_id": 30,
     "type": "business",
@@ -22761,18 +22761,6 @@
     "x": 1998.29,
     "y": 2302.91,
     "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 207,
-    "server_id": 30,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Kamski_Fisher",
-    "status": "Аукцион",
-    "x": 196.119,
-    "y": -116.76,
-    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -24196,7 +24184,7 @@
     "server_id": 30,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Ruslyana_Dredd",
+    "owner": "Ilya_Pechenkin",
     "status": "Занято",
     "x": -930.703,
     "y": 13.1137,
@@ -25880,6 +25868,18 @@
     "status": "Занято",
     "x": 1381.1,
     "y": -1805.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 207,
+    "server_id": 30,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Ruslyana_Dredd",
+    "status": "Занято",
+    "x": 196.119,
+    "y": -116.76,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -828,18 +828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 69,
-    "server_id": 8,
-    "type": "house",
-    "name": "NoterDam",
-    "owner": "TulchKyba_Savchenko",
-    "status": "Занято",
-    "x": 2362.86,
-    "y": -1644.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 70,
     "server_id": 8,
     "type": "house",
@@ -8948,18 +8936,6 @@
     "status": "Занято",
     "x": -2659.96,
     "y": 876.3309,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 749,
-    "server_id": 8,
-    "type": "house",
-    "name": "ТГ @arsenpfanera torg",
-    "owner": "TulchKyba_Savchenko",
-    "status": "Занято",
-    "x": -2671.31,
-    "y": 927.4249,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25704,6 +25680,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 69,
+    "server_id": 8,
+    "type": "house",
+    "name": "NoterDam",
+    "owner": "TulchKyba_Savchenko",
+    "status": "Аукцион",
+    "x": 2362.86,
+    "y": -1644.65,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 269,
     "server_id": 8,
     "type": "house",
@@ -25737,6 +25725,18 @@
     "x": 1595.71,
     "y": 2038.28,
     "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 749,
+    "server_id": 8,
+    "type": "house",
+    "name": "ТГ @arsenpfanera torg",
+    "owner": "TulchKyba_Savchenko",
+    "status": "Аукцион",
+    "x": -2671.31,
+    "y": 927.4249,
+    "price": 65000,
     "district": "Сан-Андреас"
   },
   {
@@ -26548,7 +26548,7 @@
     "server_id": 8,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Eazy_Unreal",
+    "owner": "Ikso_Karma",
     "status": "Занято",
     "x": 1112.05,
     "y": -1370.03,
@@ -29380,7 +29380,7 @@
     "server_id": 8,
     "type": "business",
     "name": "Букмекерская компания",
-    "owner": "Eazy_Unreal",
+    "owner": "Ikso_Karma",
     "status": "Занято",
     "x": -1880.75,
     "y": 822.412,
@@ -29392,7 +29392,7 @@
     "server_id": 8,
     "type": "business",
     "name": "Секонд хенд",
-    "owner": "Eazy_Unreal",
+    "owner": "Ikso_Karma",
     "status": "Занято",
     "x": 1457.39,
     "y": -1137.57,
@@ -29716,7 +29716,7 @@
     "server_id": 8,
     "type": "business",
     "name": "Рыболовный магазин",
-    "owner": "Eazy_Unreal",
+    "owner": "Ikso_Karma",
     "status": "Занято",
     "x": -2224.77,
     "y": 2288.47,
@@ -29764,7 +29764,7 @@
     "server_id": 8,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Eazy_Unreal",
+    "owner": "Ikso_Karma",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
