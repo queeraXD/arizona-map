@@ -15204,18 +15204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1269,
-    "server_id": 14,
-    "type": "house",
-    "name": "подвал+майнинг",
-    "owner": "Donatello_Dragon",
-    "status": "Занято",
-    "x": -2471.76,
-    "y": 895.234,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1270,
     "server_id": 14,
     "type": "house",
@@ -19932,18 +19920,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1663,
-    "server_id": 14,
-    "type": "house",
-    "name": "Логово Биткоина[10 LVL]",
-    "owner": "Dmitriy_Lazarevich",
-    "status": "Занято",
-    "x": 1949.21,
-    "y": 742.875,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1664,
     "server_id": 14,
     "type": "house",
@@ -21420,6 +21396,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1788,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tuborosho_Kazah",
+    "status": "Занято",
+    "x": 2645.5,
+    "y": 2019.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1789,
     "server_id": 14,
     "type": "house",
@@ -21463,6 +21451,18 @@
     "owner": "Anton_Antix",
     "status": "Занято",
     "x": 2638.96,
+    "y": 2029.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1793,
+    "server_id": 14,
+    "type": "house",
+    "name": "тупой дом",
+    "owner": "Seth_Snaxside",
+    "status": "Занято",
+    "x": 2631.71,
     "y": 2029.23,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23652,6 +23652,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1269,
+    "server_id": 14,
+    "type": "house",
+    "name": "подвал+майнинг",
+    "owner": "Donatello_Dragon",
+    "status": "Аукцион",
+    "x": -2471.76,
+    "y": 895.234,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1663,
+    "server_id": 14,
+    "type": "house",
+    "name": "Логово Биткоина[10 LVL]",
+    "owner": "Dmitriy_Lazarevich",
+    "status": "Аукцион",
+    "x": 1949.21,
+    "y": 742.875,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1668,
     "server_id": 14,
     "type": "house",
@@ -23664,30 +23688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1788,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tuborosho_Kazah",
-    "status": "Аукцион",
-    "x": 2645.5,
-    "y": 2019.21,
-    "price": 5555,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1793,
-    "server_id": 14,
-    "type": "house",
-    "name": "тупой дом",
-    "owner": "Reichart_Darkness",
-    "status": "Аукцион",
-    "x": 2631.71,
-    "y": 2029.23,
-    "price": 1500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1948,
     "server_id": 14,
     "type": "house",
@@ -23697,6 +23697,18 @@
     "x": -175.6519,
     "y": 875.2529,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 271,
+    "server_id": 14,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Chester_Krueger",
+    "status": "Аукцион",
+    "x": -1912.17,
+    "y": 827.954,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -25728,18 +25740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 271,
-    "server_id": 14,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Chester_Krueger",
-    "status": "Занято",
-    "x": -1912.17,
-    "y": 827.954,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 272,
     "server_id": 14,
     "type": "business",
@@ -26296,7 +26296,7 @@
     "server_id": 14,
     "type": "business",
     "name": "Отель",
-    "owner": "Stanislav_Povidlov",
+    "owner": "Gustaf_Calder",
     "status": "Занято",
     "x": 2746.322,
     "y": -1634.34,

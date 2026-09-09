@@ -264,18 +264,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 24,
-    "server_id": 16,
-    "type": "house",
-    "name": "meow na lovle)",
-    "owner": "Meow_Zakatov",
-    "status": "Занято",
-    "x": 2230.01,
-    "y": -1281.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 25,
     "server_id": 16,
     "type": "house",
@@ -464,18 +452,6 @@
     "status": "Занято",
     "x": 2472.88,
     "y": -1238.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 41,
-    "server_id": 16,
-    "type": "house",
-    "name": "Shtanga House",
-    "owner": "Zimbab_We",
-    "status": "Занято",
-    "x": 2492.1,
-    "y": -1239.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2895,8 +2871,8 @@
     "id": 245,
     "server_id": 16,
     "type": "house",
-    "name": "налдон ловит",
-    "owner": "Lovec_Pisunovv",
+    "name": "Дом",
+    "owner": "analnayaprobka",
     "status": "Занято",
     "x": 398.14,
     "y": -1271.38,
@@ -14172,18 +14148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1195,
-    "server_id": 16,
-    "type": "house",
-    "name": "2 дом лидера семьи theboys",
-    "owner": "Zimbab_We",
-    "status": "Занято",
-    "x": -2791.92,
-    "y": -94.7817,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1196,
     "server_id": 16,
     "type": "house",
@@ -18328,7 +18292,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Oxford Domination",
-    "owner": "Forever_Mods",
+    "owner": "Mag_Nat",
     "status": "Занято",
     "x": 2345.58,
     "y": -1785.7,
@@ -18448,7 +18412,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Oxford Domination 2",
-    "owner": "Forever_Mods",
+    "owner": "Mag_Nat",
     "status": "Занято",
     "x": 2380.68,
     "y": -1785.79,
@@ -20500,7 +20464,7 @@
     "server_id": 16,
     "type": "house",
     "name": "The Trappers Monopoly",
-    "owner": "Sean_Wollenberg",
+    "owner": "Jackson_Sparks",
     "status": "Занято",
     "x": 2437.04,
     "y": 1240.8,
@@ -22200,6 +22164,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 24,
+    "server_id": 16,
+    "type": "house",
+    "name": "meow na lovle)",
+    "owner": "Meow_Zakatov",
+    "status": "Аукцион",
+    "x": 2230.01,
+    "y": -1281.05,
+    "price": 3999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 41,
+    "server_id": 16,
+    "type": "house",
+    "name": "Shtanga House",
+    "owner": "Zimbab_We",
+    "status": "Аукцион",
+    "x": 2492.1,
+    "y": -1239.01,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 42,
     "server_id": 16,
     "type": "house",
@@ -22329,6 +22317,18 @@
     "x": -2278.21,
     "y": 768.1019,
     "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1195,
+    "server_id": 16,
+    "type": "house",
+    "name": "2 дом лидера семьи theboys",
+    "owner": "Zimbab_We",
+    "status": "Аукцион",
+    "x": -2791.92,
+    "y": -94.7817,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -25852,7 +25852,7 @@
     "server_id": 16,
     "type": "business",
     "name": "Школа танцев",
-    "owner": "Many_Questions",
+    "owner": "Amity_Blight",
     "status": "Занято",
     "x": 2394.66,
     "y": 2062.55,
