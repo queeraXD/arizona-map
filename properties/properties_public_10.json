@@ -5472,18 +5472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 457,
-    "server_id": 10,
-    "type": "house",
-    "name": "Monopoly Mining House",
-    "owner": "CarI_Underground",
-    "status": "Занято",
-    "x": 2069.02,
-    "y": 696.2709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 458,
     "server_id": 10,
     "type": "house",
@@ -5840,18 +5828,6 @@
     "status": "Занято",
     "x": 2094.08,
     "y": 774.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 488,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "CarI_Underground",
-    "status": "Занято",
-    "x": 2093.41,
-    "y": 730.4819,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23349,6 +23325,30 @@
     "x": 2457.76,
     "y": -1054.57,
     "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 457,
+    "server_id": 10,
+    "type": "house",
+    "name": "Monopoly Mining House",
+    "owner": "CarI_Underground",
+    "status": "Аукцион",
+    "x": 2069.02,
+    "y": 696.2709,
+    "price": 700,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 488,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "CarI_Underground",
+    "status": "Аукцион",
+    "x": 2093.41,
+    "y": 730.4819,
+    "price": 700,
     "district": "Сан-Андреас"
   },
   {

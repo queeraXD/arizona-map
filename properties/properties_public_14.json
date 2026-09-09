@@ -6915,7 +6915,7 @@
     "id": 576,
     "server_id": 14,
     "type": "house",
-    "name": "клитор п****р",
+    "name": "KSM",
     "owner": "Connor_Venci",
     "status": "Занято",
     "x": -165.173,
@@ -7124,18 +7124,6 @@
     "status": "Занято",
     "x": -1449.95,
     "y": 2562.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 594,
-    "server_id": 14,
-    "type": "house",
-    "name": "ладно я пошутил",
-    "owner": "Adolf_Miller",
-    "status": "Занято",
-    "x": -1446.67,
-    "y": 2636.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11072,18 +11060,6 @@
     "status": "Занято",
     "x": -2280.46,
     "y": 1130.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 923,
-    "server_id": 14,
-    "type": "house",
-    "name": "Холостятская берлога",
-    "owner": "Influess_Death",
-    "status": "Занято",
-    "x": -2239.14,
-    "y": 1154.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23640,6 +23616,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 594,
+    "server_id": 14,
+    "type": "house",
+    "name": "ладно я пошутил",
+    "owner": "Adolf_Miller",
+    "status": "Аукцион",
+    "x": -1446.67,
+    "y": 2636.7,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 923,
+    "server_id": 14,
+    "type": "house",
+    "name": "Холостятская берлога",
+    "owner": "Influess_Death",
+    "status": "Аукцион",
+    "x": -2239.14,
+    "y": 1154.01,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 928,
     "server_id": 14,
     "type": "house",
@@ -23697,6 +23697,18 @@
     "x": -175.6519,
     "y": 875.2529,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 202,
+    "server_id": 14,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Artem_Golovorez",
+    "status": "Аукцион",
+    "x": 1183.17,
+    "y": -1315.1,
+    "price": 140000,
     "district": "Сан-Андреас"
   },
   {
@@ -26756,18 +26768,6 @@
     "status": "Занято",
     "x": -104.79,
     "y": -309.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 202,
-    "server_id": 14,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Artem_Golovorez",
-    "status": "Занято",
-    "x": 1183.17,
-    "y": -1315.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
