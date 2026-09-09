@@ -4156,7 +4156,7 @@
     "server_id": 9,
     "type": "house",
     "name": " || Prodigy Fam ||",
-    "owner": "Pokoyo_Vezdehod",
+    "owner": "Sonya_Vezdehod",
     "status": "Занято",
     "x": 1242.61,
     "y": -878.179,
@@ -4240,7 +4240,7 @@
     "server_id": 9,
     "type": "house",
     "name": "CAXAPOK~1",
-    "owner": "Pokoyo_Vezdehod",
+    "owner": "Sonya_Vezdehod",
     "status": "Занято",
     "x": 1280.86,
     "y": -874.8439,
@@ -4508,6 +4508,18 @@
     "status": "Занято",
     "x": 2236.42,
     "y": 167.7779,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 377,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jeffrey_Hill",
+    "status": "Занято",
+    "x": 2258.04,
+    "y": 167.8099,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18088,7 +18100,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Домик Покоё",
-    "owner": "Pokoyo_Vezdehod",
+    "owner": "Sonya_Vezdehod",
     "status": "Занято",
     "x": -2558.57,
     "y": -79.9776,
@@ -22836,18 +22848,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1911,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Normalnyi_Paren",
-    "status": "Занято",
-    "x": 2473.09,
-    "y": -1431.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1912,
     "server_id": 9,
     "type": "house",
@@ -23252,18 +23252,6 @@
     "status": "Занято",
     "x": 1739.4,
     "y": 2792.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1946,
-    "server_id": 9,
-    "type": "house",
-    "name": "Renato Monopoly",
-    "owner": "Liquidator_Rage",
-    "status": "Занято",
-    "x": 1736.43,
-    "y": 2803.61,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23880,18 +23868,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 377,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Baron_Scandino",
-    "status": "Аукцион",
-    "x": 2258.04,
-    "y": 167.8099,
-    "price": 120000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 750,
     "server_id": 9,
     "type": "house",
@@ -23913,6 +23889,30 @@
     "x": -2724.29,
     "y": -58.0475,
     "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1911,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2473.09,
+    "y": -1431.68,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1946,
+    "server_id": 9,
+    "type": "house",
+    "name": "Renato Monopoly",
+    "owner": "Liquidator_Rage",
+    "status": "Аукцион",
+    "x": 1736.43,
+    "y": 2803.61,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
