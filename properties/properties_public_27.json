@@ -23376,18 +23376,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1950,
-    "server_id": 27,
-    "type": "house",
-    "name": "уголок елющо",
-    "owner": "Maximiliano_Cassini",
-    "status": "Занято",
-    "x": 2636.27,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1951,
     "server_id": 27,
     "type": "house",
@@ -24465,6 +24453,18 @@
     "x": 1973.35,
     "y": -1654.67,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1950,
+    "server_id": 27,
+    "type": "house",
+    "name": "уголок елющо",
+    "owner": "Maximiliano_Cassini",
+    "status": "Аукцион",
+    "x": 2636.27,
+    "y": 2195.56,
+    "price": 3505,
     "district": "Сан-Андреас"
   },
   {
@@ -26608,7 +26608,7 @@
     "server_id": 27,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Maximiliano_Cassini",
+    "owner": "Kirman_Sequenze",
     "status": "Занято",
     "x": 2469.02,
     "y": -1513.98,
