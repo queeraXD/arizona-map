@@ -4788,6 +4788,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 399,
+    "server_id": 24,
+    "type": "house",
+    "name": "Grill Incorporated",
+    "owner": "Jack_Grill",
+    "status": "Занято",
+    "x": 2392.35,
+    "y": -54.2308,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 400,
     "server_id": 24,
     "type": "house",
@@ -7544,18 +7556,6 @@
     "status": "Занято",
     "x": -290.544,
     "y": 1176.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 634,
-    "server_id": 24,
-    "type": "house",
-    "name": "майнинг №1",
-    "owner": "Frasider_Nice",
-    "status": "Занято",
-    "x": -324.3099,
-    "y": 1165.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21240,18 +21240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1780,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pharmacy_Throat",
-    "status": "Занято",
-    "x": -2487.25,
-    "y": 821.3079,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1781,
     "server_id": 24,
     "type": "house",
@@ -21948,15 +21936,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 399,
+    "id": 634,
     "server_id": 24,
     "type": "house",
-    "name": "домик Варічки и Женічки",
-    "owner": "Larper_Hard",
-    "status": "Аукцион",
-    "x": 2392.35,
-    "y": -54.2308,
-    "price": 10000,
+    "name": "майнинг №1",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -324.3099,
+    "y": 1165.32,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -22041,6 +22029,18 @@
     "x": 1804.92,
     "y": 2834.84,
     "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1780,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pharmacy_Throat",
+    "status": "Аукцион",
+    "x": -2487.25,
+    "y": 821.3079,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {

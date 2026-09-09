@@ -612,6 +612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 51,
+    "server_id": 7,
+    "type": "house",
+    "name": "На продаже (+набор арх)",
+    "owner": "Vladimir_Blackberry",
+    "status": "Занято",
+    "x": 2191.44,
+    "y": -1487.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 52,
     "server_id": 7,
     "type": "house",
@@ -884,6 +896,18 @@
     "status": "Занято",
     "x": 2385.46,
     "y": -1711.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 75,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Занято",
+    "x": 2327.28,
+    "y": -1682.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10716,18 +10740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 898,
-    "server_id": 7,
-    "type": "house",
-    "name": "Большая дача Панамеры и Ирониха",
-    "owner": "Gipopo_Tam",
-    "status": "Занято",
-    "x": -2472.49,
-    "y": 2451.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 899,
     "server_id": 7,
     "type": "house",
@@ -12104,18 +12116,6 @@
     "status": "Занято",
     "x": -2791.68,
     "y": -145.852,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1014,
-    "server_id": 7,
-    "type": "house",
-    "name": "BREINGAN ",
-    "owner": "Vasya_Binance",
-    "status": "Занято",
-    "x": -2790.88,
-    "y": -111.1729,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20004,18 +20004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1672,
-    "server_id": 7,
-    "type": "house",
-    "name": "First Club ",
-    "owner": "Huli_Yato",
-    "status": "Занято",
-    "x": 928.6149,
-    "y": 2319.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1673,
     "server_id": 7,
     "type": "house",
@@ -25476,27 +25464,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 51,
+    "id": 1672,
     "server_id": 7,
     "type": "house",
-    "name": "На продаже (+набор арх)",
-    "owner": "Vladimir_Blackberry",
-    "status": "Аукцион",
-    "x": 2191.44,
-    "y": -1487.62,
-    "price": 56000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 75,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
-    "status": "Аукцион",
-    "x": 2327.28,
-    "y": -1682.06,
-    "price": 120000,
+    "name": "First Club ",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 928.6149,
+    "y": 2319.31,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -25533,6 +25509,30 @@
     "x": -2660.11,
     "y": 803.0839,
     "price": 32500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 898,
+    "server_id": 7,
+    "type": "house",
+    "name": "@FWMDRIP - TG DREY GANG",
+    "owner": "Gipopo_Tam",
+    "status": "Аукцион",
+    "x": -2472.49,
+    "y": 2451.18,
+    "price": 99999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1014,
+    "server_id": 7,
+    "type": "house",
+    "name": "BREINGAN ",
+    "owner": "Vasya_Binance",
+    "status": "Аукцион",
+    "x": -2790.88,
+    "y": -111.1729,
+    "price": 45000,
     "district": "Сан-Андреас"
   },
   {
