@@ -8940,6 +8940,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 748,
+    "server_id": 32,
+    "type": "house",
+    "name": "soc1o",
+    "owner": "Slava_Turbina",
+    "status": "Занято",
+    "x": -2659.96,
+    "y": 876.3309,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 749,
     "server_id": 32,
     "type": "house",
@@ -8972,6 +8984,18 @@
     "status": "Занято",
     "x": -2655.45,
     "y": 985.7849,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 752,
+    "server_id": 32,
+    "type": "house",
+    "name": "Immortal",
+    "owner": "Thierry_Okathii",
+    "status": "Занято",
+    "x": -2641.07,
+    "y": 935.7189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10280,18 +10304,6 @@
     "status": "Занято",
     "x": -222.6519,
     "y": 2496.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 863,
-    "server_id": 32,
-    "type": "house",
-    "name": "Jimba seller",
-    "owner": "Jimba_Seller",
-    "status": "Занято",
-    "x": -236.8439,
-    "y": 2491.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11692,7 +11704,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Kuni",
-    "owner": "Elias_Kuni",
+    "owner": "Sad_Shurup",
     "status": "Занято",
     "x": -2278.21,
     "y": 768.1019,
@@ -12820,7 +12832,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Майнинг №2",
-    "owner": "Koki_Kayman",
+    "owner": "Blast_Hack",
     "status": "Занято",
     "x": -2900.45,
     "y": 1056.92,
@@ -20031,8 +20043,8 @@
     "id": 1705,
     "server_id": 32,
     "type": "house",
-    "name": "Jimba house",
-    "owner": "Jimba_Seller",
+    "name": "Floyd House",
+    "owner": "Westsize_Floyd",
     "status": "Занято",
     "x": 2492.13,
     "y": -1376.27,
@@ -20772,18 +20784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1768,
-    "server_id": 32,
-    "type": "house",
-    "name": "Уютное гнёздышко ",
-    "owner": "Kigo_Hozyainov",
-    "status": "Занято",
-    "x": 1796.87,
-    "y": 2861.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1769,
     "server_id": 32,
     "type": "house",
@@ -21476,18 +21476,6 @@
     "status": "Занято",
     "x": 2623.65,
     "y": 2039.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1827,
-    "server_id": 32,
-    "type": "house",
-    "name": "Donater",
-    "owner": "naldon",
-    "status": "Занято",
-    "x": 2623.65,
-    "y": 2058.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22452,27 +22440,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 748,
+    "id": 863,
     "server_id": 32,
     "type": "house",
-    "name": "soc1o",
-    "owner": "Slava_Turbina",
+    "name": "Jimba seller",
+    "owner": "Jimba_Seller",
     "status": "Аукцион",
-    "x": -2659.96,
-    "y": 876.3309,
-    "price": 100000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 752,
-    "server_id": 32,
-    "type": "house",
-    "name": "Immortal",
-    "owner": "Thierry_Okathii",
-    "status": "Аукцион",
-    "x": -2641.07,
-    "y": 935.7189,
-    "price": 85000,
+    "x": -236.8439,
+    "y": 2491.76,
+    "price": 10999,
     "district": "Сан-Андреас"
   },
   {
@@ -22497,6 +22473,30 @@
     "x": -789.702,
     "y": 2763.77,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1768,
+    "server_id": 32,
+    "type": "house",
+    "name": "Уютное гнёздышко ",
+    "owner": "Kigo_Hozyainov",
+    "status": "Аукцион",
+    "x": 1796.87,
+    "y": 2861.7,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1827,
+    "server_id": 32,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "naldon",
+    "status": "Аукцион",
+    "x": 2623.65,
+    "y": 2058.15,
+    "price": 8000,
     "district": "Сан-Андреас"
   },
   {
