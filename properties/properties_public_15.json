@@ -315,7 +315,7 @@
     "id": 26,
     "server_id": 15,
     "type": "house",
-    "name": "Inside Home",
+    "name": "$ Bluberry Company $",
     "owner": "Dior_Bluberry",
     "status": "Занято",
     "x": 2247.91,
@@ -1824,18 +1824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 152,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bobby_Baccalieri",
-    "status": "Занято",
-    "x": 1103.22,
-    "y": -1069.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 153,
     "server_id": 15,
     "type": "house",
@@ -3288,18 +3276,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 274,
-    "server_id": 15,
-    "type": "house",
-    "name": "Депозитные Условия :)",
-    "owner": "Dior_Bluberry",
-    "status": "Занято",
-    "x": 2576.59,
-    "y": -1070.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 275,
     "server_id": 15,
     "type": "house",
@@ -3327,7 +3303,7 @@
     "id": 277,
     "server_id": 15,
     "type": "house",
-    "name": "Дом",
+    "name": "FARMILA",
     "owner": "Farmila_Formilovich",
     "status": "Занято",
     "x": 2549.37,
@@ -12856,7 +12832,7 @@
     "server_id": 15,
     "type": "house",
     "name": "7 3 не фулл",
-    "owner": "Chezza_Bretto",
+    "owner": "Sakura_Morita",
     "status": "Занято",
     "x": -2904.47,
     "y": 1101.11,
@@ -17979,8 +17955,8 @@
     "id": 1499,
     "server_id": 15,
     "type": "house",
-    "name": "Дом",
-    "owner": "Queen_McCloud",
+    "name": "@VertMonopoliy",
+    "owner": "Kostya_Vert",
     "status": "Занято",
     "x": 2781.94,
     "y": -1358.4,
@@ -21321,6 +21297,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 152,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bobby_Baccalieri",
+    "status": "Аукцион",
+    "x": 1103.22,
+    "y": -1069.38,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 274,
+    "server_id": 15,
+    "type": "house",
+    "name": "$ Кортель Диора $",
+    "owner": "Dior_Bluberry",
+    "status": "Аукцион",
+    "x": 2576.59,
+    "y": -1070.64,
+    "price": 7300,
     "district": "Сан-Андреас"
   },
   {

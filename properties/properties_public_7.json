@@ -612,18 +612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 51,
-    "server_id": 7,
-    "type": "house",
-    "name": "На продаже (+набор арх)",
-    "owner": "Vladimir_Blackberry",
-    "status": "Занято",
-    "x": 2191.44,
-    "y": -1487.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 52,
     "server_id": 7,
     "type": "house",
@@ -1700,6 +1688,18 @@
     "status": "Занято",
     "x": 1667.54,
     "y": -2107.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 142,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kolya_Infinity",
+    "status": "Занято",
+    "x": 1326.27,
+    "y": -1090.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3092,18 +3092,6 @@
     "status": "Занято",
     "x": 2131.66,
     "y": -973.916,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 259,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом Соловея",
-    "owner": "Danya_Soloviev",
-    "status": "Занято",
-    "x": 2089.57,
-    "y": -995.971,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12144,6 +12132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1014,
+    "server_id": 7,
+    "type": "house",
+    "name": "BREINGAN ",
+    "owner": "Vasya_Binance",
+    "status": "Занято",
+    "x": -2790.88,
+    "y": -111.1729,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1015,
     "server_id": 7,
     "type": "house",
@@ -18620,18 +18620,6 @@
     "status": "Занято",
     "x": 2488.02,
     "y": -1135.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1555,
-    "server_id": 7,
-    "type": "house",
-    "name": "Backwoods fam",
-    "owner": "Brazilian_Phonk",
-    "status": "Занято",
-    "x": 2510.57,
-    "y": -1132.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25512,15 +25500,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 142,
+    "id": 51,
     "server_id": 7,
     "type": "house",
-    "name": "Дом",
-    "owner": "Kolya_Infinity",
+    "name": "На продаже (+набор арх)",
+    "owner": "Vladimir_Blackberry",
     "status": "Аукцион",
-    "x": 1326.27,
-    "y": -1090.67,
-    "price": 200000,
+    "x": 2191.44,
+    "y": -1487.62,
+    "price": 56000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 259,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом Соловея",
+    "owner": "Danya_Soloviev",
+    "status": "Аукцион",
+    "x": 2089.57,
+    "y": -995.971,
+    "price": 45000,
     "district": "Сан-Андреас"
   },
   {
@@ -25536,15 +25536,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1014,
+    "id": 1555,
     "server_id": 7,
     "type": "house",
-    "name": "BREINGAN ",
-    "owner": "Vasya_Binance",
+    "name": "Backwoods fam",
+    "owner": "Brazilian_Phonk",
     "status": "Аукцион",
-    "x": -2790.88,
-    "y": -111.1729,
-    "price": 45000,
+    "x": 2510.57,
+    "y": -1132.53,
+    "price": 50000,
     "district": "Сан-Андреас"
   },
   {

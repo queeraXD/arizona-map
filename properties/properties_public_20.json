@@ -7716,18 +7716,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 643,
-    "server_id": 20,
-    "type": "house",
-    "name": "Скуфск",
-    "owner": "Angel_Horny",
-    "status": "Занято",
-    "x": 1897.15,
-    "y": 736.687,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 644,
     "server_id": 20,
     "type": "house",
@@ -9404,18 +9392,6 @@
     "status": "Занято",
     "x": -2513.51,
     "y": 830.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 784,
-    "server_id": 20,
-    "type": "house",
-    "name": "в шкафу много чего интересного",
-    "owner": "Antony_Wallacer",
-    "status": "Занято",
-    "x": -2513.5,
-    "y": 849.1569,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17187,8 +17163,8 @@
     "id": 1435,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
-    "owner": "Lev_Vinsont",
+    "name": "Knight",
+    "owner": "Noro_Knight",
     "status": "Занято",
     "x": 927.994,
     "y": 2414.26,
@@ -22308,6 +22284,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 643,
+    "server_id": 20,
+    "type": "house",
+    "name": "Скуфск",
+    "owner": "Angel_Horny",
+    "status": "Аукцион",
+    "x": 1897.15,
+    "y": 736.687,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 784,
+    "server_id": 20,
+    "type": "house",
+    "name": "в шкафу много чего интересного",
+    "owner": "Antony_Wallacer",
+    "status": "Аукцион",
+    "x": -2513.5,
+    "y": 849.1569,
+    "price": 8001,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 914,
     "server_id": 20,
     "type": "house",
@@ -25228,7 +25228,7 @@
     "server_id": 20,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Armenia_Dagestan",
+    "owner": "Miroslav_Ikeda",
     "status": "Занято",
     "x": 2268.78,
     "y": 624.86,
