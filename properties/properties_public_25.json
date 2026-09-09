@@ -5916,18 +5916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 494,
-    "server_id": 25,
-    "type": "house",
-    "name": "Forss Dinastiya",
-    "owner": "Force_Monolith",
-    "status": "Занято",
-    "x": 1464.71,
-    "y": 1895.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 495,
     "server_id": 25,
     "type": "house",
@@ -6200,18 +6188,6 @@
     "status": "Занято",
     "x": 1641.34,
     "y": 2044.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 518,
-    "server_id": 25,
-    "type": "house",
-    "name": "Forss Dinastiya",
-    "owner": "Force_Monolith",
-    "status": "Занято",
-    "x": 1595.41,
-    "y": 2070.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8652,18 +8628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 723,
-    "server_id": 25,
-    "type": "house",
-    "name": "Forss Dinastiya",
-    "owner": "Force_Monolith",
-    "status": "Занято",
-    "x": 1652.34,
-    "y": 2709.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 724,
     "server_id": 25,
     "type": "house",
@@ -9796,7 +9760,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Хата Kama",
-    "owner": "Kama_Stark",
+    "owner": "Kama_Wiggins",
     "status": "Занято",
     "x": -2689.46,
     "y": -167.298,
@@ -11140,7 +11104,7 @@
     "server_id": 25,
     "type": "house",
     "name": "фарм",
-    "owner": "Kama_Stark",
+    "owner": "Kama_Wiggins",
     "status": "Занято",
     "x": -2017.56,
     "y": 982.8229,
@@ -12332,6 +12296,18 @@
     "status": "Занято",
     "x": 1955.61,
     "y": -303.604,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1031,
+    "server_id": 25,
+    "type": "house",
+    "name": "[Steiner] PX ",
+    "owner": "Alexander_Steiner",
+    "status": "Занято",
+    "x": 1887.0,
+    "y": -531.244,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15932,18 +15908,6 @@
     "status": "Занято",
     "x": 1564.78,
     "y": 2776.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1332,
-    "server_id": 25,
-    "type": "house",
-    "name": "Forss Dinastiya",
-    "owner": "Force_Monolith",
-    "status": "Занято",
-    "x": 1565.47,
-    "y": 2757.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23712,6 +23676,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 494,
+    "server_id": 25,
+    "type": "house",
+    "name": "Forss Dinastiya",
+    "owner": "Force_Monolith",
+    "status": "Аукцион",
+    "x": 1464.71,
+    "y": 1895.06,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 518,
+    "server_id": 25,
+    "type": "house",
+    "name": "Forss Dinastiya",
+    "owner": "Force_Monolith",
+    "status": "Аукцион",
+    "x": 1595.41,
+    "y": 2070.99,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 688,
     "server_id": 25,
     "type": "house",
@@ -23724,15 +23712,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1031,
+    "id": 723,
     "server_id": 25,
     "type": "house",
-    "name": "Poloskyn Family",
-    "owner": "Ilya_Poloskyn",
+    "name": "Forss Dinastiya",
+    "owner": "Force_Monolith",
     "status": "Аукцион",
-    "x": 1887.0,
-    "y": -531.244,
-    "price": 250000,
+    "x": 1652.34,
+    "y": 2709.34,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1332,
+    "server_id": 25,
+    "type": "house",
+    "name": "Forss Dinastiya",
+    "owner": "Force_Monolith",
+    "status": "Аукцион",
+    "x": 1565.47,
+    "y": 2757.16,
+    "price": 8000,
     "district": "Сан-Андреас"
   },
   {

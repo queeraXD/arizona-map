@@ -1180,7 +1180,7 @@
     "server_id": 3,
     "type": "house",
     "name": "ЕСТЬ УЛУЧШЕНИЕ ДЕПОЗИТНЫЕ УСЛУГ",
-    "owner": "Face_App",
+    "owner": "Vitaly_DeSanta",
     "status": "Занято",
     "x": 2652.88,
     "y": -1989.43,
@@ -3672,18 +3672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 306,
-    "server_id": 3,
-    "type": "house",
-    "name": "Славское царство",
-    "owner": "Maloi_Boy",
-    "status": "Занято",
-    "x": 1895.99,
-    "y": -1064.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 307,
     "server_id": 3,
     "type": "house",
@@ -3759,7 +3747,7 @@
     "id": 313,
     "server_id": 3,
     "type": "house",
-    "name": "Геттовская чаща",
+    "name": "Баллас Форева",
     "owner": "Jesi_Pinkman",
     "status": "Занято",
     "x": 1939.25,
@@ -3776,18 +3764,6 @@
     "status": "Занято",
     "x": 1954.5,
     "y": -1074.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 315,
-    "server_id": 3,
-    "type": "house",
-    "name": "Бог",
-    "owner": "Domingo_Alvarez",
-    "status": "Занято",
-    "x": 1959.61,
-    "y": -1069.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7180,7 +7156,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Деревушка ЛВ",
-    "owner": "Face_App",
+    "owner": "Vitaly_DeSanta",
     "status": "Занято",
     "x": -1482.54,
     "y": 2702.66,
@@ -23976,6 +23952,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 306,
+    "server_id": 3,
+    "type": "house",
+    "name": "Славское царство",
+    "owner": "Maloi_Boy",
+    "status": "Аукцион",
+    "x": 1895.99,
+    "y": -1064.77,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 3,
+    "type": "house",
+    "name": "Бог",
+    "owner": "Domingo_Alvarez",
+    "status": "Аукцион",
+    "x": 1959.61,
+    "y": -1069.92,
+    "price": 8000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 519,
     "server_id": 3,
     "type": "house",
@@ -24009,18 +24009,6 @@
     "x": 2816.49,
     "y": 2268.73,
     "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 116,
-    "server_id": 3,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Ray_Rasta",
-    "status": "Аукцион",
-    "x": -2163.47,
-    "y": 129.382,
-    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
@@ -24116,6 +24104,18 @@
     "status": "Занято",
     "x": -2625.72,
     "y": 209.242,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 116,
+    "server_id": 3,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Ray_Rasta",
+    "status": "Занято",
+    "x": -2163.47,
+    "y": 129.382,
     "price": 0,
     "district": "Сан-Андреас"
   },

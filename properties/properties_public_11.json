@@ -3096,18 +3096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 258,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "NeBarbie_Monopoly",
-    "status": "Занято",
-    "x": 2131.66,
-    "y": -973.916,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 259,
     "server_id": 11,
     "type": "house",
@@ -3344,18 +3332,6 @@
     "status": "Занято",
     "x": 2526.83,
     "y": -1033.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 279,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "NeBarbie_Monopoly",
-    "status": "Занято",
-    "x": 2194.16,
-    "y": -1000.94,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3776,18 +3752,6 @@
     "status": "Занято",
     "x": 1954.5,
     "y": -1074.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 315,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "NeBarbie_Monopoly",
-    "status": "Занято",
-    "x": 1959.61,
-    "y": -1069.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5240,18 +5204,6 @@
     "status": "Занято",
     "x": 2801.92,
     "y": -1962.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 437,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "NeBarbie_Monopoly",
-    "status": "Занято",
-    "x": 2801.93,
-    "y": -1936.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19788,18 +19740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1664,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "NeBarbie_Monopoly",
-    "status": "Занято",
-    "x": 2066.1,
-    "y": -993.182,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1665,
     "server_id": 11,
     "type": "house",
@@ -19892,18 +19832,6 @@
     "status": "Занято",
     "x": 2142.67,
     "y": -978.2319,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1673,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "NeBarbie_Monopoly",
-    "status": "Занято",
-    "x": 2154.12,
-    "y": -979.8649,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24612,6 +24540,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 258,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "NeBarbie_Monopoly",
+    "status": "Аукцион",
+    "x": 2131.66,
+    "y": -973.916,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 279,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "NeBarbie_Monopoly",
+    "status": "Аукцион",
+    "x": 2194.16,
+    "y": -1000.94,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "NeBarbie_Monopoly",
+    "status": "Аукцион",
+    "x": 1959.61,
+    "y": -1069.92,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 437,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "NeBarbie_Monopoly",
+    "status": "Аукцион",
+    "x": 2801.93,
+    "y": -1936.58,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 925,
     "server_id": 11,
     "type": "house",
@@ -24645,6 +24621,30 @@
     "x": -2383.14,
     "y": 1299.73,
     "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1664,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "NeBarbie_Monopoly",
+    "status": "Аукцион",
+    "x": 2066.1,
+    "y": -993.182,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1673,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "NeBarbie_Monopoly",
+    "status": "Аукцион",
+    "x": 2154.12,
+    "y": -979.8649,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
