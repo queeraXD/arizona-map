@@ -448,7 +448,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Дом",
-    "owner": "Bruce_Sakai",
+    "owner": "Kimmi_Continental",
     "status": "Занято",
     "x": 2389.73,
     "y": -1346.03,
@@ -3668,18 +3668,6 @@
     "status": "Занято",
     "x": 260.441,
     "y": -303.1679,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 310,
-    "server_id": 4,
-    "type": "house",
-    "name": "Sopranos House",
-    "owner": "Adrenaline_Bishop",
-    "status": "Занято",
-    "x": 1916.89,
-    "y": -1064.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11732,18 +11720,6 @@
     "status": "Занято",
     "x": -2130.1,
     "y": 942.5419,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 983,
-    "server_id": 4,
-    "type": "house",
-    "name": "Ковальский",
-    "owner": "Nefor_Milniy",
-    "status": "Занято",
-    "x": -2130.29,
-    "y": 894.888,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25244,7 +25220,31 @@
     "status": "Аукцион",
     "x": 1895.99,
     "y": -1064.77,
-    "price": 30000,
+    "price": 11123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 310,
+    "server_id": 4,
+    "type": "house",
+    "name": "Sopranos House",
+    "owner": "Adrenaline_Bishop",
+    "status": "Аукцион",
+    "x": 1916.89,
+    "y": -1064.86,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 983,
+    "server_id": 4,
+    "type": "house",
+    "name": "Ковальский",
+    "owner": "Nefor_Milniy",
+    "status": "Аукцион",
+    "x": -2130.29,
+    "y": 894.888,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
