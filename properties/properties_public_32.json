@@ -8320,7 +8320,7 @@
     "server_id": 32,
     "type": "house",
     "name": "A.Q # 1",
-    "owner": "Alibina_Queenside",
+    "owner": "Marriel_Carter",
     "status": "Занято",
     "x": 1349.63,
     "y": 2567.69,
@@ -8656,7 +8656,7 @@
     "server_id": 32,
     "type": "house",
     "name": "A.Q #3",
-    "owner": "Alibina_Queenside",
+    "owner": "Marriel_Carter",
     "status": "Занято",
     "x": 1678.36,
     "y": 2691.25,
@@ -10296,18 +10296,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 863,
-    "server_id": 32,
-    "type": "house",
-    "name": "Jimba seller",
-    "owner": "Jimba_Seller",
-    "status": "Занято",
-    "x": -236.8439,
-    "y": 2491.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 864,
     "server_id": 32,
     "type": "house",
@@ -10912,7 +10900,7 @@
     "server_id": 32,
     "type": "house",
     "name": "A.Q #4",
-    "owner": "Alibina_Queenside",
+    "owner": "Marriel_Carter",
     "status": "Занято",
     "x": -2159.76,
     "y": 1066.95,
@@ -13023,7 +13011,7 @@
     "id": 1090,
     "server_id": 32,
     "type": "house",
-    "name": "Александр",
+    "name": "Jimba house",
     "owner": "Jimba_Seller",
     "status": "Занято",
     "x": -2126.75,
@@ -13035,7 +13023,7 @@
     "id": 1091,
     "server_id": 32,
     "type": "house",
-    "name": "Александр",
+    "name": "Jimba house",
     "owner": "Jimba_Seller",
     "status": "Занято",
     "x": -2129.67,
@@ -16132,7 +16120,7 @@
     "server_id": 32,
     "type": "house",
     "name": "A.Q #2",
-    "owner": "Alibina_Queenside",
+    "owner": "Marriel_Carter",
     "status": "Занято",
     "x": 1500.82,
     "y": 2535.38,
@@ -17476,7 +17464,7 @@
     "server_id": 32,
     "type": "house",
     "name": "A.Q #5",
-    "owner": "Alibina_Queenside",
+    "owner": "Marriel_Carter",
     "status": "Занято",
     "x": 981.6199,
     "y": 2214.39,
@@ -21000,18 +20988,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1785,
-    "server_id": 32,
-    "type": "house",
-    "name": "Jimba house",
-    "owner": "Jimba_Seller",
-    "status": "Занято",
-    "x": 2639.18,
-    "y": 2185.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1786,
     "server_id": 32,
     "type": "house",
@@ -22488,6 +22464,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 863,
+    "server_id": 32,
+    "type": "house",
+    "name": "Jimba seller",
+    "owner": "Jimba_Seller",
+    "status": "Аукцион",
+    "x": -236.8439,
+    "y": 2491.76,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1748,
     "server_id": 32,
     "type": "house",
@@ -22497,6 +22485,18 @@
     "x": -789.702,
     "y": 2763.77,
     "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1785,
+    "server_id": 32,
+    "type": "house",
+    "name": "Jimba house",
+    "owner": "Jimba_Seller",
+    "status": "Аукцион",
+    "x": 2639.18,
+    "y": 2185.54,
+    "price": 9999,
     "district": "Сан-Андреас"
   },
   {
@@ -22521,30 +22521,6 @@
     "x": -2672.26,
     "y": 258.431,
     "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 312,
-    "server_id": 32,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Kennedy_White",
-    "status": "Аукцион",
-    "x": 641.439,
-    "y": -494.824,
-    "price": 300000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 313,
-    "server_id": 32,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Kennedy_White",
-    "status": "Аукцион",
-    "x": 1332.48,
-    "y": -1120.47,
-    "price": 300000,
     "district": "Сан-Андреас"
   },
   {
@@ -26324,6 +26300,30 @@
     "status": "Занято",
     "x": -20.8111,
     "y": -1548.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 312,
+    "server_id": 32,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Kennedy_White",
+    "status": "Занято",
+    "x": 641.439,
+    "y": -494.824,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 313,
+    "server_id": 32,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Kennedy_White",
+    "status": "Занято",
+    "x": 1332.48,
+    "y": -1120.47,
     "price": 0,
     "district": "Сан-Андреас"
   },
