@@ -2640,18 +2640,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 220,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Baron_Scandino",
-    "status": "Занято",
-    "x": 808.908,
-    "y": -759.291,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 221,
     "server_id": 9,
     "type": "house",
@@ -4172,6 +4160,18 @@
     "status": "Занято",
     "x": 1242.61,
     "y": -878.179,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 348,
+    "server_id": 9,
+    "type": "house",
+    "name": "[$] pollot Family [$]",
+    "owner": "Sota_Takedji",
+    "status": "Занято",
+    "x": 1249.33,
+    "y": -877.3189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6732,6 +6732,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 562,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yuki_Pollot",
+    "status": "Занято",
+    "x": 263.622,
+    "y": 1171.51,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 563,
     "server_id": 9,
     "type": "house",
@@ -8979,7 +8991,7 @@
     "id": 750,
     "server_id": 9,
     "type": "house",
-    "name": "Дом с набором Архитектора",
+    "name": "Дом",
     "owner": "Baron_Scandino",
     "status": "Занято",
     "x": -2652.27,
@@ -10155,7 +10167,7 @@
     "id": 848,
     "server_id": 9,
     "type": "house",
-    "name": "h0USE",
+    "name": "Bathory",
     "owner": "Loo_Bathory",
     "status": "Занято",
     "x": -2157.62,
@@ -11432,6 +11444,18 @@
     "status": "Занято",
     "x": -2159.6,
     "y": 946.984,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 956,
+    "server_id": 9,
+    "type": "house",
+    "name": "Депозит+страховка навсегда",
+    "owner": "Brock_Lamar",
+    "status": "Занято",
+    "x": -2192.67,
+    "y": 934.1019,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19560,6 +19584,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1634,
+    "server_id": 9,
+    "type": "house",
+    "name": "[$] pollot Family [$]",
+    "owner": "Yuki_Pollot",
+    "status": "Занято",
+    "x": 1287.53,
+    "y": -867.6439,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1635,
     "server_id": 9,
     "type": "house",
@@ -19568,6 +19604,18 @@
     "status": "Занято",
     "x": 1280.05,
     "y": -868.6599,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1636,
+    "server_id": 9,
+    "type": "house",
+    "name": "[$] pollot Family [$]",
+    "owner": "Yuki_Pollot",
+    "status": "Занято",
+    "x": 1280.06,
+    "y": -868.703,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20943,8 +20991,8 @@
     "id": 1752,
     "server_id": 9,
     "type": "house",
-    "name": "BebraSquad",
-    "owner": "Julian_Devereux",
+    "name": "Майнг+Аритекроп",
+    "owner": "Tomas_Skaleti",
     "status": "Занято",
     "x": 475.7369,
     "y": 1394.56,
@@ -20955,8 +21003,8 @@
     "id": 1753,
     "server_id": 9,
     "type": "house",
-    "name": "BebraSquad",
-    "owner": "Julian_Devereux",
+    "name": "Майнг+Аритекроп",
+    "owner": "Tomas_Skaleti",
     "status": "Занято",
     "x": 471.8059,
     "y": 1414.51,
@@ -23856,63 +23904,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 348,
-    "server_id": 9,
-    "type": "house",
-    "name": "[$] pollot Family [$]",
-    "owner": "Yuki_Pollot",
-    "status": "Аукцион",
-    "x": 1249.33,
-    "y": -877.3189,
-    "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 562,
+    "id": 220,
     "server_id": 9,
     "type": "house",
     "name": "Дом",
-    "owner": "Yuki_Pollot",
+    "owner": "Baron_Scandino",
     "status": "Аукцион",
-    "x": 263.622,
-    "y": 1171.51,
-    "price": 10000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 956,
-    "server_id": 9,
-    "type": "house",
-    "name": "Депозит+страховка навсегда",
-    "owner": "Yuki_Pollot",
-    "status": "Аукцион",
-    "x": -2192.67,
-    "y": 934.1019,
-    "price": 10000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1634,
-    "server_id": 9,
-    "type": "house",
-    "name": "[$] pollot Family [$]",
-    "owner": "Yuki_Pollot",
-    "status": "Аукцион",
-    "x": 1287.53,
-    "y": -867.6439,
-    "price": 10000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1636,
-    "server_id": 9,
-    "type": "house",
-    "name": "[$] pollot Family [$]",
-    "owner": "Yuki_Pollot",
-    "status": "Аукцион",
-    "x": 1280.06,
-    "y": -868.703,
-    "price": 10000,
+    "x": 808.908,
+    "y": -759.291,
+    "price": 125000,
     "district": "Сан-Андреас"
   },
   {
