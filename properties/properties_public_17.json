@@ -6984,18 +6984,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 582,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Francesco_Bernulii",
-    "status": "Занято",
-    "x": -275.376,
-    "y": 2736.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 583,
     "server_id": 17,
     "type": "house",
@@ -11420,18 +11408,6 @@
     "status": "Занято",
     "x": -2230.74,
     "y": 1027.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 952,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Johny_Dominator",
-    "status": "Занято",
-    "x": -2159.84,
-    "y": 1001.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22476,6 +22452,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 582,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Francesco_Bernulii",
+    "status": "Аукцион",
+    "x": -275.376,
+    "y": 2736.23,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 952,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Johny_Dominator",
+    "status": "Аукцион",
+    "x": -2159.84,
+    "y": 1001.99,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 17,
     "type": "business",
@@ -24348,6 +24348,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 113,
+    "server_id": 17,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Francesco_Totti",
+    "status": "Занято",
+    "x": -1808.68,
+    "y": 945.944,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 114,
     "server_id": 17,
     "type": "business",
@@ -24536,6 +24548,18 @@
     "status": "Занято",
     "x": 2392.56,
     "y": 2042.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 17,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Francesco_Totti",
+    "status": "Занято",
+    "x": 2366.7,
+    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },

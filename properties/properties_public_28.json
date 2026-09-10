@@ -3328,7 +3328,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Халупа Вандалла",
-    "owner": "Qwerty_Berlin",
+    "owner": "Mister_Sheldon",
     "status": "Занято",
     "x": 2526.83,
     "y": -1033.53,
@@ -7832,6 +7832,18 @@
     "status": "Занято",
     "x": 2065.71,
     "y": 650.2559,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 655,
+    "server_id": 28,
+    "type": "house",
+    "name": "Extazz",
+    "owner": "Barebyx_Sobaki",
+    "status": "Занято",
+    "x": 2013.32,
+    "y": 730.669,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17400,6 +17412,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1455,
+    "server_id": 28,
+    "type": "house",
+    "name": "Xata bomzha",
+    "owner": "Barebyx_Sobaki",
+    "status": "Занято",
+    "x": 928.616,
+    "y": 2372.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1456,
     "server_id": 28,
     "type": "house",
@@ -20280,18 +20304,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1696,
-    "server_id": 28,
-    "type": "house",
-    "name": "UnderPivo Sqd",
-    "owner": "Qwerty_Berlin",
-    "status": "Занято",
-    "x": -938.7,
-    "y": -517.9569,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1697,
     "server_id": 28,
     "type": "house",
@@ -20588,18 +20600,6 @@
     "status": "Занято",
     "x": 2615.11,
     "y": -1200.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1722,
-    "server_id": 28,
-    "type": "house",
-    "name": "Под охраной коров!",
-    "owner": "Qwerty_Berlin",
-    "status": "Занято",
-    "x": 2615.11,
-    "y": -1203.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22308,26 +22308,26 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 655,
+    "id": 1696,
     "server_id": 28,
     "type": "house",
-    "name": "Extazz",
+    "name": "UnderPivo Sqd",
     "owner": "Государство",
     "status": "Свободно",
-    "x": 2013.32,
-    "y": 730.669,
+    "x": -938.7,
+    "y": -517.9569,
     "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1455,
+    "id": 1722,
     "server_id": 28,
     "type": "house",
-    "name": "Xata bomzha",
+    "name": "Под охраной коров!",
     "owner": "Государство",
     "status": "Свободно",
-    "x": 928.616,
-    "y": 2372.89,
+    "x": 2615.11,
+    "y": -1203.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
