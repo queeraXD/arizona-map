@@ -13080,18 +13080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1090,
-    "server_id": 30,
-    "type": "house",
-    "name": "Игровая комната, подвалы, гараж",
-    "owner": "Operator_Yota",
-    "status": "Занято",
-    "x": -2126.75,
-    "y": 832.6989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1091,
     "server_id": 30,
     "type": "house",
@@ -16148,18 +16136,6 @@
     "status": "Занято",
     "x": 1564.61,
     "y": 2565.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1346,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Operator_Yota",
-    "status": "Занято",
-    "x": 1551.52,
-    "y": 2567.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22752,6 +22728,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1090,
+    "server_id": 30,
+    "type": "house",
+    "name": "Игровая комната, подвалы, гараж",
+    "owner": "Operator_Yota",
+    "status": "Аукцион",
+    "x": -2126.75,
+    "y": 832.6989,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1346,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Operator_Yota",
+    "status": "Аукцион",
+    "x": 1551.52,
+    "y": 2567.55,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 30,
     "type": "business",
@@ -25036,7 +25036,7 @@
     "server_id": 30,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Francesco_Flawless",
+    "owner": "Dora_Kingman",
     "status": "Занято",
     "x": -1757.81,
     "y": 964.127,

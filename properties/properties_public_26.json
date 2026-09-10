@@ -5452,7 +5452,7 @@
     "server_id": 26,
     "type": "house",
     "name": "280 мимо тещи",
-    "owner": "SwampIzzo_Savchenko",
+    "owner": "Kola_Laiting",
     "status": "Занято",
     "x": 2014.05,
     "y": 650.828,
@@ -9384,18 +9384,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 782,
-    "server_id": 26,
-    "type": "house",
-    "name": "McLarren SF",
-    "owner": "Aska_Mclarren",
-    "status": "Занято",
-    "x": -2541.25,
-    "y": 785.179,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 783,
     "server_id": 26,
     "type": "house",
@@ -10844,18 +10832,6 @@
     "status": "Занято",
     "x": -2130.12,
     "y": 942.562,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 906,
-    "server_id": 26,
-    "type": "house",
-    "name": "rodrigo7611",
-    "owner": "SwampIzzo_Savchenko",
-    "status": "Занято",
-    "x": -2126.7,
-    "y": 978.411,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20068,7 +20044,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Империя Башмака",
-    "owner": "Next_Kingston",
+    "owner": "Sergey_Kosyrev",
     "status": "Занято",
     "x": 2537.03,
     "y": 1235.22,
@@ -25152,6 +25128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 782,
+    "server_id": 26,
+    "type": "house",
+    "name": "McLarren SF",
+    "owner": "Aska_Mclarren",
+    "status": "Аукцион",
+    "x": -2541.25,
+    "y": 785.179,
+    "price": 1300,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 854,
     "server_id": 26,
     "type": "house",
@@ -25161,6 +25149,18 @@
     "x": -2084.36,
     "y": 1161.16,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 906,
+    "server_id": 26,
+    "type": "house",
+    "name": "rodrigo7611",
+    "owner": "SwampIzzo_Savchenko",
+    "status": "Аукцион",
+    "x": -2126.7,
+    "y": 978.411,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -25185,18 +25185,6 @@
     "x": 2824.04,
     "y": 2268.74,
     "price": 500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 249,
-    "server_id": 26,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Rayder_Rivals",
-    "status": "Аукцион",
-    "x": 111.076,
-    "y": -1782.68,
-    "price": 224499,
     "district": "Сан-Андреас"
   },
   {
@@ -26600,6 +26588,18 @@
     "status": "Занято",
     "x": 2637.25,
     "y": 1129.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 249,
+    "server_id": 26,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Rayder_Rivals",
+    "status": "Занято",
+    "x": 111.076,
+    "y": -1782.68,
     "price": 0,
     "district": "Сан-Андреас"
   },

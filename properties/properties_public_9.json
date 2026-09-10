@@ -2304,18 +2304,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 192,
-    "server_id": 9,
-    "type": "house",
-    "name": "United House",
-    "owner": "London_United",
-    "status": "Занято",
-    "x": 295.3489,
-    "y": -1765.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 193,
     "server_id": 9,
     "type": "house",
@@ -23856,6 +23844,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 192,
+    "server_id": 9,
+    "type": "house",
+    "name": "United House",
+    "owner": "London_United",
+    "status": "Аукцион",
+    "x": 295.3489,
+    "y": -1765.47,
+    "price": 60000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 220,
     "server_id": 9,
     "type": "house",
@@ -23925,18 +23925,6 @@
     "x": 1736.43,
     "y": 2803.61,
     "price": 14000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 249,
-    "server_id": 9,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Balagan_Quartz",
-    "status": "Аукцион",
-    "x": 111.076,
-    "y": -1782.68,
-    "price": 145000,
     "district": "Сан-Андреас"
   },
   {
@@ -25340,6 +25328,18 @@
     "status": "Занято",
     "x": 2637.25,
     "y": 1129.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 249,
+    "server_id": 9,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Renato_Revazz",
+    "status": "Занято",
+    "x": 111.076,
+    "y": -1782.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
