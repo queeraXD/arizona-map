@@ -5448,30 +5448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 455,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Theodor_Lamberto",
-    "status": "Занято",
-    "x": 2043.25,
-    "y": 651.7869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 456,
-    "server_id": 3,
-    "type": "house",
-    "name": "Forbes empire",
-    "owner": "Theodor_Lamberto",
-    "status": "Занято",
-    "x": 2040.69,
-    "y": 695.8619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 457,
     "server_id": 3,
     "type": "house",
@@ -6680,18 +6656,6 @@
     "status": "Занято",
     "x": 707.2399,
     "y": 1284.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 558,
-    "server_id": 3,
-    "type": "house",
-    "name": "с деп.условиями",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": 312.3569,
-    "y": 1068.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9344,18 +9308,6 @@
     "status": "Занято",
     "x": -2541.29,
     "y": 733.153,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 781,
-    "server_id": 3,
-    "type": "house",
-    "name": "UnderPivo Sqd",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": -2541.25,
-    "y": 750.9169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15612,18 +15564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1304,
-    "server_id": 3,
-    "type": "house",
-    "name": "деп.условиями",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": -2524.38,
-    "y": -145.865,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1305,
     "server_id": 3,
     "type": "house",
@@ -15968,18 +15908,6 @@
     "status": "Занято",
     "x": -2583.97,
     "y": 992.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1334,
-    "server_id": 3,
-    "type": "house",
-    "name": "с деп.условиями",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": -2596.65,
-    "y": 986.419,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17448,30 +17376,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1457,
-    "server_id": 3,
-    "type": "house",
-    "name": "с деп.условиями",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": 1738.43,
-    "y": 2861.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1458,
-    "server_id": 3,
-    "type": "house",
-    "name": "gangster lovit",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": 1728.11,
-    "y": 2834.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1459,
     "server_id": 3,
     "type": "house",
@@ -17984,18 +17888,6 @@
     "status": "Занято",
     "x": -2359.21,
     "y": 721.6359,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1502,
-    "server_id": 3,
-    "type": "house",
-    "name": "с деп.условиями",
-    "owner": "Asu_Lesters",
-    "status": "Занято",
-    "x": -2359.34,
-    "y": 730.9409,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23984,6 +23876,114 @@
     "status": "Занято",
     "x": 7.3323,
     "y": 1012.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 455,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2043.25,
+    "y": 651.7869,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 456,
+    "server_id": 3,
+    "type": "house",
+    "name": "Forbes empire",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2040.69,
+    "y": 695.8619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 558,
+    "server_id": 3,
+    "type": "house",
+    "name": "с деп.условиями",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 312.3569,
+    "y": 1068.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 781,
+    "server_id": 3,
+    "type": "house",
+    "name": "UnderPivo Sqd",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2541.25,
+    "y": 750.9169,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1304,
+    "server_id": 3,
+    "type": "house",
+    "name": "деп.условиями",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2524.38,
+    "y": -145.865,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1334,
+    "server_id": 3,
+    "type": "house",
+    "name": "с деп.условиями",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2596.65,
+    "y": 986.419,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1457,
+    "server_id": 3,
+    "type": "house",
+    "name": "с деп.условиями",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1738.43,
+    "y": 2861.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1458,
+    "server_id": 3,
+    "type": "house",
+    "name": "gangster lovit",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1728.11,
+    "y": 2834.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1502,
+    "server_id": 3,
+    "type": "house",
+    "name": "с деп.условиями",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2359.34,
+    "y": 730.9409,
     "price": 0,
     "district": "Сан-Андреас"
   },
