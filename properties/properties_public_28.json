@@ -1288,7 +1288,7 @@
     "server_id": 28,
     "type": "house",
     "name": "халупа депутата",
-    "owner": "Mellstroy_Orig",
+    "owner": "Vasya_Pty",
     "status": "Занято",
     "x": 2465.28,
     "y": -2020.5,
@@ -7820,18 +7820,6 @@
     "status": "Занято",
     "x": 2065.71,
     "y": 650.2559,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 655,
-    "server_id": 28,
-    "type": "house",
-    "name": "Extazz",
-    "owner": "Barebyx_Sobaki",
-    "status": "Занято",
-    "x": 2013.32,
-    "y": 730.669,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14652,18 +14640,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1226,
-    "server_id": 28,
-    "type": "house",
-    "name": "5 комнат деп условия подвал  ",
-    "owner": "Barebyx_Sobaki",
-    "status": "Занято",
-    "x": -2477.91,
-    "y": 1301.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1227,
     "server_id": 28,
     "type": "house",
@@ -18556,7 +18532,7 @@
     "server_id": 28,
     "type": "house",
     "name": "БалдХата",
-    "owner": "Mellstroy_Orig",
+    "owner": "Vasya_Pty",
     "status": "Занято",
     "x": 2660.37,
     "y": 742.544,
@@ -20424,18 +20400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1710,
-    "server_id": 28,
-    "type": "house",
-    "name": "FARMILA",
-    "owner": "Barebyx_Sobaki",
-    "status": "Занято",
-    "x": 2445.16,
-    "y": 1003.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1711,
     "server_id": 28,
     "type": "house",
@@ -20568,14 +20532,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1723,
+    "id": 1722,
     "server_id": 28,
     "type": "house",
-    "name": "Leader Vagos",
-    "owner": "Barebyx_Sobaki",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
     "status": "Занято",
-    "x": 2608.15,
-    "y": -1203.09,
+    "x": 2615.11,
+    "y": -1203.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22284,6 +22248,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 655,
+    "server_id": 28,
+    "type": "house",
+    "name": "Extazz",
+    "owner": "Barebyx_Sobaki",
+    "status": "Аукцион",
+    "x": 2013.32,
+    "y": 730.669,
+    "price": 400,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 902,
     "server_id": 28,
     "type": "house",
@@ -22293,6 +22269,18 @@
     "x": -2065.95,
     "y": 1160.62,
     "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1226,
+    "server_id": 28,
+    "type": "house",
+    "name": "5 комнат деп условия подвал  ",
+    "owner": "Barebyx_Sobaki",
+    "status": "Аукцион",
+    "x": -2477.91,
+    "y": 1301.16,
+    "price": 399,
     "district": "Сан-Андреас"
   },
   {
@@ -22316,7 +22304,7 @@
     "status": "Аукцион",
     "x": 928.616,
     "y": 2372.89,
-    "price": 800,
+    "price": 699,
     "district": "Сан-Андреас"
   },
   {
@@ -22332,15 +22320,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1722,
+    "id": 1710,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
+    "name": "FARMILA",
+    "owner": "Barebyx_Sobaki",
     "status": "Аукцион",
-    "x": 2615.11,
-    "y": -1203.17,
-    "price": 800,
+    "x": 2445.16,
+    "y": 1003.58,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1723,
+    "server_id": 28,
+    "type": "house",
+    "name": "Leader Vagos",
+    "owner": "Barebyx_Sobaki",
+    "status": "Аукцион",
+    "x": 2608.15,
+    "y": -1203.09,
+    "price": 100,
     "district": "Сан-Андреас"
   },
   {
@@ -22377,6 +22377,18 @@
     "x": 2556.26,
     "y": 1872.19,
     "price": 88123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 28,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Travis_Viper",
+    "status": "Аукцион",
+    "x": -2373.8,
+    "y": 910.117,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -23384,18 +23396,6 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 28,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": -2373.8,
-    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },

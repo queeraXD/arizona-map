@@ -14692,7 +14692,7 @@
     "server_id": 6,
     "type": "house",
     "name": "SIEMENS DYNASTY #2",
-    "owner": "Agloan_Siemens",
+    "owner": "Uniquely_Insane",
     "status": "Занято",
     "x": -2541.34,
     "y": -198.7969,
@@ -21036,18 +21036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1758,
-    "server_id": 6,
-    "type": "house",
-    "name": "Siemens house",
-    "owner": "Kishecnaya_Palochka",
-    "status": "Занято",
-    "x": 2492.21,
-    "y": -1410.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1760,
     "server_id": 6,
     "type": "house",
@@ -22160,18 +22148,6 @@
     "status": "Занято",
     "x": 2357.74,
     "y": 1659.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1853,
-    "server_id": 6,
-    "type": "house",
-    "name": "Ramirez Domination",
-    "owner": "Denis_Buzov",
-    "status": "Занято",
-    "x": 2357.74,
-    "y": 1664.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24464,7 +24440,7 @@
     "status": "Аукцион",
     "x": 1127.97,
     "y": -1022.01,
-    "price": 35000,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {
@@ -24504,6 +24480,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1758,
+    "server_id": 6,
+    "type": "house",
+    "name": "Siemens house",
+    "owner": "Kishecnaya_Palochka",
+    "status": "Аукцион",
+    "x": 2492.21,
+    "y": -1410.06,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1759,
     "server_id": 6,
     "type": "house",
@@ -24513,6 +24501,18 @@
     "x": 2495.24,
     "y": -1410.09,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1853,
+    "server_id": 6,
+    "type": "house",
+    "name": "Ramirez Domination",
+    "owner": "Denis_Buzov",
+    "status": "Аукцион",
+    "x": 2357.74,
+    "y": 1664.32,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -26836,7 +26836,7 @@
     "server_id": 6,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Agloan_Siemens",
+    "owner": "Uniquely_Insane",
     "status": "Занято",
     "x": -1967.24,
     "y": 296.392,

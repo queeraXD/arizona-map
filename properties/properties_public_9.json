@@ -4452,18 +4452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 374,
-    "server_id": 9,
-    "type": "house",
-    "name": "Винный дом, Jeremy",
-    "owner": "Jeremy_Francis",
-    "status": "Занято",
-    "x": 2204.61,
-    "y": 62.2279,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 375,
     "server_id": 9,
     "type": "house",
@@ -19659,8 +19647,8 @@
     "id": 1644,
     "server_id": 9,
     "type": "house",
-    "name": "Халупа",
-    "owner": "Buster_Lustra",
+    "name": "Пещера",
+    "owner": "Dutch_VanderIinde",
     "status": "Занято",
     "x": -2541.49,
     "y": -118.7259,
@@ -23880,6 +23868,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 374,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом на продаже, связь 917",
+    "owner": "Jeremy_Francis",
+    "status": "Аукцион",
+    "x": 2204.61,
+    "y": 62.2279,
+    "price": 60000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 827,
     "server_id": 9,
     "type": "house",
@@ -27868,7 +27868,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Ломбард",
-    "owner": "[14]Niveiika_Men",
+    "owner": "[25]Freez_Reez",
     "status": "Занято",
     "x": 776.379,
     "y": -1036.19,
