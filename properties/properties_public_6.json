@@ -636,18 +636,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 53,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Unquestionable_Brown",
-    "status": "Занято",
-    "x": 2144.78,
-    "y": -1470.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 54,
     "server_id": 6,
     "type": "house",
@@ -14064,6 +14052,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1173,
+    "server_id": 6,
+    "type": "house",
+    "name": "бр бр бр",
+    "owner": "Maria_Borowa",
+    "status": "Занято",
+    "x": -2791.83,
+    "y": -41.8134,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1174,
     "server_id": 6,
     "type": "house",
@@ -20544,18 +20544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1715,
-    "server_id": 6,
-    "type": "house",
-    "name": "Sweet home Alabama",
-    "owner": "Ketamine_Dreams",
-    "status": "Занято",
-    "x": -2736.88,
-    "y": 846.674,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1716,
     "server_id": 6,
     "type": "house",
@@ -23412,6 +23400,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1957,
+    "server_id": 6,
+    "type": "house",
+    "name": "<A.Miro>",
+    "owner": "Arapdf_Yg",
+    "status": "Занято",
+    "x": 2608.5,
+    "y": 2195.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1958,
     "server_id": 6,
     "type": "house",
@@ -24468,6 +24468,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 53,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Unquestionable_Brown",
+    "status": "Аукцион",
+    "x": 2144.78,
+    "y": -1470.34,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 157,
     "server_id": 6,
     "type": "house",
@@ -24477,18 +24489,6 @@
     "x": 1127.97,
     "y": -1022.01,
     "price": 35000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1173,
-    "server_id": 6,
-    "type": "house",
-    "name": "бр бр бр",
-    "owner": "Trap_Revizor",
-    "status": "Аукцион",
-    "x": -2791.83,
-    "y": -41.8134,
-    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -24504,6 +24504,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1715,
+    "server_id": 6,
+    "type": "house",
+    "name": "Sweet home Alabama",
+    "owner": "Ketamine_Dreams",
+    "status": "Аукцион",
+    "x": -2736.88,
+    "y": 846.674,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1758,
     "server_id": 6,
     "type": "house",
@@ -24516,15 +24528,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1957,
+    "id": 12,
     "server_id": 6,
-    "type": "house",
-    "name": "<A.Miro>",
-    "owner": "Trap_Revizor",
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Sadie_Sink",
     "status": "Аукцион",
-    "x": 2608.5,
-    "y": 2195.56,
-    "price": 1,
+    "x": 695.01,
+    "y": -500.134,
+    "price": 550000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 139,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Sadie_Sink",
+    "status": "Аукцион",
+    "x": 349.0463,
+    "y": -1492.653,
+    "price": 600000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 142,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Sadie_Sink",
+    "status": "Аукцион",
+    "x": -2713.194,
+    "y": 120.4582,
+    "price": 600000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 212,
+    "server_id": 6,
+    "type": "business",
+    "name": "Риелторское агентство",
+    "owner": "Sadie_Sink",
+    "status": "Аукцион",
+    "x": -2240.77,
+    "y": 577.863,
+    "price": 800000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 321,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Sadie_Sink",
+    "status": "Аукцион",
+    "x": -2412.909,
+    "y": 350.0828,
+    "price": 600000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 322,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Sadie_Sink",
+    "status": "Аукцион",
+    "x": 995.8817,
+    "y": -1156.47,
+    "price": 600000,
     "district": "Сан-Андреас"
   },
   {
@@ -25412,18 +25484,6 @@
     "status": "Занято",
     "x": 1163.56,
     "y": -1690.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 12,
-    "server_id": 6,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Sadie_Sink",
-    "status": "Занято",
-    "x": 695.01,
-    "y": -500.134,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26952,18 +27012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 139,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Sadie_Sink",
-    "status": "Занято",
-    "x": 349.0463,
-    "y": -1492.653,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 140,
     "server_id": 6,
     "type": "business",
@@ -26984,18 +27032,6 @@
     "status": "Занято",
     "x": 1547.183,
     "y": -1269.795,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 142,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Sadie_Sink",
-    "status": "Занято",
-    "x": -2713.194,
-    "y": 120.4582,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27236,30 +27272,6 @@
     "status": "Занято",
     "x": 1858.639,
     "y": 2159.243,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 321,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Sadie_Sink",
-    "status": "Занято",
-    "x": -2412.909,
-    "y": 350.0828,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 322,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Sadie_Sink",
-    "status": "Занято",
-    "x": 995.8817,
-    "y": -1156.47,
     "price": 0,
     "district": "Сан-Андреас"
   },

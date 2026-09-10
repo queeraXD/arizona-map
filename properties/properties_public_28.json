@@ -10788,18 +10788,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 902,
-    "server_id": 28,
-    "type": "house",
-    "name": "Набор творчества + Деп.условия",
-    "owner": "Shin_Mandela",
-    "status": "Занято",
-    "x": -2065.95,
-    "y": 1160.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 903,
     "server_id": 28,
     "type": "house",
@@ -15656,18 +15644,6 @@
     "status": "Занято",
     "x": -2515.38,
     "y": -189.2209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1309,
-    "server_id": 28,
-    "type": "house",
-    "name": "лаборатория",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -170.9069,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21108,18 +21084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1769,
-    "server_id": 28,
-    "type": "house",
-    "name": "Mandela House",
-    "owner": "Shin_Mandela",
-    "status": "Занято",
-    "x": 1907.73,
-    "y": -2035.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1770,
     "server_id": 28,
     "type": "house",
@@ -21140,18 +21104,6 @@
     "status": "Занято",
     "x": 1898.99,
     "y": -2037.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1772,
-    "server_id": 28,
-    "type": "house",
-    "name": "Mandela House",
-    "owner": "Shin_Mandela",
-    "status": "Занято",
-    "x": 1868.35,
-    "y": -2037.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22284,6 +22236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 902,
+    "server_id": 28,
+    "type": "house",
+    "name": "Набор творчества + Деп.условия",
+    "owner": "Shin_Mandela",
+    "status": "Аукцион",
+    "x": -2065.95,
+    "y": 1160.62,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1226,
     "server_id": 28,
     "type": "house",
@@ -22293,6 +22257,18 @@
     "x": -2477.91,
     "y": 1301.16,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1309,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -2515.38,
+    "y": -170.9069,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -22365,6 +22341,30 @@
     "x": 2608.15,
     "y": -1203.09,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1769,
+    "server_id": 28,
+    "type": "house",
+    "name": "депчик",
+    "owner": "Shin_Mandela",
+    "status": "Аукцион",
+    "x": 1907.73,
+    "y": -2035.05,
+    "price": 228,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1772,
+    "server_id": 28,
+    "type": "house",
+    "name": "депчик тож",
+    "owner": "Shin_Mandela",
+    "status": "Аукцион",
+    "x": 1868.35,
+    "y": -2037.99,
+    "price": 228,
     "district": "Сан-Андреас"
   },
   {
@@ -22540,7 +22540,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Skoch_Duravui",
+    "owner": "Skoch_Duravul",
     "status": "Занято",
     "x": 2400.53,
     "y": -1982.0,
