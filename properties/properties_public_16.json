@@ -492,6 +492,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 41,
+    "server_id": 16,
+    "type": "house",
+    "name": "danoko",
+    "owner": "Danoko_Fritz",
+    "status": "Занято",
+    "x": 2492.1,
+    "y": -1239.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 43,
     "server_id": 16,
     "type": "house",
@@ -5840,18 +5852,6 @@
     "status": "Занято",
     "x": 1695.08,
     "y": 98.7434,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 496,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kazimir_Advokatov",
-    "status": "Занято",
-    "x": 1462.21,
-    "y": 1950.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19308,54 +19308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1621,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kazimir_Advokatov",
-    "status": "Занято",
-    "x": 1542.27,
-    "y": 2026.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1622,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kazimir_Advokatov",
-    "status": "Занято",
-    "x": 1534.72,
-    "y": 2026.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1623,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kazimir_Advokatov",
-    "status": "Занято",
-    "x": 1495.69,
-    "y": 2026.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1624,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kazimir_Advokatov",
-    "status": "Занято",
-    "x": 1503.25,
-    "y": 2027.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1625,
     "server_id": 16,
     "type": "house",
@@ -19388,42 +19340,6 @@
     "status": "Занято",
     "x": 1414.7,
     "y": 2027.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1628,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kazimir_Advokatov",
-    "status": "Занято",
-    "x": 1422.25,
-    "y": 2027.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1629,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kazimir_Advokatov",
-    "status": "Занято",
-    "x": 1414.6,
-    "y": 1996.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1630,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kazimir_Advokatov",
-    "status": "Занято",
-    "x": 1414.5,
-    "y": 2003.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22308,18 +22224,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 41,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zimbab_We",
-    "status": "Аукцион",
-    "x": 2492.1,
-    "y": -1239.01,
-    "price": 3333,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 42,
     "server_id": 16,
     "type": "house",
@@ -22416,6 +22320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 496,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kazimir_Advokatov",
+    "status": "Аукцион",
+    "x": 1462.21,
+    "y": 1950.23,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 519,
     "server_id": 16,
     "type": "house",
@@ -22437,6 +22353,90 @@
     "x": -2278.21,
     "y": 768.1019,
     "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1621,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kazimir_Advokatov",
+    "status": "Аукцион",
+    "x": 1542.27,
+    "y": 2026.91,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1622,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kazimir_Advokatov",
+    "status": "Аукцион",
+    "x": 1534.72,
+    "y": 2026.9,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1623,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kazimir_Advokatov",
+    "status": "Аукцион",
+    "x": 1495.69,
+    "y": 2026.93,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1624,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kazimir_Advokatov",
+    "status": "Аукцион",
+    "x": 1503.25,
+    "y": 2027.13,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1628,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kazimir_Advokatov",
+    "status": "Аукцион",
+    "x": 1422.25,
+    "y": 2027.03,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1629,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kazimir_Advokatov",
+    "status": "Аукцион",
+    "x": 1414.6,
+    "y": 1996.36,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1630,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kazimir_Advokatov",
+    "status": "Аукцион",
+    "x": 1414.5,
+    "y": 2003.91,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {

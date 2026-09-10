@@ -2832,18 +2832,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 236,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pavel_Spitsyn",
-    "status": "Занято",
-    "x": 559.1019,
-    "y": -1076.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 237,
     "server_id": 28,
     "type": "house",
@@ -19812,6 +19800,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1658,
+    "server_id": 28,
+    "type": "house",
+    "name": "farmilka",
+    "owner": "Vanechka_Implored",
+    "status": "Занято",
+    "x": 2818.53,
+    "y": 2140.74,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1659,
     "server_id": 28,
     "type": "house",
@@ -22119,8 +22119,8 @@
     "id": 1858,
     "server_id": 28,
     "type": "house",
-    "name": "Продам",
-    "owner": "Piw_Paw",
+    "name": "blood?",
+    "owner": "Wonderful_Blood",
     "status": "Занято",
     "x": -1.4931,
     "y": 1011.83,
@@ -22212,6 +22212,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 236,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pavel_Spitsyn",
+    "status": "Аукцион",
+    "x": 559.1019,
+    "y": -1076.19,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 336,
     "server_id": 28,
     "type": "house",
@@ -22281,18 +22293,6 @@
     "x": 928.616,
     "y": 2372.89,
     "price": 800,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1658,
-    "server_id": 28,
-    "type": "house",
-    "name": "farmilka",
-    "owner": "Vanechka_Implored",
-    "status": "Аукцион",
-    "x": 2818.53,
-    "y": 2140.74,
-    "price": 1500,
     "district": "Сан-Андреас"
   },
   {
@@ -22444,7 +22444,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Wonderful_Blood",
+    "owner": "Roosevelt_Blood",
     "status": "Занято",
     "x": -316.162,
     "y": 829.757,

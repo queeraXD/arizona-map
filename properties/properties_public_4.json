@@ -8415,7 +8415,7 @@
     "id": 703,
     "server_id": 4,
     "type": "house",
-    "name": "Amaterasu House",
+    "name": "Майнинг ферма 1",
     "owner": "Raffaile_Grand",
     "status": "Занято",
     "x": 1503.29,
@@ -15728,18 +15728,6 @@
     "status": "Занято",
     "x": -2372.54,
     "y": 632.4589,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1314,
-    "server_id": 4,
-    "type": "house",
-    "name": "Raven Home 1",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 614.062,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25248,6 +25236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1314,
+    "server_id": 4,
+    "type": "house",
+    "name": "Raven Home 1",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 614.062,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1624,
     "server_id": 4,
     "type": "house",
@@ -25257,30 +25257,6 @@
     "x": 1618.7,
     "y": 2610.03,
     "price": 7000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 63,
-    "server_id": 4,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Doctor_Infernales",
-    "status": "Аукцион",
-    "x": -1320.49,
-    "y": 2698.65,
-    "price": 390000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 288,
-    "server_id": 4,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Doctor_Infernales",
-    "status": "Аукцион",
-    "x": 1948.4,
-    "y": 2068.87,
-    "price": 390000,
     "district": "Сан-Андреас"
   },
   {
@@ -26652,6 +26628,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 63,
+    "server_id": 4,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": -1320.49,
+    "y": 2698.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 64,
     "server_id": 4,
     "type": "business",
@@ -26828,6 +26816,18 @@
     "status": "Занято",
     "x": -2111.89,
     "y": -733.419,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 288,
+    "server_id": 4,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": 1948.4,
+    "y": 2068.87,
     "price": 0,
     "district": "Сан-Андреас"
   },

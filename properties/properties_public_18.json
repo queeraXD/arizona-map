@@ -14760,18 +14760,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1233,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kishlak",
-    "status": "Занято",
-    "x": -2433.05,
-    "y": 1301.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1234,
     "server_id": 18,
     "type": "house",
@@ -19407,8 +19395,8 @@
     "id": 1622,
     "server_id": 18,
     "type": "house",
-    "name": "Rampage",
-    "owner": "Prince_Rampage",
+    "name": "Дом Rampage",
+    "owner": "Mercedes_Mangushcar",
     "status": "Занято",
     "x": 1045.94,
     "y": 1007.9,
@@ -22188,6 +22176,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1233,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kishlak",
+    "status": "Аукцион",
+    "x": -2433.05,
+    "y": 1301.24,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1270,
     "server_id": 18,
     "type": "house",
@@ -22209,18 +22209,6 @@
     "x": -2450.04,
     "y": 921.431,
     "price": 28990,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 53,
-    "server_id": 18,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Makaka_Boss",
-    "status": "Аукцион",
-    "x": 157.238,
-    "y": -1808.59,
-    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -24232,7 +24220,7 @@
     "server_id": 18,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Have_Covalli",
+    "owner": "Sim_Carta",
     "status": "Занято",
     "x": 1404.09,
     "y": 51.2512,
@@ -24404,6 +24392,18 @@
     "status": "Занято",
     "x": -2257.681,
     "y": 2278.016,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 53,
+    "server_id": 18,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Jaxx_Satanic",
+    "status": "Занято",
+    "x": 157.238,
+    "y": -1808.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25588,7 +25588,7 @@
     "server_id": 18,
     "type": "business",
     "name": "Школа танцев",
-    "owner": "Have_Covalli",
+    "owner": "Sim_Carta",
     "status": "Занято",
     "x": -2285.79,
     "y": 582.738,
