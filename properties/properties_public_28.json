@@ -17400,18 +17400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1455,
-    "server_id": 28,
-    "type": "house",
-    "name": "Xata bomzha",
-    "owner": "Barebyx_Sobaki",
-    "status": "Занято",
-    "x": 928.616,
-    "y": 2372.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1456,
     "server_id": 28,
     "type": "house",
@@ -19263,8 +19251,8 @@
     "id": 1610,
     "server_id": 28,
     "type": "house",
-    "name": "tribal traphouse",
-    "owner": "Buldojke_Budka",
+    "name": "wellov",
+    "owner": "Sotka_Hardsex",
     "status": "Занято",
     "x": 2003.69,
     "y": 2149.95,
@@ -20564,18 +20552,6 @@
     "status": "Занято",
     "x": 2615.11,
     "y": -1200.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1722,
-    "server_id": 28,
-    "type": "house",
-    "name": "Под охраной коров!",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": 2615.11,
-    "y": -1203.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22320,6 +22296,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1455,
+    "server_id": 28,
+    "type": "house",
+    "name": "Xata bomzha",
+    "owner": "Barebyx_Sobaki",
+    "status": "Аукцион",
+    "x": 928.616,
+    "y": 2372.89,
+    "price": 800,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1658,
     "server_id": 28,
     "type": "house",
@@ -22356,6 +22344,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1722,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": 2615.11,
+    "y": -1203.17,
+    "price": 800,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1723,
     "server_id": 28,
     "type": "house",
@@ -22365,18 +22365,6 @@
     "x": 2608.15,
     "y": -1203.09,
     "price": 500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 75,
-    "server_id": 28,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Benito_Cabrera",
-    "status": "Аукцион",
-    "x": 2556.26,
-    "y": 1872.19,
-    "price": 90123,
     "district": "Сан-Андреас"
   },
   {
@@ -23036,6 +23024,18 @@
     "status": "Занято",
     "x": 2104.24,
     "y": 2678.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 75,
+    "server_id": 28,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Benito_Cabrera",
+    "status": "Занято",
+    "x": 2556.26,
+    "y": 1872.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25192,7 +25192,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Ferrari_Peak",
+    "owner": "Sol_Ana",
     "status": "Занято",
     "x": 1104.78,
     "y": 1380.93,

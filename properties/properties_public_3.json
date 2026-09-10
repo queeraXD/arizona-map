@@ -9360,18 +9360,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 781,
-    "server_id": 3,
-    "type": "house",
-    "name": "UnderPivo Sqd",
-    "owner": "Mihail_Bedrov",
-    "status": "Занято",
-    "x": -2541.25,
-    "y": 750.9169,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 782,
     "server_id": 3,
     "type": "house",
@@ -10664,6 +10652,18 @@
     "status": "Занято",
     "x": -2101.77,
     "y": -2532.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 891,
+    "server_id": 3,
+    "type": "house",
+    "name": "GG HOUSE",
+    "owner": "Monero_Explosion",
+    "status": "Занято",
+    "x": -2075.03,
+    "y": -2526.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12404,18 +12404,6 @@
     "status": "Занято",
     "x": -2187.0,
     "y": 796.2239,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1037,
-    "server_id": 3,
-    "type": "house",
-    "name": "Shady INC",
-    "owner": "Jackson_Jey",
-    "status": "Занято",
-    "x": -2205.36,
-    "y": 795.7009,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15972,18 +15960,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1334,
-    "server_id": 3,
-    "type": "house",
-    "name": "с деп.условиями",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": -2596.65,
-    "y": 986.419,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1335,
     "server_id": 3,
     "type": "house",
@@ -17984,18 +17960,6 @@
     "status": "Занято",
     "x": -2359.21,
     "y": 721.6359,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1502,
-    "server_id": 3,
-    "type": "house",
-    "name": "с деп.условиями",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": -2359.34,
-    "y": 730.9409,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21736,7 +21700,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Дом",
-    "owner": "Vito_Foxes",
+    "owner": "Feramon_Cacciatore",
     "status": "Занято",
     "x": 885.9019,
     "y": 2014.87,
@@ -24000,15 +23964,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 891,
+    "id": 781,
     "server_id": 3,
     "type": "house",
-    "name": "GG HOUSE",
-    "owner": "Monero_Explosion",
+    "name": "UnderPivo Sqd",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": -2075.03,
-    "y": -2526.84,
-    "price": 10999,
+    "x": -2541.25,
+    "y": 750.9169,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1037,
+    "server_id": 3,
+    "type": "house",
+    "name": "Shady INC",
+    "owner": "Jackson_Jey",
+    "status": "Аукцион",
+    "x": -2205.36,
+    "y": 795.7009,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1334,
+    "server_id": 3,
+    "type": "house",
+    "name": "с деп.условиями",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": -2596.65,
+    "y": 986.419,
+    "price": 8500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1502,
+    "server_id": 3,
+    "type": "house",
+    "name": "с деп.условиями",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": -2359.34,
+    "y": 730.9409,
+    "price": 8500,
     "district": "Сан-Андреас"
   },
   {
