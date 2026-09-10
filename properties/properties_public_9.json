@@ -2304,6 +2304,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 192,
+    "server_id": 9,
+    "type": "house",
+    "name": "United House",
+    "owner": "London_United",
+    "status": "Занято",
+    "x": 295.3489,
+    "y": -1765.47,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 193,
     "server_id": 9,
     "type": "house",
@@ -2624,18 +2636,6 @@
     "status": "Занято",
     "x": 785.828,
     "y": -828.3469,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 220,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Baron_Scandino",
-    "status": "Занято",
-    "x": 808.908,
-    "y": -759.291,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8940,18 +8940,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 750,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Baron_Scandino",
-    "status": "Занято",
-    "x": -2652.27,
-    "y": 841.7739,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 751,
     "server_id": 9,
     "type": "house",
@@ -15172,7 +15160,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Babruiske Squad",
-    "owner": "Sunny_Highstyle",
+    "owner": "Double_Pull",
     "status": "Занято",
     "x": -2881.36,
     "y": 790.4589,
@@ -23856,15 +23844,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 192,
+    "id": 220,
     "server_id": 9,
     "type": "house",
-    "name": "United House",
-    "owner": "London_United",
+    "name": "Дом",
+    "owner": "Baron_Scandino",
     "status": "Аукцион",
-    "x": 295.3489,
-    "y": -1765.47,
-    "price": 60000,
+    "x": 808.908,
+    "y": -759.291,
+    "price": 125000,
     "district": "Сан-Андреас"
   },
   {
@@ -23913,6 +23901,18 @@
     "x": 2094.12,
     "y": 650.4459,
     "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 750,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Baron_Scandino",
+    "status": "Аукцион",
+    "x": -2652.27,
+    "y": 841.7739,
+    "price": 160000,
     "district": "Сан-Андреас"
   },
   {
