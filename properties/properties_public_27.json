@@ -384,18 +384,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 33,
-    "server_id": 27,
-    "type": "house",
-    "name": "Degerev House",
-    "owner": "Evpantiy_Borz",
-    "status": "Занято",
-    "x": 2434.8,
-    "y": -1289.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 34,
     "server_id": 27,
     "type": "house",
@@ -20400,18 +20388,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1702,
-    "server_id": 27,
-    "type": "house",
-    "name": "tt -temichbrooklyn",
-    "owner": "Sila_Repa",
-    "status": "Занято",
-    "x": 2357.05,
-    "y": 1021.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1703,
     "server_id": 27,
     "type": "house",
@@ -20528,30 +20504,6 @@
     "status": "Занято",
     "x": 2417.74,
     "y": 1004.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1713,
-    "server_id": 27,
-    "type": "house",
-    "name": "@CitrusCG",
-    "owner": "Sila_Repa",
-    "status": "Занято",
-    "x": 2417.75,
-    "y": 994.9069,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1714,
-    "server_id": 27,
-    "type": "house",
-    "name": "@CitrusCG",
-    "owner": "Sila_Repa",
-    "status": "Занято",
-    "x": 2417.75,
-    "y": 985.3729,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24456,6 +24408,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 33,
+    "server_id": 27,
+    "type": "house",
+    "name": "Degerev House",
+    "owner": "Evpantiy_Borz",
+    "status": "Аукцион",
+    "x": 2434.8,
+    "y": -1289.38,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 505,
     "server_id": 27,
     "type": "house",
@@ -24465,6 +24429,42 @@
     "x": 1364.25,
     "y": 1969.15,
     "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1702,
+    "server_id": 27,
+    "type": "house",
+    "name": "tt -temichbrooklyn",
+    "owner": "Sila_Repa",
+    "status": "Аукцион",
+    "x": 2357.05,
+    "y": 1021.83,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1713,
+    "server_id": 27,
+    "type": "house",
+    "name": "@CitrusCG",
+    "owner": "Sila_Repa",
+    "status": "Аукцион",
+    "x": 2417.75,
+    "y": 994.9069,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1714,
+    "server_id": 27,
+    "type": "house",
+    "name": "@CitrusCG",
+    "owner": "Sila_Repa",
+    "status": "Аукцион",
+    "x": 2417.75,
+    "y": 985.3729,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
