@@ -2592,18 +2592,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 216,
-    "server_id": 31,
-    "type": "house",
-    "name": "Продам тел: 1223567",
-    "owner": "Transient_Reverie",
-    "status": "Занято",
-    "x": 910.38,
-    "y": -817.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 217,
     "server_id": 31,
     "type": "house",
@@ -8820,18 +8808,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 736,
-    "server_id": 31,
-    "type": "house",
-    "name": "Хатка",
-    "owner": "Transient_Reverie",
-    "status": "Занято",
-    "x": -2899.14,
-    "y": 1026.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 737,
     "server_id": 31,
     "type": "house",
@@ -11624,6 +11600,18 @@
     "status": "Занято",
     "x": -2379.32,
     "y": 2444.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 971,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hmeli_Suneli",
+    "status": "Занято",
+    "x": -2348.76,
+    "y": 2423.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23292,6 +23280,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 216,
+    "server_id": 31,
+    "type": "house",
+    "name": "Продам тел: 1223567",
+    "owner": "Transient_Reverie",
+    "status": "Аукцион",
+    "x": 910.38,
+    "y": -817.25,
+    "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 270,
     "server_id": 31,
     "type": "house",
@@ -23304,15 +23304,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 971,
+    "id": 736,
     "server_id": 31,
     "type": "house",
-    "name": "Дом",
-    "owner": "Hmeli_Suneli",
+    "name": "Хатка",
+    "owner": "Transient_Reverie",
     "status": "Аукцион",
-    "x": -2348.76,
-    "y": 2423.25,
-    "price": 65000,
+    "x": -2899.14,
+    "y": 1026.71,
+    "price": 11000,
     "district": "Сан-Андреас"
   },
   {
@@ -23361,30 +23361,6 @@
     "x": 158.63,
     "y": -1812.59,
     "price": 100000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 232,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Boris_Brytva",
-    "status": "Аукцион",
-    "x": 1071.66,
-    "y": -1438.98,
-    "price": 550000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 301,
-    "server_id": 31,
-    "type": "business",
-    "name": "Лотерейная",
-    "owner": "Boris_Brytva",
-    "status": "Аукцион",
-    "x": 1288.7,
-    "y": 271.232,
-    "price": 850000,
     "district": "Сан-Андреас"
   },
   {
@@ -25776,6 +25752,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 232,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Boris_Brytva",
+    "status": "Занято",
+    "x": 1071.66,
+    "y": -1438.98,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 352,
     "server_id": 31,
     "type": "business",
@@ -27020,6 +27008,18 @@
     "status": "Занято",
     "x": -2591.49,
     "y": 170.493,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 301,
+    "server_id": 31,
+    "type": "business",
+    "name": "Лотерейная",
+    "owner": "Boris_Brytva",
+    "status": "Занято",
+    "x": 1288.7,
+    "y": 271.232,
     "price": 0,
     "district": "Сан-Андреас"
   },

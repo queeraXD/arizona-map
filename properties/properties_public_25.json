@@ -5232,18 +5232,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 437,
-    "server_id": 25,
-    "type": "house",
-    "name": "grove",
-    "owner": "Vesperal_Sigh",
-    "status": "Занято",
-    "x": 2801.93,
-    "y": -1936.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 438,
     "server_id": 25,
     "type": "house",
@@ -8784,18 +8772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 734,
-    "server_id": 25,
-    "type": "house",
-    "name": "Meen?",
-    "owner": "Vesperal_Sigh",
-    "status": "Занято",
-    "x": -2904.37,
-    "y": 1118.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 735,
     "server_id": 25,
     "type": "house",
@@ -10292,6 +10268,18 @@
     "status": "Занято",
     "x": -1432.72,
     "y": -953.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 861,
+    "server_id": 25,
+    "type": "house",
+    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
+    "owner": "Zane_Ward",
+    "status": "Занято",
+    "x": -218.123,
+    "y": 2481.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14571,7 +14559,7 @@
     "id": 1218,
     "server_id": 25,
     "type": "house",
-    "name": "деп условия+подвал",
+    "name": "Дом престарелых!",
     "owner": "Nikolay_Wiggins",
     "status": "Занято",
     "x": -2843.22,
@@ -21172,7 +21160,7 @@
     "server_id": 25,
     "type": "house",
     "name": "хата Януковича",
-    "owner": "Ricardo_McKenzie",
+    "owner": "Nebesna_Mana",
     "status": "Занято",
     "x": 2003.69,
     "y": 2150.0,
@@ -21692,18 +21680,6 @@
     "status": "Занято",
     "x": 1495.69,
     "y": 2033.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1815,
-    "server_id": 25,
-    "type": "house",
-    "name": "Майнинг ферма корпорации Моделс",
-    "owner": "Vesperal_Sigh",
-    "status": "Занято",
-    "x": 1461.49,
-    "y": 2026.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23724,6 +23700,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 437,
+    "server_id": 25,
+    "type": "house",
+    "name": "grove",
+    "owner": "Vesperal_Sigh",
+    "status": "Аукцион",
+    "x": 2801.93,
+    "y": -1936.58,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 558,
     "server_id": 25,
     "type": "house",
@@ -23736,15 +23724,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 861,
+    "id": 734,
     "server_id": 25,
     "type": "house",
-    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
-    "owner": "Zane_Ward",
+    "name": "Meen?",
+    "owner": "Vesperal_Sigh",
     "status": "Аукцион",
-    "x": -218.123,
-    "y": 2481.23,
-    "price": 10501,
+    "x": -2904.37,
+    "y": 1118.84,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {
@@ -23757,6 +23745,18 @@
     "x": 2003.68,
     "y": 2159.12,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1815,
+    "server_id": 25,
+    "type": "house",
+    "name": "Майнинг ферма корпорации Моделс",
+    "owner": "Vesperal_Sigh",
+    "status": "Аукцион",
+    "x": 1461.49,
+    "y": 2026.69,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -25624,7 +25624,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Danya_Laker",
+    "owner": "Levi_Gorge",
     "status": "Занято",
     "x": -2767.51,
     "y": 788.72,
@@ -25804,7 +25804,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Danya_Laker",
+    "owner": "Levi_Gorge",
     "status": "Занято",
     "x": -1912.17,
     "y": 827.954,
@@ -25852,7 +25852,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Danya_Laker",
+    "owner": "Levi_Gorge",
     "status": "Занято",
     "x": 2366.7,
     "y": 2071.11,
