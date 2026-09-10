@@ -2640,18 +2640,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 220,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Baron_Scandino",
-    "status": "Занято",
-    "x": 808.908,
-    "y": -759.291,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 221,
     "server_id": 9,
     "type": "house",
@@ -9000,18 +8988,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 750,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом с набором Архитектора",
-    "owner": "Baron_Scandino",
-    "status": "Занято",
-    "x": -2652.27,
-    "y": 841.7739,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 751,
     "server_id": 9,
     "type": "house",
@@ -10172,18 +10148,6 @@
     "status": "Занято",
     "x": -2172.91,
     "y": 1080.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 848,
-    "server_id": 9,
-    "type": "house",
-    "name": "h0USE",
-    "owner": "Cold_Spades",
-    "status": "Занято",
-    "x": -2157.62,
-    "y": 1117.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23916,6 +23880,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 220,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Baron_Scandino",
+    "status": "Аукцион",
+    "x": 808.908,
+    "y": -759.291,
+    "price": 125000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 750,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом с набором Архитектора",
+    "owner": "Baron_Scandino",
+    "status": "Аукцион",
+    "x": -2652.27,
+    "y": 841.7739,
+    "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 848,
+    "server_id": 9,
+    "type": "house",
+    "name": "h0USE",
+    "owner": "Cold_Spades",
+    "status": "Аукцион",
+    "x": -2157.62,
+    "y": 1117.52,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1911,
     "server_id": 9,
     "type": "house",
@@ -23925,6 +23925,18 @@
     "x": 2473.09,
     "y": -1431.68,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 249,
+    "server_id": 9,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Balagan_Quartz",
+    "status": "Аукцион",
+    "x": 111.076,
+    "y": -1782.68,
+    "price": 145000,
     "district": "Сан-Андреас"
   },
   {
@@ -25328,18 +25340,6 @@
     "status": "Занято",
     "x": 2637.25,
     "y": 1129.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 249,
-    "server_id": 9,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Balagan_Quartz",
-    "status": "Занято",
-    "x": 111.076,
-    "y": -1782.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
