@@ -636,6 +636,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 53,
+    "server_id": 6,
+    "type": "house",
+    "name": "А308",
+    "owner": "Doctor_Bonov",
+    "status": "Занято",
+    "x": 2144.78,
+    "y": -1470.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 54,
     "server_id": 6,
     "type": "house",
@@ -16048,7 +16060,7 @@
     "server_id": 6,
     "type": "house",
     "name": "[$] #Cannon Dynasty [$] Tel:888",
-    "owner": "Isabella_Lafrau",
+    "owner": "Chief_Cannon",
     "status": "Занято",
     "x": -711.26,
     "y": 1344.08,
@@ -18135,7 +18147,7 @@
     "id": 1515,
     "server_id": 6,
     "type": "house",
-    "name": "4308",
+    "name": "А308",
     "owner": "Doctor_Bonov",
     "status": "Занято",
     "x": 2148.94,
@@ -20532,6 +20544,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1715,
+    "server_id": 6,
+    "type": "house",
+    "name": "Sweet home Alabama",
+    "owner": "James_Clouds",
+    "status": "Занято",
+    "x": -2736.88,
+    "y": 846.674,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1716,
     "server_id": 6,
     "type": "house",
@@ -22612,7 +22636,7 @@
     "server_id": 6,
     "type": "house",
     "name": "варька мой крашик",
-    "owner": "Penza_Hokage",
+    "owner": "Missed_Trendsetter",
     "status": "Занято",
     "x": 475.7369,
     "y": 1394.56,
@@ -24420,18 +24444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 53,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Unquestionable_Brown",
-    "status": "Аукцион",
-    "x": 2144.78,
-    "y": -1470.34,
-    "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 157,
     "server_id": 6,
     "type": "house",
@@ -24465,18 +24477,6 @@
     "x": -2477.89,
     "y": 1338.26,
     "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1715,
-    "server_id": 6,
-    "type": "house",
-    "name": "Sweet home Alabama",
-    "owner": "Ketamine_Dreams",
-    "status": "Аукцион",
-    "x": -2736.88,
-    "y": 846.674,
-    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -24548,54 +24548,6 @@
     "status": "Аукцион",
     "x": 349.0463,
     "y": -1492.653,
-    "price": 600000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 142,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Sadie_Sink",
-    "status": "Аукцион",
-    "x": -2713.194,
-    "y": 120.4582,
-    "price": 600000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 212,
-    "server_id": 6,
-    "type": "business",
-    "name": "Риелторское агентство",
-    "owner": "Sadie_Sink",
-    "status": "Аукцион",
-    "x": -2240.77,
-    "y": 577.863,
-    "price": 800000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 321,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Sadie_Sink",
-    "status": "Аукцион",
-    "x": -2412.909,
-    "y": 350.0828,
-    "price": 600000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 322,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Sadie_Sink",
-    "status": "Аукцион",
-    "x": 995.8817,
-    "y": -1156.47,
     "price": 600000,
     "district": "Сан-Андреас"
   },
@@ -27036,6 +26988,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 142,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Sadie_Sink",
+    "status": "Занято",
+    "x": -2713.194,
+    "y": 120.4582,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 143,
     "server_id": 6,
     "type": "business",
@@ -27272,6 +27236,30 @@
     "status": "Занято",
     "x": 1858.639,
     "y": 2159.243,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 321,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Sadie_Sink",
+    "status": "Занято",
+    "x": -2412.909,
+    "y": 350.0828,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 322,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Mario_Dack",
+    "status": "Занято",
+    "x": 995.8817,
+    "y": -1156.47,
     "price": 0,
     "district": "Сан-Андреас"
   },
