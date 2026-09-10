@@ -2628,6 +2628,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 220,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Baron_Scandino",
+    "status": "Занято",
+    "x": 808.908,
+    "y": -759.291,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 221,
     "server_id": 9,
     "type": "house",
@@ -3104,18 +3116,6 @@
     "status": "Занято",
     "x": 2374.05,
     "y": 42.1341,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 261,
-    "server_id": 9,
-    "type": "house",
-    "name": "Продается. Связь @denck",
-    "owner": "Void_Shard",
-    "status": "Занято",
-    "x": 2374.1,
-    "y": 21.8838,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5444,18 +5444,6 @@
     "status": "Занято",
     "x": 2069.02,
     "y": 696.2709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 458,
-    "server_id": 9,
-    "type": "house",
-    "name": "Продам фулл дом Связь @denck",
-    "owner": "Void_Shard",
-    "status": "Занято",
-    "x": 2094.12,
-    "y": 650.4459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23844,15 +23832,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 220,
+    "id": 261,
     "server_id": 9,
     "type": "house",
-    "name": "Дом",
-    "owner": "Baron_Scandino",
+    "name": "Продам дом",
+    "owner": "Void_Shard",
     "status": "Аукцион",
-    "x": 808.908,
-    "y": -759.291,
-    "price": 125000,
+    "x": 2374.1,
+    "y": 21.8838,
+    "price": 60000,
     "district": "Сан-Андреас"
   },
   {
@@ -23877,6 +23865,18 @@
     "x": 2204.61,
     "y": 62.2279,
     "price": 60000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 458,
+    "server_id": 9,
+    "type": "house",
+    "name": "Продам фулл дом",
+    "owner": "Void_Shard",
+    "status": "Аукцион",
+    "x": 2094.12,
+    "y": 650.4459,
+    "price": 40000,
     "district": "Сан-Андреас"
   },
   {

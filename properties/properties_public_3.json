@@ -420,18 +420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
-    "server_id": 3,
-    "type": "house",
-    "name": "ASTRAL HOUSE",
-    "owner": "Sellyp_Lovison",
-    "status": "Занято",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 36,
     "server_id": 3,
     "type": "house",
@@ -1023,7 +1011,7 @@
     "id": 85,
     "server_id": 3,
     "type": "house",
-    "name": "Greco Empire",
+    "name": "Дом",
     "owner": "Majorka_Osobov",
     "status": "Занято",
     "x": 2065.77,
@@ -9924,6 +9912,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 828,
+    "server_id": 3,
+    "type": "house",
+    "name": "У Лила По Выгоде!",
+    "owner": "Lil_Halaveras",
+    "status": "Занято",
+    "x": -2721.08,
+    "y": -44.7512,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 829,
     "server_id": 3,
     "type": "house",
@@ -9932,6 +9932,18 @@
     "status": "Занято",
     "x": -2720.98,
     "y": -23.3173,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 830,
+    "server_id": 3,
+    "type": "house",
+    "name": "Casio Family",
+    "owner": "Nazar_Parovozov",
+    "status": "Занято",
+    "x": -2723.16,
+    "y": -16.7231,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15588,6 +15600,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1304,
+    "server_id": 3,
+    "type": "house",
+    "name": "Catafalque",
+    "owner": "Tofik_Catafalque",
+    "status": "Занято",
+    "x": -2524.38,
+    "y": -145.865,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1305,
     "server_id": 3,
     "type": "house",
@@ -15932,18 +15956,6 @@
     "status": "Занято",
     "x": -2583.97,
     "y": 992.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1334,
-    "server_id": 3,
-    "type": "house",
-    "name": "с деп.условиями",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": -2596.65,
-    "y": 986.419,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17424,6 +17436,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1458,
+    "server_id": 3,
+    "type": "house",
+    "name": "gangster lovit",
+    "owner": "Konstantin_Pinko",
+    "status": "Занято",
+    "x": 1728.11,
+    "y": 2834.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1459,
     "server_id": 3,
     "type": "house",
@@ -17936,18 +17960,6 @@
     "status": "Занято",
     "x": -2359.21,
     "y": 721.6359,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1502,
-    "server_id": 3,
-    "type": "house",
-    "name": "с деп.условиями",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": -2359.34,
-    "y": 730.9409,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23620,7 +23632,7 @@
     "server_id": 3,
     "type": "house",
     "name": ".:: Designed by Bell Cranel ::.",
-    "owner": "Tutankhamun_AmunRa",
+    "owner": "Pierre_Parrish",
     "status": "Занято",
     "x": -91.2031,
     "y": 999.1909,
@@ -23800,7 +23812,7 @@
     "server_id": 3,
     "type": "house",
     "name": ".:: Designed by Bell Cranel ::.",
-    "owner": "Tutankhamun_AmunRa",
+    "owner": "Pierre_Parrish",
     "status": "Занято",
     "x": -54.6693,
     "y": 950.1279,
@@ -23931,12 +23943,24 @@
     "id": 2001,
     "server_id": 3,
     "type": "house",
-    "name": "Илья Заводчанин",
-    "owner": "Majorka_Osobov",
+    "name": "Чикардо (Greco)",
+    "owner": "Nfty_One",
     "status": "Занято",
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 35,
+    "server_id": 3,
+    "type": "house",
+    "name": "ASTRAL HOUSE",
+    "owner": "Sellyp_Lovison",
+    "status": "Аукцион",
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 17000,
     "district": "Сан-Андреас"
   },
   {
@@ -23952,30 +23976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 828,
-    "server_id": 3,
-    "type": "house",
-    "name": "Поместье",
-    "owner": "Vladimir_Casio",
-    "status": "Аукцион",
-    "x": -2721.08,
-    "y": -44.7512,
-    "price": 9000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 830,
-    "server_id": 3,
-    "type": "house",
-    "name": "Casio Family",
-    "owner": "Nazar_Parovozov",
-    "status": "Аукцион",
-    "x": -2723.16,
-    "y": -16.7231,
-    "price": 10000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 943,
     "server_id": 3,
     "type": "house",
@@ -23988,27 +23988,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1304,
+    "id": 1334,
     "server_id": 3,
     "type": "house",
-    "name": "деп.условиями",
-    "owner": "Konstantin_Pinko",
+    "name": "с деп.условиями",
+    "owner": "Sos_Krutoy",
     "status": "Аукцион",
-    "x": -2524.38,
-    "y": -145.865,
-    "price": 6000,
+    "x": -2596.65,
+    "y": 986.419,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1458,
+    "id": 1502,
     "server_id": 3,
     "type": "house",
-    "name": "gangster lovit",
-    "owner": "Konstantin_Pinko",
+    "name": "с деп.условиями",
+    "owner": "Sos_Krutoy",
     "status": "Аукцион",
-    "x": 1728.11,
-    "y": 2834.84,
-    "price": 6000,
+    "x": -2359.34,
+    "y": 730.9409,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {
@@ -27460,7 +27460,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Tutankhamun_AmunRa",
+    "owner": "Pierre_Parrish",
     "status": "Занято",
     "x": -2715.94,
     "y": -936.583,

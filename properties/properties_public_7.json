@@ -6748,7 +6748,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Helvette",
-    "owner": "Goody_Hitomi",
+    "owner": "Goody_Frozen",
     "status": "Занято",
     "x": 263.622,
     "y": 1171.51,
@@ -8144,18 +8144,6 @@
     "status": "Занято",
     "x": 956.921,
     "y": 2270.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 679,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Barbaris_Rais",
-    "status": "Занято",
-    "x": 986.426,
-    "y": 2271.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10308,18 +10296,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 859,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Roxy_Reynolds",
-    "status": "Занято",
-    "x": -2428.905,
-    "y": -1328.578,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 860,
     "server_id": 7,
     "type": "house",
@@ -10876,7 +10852,7 @@
     "server_id": 7,
     "type": "house",
     "name": "BeerЛога",
-    "owner": "Alexander_Freeman",
+    "owner": "Anthony_Ghoul",
     "status": "Занято",
     "x": -2478.73,
     "y": 2489.01,
@@ -18648,6 +18624,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1555,
+    "server_id": 7,
+    "type": "house",
+    "name": "Backwoods fam",
+    "owner": "Brazilian_Phonk",
+    "status": "Занято",
+    "x": 2510.57,
+    "y": -1132.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1556,
     "server_id": 7,
     "type": "house",
@@ -20036,18 +20024,6 @@
     "status": "Занято",
     "x": 932.8909,
     "y": 2271.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1672,
-    "server_id": 7,
-    "type": "house",
-    "name": "First Club ",
-    "owner": "Gatila_Sebekov",
-    "status": "Занято",
-    "x": 928.6149,
-    "y": 2319.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22372,7 +22348,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Helvette",
-    "owner": "Goody_Hitomi",
+    "owner": "Goody_Frozen",
     "status": "Занято",
     "x": 2017.74,
     "y": 2132.91,
@@ -22984,7 +22960,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Helvette",
-    "owner": "Goody_Hitomi",
+    "owner": "Goody_Frozen",
     "status": "Занято",
     "x": 2600.8,
     "y": -1220.5,
@@ -23452,7 +23428,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Gaba House",
-    "owner": "Goody_Hitomi",
+    "owner": "Goody_Frozen",
     "status": "Занято",
     "x": 2476.45,
     "y": -1391.66,
@@ -25488,6 +25464,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 679,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Barbaris_Rais",
+    "status": "Аукцион",
+    "x": 986.426,
+    "y": 2271.81,
+    "price": 45123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 859,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Roxy_Reynolds",
+    "status": "Аукцион",
+    "x": -2428.905,
+    "y": -1328.578,
+    "price": 500000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 898,
     "server_id": 7,
     "type": "house",
@@ -25500,15 +25500,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1555,
+    "id": 1672,
     "server_id": 7,
     "type": "house",
-    "name": "Backwoods fam",
-    "owner": "Brazilian_Phonk",
+    "name": "First Club ",
+    "owner": "Gatila_Sebekov",
     "status": "Аукцион",
-    "x": 2510.57,
-    "y": -1132.53,
-    "price": 50000,
+    "x": 928.6149,
+    "y": 2319.31,
+    "price": 60000,
     "district": "Сан-Андреас"
   },
   {

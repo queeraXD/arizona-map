@@ -1288,7 +1288,7 @@
     "server_id": 28,
     "type": "house",
     "name": "халупа депутата",
-    "owner": "Vasya_Pty",
+    "owner": "Babulka_Pulemet",
     "status": "Занято",
     "x": 2465.28,
     "y": -2020.5,
@@ -2520,18 +2520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 210,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Anastasia_Sobaka",
-    "status": "Занято",
-    "x": 1112.41,
-    "y": -742.067,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 211,
     "server_id": 28,
     "type": "house",
@@ -3320,18 +3308,6 @@
     "status": "Занято",
     "x": 2549.37,
     "y": -1032.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 279,
-    "server_id": 28,
-    "type": "house",
-    "name": "адольф еблан",
-    "owner": "Anastasia_Sobaka",
-    "status": "Занято",
-    "x": 2194.16,
-    "y": -1000.94,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12388,7 +12364,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Deluxe",
-    "owner": "Hunter_Soprano",
+    "owner": "Bite_Gromov",
     "status": "Занято",
     "x": -1776.13,
     "y": 1115.2,
@@ -18532,7 +18508,7 @@
     "server_id": 28,
     "type": "house",
     "name": "БалдХата",
-    "owner": "Vasya_Pty",
+    "owner": "Babulka_Pulemet",
     "status": "Занято",
     "x": 2660.37,
     "y": 742.544,
@@ -22212,6 +22188,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 210,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Anastasia_Sobaka",
+    "status": "Аукцион",
+    "x": 1112.41,
+    "y": -742.067,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 236,
     "server_id": 28,
     "type": "house",
@@ -22233,6 +22221,18 @@
     "x": 2526.83,
     "y": -1033.53,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 279,
+    "server_id": 28,
+    "type": "house",
+    "name": "адольф еблан",
+    "owner": "Anastasia_Sobaka",
+    "status": "Аукцион",
+    "x": 2194.16,
+    "y": -1000.94,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -22365,18 +22365,6 @@
     "x": 1868.35,
     "y": -2037.99,
     "price": 228,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 75,
-    "server_id": 28,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Benito_Cabrera",
-    "status": "Аукцион",
-    "x": 2556.26,
-    "y": 1872.19,
-    "price": 88123,
     "district": "Сан-Андреас"
   },
   {
@@ -23048,6 +23036,18 @@
     "status": "Занято",
     "x": 2104.24,
     "y": 2678.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 75,
+    "server_id": 28,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Anthony_Bosh",
+    "status": "Занято",
+    "x": 2556.26,
+    "y": 1872.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

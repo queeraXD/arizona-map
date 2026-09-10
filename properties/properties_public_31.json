@@ -2512,7 +2512,7 @@
     "server_id": 31,
     "type": "house",
     "name": "empty",
-    "owner": "Fedya_Valinov",
+    "owner": "Lovlya_Vlp",
     "status": "Занято",
     "x": 1112.41,
     "y": -742.067,
@@ -2584,7 +2584,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Продам тел: 1223567",
-    "owner": "Fedya_Valinov",
+    "owner": "Transient_Reverie",
     "status": "Занято",
     "x": 910.38,
     "y": -817.25,
@@ -6268,7 +6268,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Fedya_Valinov",
+    "owner": "Nox_Nostra",
     "status": "Занято",
     "x": 1641.14,
     "y": 2149.78,
@@ -7216,7 +7216,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Stepler House",
-    "owner": "Jessica_Stepler",
+    "owner": "Manual_Shadowraze",
     "status": "Занято",
     "x": -1562.54,
     "y": 2650.98,
@@ -10215,7 +10215,7 @@
     "id": 853,
     "server_id": 31,
     "type": "house",
-    "name": "Moody_House-SF-2",
+    "name": "Дом",
     "owner": "Ga_Tila",
     "status": "Занято",
     "x": -2102.68,
@@ -11612,18 +11612,6 @@
     "status": "Занято",
     "x": -2379.32,
     "y": 2444.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 971,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hmeli_Suneli",
-    "status": "Занято",
-    "x": -2348.76,
-    "y": 2423.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17432,6 +17420,18 @@
     "status": "Занято",
     "x": 981.5859,
     "y": 2414.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1458,
+    "server_id": 31,
+    "type": "house",
+    "name": "Тут живет Пашка",
+    "owner": "Pavel_Majorka",
+    "status": "Занято",
+    "x": 985.283,
+    "y": 2367.75,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23268,6 +23268,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 971,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hmeli_Suneli",
+    "status": "Аукцион",
+    "x": -2348.76,
+    "y": 2423.25,
+    "price": 65000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1225,
     "server_id": 31,
     "type": "house",
@@ -23288,18 +23300,6 @@
     "status": "Аукцион",
     "x": 927.994,
     "y": 2414.26,
-    "price": 15000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1458,
-    "server_id": 31,
-    "type": "house",
-    "name": "ДЕП УСЛОВИЯ",
-    "owner": "Hmeli_Suneli",
-    "status": "Аукцион",
-    "x": 985.283,
-    "y": 2367.75,
     "price": 15000,
     "district": "Сан-Андреас"
   },
@@ -23349,6 +23349,30 @@
     "x": -86.222,
     "y": 978.036,
     "price": 780000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 232,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Boris_Brytva",
+    "status": "Аукцион",
+    "x": 1071.66,
+    "y": -1438.98,
+    "price": 550000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 301,
+    "server_id": 31,
+    "type": "business",
+    "name": "Лотерейная",
+    "owner": "Boris_Brytva",
+    "status": "Аукцион",
+    "x": 1288.7,
+    "y": 271.232,
+    "price": 850000,
     "district": "Сан-Андреас"
   },
   {
@@ -25740,18 +25764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 232,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 1071.66,
-    "y": -1438.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 352,
     "server_id": 31,
     "type": "business",
@@ -27008,18 +27020,6 @@
     "status": "Занято",
     "x": -2591.49,
     "y": 170.493,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 301,
-    "server_id": 31,
-    "type": "business",
-    "name": "Лотерейная",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 1288.7,
-    "y": 271.232,
     "price": 0,
     "district": "Сан-Андреас"
   },
