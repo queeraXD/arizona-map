@@ -9420,18 +9420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 785,
-    "server_id": 5,
-    "type": "house",
-    "name": "инта больше хауса",
-    "owner": "Wonder_Full",
-    "status": "Занято",
-    "x": -2513.5,
-    "y": 867.418,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 786,
     "server_id": 5,
     "type": "house",
@@ -11040,18 +11028,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 921,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом Аи",
-    "owner": "Wonder_Full",
-    "status": "Занято",
-    "x": -2282.29,
-    "y": 1023.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 922,
     "server_id": 5,
     "type": "house",
@@ -11312,18 +11288,6 @@
     "status": "Занято",
     "x": -2620.99,
     "y": 802.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 944,
-    "server_id": 5,
-    "type": "house",
-    "name": "mao farm #1",
-    "owner": "Wonder_Full",
-    "status": "Занято",
-    "x": -2029.87,
-    "y": 796.638,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12408,18 +12372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1035,
-    "server_id": 5,
-    "type": "house",
-    "name": "Святыня",
-    "owner": "Wonder_Full",
-    "status": "Занято",
-    "x": 2552.73,
-    "y": -958.3809,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1036,
     "server_id": 5,
     "type": "house",
@@ -12572,18 +12524,6 @@
     "status": "Занято",
     "x": 2243.34,
     "y": -1397.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1049,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Wonder_Full",
-    "status": "Занято",
-    "x": 2230.5,
-    "y": -1396.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14588,6 +14528,18 @@
     "status": "Занято",
     "x": -2790.25,
     "y": 6.9994,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1217,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Rina_Alteroa",
+    "status": "Занято",
+    "x": -2793.14,
+    "y": 11.0691,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25080,6 +25032,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 785,
+    "server_id": 5,
+    "type": "house",
+    "name": "инта больше хауса",
+    "owner": "Wonder_Full",
+    "status": "Аукцион",
+    "x": -2513.5,
+    "y": 867.418,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 850,
     "server_id": 5,
     "type": "house",
@@ -25092,15 +25056,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1217,
+    "id": 921,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом Аи",
+    "owner": "Wonder_Full",
+    "status": "Аукцион",
+    "x": -2282.29,
+    "y": 1023.17,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 944,
+    "server_id": 5,
+    "type": "house",
+    "name": "mao farm #1",
+    "owner": "Wonder_Full",
+    "status": "Аукцион",
+    "x": -2029.87,
+    "y": 796.638,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1035,
+    "server_id": 5,
+    "type": "house",
+    "name": "Святыня",
+    "owner": "Wonder_Full",
+    "status": "Аукцион",
+    "x": 2552.73,
+    "y": -958.3809,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1049,
     "server_id": 5,
     "type": "house",
     "name": "Дом",
-    "owner": "Wolf_Gray",
+    "owner": "Wonder_Full",
     "status": "Аукцион",
-    "x": -2793.14,
-    "y": 11.0691,
-    "price": 4000,
+    "x": 2230.5,
+    "y": -1396.98,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {

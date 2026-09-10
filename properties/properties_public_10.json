@@ -5364,6 +5364,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 447,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yapy_May",
+    "status": "Занято",
+    "x": 2457.76,
+    "y": -1054.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 448,
     "server_id": 10,
     "type": "house",
@@ -5780,18 +5792,6 @@
     "status": "Занято",
     "x": 2206.36,
     "y": 691.505,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 483,
-    "server_id": 10,
-    "type": "house",
-    "name": "lover by 666raskymar(асвальдо)",
-    "owner": "Carlos_Barakudov",
-    "status": "Занято",
-    "x": 2177.57,
-    "y": 735.885,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9980,18 +9980,6 @@
     "status": "Занято",
     "x": -2281.59,
     "y": 873.2329,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 836,
-    "server_id": 10,
-    "type": "house",
-    "name": "Investor",
-    "owner": "Dimoj_Artt",
-    "status": "Занято",
-    "x": -2284.87,
-    "y": 849.708,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23136,15 +23124,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 447,
+    "id": 483,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
-    "owner": "Yapy_May",
-    "status": "Аукцион",
-    "x": 2457.76,
-    "y": -1054.57,
-    "price": 5000,
+    "name": "lover by 666raskymar(асвальдо)",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2177.57,
+    "y": 735.885,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23181,6 +23169,18 @@
     "x": 1978.33,
     "y": 715.1459,
     "price": 800,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 836,
+    "server_id": 10,
+    "type": "house",
+    "name": "Investor",
+    "owner": "Dimoj_Artt",
+    "status": "Аукцион",
+    "x": -2284.87,
+    "y": 849.708,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
