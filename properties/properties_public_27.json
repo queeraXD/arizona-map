@@ -6048,18 +6048,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 505,
-    "server_id": 27,
-    "type": "house",
-    "name": "Деп.условия",
-    "owner": "Xiao_Genau",
-    "status": "Занято",
-    "x": 1364.25,
-    "y": 1969.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 506,
     "server_id": 27,
     "type": "house",
@@ -20880,18 +20868,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1741,
-    "server_id": 27,
-    "type": "house",
-    "name": "У Туриста",
-    "owner": "Archi_Rock",
-    "status": "Занято",
-    "x": 2615.11,
-    "y": -1216.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1742,
     "server_id": 27,
     "type": "house",
@@ -24456,6 +24432,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1741,
+    "server_id": 27,
+    "type": "house",
+    "name": "У Туриста",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2615.11,
+    "y": -1216.42,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 25,
     "server_id": 27,
     "type": "house",
@@ -24465,6 +24453,18 @@
     "x": 2250.11,
     "y": -1280.4,
     "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 505,
+    "server_id": 27,
+    "type": "house",
+    "name": "Деп.условия",
+    "owner": "Xiao_Genau",
+    "status": "Аукцион",
+    "x": 1364.25,
+    "y": 1969.15,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
