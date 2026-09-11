@@ -2520,18 +2520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 210,
-    "server_id": 31,
-    "type": "house",
-    "name": "empty",
-    "owner": "Lovlya_Vlp",
-    "status": "Занято",
-    "x": 1112.41,
-    "y": -742.067,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 211,
     "server_id": 31,
     "type": "house",
@@ -7232,18 +7220,6 @@
     "status": "Занято",
     "x": -1532.87,
     "y": 2656.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 603,
-    "server_id": 31,
-    "type": "house",
-    "name": "Stepler House",
-    "owner": "Manual_Shadowraze",
-    "status": "Занято",
-    "x": -1562.54,
-    "y": 2650.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23349,6 +23325,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 210,
+    "server_id": 31,
+    "type": "house",
+    "name": "empty",
+    "owner": "Lovlya_Vlp",
+    "status": "Аукцион",
+    "x": 1112.41,
+    "y": -742.067,
+    "price": 60000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 603,
+    "server_id": 31,
+    "type": "house",
+    "name": "Stepler House",
+    "owner": "Manual_Shadowraze",
+    "status": "Аукцион",
+    "x": -1562.54,
+    "y": 2650.98,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {

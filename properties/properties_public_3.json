@@ -7884,18 +7884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 658,
-    "server_id": 3,
-    "type": "house",
-    "name": "а там пиздец окуп",
-    "owner": "Martine_Rose",
-    "status": "Занято",
-    "x": 1028.89,
-    "y": 1905.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 659,
     "server_id": 3,
     "type": "house",
@@ -9660,18 +9648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 808,
-    "server_id": 3,
-    "type": "house",
-    "name": "Основной домик",
-    "owner": "Liza_Typova",
-    "status": "Занято",
-    "x": -2722.88,
-    "y": -127.9029,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 809,
     "server_id": 3,
     "type": "house",
@@ -9704,30 +9680,6 @@
     "status": "Занято",
     "x": -2721.11,
     "y": -146.664,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 812,
-    "server_id": 3,
-    "type": "house",
-    "name": "монополия домик 2",
-    "owner": "Liza_Typova",
-    "status": "Занято",
-    "x": -2723.62,
-    "y": -162.701,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 813,
-    "server_id": 3,
-    "type": "house",
-    "name": "монополия домик 1",
-    "owner": "Liza_Typova",
-    "status": "Занято",
-    "x": -2723.28,
-    "y": -166.408,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23940,6 +23892,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 658,
+    "server_id": 3,
+    "type": "house",
+    "name": "а там пиздец окуп",
+    "owner": "Martine_Rose",
+    "status": "Аукцион",
+    "x": 1028.89,
+    "y": 1905.89,
+    "price": 3999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 722,
     "server_id": 3,
     "type": "house",
@@ -23961,6 +23925,42 @@
     "x": -2541.25,
     "y": 750.9169,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 808,
+    "server_id": 3,
+    "type": "house",
+    "name": "Основной домик",
+    "owner": "Liza_Typova",
+    "status": "Аукцион",
+    "x": -2722.88,
+    "y": -127.9029,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 812,
+    "server_id": 3,
+    "type": "house",
+    "name": "монополия домик 2",
+    "owner": "Liza_Typova",
+    "status": "Аукцион",
+    "x": -2723.62,
+    "y": -162.701,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 813,
+    "server_id": 3,
+    "type": "house",
+    "name": "монополия домик 1",
+    "owner": "Liza_Typova",
+    "status": "Аукцион",
+    "x": -2723.28,
+    "y": -166.408,
+    "price": 9000,
     "district": "Сан-Андреас"
   },
   {
