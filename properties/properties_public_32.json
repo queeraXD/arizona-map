@@ -2944,7 +2944,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Набор Архитектора 11 слотов",
-    "owner": "Martin_Navarro",
+    "owner": "Mops_Tranquil",
     "status": "Занято",
     "x": 398.14,
     "y": -1271.38,
@@ -9236,6 +9236,18 @@
     "status": "Занято",
     "x": -2622.52,
     "y": 782.702,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 774,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Colly_Hawk",
+    "status": "Занято",
+    "x": -2621.68,
+    "y": 802.908,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22488,18 +22500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 774,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -2621.68,
-    "y": 802.908,
-    "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1645,
     "server_id": 32,
     "type": "house",
@@ -22512,27 +22512,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 112,
+    "id": 189,
     "server_id": 32,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "Государство",
+    "name": "Ларек с уличной едой",
+    "owner": "Pay_Price",
     "status": "Аукцион",
-    "x": -2672.26,
-    "y": 258.431,
-    "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 312,
-    "server_id": 32,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Kennedy_White",
-    "status": "Аукцион",
-    "x": 641.439,
-    "y": -494.824,
-    "price": 230000,
+    "x": -1981.62,
+    "y": 174.636,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -24408,6 +24396,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 112,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Colly_Hawk",
+    "status": "Занято",
+    "x": -2672.26,
+    "y": 258.431,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 113,
     "server_id": 32,
     "type": "business",
@@ -25440,18 +25440,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 189,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Pay_Price",
-    "status": "Занято",
-    "x": -1981.62,
-    "y": 174.636,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 190,
     "server_id": 32,
     "type": "business",
@@ -26324,6 +26312,18 @@
     "status": "Занято",
     "x": -20.8111,
     "y": -1548.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 312,
+    "server_id": 32,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Kennedy_White",
+    "status": "Занято",
+    "x": 641.439,
+    "y": -494.824,
     "price": 0,
     "district": "Сан-Андреас"
   },

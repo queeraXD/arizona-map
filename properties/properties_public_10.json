@@ -6336,6 +6336,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 530,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Owner_Family",
+    "status": "Занято",
+    "x": 1967.26,
+    "y": 2766.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 531,
     "server_id": 10,
     "type": "house",
@@ -8860,7 +8872,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Домек",
-    "owner": "Volodymir_Zelenskiy",
+    "owner": "Shashka_Kiskoder",
     "status": "Занято",
     "x": -2860.27,
     "y": 835.6959,
@@ -11492,6 +11504,18 @@
     "status": "Занято",
     "x": -2158.17,
     "y": 753.703,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 962,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ston_Collins",
+    "status": "Занято",
+    "x": -2168.74,
+    "y": 743.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18384,6 +18408,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1546,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vanua_Desert",
+    "status": "Занято",
+    "x": -2238.31,
+    "y": 1117.49,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1547,
     "server_id": 10,
     "type": "house",
@@ -22948,7 +22984,7 @@
     "server_id": 10,
     "type": "house",
     "name": "JustinHouse",
-    "owner": "Volodymir_Zelenskiy",
+    "owner": "Shashka_Kiskoder",
     "status": "Занято",
     "x": -86.222,
     "y": 978.036,
@@ -23160,30 +23196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 530,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Owner_Family",
-    "status": "Аукцион",
-    "x": 1967.26,
-    "y": 2766.48,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 962,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Owner_Family",
-    "status": "Аукцион",
-    "x": -2168.74,
-    "y": 743.76,
-    "price": 500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1137,
     "server_id": 10,
     "type": "house",
@@ -23288,18 +23300,6 @@
     "status": "Аукцион",
     "x": -2593.42,
     "y": 874.7509,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1546,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vanua_Desert",
-    "status": "Аукцион",
-    "x": -2238.31,
-    "y": 1117.49,
     "price": 1000,
     "district": "Сан-Андреас"
   },
@@ -23620,7 +23620,7 @@
     "server_id": 10,
     "type": "business",
     "name": "Бар",
-    "owner": "Ganja_Reaper",
+    "owner": "Slava_Marlow",
     "status": "Занято",
     "x": -36.098,
     "y": 2349.65,
@@ -26200,7 +26200,7 @@
     "server_id": 10,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Ganja_Reaper",
+    "owner": "Slava_Marlow",
     "status": "Занято",
     "x": 2351.41,
     "y": 2405.59,

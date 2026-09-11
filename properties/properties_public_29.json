@@ -1404,18 +1404,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 117,
-    "server_id": 29,
-    "type": "house",
-    "name": "налдон лорвит",
-    "owner": "Sky_Taffanel",
-    "status": "Занято",
-    "x": -2402.41,
-    "y": 886.161,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 118,
     "server_id": 29,
     "type": "house",
@@ -8888,6 +8876,18 @@
     "status": "Занято",
     "x": -2860.27,
     "y": 835.6959,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 742,
+    "server_id": 29,
+    "type": "house",
+    "name": "Основной дом",
+    "owner": "Yarik_Arakis",
+    "status": "Занято",
+    "x": -2882.27,
+    "y": 779.971,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19828,7 +19828,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Bulka House",
-    "owner": "Ashot_NewLight",
+    "owner": "Rafael_Brunelle",
     "status": "Занято",
     "x": 2468.25,
     "y": -1424.58,
@@ -19880,18 +19880,6 @@
     "status": "Занято",
     "x": 2476.27,
     "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1665,
-    "server_id": 29,
-    "type": "house",
-    "name": "Belucchi House / Деп условия",
-    "owner": "Ashot_NewLight",
-    "status": "Занято",
-    "x": 2476.39,
-    "y": -1366.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20059,18 +20047,6 @@
     "owner": "Milkreo_Stoicmindset",
     "status": "Занято",
     "x": 2492.06,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1680,
-    "server_id": 29,
-    "type": "house",
-    "name": "darkness ebt!",
-    "owner": "Ashot_NewLight",
-    "status": "Занято",
-    "x": 2487.31,
     "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21036,6 +21012,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 117,
+    "server_id": 29,
+    "type": "house",
+    "name": "фиууу",
+    "owner": "Yana_Saltaformajo",
+    "status": "Аукцион",
+    "x": -2402.41,
+    "y": 886.161,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 499,
     "server_id": 29,
     "type": "house",
@@ -21045,18 +21033,6 @@
     "x": 1409.02,
     "y": 1919.98,
     "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 742,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kedroviy_Oreh",
-    "status": "Аукцион",
-    "x": -2882.27,
-    "y": 779.971,
-    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -21117,6 +21093,30 @@
     "x": 531.333,
     "y": 1336.2,
     "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1665,
+    "server_id": 29,
+    "type": "house",
+    "name": "Belucchi House / Деп условия",
+    "owner": "Ashot_NewLight",
+    "status": "Аукцион",
+    "x": 2476.39,
+    "y": -1366.2,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1680,
+    "server_id": 29,
+    "type": "house",
+    "name": "darkness ebt!",
+    "owner": "Ashot_NewLight",
+    "status": "Аукцион",
+    "x": 2487.31,
+    "y": -1391.71,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
