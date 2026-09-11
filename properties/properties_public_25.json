@@ -2352,6 +2352,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 196,
+    "server_id": 25,
+    "type": "house",
+    "name": "S -- VIZATY -- S",
+    "owner": "Vizart_Wemp",
+    "status": "Занято",
+    "x": 167.158,
+    "y": -1758.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 197,
     "server_id": 25,
     "type": "house",
@@ -4128,18 +4140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 345,
-    "server_id": 25,
-    "type": "house",
-    "name": "продам за дорага",
-    "owner": "Wyatt_Jack",
-    "status": "Занято",
-    "x": 1245.81,
-    "y": -902.788,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 346,
     "server_id": 25,
     "type": "house",
@@ -4160,42 +4160,6 @@
     "status": "Занято",
     "x": 1242.61,
     "y": -878.179,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 348,
-    "server_id": 25,
-    "type": "house",
-    "name": "Scruggs",
-    "owner": "Atlantic_Runner",
-    "status": "Занято",
-    "x": 1249.33,
-    "y": -877.3189,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 349,
-    "server_id": 25,
-    "type": "house",
-    "name": "Scruggs",
-    "owner": "Atlantic_Runner",
-    "status": "Занято",
-    "x": 1242.29,
-    "y": -878.2819,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 25,
-    "type": "house",
-    "name": "Scruggs",
-    "owner": "Atlantic_Runner",
-    "status": "Занято",
-    "x": 1249.51,
-    "y": -877.4349,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10280,18 +10244,6 @@
     "status": "Занято",
     "x": -1432.72,
     "y": -953.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 861,
-    "server_id": 25,
-    "type": "house",
-    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
-    "owner": "Zane_Ward",
-    "status": "Занято",
-    "x": -218.123,
-    "y": 2481.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21048,18 +21000,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1758,
-    "server_id": 25,
-    "type": "house",
-    "name": "Tixo",
-    "owner": "Wyatt_Jack",
-    "status": "Занято",
-    "x": 2003.68,
-    "y": 2159.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1759,
     "server_id": 25,
     "type": "house",
@@ -23712,15 +23652,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 196,
+    "id": 345,
     "server_id": 25,
     "type": "house",
-    "name": "продам @chteeei",
-    "owner": "Lovec_Pisunov",
+    "name": "продам за дорага",
+    "owner": "Wyatt_Jack",
     "status": "Аукцион",
-    "x": 167.158,
-    "y": -1758.93,
-    "price": 20000,
+    "x": 1245.81,
+    "y": -902.788,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 348,
+    "server_id": 25,
+    "type": "house",
+    "name": "Scruggs",
+    "owner": "Atlantic_Runner",
+    "status": "Аукцион",
+    "x": 1249.33,
+    "y": -877.3189,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 349,
+    "server_id": 25,
+    "type": "house",
+    "name": "Scruggs",
+    "owner": "Atlantic_Runner",
+    "status": "Аукцион",
+    "x": 1242.29,
+    "y": -878.2819,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 25,
+    "type": "house",
+    "name": "Scruggs",
+    "owner": "Atlantic_Runner",
+    "status": "Аукцион",
+    "x": 1249.51,
+    "y": -877.4349,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -23745,6 +23721,30 @@
     "x": 985.0139,
     "y": 1930.67,
     "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 861,
+    "server_id": 25,
+    "type": "house",
+    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
+    "owner": "Zane_Ward",
+    "status": "Аукцион",
+    "x": -218.123,
+    "y": 2481.23,
+    "price": 10501,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1758,
+    "server_id": 25,
+    "type": "house",
+    "name": "Tixo",
+    "owner": "Wyatt_Jack",
+    "status": "Аукцион",
+    "x": 2003.68,
+    "y": 2159.12,
+    "price": 900,
     "district": "Сан-Андреас"
   },
   {

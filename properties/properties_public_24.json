@@ -5196,18 +5196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 433,
-    "server_id": 24,
-    "type": "house",
-    "name": "Kenj1 Home",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 2284.16,
-    "y": -1046.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 434,
     "server_id": 24,
     "type": "house",
@@ -5547,7 +5535,7 @@
     "id": 462,
     "server_id": 24,
     "type": "house",
-    "name": "rezo castle",
+    "name": "Zitraks House",
     "owner": "Night_Crystal",
     "status": "Занято",
     "x": 2178.13,
@@ -6020,18 +6008,6 @@
     "status": "Занято",
     "x": 1364.3,
     "y": 1931.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 503,
-    "server_id": 24,
-    "type": "house",
-    "name": "matabot",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 1341.49,
-    "y": 1930.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7624,7 +7600,7 @@
     "server_id": 24,
     "type": "house",
     "name": "|DISTURBED|",
-    "owner": "Konstantin_Pinko",
+    "owner": "Ethan_Davenport",
     "status": "Занято",
     "x": -328.5119,
     "y": 1118.86,
@@ -20980,7 +20956,7 @@
     "server_id": 24,
     "type": "house",
     "name": "miner 6/13",
-    "owner": "Konstantin_Pinko",
+    "owner": "Ethan_Davenport",
     "status": "Занято",
     "x": 2601.05,
     "y": -1207.49,
@@ -21936,6 +21912,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 433,
+    "server_id": 24,
+    "type": "house",
+    "name": "Kenj1 Home",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": 2284.16,
+    "y": -1046.07,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 476,
     "server_id": 24,
     "type": "house",
@@ -21945,6 +21933,18 @@
     "x": 2317.23,
     "y": 690.3499,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 503,
+    "server_id": 24,
+    "type": "house",
+    "name": "matabot",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": 1341.49,
+    "y": 1930.03,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -22420,7 +22420,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Бар",
-    "owner": "Konstantin_Pinko",
+    "owner": "Ethan_Davenport",
     "status": "Занято",
     "x": 1876.07,
     "y": 2234.15,
