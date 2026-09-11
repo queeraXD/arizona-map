@@ -2580,18 +2580,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 216,
-    "server_id": 31,
-    "type": "house",
-    "name": "Продам тел: 1223567",
-    "owner": "Transient_Reverie",
-    "status": "Занято",
-    "x": 910.38,
-    "y": -817.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 217,
     "server_id": 31,
     "type": "house",
@@ -15264,18 +15252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1278,
-    "server_id": 31,
-    "type": "house",
-    "name": "Flament 5/15",
-    "owner": "Mathieu_Ball",
-    "status": "Занято",
-    "x": -2723.06,
-    "y": 21.9043,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1279,
     "server_id": 31,
     "type": "house",
@@ -22299,7 +22275,7 @@
     "id": 1867,
     "server_id": 31,
     "type": "house",
-    "name": "Пожарная часть",
+    "name": "Чикибанбони",
     "owner": "Miki_Realsize",
     "status": "Занято",
     "x": -2449.79,
@@ -23268,6 +23244,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 216,
+    "server_id": 31,
+    "type": "house",
+    "name": "Продам тел: 1223567",
+    "owner": "Transient_Reverie",
+    "status": "Аукцион",
+    "x": 910.38,
+    "y": -817.25,
+    "price": 39000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 523,
     "server_id": 31,
     "type": "house",
@@ -23313,6 +23301,18 @@
     "x": -2895.53,
     "y": 1017.01,
     "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1278,
+    "server_id": 31,
+    "type": "house",
+    "name": "Flament 5/15",
+    "owner": "Mathieu_Ball",
+    "status": "Аукцион",
+    "x": -2723.06,
+    "y": 21.9043,
+    "price": 17000,
     "district": "Сан-Андреас"
   },
   {
@@ -25552,7 +25552,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Ice_Lokerr",
+    "owner": "Mickey_Desmond",
     "status": "Занято",
     "x": 2262.75,
     "y": 2036.09,
