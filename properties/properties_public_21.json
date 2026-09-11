@@ -132,18 +132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 11,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Samirka_Maestro",
-    "status": "Занято",
-    "x": 2093.85,
-    "y": -1122.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 12,
     "server_id": 21,
     "type": "house",
@@ -8352,18 +8340,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 698,
-    "server_id": 21,
-    "type": "house",
-    "name": "Dead Dynasty",
-    "owner": "Casio_Chorizo",
-    "status": "Занято",
-    "x": 1407.6,
-    "y": 2524.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 700,
     "server_id": 21,
     "type": "house",
@@ -9651,7 +9627,7 @@
     "id": 807,
     "server_id": 21,
     "type": "house",
-    "name": "Дом",
+    "name": "домик Pitera:)",
     "owner": "Piter_Polker",
     "status": "Занято",
     "x": -2723.12,
@@ -21864,6 +21840,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 11,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Samirka_Maestro",
+    "status": "Аукцион",
+    "x": 2093.85,
+    "y": -1122.68,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 223,
     "server_id": 21,
     "type": "house",
@@ -21885,6 +21873,18 @@
     "x": 228.067,
     "y": -1405.5,
     "price": 8500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 698,
+    "server_id": 21,
+    "type": "house",
+    "name": "Dead Dynasty",
+    "owner": "Casio_Chorizo",
+    "status": "Аукцион",
+    "x": 1407.6,
+    "y": 2524.46,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -21920,7 +21920,7 @@
     "status": "Аукцион",
     "x": 142.6089,
     "y": -1470.36,
-    "price": 8500,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {

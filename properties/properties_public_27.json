@@ -5352,18 +5352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 447,
-    "server_id": 27,
-    "type": "house",
-    "name": "дом Night wolf",
-    "owner": "Azam_Mauntain",
-    "status": "Занято",
-    "x": 2457.76,
-    "y": -1054.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 448,
     "server_id": 27,
     "type": "house",
@@ -5540,6 +5528,18 @@
     "status": "Занято",
     "x": 2178.13,
     "y": 655.619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 463,
+    "server_id": 27,
+    "type": "house",
+    "name": "sell",
+    "owner": "Dagan_Kilimgi",
+    "status": "Занято",
+    "x": 2206.36,
+    "y": 656.3729,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6032,18 +6032,6 @@
     "status": "Занято",
     "x": 1314.4,
     "y": 1930.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 505,
-    "server_id": 27,
-    "type": "house",
-    "name": "Деп.условия",
-    "owner": "Fama_Avtoritet",
-    "status": "Занято",
-    "x": 1364.25,
-    "y": 1969.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9840,6 +9828,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 822,
+    "server_id": 27,
+    "type": "house",
+    "name": "Бункер Satoshi",
+    "owner": "Akira_Quadeentino",
+    "status": "Занято",
+    "x": -2691.24,
+    "y": -134.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 823,
     "server_id": 27,
     "type": "house",
@@ -11396,6 +11396,18 @@
     "status": "Занято",
     "x": -2160.15,
     "y": 983.676,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 954,
+    "server_id": 27,
+    "type": "house",
+    "name": "Akira",
+    "owner": "Akira_Quadeentino",
+    "status": "Занято",
+    "x": -2159.76,
+    "y": 965.578,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15019,6 +15031,18 @@
     "owner": "Tim_Vercetti",
     "status": "Занято",
     "x": -2303.4,
+    "y": 656.7349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1257,
+    "server_id": 27,
+    "type": "house",
+    "name": "Skromniy Home",
+    "owner": "Ihor_Skromniy",
+    "status": "Занято",
+    "x": -2321.74,
     "y": 656.7349,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21040,7 +21064,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Дом Ибрашы (Семья:Dodger)",
-    "owner": "Luke_Monte",
+    "owner": "Pain_Akatsuki",
     "status": "Занято",
     "x": -216.6309,
     "y": 930.1619,
@@ -23616,6 +23640,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1981,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом Бутылки",
+    "owner": "Luke_Monte",
+    "status": "Занято",
+    "x": 1898.99,
+    "y": -2037.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1982,
     "server_id": 27,
     "type": "house",
@@ -24300,27 +24336,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 463,
+    "id": 447,
     "server_id": 27,
     "type": "house",
-    "name": "sell",
-    "owner": "Dagan_Kilimgi",
+    "name": "дом Night wolf",
+    "owner": "Azam_Mauntain",
     "status": "Аукцион",
-    "x": 2206.36,
-    "y": 656.3729,
-    "price": 3750,
+    "x": 2457.76,
+    "y": -1054.57,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 822,
+    "id": 505,
     "server_id": 27,
     "type": "house",
-    "name": "Бункер Satoshi",
-    "owner": "Akira_Quadeentino",
+    "name": "Деп.условия",
+    "owner": "Fama_Avtoritet",
     "status": "Аукцион",
-    "x": -2691.24,
-    "y": -134.0,
-    "price": 10000,
+    "x": 1364.25,
+    "y": 1969.15,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
@@ -24333,30 +24369,6 @@
     "x": -2282.39,
     "y": 1070.59,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 954,
-    "server_id": 27,
-    "type": "house",
-    "name": "Akira",
-    "owner": "Akira_Quadeentino",
-    "status": "Аукцион",
-    "x": -2159.76,
-    "y": 965.578,
-    "price": 10000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1257,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом Бутылки",
-    "owner": "Bottle_Rose",
-    "status": "Аукцион",
-    "x": -2321.74,
-    "y": 656.7349,
-    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -24444,18 +24456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1981,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом Бутылки",
-    "owner": "Bottle_Rose",
-    "status": "Аукцион",
-    "x": 1898.99,
-    "y": -2037.87,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1985,
     "server_id": 27,
     "type": "house",
@@ -24477,6 +24477,18 @@
     "x": 2506.95,
     "y": 2120.28,
     "price": 120000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 293,
+    "server_id": 27,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "[24]Samp_Bet",
+    "status": "Аукцион",
+    "x": 563.087,
+    "y": 864.122,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -27704,18 +27716,6 @@
     "status": "Занято",
     "x": -243.623,
     "y": -1364.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 293,
-    "server_id": 27,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "[24]Samp_Bet",
-    "status": "Занято",
-    "x": 563.087,
-    "y": 864.122,
     "price": 0,
     "district": "Сан-Андреас"
   },
