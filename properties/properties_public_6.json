@@ -8832,6 +8832,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 736,
+    "server_id": 6,
+    "type": "house",
+    "name": "thanos forever",
+    "owner": "Dexter_Falcone",
+    "status": "Занято",
+    "x": -2622.35,
+    "y": -198.1479,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 737,
     "server_id": 6,
     "type": "house",
@@ -11600,18 +11612,6 @@
     "status": "Занято",
     "x": -2029.77,
     "y": 745.398,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 968,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом вернулся обратно 2023-2026",
-    "owner": "Benzo_Hokage",
-    "status": "Занято",
-    "x": -2048.1,
-    "y": 745.9359,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24444,15 +24444,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 736,
+    "id": 968,
     "server_id": 6,
     "type": "house",
-    "name": "thanos forever",
-    "owner": "Vladimir_Slatt",
+    "name": "Дом вернулся обратно 2023-2026",
+    "owner": "Benzo_Hokage",
     "status": "Аукцион",
-    "x": -2622.35,
-    "y": -198.1479,
-    "price": 1,
+    "x": -2048.1,
+    "y": 745.9359,
+    "price": 4500,
     "district": "Сан-Андреас"
   },
   {
@@ -24525,66 +24525,6 @@
     "x": 475.7369,
     "y": 1394.56,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 12,
-    "server_id": 6,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Sadie_Sink",
-    "status": "Аукцион",
-    "x": 695.01,
-    "y": -500.134,
-    "price": 600000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 139,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Sadie_Sink",
-    "status": "Аукцион",
-    "x": 349.0463,
-    "y": -1492.653,
-    "price": 650000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 142,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Sadie_Sink",
-    "status": "Аукцион",
-    "x": -2713.194,
-    "y": 120.4582,
-    "price": 600000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 212,
-    "server_id": 6,
-    "type": "business",
-    "name": "Риелторское агентство",
-    "owner": "Sadie_Sink",
-    "status": "Аукцион",
-    "x": -2240.77,
-    "y": 577.863,
-    "price": 750000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 321,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Sadie_Sink",
-    "status": "Аукцион",
-    "x": -2412.909,
-    "y": 350.0828,
-    "price": 600000,
     "district": "Сан-Андреас"
   },
   {
@@ -25472,6 +25412,18 @@
     "status": "Занято",
     "x": 1163.56,
     "y": -1690.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 12,
+    "server_id": 6,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Sadie_Sink",
+    "status": "Занято",
+    "x": 695.01,
+    "y": -500.134,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27000,6 +26952,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 139,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Sadie_Sink",
+    "status": "Занято",
+    "x": 349.0463,
+    "y": -1492.653,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 140,
     "server_id": 6,
     "type": "business",
@@ -27020,6 +26984,18 @@
     "status": "Занято",
     "x": 1547.183,
     "y": -1269.795,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 142,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Sadie_Sink",
+    "status": "Занято",
+    "x": -2713.194,
+    "y": 120.4582,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27260,6 +27236,18 @@
     "status": "Занято",
     "x": 1858.639,
     "y": 2159.243,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 321,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Sadie_Sink",
+    "status": "Занято",
+    "x": -2412.909,
+    "y": 350.0828,
     "price": 0,
     "district": "Сан-Андреас"
   },

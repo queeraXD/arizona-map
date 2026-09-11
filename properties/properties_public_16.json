@@ -1044,18 +1044,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 89,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "serty",
-    "status": "Занято",
-    "x": 2014.4,
-    "y": -1716.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 90,
     "server_id": 16,
     "type": "house",
@@ -1784,6 +1772,18 @@
     "status": "Занято",
     "x": 1142.12,
     "y": -1092.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 151,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mike_Salvator",
+    "status": "Занято",
+    "x": 1141.96,
+    "y": -1069.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5036,18 +5036,6 @@
     "status": "Занято",
     "x": 1312.43,
     "y": 170.811,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 423,
-    "server_id": 16,
-    "type": "house",
-    "name": "Депозита условия",
-    "owner": "Danoko_Fritz",
-    "status": "Занято",
-    "x": 1316.66,
-    "y": 179.7579,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14592,6 +14580,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1225,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pavel_Muhin",
+    "status": "Занято",
+    "x": -2632.0,
+    "y": 274.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1226,
     "server_id": 16,
     "type": "house",
@@ -22344,15 +22344,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 151,
+    "id": 89,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Mike_Salvator",
+    "owner": "serty",
     "status": "Аукцион",
-    "x": 1141.96,
-    "y": -1069.88,
-    "price": 13500,
+    "x": 2014.4,
+    "y": -1716.95,
+    "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 423,
+    "server_id": 16,
+    "type": "house",
+    "name": "Депозита условия",
+    "owner": "Danoko_Fritz",
+    "status": "Аукцион",
+    "x": 1316.66,
+    "y": 179.7579,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -22413,18 +22425,6 @@
     "x": -2152.06,
     "y": 1248.54,
     "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1225,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pavel_Muhin",
-    "status": "Аукцион",
-    "x": -2632.0,
-    "y": 274.54,
-    "price": 1200,
     "district": "Сан-Андреас"
   },
   {

@@ -456,6 +456,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 39,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Yee_Blonde",
+    "status": "Занято",
+    "x": 2388.42,
+    "y": -1279.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 40,
     "server_id": 20,
     "type": "house",
@@ -2796,6 +2808,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 236,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Unhinged_Mode",
+    "status": "Занято",
+    "x": 559.1019,
+    "y": -1076.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 237,
     "server_id": 20,
     "type": "house",
@@ -5096,6 +5120,30 @@
     "status": "Занято",
     "x": 252.173,
     "y": -121.3349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 430,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
+    "status": "Занято",
+    "x": 248.332,
+    "y": -33.1693,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 431,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
+    "status": "Занято",
+    "x": 253.3269,
+    "y": -22.4484,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12435,8 +12483,8 @@
     "id": 1044,
     "server_id": 20,
     "type": "house",
-    "name": "PRESS F",
-    "owner": "Angel_Karatel",
+    "name": "Tuman",
+    "owner": "Andrey_Tumanov",
     "status": "Занято",
     "x": -1780.35,
     "y": 1138.77,
@@ -15124,7 +15172,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Боброва хатка",
-    "owner": "Vox_Voenkov",
+    "owner": "Killua_Cartel",
     "status": "Занято",
     "x": -2621.98,
     "y": 168.636,
@@ -17191,18 +17239,6 @@
     "owner": "Sher_Exuberante",
     "status": "Занято",
     "x": 928.0239,
-    "y": 2214.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1441,
-    "server_id": 20,
-    "type": "house",
-    "name": "AradЫ",
-    "owner": "Dexter_Doc",
-    "status": "Занято",
-    "x": 981.6199,
     "y": 2214.39,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22224,18 +22260,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 39,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Аукцион",
-    "x": 2388.42,
-    "y": -1279.69,
-    "price": 15000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 228,
     "server_id": 20,
     "type": "house",
@@ -22244,19 +22268,7 @@
     "status": "Аукцион",
     "x": 672.7119,
     "y": -1019.91,
-    "price": 30000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 236,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Unhinged_Mode",
-    "status": "Аукцион",
-    "x": 559.1019,
-    "y": -1076.19,
-    "price": 50000,
+    "price": 25000,
     "district": "Сан-Андреас"
   },
   {
@@ -22272,30 +22284,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 430,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Аукцион",
-    "x": 248.332,
-    "y": -33.1693,
-    "price": 25000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 431,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Аукцион",
-    "x": 253.3269,
-    "y": -22.4484,
-    "price": 25000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 643,
     "server_id": 20,
     "type": "house",
@@ -22305,6 +22293,18 @@
     "x": 1897.15,
     "y": 736.687,
     "price": 7500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1441,
+    "server_id": 20,
+    "type": "house",
+    "name": "AradЫ",
+    "owner": "Dexter_Doc",
+    "status": "Аукцион",
+    "x": 981.6199,
+    "y": 2214.39,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
