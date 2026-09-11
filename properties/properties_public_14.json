@@ -7020,18 +7020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 586,
-    "server_id": 14,
-    "type": "house",
-    "name": "Завод",
-    "owner": "Jake_Harris",
-    "status": "Занято",
-    "x": -582.4019,
-    "y": 2712.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 587,
     "server_id": 14,
     "type": "house",
@@ -8728,7 +8716,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Shadow",
-    "owner": "Misha_BigTasty",
+    "owner": "Tuborosho_Kazah",
     "status": "Занято",
     "x": 1654.69,
     "y": 2801.47,
@@ -10120,7 +10108,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Майнер #1",
-    "owner": "Misha_BigTasty",
+    "owner": "Blake_Shadow",
     "status": "Занято",
     "x": -2227.81,
     "y": 1080.63,
@@ -10588,7 +10576,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Roar",
-    "owner": "Misha_BigTasty",
+    "owner": "XpaHuTeJlb",
     "status": "Занято",
     "x": 2852.5,
     "y": -1365.96,
@@ -12232,7 +12220,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Майнер #2",
-    "owner": "Misha_BigTasty",
+    "owner": "Arseniy_Mordovskiy",
     "status": "Занято",
     "x": -2542.49,
     "y": 942.4849,
@@ -21444,18 +21432,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1788,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tuborosho_Kazah",
-    "status": "Занято",
-    "x": 2645.5,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1789,
     "server_id": 14,
     "type": "house",
@@ -22316,18 +22292,6 @@
     "status": "Занято",
     "x": 2495.42,
     "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1866,
-    "server_id": 14,
-    "type": "house",
-    "name": "Родной",
-    "owner": "Kristina_Panfilova",
-    "status": "Занято",
-    "x": 2495.23,
-    "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23688,6 +23652,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 586,
+    "server_id": 14,
+    "type": "house",
+    "name": "Завод",
+    "owner": "Jake_Harris",
+    "status": "Аукцион",
+    "x": -582.4019,
+    "y": 2712.93,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1788,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tuborosho_Kazah",
+    "status": "Аукцион",
+    "x": 2645.5,
+    "y": 2019.21,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1866,
+    "server_id": 14,
+    "type": "house",
+    "name": "Родной",
+    "owner": "Kristina_Panfilova",
+    "status": "Аукцион",
+    "x": 2495.23,
+    "y": -1391.71,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1948,
     "server_id": 14,
     "type": "house",
@@ -24020,6 +24020,18 @@
     "status": "Занято",
     "x": 1966.2,
     "y": 1623.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 163,
+    "server_id": 14,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Angel_Kingston",
+    "status": "Занято",
+    "x": 1940.01,
+    "y": -2116.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25416,6 +25428,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 81,
+    "server_id": 14,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Angel_Kingston",
+    "status": "Занято",
+    "x": 2101.89,
+    "y": 2228.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 82,
     "server_id": 14,
     "type": "business",
@@ -25700,6 +25724,18 @@
     "status": "Занято",
     "x": -53.8409,
     "y": 1189.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 271,
+    "server_id": 14,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Chester_Krueger",
+    "status": "Занято",
+    "x": -1912.17,
+    "y": 827.954,
     "price": 0,
     "district": "Сан-Андреас"
   },
