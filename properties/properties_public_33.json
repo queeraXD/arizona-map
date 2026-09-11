@@ -2520,18 +2520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 210,
-    "server_id": 33,
-    "type": "house",
-    "name": "Продам / Обменяю",
-    "owner": "Aleksander_Belkin",
-    "status": "Занято",
-    "x": 1112.41,
-    "y": -742.067,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 211,
     "server_id": 33,
     "type": "house",
@@ -2668,7 +2656,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Monte_Attack",
+    "owner": "Mishka_Gummy",
     "status": "Занято",
     "x": 891.1149,
     "y": -782.806,
@@ -7192,7 +7180,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Cristian_Barbaro",
+    "owner": "Osama_BenLaden",
     "status": "Занято",
     "x": -1482.54,
     "y": 2702.66,
@@ -8492,18 +8480,6 @@
     "status": "Занято",
     "x": 1666.97,
     "y": 2610.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 710,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Aleksander_Belkin",
-    "status": "Занято",
-    "x": 1610.94,
-    "y": 2648.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12795,8 +12771,8 @@
     "id": 1072,
     "server_id": 33,
     "type": "house",
-    "name": "San Fierro",
-    "owner": "Mushkin_Pushkin",
+    "name": "App_Store",
+    "owner": "App_Store",
     "status": "Занято",
     "x": -2904.47,
     "y": 1101.11,
@@ -22464,6 +22440,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 210,
+    "server_id": 33,
+    "type": "house",
+    "name": "Продам / Обменяю",
+    "owner": "Aleksander_Belkin",
+    "status": "Аукцион",
+    "x": 1112.41,
+    "y": -742.067,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 710,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Aleksander_Belkin",
+    "status": "Аукцион",
+    "x": 1610.94,
+    "y": 2648.2,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 809,
     "server_id": 33,
     "type": "house",
@@ -22509,6 +22509,18 @@
     "x": 1105.59,
     "y": -1562.7,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 76,
+    "server_id": 33,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Bey_Kleinanzeigen",
+    "status": "Аукцион",
+    "x": -179.189,
+    "y": 1133.15,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -23180,18 +23192,6 @@
     "status": "Занято",
     "x": 2556.26,
     "y": 1872.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 76,
-    "server_id": 33,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Bey_Kleinanzeigen",
-    "status": "Занято",
-    "x": -179.189,
-    "y": 1133.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23896,7 +23896,7 @@
     "server_id": 33,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Deff_Replate",
+    "owner": "Sanek_Kuzmin",
     "status": "Занято",
     "x": -1465.86,
     "y": 1873.41,

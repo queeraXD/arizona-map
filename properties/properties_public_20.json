@@ -444,6 +444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 37,
+    "server_id": 20,
+    "type": "house",
+    "name": "халупа максона",
+    "owner": "Makson_Bandera",
+    "status": "Занято",
+    "x": 2389.73,
+    "y": -1346.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 38,
     "server_id": 20,
     "type": "house",
@@ -1064,18 +1076,6 @@
     "status": "Занято",
     "x": 2016.2,
     "y": -1716.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 90,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Troy_FIoyd",
-    "status": "Занято",
-    "x": 2017.75,
-    "y": -1703.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2732,18 +2732,6 @@
     "status": "Занято",
     "x": 699.8419,
     "y": -1059.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 230,
-    "server_id": 20,
-    "type": "house",
-    "name": "бобрина норка 2",
-    "owner": "rogue",
-    "status": "Занято",
-    "x": 648.1329,
-    "y": -1058.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9280,7 +9268,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Berloga Chylka",
-    "owner": "Vasya_Kyrva",
+    "owner": "Alexey_Tkachuk",
     "status": "Занято",
     "x": -2548.71,
     "y": 819.799,
@@ -12452,18 +12440,6 @@
     "status": "Занято",
     "x": -1728.11,
     "y": 1158.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1042,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Troy_FIoyd",
-    "status": "Занято",
-    "x": -1742.51,
-    "y": 1174.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22248,15 +22224,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 37,
+    "id": 90,
     "server_id": 20,
     "type": "house",
-    "name": "халупа максона",
-    "owner": "Makson_Bandera",
+    "name": "Дом",
+    "owner": "Troy_FIoyd",
     "status": "Аукцион",
-    "x": 2389.73,
-    "y": -1346.03,
-    "price": 14000,
+    "x": 2017.75,
+    "y": -1703.38,
+    "price": 50000,
     "district": "Сан-Андреас"
   },
   {
@@ -22269,6 +22245,18 @@
     "x": 672.7119,
     "y": -1019.91,
     "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 230,
+    "server_id": 20,
+    "type": "house",
+    "name": "бобрина норка 2",
+    "owner": "rogue",
+    "status": "Аукцион",
+    "x": 648.1329,
+    "y": -1058.27,
+    "price": 25001,
     "district": "Сан-Андреас"
   },
   {
@@ -22293,6 +22281,18 @@
     "x": 1897.15,
     "y": 736.687,
     "price": 7500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1042,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Troy_FIoyd",
+    "status": "Аукцион",
+    "x": -1742.51,
+    "y": 1174.37,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {

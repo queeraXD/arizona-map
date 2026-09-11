@@ -6136,7 +6136,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Home LV",
-    "owner": "Alexander_Dominguez",
+    "owner": "Love_Burn",
     "status": "Занято",
     "x": 1684.51,
     "y": 2046.57,
@@ -6580,7 +6580,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Home SP",
-    "owner": "Alexander_Dominguez",
+    "owner": "Seforolius_Lerned",
     "status": "Занято",
     "x": 570.7319,
     "y": 1174.37,
@@ -10436,18 +10436,6 @@
     "status": "Занято",
     "x": -339.7529,
     "y": 2553.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 871,
-    "server_id": 13,
-    "type": "house",
-    "name": "3g0th2002",
-    "owner": "Tri_Goth",
-    "status": "Занято",
-    "x": -302.976,
-    "y": 2552.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18412,7 +18400,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Foster",
-    "owner": "Alexander_Dominguez",
+    "owner": "Hiroto_Kingman",
     "status": "Занято",
     "x": -2161.51,
     "y": -2535.51,
@@ -20192,6 +20180,18 @@
     "status": "Занято",
     "x": 2441.54,
     "y": 1215.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1686,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ruslan_Lisakovich",
+    "status": "Занято",
+    "x": 2437.04,
+    "y": 1210.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22428,18 +22428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1876,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Danya_Varenik",
-    "status": "Занято",
-    "x": 471.8059,
-    "y": 1414.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1877,
     "server_id": 13,
     "type": "house",
@@ -23232,6 +23220,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 871,
+    "server_id": 13,
+    "type": "house",
+    "name": "3g0th2002",
+    "owner": "Tri_Goth",
+    "status": "Аукцион",
+    "x": -302.976,
+    "y": 2552.28,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1039,
     "server_id": 13,
     "type": "house",
@@ -23253,18 +23253,6 @@
     "x": 2362.62,
     "y": -1046.45,
     "price": 6000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1686,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kedroviy_Oreh",
-    "status": "Аукцион",
-    "x": 2437.04,
-    "y": 1210.96,
-    "price": 500,
     "district": "Сан-Андреас"
   },
   {
@@ -23292,15 +23280,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 435,
+    "id": 1876,
     "server_id": 13,
-    "type": "business",
-    "name": "Аренда сетов",
-    "owner": "brodyagathegod",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Danya_Varenik",
     "status": "Аукцион",
-    "x": 532.7643,
-    "y": 874.9283,
-    "price": 1500000,
+    "x": 471.8059,
+    "y": 1414.51,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
