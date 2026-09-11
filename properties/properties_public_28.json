@@ -7104,18 +7104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 592,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Arte_Fact",
-    "status": "Занято",
-    "x": -1478.59,
-    "y": 2547.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 593,
     "server_id": 28,
     "type": "house",
@@ -8588,18 +8576,6 @@
     "status": "Занято",
     "x": 1580.14,
     "y": 2708.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 716,
-    "server_id": 28,
-    "type": "house",
-    "name": "x5 Гаражик",
-    "owner": "Arte_Fact",
-    "status": "Занято",
-    "x": 1601.14,
-    "y": 2709.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15948,18 +15924,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1331,
-    "server_id": 28,
-    "type": "house",
-    "name": "аксы в шкафу",
-    "owner": "Knyaz_Agalar",
-    "status": "Занято",
-    "x": 1564.78,
-    "y": 2776.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1332,
     "server_id": 28,
     "type": "house",
@@ -20368,7 +20332,7 @@
     "server_id": 28,
     "type": "house",
     "name": "DedCoder House",
-    "owner": "Andrey_Coderov",
+    "owner": "Arte_Fact",
     "status": "Занято",
     "x": -923.741,
     "y": -496.97,
@@ -20540,18 +20504,6 @@
     "status": "Занято",
     "x": 2473.95,
     "y": 997.5109,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1714,
-    "server_id": 28,
-    "type": "house",
-    "name": "Savage #1",
-    "owner": "Arte_Fact",
-    "status": "Занято",
-    "x": 1976.21,
-    "y": -1633.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22344,6 +22296,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 592,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Arte_Fact",
+    "status": "Аукцион",
+    "x": -1478.59,
+    "y": 2547.3,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 716,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Arte_Fact",
+    "status": "Аукцион",
+    "x": 1601.14,
+    "y": 2709.39,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1226,
     "server_id": 28,
     "type": "house",
@@ -22356,6 +22332,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1331,
+    "server_id": 28,
+    "type": "house",
+    "name": "аксы в шкафу",
+    "owner": "Knyaz_Agalar",
+    "status": "Аукцион",
+    "x": 1564.78,
+    "y": 2776.57,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1714,
+    "server_id": 28,
+    "type": "house",
+    "name": "Savage #1",
+    "owner": "Arte_Fact",
+    "status": "Аукцион",
+    "x": 1976.21,
+    "y": -1633.99,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1723,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22365,18 @@
     "x": 2608.15,
     "y": -1203.09,
     "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 28,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Travis_Viper",
+    "status": "Аукцион",
+    "x": -2373.8,
+    "y": 910.117,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -23384,18 +23396,6 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 28,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": -2373.8,
-    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },
