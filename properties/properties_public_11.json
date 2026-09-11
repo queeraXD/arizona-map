@@ -3780,18 +3780,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 315,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "Malen_Kuxpen",
-    "status": "Занято",
-    "x": 1959.61,
-    "y": -1069.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 316,
     "server_id": 11,
     "type": "house",
@@ -18279,8 +18267,8 @@
     "id": 1536,
     "server_id": 11,
     "type": "house",
-    "name": "ROTENBERG",
-    "owner": "Donatello_Rotenberg",
+    "name": "STAFF",
+    "owner": "Jey_Staff",
     "status": "Занято",
     "x": 662.434,
     "y": -1534.78,
@@ -24621,6 +24609,18 @@
     "x": 0.0,
     "y": -2133.38,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "Malen_Kuxpen",
+    "status": "Аукцион",
+    "x": 1959.61,
+    "y": -1069.92,
+    "price": 4100,
     "district": "Сан-Андреас"
   },
   {
