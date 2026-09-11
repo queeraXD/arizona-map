@@ -1404,6 +1404,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 117,
+    "server_id": 29,
+    "type": "house",
+    "name": "налдон лорвит",
+    "owner": "Sky_Taffanel",
+    "status": "Занято",
+    "x": -2402.41,
+    "y": 886.161,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 118,
     "server_id": 29,
     "type": "house",
@@ -4875,7 +4887,7 @@
     "id": 407,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
+    "name": "бичка 1",
     "owner": "Benihime_Aratame",
     "status": "Занято",
     "x": 1413.46,
@@ -5012,6 +5024,18 @@
     "status": "Занято",
     "x": 1283.69,
     "y": 158.5379,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 419,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Atlantic_Runner",
+    "status": "Занято",
+    "x": 1293.68,
+    "y": 157.382,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14380,7 +14404,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Killian_Anima",
+    "owner": "Chokoladniy_Zaika",
     "status": "Занято",
     "x": -2791.59,
     "y": 200.561,
@@ -15312,18 +15336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1283,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sinister_Larpov",
-    "status": "Занято",
-    "x": -2619.46,
-    "y": -153.451,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1284,
     "server_id": 29,
     "type": "house",
@@ -15404,18 +15416,6 @@
     "status": "Занято",
     "x": -2576.54,
     "y": -82.9039,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1291,
-    "server_id": 29,
-    "type": "house",
-    "name": "погодика,кто то мне задонатил?",
-    "owner": "Sinister_Larpov",
-    "status": "Занято",
-    "x": -2590.53,
-    "y": -95.5792,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21036,30 +21036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 117,
-    "server_id": 29,
-    "type": "house",
-    "name": "налдон лорвит",
-    "owner": "Lovec_Pisunov",
-    "status": "Аукцион",
-    "x": -2402.41,
-    "y": 886.161,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 419,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Atlantic_Runner",
-    "status": "Аукцион",
-    "x": 1293.68,
-    "y": 157.382,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 499,
     "server_id": 29,
     "type": "house",
@@ -21105,6 +21081,30 @@
     "x": -2094.28,
     "y": 745.752,
     "price": 7777,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1283,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sinister_Larpov",
+    "status": "Аукцион",
+    "x": -2619.46,
+    "y": -153.451,
+    "price": 5500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1291,
+    "server_id": 29,
+    "type": "house",
+    "name": "погодика,кто то мне задонатил?",
+    "owner": "Sinister_Larpov",
+    "status": "Аукцион",
+    "x": -2590.53,
+    "y": -95.5792,
+    "price": 5500,
     "district": "Сан-Андреас"
   },
   {

@@ -7068,18 +7068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 592,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Professor_Babos",
-    "status": "Занято",
-    "x": -1478.59,
-    "y": 2547.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 593,
     "server_id": 28,
     "type": "house",
@@ -8216,6 +8204,18 @@
     "status": "Занято",
     "x": 1265.52,
     "y": 2609.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 688,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Wistful_Gloaming",
+    "status": "Занято",
+    "x": 1285.0,
+    "y": 2610.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21180,18 +21180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1772,
-    "server_id": 28,
-    "type": "house",
-    "name": "Красти краб",
-    "owner": "Chase_Young",
-    "status": "Занято",
-    "x": 1868.35,
-    "y": -2037.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1773,
     "server_id": 28,
     "type": "house",
@@ -22332,15 +22320,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 688,
+    "id": 592,
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Wistful_Gloaming",
+    "owner": "Professor_Babos",
     "status": "Аукцион",
-    "x": 1285.0,
-    "y": 2610.59,
-    "price": 2500,
+    "x": -1478.59,
+    "y": 2547.3,
+    "price": 800,
     "district": "Сан-Андреас"
   },
   {
@@ -22364,7 +22352,19 @@
     "status": "Аукцион",
     "x": -827.45,
     "y": 2765.25,
-    "price": 1000,
+    "price": 800,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1772,
+    "server_id": 28,
+    "type": "house",
+    "name": "Красти краб",
+    "owner": "Chase_Young",
+    "status": "Аукцион",
+    "x": 1868.35,
+    "y": -2037.99,
+    "price": 1250,
     "district": "Сан-Андреас"
   },
   {

@@ -9996,18 +9996,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 848,
-    "server_id": 4,
-    "type": "house",
-    "name": "ДомишкО",
-    "owner": "Vova_McTaxi",
-    "status": "Занято",
-    "x": -2066.61,
-    "y": 796.4929,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 849,
     "server_id": 4,
     "type": "house",
@@ -10024,7 +10012,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Дом",
-    "owner": "Moki_Darkside",
+    "owner": "Alina_Darkside",
     "status": "Занято",
     "x": -2192.76,
     "y": 903.3989,
@@ -25140,6 +25128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 848,
+    "server_id": 4,
+    "type": "house",
+    "name": "ДомишкО",
+    "owner": "Vova_McTaxi",
+    "status": "Аукцион",
+    "x": -2066.61,
+    "y": 796.4929,
+    "price": 200,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1314,
     "server_id": 4,
     "type": "house",
@@ -25269,6 +25269,30 @@
     "x": -1320.49,
     "y": 2698.65,
     "price": 389000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 123,
+    "server_id": 4,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Delusion_Akinaura",
+    "status": "Аукцион",
+    "x": -2579.43,
+    "y": 310.085,
+    "price": 260000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 163,
+    "server_id": 4,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Delusion_Akinaura",
+    "status": "Аукцион",
+    "x": 1940.01,
+    "y": -2116.01,
+    "price": 260000,
     "district": "Сан-Андреас"
   },
   {
@@ -25616,18 +25640,6 @@
     "status": "Занято",
     "x": 1966.2,
     "y": 1623.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 163,
-    "server_id": 4,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Delusion_Akinaura",
-    "status": "Занято",
-    "x": 1940.01,
-    "y": -2116.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27524,18 +27536,6 @@
     "status": "Занято",
     "x": -1967.24,
     "y": 296.392,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 123,
-    "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Delusion_Akinaura",
-    "status": "Занято",
-    "x": -2579.43,
-    "y": 310.085,
     "price": 0,
     "district": "Сан-Андреас"
   },
