@@ -17812,7 +17812,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Notem",
-    "owner": "TulchKyba_Savchenko",
+    "owner": "Viper_Darkness",
     "status": "Занято",
     "x": 535.0469,
     "y": -1174.01,
@@ -18484,7 +18484,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Konoplev Corporation",
-    "owner": "Neo_Elin",
+    "owner": "Alessandro_Notem",
     "status": "Занято",
     "x": 1969.33,
     "y": -1705.14,
@@ -22260,18 +22260,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1860,
-    "server_id": 8,
-    "type": "house",
-    "name": "дом с деп условиями",
-    "owner": "Alessandro_Notem",
-    "status": "Занято",
-    "x": 2468.21,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1861,
     "server_id": 8,
     "type": "house",
@@ -23251,6 +23239,18 @@
     "owner": "Klaus_Negodnicov",
     "status": "Занято",
     "x": 2011.14,
+    "y": 2168.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1944,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом (Банк ЛВ)",
+    "owner": "Artist_Eagle",
+    "status": "Занято",
+    "x": 2010.67,
     "y": 2168.81,
     "price": 0,
     "district": "Сан-Андреас"
@@ -25764,6 +25764,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1860,
+    "server_id": 8,
+    "type": "house",
+    "name": "Notem Slovil",
+    "owner": "Alessandro_Notem",
+    "status": "Аукцион",
+    "x": 2468.21,
+    "y": -1391.71,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1896,
     "server_id": 8,
     "type": "house",
@@ -25773,18 +25785,6 @@
     "x": 2397.83,
     "y": 962.8809,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1944,
-    "server_id": 8,
-    "type": "house",
-    "name": "Номер мотеля в центре ЛВ",
-    "owner": "John_McTracher",
-    "status": "Аукцион",
-    "x": 2010.67,
-    "y": 2168.81,
-    "price": 2390,
     "district": "Сан-Андреас"
   },
   {
