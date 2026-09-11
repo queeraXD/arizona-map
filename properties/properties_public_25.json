@@ -3804,18 +3804,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 317,
-    "server_id": 25,
-    "type": "house",
-    "name": "Scruggs",
-    "owner": "Endless_Summer",
-    "status": "Занято",
-    "x": 1252.78,
-    "y": -901.866,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 318,
     "server_id": 25,
     "type": "house",
@@ -4148,18 +4136,6 @@
     "status": "Занято",
     "x": 1245.81,
     "y": -902.788,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 346,
-    "server_id": 25,
-    "type": "house",
-    "name": "Scruggs",
-    "owner": "Endless_Summer",
-    "status": "Занято",
-    "x": 1252.6,
-    "y": -901.893,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8256,18 +8232,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 688,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Maxs_Katana",
-    "status": "Занято",
-    "x": 1285.0,
-    "y": 2610.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 689,
     "server_id": 25,
     "type": "house",
@@ -10316,6 +10280,18 @@
     "status": "Занято",
     "x": -1432.72,
     "y": -953.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 861,
+    "server_id": 25,
+    "type": "house",
+    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
+    "owner": "Zane_Ward",
+    "status": "Занято",
+    "x": -218.123,
+    "y": 2481.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20112,18 +20088,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1678,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Maxs_Katana",
-    "status": "Занято",
-    "x": 2366.41,
-    "y": 1063.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1679,
     "server_id": 25,
     "type": "house",
@@ -21204,18 +21168,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1769,
-    "server_id": 25,
-    "type": "house",
-    "name": "хата Януковича",
-    "owner": "Nebesna_Mana",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2150.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1770,
     "server_id": 25,
     "type": "house",
@@ -22084,7 +22036,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом престарелых!",
-    "owner": "Nikolay_Wiggins",
+    "owner": "Natasha_Wiggins",
     "status": "Занято",
     "x": 2476.41,
     "y": -1417.45,
@@ -22276,7 +22228,7 @@
     "server_id": 25,
     "type": "house",
     "name": "спокойно",
-    "owner": "Gan_Jubas",
+    "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": 2487.37,
     "y": -1398.81,
@@ -23760,15 +23712,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 861,
+    "id": 317,
     "server_id": 25,
     "type": "house",
-    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
-    "owner": "Zane_Ward",
+    "name": "Scruggs",
+    "owner": "Endless_Summer",
     "status": "Аукцион",
-    "x": -218.123,
-    "y": 2481.23,
-    "price": 10501,
+    "x": 1252.78,
+    "y": -901.866,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 346,
+    "server_id": 25,
+    "type": "house",
+    "name": "Scruggs",
+    "owner": "Endless_Summer",
+    "status": "Аукцион",
+    "x": 1252.6,
+    "y": -901.893,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 688,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Maxs_Katana",
+    "status": "Аукцион",
+    "x": 1285.0,
+    "y": 2610.59,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1678,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Maxs_Katana",
+    "status": "Аукцион",
+    "x": 2366.41,
+    "y": 1063.58,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1769,
+    "server_id": 25,
+    "type": "house",
+    "name": "хата Януковича",
+    "owner": "Nebesna_Mana",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2150.0,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {

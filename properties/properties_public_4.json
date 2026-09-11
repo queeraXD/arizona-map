@@ -3592,7 +3592,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Darkside",
-    "owner": "Moki_Darkside",
+    "owner": "Wiliam_Korleone",
     "status": "Занято",
     "x": 2101.94,
     "y": -1075.22,
@@ -6800,18 +6800,6 @@
     "status": "Занято",
     "x": 232.205,
     "y": 1151.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 567,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nefor_Milniy",
-    "status": "Занято",
-    "x": 386.686,
-    "y": 1272.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11784,18 +11772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 983,
-    "server_id": 4,
-    "type": "house",
-    "name": "Ковальский",
-    "owner": "Nefor_Milniy",
-    "status": "Занято",
-    "x": -2130.29,
-    "y": 894.888,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 984,
     "server_id": 4,
     "type": "house",
@@ -15112,7 +15088,7 @@
     "server_id": 4,
     "type": "house",
     "name": "алкотрип",
-    "owner": "Mogilki_Mogilki",
+    "owner": "Jastin_Berder",
     "status": "Занято",
     "x": -2502.99,
     "y": 895.234,
@@ -25221,6 +25197,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 567,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nefor_Milniy",
+    "status": "Аукцион",
+    "x": 386.686,
+    "y": 1272.14,
+    "price": 1200,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 983,
+    "server_id": 4,
+    "type": "house",
+    "name": "Ковальский",
+    "owner": "Nefor_Milniy",
+    "status": "Аукцион",
+    "x": -2130.29,
+    "y": 894.888,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {

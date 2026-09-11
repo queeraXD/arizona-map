@@ -8940,18 +8940,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 748,
-    "server_id": 32,
-    "type": "house",
-    "name": "soc1o",
-    "owner": "Slava_Turbina",
-    "status": "Занято",
-    "x": -2659.96,
-    "y": 876.3309,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 749,
     "server_id": 32,
     "type": "house",
@@ -22500,6 +22488,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 748,
+    "server_id": 32,
+    "type": "house",
+    "name": "soc1o",
+    "owner": "Slava_Turbina",
+    "status": "Аукцион",
+    "x": -2659.96,
+    "y": 876.3309,
+    "price": 90000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 774,
     "server_id": 32,
     "type": "house",
@@ -25432,7 +25432,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Monopoly_Navarro",
+    "owner": "Pay_Price",
     "status": "Занято",
     "x": -1981.62,
     "y": 174.636,
