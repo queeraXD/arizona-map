@@ -304,7 +304,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Домик для счастья",
-    "owner": "Alaric_Saltzman",
+    "owner": "Grustnaya_Altushka",
     "status": "Занято",
     "x": 2250.11,
     "y": -1280.4,
@@ -6027,7 +6027,7 @@
     "id": 502,
     "server_id": 27,
     "type": "house",
-    "name": "Привет",
+    "name": "Дом Санька",
     "owner": "Osiris_Hitoru",
     "status": "Занято",
     "x": 1364.3,
@@ -11040,18 +11040,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 920,
-    "server_id": 27,
-    "type": "house",
-    "name": "Antisocial domination",
-    "owner": "Povelitel_Antisocial",
-    "status": "Занято",
-    "x": -2282.39,
-    "y": 1070.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 921,
     "server_id": 27,
     "type": "house",
@@ -12452,6 +12440,18 @@
     "status": "Занято",
     "x": 1911.59,
     "y": -464.2439,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1038,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дома Макса ",
+    "owner": "Timusev_Hamil",
+    "status": "Занято",
+    "x": -1776.13,
+    "y": 1115.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21132,6 +21132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1763,
+    "server_id": 27,
+    "type": "house",
+    "name": "держите все мои волосы",
+    "owner": "Luke_Monte",
+    "status": "Занято",
+    "x": -216.6309,
+    "y": 930.1619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1764,
     "server_id": 27,
     "type": "house",
@@ -23004,6 +23016,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1920,
+    "server_id": 27,
+    "type": "house",
+    "name": "держите все мои волосы",
+    "owner": "bava",
+    "status": "Занято",
+    "x": 1830.49,
+    "y": 2740.52,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1921,
     "server_id": 27,
     "type": "house",
@@ -24420,15 +24444,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1038,
+    "id": 920,
     "server_id": 27,
     "type": "house",
-    "name": "Дома Макса ",
+    "name": "Antisocial domination",
     "owner": "Государство",
-    "status": "Свободно",
-    "x": -1776.13,
-    "y": 1115.2,
-    "price": 0,
+    "status": "Аукцион",
+    "x": -2282.39,
+    "y": 1070.59,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24441,30 +24465,6 @@
     "x": 2358.59,
     "y": 962.8369,
     "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1763,
-    "server_id": 27,
-    "type": "house",
-    "name": "держите все мои волосы",
-    "owner": "bava",
-    "status": "Аукцион",
-    "x": -216.6309,
-    "y": 930.1619,
-    "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1920,
-    "server_id": 27,
-    "type": "house",
-    "name": "держите все мои волосы",
-    "owner": "bava",
-    "status": "Аукцион",
-    "x": 1830.49,
-    "y": 2740.52,
-    "price": 3000,
     "district": "Сан-Андреас"
   },
   {

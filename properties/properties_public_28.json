@@ -4860,18 +4860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 405,
-    "server_id": 28,
-    "type": "house",
-    "name": "Грунт, элексиры",
-    "owner": "Pope_Innocent",
-    "status": "Занято",
-    "x": 1451.08,
-    "y": 374.286,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 406,
     "server_id": 28,
     "type": "house",
@@ -5396,6 +5384,18 @@
     "status": "Занято",
     "x": 2330.09,
     "y": -1060.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 450,
+    "server_id": 28,
+    "type": "house",
+    "name": "RIFA",
+    "owner": "Wistful_Gloaming",
+    "status": "Занято",
+    "x": 1845.81,
+    "y": 741.2369,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22284,14 +22284,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 450,
+    "id": 405,
     "server_id": 28,
     "type": "house",
-    "name": "RIFA",
+    "name": "Грунт, элексиры",
     "owner": "Государство",
     "status": "Свободно",
-    "x": 1845.81,
-    "y": 741.2369,
+    "x": 1451.08,
+    "y": 374.286,
     "price": 0,
     "district": "Сан-Андреас"
   },
