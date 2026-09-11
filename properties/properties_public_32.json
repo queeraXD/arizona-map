@@ -1708,7 +1708,7 @@
     "server_id": 32,
     "type": "house",
     "name": "ОСОБА",
-    "owner": "Leo_Winst",
+    "owner": "Feldan_Lizalov",
     "status": "Занято",
     "x": 1326.27,
     "y": -1090.67,
@@ -2104,7 +2104,7 @@
     "server_id": 32,
     "type": "house",
     "name": "РЕСУРСЫ",
-    "owner": "Leo_Winst",
+    "owner": "Stu_PodSpace",
     "status": "Занято",
     "x": 790.9739,
     "y": -1661.87,
@@ -8787,7 +8787,7 @@
     "id": 735,
     "server_id": 32,
     "type": "house",
-    "name": "Дом",
+    "name": "Kinoshita ",
     "owner": "Sama_Kinoshita",
     "status": "Занято",
     "x": -2900.72,
@@ -8972,18 +8972,6 @@
     "status": "Занято",
     "x": -2655.45,
     "y": 985.7849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 752,
-    "server_id": 32,
-    "type": "house",
-    "name": "Immortal",
-    "owner": "Thierry_Okathii",
-    "status": "Занято",
-    "x": -2641.07,
-    "y": 935.7189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22500,6 +22488,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 752,
+    "server_id": 32,
+    "type": "house",
+    "name": "Immortal",
+    "owner": "Thierry_Okathii",
+    "status": "Аукцион",
+    "x": -2641.07,
+    "y": 935.7189,
+    "price": 85000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 774,
     "server_id": 32,
     "type": "house",
@@ -22521,18 +22521,6 @@
     "x": -2672.26,
     "y": 258.431,
     "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 312,
-    "server_id": 32,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Kennedy_White",
-    "status": "Аукцион",
-    "x": 641.439,
-    "y": -494.824,
-    "price": 240000,
     "district": "Сан-Андреас"
   },
   {
@@ -26312,6 +26300,18 @@
     "status": "Занято",
     "x": -20.8111,
     "y": -1548.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 312,
+    "server_id": 32,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Kennedy_White",
+    "status": "Занято",
+    "x": 641.439,
+    "y": -494.824,
     "price": 0,
     "district": "Сан-Андреас"
   },

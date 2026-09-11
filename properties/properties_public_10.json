@@ -6348,18 +6348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 530,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Owner_Family",
-    "status": "Занято",
-    "x": 1967.26,
-    "y": 2766.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 531,
     "server_id": 10,
     "type": "house",
@@ -9096,18 +9084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 759,
-    "server_id": 10,
-    "type": "house",
-    "name": "фарм #7",
-    "owner": "Roman_Guapo",
-    "status": "Занято",
-    "x": -2738.32,
-    "y": 801.5289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 760,
     "server_id": 10,
     "type": "house",
@@ -9356,18 +9332,6 @@
     "status": "Занято",
     "x": -2541.29,
     "y": 733.153,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 781,
-    "server_id": 10,
-    "type": "house",
-    "name": "фарм #7",
-    "owner": "Roman_Guapo",
-    "status": "Занято",
-    "x": -2541.25,
-    "y": 750.9169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11516,18 +11480,6 @@
     "status": "Занято",
     "x": -2158.17,
     "y": 753.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 962,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Owner_Family",
-    "status": "Занято",
-    "x": -2168.74,
-    "y": 743.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23337,6 +23289,54 @@
     "x": 2071.46,
     "y": 776.244,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 530,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Owner_Family",
+    "status": "Аукцион",
+    "x": 1967.26,
+    "y": 2766.48,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 759,
+    "server_id": 10,
+    "type": "house",
+    "name": "фарм #7",
+    "owner": "Roman_Guapo",
+    "status": "Аукцион",
+    "x": -2738.32,
+    "y": 801.5289,
+    "price": 3001,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 781,
+    "server_id": 10,
+    "type": "house",
+    "name": "фарм #7",
+    "owner": "Roman_Guapo",
+    "status": "Аукцион",
+    "x": -2541.25,
+    "y": 750.9169,
+    "price": 3001,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 962,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Owner_Family",
+    "status": "Аукцион",
+    "x": -2168.74,
+    "y": 743.76,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {

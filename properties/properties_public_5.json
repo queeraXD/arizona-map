@@ -12492,18 +12492,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1041,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Touta_Matsuda",
-    "status": "Занято",
-    "x": 2147.86,
-    "y": -1366.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1042,
     "server_id": 5,
     "type": "house",
@@ -25104,6 +25092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1041,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Touta_Matsuda",
+    "status": "Аукцион",
+    "x": 2147.86,
+    "y": -1366.68,
+    "price": 65000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1114,
     "server_id": 5,
     "type": "house",
@@ -28096,7 +28096,7 @@
     "server_id": 5,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Billi_Maylay",
+    "owner": "Slishu_Forbs",
     "status": "Занято",
     "x": -1548.81,
     "y": 673.91,
@@ -28816,7 +28816,7 @@
     "server_id": 5,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Billi_Maylay",
+    "owner": "Kurt_Guetto",
     "status": "Занято",
     "x": 1842.817,
     "y": 824.9045,

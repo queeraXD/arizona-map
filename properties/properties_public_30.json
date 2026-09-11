@@ -2340,18 +2340,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 195,
-    "server_id": 30,
-    "type": "house",
-    "name": "На продаже",
-    "owner": "Operator_Yota",
-    "status": "Занято",
-    "x": 192.8079,
-    "y": -1770.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 196,
     "server_id": 30,
     "type": "house",
@@ -13080,18 +13068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1090,
-    "server_id": 30,
-    "type": "house",
-    "name": "Игровая комната, подвалы, гараж",
-    "owner": "Operator_Yota",
-    "status": "Занято",
-    "x": -2126.75,
-    "y": 832.6989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1091,
     "server_id": 30,
     "type": "house",
@@ -16152,18 +16128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1346,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Operator_Yota",
-    "status": "Занято",
-    "x": 1551.52,
-    "y": 2567.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1347,
     "server_id": 30,
     "type": "house",
@@ -18712,7 +18676,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Ферма ЛВ халупа",
-    "owner": "Henry_Reinhart",
+    "owner": "Crepuscular_Fading",
     "status": "Занято",
     "x": 784.403,
     "y": 1954.29,
@@ -18724,7 +18688,7 @@
     "server_id": 30,
     "type": "house",
     "name": "камерон",
-    "owner": "Henry_Reinhart",
+    "owner": "Naldon_Legenda",
     "status": "Занято",
     "x": 755.7199,
     "y": 1958.78,
@@ -18748,7 +18712,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Ферма ЛВ халупа",
-    "owner": "Henry_Reinhart",
+    "owner": "Verixxs_Low",
     "status": "Занято",
     "x": 766.9719,
     "y": 1989.95,
@@ -22287,7 +22251,7 @@
     "id": 1868,
     "server_id": 30,
     "type": "house",
-    "name": "wasab1k x chase",
+    "name": "Дом",
     "owner": "Bruce_McCloud",
     "status": "Занято",
     "x": 55.3927,
@@ -22737,6 +22701,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 195,
+    "server_id": 30,
+    "type": "house",
+    "name": "На продаже",
+    "owner": "Operator_Yota",
+    "status": "Аукцион",
+    "x": 192.8079,
+    "y": -1770.02,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1090,
+    "server_id": 30,
+    "type": "house",
+    "name": "Игровая комната, подвалы, гараж",
+    "owner": "Operator_Yota",
+    "status": "Аукцион",
+    "x": -2126.75,
+    "y": 832.6989,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1346,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Operator_Yota",
+    "status": "Аукцион",
+    "x": 1551.52,
+    "y": 2567.55,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {

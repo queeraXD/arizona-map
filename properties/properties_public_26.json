@@ -6156,18 +6156,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 514,
-    "server_id": 26,
-    "type": "house",
-    "name": "дом вора",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": 1549.98,
-    "y": 2096.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 515,
     "server_id": 26,
     "type": "house",
@@ -6440,18 +6428,6 @@
     "status": "Занято",
     "x": 2066.1,
     "y": 2721.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 538,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": 2056.57,
-    "y": 2664.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9368,18 +9344,6 @@
     "status": "Занято",
     "x": -2541.25,
     "y": 750.9169,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 782,
-    "server_id": 26,
-    "type": "house",
-    "name": "McLarren SF",
-    "owner": "Aska_Mclarren",
-    "status": "Занято",
-    "x": -2541.25,
-    "y": 785.179,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21208,7 +21172,7 @@
     "server_id": 26,
     "type": "house",
     "name": "ТВИЧ sanyokmoney",
-    "owner": "Egor_RockWell",
+    "owner": "Otec_Oxycodon",
     "status": "Занято",
     "x": 1795.8,
     "y": 2800.81,
@@ -22580,18 +22544,6 @@
     "status": "Занято",
     "x": -2515.38,
     "y": -153.9309,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1884,
-    "server_id": 26,
-    "type": "house",
-    "name": "Montanich",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": -2066.42,
-    "y": 820.6929,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25185,6 +25137,54 @@
     "x": 1844.5,
     "y": 718.656,
     "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 514,
+    "server_id": 26,
+    "type": "house",
+    "name": "дом вора",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": 1549.98,
+    "y": 2096.4,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 538,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": 2056.57,
+    "y": 2664.97,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 782,
+    "server_id": 26,
+    "type": "house",
+    "name": "McLarren SF",
+    "owner": "Aska_Mclarren",
+    "status": "Аукцион",
+    "x": -2541.25,
+    "y": 785.179,
+    "price": 1100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1884,
+    "server_id": 26,
+    "type": "house",
+    "name": "Montanich",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": -2066.42,
+    "y": 820.6929,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
