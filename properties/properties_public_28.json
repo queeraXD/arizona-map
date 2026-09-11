@@ -6964,7 +6964,7 @@
     "server_id": 28,
     "type": "house",
     "name": "sinistered",
-    "owner": "Haruka_Kasugano",
+    "owner": "LaloSalamanca",
     "status": "Занято",
     "x": -287.4519,
     "y": 2758.14,
@@ -7088,6 +7088,18 @@
     "status": "Занято",
     "x": -1476.21,
     "y": 2563.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 592,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Professor_Babos",
+    "status": "Занято",
+    "x": -1478.59,
+    "y": 2547.3,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8564,6 +8576,18 @@
     "status": "Занято",
     "x": 1580.14,
     "y": 2708.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 716,
+    "server_id": 28,
+    "type": "house",
+    "name": "Trap Models",
+    "owner": "Kosuke_Ueda",
+    "status": "Занято",
+    "x": 1601.14,
+    "y": 2709.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15648,18 +15672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1309,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -170.9069,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1310,
     "server_id": 28,
     "type": "house",
@@ -15840,18 +15852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1325,
-    "server_id": 28,
-    "type": "house",
-    "name": "рай stasola2",
-    "owner": "Artur_Opasniy",
-    "status": "Занято",
-    "x": 1461.16,
-    "y": 342.493,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1326,
     "server_id": 28,
     "type": "house",
@@ -15908,6 +15908,18 @@
     "status": "Занято",
     "x": 1565.47,
     "y": 2793.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1331,
+    "server_id": 28,
+    "type": "house",
+    "name": "Soprano Mafia",
+    "owner": "Maximus_Soprano",
+    "status": "Занято",
+    "x": 1564.78,
+    "y": 2776.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20220,18 +20232,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1692,
-    "server_id": 28,
-    "type": "house",
-    "name": "гнездо Адольфа 3",
-    "owner": "Erik_Tarasov",
-    "status": "Занято",
-    "x": -827.45,
-    "y": 2765.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1693,
     "server_id": 28,
     "type": "house",
@@ -20484,6 +20484,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1714,
+    "server_id": 28,
+    "type": "house",
+    "name": "Savage #1",
+    "owner": "Arte_Fact",
+    "status": "Занято",
+    "x": 1976.21,
+    "y": -1633.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1715,
     "server_id": 28,
     "type": "house",
@@ -20583,8 +20595,8 @@
     "id": 1723,
     "server_id": 28,
     "type": "house",
-    "name": "Uedos Ostos",
-    "owner": "Kosuke_Ueda",
+    "name": "Дом самого пиздатого человека ",
+    "owner": "Roman_Dmitranitsa",
     "status": "Занято",
     "x": 2608.15,
     "y": -1203.09,
@@ -22296,30 +22308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 592,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Arte_Fact",
-    "status": "Аукцион",
-    "x": -1478.59,
-    "y": 2547.3,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 716,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Arte_Fact",
-    "status": "Аукцион",
-    "x": 1601.14,
-    "y": 2709.39,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1226,
     "server_id": 28,
     "type": "house",
@@ -22332,15 +22320,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1331,
+    "id": 1309,
     "server_id": 28,
     "type": "house",
-    "name": "аксы в шкафу",
-    "owner": "Knyaz_Agalar",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
     "status": "Аукцион",
-    "x": 1564.78,
-    "y": 2776.57,
-    "price": 4000,
+    "x": -2515.38,
+    "y": -170.9069,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1325,
+    "server_id": 28,
+    "type": "house",
+    "name": "рай stasola2",
+    "owner": "Artur_Opasniy",
+    "status": "Аукцион",
+    "x": 1461.16,
+    "y": 342.493,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -22356,27 +22356,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1714,
+    "id": 1692,
     "server_id": 28,
     "type": "house",
-    "name": "Savage #1",
-    "owner": "Arte_Fact",
+    "name": "гнездо Адольфа 3",
+    "owner": "Erik_Tarasov",
     "status": "Аукцион",
-    "x": 1976.21,
-    "y": -1633.99,
-    "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 28,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Travis_Viper",
-    "status": "Аукцион",
-    "x": -2373.8,
-    "y": 910.117,
-    "price": 250000,
+    "x": -827.45,
+    "y": 2765.25,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
@@ -23396,6 +23384,18 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 28,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Travis_Viper",
+    "status": "Занято",
+    "x": -2373.8,
+    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },

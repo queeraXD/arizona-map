@@ -12876,30 +12876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1076,
-    "server_id": 31,
-    "type": "house",
-    "name": "occlusion",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": -2901.54,
-    "y": 1033.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1077,
-    "server_id": 31,
-    "type": "house",
-    "name": "Хата",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": -2895.53,
-    "y": 1017.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1078,
     "server_id": 31,
     "type": "house",
@@ -23112,42 +23088,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1932,
-    "server_id": 31,
-    "type": "house",
-    "name": "Селл, Есть Набор Архитектора",
-    "owner": "Vitalik_Vorona",
-    "status": "Занято",
-    "x": -85.5623,
-    "y": 974.833,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1933,
-    "server_id": 31,
-    "type": "house",
-    "name": "Селл, Есть Набор Архитектора",
-    "owner": "Vitalik_Vorona",
-    "status": "Занято",
-    "x": -85.5818,
-    "y": 977.598,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1934,
-    "server_id": 31,
-    "type": "house",
-    "name": "Селл, Есть Набор Архитектора",
-    "owner": "Vitalik_Vorona",
-    "status": "Занято",
-    "x": -86.222,
-    "y": 978.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1935,
     "server_id": 31,
     "type": "house",
@@ -23349,6 +23289,66 @@
     "x": -1562.54,
     "y": 2650.98,
     "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1076,
+    "server_id": 31,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": -2901.54,
+    "y": 1033.81,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1077,
+    "server_id": 31,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": -2895.53,
+    "y": 1017.01,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1932,
+    "server_id": 31,
+    "type": "house",
+    "name": "Селл, Есть Набор Архитектора",
+    "owner": "Vitalik_Vorona",
+    "status": "Аукцион",
+    "x": -85.5623,
+    "y": 974.833,
+    "price": 800000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1933,
+    "server_id": 31,
+    "type": "house",
+    "name": "Селл, Есть Набор Архитектора",
+    "owner": "Vitalik_Vorona",
+    "status": "Аукцион",
+    "x": -85.5818,
+    "y": 977.598,
+    "price": 800000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1934,
+    "server_id": 31,
+    "type": "house",
+    "name": "Селл, Есть Набор Архитектора",
+    "owner": "Vitalik_Vorona",
+    "status": "Аукцион",
+    "x": -86.222,
+    "y": 978.036,
+    "price": 800000,
     "district": "Сан-Андреас"
   },
   {
