@@ -10344,18 +10344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 863,
-    "server_id": 2,
-    "type": "house",
-    "name": "начало конца",
-    "owner": "Alan_Waalker",
-    "status": "Занято",
-    "x": -236.8439,
-    "y": 2491.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 864,
     "server_id": 2,
     "type": "house",
@@ -12320,6 +12308,18 @@
     "status": "Занято",
     "x": -2884.32,
     "y": 750.591,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1028,
+    "server_id": 2,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jizzy_Johnson",
+    "status": "Занято",
+    "x": -2879.94,
+    "y": 797.5089,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15664,7 +15664,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Дом селлера",
-    "owner": "Vlad_Seller",
+    "owner": "Denis_Romanof",
     "status": "Занято",
     "x": -2340.2,
     "y": 656.7349,
@@ -23952,27 +23952,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1028,
+    "id": 863,
     "server_id": 2,
     "type": "house",
-    "name": "Дом",
-    "owner": "Jizzy_Johnson",
+    "name": "начало конца",
+    "owner": "Alan_Waalker",
     "status": "Аукцион",
-    "x": -2879.94,
-    "y": 797.5089,
-    "price": 30000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 2,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Tlm_Really",
-    "status": "Аукцион",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 190000,
+    "x": -236.8439,
+    "y": 2491.76,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -26072,6 +26060,18 @@
     "status": "Занято",
     "x": 693.619,
     "y": 1967.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 2,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Tlm_Really",
+    "status": "Занято",
+    "x": -2103.59,
+    "y": -2342.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
