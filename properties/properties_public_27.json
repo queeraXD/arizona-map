@@ -2595,8 +2595,8 @@
     "id": 216,
     "server_id": 27,
     "type": "house",
-    "name": "Dark House",
-    "owner": "Nazik_Dark",
+    "name": "VisCorp",
+    "owner": "Sam_Visenti",
     "status": "Занято",
     "x": 910.38,
     "y": -817.25,
@@ -13056,18 +13056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1089,
-    "server_id": 27,
-    "type": "house",
-    "name": "Шнюк/Майнинг",
-    "owner": "Colin_Monte",
-    "status": "Занято",
-    "x": -2158.92,
-    "y": 830.585,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1090,
     "server_id": 27,
     "type": "house",
@@ -14656,7 +14644,7 @@
     "server_id": 27,
     "type": "house",
     "name": "домиу аски<3",
-    "owner": "Aska_Well",
+    "owner": "Kenny_Rampage",
     "status": "Занято",
     "x": -2477.25,
     "y": 1244.44,
@@ -14948,18 +14936,6 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1318.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1247,
-    "server_id": 27,
-    "type": "house",
-    "name": "Шнюк/Майнинг",
-    "owner": "Colin_Monte",
-    "status": "Занято",
-    "x": -2351.14,
-    "y": 1299.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19208,18 +19184,6 @@
     "status": "Занято",
     "x": -2211.97,
     "y": 1057.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1603,
-    "server_id": 27,
-    "type": "house",
-    "name": "Kuroku Empire",
-    "owner": "Colin_Monte",
-    "status": "Занято",
-    "x": -2221.02,
-    "y": 1051.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24444,6 +24408,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1089,
+    "server_id": 27,
+    "type": "house",
+    "name": "Шнюк/Майнинг",
+    "owner": "Colin_Monte",
+    "status": "Аукцион",
+    "x": -2158.92,
+    "y": 830.585,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1247,
+    "server_id": 27,
+    "type": "house",
+    "name": "Шнюк/Майнинг",
+    "owner": "Colin_Monte",
+    "status": "Аукцион",
+    "x": -2351.14,
+    "y": 1299.69,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1365,
     "server_id": 27,
     "type": "house",
@@ -24453,6 +24441,18 @@
     "x": 1464.5,
     "y": 1920.04,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1603,
+    "server_id": 27,
+    "type": "house",
+    "name": "Kuroku Empire",
+    "owner": "Colin_Monte",
+    "status": "Аукцион",
+    "x": -2221.02,
+    "y": 1051.28,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -27976,7 +27976,7 @@
     "server_id": 27,
     "type": "business",
     "name": "Мастерская одежды",
-    "owner": "Rich_Doc",
+    "owner": "Cemen_Bop",
     "status": "Занято",
     "x": 2277.74,
     "y": 51.3579,
