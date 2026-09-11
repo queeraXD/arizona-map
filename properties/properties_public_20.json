@@ -444,18 +444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 37,
-    "server_id": 20,
-    "type": "house",
-    "name": "халупа максона",
-    "owner": "Makson_Bandera",
-    "status": "Занято",
-    "x": 2389.73,
-    "y": -1346.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 38,
     "server_id": 20,
     "type": "house",
@@ -7640,6 +7628,18 @@
     "status": "Занято",
     "x": 1846.05,
     "y": 661.2009,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 643,
+    "server_id": 20,
+    "type": "house",
+    "name": "Скуфск",
+    "owner": "Angel_Horny",
+    "status": "Занято",
+    "x": 1897.15,
+    "y": 736.687,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20004,18 +20004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1676,
-    "server_id": 20,
-    "type": "house",
-    "name": "Картоха",
-    "owner": "Sanchez_Borov",
-    "status": "Занято",
-    "x": 1749.16,
-    "y": 2755.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1677,
     "server_id": 20,
     "type": "house",
@@ -20731,18 +20719,6 @@
     "owner": "Vladik_Dryn",
     "status": "Занято",
     "x": 2473.14,
-    "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1737,
-    "server_id": 20,
-    "type": "house",
-    "name": "Ren Kato Property",
-    "owner": "Sanchez_Borov",
-    "status": "Занято",
-    "x": 2492.29,
     "y": -1376.27,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22236,6 +22212,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 37,
+    "server_id": 20,
+    "type": "house",
+    "name": "халупа максона",
+    "owner": "Makson_Bandera",
+    "status": "Аукцион",
+    "x": 2389.73,
+    "y": -1346.03,
+    "price": 14000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 39,
     "server_id": 20,
     "type": "house",
@@ -22308,18 +22296,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 643,
-    "server_id": 20,
-    "type": "house",
-    "name": "Скуфск",
-    "owner": "Angel_Horny",
-    "status": "Аукцион",
-    "x": 1897.15,
-    "y": 736.687,
-    "price": 50000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 950,
     "server_id": 20,
     "type": "house",
@@ -22341,6 +22317,30 @@
     "x": 2003.69,
     "y": 2136.2,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1676,
+    "server_id": 20,
+    "type": "house",
+    "name": "Картоха",
+    "owner": "Sanchez_Borov",
+    "status": "Аукцион",
+    "x": 1749.16,
+    "y": 2755.89,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1737,
+    "server_id": 20,
+    "type": "house",
+    "name": "Ren Kato Property",
+    "owner": "Sanchez_Borov",
+    "status": "Аукцион",
+    "x": 2492.29,
+    "y": -1376.27,
+    "price": 7777,
     "district": "Сан-Андреас"
   },
   {

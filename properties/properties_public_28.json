@@ -7080,18 +7080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 592,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Professor_Babos",
-    "status": "Занято",
-    "x": -1478.59,
-    "y": 2547.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 593,
     "server_id": 28,
     "type": "house",
@@ -22308,6 +22296,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 592,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Professor_Babos",
+    "status": "Аукцион",
+    "x": -1478.59,
+    "y": 2547.3,
+    "price": 700,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1226,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22365,18 @@
     "x": -827.45,
     "y": 2765.25,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 28,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Travis_Viper",
+    "status": "Аукцион",
+    "x": -2373.8,
+    "y": 910.117,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -23384,18 +23396,6 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 28,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": -2373.8,
-    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },

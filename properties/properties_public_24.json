@@ -5248,7 +5248,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Times Square",
-    "owner": "Ban_Seller",
+    "owner": "Mons_Ter",
     "status": "Занято",
     "x": 2484.52,
     "y": -28.4036,
@@ -5260,7 +5260,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Times Square",
-    "owner": "Ban_Seller",
+    "owner": "Mons_Ter",
     "status": "Занято",
     "x": 2513.33,
     "y": -28.4032,
@@ -5540,6 +5540,18 @@
     "status": "Занято",
     "x": 2206.36,
     "y": 656.3729,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 464,
+    "server_id": 24,
+    "type": "house",
+    "name": "staz",
+    "owner": "Arkady_Paravozov",
+    "status": "Занято",
+    "x": 2228.91,
+    "y": 654.7739,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15840,6 +15852,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1328,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ludik_Saratovski",
+    "status": "Занято",
+    "x": 1638.16,
+    "y": 2610.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1329,
     "server_id": 24,
     "type": "house",
@@ -21492,18 +21516,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1809,
-    "server_id": 24,
-    "type": "house",
-    "name": "продажа дс: dews angels",
-    "owner": "Israel_Military",
-    "status": "Занято",
-    "x": -115.554,
-    "y": 1046.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1810,
     "server_id": 24,
     "type": "house",
@@ -21948,18 +21960,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 464,
-    "server_id": 24,
-    "type": "house",
-    "name": "staz",
-    "owner": "Beat_It",
-    "status": "Аукцион",
-    "x": 2228.91,
-    "y": 654.7739,
-    "price": 1500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 476,
     "server_id": 24,
     "type": "house",
@@ -22008,18 +22008,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1328,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ludik_Saratovski",
-    "status": "Аукцион",
-    "x": 1638.16,
-    "y": 2610.71,
-    "price": 16666,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1707,
     "server_id": 24,
     "type": "house",
@@ -22041,6 +22029,18 @@
     "x": 1738.35,
     "y": 2861.66,
     "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1809,
+    "server_id": 24,
+    "type": "house",
+    "name": "продажа дс: dews angels",
+    "owner": "Israel_Military",
+    "status": "Аукцион",
+    "x": -115.554,
+    "y": 1046.7,
+    "price": 780000,
     "district": "Сан-Андреас"
   },
   {
