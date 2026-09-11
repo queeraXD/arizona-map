@@ -2520,6 +2520,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 210,
+    "server_id": 31,
+    "type": "house",
+    "name": "Будка Гамбино",
+    "owner": "Bogdan_Gambino",
+    "status": "Занято",
+    "x": 1112.41,
+    "y": -742.067,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 211,
     "server_id": 31,
     "type": "house",
@@ -3080,18 +3092,6 @@
     "status": "Занято",
     "x": 2131.66,
     "y": -973.916,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 259,
-    "server_id": 31,
-    "type": "house",
-    "name": "берлога",
-    "owner": "Panica_Glord",
-    "status": "Занято",
-    "x": 2089.57,
-    "y": -995.971,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5632,7 +5632,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Братья Balance",
-    "owner": "Ghost_Balance",
+    "owner": "Three_Balance",
     "status": "Занято",
     "x": 2398.27,
     "y": 736.0989,
@@ -7196,6 +7196,18 @@
     "status": "Занято",
     "x": -1532.87,
     "y": 2656.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 603,
+    "server_id": 31,
+    "type": "house",
+    "name": "Stepler House",
+    "owner": "Carlos_Flores",
+    "status": "Занято",
+    "x": -1562.54,
+    "y": 2650.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13712,18 +13724,6 @@
     "status": "Занято",
     "x": 294.7709,
     "y": -1623.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1150,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Panica_Glord",
-    "status": "Занято",
-    "x": 276.2279,
-    "y": -1620.48,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23232,18 +23232,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 210,
-    "server_id": 31,
-    "type": "house",
-    "name": "empty",
-    "owner": "Lovlya_Vlp",
-    "status": "Аукцион",
-    "x": 1112.41,
-    "y": -742.067,
-    "price": 60000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 216,
     "server_id": 31,
     "type": "house",
@@ -23256,6 +23244,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 259,
+    "server_id": 31,
+    "type": "house",
+    "name": "берлога",
+    "owner": "Panica_Glord",
+    "status": "Аукцион",
+    "x": 2089.57,
+    "y": -995.971,
+    "price": 60000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 523,
     "server_id": 31,
     "type": "house",
@@ -23265,18 +23265,6 @@
     "x": 1641.14,
     "y": 2149.78,
     "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 603,
-    "server_id": 31,
-    "type": "house",
-    "name": "Stepler House",
-    "owner": "Manual_Shadowraze",
-    "status": "Аукцион",
-    "x": -1562.54,
-    "y": 2650.98,
-    "price": 7000,
     "district": "Сан-Андреас"
   },
   {
@@ -23301,6 +23289,18 @@
     "x": -2895.53,
     "y": 1017.01,
     "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1150,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Panica_Glord",
+    "status": "Аукцион",
+    "x": 276.2279,
+    "y": -1620.48,
+    "price": 25000,
     "district": "Сан-Андреас"
   },
   {
