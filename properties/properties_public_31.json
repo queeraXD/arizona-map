@@ -10432,7 +10432,7 @@
     "server_id": 31,
     "type": "house",
     "name": "House of Gods Knights | 5",
-    "owner": "Alexandr_Mercy",
+    "owner": "Snickers_Bennett",
     "status": "Занято",
     "x": -339.7529,
     "y": 2553.55,
@@ -10808,18 +10808,6 @@
     "status": "Занято",
     "x": -2075.14,
     "y": 899.366,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 902,
-    "server_id": 31,
-    "type": "house",
-    "name": "Disneyland",
-    "owner": "Ower_West",
-    "status": "Занято",
-    "x": -2065.95,
-    "y": 1160.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16364,6 +16352,18 @@
     "status": "Занято",
     "x": 1112.2,
     "y": -1575.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1366,
+    "server_id": 31,
+    "type": "house",
+    "name": "Monetti ",
+    "owner": "Kazutora_Monetti",
+    "status": "Занято",
+    "x": 1110.53,
+    "y": -1578.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23328,6 +23328,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 902,
+    "server_id": 31,
+    "type": "house",
+    "name": "Disneyland",
+    "owner": "Ower_West",
+    "status": "Аукцион",
+    "x": -2065.95,
+    "y": 1160.62,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1047,
     "server_id": 31,
     "type": "house",
@@ -23340,15 +23352,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1366,
+    "id": 215,
     "server_id": 31,
-    "type": "house",
-    "name": "Monetti ",
-    "owner": "Kazutora_Monetti",
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Pavel_Majorka",
     "status": "Аукцион",
-    "x": 1110.53,
-    "y": -1578.45,
-    "price": 20000,
+    "x": 1864.59,
+    "y": -1393.39,
+    "price": 300000,
     "district": "Сан-Андреас"
   },
   {
@@ -25640,18 +25652,6 @@
     "status": "Занято",
     "x": -1757.81,
     "y": 964.127,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 215,
-    "server_id": 31,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Pavel_Majorka",
-    "status": "Занято",
-    "x": 1864.59,
-    "y": -1393.39,
     "price": 0,
     "district": "Сан-Андреас"
   },

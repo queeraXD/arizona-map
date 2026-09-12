@@ -816,18 +816,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 68,
-    "server_id": 10,
-    "type": "house",
-    "name": "Майнинг 10лвл",
-    "owner": "Zloy_Maxinator",
-    "status": "Занято",
-    "x": 2393.19,
-    "y": -1646.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 69,
     "server_id": 10,
     "type": "house",
@@ -5792,6 +5780,18 @@
     "status": "Занято",
     "x": 2206.36,
     "y": 691.505,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 483,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yapy_May",
+    "status": "Занято",
+    "x": 2177.57,
+    "y": 735.885,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11724,18 +11724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 980,
-    "server_id": 10,
-    "type": "house",
-    "name": "Майнинг 10лвл",
-    "owner": "Zloy_Maxinator",
-    "status": "Занято",
-    "x": -2278.21,
-    "y": 768.1019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 981,
     "server_id": 10,
     "type": "house",
@@ -11948,18 +11936,6 @@
     "status": "Занято",
     "x": -2373.18,
     "y": 851.663,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 999,
-    "server_id": 10,
-    "type": "house",
-    "name": "Майнинг 7лвл",
-    "owner": "Zloy_Maxinator",
-    "status": "Занято",
-    "x": -2373.26,
-    "y": 872.018,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12452,18 +12428,6 @@
     "status": "Занято",
     "x": -1727.98,
     "y": 1138.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1041,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zloy_Maxinator",
-    "status": "Занято",
-    "x": -1728.11,
-    "y": 1158.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14936,18 +14900,6 @@
     "status": "Занято",
     "x": -2340.02,
     "y": 679.9619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1248,
-    "server_id": 10,
-    "type": "house",
-    "name": "Майнинг 8лвл",
-    "owner": "Zloy_Maxinator",
-    "status": "Занято",
-    "x": -2321.72,
-    "y": 679.963,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20856,18 +20808,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1743,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zloy_Maxinator",
-    "status": "Занято",
-    "x": 1542.54,
-    "y": 1996.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1744,
     "server_id": 10,
     "type": "house",
@@ -23292,15 +23232,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 483,
+    "id": 68,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
-    "owner": "Yapy_May",
+    "name": "Майнинг 10лвл",
+    "owner": "Zloy_Maxinator",
     "status": "Аукцион",
-    "x": 2177.57,
-    "y": 735.885,
-    "price": 3000,
+    "x": 2393.19,
+    "y": -1646.03,
+    "price": 6500,
     "district": "Сан-Андреас"
   },
   {
@@ -23313,6 +23253,54 @@
     "x": 1967.26,
     "y": 2766.48,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 980,
+    "server_id": 10,
+    "type": "house",
+    "name": "Майнинг 10лвл",
+    "owner": "Zloy_Maxinator",
+    "status": "Аукцион",
+    "x": -2278.21,
+    "y": 768.1019,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 999,
+    "server_id": 10,
+    "type": "house",
+    "name": "Майнинг 7лвл",
+    "owner": "Zloy_Maxinator",
+    "status": "Аукцион",
+    "x": -2373.26,
+    "y": 872.018,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1041,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zloy_Maxinator",
+    "status": "Аукцион",
+    "x": -1728.11,
+    "y": 1158.95,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1248,
+    "server_id": 10,
+    "type": "house",
+    "name": "Майнинг 8лвл",
+    "owner": "Zloy_Maxinator",
+    "status": "Аукцион",
+    "x": -2321.72,
+    "y": 679.963,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
@@ -23337,6 +23325,18 @@
     "x": 1500.82,
     "y": 2535.38,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1743,
+    "server_id": 10,
+    "type": "house",
+    "name": "Деп. условия",
+    "owner": "Zloy_Maxinator",
+    "status": "Аукцион",
+    "x": 1542.54,
+    "y": 1996.35,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {

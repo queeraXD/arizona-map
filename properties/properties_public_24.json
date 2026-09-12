@@ -1860,18 +1860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 155,
-    "server_id": 24,
-    "type": "house",
-    "name": "МАЙНИНГ + ДЕП",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 993.6359,
-    "y": -1058.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 156,
     "server_id": 24,
     "type": "house",
@@ -5196,18 +5184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 433,
-    "server_id": 24,
-    "type": "house",
-    "name": "Kenj1 Home",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 2284.16,
-    "y": -1046.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 434,
     "server_id": 24,
     "type": "house",
@@ -6036,18 +6012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 503,
-    "server_id": 24,
-    "type": "house",
-    "name": "matabot",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 1341.49,
-    "y": 1930.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 504,
     "server_id": 24,
     "type": "house",
@@ -6336,18 +6300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 528,
-    "server_id": 24,
-    "type": "house",
-    "name": "lУIЮIТIНIЫIЙI",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 2018.48,
-    "y": 2766.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 529,
     "server_id": 24,
     "type": "house",
@@ -6368,18 +6320,6 @@
     "status": "Занято",
     "x": 1967.26,
     "y": 2766.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 531,
-    "server_id": 24,
-    "type": "house",
-    "name": "|У|Ю|Т|Н|Ы|Й| |Д|О|М|И|Ш|К|А|",
-    "owner": "Shadow_Cortez",
-    "status": "Занято",
-    "x": 1929.81,
-    "y": 2774.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7924,7 +7864,7 @@
     "server_id": 24,
     "type": "house",
     "name": "zjflai",
-    "owner": "Ynki_Sakata",
+    "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": 984.2689,
     "y": 1878.91,
@@ -20412,18 +20352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1707,
-    "server_id": 24,
-    "type": "house",
-    "name": "Insane squad",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 1749.1,
-    "y": 2755.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1708,
     "server_id": 24,
     "type": "house",
@@ -20624,18 +20552,6 @@
     "status": "Занято",
     "x": 1783.7,
     "y": 2868.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1726,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 1738.35,
-    "y": 2861.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21272,6 +21188,18 @@
     "status": "Занято",
     "x": -2303.5,
     "y": 796.7559,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1780,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Big_Husler",
+    "status": "Занято",
+    "x": -2487.25,
+    "y": 821.3079,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21972,6 +21900,66 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 155,
+    "server_id": 24,
+    "type": "house",
+    "name": "МАЙНИНГ + ДЕП",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": 993.6359,
+    "y": -1058.32,
+    "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 433,
+    "server_id": 24,
+    "type": "house",
+    "name": "Kenj1 Home",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": 2284.16,
+    "y": -1046.07,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 503,
+    "server_id": 24,
+    "type": "house",
+    "name": "matabot",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": 1341.49,
+    "y": 1930.03,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 528,
+    "server_id": 24,
+    "type": "house",
+    "name": "lУIЮIТIНIЫIЙI",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 2018.48,
+    "y": 2766.55,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 531,
+    "server_id": 24,
+    "type": "house",
+    "name": "|У|Ю|Т|Н|Ы|Й| |Д|О|М|И|Ш|К|А|",
+    "owner": "Shadow_Cortez",
+    "status": "Аукцион",
+    "x": 1929.81,
+    "y": 2774.34,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 607,
     "server_id": 24,
     "type": "house",
@@ -22020,6 +22008,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1707,
+    "server_id": 24,
+    "type": "house",
+    "name": "Insane squad",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 1749.1,
+    "y": 2755.88,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1716,
     "server_id": 24,
     "type": "house",
@@ -22032,27 +22032,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1780,
+    "id": 1726,
     "server_id": 24,
     "type": "house",
     "name": "Дом",
-    "owner": "Big_Husler",
+    "owner": "Despair_Empressions",
     "status": "Аукцион",
-    "x": -2487.25,
-    "y": 821.3079,
-    "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 31,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Big_Husler",
-    "status": "Аукцион",
-    "x": 604.441,
-    "y": -1513.29,
-    "price": 647383,
+    "x": 1738.35,
+    "y": 2861.66,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -23360,6 +23348,18 @@
     "status": "Занято",
     "x": 661.359,
     "y": -573.569,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 31,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Big_Husler",
+    "status": "Занято",
+    "x": 604.441,
+    "y": -1513.29,
     "price": 0,
     "district": "Сан-Андреас"
   },

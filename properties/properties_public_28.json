@@ -5400,18 +5400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 450,
-    "server_id": 28,
-    "type": "house",
-    "name": "RIFA",
-    "owner": "Wistful_Gloaming",
-    "status": "Занято",
-    "x": 1845.81,
-    "y": 741.2369,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 451,
     "server_id": 28,
     "type": "house",
@@ -8240,18 +8228,6 @@
     "status": "Занято",
     "x": 1265.52,
     "y": 2609.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 688,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Wistful_Gloaming",
-    "status": "Занято",
-    "x": 1285.0,
-    "y": 2610.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20124,18 +20100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1682,
-    "server_id": 28,
-    "type": "house",
-    "name": "Апартаменты в Tierra-Robada",
-    "owner": "Vlad_Chernomor",
-    "status": "Занято",
-    "x": -760.7369,
-    "y": 2765.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1683,
     "server_id": 28,
     "type": "house",
@@ -20436,6 +20400,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1710,
+    "server_id": 28,
+    "type": "house",
+    "name": "FARMILA",
+    "owner": "Nikki_Barnes",
+    "status": "Занято",
+    "x": 2445.16,
+    "y": 1003.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1711,
     "server_id": 28,
     "type": "house",
@@ -20564,6 +20540,18 @@
     "status": "Занято",
     "x": 2615.11,
     "y": -1203.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1723,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом самого пиздатого человека ",
+    "owner": "Paradox_Disney",
+    "status": "Занято",
+    "x": 2608.15,
+    "y": -1203.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22260,6 +22248,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1682,
+    "server_id": 28,
+    "type": "house",
+    "name": "Апартаменты в Tierra-Robada",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -760.7369,
+    "y": 2765.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 450,
+    "server_id": 28,
+    "type": "house",
+    "name": "RIFA",
+    "owner": "Wistful_Gloaming",
+    "status": "Аукцион",
+    "x": 1845.81,
+    "y": 741.2369,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 592,
     "server_id": 28,
     "type": "house",
@@ -22269,6 +22281,18 @@
     "x": -1478.59,
     "y": 2547.3,
     "price": 800,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 688,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Wistful_Gloaming",
+    "status": "Аукцион",
+    "x": 1285.0,
+    "y": 2610.59,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -22332,18 +22356,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1710,
-    "server_id": 28,
-    "type": "house",
-    "name": "FARMILA",
-    "owner": "Roman_Dmitranitsa",
-    "status": "Аукцион",
-    "x": 2445.16,
-    "y": 1003.58,
-    "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1714,
     "server_id": 28,
     "type": "house",
@@ -22353,18 +22365,6 @@
     "x": 1976.21,
     "y": -1633.99,
     "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1723,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом самого пиздатого человека ",
-    "owner": "Roman_Dmitranitsa",
-    "status": "Аукцион",
-    "x": 2608.15,
-    "y": -1203.09,
-    "price": 500,
     "district": "Сан-Андреас"
   },
   {
@@ -22420,7 +22420,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Dima_Messi",
+    "owner": "Gasparov_Morry",
     "status": "Занято",
     "x": 2085.67,
     "y": 2054.97,
@@ -22492,7 +22492,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Jose_Rose",
+    "owner": "Marin_Kitagawa",
     "status": "Занято",
     "x": -2093.7,
     "y": -2464.91,
@@ -22876,7 +22876,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Jose_Rose",
+    "owner": "Marin_Kitagawa",
     "status": "Занято",
     "x": -2165.77,
     "y": -2416.71,
@@ -24520,7 +24520,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Jose_Rose",
+    "owner": "Marin_Kitagawa",
     "status": "Занято",
     "x": 1957.1,
     "y": -2183.62,
@@ -24916,7 +24916,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Отель",
-    "owner": "Jose_Rose",
+    "owner": "Vlad_Chernomor",
     "status": "Занято",
     "x": 2135.145,
     "y": 2379.054,
@@ -24940,7 +24940,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Отель",
-    "owner": "Jose_Rose",
+    "owner": "Vlad_Chernomor",
     "status": "Занято",
     "x": 2620.445,
     "y": 2342.491,
