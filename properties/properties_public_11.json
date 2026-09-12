@@ -9528,18 +9528,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 794,
-    "server_id": 11,
-    "type": "house",
-    "name": "Hashick house",
-    "owner": "Romeo_Alfi",
-    "status": "Занято",
-    "x": -2538.73,
-    "y": 830.064,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 795,
     "server_id": 11,
     "type": "house",
@@ -23124,18 +23112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1943,
-    "server_id": 11,
-    "type": "house",
-    "name": "майнинг ферма",
-    "owner": "Antonio_Fantazerov",
-    "status": "Занято",
-    "x": -2168.76,
-    "y": 821.1359,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1944,
     "server_id": 11,
     "type": "house",
@@ -23144,18 +23120,6 @@
     "status": "Занято",
     "x": -2187.16,
     "y": 795.7009,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1945,
-    "server_id": 11,
-    "type": "house",
-    "name": "майнинг ферма 2",
-    "owner": "Antonio_Fantazerov",
-    "status": "Занято",
-    "x": -2187.0,
-    "y": 821.1329,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24468,6 +24432,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 794,
+    "server_id": 11,
+    "type": "house",
+    "name": "Hashick house",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2538.73,
+    "y": 830.064,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1087,
     "server_id": 11,
     "type": "house",
@@ -24596,6 +24572,30 @@
     "status": "Свободно",
     "x": 0.0,
     "y": -2133.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1943,
+    "server_id": 11,
+    "type": "house",
+    "name": "майнинг ферма",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2168.76,
+    "y": 821.1359,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1945,
+    "server_id": 11,
+    "type": "house",
+    "name": "майнинг ферма 2",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2187.0,
+    "y": 821.1329,
     "price": 0,
     "district": "Сан-Андреас"
   },

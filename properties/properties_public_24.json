@@ -5196,18 +5196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 433,
-    "server_id": 24,
-    "type": "house",
-    "name": "Kenj1 Home",
-    "owner": "Vissarion_Shilov",
-    "status": "Занято",
-    "x": 2284.16,
-    "y": -1046.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 434,
     "server_id": 24,
     "type": "house",
@@ -10788,18 +10776,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 901,
-    "server_id": 24,
-    "type": "house",
-    "name": "<3 Monopoly Sovhoz <3",
-    "owner": "Sovhoz_Corporation",
-    "status": "Занято",
-    "x": -2075.14,
-    "y": 899.366,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 902,
     "server_id": 24,
     "type": "house",
@@ -14220,18 +14196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1188,
-    "server_id": 24,
-    "type": "house",
-    "name": "<3 Visconti and Sovhoz <3",
-    "owner": "Sovhoz_Corporation",
-    "status": "Занято",
-    "x": -2789.17,
-    "y": -52.6333,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1189,
     "server_id": 24,
     "type": "house",
@@ -15720,18 +15684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1313,
-    "server_id": 24,
-    "type": "house",
-    "name": "<3 Visconti and Sovhoz <3",
-    "owner": "Sovhoz_Corporation",
-    "status": "Занято",
-    "x": -76.1399,
-    "y": -1581.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1314,
     "server_id": 24,
     "type": "house",
@@ -15740,18 +15692,6 @@
     "status": "Занято",
     "x": -91.1687,
     "y": -1592.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1315,
-    "server_id": 24,
-    "type": "house",
-    "name": "<3 Visconti and Sovhoz <3",
-    "owner": "Sovhoz_Corporation",
-    "status": "Занято",
-    "x": -75.249,
-    "y": -1598.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15776,18 +15716,6 @@
     "status": "Занято",
     "x": -68.7052,
     "y": -1545.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1318,
-    "server_id": 24,
-    "type": "house",
-    "name": "<3 Visconti and Sovhoz <3",
-    "owner": "Sovhoz_Corporation",
-    "status": "Занято",
-    "x": -89.1909,
-    "y": -1564.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22008,6 +21936,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 901,
+    "server_id": 24,
+    "type": "house",
+    "name": "<3 Monopoly Sovhoz <3",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2075.14,
+    "y": 899.366,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 923,
     "server_id": 24,
     "type": "house",
@@ -22017,6 +21957,66 @@
     "x": -2239.14,
     "y": 1154.01,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1188,
+    "server_id": 24,
+    "type": "house",
+    "name": "<3 Visconti and Sovhoz <3",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2789.17,
+    "y": -52.6333,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1313,
+    "server_id": 24,
+    "type": "house",
+    "name": "<3 Visconti and Sovhoz <3",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -76.1399,
+    "y": -1581.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1315,
+    "server_id": 24,
+    "type": "house",
+    "name": "<3 Visconti and Sovhoz <3",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -75.249,
+    "y": -1598.18,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1318,
+    "server_id": 24,
+    "type": "house",
+    "name": "<3 Visconti and Sovhoz <3",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -89.1909,
+    "y": -1564.46,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 433,
+    "server_id": 24,
+    "type": "house",
+    "name": "Kenj1 Home",
+    "owner": "Vissarion_Shilov",
+    "status": "Аукцион",
+    "x": 2284.16,
+    "y": -1046.07,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
