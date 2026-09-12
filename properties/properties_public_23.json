@@ -11100,18 +11100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 929,
-    "server_id": 23,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Goha_Stepanov",
-    "status": "Занято",
-    "x": -2017.64,
-    "y": 1017.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 930,
     "server_id": 23,
     "type": "house",
@@ -11140,7 +11128,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Татары рулят ",
-    "owner": "Kristina_Viktorovna",
+    "owner": "Kawasaki_Ninja",
     "status": "Занято",
     "x": -2017.94,
     "y": 970.2399,
@@ -21152,7 +21140,19 @@
     "status": "Аукцион",
     "x": -2513.51,
     "y": 885.7399,
-    "price": 3000,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 929,
+    "server_id": 23,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Goha_Stepanov",
+    "status": "Аукцион",
+    "x": -2017.64,
+    "y": 1017.06,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -21177,18 +21177,6 @@
     "x": -2356.45,
     "y": 1008.19,
     "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 268,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Diego_Darkness",
-    "status": "Аукцион",
-    "x": 8.3996,
-    "y": 1212.035,
-    "price": 230123,
     "district": "Сан-Андреас"
   },
   {
@@ -23840,6 +23828,18 @@
     "status": "Занято",
     "x": 2272.941,
     "y": -1795.335,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 268,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Diego_Darkness",
+    "status": "Занято",
+    "x": 8.3996,
+    "y": 1212.035,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -3768,6 +3768,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 314,
+    "server_id": 27,
+    "type": "house",
+    "name": "NAK FAMILY",
+    "owner": "Maxim_Nak",
+    "status": "Занято",
+    "x": 1954.5,
+    "y": -1074.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 315,
     "server_id": 27,
     "type": "house",
@@ -21204,18 +21216,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1771,
-    "server_id": 27,
-    "type": "house",
-    "name": "Dodger house",
-    "owner": "Morph_LIng",
-    "status": "Занято",
-    "x": -317.8989,
-    "y": 877.572,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1772,
     "server_id": 27,
     "type": "house",
@@ -22508,18 +22508,6 @@
     "status": "Занято",
     "x": -2205.92,
     "y": 1163.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1880,
-    "server_id": 27,
-    "type": "house",
-    "name": "hatepeople",
-    "owner": "Morph_LIng",
-    "status": "Занято",
-    "x": -2238.07,
-    "y": 1135.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24420,18 +24408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 314,
-    "server_id": 27,
-    "type": "house",
-    "name": "PBenson",
-    "owner": "Feldan_Lizalov",
-    "status": "Аукцион",
-    "x": 1954.5,
-    "y": -1074.88,
-    "price": 2500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1365,
     "server_id": 27,
     "type": "house",
@@ -24468,15 +24444,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 196,
+    "id": 1771,
     "server_id": 27,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Dostavka_Cuerto",
+    "type": "house",
+    "name": "Dodger house",
+    "owner": "Morph_LIng",
     "status": "Аукцион",
-    "x": -2681.61,
-    "y": 583.93,
-    "price": 95123,
+    "x": -317.8989,
+    "y": 877.572,
+    "price": 1111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1880,
+    "server_id": 27,
+    "type": "house",
+    "name": "hatepeople",
+    "owner": "Morph_LIng",
+    "status": "Аукцион",
+    "x": -2238.07,
+    "y": 1135.96,
+    "price": 1111,
     "district": "Сан-Андреас"
   },
   {
@@ -27464,6 +27452,18 @@
     "status": "Занято",
     "x": -1548.81,
     "y": 673.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 196,
+    "server_id": 27,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Dostavka_Cuerto",
+    "status": "Занято",
+    "x": -2681.61,
+    "y": 583.93,
     "price": 0,
     "district": "Сан-Андреас"
   },

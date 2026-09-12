@@ -9660,18 +9660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 808,
-    "server_id": 3,
-    "type": "house",
-    "name": "Основной домик",
-    "owner": "Liza_Typova",
-    "status": "Занято",
-    "x": -2722.88,
-    "y": -127.9029,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 809,
     "server_id": 3,
     "type": "house",
@@ -10644,6 +10632,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 891,
+    "server_id": 3,
+    "type": "house",
+    "name": "GG HOUSE",
+    "owner": "Monero_Explosion",
+    "status": "Занято",
+    "x": -2075.03,
+    "y": -2526.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 892,
     "server_id": 3,
     "type": "house",
@@ -10724,6 +10724,18 @@
     "status": "Занято",
     "x": -2043.27,
     "y": -2559.45,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 899,
+    "server_id": 3,
+    "type": "house",
+    "name": "ПРОДАМ @vladick_shop",
+    "owner": "Vladislav_Greco",
+    "status": "Занято",
+    "x": -2240.02,
+    "y": 962.1649,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11192,18 +11204,6 @@
     "status": "Занято",
     "x": -2412.89,
     "y": 896.8549,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 940,
-    "server_id": 3,
-    "type": "house",
-    "name": "майнинг для чайников",
-    "owner": "Danil_Giponen",
-    "status": "Занято",
-    "x": -2449.91,
-    "y": 895.741,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14220,6 +14220,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1192,
+    "server_id": 3,
+    "type": "house",
+    "name": "В шкафу 700 л бенза и 45 рем",
+    "owner": "Mixail_Devlin",
+    "status": "Занято",
+    "x": -2875.99,
+    "y": 980.895,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1193,
     "server_id": 3,
     "type": "house",
@@ -16724,18 +16736,6 @@
     "status": "Занято",
     "x": 2794.25,
     "y": 2221.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1405,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом Соленого Огурчика йоу",
-    "owner": "[09]Actavis_Wizzard",
-    "status": "Занято",
-    "x": 2794.18,
-    "y": 2268.49,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21556,7 +21556,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Catafalque Hom",
-    "owner": "Tofik_Catafalque",
+    "owner": "Vito_Foxes",
     "status": "Занято",
     "x": 985.283,
     "y": 2367.75,
@@ -23916,27 +23916,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 891,
+    "id": 808,
     "server_id": 3,
     "type": "house",
-    "name": "GG HOUSE",
-    "owner": "Monero_Explosion",
+    "name": "Основной домик",
+    "owner": "Liza_Typova",
     "status": "Аукцион",
-    "x": -2075.03,
-    "y": -2526.84,
-    "price": 10999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 899,
-    "server_id": 3,
-    "type": "house",
-    "name": "ПРОДАМ @vladick_shop",
-    "owner": "Vladislav_Greco",
-    "status": "Аукцион",
-    "x": -2240.02,
-    "y": 962.1649,
-    "price": 14007,
+    "x": -2722.88,
+    "y": -127.9029,
+    "price": 9000,
     "district": "Сан-Андреас"
   },
   {
@@ -23952,15 +23940,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1192,
+    "id": 940,
     "server_id": 3,
     "type": "house",
-    "name": "В шкафу 700 л бенза и 45 рем",
-    "owner": "Mixail_Devlin",
+    "name": "майнинг для чайников",
+    "owner": "Danil_Giponen",
     "status": "Аукцион",
-    "x": -2875.99,
-    "y": 980.895,
-    "price": 13000,
+    "x": -2449.91,
+    "y": 895.741,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -23997,6 +23985,18 @@
     "x": -2620.74,
     "y": 103.3899,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1405,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом Соленого Огурчика йоу",
+    "owner": "[09]Actavis_Wizzard",
+    "status": "Аукцион",
+    "x": 2794.18,
+    "y": 2268.49,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {

@@ -12036,6 +12036,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1009,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Marcus_Weeknd",
+    "status": "Занято",
+    "x": -2517.07,
+    "y": 1142.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1010,
     "server_id": 16,
     "type": "house",
@@ -12632,18 +12644,6 @@
     "status": "Занято",
     "x": -2024.04,
     "y": 1275.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1060,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Burmalda_White",
-    "status": "Занято",
-    "x": -2152.06,
-    "y": 1248.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15332,18 +15332,6 @@
     "status": "Занято",
     "x": -2868.73,
     "y": 821.025,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1285,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Eugene_Weeknd",
-    "status": "Занято",
-    "x": -2863.72,
-    "y": 829.721,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22440,15 +22428,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1009,
+    "id": 1060,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Marcus_Weeknd",
+    "owner": "Burmalda_White",
     "status": "Аукцион",
-    "x": -2517.07,
-    "y": 1142.17,
-    "price": 7500,
+    "x": -2152.06,
+    "y": 1248.54,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1285,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Eugene_Weeknd",
+    "status": "Аукцион",
+    "x": -2863.72,
+    "y": 829.721,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
