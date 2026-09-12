@@ -7104,18 +7104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 592,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Professor_Babos",
-    "status": "Занято",
-    "x": -1478.59,
-    "y": 2547.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 593,
     "server_id": 28,
     "type": "house",
@@ -15612,18 +15600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1303,
-    "server_id": 28,
-    "type": "house",
-    "name": "СТРАХА_НЕТ",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": -2590.53,
-    "y": -186.0579,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1304,
     "server_id": 28,
     "type": "house",
@@ -20280,18 +20256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1692,
-    "server_id": 28,
-    "type": "house",
-    "name": "гнездо Адольфа 3",
-    "owner": "Professor_Babos",
-    "status": "Занято",
-    "x": -827.45,
-    "y": 2765.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1693,
     "server_id": 28,
     "type": "house",
@@ -20496,18 +20460,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1710,
-    "server_id": 28,
-    "type": "house",
-    "name": "FARMILA",
-    "owner": "Roman_Dmitranitsa",
-    "status": "Занято",
-    "x": 2445.16,
-    "y": 1003.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1711,
     "server_id": 28,
     "type": "house",
@@ -20648,18 +20600,6 @@
     "status": "Занято",
     "x": 2615.11,
     "y": -1203.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1723,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом самого пиздатого человека ",
-    "owner": "Roman_Dmitranitsa",
-    "status": "Занято",
-    "x": 2608.15,
-    "y": -1203.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22356,6 +22296,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 592,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Professor_Babos",
+    "status": "Аукцион",
+    "x": -1478.59,
+    "y": 2547.3,
+    "price": 800,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 827,
     "server_id": 28,
     "type": "house",
@@ -22364,6 +22316,54 @@
     "status": "Аукцион",
     "x": -2724.29,
     "y": -58.0475,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1303,
+    "server_id": 28,
+    "type": "house",
+    "name": "СТРАХА_НЕТ",
+    "owner": "Kedroviy_Oreh",
+    "status": "Аукцион",
+    "x": -2590.53,
+    "y": -186.0579,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1692,
+    "server_id": 28,
+    "type": "house",
+    "name": "гнездо Адольфа 3",
+    "owner": "Professor_Babos",
+    "status": "Аукцион",
+    "x": -827.45,
+    "y": 2765.25,
+    "price": 700,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1710,
+    "server_id": 28,
+    "type": "house",
+    "name": "FARMILA",
+    "owner": "Roman_Dmitranitsa",
+    "status": "Аукцион",
+    "x": 2445.16,
+    "y": 1003.58,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1723,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом самого пиздатого человека ",
+    "owner": "Roman_Dmitranitsa",
+    "status": "Аукцион",
+    "x": 2608.15,
+    "y": -1203.09,
     "price": 500,
     "district": "Сан-Андреас"
   },

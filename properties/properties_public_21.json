@@ -132,18 +132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 11,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Samirka_Maestro",
-    "status": "Занято",
-    "x": 2093.85,
-    "y": -1122.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 12,
     "server_id": 21,
     "type": "house",
@@ -9624,6 +9612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 802,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kimmi_Arias",
+    "status": "Занято",
+    "x": -2321.73,
+    "y": 820.036,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 803,
     "server_id": 21,
     "type": "house",
@@ -12699,7 +12699,7 @@
     "id": 1060,
     "server_id": 21,
     "type": "house",
-    "name": "West Coast",
+    "name": "одиночка Amashi",
     "owner": "Kazuma_Amashi",
     "status": "Занято",
     "x": -2152.06,
@@ -21924,15 +21924,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 802,
+    "id": 11,
     "server_id": 21,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2321.73,
-    "y": 820.036,
-    "price": 0,
+    "owner": "Samirka_Maestro",
+    "status": "Аукцион",
+    "x": 2093.85,
+    "y": -1122.68,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {

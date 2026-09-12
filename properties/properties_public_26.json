@@ -4920,18 +4920,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 410,
-    "server_id": 26,
-    "type": "house",
-    "name": "Гробница",
-    "owner": "Morgan_Murcialego",
-    "status": "Занято",
-    "x": 1402.4,
-    "y": 333.4599,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 411,
     "server_id": 26,
     "type": "house",
@@ -5452,7 +5440,7 @@
     "server_id": 26,
     "type": "house",
     "name": "280 мимо тещи",
-    "owner": "Kola_Laiting",
+    "owner": "Karim_Monstor",
     "status": "Занято",
     "x": 2014.05,
     "y": 650.828,
@@ -9380,18 +9368,6 @@
     "status": "Занято",
     "x": -2541.25,
     "y": 750.9169,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 782,
-    "server_id": 26,
-    "type": "house",
-    "name": "Гараж есть",
-    "owner": "Aska_Mclarren",
-    "status": "Занято",
-    "x": -2541.25,
-    "y": 785.179,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25164,6 +25140,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 410,
+    "server_id": 26,
+    "type": "house",
+    "name": "Гробница",
+    "owner": "Morgan_Murcialego",
+    "status": "Аукцион",
+    "x": 1402.4,
+    "y": 333.4599,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 782,
+    "server_id": 26,
+    "type": "house",
+    "name": "Гараж есть",
+    "owner": "Aska_Mclarren",
+    "status": "Аукцион",
+    "x": -2541.25,
+    "y": 785.179,
+    "price": 1100,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1758,
     "server_id": 26,
     "type": "house",
@@ -25185,18 +25185,6 @@
     "x": 1793.46,
     "y": 2792.28,
     "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 201,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Slastik_Escobar",
-    "status": "Аукцион",
-    "x": -104.79,
-    "y": -309.98,
-    "price": 120000,
     "district": "Сан-Андреас"
   },
   {
@@ -28244,6 +28232,18 @@
     "status": "Занято",
     "x": -1983.44,
     "y": 127.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 201,
+    "server_id": 26,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Slastik_Escobar",
+    "status": "Занято",
+    "x": -104.79,
+    "y": -309.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
