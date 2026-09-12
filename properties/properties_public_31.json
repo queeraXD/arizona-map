@@ -18120,18 +18120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1513,
-    "server_id": 31,
-    "type": "house",
-    "name": "MacRiver Empire",
-    "owner": "James_MacRiver",
-    "status": "Занято",
-    "x": -2355.53,
-    "y": 246.6649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1514,
     "server_id": 31,
     "type": "house",
@@ -23352,6 +23340,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1513,
+    "server_id": 31,
+    "type": "house",
+    "name": "MacRiver Empire",
+    "owner": "James_MacRiver",
+    "status": "Аукцион",
+    "x": -2355.53,
+    "y": 246.6649,
+    "price": 320000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 105,
     "server_id": 31,
     "type": "business",
@@ -26044,7 +26044,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Отель",
-    "owner": "Berlin_Bauer",
+    "owner": "Aomori_Bauer",
     "status": "Занято",
     "x": 2097.389,
     "y": 2170.27,
