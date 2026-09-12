@@ -3435,7 +3435,7 @@
     "id": 286,
     "server_id": 13,
     "type": "house",
-    "name": "sell tg: @datafourhundredfour",
+    "name": "Дом",
     "owner": "Bloody_Doubts",
     "status": "Занято",
     "x": 2259.37,
@@ -11724,30 +11724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 977,
-    "server_id": 13,
-    "type": "house",
-    "name": "Haruka 0 Family",
-    "owner": "Albert_Epshtein",
-    "status": "Занято",
-    "x": -2422.26,
-    "y": 2491.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 978,
-    "server_id": 13,
-    "type": "house",
-    "name": "вар вышки",
-    "owner": "Albert_Epshtein",
-    "status": "Занято",
-    "x": 452.07,
-    "y": 1246.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 979,
     "server_id": 13,
     "type": "house",
@@ -15032,18 +15008,6 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1318.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1253,
-    "server_id": 13,
-    "type": "house",
-    "name": "Epshtein Lair",
-    "owner": "Albert_Epshtein",
-    "status": "Занято",
-    "x": -2351.14,
-    "y": 1299.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23253,6 +23217,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 977,
+    "server_id": 13,
+    "type": "house",
+    "name": "Haruka 0 Family",
+    "owner": "Albert_Epshtein",
+    "status": "Аукцион",
+    "x": -2422.26,
+    "y": 2491.39,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 978,
+    "server_id": 13,
+    "type": "house",
+    "name": "вар вышки",
+    "owner": "Albert_Epshtein",
+    "status": "Аукцион",
+    "x": 452.07,
+    "y": 1246.99,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1253,
+    "server_id": 13,
+    "type": "house",
+    "name": "Epshtein Lair",
+    "owner": "Albert_Epshtein",
+    "status": "Аукцион",
+    "x": -2351.14,
+    "y": 1299.64,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {

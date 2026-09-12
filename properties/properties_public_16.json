@@ -5592,6 +5592,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 468,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Black_Ryzhiy",
+    "status": "Занято",
+    "x": 2368.36,
+    "y": 654.8389,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 469,
     "server_id": 16,
     "type": "house",
@@ -11156,18 +11168,6 @@
     "status": "Занято",
     "x": -2112.64,
     "y": 745.564,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 935,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mason_Markelovani",
-    "status": "Занято",
-    "x": -2126.66,
-    "y": 755.6099,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22392,18 +22392,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 468,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Angel_Peruer",
-    "status": "Аукцион",
-    "x": 2368.36,
-    "y": 654.8389,
-    "price": 1500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 519,
     "server_id": 16,
     "type": "house",
@@ -22413,6 +22401,18 @@
     "x": 1639.89,
     "y": 2075.81,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 935,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mason_Markelovani",
+    "status": "Аукцион",
+    "x": -2126.66,
+    "y": 755.6099,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -26536,7 +26536,7 @@
     "server_id": 16,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Alex_Covalli",
+    "owner": "Kelpy_Covalli",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

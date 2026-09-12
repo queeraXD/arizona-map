@@ -9420,18 +9420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 785,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2513.5,
-    "y": 867.418,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 786,
     "server_id": 5,
     "type": "house",
@@ -23292,18 +23280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1946,
-    "server_id": 5,
-    "type": "house",
-    "name": "Имя отсутствует",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 2468.24,
-    "y": -1410.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1947,
     "server_id": 5,
     "type": "house",
@@ -23432,18 +23408,6 @@
     "status": "Занято",
     "x": 2492.21,
     "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1958,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 2476.46,
-    "y": -1376.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25056,6 +25020,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 785,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": -2513.5,
+    "y": 867.418,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 921,
     "server_id": 5,
     "type": "house",
@@ -25116,6 +25092,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1946,
+    "server_id": 5,
+    "type": "house",
+    "name": "Имя отсутствует",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": 2468.24,
+    "y": -1410.34,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1958,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": 2476.46,
+    "y": -1376.54,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 62,
     "server_id": 5,
     "type": "business",
@@ -25125,18 +25125,6 @@
     "x": 2150.73,
     "y": 2733.87,
     "price": 250000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 74,
-    "server_id": 5,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Ruslan_White",
-    "status": "Аукцион",
-    "x": 2104.24,
-    "y": 2678.92,
-    "price": 130000,
     "district": "Сан-Андреас"
   },
   {
@@ -25796,6 +25784,18 @@
     "status": "Занято",
     "x": 1657.04,
     "y": 1741.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 74,
+    "server_id": 5,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Ruslan_White",
+    "status": "Занято",
+    "x": 2104.24,
+    "y": 2678.92,
     "price": 0,
     "district": "Сан-Андреас"
   },

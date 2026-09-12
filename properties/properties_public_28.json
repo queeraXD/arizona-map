@@ -5400,6 +5400,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 450,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом Мафии",
+    "owner": "Paul_Durove",
+    "status": "Занято",
+    "x": 1845.81,
+    "y": 741.2369,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 451,
     "server_id": 28,
     "type": "house",
@@ -6664,7 +6676,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Nightmare Empire 4/15",
-    "owner": "Mike_Nightmare",
+    "owner": "Fancy_Power",
     "status": "Занято",
     "x": -253.3099,
     "y": 933.012,
@@ -8240,6 +8252,18 @@
     "status": "Занято",
     "x": 1265.52,
     "y": 2609.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 688,
+    "server_id": 28,
+    "type": "house",
+    "name": "HOLLYWOODSKY-HOU$E",
+    "owner": "Dmitry_Hollywoodsky",
+    "status": "Занято",
+    "x": 1285.0,
+    "y": 2610.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15648,18 +15672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1309,
-    "server_id": 28,
-    "type": "house",
-    "name": "wortenzzz",
-    "owner": "Chase_Young",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -170.9069,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1310,
     "server_id": 28,
     "type": "house",
@@ -18675,8 +18687,8 @@
     "id": 1562,
     "server_id": 28,
     "type": "house",
-    "name": "ПРОДАЮ, ТГ @ARSENPFANERA",
-    "owner": "Otso_Savchenko",
+    "name": "не продаю",
+    "owner": "Vlad_Chernomor",
     "status": "Занято",
     "x": 745.13,
     "y": 971.005,
@@ -18884,18 +18896,6 @@
     "status": "Занято",
     "x": 2437.04,
     "y": 1235.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1580,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дуров Сквад",
-    "owner": "Paul_Durove",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1236.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22308,30 +22308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 450,
-    "server_id": 28,
-    "type": "house",
-    "name": "RIFA",
-    "owner": "Wistful_Gloaming",
-    "status": "Аукцион",
-    "x": 1845.81,
-    "y": 741.2369,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 688,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Wistful_Gloaming",
-    "status": "Аукцион",
-    "x": 1285.0,
-    "y": 2610.59,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 904,
     "server_id": 28,
     "type": "house",
@@ -22356,6 +22332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1309,
+    "server_id": 28,
+    "type": "house",
+    "name": "wortenzzz",
+    "owner": "Chase_Young",
+    "status": "Аукцион",
+    "x": -2515.38,
+    "y": -170.9069,
+    "price": 1200,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1345,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22353,18 @@
     "x": 1564.61,
     "y": 2565.43,
     "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1580,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дуров Сквад",
+    "owner": "Paul_Durove",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1236.45,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {

@@ -444,30 +444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 37,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Harly_Quinn",
-    "status": "Занято",
-    "x": 2389.73,
-    "y": -1346.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 38,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом ГЕТТО",
-    "owner": "Harly_Quinn",
-    "status": "Занято",
-    "x": 2387.86,
-    "y": -1328.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 39,
     "server_id": 32,
     "type": "house",
@@ -6580,7 +6556,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Hotline_Established",
+    "owner": "Martin_Scorsese",
     "status": "Занято",
     "x": 570.7319,
     "y": 1174.37,
@@ -7112,18 +7088,6 @@
     "status": "Занято",
     "x": -1449.95,
     "y": 2562.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 594,
-    "server_id": 32,
-    "type": "house",
-    "name": "Новогодний Дом",
-    "owner": "Harly_Quinn",
-    "status": "Занято",
-    "x": -1446.67,
-    "y": 2636.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10056,18 +10020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 842,
-    "server_id": 32,
-    "type": "house",
-    "name": "Майнинг Дом",
-    "owner": "Harly_Quinn",
-    "status": "Занято",
-    "x": -2227.76,
-    "y": 1107.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 843,
     "server_id": 32,
     "type": "house",
@@ -11092,7 +11044,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Luis_Woollted",
+    "owner": "Ivan_Shadow",
     "status": "Занято",
     "x": -2017.64,
     "y": 1017.06,
@@ -11384,6 +11336,18 @@
     "status": "Занято",
     "x": -2160.15,
     "y": 983.676,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 954,
+    "server_id": 32,
+    "type": "house",
+    "name": "My house",
+    "owner": "Colly_Hawk",
+    "status": "Занято",
+    "x": -2159.76,
+    "y": 965.578,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15888,18 +15852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1330,
-    "server_id": 32,
-    "type": "house",
-    "name": "hello",
-    "owner": "Harly_Quinn",
-    "status": "Занято",
-    "x": 1565.47,
-    "y": 2793.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1331,
     "server_id": 32,
     "type": "house",
@@ -17528,18 +17480,6 @@
     "status": "Занято",
     "x": 957.505,
     "y": 2215.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1468,
-    "server_id": 32,
-    "type": "house",
-    "name": "Домик Hurly",
-    "owner": "Harly_Quinn",
-    "status": "Занято",
-    "x": 885.7429,
-    "y": 2267.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22488,6 +22428,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 37,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Harly_Quinn",
+    "status": "Аукцион",
+    "x": 2389.73,
+    "y": -1346.03,
+    "price": 14000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 38,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом ГЕТТО",
+    "owner": "Harly_Quinn",
+    "status": "Аукцион",
+    "x": 2387.86,
+    "y": -1328.4,
+    "price": 14000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 594,
+    "server_id": 32,
+    "type": "house",
+    "name": "Новогодний Дом",
+    "owner": "Harly_Quinn",
+    "status": "Аукцион",
+    "x": -1446.67,
+    "y": 2636.7,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 752,
     "server_id": 32,
     "type": "house",
@@ -22500,15 +22476,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 954,
+    "id": 842,
     "server_id": 32,
     "type": "house",
-    "name": "My house",
-    "owner": "Nazar_WekMan",
+    "name": "Майнинг Дом",
+    "owner": "Harly_Quinn",
     "status": "Аукцион",
-    "x": -2159.76,
-    "y": 965.578,
-    "price": 100,
+    "x": -2227.76,
+    "y": 1107.37,
+    "price": 14000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1330,
+    "server_id": 32,
+    "type": "house",
+    "name": "hello",
+    "owner": "Harly_Quinn",
+    "status": "Аукцион",
+    "x": 1565.47,
+    "y": 2793.65,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1468,
+    "server_id": 32,
+    "type": "house",
+    "name": "Домик Hurly",
+    "owner": "Harly_Quinn",
+    "status": "Аукцион",
+    "x": 885.7429,
+    "y": 2267.83,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -22888,7 +22888,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Бар",
-    "owner": "Ecolant_Vyksa",
+    "owner": "Pay_Price",
     "status": "Занято",
     "x": 1876.07,
     "y": 2234.15,
@@ -24568,7 +24568,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Ecolant_Vyksa",
+    "owner": "Pay_Price",
     "status": "Занято",
     "x": 2472.77,
     "y": 2034.24,
