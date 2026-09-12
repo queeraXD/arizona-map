@@ -132,6 +132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 11,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Samirka_Maestro",
+    "status": "Занято",
+    "x": 2093.85,
+    "y": -1122.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 12,
     "server_id": 21,
     "type": "house",
@@ -7020,18 +7032,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 587,
-    "server_id": 21,
-    "type": "house",
-    "name": "Продаю",
-    "owner": "Stepan_Millensium",
-    "status": "Занято",
-    "x": -604.3229,
-    "y": 2716.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 588,
     "server_id": 21,
     "type": "house",
@@ -10864,7 +10864,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Sons",
-    "owner": "Grayson_Sons",
+    "owner": "Michail_Shtyh",
     "status": "Занято",
     "x": -2126.8,
     "y": 1032.62,
@@ -10888,7 +10888,7 @@
     "server_id": 21,
     "type": "house",
     "name": "SURRENDER",
-    "owner": "Grayson_Sons",
+    "owner": "Sos_Krutoy",
     "status": "Занято",
     "x": -2126.87,
     "y": 1069.24,
@@ -11212,7 +11212,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Saluki_House",
-    "owner": "Kirill_Saluki",
+    "owner": "Dark_KyBcem",
     "status": "Занято",
     "x": -2066.59,
     "y": 796.82,
@@ -11224,7 +11224,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Saluki_House",
-    "owner": "Kirill_Saluki",
+    "owner": "Dark_KyBcem",
     "status": "Занято",
     "x": -2048.26,
     "y": 796.4689,
@@ -21876,18 +21876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 11,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Samirka_Maestro",
-    "status": "Аукцион",
-    "x": 2093.85,
-    "y": -1122.68,
-    "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 550,
     "server_id": 21,
     "type": "house",
@@ -21897,6 +21885,18 @@
     "x": 618.3629,
     "y": 1168.83,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 587,
+    "server_id": 21,
+    "type": "house",
+    "name": "Продаю",
+    "owner": "Stepan_Millensium",
+    "status": "Аукцион",
+    "x": -604.3229,
+    "y": 2716.72,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {

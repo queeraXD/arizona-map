@@ -10884,30 +10884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 909,
-    "server_id": 11,
-    "type": "house",
-    "name": "Zambidis Empire",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": -2168.8,
-    "y": 796.5159,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 910,
-    "server_id": 11,
-    "type": "house",
-    "name": "Апартоменты 71",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": -2126.8,
-    "y": 1032.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 911,
     "server_id": 11,
     "type": "house",
@@ -24624,6 +24600,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 909,
+    "server_id": 11,
+    "type": "house",
+    "name": "Zambidis Empire",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": -2168.8,
+    "y": 796.5159,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 910,
+    "server_id": 11,
+    "type": "house",
+    "name": "Апартоменты 71",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": -2126.8,
+    "y": 1032.62,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1627,
     "server_id": 11,
     "type": "house",
@@ -26944,7 +26944,7 @@
     "server_id": 11,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Robert_Fultor",
+    "owner": "Cargo_Monopoly",
     "status": "Занято",
     "x": 1864.59,
     "y": -1393.39,

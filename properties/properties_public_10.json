@@ -5356,7 +5356,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Деревня Мострика",
-    "owner": "Monstrik_Karleone",
+    "owner": "Jack_Chaltsev",
     "status": "Занято",
     "x": 2330.09,
     "y": -1060.14,
@@ -6312,6 +6312,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 530,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Owner_Family",
+    "status": "Занято",
+    "x": 1967.26,
+    "y": 2766.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 531,
     "server_id": 10,
     "type": "house",
@@ -7160,18 +7172,6 @@
     "status": "Занято",
     "x": -1512.91,
     "y": 2646.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 602,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vanua_Desert",
-    "status": "Занято",
-    "x": -1532.87,
-    "y": 2656.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18432,18 +18432,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1546,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vanua_Desert",
-    "status": "Занято",
-    "x": -2238.31,
-    "y": 1117.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1547,
     "server_id": 10,
     "type": "house",
@@ -18908,18 +18896,6 @@
     "status": "Занято",
     "x": -2597.31,
     "y": 2364.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1586,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vanua_Desert",
-    "status": "Занято",
-    "x": 1500.82,
-    "y": 2535.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20640,18 +20616,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1730,
-    "server_id": 10,
-    "type": "house",
-    "name": "Paradise Family",
-    "owner": "Vanua_Desert",
-    "status": "Занято",
-    "x": 1253.72,
-    "y": -908.2059,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1731,
     "server_id": 10,
     "type": "house",
@@ -22116,18 +22080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1854,
-    "server_id": 10,
-    "type": "house",
-    "name": "autohotkey fam",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 1786.46,
-    "y": 2867.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1855,
     "server_id": 10,
     "type": "house",
@@ -23280,15 +23232,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 530,
+    "id": 602,
     "server_id": 10,
     "type": "house",
     "name": "Дом",
-    "owner": "Owner_Family",
+    "owner": "Vanua_Desert",
     "status": "Аукцион",
-    "x": 1967.26,
-    "y": 2766.48,
-    "price": 1000,
+    "x": -1532.87,
+    "y": 2656.68,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -23340,6 +23292,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1546,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vanua_Desert",
+    "status": "Аукцион",
+    "x": -2238.31,
+    "y": 1117.49,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1586,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vanua_Desert",
+    "status": "Аукцион",
+    "x": 1500.82,
+    "y": 2535.38,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1730,
+    "server_id": 10,
+    "type": "house",
+    "name": "Paradise Family",
+    "owner": "Vanua_Desert",
+    "status": "Аукцион",
+    "x": 1253.72,
+    "y": -908.2059,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1743,
     "server_id": 10,
     "type": "house",
@@ -23349,6 +23337,18 @@
     "x": 1542.54,
     "y": 1996.35,
     "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1854,
+    "server_id": 10,
+    "type": "house",
+    "name": "autohotkey fam",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": 1786.46,
+    "y": 2867.56,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
