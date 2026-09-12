@@ -7344,18 +7344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 613,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Diosa_Disband",
-    "status": "Занято",
-    "x": -881.6329,
-    "y": 1562.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 614,
     "server_id": 6,
     "type": "house",
@@ -11504,6 +11492,18 @@
     "status": "Занято",
     "x": -2159.02,
     "y": 786.0739,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 961,
+    "server_id": 6,
+    "type": "house",
+    "name": "Premium ",
+    "owner": "Pavlo_Dizz",
+    "status": "Занято",
+    "x": -2168.72,
+    "y": 796.268,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19824,18 +19824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1656,
-    "server_id": 6,
-    "type": "house",
-    "name": "Disband",
-    "owner": "Diosa_Disband",
-    "status": "Занято",
-    "x": 929.5219,
-    "y": 2343.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1657,
     "server_id": 6,
     "type": "house",
@@ -22848,18 +22836,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1911,
-    "server_id": 6,
-    "type": "house",
-    "name": "Disband",
-    "owner": "Diosa_Disband",
-    "status": "Занято",
-    "x": -249.4759,
-    "y": 885.968,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1912,
     "server_id": 6,
     "type": "house",
@@ -23060,6 +23036,18 @@
     "status": "Занято",
     "x": 2615.13,
     "y": -1229.55,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1929,
+    "server_id": 6,
+    "type": "house",
+    "name": "главный фанат дапо шлепы",
+    "owner": "Adonna_Omeljusik",
+    "status": "Занято",
+    "x": 2615.23,
+    "y": -1216.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24456,6 +24444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 613,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Diosa_Disband",
+    "status": "Аукцион",
+    "x": -881.6329,
+    "y": 1562.08,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 783,
     "server_id": 6,
     "type": "house",
@@ -24465,18 +24465,6 @@
     "x": -2513.51,
     "y": 830.83,
     "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 961,
-    "server_id": 6,
-    "type": "house",
-    "name": "Premium ",
-    "owner": "Toma_Immortalis",
-    "status": "Аукцион",
-    "x": -2168.72,
-    "y": 796.268,
-    "price": 2200,
     "district": "Сан-Андреас"
   },
   {
@@ -24492,6 +24480,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1656,
+    "server_id": 6,
+    "type": "house",
+    "name": "Disband",
+    "owner": "Diosa_Disband",
+    "status": "Аукцион",
+    "x": 929.5219,
+    "y": 2343.43,
+    "price": 2800,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1894,
     "server_id": 6,
     "type": "house",
@@ -24504,15 +24504,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1929,
+    "id": 1911,
     "server_id": 6,
     "type": "house",
-    "name": "главный фанат дапо шлепы",
-    "owner": "Samp_Bet",
+    "name": "Disband",
+    "owner": "Diosa_Disband",
     "status": "Аукцион",
-    "x": 2615.23,
-    "y": -1216.26,
-    "price": 1000,
+    "x": -249.4759,
+    "y": 885.968,
+    "price": 3300,
     "district": "Сан-Андреас"
   },
   {
@@ -25312,7 +25312,7 @@
     "server_id": 6,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Scrooge_Salieri",
+    "owner": "Aleks_Salieri",
     "status": "Занято",
     "x": 1136.02,
     "y": -897.176,

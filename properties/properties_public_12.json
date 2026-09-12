@@ -1336,7 +1336,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Дом Сосискина #5",
-    "owner": "Vladimir_Nocap",
+    "owner": "Ionacencez_Miracle",
     "status": "Занято",
     "x": 2269.22,
     "y": -1882.41,
@@ -1348,7 +1348,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Дом Сосискина #6",
-    "owner": "Vladimir_Nocap",
+    "owner": "Ionacencez_Miracle",
     "status": "Занято",
     "x": 2241.99,
     "y": -1882.29,
@@ -3532,7 +3532,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Дом Питака Димасика",
-    "owner": "Raid_Monopoly",
+    "owner": "Fernando_Kleno",
     "status": "Занято",
     "x": 2347.94,
     "y": -1202.84,
@@ -7652,18 +7652,6 @@
     "status": "Занято",
     "x": -362.6669,
     "y": 1110.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 638,
-    "server_id": 12,
-    "type": "house",
-    "name": "......:::Сaffrey Empire:::.....",
-    "owner": "Leonid_Odessit",
-    "status": "Занято",
-    "x": -328.5119,
-    "y": 1118.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11904,18 +11892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 992,
-    "server_id": 12,
-    "type": "house",
-    "name": "Curs",
-    "owner": "Fernando_Kleno",
-    "status": "Занято",
-    "x": -2048.11,
-    "y": 745.749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 993,
     "server_id": 12,
     "type": "house",
@@ -14268,18 +14244,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1189,
-    "server_id": 12,
-    "type": "house",
-    "name": "+nDep Dom 3",
-    "owner": "Bomshik_Gattuso",
-    "status": "Занято",
-    "x": -2791.89,
-    "y": -160.4689,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1190,
     "server_id": 12,
     "type": "house",
@@ -15536,18 +15500,6 @@
     "status": "Занято",
     "x": -2619.75,
     "y": -127.5879,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1295,
-    "server_id": 12,
-    "type": "house",
-    "name": "домик",
-    "owner": "Leonid_Odessit",
-    "status": "Занято",
-    "x": -2620.77,
-    "y": -120.2129,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22968,18 +22920,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1914,
-    "server_id": 12,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Fernando_Kleno",
-    "status": "Занято",
-    "x": 2627.08,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1915,
     "server_id": 12,
     "type": "house",
@@ -23820,15 +23760,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2,
+    "id": 638,
     "server_id": 12,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Keisuke_Moore",
+    "type": "house",
+    "name": "DimaKostya",
+    "owner": "Leonid_Odessit",
     "status": "Аукцион",
-    "x": 242.897,
-    "y": -178.385,
-    "price": 500000,
+    "x": -328.5119,
+    "y": 1118.86,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 992,
+    "server_id": 12,
+    "type": "house",
+    "name": "Curs",
+    "owner": "Fernando_Kleno",
+    "status": "Аукцион",
+    "x": -2048.11,
+    "y": 745.749,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1189,
+    "server_id": 12,
+    "type": "house",
+    "name": "+nDep Dom 3",
+    "owner": "Bomshik_Gattuso",
+    "status": "Аукцион",
+    "x": -2791.89,
+    "y": -160.4689,
+    "price": 2600,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1295,
+    "server_id": 12,
+    "type": "house",
+    "name": "домик",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2620.77,
+    "y": -120.2129,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1914,
+    "server_id": 12,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Fernando_Kleno",
+    "status": "Аукцион",
+    "x": 2627.08,
+    "y": 2195.56,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
@@ -23852,6 +23840,18 @@
     "status": "Занято",
     "x": 2333.5,
     "y": 61.624,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2,
+    "server_id": 12,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Keisuke_Moore",
+    "status": "Занято",
+    "x": 242.897,
+    "y": -178.385,
     "price": 0,
     "district": "Сан-Андреас"
   },

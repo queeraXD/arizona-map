@@ -400,7 +400,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Degerev House",
-    "owner": "Evpantiy_Borz",
+    "owner": "[09]Salvatore_Hennessy",
     "status": "Занято",
     "x": 2434.8,
     "y": -1289.38,
@@ -6060,6 +6060,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 505,
+    "server_id": 27,
+    "type": "house",
+    "name": "Александр фамин",
+    "owner": "Fama_Avtoritet",
+    "status": "Занято",
+    "x": 1364.25,
+    "y": 1969.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 506,
     "server_id": 27,
     "type": "house",
@@ -8031,8 +8043,8 @@
     "id": 670,
     "server_id": 27,
     "type": "house",
-    "name": "GGG",
-    "owner": "Sanchez_Sneck",
+    "name": "Хата Пинчера",
+    "owner": "Pincher_DeLorean",
     "status": "Занято",
     "x": 1084.33,
     "y": 2031.72,
@@ -8332,7 +8344,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Прокачал депозит за 60кк",
-    "owner": "Latimer_Hill",
+    "owner": "[09]Salvatore_Hennessy",
     "status": "Занято",
     "x": 1349.63,
     "y": 2567.69,
@@ -10892,18 +10904,6 @@
     "status": "Занято",
     "x": -2168.8,
     "y": 796.5159,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 910,
-    "server_id": 27,
-    "type": "house",
-    "name": "Санч хаус",
-    "owner": "Egor_Nikolsov",
-    "status": "Занято",
-    "x": -2126.8,
-    "y": 1032.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20880,18 +20880,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1743,
-    "server_id": 27,
-    "type": "house",
-    "name": "Майнинг ферма 7 lvl",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": 2608.15,
-    "y": -1211.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1744,
     "server_id": 27,
     "type": "house",
@@ -24075,7 +24063,7 @@
     "id": 2010,
     "server_id": 27,
     "type": "house",
-    "name": "SHARK 15",
+    "name": "3/15",
     "owner": "Alex_Smith",
     "status": "Занято",
     "x": -77.3582,
@@ -24099,7 +24087,7 @@
     "id": 2012,
     "server_id": 27,
     "type": "house",
-    "name": "Дом",
+    "name": "1/15",
     "owner": "Alex_Smith",
     "status": "Занято",
     "x": -91.2031,
@@ -24123,7 +24111,7 @@
     "id": 2014,
     "server_id": 27,
     "type": "house",
-    "name": "SHARK 14",
+    "name": "Дом",
     "owner": "Alex_Smith",
     "status": "Занято",
     "x": -77.3988,
@@ -24420,15 +24408,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 505,
+    "id": 910,
     "server_id": 27,
     "type": "house",
-    "name": "Александр фамин",
-    "owner": "Fama_Avtoritet",
-    "status": "Аукцион",
-    "x": 1364.25,
-    "y": 1969.15,
-    "price": 6111,
+    "name": "Санч хаус",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2126.8,
+    "y": 1032.62,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -24456,6 +24444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1743,
+    "server_id": 27,
+    "type": "house",
+    "name": "Майнинг ферма 7 lvl",
+    "owner": "Jerry_Burberry",
+    "status": "Аукцион",
+    "x": 2608.15,
+    "y": -1211.61,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1963,
     "server_id": 27,
     "type": "house",
@@ -24465,18 +24465,6 @@
     "x": 2591.62,
     "y": 2180.55,
     "price": 4000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 100,
-    "server_id": 27,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Toyota_Prius",
-    "status": "Аукцион",
-    "x": -2050.0,
-    "y": -60.63,
-    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
@@ -26852,6 +26840,18 @@
     "status": "Занято",
     "x": -2089.11,
     "y": 84.268,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 100,
+    "server_id": 27,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Toyota_Prius",
+    "status": "Занято",
+    "x": -2050.0,
+    "y": -60.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
