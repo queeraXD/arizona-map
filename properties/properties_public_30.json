@@ -5280,18 +5280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 440,
-    "server_id": 30,
-    "type": "house",
-    "name": "ТАТАРСКАЯ ТРЕП ХАТА",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 2513.33,
-    "y": -28.4032,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 441,
     "server_id": 30,
     "type": "house",
@@ -18112,7 +18100,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Дом",
-    "owner": "Ernesto_Chezar",
+    "owner": "Ernesto_Chezari",
     "status": "Занято",
     "x": -2358.48,
     "y": 244.4989,
@@ -21816,18 +21804,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1830,
-    "server_id": 30,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 2574.99,
-    "y": 2203.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1831,
     "server_id": 30,
     "type": "house",
@@ -21883,18 +21859,6 @@
     "owner": "Herbert_Strapone",
     "status": "Занято",
     "x": 2643.77,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1836,
-    "server_id": 30,
-    "type": "house",
-    "name": "деп условия и тд",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 2643.67,
     "y": 2019.21,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22728,6 +22692,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 440,
+    "server_id": 30,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Naldon_Legenda",
+    "status": "Аукцион",
+    "x": 2513.33,
+    "y": -28.4032,
+    "price": 50000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1559,
     "server_id": 30,
     "type": "house",
@@ -22749,6 +22725,30 @@
     "x": 2610.33,
     "y": 2142.27,
     "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1830,
+    "server_id": 30,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Naldon_Legenda",
+    "status": "Аукцион",
+    "x": 2574.99,
+    "y": 2203.06,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1836,
+    "server_id": 30,
+    "type": "house",
+    "name": "деп условия и тд",
+    "owner": "Naldon_Legenda",
+    "status": "Аукцион",
+    "x": 2643.67,
+    "y": 2019.21,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
