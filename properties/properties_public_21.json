@@ -6600,18 +6600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 550,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "After_Hours",
-    "status": "Занято",
-    "x": 618.3629,
-    "y": 1168.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 551,
     "server_id": 21,
     "type": "house",
@@ -21828,6 +21816,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 550,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "After_Hours",
+    "status": "Аукцион",
+    "x": 618.3629,
+    "y": 1168.83,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 625,
     "server_id": 21,
     "type": "house",
@@ -23104,7 +23104,7 @@
     "server_id": 21,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Rik_Shelby",
+    "owner": "Farmer_Shelby",
     "status": "Занято",
     "x": 1929.45,
     "y": -1776.22,
@@ -24064,7 +24064,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Farmer_Shelby",
+    "owner": "Moon_Tee",
     "status": "Занято",
     "x": 1393.84,
     "y": 400.944,

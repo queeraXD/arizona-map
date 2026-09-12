@@ -508,7 +508,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Депозита условия",
-    "owner": "Oleg_Walker",
+    "owner": "Banka_Coffe",
     "status": "Занято",
     "x": 2550.93,
     "y": -1235.19,
@@ -1016,6 +1016,18 @@
     "status": "Занято",
     "x": 2068.13,
     "y": -1656.52,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 85,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Glebaryshnya",
+    "status": "Занято",
+    "x": 2065.77,
+    "y": -1703.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8764,7 +8776,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Ravion_Markelovani",
+    "owner": "Artem_Seergeevich",
     "status": "Занято",
     "x": -2622.35,
     "y": -198.1479,
@@ -12660,6 +12672,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1060,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Burmalda_White",
+    "status": "Занято",
+    "x": -2152.06,
+    "y": 1248.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1061,
     "server_id": 16,
     "type": "house",
@@ -15344,6 +15368,18 @@
     "status": "Занято",
     "x": -2868.73,
     "y": 821.025,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1285,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Eugene_Weeknd",
+    "status": "Занято",
+    "x": -2863.72,
+    "y": 829.721,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18316,7 +18352,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Mike_Salvator",
+    "owner": "Monte_Marlboro",
     "status": "Занято",
     "x": 1564.65,
     "y": 2565.43,
@@ -22392,18 +22428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 85,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 2065.77,
-    "y": -1703.57,
-    "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 422,
     "server_id": 16,
     "type": "house",
@@ -22437,30 +22461,6 @@
     "x": -2278.21,
     "y": 768.1019,
     "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1060,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Burmalda_White",
-    "status": "Аукцион",
-    "x": -2152.06,
-    "y": 1248.54,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1285,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Eugene_Weeknd",
-    "status": "Аукцион",
-    "x": -2863.72,
-    "y": 829.721,
-    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -24412,7 +24412,7 @@
     "server_id": 16,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Sanchez_Exodus",
+    "owner": "Andrey_Gonzales",
     "status": "Занято",
     "x": 2331.81,
     "y": 75.087,

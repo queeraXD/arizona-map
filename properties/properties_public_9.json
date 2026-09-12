@@ -2640,18 +2640,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 220,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Baron_Scandino",
-    "status": "Занято",
-    "x": 808.908,
-    "y": -759.291,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 221,
     "server_id": 9,
     "type": "house",
@@ -4896,6 +4884,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 408,
+    "server_id": 9,
+    "type": "house",
+    "name": "Подвал/майнинг/Деп условия",
+    "owner": "Alfa_Fokin",
+    "status": "Занято",
+    "x": 1428.29,
+    "y": 355.7619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 409,
     "server_id": 9,
     "type": "house",
@@ -4928,6 +4928,18 @@
     "status": "Занято",
     "x": 1415.14,
     "y": 324.105,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 412,
+    "server_id": 9,
+    "type": "house",
+    "name": "Депорзитный есловия",
+    "owner": "Alfa_Fokin",
+    "status": "Занято",
+    "x": 1435.43,
+    "y": 334.625,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23880,27 +23892,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 408,
+    "id": 220,
     "server_id": 9,
     "type": "house",
-    "name": "Подвал/майнинг/Деп условия",
-    "owner": "Alfa_Fokin",
+    "name": "Дом",
+    "owner": "Baron_Scandino",
     "status": "Аукцион",
-    "x": 1428.29,
-    "y": 355.7619,
-    "price": 35000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 412,
-    "server_id": 9,
-    "type": "house",
-    "name": "Депорзитный есловия",
-    "owner": "Alfa_Fokin",
-    "status": "Аукцион",
-    "x": 1435.43,
-    "y": 334.625,
-    "price": 25000,
+    "x": 808.908,
+    "y": -759.291,
+    "price": 125000,
     "district": "Сан-Андреас"
   },
   {
