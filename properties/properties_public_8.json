@@ -10144,7 +10144,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Депозит +6кк (Full House)",
-    "owner": "Cupsize_Ebet",
+    "owner": "Brabus_Semisot",
     "status": "Занято",
     "x": -2358.57,
     "y": 657.4949,
@@ -11496,18 +11496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 960,
-    "server_id": 8,
-    "type": "house",
-    "name": "Aquiver Home",
-    "owner": "Cupsize_Ebet",
-    "status": "Занято",
-    "x": -2158.94,
-    "y": 769.9379,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 961,
     "server_id": 8,
     "type": "house",
@@ -12020,6 +12008,18 @@
     "status": "Занято",
     "x": -2048.17,
     "y": 745.5999,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1004,
+    "server_id": 8,
+    "type": "house",
+    "name": "Neverlose",
+    "owner": "Ekaterina_Btoraya",
+    "status": "Занято",
+    "x": -2018.48,
+    "y": 832.012,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15524,18 +15524,6 @@
     "status": "Занято",
     "x": -2372.53,
     "y": 614.0859,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1297,
-    "server_id": 8,
-    "type": "house",
-    "name": "Aquiver home",
-    "owner": "Cupsize_Ebet",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 595.8489,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22284,6 +22272,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1860,
+    "server_id": 8,
+    "type": "house",
+    "name": "Notem Slovil",
+    "owner": "Alessandro_Notem",
+    "status": "Занято",
+    "x": 2468.21,
+    "y": -1391.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1861,
     "server_id": 8,
     "type": "house",
@@ -23960,18 +23960,6 @@
     "status": "Занято",
     "x": 2517.04,
     "y": 1679.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2001,
-    "server_id": 8,
-    "type": "house",
-    "name": "Империя Stracci #6",
-    "owner": "Cupsize_Ebet",
-    "status": "Занято",
-    "x": 2517.04,
-    "y": 1674.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25752,18 +25740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1004,
-    "server_id": 8,
-    "type": "house",
-    "name": "Neverlose",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2018.48,
-    "y": 832.012,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 362,
     "server_id": 8,
     "type": "house",
@@ -25776,15 +25752,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1860,
+    "id": 960,
     "server_id": 8,
     "type": "house",
-    "name": "Notem Slovil",
-    "owner": "Alessandro_Notem",
+    "name": "Aquiver Home",
+    "owner": "Cupsize_Ebet",
     "status": "Аукцион",
-    "x": 2468.21,
-    "y": -1391.71,
-    "price": 1000,
+    "x": -2158.94,
+    "y": 769.9379,
+    "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1297,
+    "server_id": 8,
+    "type": "house",
+    "name": "Aquiver home",
+    "owner": "Cupsize_Ebet",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 595.8489,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2001,
+    "server_id": 8,
+    "type": "house",
+    "name": "Империя Stracci #6",
+    "owner": "Cupsize_Ebet",
+    "status": "Аукцион",
+    "x": 2517.04,
+    "y": 1674.2,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {

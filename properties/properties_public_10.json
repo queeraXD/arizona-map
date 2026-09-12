@@ -7032,18 +7032,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 586,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -582.4019,
-    "y": 2712.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 587,
     "server_id": 10,
     "type": "house",
@@ -7052,18 +7040,6 @@
     "status": "Занято",
     "x": -604.3229,
     "y": 2716.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 588,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -624.9819,
-    "y": 2709.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7736,18 +7712,6 @@
     "status": "Занято",
     "x": 1956.63,
     "y": 714.864,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 645,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": 1978.33,
-    "y": 715.1459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11160,18 +11124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 931,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -2017.56,
-    "y": 982.8229,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 932,
     "server_id": 10,
     "type": "house",
@@ -12200,18 +12152,6 @@
     "status": "Занято",
     "x": -2563.4,
     "y": 1148.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1018,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -2541.3,
-    "y": 987.9089,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14592,18 +14532,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1217,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -2477.93,
-    "y": 1264.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1218,
     "server_id": 10,
     "type": "house",
@@ -15036,18 +14964,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1254,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 643.856,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1255,
     "server_id": 10,
     "type": "house",
@@ -15068,18 +14984,6 @@
     "status": "Занято",
     "x": -2372.53,
     "y": 614.093,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1257,
-    "server_id": 10,
-    "type": "house",
-    "name": "Уголок Uta",
-    "owner": "Uta_Takahiro",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 595.8339,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19212,18 +19116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1602,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -2786.76,
-    "y": -118.1129,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1603,
     "server_id": 10,
     "type": "house",
@@ -23337,6 +23229,114 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1257,
+    "server_id": 10,
+    "type": "house",
+    "name": "Уголок Uta",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2372.53,
+    "y": 595.8339,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 586,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -582.4019,
+    "y": 2712.93,
+    "price": 600,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 588,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -624.9819,
+    "y": 2709.93,
+    "price": 600,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 645,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": 1978.33,
+    "y": 715.1459,
+    "price": 600,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 931,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -2017.56,
+    "y": 982.8229,
+    "price": 600,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1018,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -2541.3,
+    "y": 987.9089,
+    "price": 600,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1217,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -2477.93,
+    "y": 1264.17,
+    "price": 600,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1254,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 643.856,
+    "price": 600,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1602,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -2786.76,
+    "y": -118.1129,
+    "price": 600,
     "district": "Сан-Андреас"
   },
   {
