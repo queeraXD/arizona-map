@@ -2736,18 +2736,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 228,
-    "server_id": 20,
-    "type": "house",
-    "name": "бобрина норка 1",
-    "owner": "Moto_Vladik",
-    "status": "Занято",
-    "x": 672.7119,
-    "y": -1019.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 229,
     "server_id": 20,
     "type": "house",
@@ -3356,6 +3344,18 @@
     "status": "Занято",
     "x": 2194.19,
     "y": -999.3109,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 280,
+    "server_id": 20,
+    "type": "house",
+    "name": "бобриная норка",
+    "owner": "Vladimir_Riodayungog",
+    "status": "Занято",
+    "x": 2413.57,
+    "y": 61.4468,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5784,18 +5784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 485,
-    "server_id": 20,
-    "type": "house",
-    "name": "Snickers",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": 2122.4,
-    "y": 731.726,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 486,
     "server_id": 20,
     "type": "house",
@@ -7676,6 +7664,18 @@
     "status": "Занято",
     "x": 1846.05,
     "y": 661.2009,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 643,
+    "server_id": 20,
+    "type": "house",
+    "name": "Скуфск",
+    "owner": "Angel_Horny",
+    "status": "Занято",
+    "x": 1897.15,
+    "y": 736.687,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12596,18 +12596,6 @@
     "status": "Занято",
     "x": -1930.04,
     "y": 1190.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1054,
-    "server_id": 20,
-    "type": "house",
-    "name": "Поместье Darrell",
-    "owner": "Artem_Darrell",
-    "status": "Занято",
-    "x": -1901.98,
-    "y": 1239.8,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22308,15 +22296,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 280,
+    "id": 1054,
     "server_id": 20,
     "type": "house",
-    "name": "бобриная норка",
-    "owner": "Vladimir_Riodayungog",
+    "name": "Поместье Darrell",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -1901.98,
+    "y": 1239.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 228,
+    "server_id": 20,
+    "type": "house",
+    "name": "бобрина норка 1",
+    "owner": "Moto_Vladik",
     "status": "Аукцион",
-    "x": 2413.57,
-    "y": 61.4468,
-    "price": 25000,
+    "x": 672.7119,
+    "y": -1019.91,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
@@ -22344,15 +22344,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 643,
+    "id": 485,
     "server_id": 20,
     "type": "house",
-    "name": "Скуфск",
-    "owner": "Angel_Horny",
+    "name": "Snickers",
+    "owner": "Jerry_Burberry",
     "status": "Аукцион",
-    "x": 1897.15,
-    "y": 736.687,
-    "price": 7500,
+    "x": 2122.4,
+    "y": 731.726,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {

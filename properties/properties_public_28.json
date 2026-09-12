@@ -5400,18 +5400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 450,
-    "server_id": 28,
-    "type": "house",
-    "name": "RIFA",
-    "owner": "Wistful_Gloaming",
-    "status": "Занято",
-    "x": 1845.81,
-    "y": 741.2369,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 451,
     "server_id": 28,
     "type": "house",
@@ -7104,6 +7092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 592,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Professor_Babos",
+    "status": "Занято",
+    "x": -1478.59,
+    "y": 2547.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 593,
     "server_id": 28,
     "type": "house",
@@ -8240,18 +8240,6 @@
     "status": "Занято",
     "x": 1265.52,
     "y": 2609.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 688,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Wistful_Gloaming",
-    "status": "Занято",
-    "x": 1285.0,
-    "y": 2610.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11492,18 +11480,6 @@
     "status": "Занято",
     "x": -2158.94,
     "y": 769.9379,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 961,
-    "server_id": 28,
-    "type": "house",
-    "name": "California Empire ",
-    "owner": "Otso_Savchenko",
-    "status": "Занято",
-    "x": -2158.17,
-    "y": 753.703,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20268,6 +20244,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1692,
+    "server_id": 28,
+    "type": "house",
+    "name": "гнездо Адольфа 3",
+    "owner": "Professor_Babos",
+    "status": "Занято",
+    "x": -827.45,
+    "y": 2765.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1693,
     "server_id": 28,
     "type": "house",
@@ -21200,6 +21188,18 @@
     "status": "Занято",
     "x": 1898.99,
     "y": -2037.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1772,
+    "server_id": 28,
+    "type": "house",
+    "name": "Красти краб",
+    "owner": "Chase_Young",
+    "status": "Занято",
+    "x": 1868.35,
+    "y": -2037.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22308,15 +22308,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 592,
+    "id": 961,
+    "server_id": 28,
+    "type": "house",
+    "name": "California Empire ",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2158.17,
+    "y": 753.703,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 450,
+    "server_id": 28,
+    "type": "house",
+    "name": "RIFA",
+    "owner": "Wistful_Gloaming",
+    "status": "Аукцион",
+    "x": 1845.81,
+    "y": 741.2369,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 688,
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Professor_Babos",
+    "owner": "Wistful_Gloaming",
     "status": "Аукцион",
-    "x": -1478.59,
-    "y": 2547.3,
-    "price": 800,
+    "x": 1285.0,
+    "y": 2610.59,
+    "price": 1700,
     "district": "Сан-Андреас"
   },
   {
@@ -22332,18 +22356,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1692,
-    "server_id": 28,
-    "type": "house",
-    "name": "гнездо Адольфа 3",
-    "owner": "Professor_Babos",
-    "status": "Аукцион",
-    "x": -827.45,
-    "y": 2765.25,
-    "price": 800,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1699,
     "server_id": 28,
     "type": "house",
@@ -22353,18 +22365,6 @@
     "x": -923.741,
     "y": -496.97,
     "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1772,
-    "server_id": 28,
-    "type": "house",
-    "name": "Красти краб",
-    "owner": "Chase_Young",
-    "status": "Аукцион",
-    "x": 1868.35,
-    "y": -2037.99,
-    "price": 1250,
     "district": "Сан-Андреас"
   },
   {

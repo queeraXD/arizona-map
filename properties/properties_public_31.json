@@ -11712,18 +11712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 978,
-    "server_id": 31,
-    "type": "house",
-    "name": "Lopez Dynasty",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": 515.148,
-    "y": 1313.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 979,
     "server_id": 31,
     "type": "house",
@@ -11900,6 +11888,18 @@
     "status": "Занято",
     "x": -2551.78,
     "y": 2267.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 994,
+    "server_id": 31,
+    "type": "house",
+    "name": "Зирёгин хлев",
+    "owner": "Yanis_Lulisse",
+    "status": "Занято",
+    "x": -2321.64,
+    "y": 797.465,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12812,18 +12812,6 @@
     "status": "Занято",
     "x": -2905.16,
     "y": 1165.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1071,
-    "server_id": 31,
-    "type": "house",
-    "name": "Аристо-Фиерро",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": -2905.1,
-    "y": 1154.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23328,18 +23316,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 994,
-    "server_id": 31,
-    "type": "house",
-    "name": "Зирёгин хлев",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2321.64,
-    "y": 797.465,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 152,
     "server_id": 31,
     "type": "house",
@@ -23349,6 +23325,30 @@
     "x": 1103.22,
     "y": -1069.38,
     "price": 85000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 978,
+    "server_id": 31,
+    "type": "house",
+    "name": "Lopez Dynasty",
+    "owner": "Jerry_Burberry",
+    "status": "Аукцион",
+    "x": 515.148,
+    "y": 1313.96,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1071,
+    "server_id": 31,
+    "type": "house",
+    "name": "Аристо-Фиерро",
+    "owner": "Jerry_Burberry",
+    "status": "Аукцион",
+    "x": -2905.1,
+    "y": 1154.62,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
