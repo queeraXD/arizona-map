@@ -3088,7 +3088,7 @@
     "server_id": 15,
     "type": "house",
     "name": "PRITON",
-    "owner": "Patrik_Priton",
+    "owner": "Patrick_Arena",
     "status": "Занято",
     "x": 2122.32,
     "y": -970.3649,
@@ -3244,7 +3244,7 @@
     "server_id": 15,
     "type": "house",
     "name": "House",
-    "owner": "Patrik_Priton",
+    "owner": "Patrick_Arena",
     "status": "Занято",
     "x": 2628.1,
     "y": -1067.95,
@@ -11496,18 +11496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 959,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Boba_McCloud",
-    "status": "Занято",
-    "x": -2158.75,
-    "y": 786.197,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 960,
     "server_id": 15,
     "type": "house",
@@ -17364,18 +17352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1449,
-    "server_id": 15,
-    "type": "house",
-    "name": "$ ROCKSTAR $",
-    "owner": "Boba_McCloud",
-    "status": "Занято",
-    "x": 580.585,
-    "y": -1149.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1450,
     "server_id": 15,
     "type": "house",
@@ -21312,6 +21288,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 959,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Boba_McCloud",
+    "status": "Аукцион",
+    "x": -2158.75,
+    "y": 786.197,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1391,
     "server_id": 15,
     "type": "house",
@@ -21324,15 +21312,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 75,
+    "id": 1449,
     "server_id": 15,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "West_McCloud",
+    "type": "house",
+    "name": "House",
+    "owner": "Boba_McCloud",
     "status": "Аукцион",
-    "x": 2556.26,
-    "y": 1872.19,
-    "price": 85000,
+    "x": 580.585,
+    "y": -1149.73,
+    "price": 12000,
     "district": "Сан-Андреас"
   },
   {
@@ -21992,6 +21980,18 @@
     "status": "Занято",
     "x": 2104.24,
     "y": 2678.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 75,
+    "server_id": 15,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "West_McCloud",
+    "status": "Занято",
+    "x": 2556.26,
+    "y": 1872.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

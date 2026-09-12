@@ -6600,6 +6600,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 550,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "After_Hours",
+    "status": "Занято",
+    "x": 618.3629,
+    "y": 1168.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 551,
     "server_id": 21,
     "type": "house",
@@ -9984,6 +9996,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 836,
+    "server_id": 21,
+    "type": "house",
+    "name": "халабуда",
+    "owner": "After_Hours",
+    "status": "Занято",
+    "x": -2284.87,
+    "y": 849.708,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 837,
     "server_id": 21,
     "type": "house",
@@ -10832,18 +10856,6 @@
     "status": "Занято",
     "x": -2168.8,
     "y": 796.5159,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 910,
-    "server_id": 21,
-    "type": "house",
-    "name": "Sons",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -2126.8,
-    "y": 1032.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14196,18 +14208,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1193,
-    "server_id": 21,
-    "type": "house",
-    "name": "Моя хата",
-    "owner": "After_Hours",
-    "status": "Занято",
-    "x": -2793.14,
-    "y": 11.0249,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1194,
     "server_id": 21,
     "type": "house",
@@ -16108,7 +16108,7 @@
     "server_id": 21,
     "type": "house",
     "name": "козырная квартирка ",
-    "owner": "James_SouLer",
+    "owner": "Grigory_Fuzzy",
     "status": "Занято",
     "x": 1115.72,
     "y": -1562.69,
@@ -21816,18 +21816,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 550,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Verixxs_Creek",
-    "status": "Аукцион",
-    "x": 618.3629,
-    "y": 1168.83,
-    "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 587,
     "server_id": 21,
     "type": "house",
@@ -21864,18 +21852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 836,
-    "server_id": 21,
-    "type": "house",
-    "name": "халабуда",
-    "owner": "Nox_Nostra",
-    "status": "Аукцион",
-    "x": -2284.87,
-    "y": 849.708,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 851,
     "server_id": 21,
     "type": "house",
@@ -21884,7 +21860,19 @@
     "status": "Аукцион",
     "x": -2189.26,
     "y": 1164.27,
-    "price": 2115,
+    "price": 1314,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 910,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": -2126.8,
+    "y": 1032.62,
+    "price": 1200,
     "district": "Сан-Андреас"
   },
   {
@@ -21921,6 +21909,18 @@
     "x": -2048.26,
     "y": 796.4689,
     "price": 2111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1193,
+    "server_id": 21,
+    "type": "house",
+    "name": "Моя хата",
+    "owner": "After_Hours",
+    "status": "Аукцион",
+    "x": -2793.14,
+    "y": 11.0249,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
