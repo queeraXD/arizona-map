@@ -3204,18 +3204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 268,
-    "server_id": 10,
-    "type": "house",
-    "name": "Rozzetka domination",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 1188.36,
-    "y": -1011.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 269,
     "server_id": 10,
     "type": "house",
@@ -5768,18 +5756,6 @@
     "status": "Занято",
     "x": 2206.36,
     "y": 691.505,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 483,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Yapy_May",
-    "status": "Занято",
-    "x": 2177.57,
-    "y": 735.885,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22140,6 +22116,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1854,
+    "server_id": 10,
+    "type": "house",
+    "name": "autohotkey fam",
+    "owner": "Sos_Krutoy",
+    "status": "Занято",
+    "x": 1786.46,
+    "y": 2867.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1855,
     "server_id": 10,
     "type": "house",
@@ -23256,6 +23244,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 268,
+    "server_id": 10,
+    "type": "house",
+    "name": "Rozzetka domination",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": 1188.36,
+    "y": -1011.85,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 341,
     "server_id": 10,
     "type": "house",
@@ -23265,6 +23265,18 @@
     "x": 723.6119,
     "y": 269.678,
     "price": 400,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 483,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yapy_May",
+    "status": "Аукцион",
+    "x": 2177.57,
+    "y": 735.885,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -23337,18 +23349,6 @@
     "x": 1542.54,
     "y": 1996.35,
     "price": 2500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1854,
-    "server_id": 10,
-    "type": "house",
-    "name": "autohotkey fam",
-    "owner": "Sos_Krutoy",
-    "status": "Аукцион",
-    "x": 1786.46,
-    "y": 2867.56,
-    "price": 555,
     "district": "Сан-Андреас"
   },
   {
@@ -24220,7 +24220,7 @@
     "server_id": 10,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Shurem_Lev",
+    "owner": "Lovec_Pisunov",
     "status": "Занято",
     "x": 2820.58,
     "y": -1602.87,

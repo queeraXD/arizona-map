@@ -5136,6 +5136,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 429,
+    "server_id": 32,
+    "type": "house",
+    "name": "КОСМО ГАРАЖ",
+    "owner": "Nikita_Mogilevich",
+    "status": "Занято",
+    "x": 252.173,
+    "y": -121.3349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 430,
     "server_id": 32,
     "type": "house",
@@ -8960,18 +8972,6 @@
     "status": "Занято",
     "x": -2655.45,
     "y": 985.7849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 752,
-    "server_id": 32,
-    "type": "house",
-    "name": "Immortal",
-    "owner": "Thierry_Okathii",
-    "status": "Занято",
-    "x": -2641.07,
-    "y": 935.7189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22488,15 +22488,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 429,
+    "id": 752,
     "server_id": 32,
     "type": "house",
-    "name": "КОСМО ГАРАЖ",
-    "owner": "Nikita_Mogilevich",
+    "name": "Immortal",
+    "owner": "Thierry_Okathii",
     "status": "Аукцион",
-    "x": 252.173,
-    "y": -121.3349,
-    "price": 111111,
+    "x": -2641.07,
+    "y": 935.7189,
+    "price": 85000,
     "district": "Сан-Андреас"
   },
   {
@@ -22509,18 +22509,6 @@
     "x": -2159.76,
     "y": 965.578,
     "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 17,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Hiroshi_Tanaka",
-    "status": "Аукцион",
-    "x": -2165.77,
-    "y": -2416.71,
-    "price": 325000,
     "district": "Сан-Андреас"
   },
   {
@@ -22564,7 +22552,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Ecolant_Vyksa",
+    "owner": "Vovka_Sever",
     "status": "Занято",
     "x": 2539.54,
     "y": 2083.93,
@@ -23024,6 +23012,18 @@
     "status": "Занято",
     "x": -87.234,
     "y": -1202.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 17,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Hiroshi_Tanaka",
+    "status": "Занято",
+    "x": -2165.77,
+    "y": -2416.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23824,7 +23824,7 @@
     "server_id": 32,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Vovka_Sever",
+    "owner": "Ecolant_Vyksa",
     "status": "Занято",
     "x": 1374.87,
     "y": 469.264,
