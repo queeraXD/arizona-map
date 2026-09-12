@@ -6480,18 +6480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 540,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Var_Esa",
-    "status": "Занято",
-    "x": 2017.82,
-    "y": 2663.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 541,
     "server_id": 13,
     "type": "house",
@@ -22372,7 +22360,7 @@
     "server_id": 13,
     "type": "house",
     "name": "живет илюха",
-    "owner": "Iluxa_Persone",
+    "owner": "Var_Esa",
     "status": "Занято",
     "x": 2657.13,
     "y": 2256.42,
@@ -23289,6 +23277,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 540,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Var_Esa",
+    "status": "Аукцион",
+    "x": 2017.82,
+    "y": 2663.33,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
