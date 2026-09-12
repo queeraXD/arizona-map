@@ -3136,7 +3136,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Home, sweet home",
-    "owner": "Elliot_Richardson",
+    "owner": "Georgi_Immortalis",
     "status": "Занято",
     "x": 2374.1,
     "y": 21.8838,
@@ -5392,7 +5392,7 @@
     "server_id": 6,
     "type": "house",
     "name": "ДЕП УСОВИЯ",
-    "owner": "Anthony_Brave",
+    "owner": "Peton_Immortalis",
     "status": "Занято",
     "x": 2330.09,
     "y": -1060.14,
@@ -6628,7 +6628,7 @@
     "server_id": 6,
     "type": "house",
     "name": "BADBOYS FAMILY",
-    "owner": "Roxy_Reynolds",
+    "owner": "Leron_Malon",
     "status": "Занято",
     "x": 465.75,
     "y": 1147.6,
@@ -11576,18 +11576,6 @@
     "status": "Занято",
     "x": -2029.77,
     "y": 745.398,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 968,
-    "server_id": 6,
-    "type": "house",
-    "name": "23-26г/Деп.Условия",
-    "owner": "Benzo_Hokage",
-    "status": "Занято",
-    "x": -2048.1,
-    "y": 745.9359,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24468,6 +24456,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 968,
+    "server_id": 6,
+    "type": "house",
+    "name": "23-26г/Деп.Условия",
+    "owner": "Benzo_Hokage",
+    "status": "Аукцион",
+    "x": -2048.1,
+    "y": 745.9359,
+    "price": 3700,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1173,
     "server_id": 6,
     "type": "house",
@@ -24525,6 +24525,30 @@
     "x": 2601.45,
     "y": 2203.97,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 12,
+    "server_id": 6,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Sadie_Sink",
+    "status": "Аукцион",
+    "x": 695.01,
+    "y": -500.134,
+    "price": 600000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 307,
+    "server_id": 6,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Hemwick_Charnellane",
+    "status": "Аукцион",
+    "x": -1996.361,
+    "y": -50.6903,
+    "price": 600000,
     "district": "Сан-Андреас"
   },
   {
@@ -25412,18 +25436,6 @@
     "status": "Занято",
     "x": 1163.56,
     "y": -1690.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 12,
-    "server_id": 6,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Sadie_Sink",
-    "status": "Занято",
-    "x": 695.01,
-    "y": -500.134,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28256,18 +28268,6 @@
     "status": "Занято",
     "x": 2042.819,
     "y": 2633.449,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 307,
-    "server_id": 6,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Hemwick_Charnellane",
-    "status": "Занято",
-    "x": -1996.361,
-    "y": -50.6903,
     "price": 0,
     "district": "Сан-Андреас"
   },

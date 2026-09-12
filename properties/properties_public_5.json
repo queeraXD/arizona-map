@@ -6540,18 +6540,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 545,
-    "server_id": 5,
-    "type": "house",
-    "name": "Тут жил Лабуда Депути",
-    "owner": "Labubu_Deputy",
-    "status": "Занято",
-    "x": -36.0457,
-    "y": 1115.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 546,
     "server_id": 5,
     "type": "house",
@@ -24963,8 +24951,8 @@
     "id": 2087,
     "server_id": 5,
     "type": "house",
-    "name": "Ja Famaly",
-    "owner": "Tony_Ja",
+    "name": "Armenian Street Monopoly",
+    "owner": "Luca_Falcone",
     "status": "Занято",
     "x": -2.0703,
     "y": 1012.19,
@@ -25029,6 +25017,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 545,
+    "server_id": 5,
+    "type": "house",
+    "name": "Тут жил Лабуда Депути",
+    "owner": "Labubu_Deputy",
+    "status": "Аукцион",
+    "x": -36.0457,
+    "y": 1115.65,
+    "price": 144444,
     "district": "Сан-Андреас"
   },
   {
@@ -25116,15 +25116,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 74,
+    "id": 35,
     "server_id": 5,
     "type": "business",
-    "name": "Магазин 24/7",
+    "name": "Закусочная",
     "owner": "Ruslan_White",
     "status": "Аукцион",
-    "x": 2104.24,
-    "y": 2678.92,
-    "price": 130000,
+    "x": 1367.55,
+    "y": 248.241,
+    "price": 230000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 173,
+    "server_id": 5,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Ruslan_White",
+    "status": "Аукцион",
+    "x": 499.489,
+    "y": -1360.62,
+    "price": 240000,
     "district": "Сан-Андреас"
   },
   {
@@ -25776,6 +25788,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 74,
+    "server_id": 5,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Nikita_Beluchi",
+    "status": "Занято",
+    "x": 2104.24,
+    "y": 2678.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 75,
     "server_id": 5,
     "type": "business",
@@ -26096,18 +26120,6 @@
     "status": "Занято",
     "x": -2241.75,
     "y": 123.041,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 173,
-    "server_id": 5,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Ruslan_White",
-    "status": "Занято",
-    "x": 499.489,
-    "y": -1360.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26732,18 +26744,6 @@
     "status": "Занято",
     "x": 810.979,
     "y": -1616.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 35,
-    "server_id": 5,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ruslan_White",
-    "status": "Занято",
-    "x": 1367.55,
-    "y": 248.241,
     "price": 0,
     "district": "Сан-Андреас"
   },
