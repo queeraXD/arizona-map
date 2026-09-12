@@ -11369,10 +11369,10 @@
     "type": "house",
     "name": "депозит",
     "owner": "Ykyrish_Deeplace",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2230.74,
     "y": 1027.64,
-    "price": 4000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -15884,6 +15884,18 @@
     "status": "Занято",
     "x": 1618.71,
     "y": 2610.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1328,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ludik_Saratovski",
+    "status": "Занято",
+    "x": 1638.16,
+    "y": 2610.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21288,18 +21300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1780,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Big_Husler",
-    "status": "Занято",
-    "x": -2487.25,
-    "y": 821.3079,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1781,
     "server_id": 24,
     "type": "house",
@@ -22032,15 +22032,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1328,
+    "id": 1780,
     "server_id": 24,
     "type": "house",
     "name": "Дом",
-    "owner": "Ludik_Saratovski",
+    "owner": "Big_Husler",
     "status": "Аукцион",
-    "x": 1638.16,
-    "y": 2610.71,
-    "price": 16666,
+    "x": -2487.25,
+    "y": 821.3079,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 31,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Big_Husler",
+    "status": "Аукцион",
+    "x": 604.441,
+    "y": -1513.29,
+    "price": 647383,
     "district": "Сан-Андреас"
   },
   {
@@ -23336,18 +23348,6 @@
     "status": "Занято",
     "x": 661.359,
     "y": -573.569,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 31,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Big_Husler",
-    "status": "Занято",
-    "x": 604.441,
-    "y": -1513.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25972,7 +25972,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Рыболовный магазин",
-    "owner": "Markus_Evans",
+    "owner": "Waka_Blackseeker",
     "status": "Занято",
     "x": -2224.77,
     "y": 2288.47,
