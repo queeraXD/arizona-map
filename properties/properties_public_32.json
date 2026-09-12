@@ -444,6 +444,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 37,
+    "server_id": 32,
+    "type": "house",
+    "name": "Fisting Club №1",
+    "owner": "Lubitel_Fistinga",
+    "status": "Занято",
+    "x": 2389.73,
+    "y": -1346.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 38,
+    "server_id": 32,
+    "type": "house",
+    "name": "Fisting Club №2",
+    "owner": "Lubitel_Fistinga",
+    "status": "Занято",
+    "x": 2387.86,
+    "y": -1328.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 39,
     "server_id": 32,
     "type": "house",
@@ -2740,7 +2764,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Чикенбурбе",
-    "owner": "Chicken_Burbe",
+    "owner": "Grigory_Yavlinskiy",
     "status": "Занято",
     "x": 648.1329,
     "y": -1058.27,
@@ -6532,7 +6556,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Hotline_Established",
+    "owner": "Voda_Nety",
     "status": "Занято",
     "x": -18.3805,
     "y": 1115.67,
@@ -6556,7 +6580,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Martin_Scorsese",
+    "owner": "Voda_Nety",
     "status": "Занято",
     "x": 570.7319,
     "y": 1174.37,
@@ -8900,18 +8924,6 @@
     "status": "Занято",
     "x": -2709.04,
     "y": 853.1939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 748,
-    "server_id": 32,
-    "type": "house",
-    "name": "soc1o",
-    "owner": "Slava_Turbina",
-    "status": "Занято",
-    "x": -2659.96,
-    "y": 876.3309,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13468,7 +13480,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Квартира",
-    "owner": "Chicken_Burbe",
+    "owner": "Grigory_Yavlinskiy",
     "status": "Занято",
     "x": 1816.29,
     "y": -1292.68,
@@ -22428,30 +22440,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 37,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Harly_Quinn",
-    "status": "Аукцион",
-    "x": 2389.73,
-    "y": -1346.03,
-    "price": 14000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 38,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом ГЕТТО",
-    "owner": "Harly_Quinn",
-    "status": "Аукцион",
-    "x": 2387.86,
-    "y": -1328.4,
-    "price": 14000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 594,
     "server_id": 32,
     "type": "house",
@@ -22461,6 +22449,18 @@
     "x": -1446.67,
     "y": 2636.7,
     "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 748,
+    "server_id": 32,
+    "type": "house",
+    "name": "soc1o",
+    "owner": "Slava_Turbina",
+    "status": "Аукцион",
+    "x": -2659.96,
+    "y": 876.3309,
+    "price": 90000,
     "district": "Сан-Андреас"
   },
   {

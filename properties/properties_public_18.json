@@ -10096,7 +10096,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Jimmy_Kalashnikov",
+    "owner": "George_Tevzadze",
     "status": "Занято",
     "x": -2227.76,
     "y": 1107.37,
@@ -13436,18 +13436,6 @@
     "status": "Занято",
     "x": 1809.41,
     "y": -1299.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1123,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Leo_Ford",
-    "status": "Занято",
-    "x": 1802.84,
-    "y": -1300.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20499,8 +20487,8 @@
     "id": 1712,
     "server_id": 18,
     "type": "house",
-    "name": "Сарайчик",
-    "owner": "Silent_Masker",
+    "name": "Benedict",
+    "owner": "Alexander_Benedict",
     "status": "Занято",
     "x": 2473.15,
     "y": -1383.38,
@@ -22200,6 +22188,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1123,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Leo_Ford",
+    "status": "Аукцион",
+    "x": 1802.84,
+    "y": -1300.9,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1305,
     "server_id": 18,
     "type": "house",
@@ -22221,18 +22221,6 @@
     "x": 2104.24,
     "y": 2678.92,
     "price": 240000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 184,
-    "server_id": 18,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Eric_Markelovani",
-    "status": "Аукцион",
-    "x": 2351.41,
-    "y": 2405.59,
-    "price": 105000,
     "district": "Сан-Андреас"
   },
   {
@@ -25064,6 +25052,18 @@
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 18,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Eric_Markelovani",
+    "status": "Занято",
+    "x": 2351.41,
+    "y": 2405.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
