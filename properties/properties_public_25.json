@@ -11940,18 +11940,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1002,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dostavka_Cuerto",
-    "status": "Занято",
-    "x": -2413.55,
-    "y": 1137.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1003,
     "server_id": 25,
     "type": "house",
@@ -18828,18 +18816,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1576,
-    "server_id": 25,
-    "type": "house",
-    "name": "Bishop",
-    "owner": "Adrenaline_Bishop",
-    "status": "Занято",
-    "x": 1045.96,
-    "y": 1007.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1577,
     "server_id": 25,
     "type": "house",
@@ -20047,18 +20023,6 @@
     "owner": "German_Owns",
     "status": "Занято",
     "x": 2377.12,
-    "y": 1063.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1678,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Maxs_Katana",
-    "status": "Занято",
-    "x": 2366.41,
     "y": 1063.58,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23769,6 +23733,42 @@
     "x": -2160.15,
     "y": 983.676,
     "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1002,
+    "server_id": 25,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Dostavka_Cuerto",
+    "status": "Аукцион",
+    "x": -2413.55,
+    "y": 1137.33,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1576,
+    "server_id": 25,
+    "type": "house",
+    "name": "Bishop",
+    "owner": "Adrenaline_Bishop",
+    "status": "Аукцион",
+    "x": 1045.96,
+    "y": 1007.89,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1678,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Maxs_Katana",
+    "status": "Аукцион",
+    "x": 2366.41,
+    "y": 1063.58,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
