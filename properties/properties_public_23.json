@@ -3712,7 +3712,7 @@
     "server_id": 23,
     "type": "house",
     "name": "tg: buryi.est",
-    "owner": "Aleksandr_Hatred",
+    "owner": "Vladimir_Guba",
     "status": "Занято",
     "x": 260.441,
     "y": -303.1679,
@@ -7112,18 +7112,6 @@
     "status": "Занято",
     "x": -1449.95,
     "y": 2562.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 594,
-    "server_id": 23,
-    "type": "house",
-    "name": "poksqds",
-    "owner": "Iflexick_Doc",
-    "status": "Занято",
-    "x": -1446.67,
-    "y": 2636.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11744,18 +11732,6 @@
     "status": "Занято",
     "x": -2278.81,
     "y": 787.749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 982,
-    "server_id": 23,
-    "type": "house",
-    "name": "poksqd",
-    "owner": "Iflexick_Doc",
-    "status": "Занято",
-    "x": -2286.53,
-    "y": 796.7609,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19584,6 +19560,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1637,
+    "server_id": 23,
+    "type": "house",
+    "name": "home 2",
+    "owner": "Koshmar_Shadowfiend",
+    "status": "Занято",
+    "x": 2487.39,
+    "y": -1398.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1638,
     "server_id": 23,
     "type": "house",
@@ -21136,11 +21124,23 @@
     "server_id": 23,
     "type": "house",
     "name": "yt nysson",
-    "owner": "Nysson_Inmayharti",
+    "owner": "Vasiliy_Darkside",
     "status": "Аукцион",
     "x": -2402.21,
     "y": 829.184,
-    "price": 1,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 594,
+    "server_id": 23,
+    "type": "house",
+    "name": "poksqds",
+    "owner": "Iflexick_Doc",
+    "status": "Аукцион",
+    "x": -1446.67,
+    "y": 2636.7,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -21156,27 +21156,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1637,
+    "id": 982,
     "server_id": 23,
     "type": "house",
-    "name": "home 2",
-    "owner": "Neymar_Benzo",
+    "name": "poksqd",
+    "owner": "Iflexick_Doc",
     "status": "Аукцион",
-    "x": 2487.39,
-    "y": -1398.81,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 81,
-    "server_id": 23,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Copy_Doberman",
-    "status": "Аукцион",
-    "x": 2101.89,
-    "y": 2228.81,
-    "price": 110000,
+    "x": -2286.53,
+    "y": 796.7609,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -22916,6 +22904,18 @@
     "status": "Занято",
     "x": 2638.3,
     "y": 1671.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 81,
+    "server_id": 23,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Copy_Doberman",
+    "status": "Занято",
+    "x": 2101.89,
+    "y": 2228.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
