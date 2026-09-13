@@ -17844,18 +17844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1487,
-    "server_id": 14,
-    "type": "house",
-    "name": "Логово Борца",
-    "owner": "Maga_Borec",
-    "status": "Занято",
-    "x": 648.8519,
-    "y": -1442.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1488,
     "server_id": 14,
     "type": "house",
@@ -21444,18 +21432,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1788,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tuborosho_Kazah",
-    "status": "Занято",
-    "x": 2645.5,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1789,
     "server_id": 14,
     "type": "house",
@@ -22424,18 +22400,6 @@
     "status": "Занято",
     "x": 2473.25,
     "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1875,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Egor_Jeffrey",
-    "status": "Занято",
-    "x": 2476.39,
-    "y": -1366.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23688,6 +23652,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1487,
+    "server_id": 14,
+    "type": "house",
+    "name": "Логово Борца",
+    "owner": "Maga_Borec",
+    "status": "Аукцион",
+    "x": 648.8519,
+    "y": -1442.38,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1554,
     "server_id": 14,
     "type": "house",
@@ -23697,6 +23673,30 @@
     "x": 2579.08,
     "y": 719.4879,
     "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1788,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tuborosho_Kazah",
+    "status": "Аукцион",
+    "x": 2645.5,
+    "y": 2019.21,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1875,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Egor_Jeffrey",
+    "status": "Аукцион",
+    "x": 2476.39,
+    "y": -1366.2,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
