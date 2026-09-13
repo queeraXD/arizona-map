@@ -4896,18 +4896,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 408,
-    "server_id": 1,
-    "type": "house",
-    "name": "cuerto squad",
-    "owner": "Mega_Fame",
-    "status": "Занято",
-    "x": 1428.29,
-    "y": 355.7619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 409,
     "server_id": 1,
     "type": "house",
@@ -6856,7 +6844,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Дом",
-    "owner": "LEW",
+    "owner": "LEV",
     "status": "Занято",
     "x": 689.304,
     "y": 1297.02,
@@ -8672,18 +8660,6 @@
     "status": "Занято",
     "x": 1663.37,
     "y": 2753.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 723,
-    "server_id": 1,
-    "type": "house",
-    "name": "Морганс",
-    "owner": "Morr_Gans",
-    "status": "Занято",
-    "x": 1652.34,
-    "y": 2709.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10900,7 +10876,7 @@
     "server_id": 1,
     "type": "house",
     "name": "13GG",
-    "owner": "Kimpinty_Bratish",
+    "owner": "Enzo_Devery",
     "status": "Занято",
     "x": -775.4949,
     "y": 1447.71,
@@ -16888,7 +16864,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Arenda",
-    "owner": "Roy_Phantom",
+    "owner": "Korrigan_Morse",
     "status": "Занято",
     "x": -2301.91,
     "y": 580.036,
@@ -24168,15 +24144,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 250,
+    "id": 408,
     "server_id": 1,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Vladimir_Hmxd",
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Mega_Fame",
     "status": "Аукцион",
-    "x": 2170.48,
-    "y": 542.934,
-    "price": 179999,
+    "x": 1428.29,
+    "y": 355.7619,
+    "price": 8888,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 723,
+    "server_id": 1,
+    "type": "house",
+    "name": "Морганс",
+    "owner": "Morr_Gans",
+    "status": "Аукцион",
+    "x": 1652.34,
+    "y": 2709.34,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {
@@ -25592,6 +25580,18 @@
     "status": "Занято",
     "x": 111.076,
     "y": -1782.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 250,
+    "server_id": 1,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Vladimir_Hmxd",
+    "status": "Занято",
+    "x": 2170.48,
+    "y": 542.934,
     "price": 0,
     "district": "Сан-Андреас"
   },

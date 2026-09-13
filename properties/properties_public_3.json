@@ -5424,6 +5424,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 454,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yurko_Melnyk",
+    "status": "Занято",
+    "x": 2014.05,
+    "y": 650.828,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 455,
     "server_id": 3,
     "type": "house",
@@ -12288,18 +12300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1028,
-    "server_id": 3,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Nakata_Katsu",
-    "status": "Занято",
-    "x": -2303.33,
-    "y": 797.0219,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1029,
     "server_id": 3,
     "type": "house",
@@ -12356,6 +12356,18 @@
     "status": "Занято",
     "x": -2048.18,
     "y": 745.965,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1034,
+    "server_id": 3,
+    "type": "house",
+    "name": "хоум биба",
+    "owner": "Vladimir_Derva",
+    "status": "Занято",
+    "x": -2029.92,
+    "y": 745.7719,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15384,18 +15396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1289,
-    "server_id": 3,
-    "type": "house",
-    "name": "Explosion | Squad",
-    "owner": "Maloi_Boy",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 644.043,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1290,
     "server_id": 3,
     "type": "house",
@@ -16728,6 +16728,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1402,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jackson_Jey",
+    "status": "Занято",
+    "x": 2788.01,
+    "y": 2221.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1403,
     "server_id": 3,
     "type": "house",
@@ -17904,18 +17916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1501,
-    "server_id": 3,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Maloi_Boy",
-    "status": "Занято",
-    "x": -2359.21,
-    "y": 721.6359,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1502,
     "server_id": 3,
     "type": "house",
@@ -17944,7 +17944,7 @@
     "server_id": 3,
     "type": "house",
     "name": "aveni",
-    "owner": "Kudokushi_Misterio",
+    "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": -2341.02,
     "y": 730.942,
@@ -18999,7 +18999,7 @@
     "id": 1592,
     "server_id": 3,
     "type": "house",
-    "name": "домик",
+    "name": "Майнинг",
     "owner": "Batya_Farma",
     "status": "Занято",
     "x": -2634.9,
@@ -19419,7 +19419,7 @@
     "id": 1627,
     "server_id": 3,
     "type": "house",
-    "name": "Inky Family ",
+    "name": "димасик",
     "owner": "Makini_Lester",
     "status": "Занято",
     "x": 1957.05,
@@ -23928,27 +23928,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 454,
+    "id": 1028,
     "server_id": 3,
     "type": "house",
-    "name": "Дом",
-    "owner": "Jackson_Jey",
+    "name": "Деп условия",
+    "owner": "Nakata_Katsu",
     "status": "Аукцион",
-    "x": 2014.05,
-    "y": 650.828,
-    "price": 7000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1034,
-    "server_id": 3,
-    "type": "house",
-    "name": "хоум биба",
-    "owner": "Biba_Palma",
-    "status": "Аукцион",
-    "x": -2029.92,
-    "y": 745.7719,
-    "price": 1,
+    "x": -2303.33,
+    "y": 797.0219,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -23976,6 +23964,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1289,
+    "server_id": 3,
+    "type": "house",
+    "name": "Explosion | Squad",
+    "owner": "Maloi_Boy",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 644.043,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1373,
     "server_id": 3,
     "type": "house",
@@ -23988,15 +23988,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1402,
+    "id": 1501,
     "server_id": 3,
     "type": "house",
-    "name": "Дом",
-    "owner": "Jackson_Jey",
+    "name": "Деп условия",
+    "owner": "Maloi_Boy",
     "status": "Аукцион",
-    "x": 2788.01,
-    "y": 2221.92,
-    "price": 7000,
+    "x": -2359.21,
+    "y": 721.6359,
+    "price": 5500,
     "district": "Сан-Андреас"
   },
   {
