@@ -14907,7 +14907,7 @@
     "id": 1246,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
+    "name": "всем фарту",
     "owner": "Maksim_Debi",
     "status": "Занято",
     "x": -2477.25,
@@ -15404,6 +15404,18 @@
     "status": "Занято",
     "x": -2510.89,
     "y": 950.8779,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1288,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Magamad_Salaev",
+    "status": "Занято",
+    "x": -2542.5,
+    "y": 942.7369,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17564,6 +17576,18 @@
     "status": "Занято",
     "x": 2123.45,
     "y": 651.3109,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1469,
+    "server_id": 6,
+    "type": "house",
+    "name": "Ферма №2",
+    "owner": "Dead_PooI",
+    "status": "Занято",
+    "x": 2069.21,
+    "y": 696.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21555,7 +21579,7 @@
     "id": 1806,
     "server_id": 6,
     "type": "house",
-    "name": "pes family",
+    "name": "McLovin Family",
     "owner": "Brain_McLovin",
     "status": "Занято",
     "x": 2487.3,
@@ -21584,6 +21608,18 @@
     "status": "Занято",
     "x": 2495.34,
     "y": -1391.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1809,
+    "server_id": 6,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Jack_Mansoori",
+    "status": "Занято",
+    "x": 2476.41,
+    "y": -1366.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22004,6 +22040,18 @@
     "status": "Занято",
     "x": 2357.74,
     "y": 1653.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1845,
+    "server_id": 6,
+    "type": "house",
+    "name": "Corleone LV",
+    "owner": "Gumik_Lopez",
+    "status": "Занято",
+    "x": 2358.28,
+    "y": 1642.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23508,6 +23556,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1974,
+    "server_id": 6,
+    "type": "house",
+    "name": "дом путина 2",
+    "owner": "Gumik_Lopez",
+    "status": "Занято",
+    "x": 2657.13,
+    "y": 2263.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1975,
     "server_id": 6,
     "type": "house",
@@ -24408,30 +24468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1288,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Magamad_Salaev",
-    "status": "Аукцион",
-    "x": -2542.5,
-    "y": 942.7369,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1469,
-    "server_id": 6,
-    "type": "house",
-    "name": "Ферма №2",
-    "owner": "BopoBckou",
-    "status": "Аукцион",
-    "x": 2069.21,
-    "y": 696.63,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1755,
     "server_id": 6,
     "type": "house",
@@ -24471,36 +24507,12 @@
     "id": 1805,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Gumik_Lopez",
+    "name": "деп",
+    "owner": "Elliot_Vintage",
     "status": "Аукцион",
     "x": 2495.24,
     "y": -1366.2,
-    "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1809,
-    "server_id": 6,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Elliot_Vintage",
-    "status": "Аукцион",
-    "x": 2476.41,
-    "y": -1366.2,
     "price": 2600,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1845,
-    "server_id": 6,
-    "type": "house",
-    "name": "Corleone LV",
-    "owner": "Gumik_Lopez",
-    "status": "Аукцион",
-    "x": 2358.28,
-    "y": 1642.59,
-    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -24513,18 +24525,6 @@
     "x": 475.7369,
     "y": 1394.56,
     "price": 2500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1974,
-    "server_id": 6,
-    "type": "house",
-    "name": "дом путина 2",
-    "owner": "Gumik_Lopez",
-    "status": "Аукцион",
-    "x": 2657.13,
-    "y": 2263.85,
-    "price": 2000,
     "district": "Сан-Андреас"
   },
   {

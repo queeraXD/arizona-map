@@ -2115,7 +2115,7 @@
     "id": 176,
     "server_id": 1,
     "type": "house",
-    "name": "semqso",
+    "name": "Tempest",
     "owner": "Fentoms_Tempest",
     "status": "Занято",
     "x": 692.926,
@@ -2163,8 +2163,8 @@
     "id": 180,
     "server_id": 1,
     "type": "house",
-    "name": "13 GG",
-    "owner": "Bazaru_Jackson",
+    "name": "Tempest",
+    "owner": "Fentoms_Tempest",
     "status": "Занято",
     "x": 657.229,
     "y": -1652.59,
@@ -2175,7 +2175,7 @@
     "id": 181,
     "server_id": 1,
     "type": "house",
-    "name": "BUNKER corp.",
+    "name": "Tempest",
     "owner": "Fentoms_Tempest",
     "status": "Занято",
     "x": 653.565,
@@ -5792,18 +5792,6 @@
     "status": "Занято",
     "x": 2177.57,
     "y": 735.885,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 484,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hoodrich_Nekit",
-    "status": "Занято",
-    "x": 2177.28,
-    "y": 690.3499,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16116,18 +16104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1346,
-    "server_id": 1,
-    "type": "house",
-    "name": "13 GG",
-    "owner": "Vepo_GIamour123",
-    "status": "Занято",
-    "x": -2233.82,
-    "y": 888.715,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1347,
     "server_id": 1,
     "type": "house",
@@ -21376,7 +21352,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Semqso Squad",
-    "owner": "Rudolf_Naiz",
+    "owner": "Quentin_Rosenberg",
     "status": "Занято",
     "x": -2831.54,
     "y": -2284.73,
@@ -24156,6 +24132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 484,
+    "server_id": 1,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hoodrich_Nekit",
+    "status": "Аукцион",
+    "x": 2177.28,
+    "y": 690.3499,
+    "price": 18000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 723,
     "server_id": 1,
     "type": "house",
@@ -24165,6 +24153,18 @@
     "x": 1652.34,
     "y": 2709.34,
     "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1346,
+    "server_id": 1,
+    "type": "house",
+    "name": "13 GG",
+    "owner": "Vepo_GIamour123",
+    "status": "Аукцион",
+    "x": -2233.82,
+    "y": 888.715,
+    "price": 17000,
     "district": "Сан-Андреас"
   },
   {
