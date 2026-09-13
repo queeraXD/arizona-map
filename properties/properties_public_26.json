@@ -408,18 +408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 34,
-    "server_id": 26,
-    "type": "house",
-    "name": "Склад #1 (Ганы, броники)",
-    "owner": "Shah_Murasaki",
-    "status": "Занято",
-    "x": 2439.65,
-    "y": -1338.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 35,
     "server_id": 26,
     "type": "house",
@@ -1004,18 +992,6 @@
     "status": "Занято",
     "x": 2067.56,
     "y": -1643.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 84,
-    "server_id": 26,
-    "type": "house",
-    "name": "Архипелаг Грёз",
-    "owner": "Shah_Murasaki",
-    "status": "Занято",
-    "x": 2066.74,
-    "y": -1656.47,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3216,18 +3192,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 268,
-    "server_id": 26,
-    "type": "house",
-    "name": "House number 1",
-    "owner": "Shah_Murasaki",
-    "status": "Занято",
-    "x": 1188.36,
-    "y": -1011.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 269,
     "server_id": 26,
     "type": "house",
@@ -3408,18 +3372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 284,
-    "server_id": 26,
-    "type": "house",
-    "name": "House number 3",
-    "owner": "Shah_Murasaki",
-    "status": "Занято",
-    "x": 2462.37,
-    "y": -1011.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 285,
     "server_id": 26,
     "type": "house",
@@ -3572,18 +3524,6 @@
     "status": "Занято",
     "x": 2105.31,
     "y": -1056.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 298,
-    "server_id": 26,
-    "type": "house",
-    "name": "House number 4",
-    "owner": "Shah_Murasaki",
-    "status": "Занято",
-    "x": 2092.26,
-    "y": -1067.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11928,18 +11868,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 997,
-    "server_id": 26,
-    "type": "house",
-    "name": "Архипелаг Грёз",
-    "owner": "Shah_Murasaki",
-    "status": "Занято",
-    "x": -2373.39,
-    "y": 834.4459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 998,
     "server_id": 26,
     "type": "house",
@@ -11948,18 +11876,6 @@
     "status": "Занято",
     "x": -2373.18,
     "y": 851.663,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 999,
-    "server_id": 26,
-    "type": "house",
-    "name": "Архипелаг Грёз",
-    "owner": "Shah_Murasaki",
-    "status": "Занято",
-    "x": -2373.26,
-    "y": 872.018,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16280,6 +16196,18 @@
     "status": "Занято",
     "x": -2112.52,
     "y": 823.556,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1361,
+    "server_id": 26,
+    "type": "house",
+    "name": "Майнинг бананов",
+    "owner": "Komersoji_Exquerrone",
+    "status": "Занято",
+    "x": -2790.24,
+    "y": -168.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23904,18 +23832,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2002,
-    "server_id": 26,
-    "type": "house",
-    "name": "House number 5",
-    "owner": "Shah_Murasaki",
-    "status": "Занято",
-    "x": 1763.1,
-    "y": 2871.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2003,
     "server_id": 26,
     "type": "house",
@@ -25080,6 +24996,66 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 34,
+    "server_id": 26,
+    "type": "house",
+    "name": "Склад #1 (Ганы, броники)",
+    "owner": "Shah_Murasaki",
+    "status": "Аукцион",
+    "x": 2439.65,
+    "y": -1338.73,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 84,
+    "server_id": 26,
+    "type": "house",
+    "name": "Архипелаг Грёз",
+    "owner": "Shah_Murasaki",
+    "status": "Аукцион",
+    "x": 2066.74,
+    "y": -1656.47,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 268,
+    "server_id": 26,
+    "type": "house",
+    "name": "House number 1",
+    "owner": "Shah_Murasaki",
+    "status": "Аукцион",
+    "x": 1188.36,
+    "y": -1011.85,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 284,
+    "server_id": 26,
+    "type": "house",
+    "name": "House number 3",
+    "owner": "Shah_Murasaki",
+    "status": "Аукцион",
+    "x": 2462.37,
+    "y": -1011.12,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 298,
+    "server_id": 26,
+    "type": "house",
+    "name": "House number 4",
+    "owner": "Shah_Murasaki",
+    "status": "Аукцион",
+    "x": 2092.26,
+    "y": -1067.44,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 393,
     "server_id": 26,
     "type": "house",
@@ -25104,6 +25080,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 997,
+    "server_id": 26,
+    "type": "house",
+    "name": "Архипелаг Грёз",
+    "owner": "Shah_Murasaki",
+    "status": "Аукцион",
+    "x": -2373.39,
+    "y": 834.4459,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 999,
+    "server_id": 26,
+    "type": "house",
+    "name": "Архипелаг Грёз",
+    "owner": "Shah_Murasaki",
+    "status": "Аукцион",
+    "x": -2373.26,
+    "y": 872.018,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1268,
     "server_id": 26,
     "type": "house",
@@ -25113,18 +25113,6 @@
     "x": -2621.98,
     "y": 168.636,
     "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1361,
-    "server_id": 26,
-    "type": "house",
-    "name": "Майнинг бананов",
-    "owner": "Mikky_Soulertez",
-    "status": "Аукцион",
-    "x": -2790.24,
-    "y": -168.25,
-    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -25185,6 +25173,18 @@
     "x": -768.6459,
     "y": 2765.4,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2002,
+    "server_id": 26,
+    "type": "house",
+    "name": "House number 5",
+    "owner": "Shah_Murasaki",
+    "status": "Аукцион",
+    "x": 1763.1,
+    "y": 2871.32,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {

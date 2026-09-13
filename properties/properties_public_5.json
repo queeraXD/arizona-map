@@ -2088,18 +2088,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 174,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pharmacy_Throat",
-    "status": "Занято",
-    "x": 794.9689,
-    "y": -1691.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 175,
     "server_id": 5,
     "type": "house",
@@ -2264,30 +2252,6 @@
     "status": "Занято",
     "x": 769.1149,
     "y": -1696.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 189,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hiroto_Brainburg",
-    "status": "Занято",
-    "x": 769.056,
-    "y": -1726.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 190,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hiroto_Brainburg",
-    "status": "Занято",
-    "x": 768.973,
-    "y": -1745.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25029,6 +24993,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 174,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 794.9689,
+    "y": -1691.33,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 189,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hiroto_Brainburg",
+    "status": "Аукцион",
+    "x": 769.056,
+    "y": -1726.33,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 190,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hiroto_Brainburg",
+    "status": "Аукцион",
+    "x": 768.973,
+    "y": -1745.95,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {

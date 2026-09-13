@@ -496,7 +496,7 @@
     "server_id": 3,
     "type": "house",
     "name": "1lovered On SoundCloud",
-    "owner": "Eida_Mercenari",
+    "owner": "Duwandroa_Qiao",
     "status": "Занято",
     "x": 2492.1,
     "y": -1239.01,
@@ -508,7 +508,7 @@
     "server_id": 3,
     "type": "house",
     "name": "42 братуха",
-    "owner": "Eida_Mercenari",
+    "owner": "Duwandroa_Qiao",
     "status": "Занято",
     "x": 2550.93,
     "y": -1235.19,
@@ -1172,6 +1172,18 @@
     "status": "Занято",
     "x": 2652.88,
     "y": -1989.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 99,
+    "server_id": 3,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Ben_Bradberry",
+    "status": "Занято",
+    "x": 2637.77,
+    "y": -1992.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2812,7 +2824,7 @@
     "server_id": 3,
     "type": "house",
     "name": ".:: Designed by Bell Cranel ::.",
-    "owner": "Eida_Mercenari",
+    "owner": "Duwandroa_Qiao",
     "status": "Занято",
     "x": 559.1019,
     "y": -1076.19,
@@ -3728,18 +3740,6 @@
     "status": "Занято",
     "x": 1954.5,
     "y": -1074.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 315,
-    "server_id": 3,
-    "type": "house",
-    "name": "Бог",
-    "owner": "Domingo_Alvarez",
-    "status": "Занято",
-    "x": 1959.61,
-    "y": -1069.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6952,7 +6952,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Deserted house",
-    "owner": "Eida_Mercenari",
+    "owner": "Duwandroa_Qiao",
     "status": "Занято",
     "x": -219.5899,
     "y": 2767.46,
@@ -13976,18 +13976,6 @@
     "status": "Занято",
     "x": -2791.93,
     "y": 103.594,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1175,
-    "server_id": 3,
-    "type": "house",
-    "name": "Indestructible Empire",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2793.14,
-    "y": 110.9339,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22576,7 +22564,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Хата Бобра №1",
-    "owner": "Eida_Mercenari",
+    "owner": "Duwandroa_Qiao",
     "status": "Занято",
     "x": 777.8699,
     "y": 1937.6,
@@ -23868,18 +23856,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 99,
-    "server_id": 3,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Somber_Serenade",
-    "status": "Аукцион",
-    "x": 2637.77,
-    "y": -1992.44,
-    "price": 8000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 272,
     "server_id": 3,
     "type": "house",
@@ -23901,6 +23877,18 @@
     "x": 1895.99,
     "y": -1064.77,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 3,
+    "type": "house",
+    "name": "Бог",
+    "owner": "Domingo_Alvarez",
+    "status": "Аукцион",
+    "x": 1959.61,
+    "y": -1069.92,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -23961,6 +23949,18 @@
     "x": -2029.92,
     "y": 745.7719,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1175,
+    "server_id": 3,
+    "type": "house",
+    "name": "Indestructible Empire",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2793.14,
+    "y": 110.9339,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
