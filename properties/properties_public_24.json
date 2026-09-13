@@ -14856,6 +14856,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1241,
+    "server_id": 24,
+    "type": "house",
+    "name": "продам цена договорная",
+    "owner": "Viper_Darkness",
+    "status": "Занято",
+    "x": -2383.14,
+    "y": 1281.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1242,
     "server_id": 24,
     "type": "house",
@@ -18555,8 +18567,8 @@
     "id": 1554,
     "server_id": 24,
     "type": "house",
-    "name": "Davenport",
-    "owner": "Toru_Davenport",
+    "name": "Особа У ЦР Элиса Карлсона",
+    "owner": "Elis_Carlson",
     "status": "Занято",
     "x": 900.218,
     "y": -1447.26,
@@ -18567,8 +18579,8 @@
     "id": 1555,
     "server_id": 24,
     "type": "house",
-    "name": "Davenport",
-    "owner": "Toru_Davenport",
+    "name": "Особа У ЦР Элиса Карлсона",
+    "owner": "Elis_Carlson",
     "status": "Занято",
     "x": 898.656,
     "y": -1445.64,
@@ -20076,6 +20088,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1681,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kill_Him",
+    "status": "Занято",
+    "x": 2441.54,
+    "y": 1233.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1682,
     "server_id": 24,
     "type": "house",
@@ -20364,18 +20388,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1707,
-    "server_id": 24,
-    "type": "house",
-    "name": "Insane squad",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 1749.1,
-    "y": 2755.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1708,
     "server_id": 24,
     "type": "house",
@@ -20588,18 +20600,6 @@
     "status": "Занято",
     "x": 1783.7,
     "y": 2868.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1726,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 1738.35,
-    "y": 2861.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21960,18 +21960,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1241,
-    "server_id": 24,
-    "type": "house",
-    "name": "продам цена договорная",
-    "owner": "Viper_Darkness",
-    "status": "Аукцион",
-    "x": -2383.14,
-    "y": 1281.34,
-    "price": 4000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1304,
     "server_id": 24,
     "type": "house",
@@ -22000,11 +21988,11 @@
     "server_id": 24,
     "type": "house",
     "name": "<3 Visconti and Sovhoz <3",
-    "owner": "Viper_Darkness",
+    "owner": "Vissarion_Shilov",
     "status": "Аукцион",
     "x": -75.249,
     "y": -1598.18,
-    "price": 1,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {
@@ -22020,15 +22008,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1681,
+    "id": 1707,
+    "server_id": 24,
+    "type": "house",
+    "name": "Insane squad",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 1749.1,
+    "y": 2755.88,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1726,
     "server_id": 24,
     "type": "house",
     "name": "Дом",
-    "owner": "Kill_Him",
+    "owner": "Despair_Empressions",
     "status": "Аукцион",
-    "x": 2441.54,
-    "y": 1233.08,
-    "price": 4000,
+    "x": 1738.35,
+    "y": 2861.66,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
