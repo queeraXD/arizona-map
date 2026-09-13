@@ -5176,7 +5176,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Близняшки Monopoly <3 ",
-    "owner": "Aleksander_Monopoly",
+    "owner": "Black_Monopoly",
     "status": "Занято",
     "x": 253.3269,
     "y": -22.4484,
@@ -17752,7 +17752,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Tom_Epstein",
+    "owner": "Kurt_Weinstein",
     "status": "Занято",
     "x": -2361.44,
     "y": 251.6199,
@@ -19068,6 +19068,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1624,
+    "server_id": 32,
+    "type": "house",
+    "name": "Завод Lisner",
+    "owner": "Nick_Smith",
+    "status": "Занято",
+    "x": 2707.31,
+    "y": -1229.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1625,
     "server_id": 32,
     "type": "house",
@@ -19304,6 +19316,18 @@
     "status": "Занято",
     "x": 1973.23,
     "y": -1654.67,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1645,
+    "server_id": 32,
+    "type": "house",
+    "name": "LESHIY EMPIRE X5",
+    "owner": "Rosso_Leshiy",
+    "status": "Занято",
+    "x": 1972.2,
+    "y": -1633.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20155,18 +20179,6 @@
     "owner": "Tetra_Pak",
     "status": "Занято",
     "x": 2487.35,
-    "y": -1424.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1717,
-    "server_id": 32,
-    "type": "house",
-    "name": "2222",
-    "owner": "Lavoym_Masferi",
-    "status": "Занято",
-    "x": 2492.1,
     "y": -1424.58,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22476,27 +22488,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1624,
+    "id": 1717,
     "server_id": 32,
     "type": "house",
-    "name": "Завод Lisner",
+    "name": "2222",
     "owner": "Lavoym_Masferi",
     "status": "Аукцион",
-    "x": 2707.31,
-    "y": -1229.17,
+    "x": 2492.1,
+    "y": -1424.58,
     "price": 500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1645,
-    "server_id": 32,
-    "type": "house",
-    "name": "Mercy Family",
-    "owner": "Adrian_Mercy",
-    "status": "Аукцион",
-    "x": 1972.2,
-    "y": -1633.71,
-    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -22509,30 +22509,6 @@
     "x": 2636.42,
     "y": 2019.21,
     "price": 15000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 53,
-    "server_id": 32,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Rocks_Xebec",
-    "status": "Аукцион",
-    "x": 157.238,
-    "y": -1808.59,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 123,
-    "server_id": 32,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Rocks_Xebec",
-    "status": "Аукцион",
-    "x": -2579.43,
-    "y": 310.085,
-    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -24708,6 +24684,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 53,
+    "server_id": 32,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Rocks_Xebec",
+    "status": "Занято",
+    "x": 157.238,
+    "y": -1808.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 54,
     "server_id": 32,
     "type": "business",
@@ -24776,6 +24764,18 @@
     "status": "Занято",
     "x": -1967.24,
     "y": 296.392,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 123,
+    "server_id": 32,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Rocks_Xebec",
+    "status": "Занято",
+    "x": -2579.43,
+    "y": 310.085,
     "price": 0,
     "district": "Сан-Андреас"
   },

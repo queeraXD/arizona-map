@@ -3588,18 +3588,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 300,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zimbab_We",
-    "status": "Занято",
-    "x": 2109.6,
-    "y": -1081.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 301,
     "server_id": 16,
     "type": "house",
@@ -4035,7 +4023,7 @@
     "id": 337,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
+    "name": "Ферма хлопка 1",
     "owner": "Danil_Kalbasenko",
     "status": "Занято",
     "x": 772.468,
@@ -4095,7 +4083,7 @@
     "id": 343,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
+    "name": "Ферма хлопка 2",
     "owner": "Danil_Kalbasenko",
     "status": "Занято",
     "x": 719.0629,
@@ -11132,18 +11120,6 @@
     "status": "Занято",
     "x": -2017.56,
     "y": 982.8229,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 932,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergei_Panukov",
-    "status": "Занято",
-    "x": -2017.94,
-    "y": 970.2399,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22388,7 +22364,19 @@
     "status": "Аукцион",
     "x": 1141.96,
     "y": -1069.88,
-    "price": 13500,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 300,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zimbab_We",
+    "status": "Аукцион",
+    "x": 2109.6,
+    "y": -1081.15,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -22413,6 +22401,18 @@
     "x": -2368.82,
     "y": 711.7169,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 932,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergei_Panukov",
+    "status": "Аукцион",
+    "x": -2017.94,
+    "y": 970.2399,
+    "price": 1300,
     "district": "Сан-Андреас"
   },
   {
