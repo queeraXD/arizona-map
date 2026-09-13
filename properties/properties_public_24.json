@@ -7896,18 +7896,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 661,
-    "server_id": 24,
-    "type": "house",
-    "name": "zjflai",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 984.2689,
-    "y": 1878.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 662,
     "server_id": 24,
     "type": "house",
@@ -16236,18 +16224,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1359,
-    "server_id": 24,
-    "type": "house",
-    "name": "|О|Т|Д|Ы|Х|",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 1928.6,
-    "y": -1915.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1360,
     "server_id": 24,
     "type": "house",
@@ -21980,7 +21956,7 @@
     "status": "Аукцион",
     "x": 2284.16,
     "y": -1046.07,
-    "price": 3000,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
@@ -22008,6 +21984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 661,
+    "server_id": 24,
+    "type": "house",
+    "name": "zjflai",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": 984.2689,
+    "y": 1878.91,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 691,
     "server_id": 24,
     "type": "house",
@@ -22029,6 +22017,18 @@
     "x": 1623.48,
     "y": 2567.34,
     "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1359,
+    "server_id": 24,
+    "type": "house",
+    "name": "|О|Т|Д|Ы|Х|",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": 1928.6,
+    "y": -1915.91,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -25048,7 +25048,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Macan_Young",
+    "owner": "Luis_Blackseeker",
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,
