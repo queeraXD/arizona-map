@@ -11700,6 +11700,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 978,
+    "server_id": 13,
+    "type": "house",
+    "name": "Borov Нефть",
+    "owner": "Zaur_Pro",
+    "status": "Занято",
+    "x": 452.07,
+    "y": 1246.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 979,
     "server_id": 13,
     "type": "house",
@@ -11896,7 +11908,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Karlo",
-    "owner": "Monte_Karlo",
+    "owner": "Legend_Karlo",
     "status": "Занято",
     "x": -2340.07,
     "y": 797.5759,
@@ -11944,7 +11956,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Karlo",
-    "owner": "Monte_Karlo",
+    "owner": "Legend_Karlo",
     "status": "Занято",
     "x": -2373.26,
     "y": 872.018,
@@ -14884,7 +14896,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Monte_Karlo",
+    "owner": "Legend_Karlo",
     "status": "Занято",
     "x": -2383.14,
     "y": 1226.39,
@@ -17692,22 +17704,10 @@
     "server_id": 13,
     "type": "house",
     "name": "Karlo",
-    "owner": "Monte_Karlo",
+    "owner": "Legend_Karlo",
     "status": "Занято",
     "x": 2372.84,
     "y": -1051.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1480,
-    "server_id": 13,
-    "type": "house",
-    "name": "позитивний парень",
-    "owner": "Maksim_Lazaref",
-    "status": "Занято",
-    "x": 2362.62,
-    "y": -1046.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22443,7 +22443,7 @@
     "id": 1876,
     "server_id": 13,
     "type": "house",
-    "name": "Borov",
+    "name": "Borov Нефть",
     "owner": "Zaur_Pro",
     "status": "Занято",
     "x": 471.8059,
@@ -23268,18 +23268,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 978,
-    "server_id": 13,
-    "type": "house",
-    "name": "вар вышки",
-    "owner": "Albert_Epshtein",
-    "status": "Аукцион",
-    "x": 452.07,
-    "y": 1246.99,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1253,
     "server_id": 13,
     "type": "house",
@@ -23289,6 +23277,18 @@
     "x": -2351.14,
     "y": 1299.64,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1480,
+    "server_id": 13,
+    "type": "house",
+    "name": "позитивний парень",
+    "owner": "Maksim_Lazaref",
+    "status": "Аукцион",
+    "x": 2362.62,
+    "y": -1046.45,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {

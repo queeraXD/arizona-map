@@ -1152,18 +1152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 96,
-    "server_id": 3,
-    "type": "house",
-    "name": "mini Kaer Morhen",
-    "owner": "Geralt_Rivs",
-    "status": "Занято",
-    "x": 2673.33,
-    "y": -2020.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 97,
     "server_id": 3,
     "type": "house",
@@ -3248,18 +3236,6 @@
     "status": "Занято",
     "x": 2627.84,
     "y": -1085.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 272,
-    "server_id": 3,
-    "type": "house",
-    "name": "...::: Empire LS :::...",
-    "owner": "Geralt_Rivs",
-    "status": "Занято",
-    "x": 2626.19,
-    "y": -1098.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7224,18 +7200,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 604,
-    "server_id": 3,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Ccg_Employee",
-    "status": "Занято",
-    "x": -1568.17,
-    "y": 2629.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 605,
     "server_id": 3,
     "type": "house",
@@ -8864,18 +8828,6 @@
     "status": "Занято",
     "x": -796.3729,
     "y": 2258.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 741,
-    "server_id": 3,
-    "type": "house",
-    "name": "pesfam top one",
-    "owner": "Ccg_Employee",
-    "status": "Занято",
-    "x": -2860.27,
-    "y": 835.6959,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14148,18 +14100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1184,
-    "server_id": 3,
-    "type": "house",
-    "name": "Maloyhouse",
-    "owner": "Mihail_Bedrov",
-    "status": "Занято",
-    "x": -2880.75,
-    "y": 797.5689,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1185,
     "server_id": 3,
     "type": "house",
@@ -17412,6 +17352,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1457,
+    "server_id": 3,
+    "type": "house",
+    "name": "Домик Полицейского Jason",
+    "owner": "Jeson_West",
+    "status": "Занято",
+    "x": 1738.43,
+    "y": 2861.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1458,
     "server_id": 3,
     "type": "house",
@@ -18060,18 +18012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1512,
-    "server_id": 3,
-    "type": "house",
-    "name": "Palma Apartment ",
-    "owner": "Glorbo_FruttoDrillo",
-    "status": "Занято",
-    "x": 2129.58,
-    "y": -1361.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1513,
     "server_id": 3,
     "type": "house",
@@ -18352,7 +18292,7 @@
     "server_id": 3,
     "type": "house",
     "name": "SpansivFOREVER",
-    "owner": "Musor_Droop",
+    "owner": "Wayne_Continental",
     "status": "Занято",
     "x": -761.627,
     "y": 1613.16,
@@ -23940,6 +23880,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 96,
+    "server_id": 3,
+    "type": "house",
+    "name": "mini Kaer Morhen",
+    "owner": "Geralt_Rivs",
+    "status": "Аукцион",
+    "x": 2673.33,
+    "y": -2020.14,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 99,
     "server_id": 3,
     "type": "house",
@@ -23952,6 +23904,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 272,
+    "server_id": 3,
+    "type": "house",
+    "name": "...::: Empire LS :::...",
+    "owner": "Geralt_Rivs",
+    "status": "Аукцион",
+    "x": 2626.19,
+    "y": -1098.72,
+    "price": 7500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 306,
     "server_id": 3,
     "type": "house",
@@ -23961,6 +23925,30 @@
     "x": 1895.99,
     "y": -1064.77,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 604,
+    "server_id": 3,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Ccg_Employee",
+    "status": "Аукцион",
+    "x": -1568.17,
+    "y": 2629.75,
+    "price": 1111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 741,
+    "server_id": 3,
+    "type": "house",
+    "name": "pesfam top one",
+    "owner": "Ccg_Employee",
+    "status": "Аукцион",
+    "x": -2860.27,
+    "y": 835.6959,
+    "price": 3333,
     "district": "Сан-Андреас"
   },
   {
@@ -23988,6 +23976,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1184,
+    "server_id": 3,
+    "type": "house",
+    "name": "Maloyhouse",
+    "owner": "Mihail_Bedrov",
+    "status": "Аукцион",
+    "x": -2880.75,
+    "y": 797.5689,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1373,
     "server_id": 3,
     "type": "house",
@@ -24000,15 +24000,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1457,
+    "id": 1512,
     "server_id": 3,
     "type": "house",
-    "name": "cuerto squad",
-    "owner": "Dostavka_Cuerto",
+    "name": "Palma Apartment ",
+    "owner": "Glorbo_FruttoDrillo",
     "status": "Аукцион",
-    "x": 1738.43,
-    "y": 2861.56,
-    "price": 2222,
+    "x": 2129.58,
+    "y": -1361.69,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {

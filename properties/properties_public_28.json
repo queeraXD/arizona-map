@@ -5188,7 +5188,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Блядское логово",
-    "owner": "For_Died",
+    "owner": "Aaa_Ooo",
     "status": "Занято",
     "x": 2279.2,
     "y": -1076.63,
@@ -7152,18 +7152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 599,
-    "server_id": 28,
-    "type": "house",
-    "name": "ShegeSha Empire",
-    "owner": "Korrigan_Morse",
-    "status": "Занято",
-    "x": -1482.54,
-    "y": 2702.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 600,
     "server_id": 28,
     "type": "house",
@@ -7592,6 +7580,18 @@
     "status": "Занято",
     "x": -369.302,
     "y": 1169.02,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 636,
+    "server_id": 28,
+    "type": "house",
+    "name": "Блядское логово",
+    "owner": "Teddi_Shakur",
+    "status": "Занято",
+    "x": -360.4819,
+    "y": 1141.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10764,18 +10764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 904,
-    "server_id": 28,
-    "type": "house",
-    "name": "CTPAXA_HET",
-    "owner": "Vadik_Simsimsim",
-    "status": "Занято",
-    "x": -2116.77,
-    "y": 927.3969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 905,
     "server_id": 28,
     "type": "house",
@@ -10808,18 +10796,6 @@
     "status": "Занято",
     "x": -2126.89,
     "y": 996.109,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 908,
-    "server_id": 28,
-    "type": "house",
-    "name": "СТРАХА_НЕТ",
-    "owner": "Vadik_Simsimsim",
-    "status": "Занято",
-    "x": -2126.98,
-    "y": 1014.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17556,18 +17532,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1473,
-    "server_id": 28,
-    "type": "house",
-    "name": "ЧИСТИЛИЩЕ",
-    "owner": "Korrigan_Morse",
-    "status": "Занято",
-    "x": 1055.0,
-    "y": 2315.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1474,
     "server_id": 28,
     "type": "house",
@@ -22284,15 +22248,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 636,
+    "id": 599,
     "server_id": 28,
     "type": "house",
-    "name": "Блядское логово",
-    "owner": "For_Died",
+    "name": "ShegeSha Empire",
+    "owner": "Korrigan_Morse",
     "status": "Аукцион",
-    "x": -360.4819,
-    "y": 1141.62,
-    "price": 3000,
+    "x": -1482.54,
+    "y": 2702.66,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -22320,11 +22284,35 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 904,
+    "server_id": 28,
+    "type": "house",
+    "name": "CTPAXA_HET",
+    "owner": "Vadik_Simsimsim",
+    "status": "Аукцион",
+    "x": -2116.77,
+    "y": 927.3969,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 908,
+    "server_id": 28,
+    "type": "house",
+    "name": "СТРАХА_НЕТ",
+    "owner": "Vadik_Simsimsim",
+    "status": "Аукцион",
+    "x": -2126.98,
+    "y": 1014.21,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 988,
     "server_id": 28,
     "type": "house",
     "name": "Блядское логово",
-    "owner": "For_Died",
+    "owner": "Aaa_Ooo",
     "status": "Аукцион",
     "x": 2446.82,
     "y": 18.8796,
@@ -22336,7 +22324,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Блядское логово",
-    "owner": "For_Died",
+    "owner": "Aaa_Ooo",
     "status": "Аукцион",
     "x": 2556.37,
     "y": 87.7666,
@@ -22353,6 +22341,18 @@
     "x": -2872.46,
     "y": 697.502,
     "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1473,
+    "server_id": 28,
+    "type": "house",
+    "name": "ЧИСТИЛИЩЕ",
+    "owner": "Korrigan_Morse",
+    "status": "Аукцион",
+    "x": 1055.0,
+    "y": 2315.2,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
