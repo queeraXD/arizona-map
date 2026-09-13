@@ -10296,18 +10296,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 859,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Roxy_Reynolds",
-    "status": "Занято",
-    "x": -2428.9,
-    "y": -1328.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 860,
     "server_id": 7,
     "type": "house",
@@ -14167,18 +14155,6 @@
     "owner": "Sergey_Xelsing",
     "status": "Занято",
     "x": -2558.59,
-    "y": -198.7969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1182,
-    "server_id": 7,
-    "type": "house",
-    "name": "Берлога Кайла ",
-    "owner": "Kyle_Blackwoode",
-    "status": "Занято",
-    "x": -2541.46,
     "y": -198.7969,
     "price": 0,
     "district": "Сан-Андреас"
@@ -25536,6 +25512,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 859,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Roxy_Reynolds",
+    "status": "Аукцион",
+    "x": -2428.9,
+    "y": -1328.58,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1182,
+    "server_id": 7,
+    "type": "house",
+    "name": "Берлога Кайла ",
+    "owner": "Kyle_Blackwoode",
+    "status": "Аукцион",
+    "x": -2541.46,
+    "y": -198.7969,
+    "price": 52000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1458,
     "server_id": 7,
     "type": "house",
@@ -25545,18 +25545,6 @@
     "x": 2518.62,
     "y": 58.4566,
     "price": 95001,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 299,
-    "server_id": 7,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Kyle_Blackwoode",
-    "status": "Аукцион",
-    "x": 1876.07,
-    "y": 2234.15,
-    "price": 390000,
     "district": "Сан-Андреас"
   },
   {
@@ -25928,6 +25916,18 @@
     "status": "Занято",
     "x": 2330.78,
     "y": 2165.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 299,
+    "server_id": 7,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Kyle_Blackwoode",
+    "status": "Занято",
+    "x": 1876.07,
+    "y": 2234.15,
     "price": 0,
     "district": "Сан-Андреас"
   },

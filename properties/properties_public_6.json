@@ -3135,7 +3135,7 @@
     "id": 261,
     "server_id": 6,
     "type": "house",
-    "name": "Home, sweet home",
+    "name": "Immortalis ",
     "owner": "Georgi_Immortalis",
     "status": "Занято",
     "x": 2374.1,
@@ -3147,7 +3147,7 @@
     "id": 262,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
+    "name": "Immortalis ",
     "owner": "Georgi_Immortalis",
     "status": "Занято",
     "x": 2373.85,
@@ -14040,6 +14040,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1173,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом Бланкича 3",
+    "owner": "Lantana_Forgotten",
+    "status": "Занято",
+    "x": -2791.83,
+    "y": -41.8134,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1174,
     "server_id": 6,
     "type": "house",
@@ -14380,7 +14392,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Coldsiemens House",
-    "owner": "Lantana_Coldsiemens",
+    "owner": "Lantana_Forgotten",
     "status": "Занято",
     "x": -2590.53,
     "y": -186.242,
@@ -21183,8 +21195,8 @@
     "id": 1771,
     "server_id": 6,
     "type": "house",
-    "name": "хатко Артема в лв",
-    "owner": "Sofa_Sterling",
+    "name": "Хандон",
+    "owner": "Artemiy_Immortalis",
     "status": "Занято",
     "x": 1414.59,
     "y": 2003.91,
@@ -22040,18 +22052,6 @@
     "status": "Занято",
     "x": 2357.74,
     "y": 1653.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1845,
-    "server_id": 6,
-    "type": "house",
-    "name": "Corleone LV",
-    "owner": "Gumik_Lopez",
-    "status": "Занято",
-    "x": 2358.28,
-    "y": 1642.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23556,18 +23556,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1974,
-    "server_id": 6,
-    "type": "house",
-    "name": "дом путина 2",
-    "owner": "Gumik_Lopez",
-    "status": "Занято",
-    "x": 2657.13,
-    "y": 2263.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1975,
     "server_id": 6,
     "type": "house",
@@ -24456,18 +24444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1173,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом Бланкича 3",
-    "owner": "Esteban_Blanco",
-    "status": "Аукцион",
-    "x": -2791.83,
-    "y": -41.8134,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1755,
     "server_id": 6,
     "type": "house",
@@ -24516,6 +24492,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1845,
+    "server_id": 6,
+    "type": "house",
+    "name": "Corleone LV",
+    "owner": "Gumik_Lopez",
+    "status": "Аукцион",
+    "x": 2358.28,
+    "y": 1642.59,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1894,
     "server_id": 6,
     "type": "house",
@@ -24525,6 +24513,30 @@
     "x": 475.7369,
     "y": 1394.56,
     "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1974,
+    "server_id": 6,
+    "type": "house",
+    "name": "дом путина 2",
+    "owner": "Gumik_Lopez",
+    "status": "Аукцион",
+    "x": 2657.13,
+    "y": 2263.85,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 12,
+    "server_id": 6,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Sadie_Sink",
+    "status": "Аукцион",
+    "x": 695.01,
+    "y": -500.134,
+    "price": 600000,
     "district": "Сан-Андреас"
   },
   {
@@ -25412,18 +25424,6 @@
     "status": "Занято",
     "x": 1163.56,
     "y": -1690.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 12,
-    "server_id": 6,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Sadie_Sink",
-    "status": "Занято",
-    "x": 695.01,
-    "y": -500.134,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -7752,18 +7752,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 646,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "Roy_Montanny",
-    "status": "Занято",
-    "x": 2450.36,
-    "y": 714.341,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 647,
     "server_id": 11,
     "type": "house",
@@ -17136,18 +17124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1440,
-    "server_id": 11,
-    "type": "house",
-    "name": "Wise<3",
-    "owner": "Joe_Wise",
-    "status": "Занято",
-    "x": 2775.91,
-    "y": -1245.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1441,
     "server_id": 11,
     "type": "house",
@@ -19508,18 +19484,6 @@
     "status": "Занято",
     "x": 2133.45,
     "y": -1233.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1639,
-    "server_id": 11,
-    "type": "house",
-    "name": "Wise <3",
-    "owner": "Joe_Wise",
-    "status": "Занято",
-    "x": 2750.39,
-    "y": -1222.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24624,14 +24588,50 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 646,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "Roy_Montanny",
+    "status": "Аукцион",
+    "x": 2450.36,
+    "y": 714.341,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1440,
+    "server_id": 11,
+    "type": "house",
+    "name": "Wise<3 ДЕП УСЛ, Подвал майнинг",
+    "owner": "Joe_Wise",
+    "status": "Аукцион",
+    "x": 2775.91,
+    "y": -1245.38,
+    "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1638,
     "server_id": 11,
     "type": "house",
-    "name": "Wise<3",
+    "name": "Wise<3 ДЕП УСЛ, Подвал майнинг",
     "owner": "Joe_Wise",
     "status": "Аукцион",
     "x": 2750.39,
     "y": -1205.75,
+    "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1639,
+    "server_id": 11,
+    "type": "house",
+    "name": "Wise<3 ДЕП УСЛ, Подвал майнинг",
+    "owner": "Joe_Wise",
+    "status": "Аукцион",
+    "x": 2750.39,
+    "y": -1222.19,
     "price": 12000,
     "district": "Сан-Андреас"
   },
