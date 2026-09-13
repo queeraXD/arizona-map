@@ -3724,7 +3724,7 @@
     "server_id": 8,
     "type": "house",
     "name": "parkour fam",
-    "owner": "Fenando_Bueno",
+    "owner": "Vlad_Cachan",
     "status": "Занято",
     "x": 1916.89,
     "y": -1064.86,
@@ -12092,6 +12092,18 @@
     "status": "Занято",
     "x": -2412.85,
     "y": 920.864,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1009,
+    "server_id": 8,
+    "type": "house",
+    "name": "гараж, майнинг",
+    "owner": "Illia_Burbon",
+    "status": "Занято",
+    "x": -2431.21,
+    "y": 920.7139,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24216,18 +24228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2021,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом для фарма",
-    "owner": "Marat_Frolovv",
-    "status": "Занято",
-    "x": 2537.74,
-    "y": 1652.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2022,
     "server_id": 8,
     "type": "house",
@@ -25764,18 +25764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1009,
-    "server_id": 8,
-    "type": "house",
-    "name": "гараж, майнинг",
-    "owner": "Kostya_Ranlain",
-    "status": "Аукцион",
-    "x": -2431.21,
-    "y": 920.7139,
-    "price": 3500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1792,
     "server_id": 8,
     "type": "house",
@@ -25785,6 +25773,30 @@
     "x": -2361.51,
     "y": 246.619,
     "price": 100000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2021,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом для фарма",
+    "owner": "Marat_Frolovv",
+    "status": "Аукцион",
+    "x": 2537.74,
+    "y": 1652.07,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 207,
+    "server_id": 8,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "David_Bovino",
+    "status": "Аукцион",
+    "x": 196.119,
+    "y": -116.76,
+    "price": 136000,
     "district": "Сан-Андреас"
   },
   {
@@ -28904,18 +28916,6 @@
     "status": "Занято",
     "x": 1381.1,
     "y": -1805.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 207,
-    "server_id": 8,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "David_Bovino",
-    "status": "Занято",
-    "x": 196.119,
-    "y": -116.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
