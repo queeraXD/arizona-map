@@ -60,30 +60,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 5,
-    "server_id": 9,
-    "type": "house",
-    "name": "Тату Салон<<Пурпурный Штрих>>",
-    "owner": "Oleg_Bocharow",
-    "status": "Занято",
-    "x": 1997.59,
-    "y": -1112.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 6,
-    "server_id": 9,
-    "type": "house",
-    "name": "Тату Салон<<Пурпурный Штрих>>",
-    "owner": "Oleg_Bocharow",
-    "status": "Занято",
-    "x": 1997.48,
-    "y": -1116.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 7,
     "server_id": 9,
     "type": "house",
@@ -2160,18 +2136,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 180,
-    "server_id": 9,
-    "type": "house",
-    "name": "Гостевой Дом « Золотой Парус » ",
-    "owner": "Oleg_Bocharow",
-    "status": "Занято",
-    "x": 657.229,
-    "y": -1652.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 181,
     "server_id": 9,
     "type": "house",
@@ -2636,6 +2600,18 @@
     "status": "Занято",
     "x": 785.828,
     "y": -828.3469,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 220,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Baron_Scandino",
+    "status": "Занято",
+    "x": 808.908,
+    "y": -759.291,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22468,7 +22444,7 @@
     "server_id": 9,
     "type": "house",
     "name": ". . : Friends Team : . .",
-    "owner": "Fruto_Vkus",
+    "owner": "Kostya_Dmitriev",
     "status": "Занято",
     "x": 2532.65,
     "y": 720.018,
@@ -23904,15 +23880,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 220,
+    "id": 5,
     "server_id": 9,
     "type": "house",
-    "name": "Дом",
-    "owner": "Baron_Scandino",
+    "name": "Тату Салон<<Пурпурный Штрих>>",
+    "owner": "Oleg_Bocharow",
     "status": "Аукцион",
-    "x": 808.908,
-    "y": -759.291,
-    "price": 125000,
+    "x": 1997.59,
+    "y": -1112.05,
+    "price": 100000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 6,
+    "server_id": 9,
+    "type": "house",
+    "name": "Тату Салон<<Пурпурный Штрих>>",
+    "owner": "Oleg_Bocharow",
+    "status": "Аукцион",
+    "x": 1997.48,
+    "y": -1116.92,
+    "price": 100000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 180,
+    "server_id": 9,
+    "type": "house",
+    "name": "Гостевой Дом « Золотой Парус » ",
+    "owner": "Oleg_Bocharow",
+    "status": "Аукцион",
+    "x": 657.229,
+    "y": -1652.59,
+    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
