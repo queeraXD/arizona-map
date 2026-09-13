@@ -6156,18 +6156,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 514,
-    "server_id": 26,
-    "type": "house",
-    "name": "дом вора",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": 1549.98,
-    "y": 2096.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 515,
     "server_id": 26,
     "type": "house",
@@ -7192,7 +7180,7 @@
     "server_id": 26,
     "type": "house",
     "name": "onyxflare",
-    "owner": "Gleb_Dubow",
+    "owner": "Unwritten_Reply",
     "status": "Занято",
     "x": -2792.84,
     "y": -153.048,
@@ -8012,18 +8000,6 @@
     "status": "Занято",
     "x": 1028.83,
     "y": 2005.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 669,
-    "server_id": 26,
-    "type": "house",
-    "name": "House",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": 1030.09,
-    "y": 2028.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11984,18 +11960,6 @@
     "status": "Занято",
     "x": -2359.06,
     "y": 1117.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1001,
-    "server_id": 26,
-    "type": "house",
-    "name": "Smola incorporated",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": -2369.51,
-    "y": 1121.8,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22584,18 +22548,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1884,
-    "server_id": 26,
-    "type": "house",
-    "name": "Montanich",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": -2066.42,
-    "y": 820.6929,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1885,
     "server_id": 26,
     "type": "house",
@@ -25185,6 +25137,54 @@
     "x": 2439.9,
     "y": -1010.88,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 514,
+    "server_id": 26,
+    "type": "house",
+    "name": "дом вора",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": 1549.98,
+    "y": 2096.4,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 669,
+    "server_id": 26,
+    "type": "house",
+    "name": "House",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": 1030.09,
+    "y": 2028.11,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1001,
+    "server_id": 26,
+    "type": "house",
+    "name": "Smola incorporated",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": -2369.51,
+    "y": 1121.8,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1884,
+    "server_id": 26,
+    "type": "house",
+    "name": "Montanich",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": -2066.42,
+    "y": 820.6929,
+    "price": 250,
     "district": "Сан-Андреас"
   },
   {
