@@ -8184,18 +8184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 682,
-    "server_id": 27,
-    "type": "house",
-    "name": "крутой дом",
-    "owner": "Lament_Sweat",
-    "status": "Занято",
-    "x": 1032.54,
-    "y": 2316.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 683,
     "server_id": 27,
     "type": "house",
@@ -14964,6 +14952,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1247,
+    "server_id": 27,
+    "type": "house",
+    "name": "Шнюк/Майнинг",
+    "owner": "Colin_Monte",
+    "status": "Аукцион",
+    "x": -2351.14,
+    "y": 1299.69,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1248,
     "server_id": 27,
     "type": "house",
@@ -14972,18 +14972,6 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1281.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1249,
-    "server_id": 27,
-    "type": "house",
-    "name": "Central Empire",
-    "owner": "Templar_Central",
-    "status": "Занято",
-    "x": -2351.14,
-    "y": 1263.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24456,15 +24444,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1247,
+    "id": 1249,
     "server_id": 27,
     "type": "house",
-    "name": "Шнюк/Майнинг",
-    "owner": "Colin_Monte",
-    "status": "Аукцион",
+    "name": "Central Empire",
+    "owner": "Государство",
+    "status": "Свободно",
     "x": -2351.14,
-    "y": 1299.69,
-    "price": 4000,
+    "y": 1263.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 682,
+    "server_id": 27,
+    "type": "house",
+    "name": "крутой дом",
+    "owner": "Lament_Sweat",
+    "status": "Аукцион",
+    "x": 1032.54,
+    "y": 2316.12,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
