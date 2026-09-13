@@ -1860,6 +1860,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 155,
+    "server_id": 24,
+    "type": "house",
+    "name": "МАЙНИНГ + ДЕП",
+    "owner": "Devel_Sixteen",
+    "status": "Занято",
+    "x": 993.6359,
+    "y": -1058.32,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 156,
     "server_id": 24,
     "type": "house",
@@ -5184,18 +5196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 433,
-    "server_id": 24,
-    "type": "house",
-    "name": "Kenj1 Home",
-    "owner": "Vissarion_Shilov",
-    "status": "Занято",
-    "x": 2284.16,
-    "y": -1046.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 434,
     "server_id": 24,
     "type": "house",
@@ -6308,18 +6308,6 @@
     "status": "Занято",
     "x": 2039.57,
     "y": 2766.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 528,
-    "server_id": 24,
-    "type": "house",
-    "name": "Домик Ванька",
-    "owner": "Vanek_Judoka",
-    "status": "Занято",
-    "x": 2018.48,
-    "y": 2766.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8264,18 +8252,6 @@
     "status": "Занято",
     "x": 1344.65,
     "y": 2609.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 691,
-    "server_id": 24,
-    "type": "house",
-    "name": "Japanse Dojo Home",
-    "owner": "Franklin_Adamson",
-    "status": "Занято",
-    "x": 1270.4,
-    "y": 2554.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16092,18 +16068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1344,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vissarion_Shilov",
-    "status": "Занято",
-    "x": 1623.48,
-    "y": 2567.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1345,
     "server_id": 24,
     "type": "house",
@@ -22008,15 +21972,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 155,
+    "id": 433,
     "server_id": 24,
     "type": "house",
-    "name": "МАЙНИНГ + ДЕП",
-    "owner": "Pasha_Caplya",
+    "name": "Kenj1 Home",
+    "owner": "Vissarion_Shilov",
     "status": "Аукцион",
-    "x": 993.6359,
-    "y": -1058.32,
-    "price": 20000,
+    "x": 2284.16,
+    "y": -1046.07,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -22028,6 +21992,42 @@
     "status": "Аукцион",
     "x": 1341.49,
     "y": 1930.03,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 528,
+    "server_id": 24,
+    "type": "house",
+    "name": "Домик Ванька",
+    "owner": "Vanek_Judoka",
+    "status": "Аукцион",
+    "x": 2018.48,
+    "y": 2766.55,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 691,
+    "server_id": 24,
+    "type": "house",
+    "name": "Japanse Dojo Home",
+    "owner": "Franklin_Adamson",
+    "status": "Аукцион",
+    "x": 1270.4,
+    "y": 2554.5,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1344,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vissarion_Shilov",
+    "status": "Аукцион",
+    "x": 1623.48,
+    "y": 2567.34,
     "price": 5000,
     "district": "Сан-Андреас"
   },

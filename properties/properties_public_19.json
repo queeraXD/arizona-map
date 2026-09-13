@@ -7500,18 +7500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 627,
-    "server_id": 19,
-    "type": "house",
-    "name": "Katsu House",
-    "owner": "Hiroto_Page",
-    "status": "Занято",
-    "x": 4.7234,
-    "y": 1381.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 628,
     "server_id": 19,
     "type": "house",
@@ -7808,18 +7796,6 @@
     "status": "Занято",
     "x": 2169.36,
     "y": 772.255,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 653,
-    "server_id": 19,
-    "type": "house",
-    "name": "Dom Santik",
-    "owner": "Hiroto_Page",
-    "status": "Занято",
-    "x": 1977.75,
-    "y": 677.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9387,7 +9363,7 @@
     "id": 784,
     "server_id": 19,
     "type": "house",
-    "name": "Дом",
+    "name": "Patriarch - Syndicate",
     "owner": "Egor_Patriarch",
     "status": "Занято",
     "x": -2513.5,
@@ -20172,18 +20148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1688,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hiroto_Page",
-    "status": "Занято",
-    "x": 2476.36,
-    "y": -1417.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1689,
     "server_id": 19,
     "type": "house",
@@ -20708,18 +20672,6 @@
     "status": "Занято",
     "x": 2700.21,
     "y": -1200.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1733,
-    "server_id": 19,
-    "type": "house",
-    "name": "Tehnick House",
-    "owner": "Hiroto_Page",
-    "status": "Занято",
-    "x": 2700.21,
-    "y": -1203.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22008,6 +21960,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 627,
+    "server_id": 19,
+    "type": "house",
+    "name": "Katsu House",
+    "owner": "Hiroto_Page",
+    "status": "Аукцион",
+    "x": 4.7234,
+    "y": 1381.21,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 653,
+    "server_id": 19,
+    "type": "house",
+    "name": "Dom Santik",
+    "owner": "Hiroto_Page",
+    "status": "Аукцион",
+    "x": 1977.75,
+    "y": 677.4,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1559,
     "server_id": 19,
     "type": "house",
@@ -22052,6 +22028,30 @@
     "status": "Аукцион",
     "x": 1881.98,
     "y": 2792.36,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1688,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hiroto_Page",
+    "status": "Аукцион",
+    "x": 2476.36,
+    "y": -1417.7,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1733,
+    "server_id": 19,
+    "type": "house",
+    "name": "Tehnick House",
+    "owner": "Hiroto_Page",
+    "status": "Аукцион",
+    "x": 2700.21,
+    "y": -1203.03,
     "price": 150,
     "district": "Сан-Андреас"
   },
