@@ -4032,18 +4032,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 336,
-    "server_id": 28,
-    "type": "house",
-    "name": "Тут живёт чай",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 783.875,
-    "y": 353.0289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 337,
     "server_id": 28,
     "type": "house",
@@ -5808,18 +5796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 484,
-    "server_id": 28,
-    "type": "house",
-    "name": "tribal trap house",
-    "owner": "Nelly_Sakura",
-    "status": "Занято",
-    "x": 2177.28,
-    "y": 690.3499,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 485,
     "server_id": 28,
     "type": "house",
@@ -6164,18 +6140,6 @@
     "status": "Занято",
     "x": 1548.62,
     "y": 2125.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 514,
-    "server_id": 28,
-    "type": "house",
-    "name": "деп условия, вещи в шкафу, инта",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 1549.98,
-    "y": 2096.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7436,18 +7400,6 @@
     "status": "Занято",
     "x": -906.119,
     "y": 1514.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 620,
-    "server_id": 28,
-    "type": "house",
-    "name": "К04 G0LДА",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -886.291,
-    "y": 1514.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19200,18 +19152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1601,
-    "server_id": 28,
-    "type": "house",
-    "name": "Апартаменты в Las-Venturas",
-    "owner": "Timurka_Medovskiy",
-    "status": "Занято",
-    "x": 1786.92,
-    "y": 2767.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1602,
     "server_id": 28,
     "type": "house",
@@ -19880,18 +19820,6 @@
     "status": "Занято",
     "x": 2818.53,
     "y": 2140.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1658,
-    "server_id": 28,
-    "type": "house",
-    "name": "farmilka",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 2818.53,
-    "y": 2140.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22365,6 +22293,78 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 336,
+    "server_id": 28,
+    "type": "house",
+    "name": "Тут живёт чай",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": 783.875,
+    "y": 353.0289,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 484,
+    "server_id": 28,
+    "type": "house",
+    "name": "tribal trap house",
+    "owner": "Nelly_Sakura",
+    "status": "Аукцион",
+    "x": 2177.28,
+    "y": 690.3499,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 514,
+    "server_id": 28,
+    "type": "house",
+    "name": "деп условия, вещи в шкафу, инта",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": 1549.98,
+    "y": 2096.4,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 620,
+    "server_id": 28,
+    "type": "house",
+    "name": "куплен доп шкаф",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -886.291,
+    "y": 1514.59,
+    "price": 800,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1601,
+    "server_id": 28,
+    "type": "house",
+    "name": "Апартаменты в Las-Venturas",
+    "owner": "Timurka_Medovskiy",
+    "status": "Аукцион",
+    "x": 1786.92,
+    "y": 2767.24,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1658,
+    "server_id": 28,
+    "type": "house",
+    "name": "farmilka",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": 2818.53,
+    "y": 2140.74,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
