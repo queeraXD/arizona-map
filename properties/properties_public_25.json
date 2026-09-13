@@ -4140,23 +4140,11 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 345,
-    "server_id": 25,
-    "type": "house",
-    "name": "продам за дорага",
-    "owner": "Wyatt_Jack",
-    "status": "Занято",
-    "x": 1245.81,
-    "y": -902.788,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 346,
     "server_id": 25,
     "type": "house",
     "name": "Алтайское посольство в США",
-    "owner": "Takiroko_Matatsuki",
+    "owner": "Ecilpse_Immortal",
     "status": "Занято",
     "x": 1252.6,
     "y": -901.893,
@@ -9288,6 +9276,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 775,
+    "server_id": 25,
+    "type": "house",
+    "name": "мяу",
+    "owner": "Manya_Kitty",
+    "status": "Занято",
+    "x": -2590.92,
+    "y": 819.7999,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 776,
     "server_id": 25,
     "type": "house",
@@ -9332,6 +9332,18 @@
     "status": "Занято",
     "x": -2568.95,
     "y": 794.1749,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 780,
+    "server_id": 25,
+    "type": "house",
+    "name": "OPG TABURETKA (SF) деп условия",
+    "owner": "Tom_Nikollenko",
+    "status": "Занято",
+    "x": -2541.29,
+    "y": 733.153,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11388,18 +11400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 953,
-    "server_id": 25,
-    "type": "house",
-    "name": "belda fam",
-    "owner": "Wyatt_Jack",
-    "status": "Занято",
-    "x": -2160.15,
-    "y": 983.676,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 954,
     "server_id": 25,
     "type": "house",
@@ -11696,6 +11696,18 @@
     "status": "Занято",
     "x": 459.147,
     "y": 1339.13,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 979,
+    "server_id": 25,
+    "type": "house",
+    "name": "мяу",
+    "owner": "Manya_Kitty",
+    "status": "Занято",
+    "x": -2278.66,
+    "y": 747.7299,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21168,6 +21180,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1769,
+    "server_id": 25,
+    "type": "house",
+    "name": "мяу",
+    "owner": "Manya_Kitty",
+    "status": "Занято",
+    "x": 2003.69,
+    "y": 2150.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1770,
     "server_id": 25,
     "type": "house",
@@ -22708,7 +22732,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Алтайское посольство в США",
-    "owner": "Takiroko_Matatsuki",
+    "owner": "Ecilpse_Immortal",
     "status": "Занято",
     "x": 1748.41,
     "y": 2758.69,
@@ -23712,15 +23736,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 780,
+    "id": 345,
     "server_id": 25,
     "type": "house",
-    "name": "OPG TABURETKA (SF) деп условия",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2541.29,
-    "y": 733.153,
-    "price": 0,
+    "name": "продам за дорага",
+    "owner": "Wyatt_Jack",
+    "status": "Аукцион",
+    "x": 1245.81,
+    "y": -902.788,
+    "price": 4500,
     "district": "Сан-Андреас"
   },
   {
@@ -23736,39 +23760,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 775,
+    "id": 953,
     "server_id": 25,
     "type": "house",
-    "name": "мяу",
-    "owner": "Manya_Kitty",
+    "name": "belda fam",
+    "owner": "Wyatt_Jack",
     "status": "Аукцион",
-    "x": -2590.92,
-    "y": 819.7999,
-    "price": 1500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 979,
-    "server_id": 25,
-    "type": "house",
-    "name": "мяу",
-    "owner": "Manya_Kitty",
-    "status": "Аукцион",
-    "x": -2278.66,
-    "y": 747.7299,
-    "price": 1500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1769,
-    "server_id": 25,
-    "type": "house",
-    "name": "мяу",
-    "owner": "Manya_Kitty",
-    "status": "Аукцион",
-    "x": 2003.69,
-    "y": 2150.0,
-    "price": 1500,
+    "x": -2160.15,
+    "y": 983.676,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
