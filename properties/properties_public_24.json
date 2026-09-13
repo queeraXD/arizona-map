@@ -1848,18 +1848,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 154,
-    "server_id": 24,
-    "type": "house",
-    "name": "Номера",
-    "owner": "Thrillychproe_Balsya",
-    "status": "Занято",
-    "x": 1051.14,
-    "y": -1058.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 155,
     "server_id": 24,
     "type": "house",
@@ -4332,18 +4320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 361,
-    "server_id": 24,
-    "type": "house",
-    "name": "$StasHouse$",
-    "owner": "Stas_Mraz",
-    "status": "Занято",
-    "x": 903.398,
-    "y": -1512.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 362,
     "server_id": 24,
     "type": "house",
@@ -6032,6 +6008,18 @@
     "status": "Занято",
     "x": 1364.3,
     "y": 1931.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 503,
+    "server_id": 24,
+    "type": "house",
+    "name": "кто купит дом тот харош",
+    "owner": "Vania_Oskora",
+    "status": "Занято",
+    "x": 1341.49,
+    "y": 1930.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20464,7 +20452,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Brooks Empire",
-    "owner": "Macan_Young",
+    "owner": "Mickey_Triplicate",
     "status": "Занято",
     "x": 1786.85,
     "y": 2767.26,
@@ -21948,15 +21936,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 503,
+    "id": 154,
     "server_id": 24,
     "type": "house",
-    "name": "кто купит дом тот харош",
-    "owner": "Vania_Oskora",
+    "name": "Номера",
+    "owner": "Thrillychproe_Balsya",
     "status": "Аукцион",
-    "x": 1341.49,
-    "y": 1930.03,
-    "price": 5000,
+    "x": 1051.14,
+    "y": -1058.51,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 361,
+    "server_id": 24,
+    "type": "house",
+    "name": "$StasHouse$",
+    "owner": "Stas_Mraz",
+    "status": "Аукцион",
+    "x": 903.398,
+    "y": -1512.91,
+    "price": 170000,
     "district": "Сан-Андреас"
   },
   {

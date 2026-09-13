@@ -8172,18 +8172,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 688,
-    "server_id": 28,
-    "type": "house",
-    "name": "HOLLYWOODSKY-HOU$E",
-    "owner": "Dmitry_Hollywoodsky",
-    "status": "Занято",
-    "x": 1285.0,
-    "y": 2610.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 689,
     "server_id": 28,
     "type": "house",
@@ -8588,18 +8576,6 @@
     "status": "Занято",
     "x": 1663.37,
     "y": 2753.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 723,
-    "server_id": 28,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Wistful_Gloaming",
-    "status": "Занято",
-    "x": 1652.34,
-    "y": 2709.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14360,18 +14336,6 @@
     "status": "Занято",
     "x": -2864.95,
     "y": 681.4379,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1207,
-    "server_id": 28,
-    "type": "house",
-    "name": "Чил",
-    "owner": "Misato_Katsuragi",
-    "status": "Занято",
-    "x": -2872.46,
-    "y": 697.502,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20160,18 +20124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1692,
-    "server_id": 28,
-    "type": "house",
-    "name": "гнездо Адольфа 3",
-    "owner": "Professor_Babos",
-    "status": "Занято",
-    "x": -827.45,
-    "y": 2765.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1693,
     "server_id": 28,
     "type": "house",
@@ -22320,6 +22272,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 688,
+    "server_id": 28,
+    "type": "house",
+    "name": "HOLLYWOODSKY-HOU$E",
+    "owner": "Dmitry_Hollywoodsky",
+    "status": "Аукцион",
+    "x": 1285.0,
+    "y": 2610.59,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 723,
+    "server_id": 28,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Wistful_Gloaming",
+    "status": "Аукцион",
+    "x": 1652.34,
+    "y": 2709.34,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 988,
     "server_id": 28,
     "type": "house",
@@ -22344,6 +22320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1207,
+    "server_id": 28,
+    "type": "house",
+    "name": "Чил",
+    "owner": "Misato_Katsuragi",
+    "status": "Аукцион",
+    "x": -2872.46,
+    "y": 697.502,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1601,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22353,18 @@
     "x": 2818.53,
     "y": 2140.74,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1692,
+    "server_id": 28,
+    "type": "house",
+    "name": "гнездо Адольфа 3",
+    "owner": "Professor_Babos",
+    "status": "Аукцион",
+    "x": -827.45,
+    "y": 2765.25,
+    "price": 400,
     "district": "Сан-Андреас"
   },
   {
