@@ -11892,6 +11892,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 991,
+    "server_id": 30,
+    "type": "house",
+    "name": "Слет",
+    "owner": "Stu_Love",
+    "status": "Занято",
+    "x": 977.3939,
+    "y": -771.3049,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 992,
     "server_id": 30,
     "type": "house",
@@ -13440,18 +13452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1121,
-    "server_id": 30,
-    "type": "house",
-    "name": "Тут бомжи спят",
-    "owner": "Kik_Men",
-    "status": "Занято",
-    "x": 1816.11,
-    "y": -1292.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1122,
     "server_id": 30,
     "type": "house",
@@ -14520,18 +14520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1211,
-    "server_id": 30,
-    "type": "house",
-    "name": "майнинг 3",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": -2881.36,
-    "y": 790.427,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1212,
     "server_id": 30,
     "type": "house",
@@ -15488,18 +15476,6 @@
     "status": "Занято",
     "x": -2590.53,
     "y": -95.5792,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1292,
-    "server_id": 30,
-    "type": "house",
-    "name": "майнинг 4",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": -2590.53,
-    "y": -105.9329,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22728,15 +22704,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 991,
+    "id": 1121,
     "server_id": 30,
     "type": "house",
-    "name": "Слет",
-    "owner": "Stu_Love",
+    "name": "Тут бомжи спят",
+    "owner": "Kik_Men",
     "status": "Аукцион",
-    "x": 977.3939,
-    "y": -771.3049,
-    "price": 80000,
+    "x": 1816.11,
+    "y": -1292.54,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1211,
+    "server_id": 30,
+    "type": "house",
+    "name": "майнинг 3",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": -2881.36,
+    "y": 790.427,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1292,
+    "server_id": 30,
+    "type": "house",
+    "name": "майнинг 4",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": -2590.53,
+    "y": -105.9329,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
