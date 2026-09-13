@@ -4164,18 +4164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 350,
-    "server_id": 4,
-    "type": "house",
-    "name": "Cummings St.",
-    "owner": "Sergey_Voker",
-    "status": "Занято",
-    "x": 1249.51,
-    "y": -877.4349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 351,
     "server_id": 4,
     "type": "house",
@@ -6104,18 +6092,6 @@
     "status": "Занято",
     "x": 1639.79,
     "y": 2102.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 522,
-    "server_id": 4,
-    "type": "house",
-    "name": "подвал для майнинга",
-    "owner": "Carter_Murph",
-    "status": "Занято",
-    "x": 1645.49,
-    "y": 2127.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8168,6 +8144,18 @@
     "status": "Занято",
     "x": 1316.23,
     "y": 2524.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 694,
+    "server_id": 4,
+    "type": "house",
+    "name": "Baburka squad",
+    "owner": "Konstantin_Vladimiro",
+    "status": "Занято",
+    "x": 1325.5,
+    "y": 2567.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19188,18 +19176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1617,
-    "server_id": 4,
-    "type": "house",
-    "name": "шкафчик не пустой",
-    "owner": "Carter_Murph",
-    "status": "Занято",
-    "x": 2781.94,
-    "y": -1333.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1618,
     "server_id": 4,
     "type": "house",
@@ -22968,18 +22944,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1932,
-    "server_id": 4,
-    "type": "house",
-    "name": "Sanada house",
-    "owner": "Supa_Playa",
-    "status": "Занято",
-    "x": 1284.37,
-    "y": -904.1879,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1933,
     "server_id": 4,
     "type": "house",
@@ -25092,6 +25056,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 350,
+    "server_id": 4,
+    "type": "house",
+    "name": "Cummings St.",
+    "owner": "Sergey_Voker",
+    "status": "Аукцион",
+    "x": 1249.51,
+    "y": -877.4349,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 376,
     "server_id": 4,
     "type": "house",
@@ -25212,15 +25188,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 694,
+    "id": 522,
     "server_id": 4,
     "type": "house",
-    "name": "Baburka squad",
-    "owner": "Konstantin_Vladimiro",
+    "name": "подвал для майнинга",
+    "owner": "Carter_Murph",
     "status": "Аукцион",
-    "x": 1325.5,
-    "y": 2567.57,
-    "price": 21000,
+    "x": 1645.49,
+    "y": 2127.9,
+    "price": 4500,
     "district": "Сан-Андреас"
   },
   {
@@ -25260,6 +25236,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1617,
+    "server_id": 4,
+    "type": "house",
+    "name": "шкафчик не пустой",
+    "owner": "Carter_Murph",
+    "status": "Аукцион",
+    "x": 2781.94,
+    "y": -1333.4,
+    "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1932,
+    "server_id": 4,
+    "type": "house",
+    "name": "autohotkey fam",
+    "owner": "Supa_Playa",
+    "status": "Аукцион",
+    "x": 1284.37,
+    "y": -904.1879,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 63,
     "server_id": 4,
     "type": "business",
@@ -25269,18 +25269,6 @@
     "x": -1320.49,
     "y": 2698.65,
     "price": 385000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 163,
-    "server_id": 4,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Delusion_Akinaura",
-    "status": "Аукцион",
-    "x": 1940.01,
-    "y": -2116.01,
-    "price": 245000,
     "district": "Сан-Андреас"
   },
   {
@@ -25628,6 +25616,18 @@
     "status": "Занято",
     "x": 1966.2,
     "y": 1623.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 163,
+    "server_id": 4,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Delusion_Akinaura",
+    "status": "Занято",
+    "x": 1940.01,
+    "y": -2116.01,
     "price": 0,
     "district": "Сан-Андреас"
   },

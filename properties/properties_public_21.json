@@ -6708,18 +6708,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 559,
-    "server_id": 21,
-    "type": "house",
-    "name": "Scald",
-    "owner": "Yura_Feniks",
-    "status": "Занято",
-    "x": 238.8159,
-    "y": 1026.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 560,
     "server_id": 21,
     "type": "house",
@@ -6884,18 +6872,6 @@
     "status": "Занято",
     "x": -169.026,
     "y": 2707.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 574,
-    "server_id": 21,
-    "type": "house",
-    "name": "FERMER",
-    "owner": "Den_Kontik",
-    "status": "Занято",
-    "x": -161.2409,
-    "y": 2727.94,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7508,6 +7484,18 @@
     "status": "Занято",
     "x": -29.9144,
     "y": 1364.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 626,
+    "server_id": 21,
+    "type": "house",
+    "name": "Нычка Сербии",
+    "owner": "Artyr_Morgan",
+    "status": "Занято",
+    "x": 4.1448,
+    "y": 1344.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21924,15 +21912,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 626,
+    "id": 559,
     "server_id": 21,
     "type": "house",
-    "name": "Нычка Сербии",
-    "owner": "Artyr_Morgan",
-    "status": "Аукцион",
-    "x": 4.1448,
-    "y": 1344.59,
-    "price": 4500,
+    "name": "Scald",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 238.8159,
+    "y": 1026.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 574,
+    "server_id": 21,
+    "type": "house",
+    "name": "FERMER",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -161.2409,
+    "y": 2727.94,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
