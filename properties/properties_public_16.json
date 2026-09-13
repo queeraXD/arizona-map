@@ -1527,7 +1527,7 @@
     "id": 127,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
+    "name": "$Escobar Estate$",
     "owner": "Jeffre_Morgan",
     "status": "Занято",
     "x": 1894.17,
@@ -7048,7 +7048,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Katana_Kessinger",
+    "owner": "Fanat_MiYukee",
     "status": "Занято",
     "x": -624.9819,
     "y": 2709.93,
@@ -17004,18 +17004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1421,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Katana_Kessinger",
-    "status": "Занято",
-    "x": 883.95,
-    "y": 2131.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1422,
     "server_id": 16,
     "type": "house",
@@ -17108,18 +17096,6 @@
     "status": "Занято",
     "x": 985.283,
     "y": 2367.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1430,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Katana_Kessinger",
-    "status": "Занято",
-    "x": 932.8909,
-    "y": 2271.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20040,18 +20016,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1674,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Fugas_Weeknd",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2154.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1675,
     "server_id": 16,
     "type": "house",
@@ -20732,6 +20696,18 @@
     "status": "Занято",
     "x": 2441.54,
     "y": 1231.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1732,
+    "server_id": 16,
+    "type": "house",
+    "name": "дарк ку всем",
+    "owner": "Drezdons_Gilbert",
+    "status": "Занято",
+    "x": 2437.04,
+    "y": 1240.8,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22416,6 +22392,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1674,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2003.69,
+    "y": 2154.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 300,
     "server_id": 16,
     "type": "house",
@@ -22452,15 +22440,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1732,
+    "id": 1421,
     "server_id": 16,
     "type": "house",
-    "name": "дарк ку всем",
-    "owner": "Godblessme_Weeknd",
+    "name": "Дом",
+    "owner": "Katana_Kessinger",
     "status": "Аукцион",
-    "x": 2437.04,
-    "y": 1240.8,
-    "price": 111,
+    "x": 883.95,
+    "y": 2131.46,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1430,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Katana_Kessinger",
+    "status": "Аукцион",
+    "x": 932.8909,
+    "y": 2271.17,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
