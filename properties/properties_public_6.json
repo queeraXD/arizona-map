@@ -1155,8 +1155,8 @@
     "id": 96,
     "server_id": 6,
     "type": "house",
-    "name": "ANTI-MONOPOLY || DS: QUTOPHY",
-    "owner": "Missed_Trendsetter",
+    "name": "фыфыва",
+    "owner": "Apollon_Cellucci",
     "status": "Занято",
     "x": 2673.33,
     "y": -2020.14,
@@ -14880,18 +14880,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1246,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Magamad_Salaev",
-    "status": "Занято",
-    "x": -2477.25,
-    "y": 1244.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1247,
     "server_id": 6,
     "type": "house",
@@ -15380,18 +15368,6 @@
     "status": "Занято",
     "x": -2510.89,
     "y": 950.8779,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1288,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Magamad_Salaev",
-    "status": "Занято",
-    "x": -2542.5,
-    "y": 942.7369,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17552,18 +17528,6 @@
     "status": "Занято",
     "x": 2123.45,
     "y": 651.3109,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1469,
-    "server_id": 6,
-    "type": "house",
-    "name": "Ферма №2",
-    "owner": "BopoBckou",
-    "status": "Занято",
-    "x": 2069.21,
-    "y": 696.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21528,6 +21492,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1802,
+    "server_id": 6,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Elliot_Vintage",
+    "status": "Занято",
+    "x": 2487.42,
+    "y": -1366.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1803,
     "server_id": 6,
     "type": "house",
@@ -22004,18 +21980,6 @@
     "status": "Занято",
     "x": 2357.74,
     "y": 1653.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1845,
-    "server_id": 6,
-    "type": "house",
-    "name": "Corleone LV",
-    "owner": "Gumik_Lopez",
-    "status": "Занято",
-    "x": 2358.28,
-    "y": 1642.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24412,11 +24376,11 @@
     "server_id": 6,
     "type": "house",
     "name": "Primordial",
-    "owner": "Kolya_Infinity",
+    "owner": "Svyat_Parkers",
     "status": "Аукцион",
     "x": 1245.66,
     "y": -902.775,
-    "price": 2000,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -24456,6 +24420,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1246,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Magamad_Salaev",
+    "status": "Аукцион",
+    "x": -2477.25,
+    "y": 1244.34,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1288,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Magamad_Salaev",
+    "status": "Аукцион",
+    "x": -2542.5,
+    "y": 942.7369,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1469,
+    "server_id": 6,
+    "type": "house",
+    "name": "Ферма №2",
+    "owner": "BopoBckou",
+    "status": "Аукцион",
+    "x": 2069.21,
+    "y": 696.63,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1523,
     "server_id": 6,
     "type": "house",
@@ -24480,18 +24480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1802,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gumik_Lopez",
-    "status": "Аукцион",
-    "x": 2487.42,
-    "y": -1366.2,
-    "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1805,
     "server_id": 6,
     "type": "house",
@@ -24507,11 +24495,23 @@
     "id": 1809,
     "server_id": 6,
     "type": "house",
-    "name": "PanteraHouse",
-    "owner": "Gumik_Lopez",
+    "name": "деп условия",
+    "owner": "Elliot_Vintage",
     "status": "Аукцион",
     "x": 2476.41,
     "y": -1366.2,
+    "price": 2600,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1845,
+    "server_id": 6,
+    "type": "house",
+    "name": "Corleone LV",
+    "owner": "Gumik_Lopez",
+    "status": "Аукцион",
+    "x": 2358.28,
+    "y": 1642.59,
     "price": 2000,
     "district": "Сан-Андреас"
   },

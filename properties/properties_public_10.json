@@ -5796,18 +5796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 483,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Yapy_May",
-    "status": "Занято",
-    "x": 2177.57,
-    "y": 735.885,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 484,
     "server_id": 10,
     "type": "house",
@@ -23244,6 +23232,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 483,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yapy_May",
+    "status": "Аукцион",
+    "x": 2177.57,
+    "y": 735.885,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 589,
     "server_id": 10,
     "type": "house",
@@ -23692,7 +23692,7 @@
     "server_id": 10,
     "type": "business",
     "name": "Бар",
-    "owner": "James_Stars",
+    "owner": "Niko_Mir",
     "status": "Занято",
     "x": -2624.67,
     "y": 1412.73,

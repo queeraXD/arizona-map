@@ -5364,18 +5364,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 447,
-    "server_id": 9,
-    "type": "house",
-    "name": "дом бибы и бобы",
-    "owner": "Rab_Chapman",
-    "status": "Занято",
-    "x": 2457.76,
-    "y": -1054.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 448,
     "server_id": 9,
     "type": "house",
@@ -7672,7 +7660,7 @@
     "server_id": 9,
     "type": "house",
     "name": "owned by Джентльмены",
-    "owner": "Baron_Scandino",
+    "owner": "Linar_Gambino",
     "status": "Занято",
     "x": -278.9989,
     "y": 1003.39,
@@ -23904,6 +23892,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 447,
+    "server_id": 9,
+    "type": "house",
+    "name": "дом бибы и бобы",
+    "owner": "Rab_Chapman",
+    "status": "Аукцион",
+    "x": 2457.76,
+    "y": -1054.57,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1552,
     "server_id": 9,
     "type": "house",
@@ -23937,18 +23937,6 @@
     "x": -104.79,
     "y": -309.98,
     "price": 155000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 314,
-    "server_id": 9,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Yaponchik_Lee",
-    "status": "Аукцион",
-    "x": 1004.554,
-    "y": -1356.182,
-    "price": 320000,
     "district": "Сан-Андреас"
   },
   {
@@ -27752,6 +27740,18 @@
     "status": "Занято",
     "x": 1332.48,
     "y": -1120.468,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 314,
+    "server_id": 9,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Yaponchik_Lee",
+    "status": "Занято",
+    "x": 1004.554,
+    "y": -1356.182,
     "price": 0,
     "district": "Сан-Андреас"
   },
