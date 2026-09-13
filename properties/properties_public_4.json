@@ -10368,18 +10368,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 880,
-    "server_id": 4,
-    "type": "house",
-    "name": "Demo House",
-    "owner": "Watch_Demo",
-    "status": "Занято",
-    "x": -2629.94,
-    "y": 2427.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 881,
     "server_id": 4,
     "type": "house",
@@ -12008,18 +11996,6 @@
     "status": "Занято",
     "x": 1752.46,
     "y": 2744.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1017,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дарова пацаны",
-    "owner": "Wistful_Gloaming",
-    "status": "Занято",
-    "x": 1748.78,
-    "y": 2758.47,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16035,8 +16011,8 @@
     "id": 1352,
     "server_id": 4,
     "type": "house",
-    "name": "Pablo House",
-    "owner": "Edul_Abgaryan",
+    "name": "Demo House",
+    "owner": "Watch_Demo",
     "status": "Занято",
     "x": 161.416,
     "y": -1456.0,
@@ -25209,6 +25185,30 @@
     "x": 1325.5,
     "y": 2567.57,
     "price": 21000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 880,
+    "server_id": 4,
+    "type": "house",
+    "name": "Demo House",
+    "owner": "Edul_Abgaryan",
+    "status": "Аукцион",
+    "x": -2629.94,
+    "y": 2427.42,
+    "price": 20270,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1017,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дарова пацаны",
+    "owner": "Wistful_Gloaming",
+    "status": "Аукцион",
+    "x": 1748.78,
+    "y": 2758.47,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
