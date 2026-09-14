@@ -5988,18 +5988,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 499,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alexey_Tkachuk",
-    "status": "Занято",
-    "x": 1409.02,
-    "y": 1919.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 500,
     "server_id": 20,
     "type": "house",
@@ -7112,18 +7100,6 @@
     "status": "Занято",
     "x": -1478.59,
     "y": 2547.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 593,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alexey_Tkachuk",
-    "status": "Занято",
-    "x": -1449.95,
-    "y": 2562.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9320,18 +9296,6 @@
     "status": "Занято",
     "x": -2576.56,
     "y": 819.7999,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 777,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alexey_Tkachuk",
-    "status": "Занято",
-    "x": -2548.71,
-    "y": 819.799,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22353,6 +22317,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 499,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alexey_Tkachuk",
+    "status": "Аукцион",
+    "x": 1409.02,
+    "y": 1919.98,
+    "price": 11500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 593,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alexey_Tkachuk",
+    "status": "Аукцион",
+    "x": -1449.95,
+    "y": 2562.85,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 777,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alexey_Tkachuk",
+    "status": "Аукцион",
+    "x": -2548.71,
+    "y": 819.799,
+    "price": 9999,
     "district": "Сан-Андреас"
   },
   {
