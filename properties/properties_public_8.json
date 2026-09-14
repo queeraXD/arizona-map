@@ -324,18 +324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
-    "server_id": 8,
-    "type": "house",
-    "name": "silence fam",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 2229.54,
-    "y": -1241.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 28,
     "server_id": 8,
     "type": "house",
@@ -5788,7 +5776,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Notem Slovil",
-    "owner": "Andrew_Dolphin",
+    "owner": "Helmut_Yor",
     "status": "Занято",
     "x": 2206.36,
     "y": 691.505,
@@ -8804,18 +8792,6 @@
     "status": "Занято",
     "x": -2904.37,
     "y": 1118.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 735,
-    "server_id": 8,
-    "type": "house",
-    "name": "Хамамм нельзя купить",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2900.72,
-    "y": 1067.02,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12892,7 +12868,7 @@
     "server_id": 8,
     "type": "house",
     "name": "sixmany x templarez",
-    "owner": "Six_Many",
+    "owner": "Lorenso_McMillan",
     "status": "Занято",
     "x": 1740.25,
     "y": 2862.91,
@@ -25716,6 +25692,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 27,
+    "server_id": 8,
+    "type": "house",
+    "name": "silence fam",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": 2229.54,
+    "y": -1241.34,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 552,
     "server_id": 8,
     "type": "house",
@@ -25725,6 +25713,18 @@
     "x": 465.75,
     "y": 1147.6,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 735,
+    "server_id": 8,
+    "type": "house",
+    "name": "Хамамм нельзя купить",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2900.72,
+    "y": 1067.02,
+    "price": 4500,
     "district": "Сан-Андреас"
   },
   {
@@ -25785,18 +25785,6 @@
     "x": 2594.49,
     "y": -1224.67,
     "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 46,
-    "server_id": 8,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Danny_Velasquez",
-    "status": "Аукцион",
-    "x": 1445.11,
-    "y": -1418.56,
-    "price": 450000,
     "district": "Сан-Андреас"
   },
   {
@@ -26348,6 +26336,18 @@
     "status": "Занято",
     "x": 2493.12,
     "y": -1958.75,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 46,
+    "server_id": 8,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Danny_Velasquez",
+    "status": "Занято",
+    "x": 1445.11,
+    "y": -1418.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
