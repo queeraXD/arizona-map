@@ -444,18 +444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 37,
-    "server_id": 4,
-    "type": "house",
-    "name": "Moon",
-    "owner": "Andrey_Masuda",
-    "status": "Занято",
-    "x": 2389.73,
-    "y": -1346.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 38,
     "server_id": 4,
     "type": "house",
@@ -3188,30 +3176,6 @@
     "status": "Занято",
     "x": 1233.88,
     "y": -1009.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 267,
-    "server_id": 4,
-    "type": "house",
-    "name": "Прикинь крч тут ферма 6лвл",
-    "owner": "Inter_Stellar",
-    "status": "Занято",
-    "x": 1226.88,
-    "y": -1010.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 268,
-    "server_id": 4,
-    "type": "house",
-    "name": "Meteora House",
-    "owner": "Inter_Stellar",
-    "status": "Занято",
-    "x": 1188.36,
-    "y": -1011.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25032,6 +24996,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 37,
+    "server_id": 4,
+    "type": "house",
+    "name": "Moon",
+    "owner": "Andrey_Masuda",
+    "status": "Аукцион",
+    "x": 2389.73,
+    "y": -1346.03,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 188,
     "server_id": 4,
     "type": "house",
@@ -25041,6 +25017,30 @@
     "x": 769.1149,
     "y": -1696.62,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 267,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Inter_Stellar",
+    "status": "Аукцион",
+    "x": 1226.88,
+    "y": -1010.94,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 268,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Inter_Stellar",
+    "status": "Аукцион",
+    "x": 1188.36,
+    "y": -1011.85,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
