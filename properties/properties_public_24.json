@@ -4320,18 +4320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 361,
-    "server_id": 24,
-    "type": "house",
-    "name": "$StasHouse$",
-    "owner": "Stas_Mraz",
-    "status": "Занято",
-    "x": 903.398,
-    "y": -1512.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 362,
     "server_id": 24,
     "type": "house",
@@ -19899,7 +19887,7 @@
     "id": 1665,
     "server_id": 24,
     "type": "house",
-    "name": "деп условия, шкаф с ларцами",
+    "name": "ОГО, что тута?",
     "owner": "Toru_Davenport",
     "status": "Занято",
     "x": 386.673,
@@ -21264,18 +21252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1780,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Big_Husler",
-    "status": "Занято",
-    "x": -2487.25,
-    "y": 821.3079,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1781,
     "server_id": 24,
     "type": "house",
@@ -21984,6 +21960,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 361,
+    "server_id": 24,
+    "type": "house",
+    "name": "$StasHouse$",
+    "owner": "Stas_Mraz",
+    "status": "Аукцион",
+    "x": 903.398,
+    "y": -1512.91,
+    "price": 135000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 661,
     "server_id": 24,
     "type": "house",
@@ -22040,6 +22028,18 @@
     "status": "Аукцион",
     "x": 1928.6,
     "y": -1915.91,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1780,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Big_Husler",
+    "status": "Аукцион",
+    "x": -2487.25,
+    "y": 821.3079,
     "price": 4000,
     "district": "Сан-Андреас"
   },
