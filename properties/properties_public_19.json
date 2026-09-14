@@ -8124,18 +8124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 682,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zimbab_We",
-    "status": "Занято",
-    "x": 1032.54,
-    "y": 2316.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 683,
     "server_id": 19,
     "type": "house",
@@ -8764,7 +8752,7 @@
     "server_id": 19,
     "type": "house",
     "name": "SHELBY HOUSE",
-    "owner": "Betino_Reincarnation",
+    "owner": "Alkogol_PoVenam",
     "status": "Занято",
     "x": -2900.72,
     "y": 1067.02,
@@ -13072,7 +13060,7 @@
     "server_id": 19,
     "type": "house",
     "name": "SHELBY x HOUSE",
-    "owner": "Betino_Reincarnation",
+    "owner": "Alkogol_PoVenam",
     "status": "Занято",
     "x": -2234.33,
     "y": 830.867,
@@ -17692,7 +17680,7 @@
     "server_id": 19,
     "type": "house",
     "name": "SHELBY HOUSE",
-    "owner": "Betino_Reincarnation",
+    "owner": "Alkogol_PoVenam",
     "status": "Занято",
     "x": -25.7884,
     "y": -40.4235,
@@ -18644,18 +18632,6 @@
     "status": "Занято",
     "x": 1957.05,
     "y": 664.653,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1562,
-    "server_id": 19,
-    "type": "house",
-    "name": "Здесь живёт Bruce Yates.",
-    "owner": "Feldan_Lizalov",
-    "status": "Занято",
-    "x": 1957.04,
-    "y": 671.3259,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20952,18 +20928,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1760,
-    "server_id": 19,
-    "type": "house",
-    "name": "ART-House by Katrin_Vesna 3",
-    "owner": "Zimbab_We",
-    "status": "Занято",
-    "x": 2700.21,
-    "y": -1238.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1761,
     "server_id": 19,
     "type": "house",
@@ -21960,6 +21924,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 682,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zimbab_We",
+    "status": "Аукцион",
+    "x": 1032.54,
+    "y": 2316.12,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1088,
     "server_id": 19,
     "type": "house",
@@ -21981,6 +21957,18 @@
     "x": 1938.78,
     "y": 663.577,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1562,
+    "server_id": 19,
+    "type": "house",
+    "name": "Здесь живёт Bruce Yates.",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1957.04,
+    "y": 671.3259,
+    "price": 150,
     "district": "Сан-Андреас"
   },
   {
@@ -22053,6 +22041,18 @@
     "x": 2707.31,
     "y": -1216.3,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1760,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zimbab_We",
+    "status": "Аукцион",
+    "x": 2700.21,
+    "y": -1238.07,
+    "price": 50,
     "district": "Сан-Андреас"
   },
   {
@@ -25636,7 +25636,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Тест-Драйв",
-    "owner": "Betino_Reincarnation",
+    "owner": "Alkogol_PoVenam",
     "status": "Занято",
     "x": -1641.78,
     "y": 1207.76,

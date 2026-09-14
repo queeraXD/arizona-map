@@ -4332,18 +4332,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 361,
-    "server_id": 24,
-    "type": "house",
-    "name": "$StasHouse$",
-    "owner": "Stas_Mraz",
-    "status": "Занято",
-    "x": 903.398,
-    "y": -1512.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 362,
     "server_id": 24,
     "type": "house",
@@ -6336,18 +6324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 528,
-    "server_id": 24,
-    "type": "house",
-    "name": "Домик Ванька",
-    "owner": "Vanek_Judoka",
-    "status": "Занято",
-    "x": 2018.48,
-    "y": 2766.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 529,
     "server_id": 24,
     "type": "house",
@@ -7932,6 +7908,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 661,
+    "server_id": 24,
+    "type": "house",
+    "name": "zjflai",
+    "owner": "Morffik_Maniak",
+    "status": "Занято",
+    "x": 984.2689,
+    "y": 1878.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 662,
     "server_id": 24,
     "type": "house",
@@ -8392,7 +8380,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Dedushka",
-    "owner": "Unhinged_Mode",
+    "owner": "Vizer_Kurt",
     "status": "Занято",
     "x": 1441.62,
     "y": 2567.8,
@@ -16260,6 +16248,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1359,
+    "server_id": 24,
+    "type": "house",
+    "name": "|О|Т|Д|Ы|Х|",
+    "owner": "Trans_Neft",
+    "status": "Занято",
+    "x": 1928.6,
+    "y": -1915.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1360,
     "server_id": 24,
     "type": "house",
@@ -18636,6 +18636,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1558,
+    "server_id": 24,
+    "type": "house",
+    "name": "<3 Sovhoz Corporation <3",
+    "owner": "Lincoln_Sovhoz",
+    "status": "Занято",
+    "x": 580.674,
+    "y": -1149.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1559,
     "server_id": 24,
     "type": "house",
@@ -20712,6 +20724,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1735,
+    "server_id": 24,
+    "type": "house",
+    "name": "ФЕРМА СИСИ 1",
+    "owner": "Tolsto_Pyz",
+    "status": "Занято",
+    "x": 1780.78,
+    "y": 2744.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1736,
     "server_id": 24,
     "type": "house",
@@ -21948,15 +21972,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 661,
+    "id": 361,
     "server_id": 24,
     "type": "house",
-    "name": "zjflai",
-    "owner": "Vanechka_Implored",
+    "name": "$StasHouse$",
+    "owner": "Stas_Mraz",
     "status": "Аукцион",
-    "x": 984.2689,
-    "y": 1878.91,
-    "price": 2500,
+    "x": 903.398,
+    "y": -1512.91,
+    "price": 130000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 528,
+    "server_id": 24,
+    "type": "house",
+    "name": "Домик Ванька",
+    "owner": "Vanek_Judoka",
+    "status": "Аукцион",
+    "x": 2018.48,
+    "y": 2766.55,
+    "price": 8000,
     "district": "Сан-Андреас"
   },
   {
@@ -21984,30 +22020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1359,
-    "server_id": 24,
-    "type": "house",
-    "name": "|О|Т|Д|Ы|Х|",
-    "owner": "Vanechka_Implored",
-    "status": "Аукцион",
-    "x": 1928.6,
-    "y": -1915.91,
-    "price": 2500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1558,
-    "server_id": 24,
-    "type": "house",
-    "name": "Mercery | Lot",
-    "owner": "Sos_Krutoy",
-    "status": "Аукцион",
-    "x": 580.674,
-    "y": -1149.68,
-    "price": 7000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1725,
     "server_id": 24,
     "type": "house",
@@ -22029,30 +22041,6 @@
     "x": 1783.84,
     "y": 2755.91,
     "price": 2500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1735,
-    "server_id": 24,
-    "type": "house",
-    "name": "ФЕРМА СИСИ 1",
-    "owner": "Tolsto_Pyz",
-    "status": "Аукцион",
-    "x": 1780.78,
-    "y": 2744.58,
-    "price": 2500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 357,
-    "server_id": 24,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Diki_Di",
-    "status": "Аукцион",
-    "x": 693.619,
-    "y": 1967.68,
-    "price": 115500,
     "district": "Сан-Андреас"
   },
   {
@@ -24140,6 +24128,18 @@
     "status": "Занято",
     "x": 2366.7,
     "y": 2071.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 357,
+    "server_id": 24,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Diki_Di",
+    "status": "Занято",
+    "x": 693.619,
+    "y": 1967.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
