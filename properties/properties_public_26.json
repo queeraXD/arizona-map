@@ -4800,18 +4800,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 400,
-    "server_id": 26,
-    "type": "house",
-    "name": "консервная банка",
-    "owner": "Shprot_Haraizen",
-    "status": "Занято",
-    "x": 2415.43,
-    "y": -51.5713,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 401,
     "server_id": 26,
     "type": "house",
@@ -6756,18 +6744,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 563,
-    "server_id": 26,
-    "type": "house",
-    "name": "консервная банка",
-    "owner": "Shprot_Haraizen",
-    "status": "Занято",
-    "x": 263.622,
-    "y": 1171.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 564,
     "server_id": 26,
     "type": "house",
@@ -8000,6 +7976,18 @@
     "status": "Занято",
     "x": 984.7579,
     "y": 2030.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 667,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Saymon_Torenno",
+    "status": "Занято",
+    "x": 1029.48,
+    "y": 1976.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12548,6 +12536,18 @@
     "status": "Занято",
     "x": -1915.56,
     "y": 1190.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1049,
+    "server_id": 26,
+    "type": "house",
+    "name": "squirt",
+    "owner": "Aperol_Spritz",
+    "status": "Занято",
+    "x": -1982.57,
+    "y": 1190.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25128,27 +25128,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1049,
+    "id": 400,
     "server_id": 26,
     "type": "house",
-    "name": "squirt",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -1982.57,
-    "y": 1190.26,
-    "price": 0,
+    "name": "консервная банка",
+    "owner": "Shprot_Haraizen",
+    "status": "Аукцион",
+    "x": 2415.43,
+    "y": -51.5713,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 667,
+    "id": 563,
     "server_id": 26,
     "type": "house",
-    "name": "Дом",
-    "owner": "Sosa_Cristopher",
+    "name": "консервная банка",
+    "owner": "Shprot_Haraizen",
     "status": "Аукцион",
-    "x": 1029.48,
-    "y": 1976.11,
-    "price": 1,
+    "x": 263.622,
+    "y": 1171.51,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
@@ -25156,11 +25156,11 @@
     "server_id": 26,
     "type": "house",
     "name": "afk farm",
-    "owner": "Blake_Shadow",
+    "owner": "Takayuki_Hakegawa",
     "status": "Аукцион",
     "x": -2222.18,
     "y": 1163.98,
-    "price": 500,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {

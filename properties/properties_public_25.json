@@ -21612,18 +21612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1815,
-    "server_id": 25,
-    "type": "house",
-    "name": "Майнинг ферма корпорации Моделс",
-    "owner": "Exsistence_Fans",
-    "status": "Занято",
-    "x": 1461.49,
-    "y": 2026.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1816,
     "server_id": 25,
     "type": "house",
@@ -23760,6 +23748,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1815,
+    "server_id": 25,
+    "type": "house",
+    "name": "Майнинг ферма корпорации Моделс",
+    "owner": "Exsistence_Fans",
+    "status": "Аукцион",
+    "x": 1461.49,
+    "y": 2026.69,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1851,
     "server_id": 25,
     "type": "house",
@@ -25540,7 +25540,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Danya_Laker",
+    "owner": "Ruslan_Zemka",
     "status": "Занято",
     "x": -858.014,
     "y": 1535.4,
