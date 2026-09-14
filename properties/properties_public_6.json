@@ -22121,10 +22121,10 @@
     "type": "house",
     "name": "Corleone LV",
     "owner": "Gumik_Lopez",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2358.28,
     "y": 1642.59,
-    "price": 2000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -22676,6 +22676,18 @@
     "status": "Занято",
     "x": 1804.54,
     "y": 2789.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1894,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом Бланкича 2",
+    "owner": "Esteban_Blanco",
+    "status": "Занято",
+    "x": 475.7369,
+    "y": 1394.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23633,10 +23645,10 @@
     "type": "house",
     "name": "дом путина 2",
     "owner": "Gumik_Lopez",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2657.13,
     "y": 2263.85,
-    "price": 2000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -24513,18 +24525,6 @@
     "x": 793.401,
     "y": 1991.85,
     "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1894,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом Бланкича 2",
-    "owner": "Esteban_Blanco",
-    "status": "Аукцион",
-    "x": 475.7369,
-    "y": 1394.56,
-    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
@@ -25412,6 +25412,18 @@
     "status": "Занято",
     "x": 1163.56,
     "y": -1690.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 12,
+    "server_id": 6,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Sadie_Sink",
+    "status": "Занято",
+    "x": 695.01,
+    "y": -500.134,
     "price": 0,
     "district": "Сан-Андреас"
   },
