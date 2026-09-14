@@ -1071,8 +1071,8 @@
     "id": 89,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
-    "owner": "serty",
+    "name": "40 squad",
+    "owner": "Francesco_Carbon",
     "status": "Занято",
     "x": 2014.4,
     "y": -1716.95,
@@ -3600,18 +3600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 300,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Banka_Coffe",
-    "status": "Занято",
-    "x": 2109.6,
-    "y": -1081.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 301,
     "server_id": 16,
     "type": "house",
@@ -5728,7 +5716,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Christopher_Dills",
+    "owner": "Zlappy_Faith",
     "status": "Занято",
     "x": 2257.59,
     "y": 735.9569,
@@ -8640,18 +8628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 720,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Floyd_Encanto",
-    "status": "Занято",
-    "x": 1626.67,
-    "y": 2753.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 721,
     "server_id": 16,
     "type": "house",
@@ -9307,18 +9283,6 @@
     "owner": "Jackson_Sparks",
     "status": "Занято",
     "x": -2590.92,
-    "y": 819.7999,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 776,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Floyd_Encanto",
-    "status": "Занято",
-    "x": -2576.56,
     "y": 819.7999,
     "price": 0,
     "district": "Сан-Андреас"
@@ -10316,18 +10280,6 @@
     "status": "Занято",
     "x": -218.123,
     "y": 2481.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 862,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Floyd_Encanto",
-    "status": "Занято",
-    "x": -222.6519,
-    "y": 2496.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14924,18 +14876,6 @@
     "status": "Занято",
     "x": -2477.25,
     "y": 1244.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1246,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Floyd_Encanto",
-    "status": "Занято",
-    "x": -2477.93,
-    "y": 1264.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20544,18 +20484,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1715,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Floyd_Encanto",
-    "status": "Занято",
-    "x": 2787.91,
-    "y": 2260.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1716,
     "server_id": 16,
     "type": "house",
@@ -20588,18 +20516,6 @@
     "status": "Занято",
     "x": 2824.04,
     "y": 2268.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1719,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Floyd_Encanto",
-    "status": "Занято",
-    "x": 2816.49,
-    "y": 2268.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21952,7 +21868,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Zlappy_Faith",
+    "owner": "Alex_Covalli",
     "status": "Занято",
     "x": 102.345,
     "y": 977.08,
@@ -22440,6 +22356,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 300,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Banka_Coffe",
+    "status": "Аукцион",
+    "x": 2109.6,
+    "y": -1081.15,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 720,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Floyd_Encanto",
+    "status": "Аукцион",
+    "x": 1626.67,
+    "y": 2753.24,
+    "price": 3900,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 776,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Floyd_Encanto",
+    "status": "Аукцион",
+    "x": -2576.56,
+    "y": 819.7999,
+    "price": 3900,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 822,
     "server_id": 16,
     "type": "house",
@@ -22452,6 +22404,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 862,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Floyd_Encanto",
+    "status": "Аукцион",
+    "x": -222.6519,
+    "y": 2496.1,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1246,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Floyd_Encanto",
+    "status": "Аукцион",
+    "x": -2477.93,
+    "y": 1264.11,
+    "price": 3900,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1674,
     "server_id": 16,
     "type": "house",
@@ -22461,6 +22437,30 @@
     "x": 2003.69,
     "y": 2154.53,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1715,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Floyd_Encanto",
+    "status": "Аукцион",
+    "x": 2787.91,
+    "y": 2260.95,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1719,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Floyd_Encanto",
+    "status": "Аукцион",
+    "x": 2816.49,
+    "y": 2268.81,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {

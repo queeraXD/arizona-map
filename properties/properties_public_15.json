@@ -5619,7 +5619,7 @@
     "id": 468,
     "server_id": 15,
     "type": "house",
-    "name": "Дом",
+    "name": "домик бомжа",
     "owner": "Zakar_Adidas",
     "status": "Занято",
     "x": 2368.36,
@@ -21336,6 +21336,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 352,
+    "server_id": 15,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "VergiI_Santiz",
+    "status": "Аукцион",
+    "x": 1256.55,
+    "y": 274.927,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 15,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "VergiI_Santiz",
+    "status": "Аукцион",
+    "x": -2103.59,
+    "y": -2342.04,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 15,
     "type": "business",
@@ -23424,18 +23448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 358,
-    "server_id": 15,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "VergiI_Santiz",
-    "status": "Занято",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 39,
     "server_id": 15,
     "type": "business",
@@ -23720,18 +23732,6 @@
     "status": "Занято",
     "x": 1071.66,
     "y": -1438.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 352,
-    "server_id": 15,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "VergiI_Santiz",
-    "status": "Занято",
-    "x": 1256.55,
-    "y": 274.927,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24328,7 +24328,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Egor_Sheliakin",
+    "owner": "Myxa_Helic",
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,

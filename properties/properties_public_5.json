@@ -2196,6 +2196,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 184,
+    "server_id": 5,
+    "type": "house",
+    "name": "Miami",
+    "owner": "Miller_Comaro",
+    "status": "Занято",
+    "x": 693.841,
+    "y": -1645.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 185,
     "server_id": 5,
     "type": "house",
@@ -8871,7 +8883,7 @@
     "id": 741,
     "server_id": 5,
     "type": "house",
-    "name": "Дом",
+    "name": "GYMCLUB",
     "owner": "Harlay_LaMonte",
     "status": "Занято",
     "x": -2860.27,
@@ -9392,18 +9404,6 @@
     "status": "Занято",
     "x": 1115.59,
     "y": -2252.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 785,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2513.5,
-    "y": 867.418,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23100,18 +23100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1931,
-    "server_id": 5,
-    "type": "house",
-    "name": "имя отсутствует",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 2487.06,
-    "y": -1410.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1932,
     "server_id": 5,
     "type": "house",
@@ -23420,18 +23408,6 @@
     "status": "Занято",
     "x": 2492.21,
     "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1958,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 2476.46,
-    "y": -1376.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25056,15 +25032,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 184,
+    "id": 785,
     "server_id": 5,
     "type": "house",
-    "name": "Miami",
-    "owner": "Miller_Comaro",
+    "name": "Без названия",
+    "owner": "Igoryan_Toretto",
     "status": "Аукцион",
-    "x": 693.841,
-    "y": -1645.77,
-    "price": 33000,
+    "x": -2513.5,
+    "y": 867.418,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -25113,6 +25089,42 @@
     "x": 2462.77,
     "y": 134.779,
     "price": 120000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1931,
+    "server_id": 5,
+    "type": "house",
+    "name": "имя отсутствует",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": 2487.06,
+    "y": -1410.38,
+    "price": 10555,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1958,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": 2476.46,
+    "y": -1376.54,
+    "price": 10555,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 195,
+    "server_id": 5,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Billy_Min",
+    "status": "Аукцион",
+    "x": -1548.81,
+    "y": 673.91,
+    "price": 130000,
     "district": "Сан-Андреас"
   },
   {
@@ -28088,18 +28100,6 @@
     "status": "Занято",
     "x": -2022.61,
     "y": 459.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 195,
-    "server_id": 5,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Billy_Min",
-    "status": "Занято",
-    "x": -1548.81,
-    "y": 673.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
