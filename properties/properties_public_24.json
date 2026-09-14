@@ -3048,6 +3048,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 254,
+    "server_id": 24,
+    "type": "house",
+    "name": "Friezes Bombino",
+    "owner": "Macan_Young",
+    "status": "Занято",
+    "x": 2373.96,
+    "y": 71.0979,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 255,
     "server_id": 24,
     "type": "house",
@@ -6312,18 +6324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 528,
-    "server_id": 24,
-    "type": "house",
-    "name": "Домик Ванька",
-    "owner": "Vanek_Judoka",
-    "status": "Занято",
-    "x": 2018.48,
-    "y": 2766.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 529,
     "server_id": 24,
     "type": "house",
@@ -7256,18 +7256,6 @@
     "status": "Занято",
     "x": -1589.79,
     "y": 2706.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 607,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": -1603.7,
-    "y": 2689.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9152,18 +9140,6 @@
     "status": "Занято",
     "x": -2660.11,
     "y": 803.0839,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 766,
-    "server_id": 24,
-    "type": "house",
-    "name": "Brooks and Blackseekers.",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": -2687.81,
-    "y": 803.0819,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20724,18 +20700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1733,
-    "server_id": 24,
-    "type": "house",
-    "name": "ФЕРМА СИСИ 3",
-    "owner": "Gangsta_Babe",
-    "status": "Занято",
-    "x": 1783.84,
-    "y": 2755.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1734,
     "server_id": 24,
     "type": "house",
@@ -21984,18 +21948,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 254,
-    "server_id": 24,
-    "type": "house",
-    "name": "Friezes Bombino",
-    "owner": "Prospero_Krutoy",
-    "status": "Аукцион",
-    "x": 2373.96,
-    "y": 71.0979,
-    "price": 7500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 361,
     "server_id": 24,
     "type": "house",
@@ -22005,6 +21957,30 @@
     "x": 903.398,
     "y": -1512.91,
     "price": 135000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 528,
+    "server_id": 24,
+    "type": "house",
+    "name": "Домик Ванька",
+    "owner": "Vanek_Judoka",
+    "status": "Аукцион",
+    "x": 2018.48,
+    "y": 2766.55,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 607,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": -1603.7,
+    "y": 2689.76,
+    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -22020,6 +21996,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 766,
+    "server_id": 24,
+    "type": "house",
+    "name": "Brooks and Blackseekers.",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": -2687.81,
+    "y": 803.0819,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1304,
     "server_id": 24,
     "type": "house",
@@ -22029,6 +22017,18 @@
     "x": -2576.42,
     "y": -198.7969,
     "price": 7500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1733,
+    "server_id": 24,
+    "type": "house",
+    "name": "ФЕРМА СИСИ 3",
+    "owner": "Gangsta_Babe",
+    "status": "Аукцион",
+    "x": 1783.84,
+    "y": 2755.91,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
@@ -24892,7 +24892,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Wayne_Deeplace",
+    "owner": "Nikolay_Moore",
     "status": "Занято",
     "x": 2351.41,
     "y": 2405.59,

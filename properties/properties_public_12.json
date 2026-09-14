@@ -7572,6 +7572,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 631,
+    "server_id": 12,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Win_Dow",
+    "status": "Занято",
+    "x": -260.5419,
+    "y": 1120.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 632,
     "server_id": 12,
     "type": "house",
@@ -23076,18 +23088,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1925,
-    "server_id": 12,
-    "type": "house",
-    "name": "Собственно FIBYS",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": 2601.64,
-    "y": 2192.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1926,
     "server_id": 12,
     "type": "house",
@@ -23796,18 +23796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 631,
-    "server_id": 12,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Win_Dow",
-    "status": "Аукцион",
-    "x": -260.5419,
-    "y": 1120.06,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1845,
     "server_id": 12,
     "type": "house",
@@ -23817,6 +23805,18 @@
     "x": 2492.16,
     "y": -1359.1,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1925,
+    "server_id": 12,
+    "type": "house",
+    "name": "Собственно FIBYS",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": 2601.64,
+    "y": 2192.71,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {
@@ -27052,7 +27052,7 @@
     "server_id": 12,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Brent_Peterson",
+    "owner": "Vladimir_Nocap",
     "status": "Занято",
     "x": -243.623,
     "y": -1364.43,

@@ -6624,18 +6624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 552,
-    "server_id": 8,
-    "type": "house",
-    "name": "nowman fc",
-    "owner": "Dorognoe_Radio",
-    "status": "Занято",
-    "x": 465.75,
-    "y": 1147.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 553,
     "server_id": 8,
     "type": "house",
@@ -6716,6 +6704,18 @@
     "status": "Занято",
     "x": 707.2949,
     "y": 1284.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 560,
+    "server_id": 8,
+    "type": "house",
+    "name": "TITOVSKIY LA ELITE",
+    "owner": "Alexandro_Mechutti",
+    "status": "Занято",
+    "x": 222.9839,
+    "y": 1109.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10068,18 +10068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 840,
-    "server_id": 8,
-    "type": "house",
-    "name": "OXIDIZE турбопацаны 4",
-    "owner": "Dorognoe_Radio",
-    "status": "Занято",
-    "x": -2158.59,
-    "y": 830.713,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 841,
     "server_id": 8,
     "type": "house",
@@ -12356,18 +12344,6 @@
     "status": "Занято",
     "x": -2434.29,
     "y": 1311.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1032,
-    "server_id": 8,
-    "type": "house",
-    "name": "marshmallows house",
-    "owner": "Dorognoe_Radio",
-    "status": "Занято",
-    "x": -2433.77,
-    "y": 1318.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15032,18 +15008,6 @@
     "status": "Занято",
     "x": -2791.59,
     "y": 200.5229,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1255,
-    "server_id": 8,
-    "type": "house",
-    "name": "Основные ресурсы",
-    "owner": "Dorognoe_Radio",
-    "status": "Занято",
-    "x": -2791.9,
-    "y": 212.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20048,18 +20012,6 @@
     "status": "Занято",
     "x": -1970.49,
     "y": 1272.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1673,
-    "server_id": 8,
-    "type": "house",
-    "name": "Zema rulit",
-    "owner": "Zema_Carter",
-    "status": "Занято",
-    "x": -2905.2,
-    "y": 1154.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25764,15 +25716,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 560,
+    "id": 552,
     "server_id": 8,
     "type": "house",
-    "name": "TITOVSKIY LA ELITE",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 222.9839,
-    "y": 1109.19,
-    "price": 0,
+    "name": "nowman fc",
+    "owner": "Dorognoe_Radio",
+    "status": "Аукцион",
+    "x": 465.75,
+    "y": 1147.6,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 840,
+    "server_id": 8,
+    "type": "house",
+    "name": "OXIDIZE турбопацаны 4",
+    "owner": "Dorognoe_Radio",
+    "status": "Аукцион",
+    "x": -2158.59,
+    "y": 830.713,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1032,
+    "server_id": 8,
+    "type": "house",
+    "name": "marshmallows house",
+    "owner": "Dorognoe_Radio",
+    "status": "Аукцион",
+    "x": -2433.77,
+    "y": 1318.95,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1255,
+    "server_id": 8,
+    "type": "house",
+    "name": "Основные ресурсы",
+    "owner": "Dorognoe_Radio",
+    "status": "Аукцион",
+    "x": -2791.9,
+    "y": 212.0,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1673,
+    "server_id": 8,
+    "type": "house",
+    "name": "Zema rulit",
+    "owner": "Zema_Carter",
+    "status": "Аукцион",
+    "x": -2905.2,
+    "y": 1154.76,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
