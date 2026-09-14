@@ -984,6 +984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 82,
+    "server_id": 5,
+    "type": "house",
+    "name": "Sexolog Empire",
+    "owner": "Tyler_Sexolog",
+    "status": "Занято",
+    "x": 2069.08,
+    "y": -1628.9,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 83,
     "server_id": 5,
     "type": "house",
@@ -4848,18 +4860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 405,
-    "server_id": 5,
-    "type": "house",
-    "name": "Sever_Home",
-    "owner": "Severus_Snape",
-    "status": "Занято",
-    "x": 1451.08,
-    "y": 374.286,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 406,
     "server_id": 5,
     "type": "house",
@@ -4872,54 +4872,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 407,
-    "server_id": 5,
-    "type": "house",
-    "name": "Sever_Home",
-    "owner": "Severus_Snape",
-    "status": "Занято",
-    "x": 1413.46,
-    "y": 362.799,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 408,
-    "server_id": 5,
-    "type": "house",
-    "name": "Sever_Home",
-    "owner": "Severus_Snape",
-    "status": "Занято",
-    "x": 1428.29,
-    "y": 355.7619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 409,
-    "server_id": 5,
-    "type": "house",
-    "name": "Sever_Home",
-    "owner": "Severus_Snape",
-    "status": "Занято",
-    "x": 1408.62,
-    "y": 345.282,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 410,
-    "server_id": 5,
-    "type": "house",
-    "name": "Sever_Home",
-    "owner": "Severus_Snape",
-    "status": "Занято",
-    "x": 1402.4,
-    "y": 333.4599,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 411,
     "server_id": 5,
     "type": "house",
@@ -4928,30 +4880,6 @@
     "status": "Занято",
     "x": -2434.38,
     "y": -694.4149,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 412,
-    "server_id": 5,
-    "type": "house",
-    "name": "Sever_Home",
-    "owner": "Severus_Snape",
-    "status": "Занято",
-    "x": 1435.43,
-    "y": 334.625,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 413,
-    "server_id": 5,
-    "type": "house",
-    "name": "Sever_Home",
-    "owner": "Severus_Snape",
-    "status": "Занято",
-    "x": 1461.43,
-    "y": 341.859,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10976,6 +10904,18 @@
     "status": "Занято",
     "x": -2307.46,
     "y": 944.492,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 917,
+    "server_id": 5,
+    "type": "house",
+    "name": "Stromberg Inc.",
+    "owner": "Santal_Stromberg",
+    "status": "Занято",
+    "x": -2325.86,
+    "y": 944.7849,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23703,7 +23643,7 @@
     "id": 1981,
     "server_id": 5,
     "type": "house",
-    "name": "Дом номер 4 (Улуч)",
+    "name": "Дом номер 4 (Зловещ.Монеты)",
     "owner": "Sasha_Pepsi",
     "status": "Занято",
     "x": 2623.93,
@@ -25044,15 +24984,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 82,
+    "id": 405,
     "server_id": 5,
     "type": "house",
-    "name": "Miami",
-    "owner": "Miller_Comaro",
+    "name": "Sever_Home",
+    "owner": "Severus_Snape",
     "status": "Аукцион",
-    "x": 2069.08,
-    "y": -1628.9,
-    "price": 44000,
+    "x": 1451.08,
+    "y": 374.286,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 407,
+    "server_id": 5,
+    "type": "house",
+    "name": "Sever_Home",
+    "owner": "Severus_Snape",
+    "status": "Аукцион",
+    "x": 1413.46,
+    "y": 362.799,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 408,
+    "server_id": 5,
+    "type": "house",
+    "name": "Sever_Home",
+    "owner": "Severus_Snape",
+    "status": "Аукцион",
+    "x": 1428.29,
+    "y": 355.7619,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 409,
+    "server_id": 5,
+    "type": "house",
+    "name": "Sever_Home",
+    "owner": "Severus_Snape",
+    "status": "Аукцион",
+    "x": 1408.62,
+    "y": 345.282,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 410,
+    "server_id": 5,
+    "type": "house",
+    "name": "Sever_Home",
+    "owner": "Severus_Snape",
+    "status": "Аукцион",
+    "x": 1402.4,
+    "y": 333.4599,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 412,
+    "server_id": 5,
+    "type": "house",
+    "name": "Sever_Home",
+    "owner": "Severus_Snape",
+    "status": "Аукцион",
+    "x": 1435.43,
+    "y": 334.625,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 413,
+    "server_id": 5,
+    "type": "house",
+    "name": "Sever_Home",
+    "owner": "Severus_Snape",
+    "status": "Аукцион",
+    "x": 1461.43,
+    "y": 341.859,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -25065,18 +25077,6 @@
     "x": -2373.01,
     "y": 851.976,
     "price": 10000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 917,
-    "server_id": 5,
-    "type": "house",
-    "name": "АЛЕКСЕЙ 917",
-    "owner": "Alexei_Shish",
-    "status": "Аукцион",
-    "x": -2325.86,
-    "y": 944.7849,
-    "price": 15000,
     "district": "Сан-Андреас"
   },
   {

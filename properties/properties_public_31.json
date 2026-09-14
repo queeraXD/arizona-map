@@ -1824,6 +1824,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 152,
+    "server_id": 31,
+    "type": "house",
+    "name": "Крутой дом ",
+    "owner": "Patrik_Wilson",
+    "status": "Занято",
+    "x": 1103.22,
+    "y": -1069.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 153,
     "server_id": 31,
     "type": "house",
@@ -6372,18 +6384,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 532,
-    "server_id": 31,
-    "type": "house",
-    "name": "ПолностьюВкаченныйДом",
-    "owner": "Kot_Anderson",
-    "status": "Занято",
-    "x": 1931.33,
-    "y": 2721.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 533,
     "server_id": 31,
     "type": "house",
@@ -7152,18 +7152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 597,
-    "server_id": 31,
-    "type": "house",
-    "name": "НАБОР АРХИТЕКТЕКТОРА + ДЕП.УСЛ.",
-    "owner": "Kot_Anderson",
-    "status": "Занято",
-    "x": -1450.71,
-    "y": 2691.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 598,
     "server_id": 31,
     "type": "house",
@@ -7180,7 +7168,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Pisunchiki",
-    "owner": "Tumer_Nimvor",
+    "owner": "Michail_Shtyh",
     "status": "Занято",
     "x": -1482.54,
     "y": 2702.66,
@@ -7244,18 +7232,6 @@
     "status": "Занято",
     "x": -1568.17,
     "y": 2629.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 605,
-    "server_id": 31,
-    "type": "house",
-    "name": "НАБОР АРХИТЕКТЕКТОРА + ДЕП.УСЛ.",
-    "owner": "Kot_Anderson",
-    "status": "Занято",
-    "x": -1577.62,
-    "y": 2686.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9224,18 +9200,6 @@
     "status": "Занято",
     "x": -2594.19,
     "y": 768.164,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 770,
-    "server_id": 31,
-    "type": "house",
-    "name": "НАБОР АРХИТЕКТЕКТОРА + ДЕП.УСЛ.",
-    "owner": "Kot_Anderson",
-    "status": "Занято",
-    "x": -2594.19,
-    "y": 785.1649,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16140,18 +16104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1347,
-    "server_id": 31,
-    "type": "house",
-    "name": "НАБОР АРХИТЕКТЕКТОРА + ДЕП.УСЛ.",
-    "owner": "Kot_Anderson",
-    "status": "Занято",
-    "x": 1513.34,
-    "y": 2565.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1348,
     "server_id": 31,
     "type": "house",
@@ -19612,7 +19564,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Какашки",
-    "owner": "Christopher_Crimson",
+    "owner": "Billy_Sweizy",
     "status": "Занято",
     "x": -20.7702,
     "y": 1388.16,
@@ -23340,15 +23292,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 152,
+    "id": 532,
     "server_id": 31,
     "type": "house",
-    "name": "Крутой дом ",
-    "owner": "Porovozik_Bdsm",
+    "name": "Набор архитектора ,Игровая ",
+    "owner": "Kot_Anderson",
     "status": "Аукцион",
-    "x": 1103.22,
-    "y": -1069.38,
-    "price": 60000,
+    "x": 1931.33,
+    "y": 2721.72,
+    "price": 50000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 597,
+    "server_id": 31,
+    "type": "house",
+    "name": "НАБОР АРХИТЕКТЕКТОРА + ДЕП.УСЛ.",
+    "owner": "Kot_Anderson",
+    "status": "Аукцион",
+    "x": -1450.71,
+    "y": 2691.05,
+    "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 605,
+    "server_id": 31,
+    "type": "house",
+    "name": "НАБОР АРХИТЕКТЕКТОРА + ДЕП.УСЛ.",
+    "owner": "Kot_Anderson",
+    "status": "Аукцион",
+    "x": -1577.62,
+    "y": 2686.93,
+    "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 770,
+    "server_id": 31,
+    "type": "house",
+    "name": "НАБОР АРХИТЕКТЕКТОРА + ДЕП.УСЛ.",
+    "owner": "Kot_Anderson",
+    "status": "Аукцион",
+    "x": -2594.19,
+    "y": 785.1649,
+    "price": 40000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1347,
+    "server_id": 31,
+    "type": "house",
+    "name": "НАБОР АРХИТЕКТЕКТОРА + ДЕП.УСЛ.",
+    "owner": "Kot_Anderson",
+    "status": "Аукцион",
+    "x": 1513.34,
+    "y": 2565.43,
+    "price": 50000,
     "district": "Сан-Андреас"
   },
   {
@@ -23361,30 +23361,6 @@
     "x": 1879.19,
     "y": 2339.5,
     "price": 158290,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 232,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Boris_Brytva",
-    "status": "Аукцион",
-    "x": 1071.66,
-    "y": -1438.98,
-    "price": 500000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 301,
-    "server_id": 31,
-    "type": "business",
-    "name": "Лотерейная",
-    "owner": "Boris_Brytva",
-    "status": "Аукцион",
-    "x": 1288.7,
-    "y": 271.232,
-    "price": 800000,
     "district": "Сан-Андреас"
   },
   {
@@ -25764,6 +25740,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 232,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Boris_Brytva",
+    "status": "Занято",
+    "x": 1071.66,
+    "y": -1438.98,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 352,
     "server_id": 31,
     "type": "business",
@@ -27020,6 +27008,18 @@
     "status": "Занято",
     "x": -2591.49,
     "y": 170.493,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 301,
+    "server_id": 31,
+    "type": "business",
+    "name": "Лотерейная",
+    "owner": "Boris_Brytva",
+    "status": "Занято",
+    "x": 1288.7,
+    "y": 271.232,
     "price": 0,
     "district": "Сан-Андреас"
   },

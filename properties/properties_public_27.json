@@ -4288,7 +4288,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Dogar corporation",
-    "owner": "Lamar_Harris",
+    "owner": "Satou_Kazuma",
     "status": "Занято",
     "x": 648.853,
     "y": -1489.64,
@@ -8144,18 +8144,6 @@
     "status": "Занято",
     "x": 985.354,
     "y": 2343.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 682,
-    "server_id": 27,
-    "type": "house",
-    "name": "Skromniy Home",
-    "owner": "Ihor_Skromniy",
-    "status": "Занято",
-    "x": 1032.54,
-    "y": 2316.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24360,6 +24348,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 682,
+    "server_id": 27,
+    "type": "house",
+    "name": "Skromniy Home",
+    "owner": "Ihor_Skromniy",
+    "status": "Аукцион",
+    "x": 1032.54,
+    "y": 2316.12,
+    "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1614,
     "server_id": 27,
     "type": "house",
@@ -24465,18 +24465,6 @@
     "x": 2476.28,
     "y": -1376.27,
     "price": 5500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 259,
-    "server_id": 27,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Latimer_Hill",
-    "status": "Аукцион",
-    "x": 1404.09,
-    "y": 51.2512,
-    "price": 234000,
     "district": "Сан-Андреас"
   },
   {
@@ -26468,6 +26456,18 @@
     "status": "Занято",
     "x": 2330.59,
     "y": 2533.61,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 259,
+    "server_id": 27,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Latimer_Hill",
+    "status": "Занято",
+    "x": 1404.09,
+    "y": 51.2512,
     "price": 0,
     "district": "Сан-Андреас"
   },

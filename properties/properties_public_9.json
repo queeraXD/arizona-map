@@ -18264,18 +18264,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1524,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом Серго",
-    "owner": "Actavis_Wizzard",
-    "status": "Занято",
-    "x": 264.0419,
-    "y": -1765.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1525,
     "server_id": 9,
     "type": "house",
@@ -23916,6 +23904,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1524,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом Серго",
+    "owner": "Actavis_Wizzard",
+    "status": "Аукцион",
+    "x": 264.0419,
+    "y": -1765.46,
+    "price": 55000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1923,
     "server_id": 9,
     "type": "house",
@@ -23925,18 +23925,6 @@
     "x": 2476.36,
     "y": -1359.1,
     "price": 27777,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 201,
-    "server_id": 9,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Balagan_Quartz",
-    "status": "Аукцион",
-    "x": -104.79,
-    "y": -309.98,
-    "price": 155000,
     "district": "Сан-Андреас"
   },
   {
@@ -26988,6 +26976,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 201,
+    "server_id": 9,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Balagan_Quartz",
+    "status": "Занято",
+    "x": -104.79,
+    "y": -309.98,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 202,
     "server_id": 9,
     "type": "business",
@@ -27088,7 +27088,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Sergey_Babruiske",
+    "owner": "Angel_Babruiske",
     "status": "Занято",
     "x": 2327.86,
     "y": 2421.25,
