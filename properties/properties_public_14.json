@@ -4140,18 +4140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 345,
-    "server_id": 14,
-    "type": "house",
-    "name": "халупа",
-    "owner": "Jony_Blade",
-    "status": "Занято",
-    "x": 1245.81,
-    "y": -902.788,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 346,
     "server_id": 14,
     "type": "house",
@@ -10124,6 +10112,18 @@
     "status": "Занято",
     "x": 253.229,
     "y": -1269.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 844,
+    "server_id": 14,
+    "type": "house",
+    "name": "Депозитные условия",
+    "owner": "Roxxie_Night",
+    "status": "Занято",
+    "x": -2227.81,
+    "y": 1080.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16372,7 +16372,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Владеет Бичара",
-    "owner": "Klewer_Umpsex",
+    "owner": "Angel_Foofyf",
     "status": "Занято",
     "x": 1112.2,
     "y": -1557.42,
@@ -18356,30 +18356,6 @@
     "status": "Занято",
     "x": 782.799,
     "y": -1464.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1532,
-    "server_id": 14,
-    "type": "house",
-    "name": "ДОМ ПУБЕРТАТНИКА!",
-    "owner": "Kodjio_Lemonte",
-    "status": "Занято",
-    "x": 771.1309,
-    "y": -1510.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1533,
-    "server_id": 14,
-    "type": "house",
-    "name": "ДОМ ПУБЕРТАТНИКА!",
-    "owner": "Kodjio_Lemonte",
-    "status": "Занято",
-    "x": 761.054,
-    "y": -1564.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22071,7 +22047,7 @@
     "id": 1847,
     "server_id": 14,
     "type": "house",
-    "name": "братик мопс и пес патрон",
+    "name": "STFU!",
     "owner": "Amelia_Valentine",
     "status": "Занято",
     "x": 2227.22,
@@ -23664,15 +23640,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 844,
+    "id": 345,
     "server_id": 14,
     "type": "house",
-    "name": "Депозитные условия",
-    "owner": "Roxxie_Night",
+    "name": "халупа",
+    "owner": "Jony_Blade",
     "status": "Аукцион",
-    "x": -2227.81,
-    "y": 1080.63,
-    "price": 15000,
+    "x": 1245.81,
+    "y": -902.788,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -23685,6 +23661,30 @@
     "x": 2781.94,
     "y": -1358.53,
     "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1532,
+    "server_id": 14,
+    "type": "house",
+    "name": "ДОМ ПУБЕРТАТНИКА!",
+    "owner": "Kodjio_Lemonte",
+    "status": "Аукцион",
+    "x": 771.1309,
+    "y": -1510.67,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1533,
+    "server_id": 14,
+    "type": "house",
+    "name": "ДОМ ПУБЕРТАТНИКА!",
+    "owner": "Kodjio_Lemonte",
+    "status": "Аукцион",
+    "x": 761.054,
+    "y": -1564.2,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {

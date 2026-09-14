@@ -7920,18 +7920,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 667,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sosa_Cristopher",
-    "status": "Занято",
-    "x": 1029.48,
-    "y": 1976.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 668,
     "server_id": 26,
     "type": "house",
@@ -8068,7 +8056,7 @@
     "server_id": 26,
     "type": "house",
     "name": "селл фулл моно ",
-    "owner": "Wuddy_Overprice",
+    "owner": "Babaevskiy_Babaev",
     "status": "Занято",
     "x": -2626.44,
     "y": 2291.9,
@@ -10100,18 +10088,6 @@
     "status": "Занято",
     "x": -2158.05,
     "y": 1148.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 850,
-    "server_id": 26,
-    "type": "house",
-    "name": "afk farm",
-    "owner": "Blake_Shadow",
-    "status": "Занято",
-    "x": -2222.18,
-    "y": 1163.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14988,6 +14964,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1259,
+    "server_id": 26,
+    "type": "house",
+    "name": "tik tok spuxx samp",
+    "owner": "Vitaliy_Sakura",
+    "status": "Занято",
+    "x": -2358.62,
+    "y": 656.7349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1260,
     "server_id": 26,
     "type": "house",
@@ -15436,7 +15424,7 @@
     "server_id": 26,
     "type": "house",
     "name": "40 squad",
-    "owner": "Wuddy_Overprice",
+    "owner": "Vitaliy_Sakura",
     "status": "Занято",
     "x": -2524.31,
     "y": -145.865,
@@ -20228,6 +20216,18 @@
     "status": "Занято",
     "x": -2048.07,
     "y": 786.7789,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1700,
+    "server_id": 26,
+    "type": "house",
+    "name": "tik tok spuxx samp",
+    "owner": "Saymon_Torenno",
+    "status": "Занято",
+    "x": 2660.39,
+    "y": 750.0989,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25092,6 +25092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 667,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sosa_Cristopher",
+    "status": "Аукцион",
+    "x": 1029.48,
+    "y": 1976.11,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 669,
     "server_id": 26,
     "type": "house",
@@ -25104,6 +25116,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 850,
+    "server_id": 26,
+    "type": "house",
+    "name": "afk farm",
+    "owner": "Blake_Shadow",
+    "status": "Аукцион",
+    "x": -2222.18,
+    "y": 1163.98,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1001,
     "server_id": 26,
     "type": "house",
@@ -25112,18 +25136,6 @@
     "status": "Аукцион",
     "x": -2369.51,
     "y": 1121.8,
-    "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1259,
-    "server_id": 26,
-    "type": "house",
-    "name": "tik tok spuxx samp",
-    "owner": "Tom_Nikollenko",
-    "status": "Аукцион",
-    "x": -2358.62,
-    "y": 656.7349,
     "price": 100,
     "district": "Сан-Андреас"
   },
@@ -25164,18 +25176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1700,
-    "server_id": 26,
-    "type": "house",
-    "name": "tik tok spuxx samp",
-    "owner": "Tom_Nikollenko",
-    "status": "Аукцион",
-    "x": 2660.39,
-    "y": 750.0989,
-    "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1959,
     "server_id": 26,
     "type": "house",
@@ -25185,6 +25185,30 @@
     "x": -2619.74,
     "y": 845.3449,
     "price": 870,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 82,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Wuddy_Overprice",
+    "status": "Аукцион",
+    "x": 1879.19,
+    "y": 2339.5,
+    "price": 180000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Wuddy_Overprice",
+    "status": "Аукцион",
+    "x": 2366.7,
+    "y": 2071.11,
+    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -26928,18 +26952,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 82,
-    "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Wuddy_Overprice",
-    "status": "Занято",
-    "x": 1879.19,
-    "y": 2339.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 83,
     "server_id": 26,
     "type": "business",
@@ -27260,18 +27272,6 @@
     "status": "Занято",
     "x": 2392.56,
     "y": 2042.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Wuddy_Overprice",
-    "status": "Занято",
-    "x": 2366.7,
-    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },

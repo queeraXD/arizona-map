@@ -627,7 +627,7 @@
     "id": 52,
     "server_id": 28,
     "type": "house",
-    "name": "фулл улучшения",
+    "name": "Форма Голоса?",
     "owner": "Marin_Kitagawa",
     "status": "Занято",
     "x": 2148.39,
@@ -639,7 +639,7 @@
     "id": 53,
     "server_id": 28,
     "type": "house",
-    "name": "фулл улучшения",
+    "name": "Твое Имя?",
     "owner": "Marin_Kitagawa",
     "status": "Занято",
     "x": 2146.79,
@@ -903,7 +903,7 @@
     "id": 75,
     "server_id": 28,
     "type": "house",
-    "name": "LOVEC STU FAM",
+    "name": "Звездное Дитя?",
     "owner": "Marin_Kitagawa",
     "status": "Занято",
     "x": 2327.28,
@@ -3664,7 +3664,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Tribal Ezzy",
-    "owner": "Angel_Pine",
+    "owner": "Racing_Bulls",
     "status": "Занято",
     "x": 1895.99,
     "y": -1064.77,
@@ -7992,18 +7992,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 669,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": 1030.09,
-    "y": 2028.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 670,
     "server_id": 28,
     "type": "house",
@@ -8036,18 +8024,6 @@
     "status": "Занято",
     "x": 1084.59,
     "y": 1976.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 673,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": 930.3229,
-    "y": 1928.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8096,18 +8072,6 @@
     "status": "Занято",
     "x": 886.143,
     "y": 2047.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 678,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом ",
-    "owner": "Toxa_Devils",
-    "status": "Занято",
-    "x": 956.921,
-    "y": 2270.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11488,7 +11452,7 @@
     "server_id": 28,
     "type": "house",
     "name": "ame blessee",
-    "owner": "Marcus_Bennett",
+    "owner": "Bite_Gromov",
     "status": "Занято",
     "x": -2187.12,
     "y": 743.71,
@@ -19152,6 +19116,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1602,
+    "server_id": 28,
+    "type": "house",
+    "name": "tik tok spuxx samp",
+    "owner": "Artema_Details",
+    "status": "Занято",
+    "x": 1754.71,
+    "y": 2736.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1603,
     "server_id": 28,
     "type": "house",
@@ -20696,6 +20672,18 @@
     "status": "Занято",
     "x": 2615.11,
     "y": -1233.51,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1733,
+    "server_id": 28,
+    "type": "house",
+    "name": "tik tok spuxx samp",
+    "owner": "Dmitry_Vladimirov",
+    "status": "Занято",
+    "x": 2615.11,
+    "y": -1224.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22284,6 +22272,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 669,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kedroviy_Oreh",
+    "status": "Аукцион",
+    "x": 1030.09,
+    "y": 2028.11,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 673,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kedroviy_Oreh",
+    "status": "Аукцион",
+    "x": 930.3229,
+    "y": 1928.11,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 678,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом ",
+    "owner": "Toxa_Devils",
+    "status": "Аукцион",
+    "x": 956.921,
+    "y": 2270.92,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 904,
     "server_id": 28,
     "type": "house",
@@ -22308,18 +22332,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1602,
-    "server_id": 28,
-    "type": "house",
-    "name": "tik tok spuxx samp",
-    "owner": "Tom_Nikollenko",
-    "status": "Аукцион",
-    "x": 1754.71,
-    "y": 2736.07,
-    "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1658,
     "server_id": 28,
     "type": "house",
@@ -22332,27 +22344,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1733,
-    "server_id": 28,
-    "type": "house",
-    "name": "tik tok spuxx samp",
-    "owner": "Tom_Nikollenko",
-    "status": "Аукцион",
-    "x": 2615.11,
-    "y": -1224.79,
-    "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1742,
     "server_id": 28,
     "type": "house",
     "name": "tik tok spuxx samp",
-    "owner": "Tom_Nikollenko",
+    "owner": "Cherniy_Russkiy",
     "status": "Аукцион",
     "x": 2621.05,
     "y": 713.3419,
-    "price": 100,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -22365,6 +22365,18 @@
     "x": 2532.51,
     "y": 719.484,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 219,
+    "server_id": 28,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Maximus_Soprano",
+    "status": "Аукцион",
+    "x": 2824.77,
+    "y": 1290.68,
+    "price": 110000,
     "district": "Сан-Андреас"
   },
   {
@@ -25556,18 +25568,6 @@
     "status": "Занято",
     "x": 1500.24,
     "y": -1628.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 219,
-    "server_id": 28,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Maximus_Soprano",
-    "status": "Занято",
-    "x": 2824.77,
-    "y": 1290.68,
     "price": 0,
     "district": "Сан-Андреас"
   },

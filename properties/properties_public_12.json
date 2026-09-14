@@ -20727,7 +20727,7 @@
     "id": 1728,
     "server_id": 12,
     "type": "house",
-    "name": "sell",
+    "name": "btc+деп",
     "owner": "Leo_Scott",
     "status": "Занято",
     "x": -760.695,
@@ -22128,6 +22128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1845,
+    "server_id": 12,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Arslan_Ihsanov",
+    "status": "Занято",
+    "x": 2492.16,
+    "y": -1359.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1846,
     "server_id": 12,
     "type": "house",
@@ -22143,7 +22155,7 @@
     "id": 1847,
     "server_id": 12,
     "type": "house",
-    "name": "sell",
+    "name": "btc+деп",
     "owner": "Leo_Scott",
     "status": "Занято",
     "x": 1778.47,
@@ -22659,7 +22671,7 @@
     "id": 1890,
     "server_id": 12,
     "type": "house",
-    "name": "sell",
+    "name": "btc+деп",
     "owner": "Leo_Scott",
     "status": "Занято",
     "x": 1763.11,
@@ -23796,18 +23808,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1845,
-    "server_id": 12,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Win_Dow",
-    "status": "Аукцион",
-    "x": 2492.16,
-    "y": -1359.1,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1925,
     "server_id": 12,
     "type": "house",
@@ -23817,18 +23817,6 @@
     "x": 2601.64,
     "y": 2192.71,
     "price": 1500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2,
-    "server_id": 12,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Keisuke_Moore",
-    "status": "Аукцион",
-    "x": 242.897,
-    "y": -178.385,
-    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
@@ -23876,6 +23864,18 @@
     "status": "Занято",
     "x": 2333.5,
     "y": 61.624,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2,
+    "server_id": 12,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Keisuke_Moore",
+    "status": "Занято",
+    "x": 242.897,
+    "y": -178.385,
     "price": 0,
     "district": "Сан-Андреас"
   },
