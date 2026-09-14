@@ -3508,7 +3508,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Volodya_Nischeta",
+    "owner": "Volodya_Boss",
     "status": "Занято",
     "x": 2479.2,
     "y": -1063.87,
@@ -7164,18 +7164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 597,
-    "server_id": 31,
-    "type": "house",
-    "name": "Mining #3 LV",
-    "owner": "Kot_Anderson",
-    "status": "Занято",
-    "x": -1450.71,
-    "y": 2691.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 598,
     "server_id": 31,
     "type": "house",
@@ -7256,18 +7244,6 @@
     "status": "Занято",
     "x": -1568.17,
     "y": 2629.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 605,
-    "server_id": 31,
-    "type": "house",
-    "name": "Mining #2 LV",
-    "owner": "Kot_Anderson",
-    "status": "Занято",
-    "x": -1577.62,
-    "y": 2686.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9236,18 +9212,6 @@
     "status": "Занято",
     "x": -2594.19,
     "y": 768.164,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 770,
-    "server_id": 31,
-    "type": "house",
-    "name": "Mining #1 SF",
-    "owner": "Kot_Anderson",
-    "status": "Занято",
-    "x": -2594.19,
-    "y": 785.1649,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16148,18 +16112,6 @@
     "status": "Занято",
     "x": 1551.52,
     "y": 2567.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1347,
-    "server_id": 31,
-    "type": "house",
-    "name": "Mining #4 LV",
-    "owner": "Kot_Anderson",
-    "status": "Занято",
-    "x": 1513.34,
-    "y": 2565.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23349,6 +23301,54 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 597,
+    "server_id": 31,
+    "type": "house",
+    "name": "НАБОР АРХИТЕКТЕКТОРА + ДЕП.УСЛ.",
+    "owner": "Kot_Anderson",
+    "status": "Аукцион",
+    "x": -1450.71,
+    "y": 2691.05,
+    "price": 45000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 605,
+    "server_id": 31,
+    "type": "house",
+    "name": "НАБОР АРХИТЕКТЕКТОРА + ДЕП.УСЛ.",
+    "owner": "Kot_Anderson",
+    "status": "Аукцион",
+    "x": -1577.62,
+    "y": 2686.93,
+    "price": 45000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 770,
+    "server_id": 31,
+    "type": "house",
+    "name": "НАБОР АРХИТЕКТЕКТОРА + ДЕП.УСЛ.",
+    "owner": "Kot_Anderson",
+    "status": "Аукцион",
+    "x": -2594.19,
+    "y": 785.1649,
+    "price": 45000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1347,
+    "server_id": 31,
+    "type": "house",
+    "name": "НАБОР АРХИТЕКТЕКТОРА + ДЕП.УСЛ.",
+    "owner": "Kot_Anderson",
+    "status": "Аукцион",
+    "x": 1513.34,
+    "y": 2565.43,
+    "price": 55000,
     "district": "Сан-Андреас"
   },
   {

@@ -8940,18 +8940,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 748,
-    "server_id": 32,
-    "type": "house",
-    "name": "soc1o",
-    "owner": "Slava_Turbina",
-    "status": "Занято",
-    "x": -2659.96,
-    "y": 876.3309,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 749,
     "server_id": 32,
     "type": "house",
@@ -11644,7 +11632,7 @@
     "server_id": 32,
     "type": "house",
     "name": "деп.условия",
-    "owner": "Maksim_Tinkoff",
+    "owner": "Luide_Fines",
     "status": "Занято",
     "x": -2464.03,
     "y": 2486.08,
@@ -20280,18 +20268,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1724,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lavoym_Masferi",
-    "status": "Занято",
-    "x": 2476.35,
-    "y": -1417.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1725,
     "server_id": 32,
     "type": "house",
@@ -21684,18 +21660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1841,
-    "server_id": 32,
-    "type": "house",
-    "name": "FAM INSIDER - 1841",
-    "owner": "World_Insider",
-    "status": "Занято",
-    "x": 2623.65,
-    "y": 2056.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1842,
     "server_id": 32,
     "type": "house",
@@ -22500,6 +22464,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 748,
+    "server_id": 32,
+    "type": "house",
+    "name": "soc1o",
+    "owner": "Slava_Turbina",
+    "status": "Аукцион",
+    "x": -2659.96,
+    "y": 876.3309,
+    "price": 90000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 969,
     "server_id": 32,
     "type": "house",
@@ -22512,39 +22488,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 189,
+    "id": 1724,
     "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Pay_Price",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lavoym_Masferi",
     "status": "Аукцион",
-    "x": -1981.62,
-    "y": 174.636,
-    "price": 140000,
+    "x": 2476.35,
+    "y": -1417.45,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 294,
+    "id": 1841,
     "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Pay_Price",
+    "type": "house",
+    "name": "топ инта + подвалы +деп",
+    "owner": "World_Insider",
     "status": "Аукцион",
-    "x": 2472.77,
-    "y": 2034.24,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 299,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Pay_Price",
-    "status": "Аукцион",
-    "x": 1876.07,
-    "y": 2234.15,
-    "price": 150000,
+    "x": 2623.65,
+    "y": 2056.24,
+    "price": 19000,
     "district": "Сан-Андреас"
   },
   {
@@ -22916,6 +22880,18 @@
     "status": "Занято",
     "x": 2330.78,
     "y": 2165.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 299,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Pay_Price",
+    "status": "Занято",
+    "x": 1876.07,
+    "y": 2234.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24588,6 +24564,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 294,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Pay_Price",
+    "status": "Занято",
+    "x": 2472.77,
+    "y": 2034.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 295,
     "server_id": 32,
     "type": "business",
@@ -25424,6 +25412,18 @@
     "status": "Занято",
     "x": -88.37,
     "y": 101.05,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 189,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Sten_Lee",
+    "status": "Занято",
+    "x": -1981.62,
+    "y": 174.636,
     "price": 0,
     "district": "Сан-Андреас"
   },
