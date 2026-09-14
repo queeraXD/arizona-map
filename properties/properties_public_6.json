@@ -6216,6 +6216,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 518,
+    "server_id": 6,
+    "type": "house",
+    "name": "McLovin Family",
+    "owner": "Brain_McLovin",
+    "status": "Занято",
+    "x": 1595.41,
+    "y": 2070.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 519,
     "server_id": 6,
     "type": "house",
@@ -11600,18 +11612,6 @@
     "status": "Занято",
     "x": -2029.77,
     "y": 745.398,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 968,
-    "server_id": 6,
-    "type": "house",
-    "name": "23-26г/Деп.Условия",
-    "owner": "Elliot_Vintage",
-    "status": "Занято",
-    "x": -2048.1,
-    "y": 745.9359,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21600,18 +21600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1802,
-    "server_id": 6,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Elliot_Vintage",
-    "status": "Занято",
-    "x": 2487.42,
-    "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1803,
     "server_id": 6,
     "type": "house",
@@ -21632,18 +21620,6 @@
     "status": "Занято",
     "x": 2487.27,
     "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1805,
-    "server_id": 6,
-    "type": "house",
-    "name": "деп",
-    "owner": "Elliot_Vintage",
-    "status": "Занято",
-    "x": 2495.24,
-    "y": -1366.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24504,15 +24480,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 518,
+    "id": 968,
     "server_id": 6,
     "type": "house",
-    "name": "WWW",
-    "owner": "V_Akvaparke",
+    "name": "деп. условия",
+    "owner": "Elliot_Vintage",
     "status": "Аукцион",
-    "x": 1595.41,
-    "y": 2070.99,
-    "price": 1,
+    "x": -2048.1,
+    "y": 745.9359,
+    "price": 4500,
     "district": "Сан-Андреас"
   },
   {
@@ -24525,6 +24501,30 @@
     "x": 793.401,
     "y": 1991.85,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1802,
+    "server_id": 6,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Elliot_Vintage",
+    "status": "Аукцион",
+    "x": 2487.42,
+    "y": -1366.2,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1805,
+    "server_id": 6,
+    "type": "house",
+    "name": "деп",
+    "owner": "Elliot_Vintage",
+    "status": "Аукцион",
+    "x": 2495.24,
+    "y": -1366.2,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {

@@ -10092,18 +10092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 842,
-    "server_id": 5,
-    "type": "house",
-    "name": "@Tr1xx@",
-    "owner": "Trixx_Young",
-    "status": "Занято",
-    "x": -2191.15,
-    "y": 1080.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 843,
     "server_id": 5,
     "type": "house",
@@ -18744,18 +18732,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1563,
-    "server_id": 5,
-    "type": "house",
-    "name": ":uf21d: Ферма ДameДz :uf21d:",
-    "owner": "Flaer_Damnedz",
-    "status": "Занято",
-    "x": 2462.77,
-    "y": 134.779,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1564,
     "server_id": 5,
     "type": "house",
@@ -25116,15 +25092,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 195,
+    "id": 842,
     "server_id": 5,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Billy_Min",
+    "type": "house",
+    "name": "@Tr1xx@",
+    "owner": "Trixx_Young",
     "status": "Аукцион",
-    "x": -1548.81,
-    "y": 673.91,
-    "price": 140000,
+    "x": -2191.15,
+    "y": 1080.78,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1563,
+    "server_id": 5,
+    "type": "house",
+    "name": ":uf21d: Ферма ДameДz :uf21d:",
+    "owner": "Flaer_Damnedz",
+    "status": "Аукцион",
+    "x": 2462.77,
+    "y": 134.779,
+    "price": 120000,
     "district": "Сан-Андреас"
   },
   {
@@ -28100,6 +28088,18 @@
     "status": "Занято",
     "x": -2022.61,
     "y": 459.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 195,
+    "server_id": 5,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Billy_Min",
+    "status": "Занято",
+    "x": -1548.81,
+    "y": 673.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
