@@ -816,6 +816,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 68,
+    "server_id": 26,
+    "type": "house",
+    "name": "О К А К",
+    "owner": "Yuki_Ximura",
+    "status": "Занято",
+    "x": 2393.19,
+    "y": -1646.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 69,
     "server_id": 26,
     "type": "house",
@@ -3552,18 +3564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 297,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": 2105.31,
-    "y": -1056.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 298,
     "server_id": 26,
     "type": "house",
@@ -4700,18 +4700,6 @@
     "status": "Занято",
     "x": 2245.44,
     "y": -122.1439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 393,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igor_Schwarz",
-    "status": "Занято",
-    "x": 2203.11,
-    "y": -89.2798,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6144,18 +6132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 514,
-    "server_id": 26,
-    "type": "house",
-    "name": "дом вора",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": 1549.98,
-    "y": 2096.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 515,
     "server_id": 26,
     "type": "house",
@@ -7152,18 +7128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 600,
-    "server_id": 26,
-    "type": "house",
-    "name": "onyxflare",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": -2792.84,
-    "y": -153.048,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 601,
     "server_id": 26,
     "type": "house",
@@ -7976,18 +7940,6 @@
     "status": "Занято",
     "x": 1028.83,
     "y": 2005.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 669,
-    "server_id": 26,
-    "type": "house",
-    "name": "House",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": 1030.09,
-    "y": 2028.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11948,18 +11900,6 @@
     "status": "Занято",
     "x": -2359.06,
     "y": 1117.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1001,
-    "server_id": 26,
-    "type": "house",
-    "name": "Smola incorporated",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": -2369.51,
-    "y": 1121.8,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23619,7 +23559,7 @@
     "id": 1979,
     "server_id": 26,
     "type": "house",
-    "name": "MaCalister House ",
+    "name": "Дом",
     "owner": "Yuki_Ximura",
     "status": "Занято",
     "x": -776.5419,
@@ -23643,7 +23583,7 @@
     "id": 1981,
     "server_id": 26,
     "type": "house",
-    "name": "NightMare Empire",
+    "name": "Дом",
     "owner": "Yuki_Ximura",
     "status": "Занято",
     "x": -768.6459,
@@ -23816,6 +23756,18 @@
     "status": "Занято",
     "x": 1115.72,
     "y": -1562.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1996,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ney_Rose",
+    "status": "Занято",
+    "x": 1752.22,
+    "y": 2744.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25056,14 +25008,26 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 68,
+    "id": 297,
     "server_id": 26,
     "type": "house",
     "name": "Дом",
-    "owner": "Lovlya_Pupsik",
+    "owner": "Unwritten_Reply",
     "status": "Аукцион",
-    "x": 2393.19,
-    "y": -1646.03,
+    "x": 2105.31,
+    "y": -1056.48,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 393,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igor_Schwarz",
+    "status": "Аукцион",
+    "x": 2203.11,
+    "y": -89.2798,
     "price": 5000,
     "district": "Сан-Андреас"
   },
@@ -25077,6 +25041,18 @@
     "x": 2415.43,
     "y": -51.5713,
     "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 514,
+    "server_id": 26,
+    "type": "house",
+    "name": "дом вора",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": 1549.98,
+    "y": 2096.4,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
@@ -25101,6 +25077,42 @@
     "x": 263.622,
     "y": 1171.51,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 600,
+    "server_id": 26,
+    "type": "house",
+    "name": "onyxflare",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": -2792.84,
+    "y": -153.048,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 669,
+    "server_id": 26,
+    "type": "house",
+    "name": "House",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": 1030.09,
+    "y": 2028.11,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1001,
+    "server_id": 26,
+    "type": "house",
+    "name": "Smola incorporated",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": -2369.51,
+    "y": 1121.8,
+    "price": 100,
     "district": "Сан-Андреас"
   },
   {
@@ -25173,18 +25185,6 @@
     "x": -2619.74,
     "y": 845.3449,
     "price": 870,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1996,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lovlya_Pupsik",
-    "status": "Аукцион",
-    "x": 1752.22,
-    "y": 2744.56,
-    "price": 1,
     "district": "Сан-Андреас"
   },
   {

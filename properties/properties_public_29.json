@@ -1848,18 +1848,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 154,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mad_Fleur",
-    "status": "Занято",
-    "x": 1051.14,
-    "y": -1058.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 155,
     "server_id": 29,
     "type": "house",
@@ -2624,18 +2612,6 @@
     "status": "Занято",
     "x": 836.2189,
     "y": -894.2999,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 219,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mad_Fleur",
-    "status": "Занято",
-    "x": 785.828,
-    "y": -828.3469,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9708,6 +9684,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 809,
+    "server_id": 29,
+    "type": "house",
+    "name": "Американская мечта",
+    "owner": "Anton_Chil",
+    "status": "Занято",
+    "x": -2720.98,
+    "y": -120.787,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 810,
     "server_id": 29,
     "type": "house",
@@ -12051,7 +12039,7 @@
     "id": 1005,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
+    "name": "cuerto  squad",
     "owner": "Chokoladniy_Zaika",
     "status": "Занято",
     "x": -2461.79,
@@ -12520,7 +12508,7 @@
     "server_id": 29,
     "type": "house",
     "name": "drugs home",
-    "owner": "Maksim_Vexano",
+    "owner": "Sos_Krutoy",
     "status": "Занято",
     "x": -1780.35,
     "y": 1138.77,
@@ -14643,7 +14631,7 @@
     "id": 1221,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
+    "name": "cuerto  squad",
     "owner": "Chokoladniy_Zaika",
     "status": "Занято",
     "x": -2451.2,
@@ -21108,15 +21096,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 809,
+    "id": 154,
     "server_id": 29,
     "type": "house",
-    "name": "Американская мечта",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2720.98,
-    "y": -120.787,
-    "price": 0,
+    "name": "Дом",
+    "owner": "Mad_Fleur",
+    "status": "Аукцион",
+    "x": 1051.14,
+    "y": -1058.51,
+    "price": 26000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 219,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mad_Fleur",
+    "status": "Аукцион",
+    "x": 785.828,
+    "y": -828.3469,
+    "price": 26000,
     "district": "Сан-Андреас"
   },
   {
@@ -24028,7 +24028,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Muha_Avialinii",
+    "owner": "Keyn_Mikeyl",
     "status": "Занято",
     "x": -88.37,
     "y": 101.05,

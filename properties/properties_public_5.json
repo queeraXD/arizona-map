@@ -8883,7 +8883,7 @@
     "id": 741,
     "server_id": 5,
     "type": "house",
-    "name": "Дом Fresko",
+    "name": "Дом",
     "owner": "Harlay_LaMonte",
     "status": "Занято",
     "x": -2860.27,
@@ -13268,18 +13268,6 @@
     "status": "Занято",
     "x": 1739.41,
     "y": 2792.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1107,
-    "server_id": 5,
-    "type": "house",
-    "name": "Монополия Richards",
-    "owner": "Nick_Flanders",
-    "status": "Занято",
-    "x": 1740.34,
-    "y": 2863.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18732,18 +18720,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1563,
-    "server_id": 5,
-    "type": "house",
-    "name": ":uf21d: Ферма ДameДz :uf21d:",
-    "owner": "Flaer_Damnedz",
-    "status": "Занято",
-    "x": 2462.77,
-    "y": 134.779,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1564,
     "server_id": 5,
     "type": "house",
@@ -22264,7 +22240,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Egor Costello House",
-    "owner": "Egor_Costello",
+    "owner": "Tomas_Sheelby",
     "status": "Занято",
     "x": 2010.98,
     "y": 2168.81,
@@ -25104,6 +25080,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1107,
+    "server_id": 5,
+    "type": "house",
+    "name": "Монополия Richards",
+    "owner": "Nick_Flanders",
+    "status": "Аукцион",
+    "x": 1740.34,
+    "y": 2863.24,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1120,
     "server_id": 5,
     "type": "house",
@@ -25113,6 +25101,18 @@
     "x": -2856.67,
     "y": 841.934,
     "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1563,
+    "server_id": 5,
+    "type": "house",
+    "name": ":uf21d: Ферма ДameДz :uf21d:",
+    "owner": "Flaer_Damnedz",
+    "status": "Аукцион",
+    "x": 2462.77,
+    "y": 134.779,
+    "price": 120000,
     "district": "Сан-Андреас"
   },
   {

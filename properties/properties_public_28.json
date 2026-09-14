@@ -904,7 +904,7 @@
     "server_id": 28,
     "type": "house",
     "name": "LOVEC STU FAM",
-    "owner": "Sol_Ana",
+    "owner": "Marin_Kitagawa",
     "status": "Занято",
     "x": 2327.28,
     "y": -1682.06,
@@ -944,18 +944,6 @@
     "status": "Занято",
     "x": 2306.91,
     "y": -1679.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 79,
-    "server_id": 28,
-    "type": "house",
-    "name": "Домик для Вайба",
-    "owner": "Papa_Rimsky",
-    "status": "Занято",
-    "x": 2282.13,
-    "y": -1641.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10812,18 +10800,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 904,
-    "server_id": 28,
-    "type": "house",
-    "name": "CTPAXA_HET",
-    "owner": "Vadik_Simsimsim",
-    "status": "Занято",
-    "x": -2116.77,
-    "y": 927.3969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 905,
     "server_id": 28,
     "type": "house",
@@ -10856,18 +10832,6 @@
     "status": "Занято",
     "x": -2126.89,
     "y": 996.109,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 908,
-    "server_id": 28,
-    "type": "house",
-    "name": "СТРАХА_НЕТ",
-    "owner": "Vadik_Simsimsim",
-    "status": "Занято",
-    "x": -2126.98,
-    "y": 1014.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20619,7 +20583,7 @@
     "id": 1723,
     "server_id": 28,
     "type": "house",
-    "name": "Дом самого пиздатого человека ",
+    "name": "Paradox",
     "owner": "Paradox_Disney",
     "status": "Занято",
     "x": 2608.15,
@@ -22284,6 +22248,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 79,
+    "server_id": 28,
+    "type": "house",
+    "name": "11 слотов для объектов",
+    "owner": "Papa_Rimsky",
+    "status": "Аукцион",
+    "x": 2282.13,
+    "y": -1641.68,
+    "price": 8500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 336,
     "server_id": 28,
     "type": "house",
@@ -22305,6 +22281,30 @@
     "x": -886.291,
     "y": 1514.59,
     "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 904,
+    "server_id": 28,
+    "type": "house",
+    "name": "CTPAXA_HET",
+    "owner": "Vadik_Simsimsim",
+    "status": "Аукцион",
+    "x": -2116.77,
+    "y": 927.3969,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 908,
+    "server_id": 28,
+    "type": "house",
+    "name": "СТРАХА_НЕТ",
+    "owner": "Vadik_Simsimsim",
+    "status": "Аукцион",
+    "x": -2126.98,
+    "y": 1014.21,
+    "price": 1500,
     "district": "Сан-Андреас"
   },
   {
