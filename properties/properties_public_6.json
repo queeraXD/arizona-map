@@ -4920,18 +4920,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 410,
-    "server_id": 6,
-    "type": "house",
-    "name": "Притон солевых",
-    "owner": "Artemy_Young",
-    "status": "Занято",
-    "x": 1402.4,
-    "y": 333.4599,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 411,
     "server_id": 6,
     "type": "house",
@@ -8108,18 +8096,6 @@
     "status": "Занято",
     "x": 885.9299,
     "y": 1980.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 677,
-    "server_id": 6,
-    "type": "house",
-    "name": "Old Money Club [11]",
-    "owner": "Malou_Mancini",
-    "status": "Занято",
-    "x": 886.143,
-    "y": 2047.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24444,6 +24420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 410,
+    "server_id": 6,
+    "type": "house",
+    "name": "Притон солевых",
+    "owner": "Artemy_Young",
+    "status": "Аукцион",
+    "x": 1402.4,
+    "y": 333.4599,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 503,
     "server_id": 6,
     "type": "house",
@@ -24453,6 +24441,18 @@
     "x": 1341.49,
     "y": 1930.03,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 677,
+    "server_id": 6,
+    "type": "house",
+    "name": "Old Money Club [11]",
+    "owner": "Malou_Mancini",
+    "status": "Аукцион",
+    "x": 886.143,
+    "y": 2047.18,
+    "price": 5886,
     "district": "Сан-Андреас"
   },
   {
@@ -24525,30 +24525,6 @@
     "x": 2647.11,
     "y": 2242.38,
     "price": 1500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 13,
-    "server_id": 6,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 2244.42,
-    "y": -1665.12,
-    "price": 150,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 155,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Leron_Malon",
-    "status": "Аукцион",
-    "x": -2166.173,
-    "y": 243.5013,
-    "price": 300000,
     "district": "Сан-Андреас"
   },
   {
@@ -24916,7 +24892,7 @@
     "server_id": 6,
     "type": "business",
     "name": "Бар",
-    "owner": "Fear_Lunary",
+    "owner": "Benzo_Hokage",
     "status": "Занято",
     "x": 2330.78,
     "y": 2165.8,
@@ -25448,6 +25424,18 @@
     "status": "Занято",
     "x": 695.01,
     "y": -500.134,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 13,
+    "server_id": 6,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Mauro_Mancini",
+    "status": "Занято",
+    "x": 2244.42,
+    "y": -1665.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27152,6 +27140,18 @@
     "status": "Занято",
     "x": 206.3749,
     "y": -93.0026,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 155,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Leron_Malon",
+    "status": "Занято",
+    "x": -2166.173,
+    "y": 243.5013,
     "price": 0,
     "district": "Сан-Андреас"
   },

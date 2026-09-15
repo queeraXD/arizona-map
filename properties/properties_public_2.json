@@ -5556,6 +5556,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 463,
+    "server_id": 2,
+    "type": "house",
+    "name": "Лачуга Казиношника",
+    "owner": "Tvics_Major",
+    "status": "Занято",
+    "x": 2206.36,
+    "y": 656.3729,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 464,
     "server_id": 2,
     "type": "house",
@@ -9116,18 +9128,6 @@
     "status": "Занято",
     "x": -2700.33,
     "y": 820.8649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 762,
-    "server_id": 2,
-    "type": "house",
-    "name": "Hashimoto house",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2667.07,
-    "y": 820.3189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14403,8 +14403,8 @@
     "id": 1203,
     "server_id": 2,
     "type": "house",
-    "name": "Yoshida House",
-    "owner": "Haryki_Yoshida",
+    "name": "Newgeen House",
+    "owner": "Angel_Newgen",
     "status": "Занято",
     "x": -2433.75,
     "y": 1318.48,
@@ -15568,7 +15568,7 @@
     "server_id": 2,
     "type": "house",
     "name": "лютая хата ",
-    "owner": "Ellison_Sweazy",
+    "owner": "Miyabi_Hoshimi",
     "status": "Занято",
     "x": -2511.71,
     "y": 1045.32,
@@ -15664,7 +15664,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Дом Джэйсона ",
-    "owner": "Yuki_Shuity",
+    "owner": "Djason_Bennet",
     "status": "Занято",
     "x": -2358.5,
     "y": 656.7349,
@@ -23916,18 +23916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 463,
-    "server_id": 2,
-    "type": "house",
-    "name": "Лачуга Казиношника",
-    "owner": "Tvics_Major",
-    "status": "Аукцион",
-    "x": 2206.36,
-    "y": 656.3729,
-    "price": 30000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 506,
     "server_id": 2,
     "type": "house",
@@ -23937,6 +23925,18 @@
     "x": 1364.57,
     "y": 2003.7,
     "price": 22000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 762,
+    "server_id": 2,
+    "type": "house",
+    "name": "Hashimoto house",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2667.07,
+    "y": 820.3189,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {

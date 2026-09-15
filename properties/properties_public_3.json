@@ -3951,8 +3951,8 @@
     "id": 332,
     "server_id": 3,
     "type": "house",
-    "name": "Дом",
-    "owner": "Ben_Bradberry",
+    "name": "Ред Каунтри",
+    "owner": "Midorima_Explosion",
     "status": "Занято",
     "x": 758.6879,
     "y": 375.0509,
@@ -4232,18 +4232,6 @@
     "status": "Занято",
     "x": 1288.34,
     "y": -873.7819,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 356,
-    "server_id": 3,
-    "type": "house",
-    "name": "BucefalEmpire",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 1280.86,
-    "y": -874.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12495,7 +12483,7 @@
     "id": 1049,
     "server_id": 3,
     "type": "house",
-    "name": "Дом",
+    "name": "Сан Фиерро",
     "owner": "Midorima_Explosion",
     "status": "Занято",
     "x": -2278.58,
@@ -15355,18 +15343,6 @@
     "owner": "Roman_Ethereal",
     "status": "Занято",
     "x": -2340.05,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1288,
-    "server_id": 3,
-    "type": "house",
-    "name": "Arabaci",
-    "owner": "[08]Artem_Bojolax",
-    "status": "Занято",
-    "x": -2358.54,
     "y": 656.7349,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23916,6 +23892,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 356,
+    "server_id": 3,
+    "type": "house",
+    "name": "BucefalEmpire",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": 1280.86,
+    "y": -874.83,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 677,
     "server_id": 3,
     "type": "house",
@@ -23961,6 +23949,18 @@
     "x": -2449.91,
     "y": 895.741,
     "price": 11000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1288,
+    "server_id": 3,
+    "type": "house",
+    "name": "bojolx",
+    "owner": "[08]Artem_Bojolax",
+    "status": "Аукцион",
+    "x": -2358.54,
+    "y": 656.7349,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {

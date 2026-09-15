@@ -4788,18 +4788,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 399,
-    "server_id": 7,
-    "type": "house",
-    "name": "tg: @Vanya228zxc",
-    "owner": "Fill_Puma",
-    "status": "Занято",
-    "x": 2392.35,
-    "y": -54.2308,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 400,
     "server_id": 7,
     "type": "house",
@@ -4820,6 +4808,18 @@
     "status": "Занято",
     "x": 2438.82,
     "y": -54.6911,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 402,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
+    "status": "Занято",
+    "x": 2448.44,
+    "y": -11.0635,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10296,18 +10296,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 859,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Roxy_Reynolds",
-    "status": "Занято",
-    "x": -2428.9,
-    "y": -1328.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 860,
     "server_id": 7,
     "type": "house",
@@ -11156,18 +11144,6 @@
     "status": "Занято",
     "x": -2230.37,
     "y": 1027.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 931,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом бобра",
-    "owner": "Lupu_Pick",
-    "status": "Занято",
-    "x": -2282.16,
-    "y": 1046.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25524,15 +25500,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 402,
+    "id": 399,
+    "server_id": 7,
+    "type": "house",
+    "name": "tg: @Vanya228zxc",
+    "owner": "Fill_Puma",
+    "status": "Аукцион",
+    "x": 2392.35,
+    "y": -54.2308,
+    "price": 120000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 859,
     "server_id": 7,
     "type": "house",
     "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
+    "owner": "Roxy_Reynolds",
     "status": "Аукцион",
-    "x": 2448.44,
-    "y": -11.0635,
-    "price": 149999,
+    "x": -2428.9,
+    "y": -1328.58,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 931,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом бобра",
+    "owner": "Lupu_Pick",
+    "status": "Аукцион",
+    "x": -2282.16,
+    "y": 1046.54,
+    "price": 39900,
     "district": "Сан-Андреас"
   },
   {
