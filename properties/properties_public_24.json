@@ -3372,18 +3372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 281,
-    "server_id": 24,
-    "type": "house",
-    "name": " Sosuke House",
-    "owner": "Unhinged_Mode",
-    "status": "Занято",
-    "x": 2551.22,
-    "y": 57.2303,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 282,
     "server_id": 24,
     "type": "house",
@@ -15636,18 +15624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1304,
-    "server_id": 24,
-    "type": "house",
-    "name": "Бигхаус",
-    "owner": "Vadim_Versachi",
-    "status": "Занято",
-    "x": -2576.42,
-    "y": -198.7969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1305,
     "server_id": 24,
     "type": "house",
@@ -22020,6 +21996,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 281,
+    "server_id": 24,
+    "type": "house",
+    "name": " Sosuke House",
+    "owner": "Unhinged_Mode",
+    "status": "Аукцион",
+    "x": 2551.22,
+    "y": 57.2303,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1304,
+    "server_id": 24,
+    "type": "house",
+    "name": "Бигхаус",
+    "owner": "Vadim_Versachi",
+    "status": "Аукцион",
+    "x": -2576.42,
+    "y": -198.7969,
+    "price": 7500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1725,
     "server_id": 24,
     "type": "house",
@@ -22168,7 +22168,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Mayer_Rothschild",
+    "owner": "Konstantin_Pinko",
     "status": "Занято",
     "x": -2093.7,
     "y": -2464.91,
