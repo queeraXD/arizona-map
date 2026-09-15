@@ -6912,18 +6912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 577,
-    "server_id": 13,
-    "type": "house",
-    "name": "Добрые чувачки",
-    "owner": "Dva_Piva",
-    "status": "Занято",
-    "x": -201.6629,
-    "y": 2772.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 578,
     "server_id": 13,
     "type": "house",
@@ -7508,18 +7496,6 @@
     "status": "Занято",
     "x": 4.1448,
     "y": 1344.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 627,
-    "server_id": 13,
-    "type": "house",
-    "name": "Болото | Дом Фионы",
-    "owner": "Guram_Artashe",
-    "status": "Занято",
-    "x": 4.7234,
-    "y": 1381.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15192,18 +15168,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1267,
-    "server_id": 13,
-    "type": "house",
-    "name": "Punk Empire",
-    "owner": "Dva_Piva",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 632.481,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1268,
     "server_id": 13,
     "type": "house",
@@ -17996,18 +17960,6 @@
     "status": "Занято",
     "x": 2129.63,
     "y": -1361.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1502,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дача Epshteyna",
-    "owner": "Dva_Piva",
-    "status": "Занято",
-    "x": 2147.77,
-    "y": -1366.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20976,6 +20928,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1750,
+    "server_id": 13,
+    "type": "house",
+    "name": "Хата Shadow",
+    "owner": "Oleg_Bogynovv",
+    "status": "Занято",
+    "x": 2487.42,
+    "y": -1383.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1751,
     "server_id": 13,
     "type": "house",
@@ -22224,18 +22188,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1856,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zheka_Trofimov",
-    "status": "Занято",
-    "x": 2622.4,
-    "y": 2185.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1857,
     "server_id": 13,
     "type": "house",
@@ -23268,6 +23220,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 577,
+    "server_id": 13,
+    "type": "house",
+    "name": "Добрые чувачки",
+    "owner": "Dva_Piva",
+    "status": "Аукцион",
+    "x": -201.6629,
+    "y": 2772.17,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 627,
+    "server_id": 13,
+    "type": "house",
+    "name": "Болото | Дом Фионы",
+    "owner": "Guram_Artashe",
+    "status": "Аукцион",
+    "x": 4.7234,
+    "y": 1381.21,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1267,
+    "server_id": 13,
+    "type": "house",
+    "name": "Punk Empire",
+    "owner": "Dva_Piva",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 632.481,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1480,
     "server_id": 13,
     "type": "house",
@@ -23280,15 +23268,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1750,
+    "id": 1502,
     "server_id": 13,
     "type": "house",
-    "name": "Хата Shadow",
-    "owner": "Wistful_Gloaming",
+    "name": "Дача Epshteyna",
+    "owner": "Dva_Piva",
     "status": "Аукцион",
-    "x": 2487.42,
-    "y": -1383.38,
-    "price": 1500,
+    "x": 2147.77,
+    "y": -1366.12,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1856,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zheka_Trofimov",
+    "status": "Аукцион",
+    "x": 2622.4,
+    "y": 2185.54,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 83,
+    "server_id": 13,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Dva_Piva",
+    "status": "Аукцион",
+    "x": 1872.26,
+    "y": 2071.74,
+    "price": 80000,
     "district": "Сан-Андреас"
   },
   {
@@ -25040,18 +25052,6 @@
     "status": "Занято",
     "x": 1879.19,
     "y": 2339.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 83,
-    "server_id": 13,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Dva_Piva",
-    "status": "Занято",
-    "x": 1872.26,
-    "y": 2071.74,
     "price": 0,
     "district": "Сан-Андреас"
   },

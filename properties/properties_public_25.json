@@ -4671,7 +4671,7 @@
     "id": 389,
     "server_id": 25,
     "type": "house",
-    "name": "WEMPERIA",
+    "name": "-- VIZART --",
     "owner": "Vizart_Wemp",
     "status": "Занято",
     "x": 236.401,
@@ -9300,18 +9300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 775,
-    "server_id": 25,
-    "type": "house",
-    "name": "мяу",
-    "owner": "Manya_Kitty",
-    "status": "Занято",
-    "x": -2590.92,
-    "y": 819.7999,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 776,
     "server_id": 25,
     "type": "house",
@@ -11732,18 +11720,6 @@
     "status": "Занято",
     "x": 459.147,
     "y": 1339.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 979,
-    "server_id": 25,
-    "type": "house",
-    "name": "мяу",
-    "owner": "Manya_Kitty",
-    "status": "Занято",
-    "x": -2278.66,
-    "y": 747.7299,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21216,18 +21192,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1769,
-    "server_id": 25,
-    "type": "house",
-    "name": "мяу",
-    "owner": "Manya_Kitty",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2150.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1770,
     "server_id": 25,
     "type": "house",
@@ -23769,6 +23733,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 775,
+    "server_id": 25,
+    "type": "house",
+    "name": "мяу",
+    "owner": "Manya_Kitty",
+    "status": "Аукцион",
+    "x": -2590.92,
+    "y": 819.7999,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 979,
+    "server_id": 25,
+    "type": "house",
+    "name": "мяу",
+    "owner": "Manya_Kitty",
+    "status": "Аукцион",
+    "x": -2278.66,
+    "y": 747.7299,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1769,
+    "server_id": 25,
+    "type": "house",
+    "name": "мяу",
+    "owner": "Manya_Kitty",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2150.0,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {

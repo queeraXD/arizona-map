@@ -9360,6 +9360,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 784,
+    "server_id": 20,
+    "type": "house",
+    "name": "бубрік",
+    "owner": "Sergey_Mellnik",
+    "status": "Занято",
+    "x": -2513.5,
+    "y": 849.1569,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 785,
     "server_id": 20,
     "type": "house",
@@ -10832,18 +10844,6 @@
     "status": "Занято",
     "x": -2126.89,
     "y": 996.109,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 908,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nelda_Suncity",
-    "status": "Занято",
-    "x": -2126.98,
-    "y": 1014.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22320,15 +22320,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 784,
+    "id": 908,
     "server_id": 20,
     "type": "house",
-    "name": "в шкафу энерго маска",
-    "owner": "Dead_Tranquil",
+    "name": "Дом",
+    "owner": "Nelda_Suncity",
     "status": "Аукцион",
-    "x": -2513.5,
-    "y": 849.1569,
-    "price": 100,
+    "x": -2126.98,
+    "y": 1014.21,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
@@ -22353,6 +22353,18 @@
     "x": 1110.52,
     "y": -1554.05,
     "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 299,
+    "server_id": 20,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Pick_Me",
+    "status": "Аукцион",
+    "x": 1876.07,
+    "y": 2234.15,
+    "price": 190000,
     "district": "Сан-Андреас"
   },
   {
@@ -22736,18 +22748,6 @@
     "status": "Занято",
     "x": 2330.78,
     "y": 2165.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 299,
-    "server_id": 20,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Pick_Me",
-    "status": "Занято",
-    "x": 1876.07,
-    "y": 2234.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23392,7 +23392,7 @@
     "server_id": 20,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Pick_Me",
+    "owner": "Radovan_Karadzic",
     "status": "Занято",
     "x": -2373.8,
     "y": 910.117,
