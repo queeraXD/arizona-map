@@ -1743,8 +1743,8 @@
     "id": 145,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
-    "owner": "Ma_Xi",
+    "name": "pip",
+    "owner": "Pio_Pio",
     "status": "Занято",
     "x": 1285.01,
     "y": -1090.39,
@@ -3448,7 +3448,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Paradox_Inspiration",
+    "owner": "Azs_Ghetto",
     "status": "Занято",
     "x": 2491.35,
     "y": -1012.34,
@@ -3460,7 +3460,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Paradox_Inspiration",
+    "owner": "Osama_BenLaden",
     "status": "Занято",
     "x": 2512.81,
     "y": -1027.56,
@@ -7436,18 +7436,6 @@
     "status": "Занято",
     "x": -906.119,
     "y": 1514.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 620,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bai_Narisu",
-    "status": "Занято",
-    "x": -886.291,
-    "y": 1514.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15732,18 +15720,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1319,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bai_Narisu",
-    "status": "Занято",
-    "x": -102.482,
-    "y": -1576.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1320,
     "server_id": 33,
     "type": "house",
@@ -17504,18 +17480,6 @@
     "status": "Занято",
     "x": 957.505,
     "y": 2215.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1468,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bai_Narisu",
-    "status": "Занято",
-    "x": 885.7429,
-    "y": 2267.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20200,7 +20164,7 @@
     "server_id": 33,
     "type": "house",
     "name": "pip",
-    "owner": "Pio_Pio",
+    "owner": "Poe_Poe",
     "status": "Занято",
     "x": 2473.06,
     "y": -1431.68,
@@ -22464,6 +22428,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 620,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bai_Narisu",
+    "status": "Аукцион",
+    "x": -886.291,
+    "y": 1514.59,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 867,
     "server_id": 33,
     "type": "house",
@@ -22509,6 +22485,30 @@
     "x": -302.976,
     "y": 2552.28,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1319,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bai_Narisu",
+    "status": "Аукцион",
+    "x": -102.482,
+    "y": -1576.0,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1468,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bai_Narisu",
+    "status": "Аукцион",
+    "x": 885.7429,
+    "y": 2267.83,
+    "price": 100,
     "district": "Сан-Андреас"
   },
   {
@@ -24184,7 +24184,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Jlexa_Tadjik",
+    "owner": "Monte_Attack",
     "status": "Занято",
     "x": 2045.05,
     "y": -1908.03,
