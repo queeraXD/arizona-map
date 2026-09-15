@@ -384,18 +384,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 32,
-    "server_id": 19,
-    "type": "house",
-    "name": "пацэтко се маршрутка",
-    "owner": "Lolly_Lopes",
-    "status": "Занято",
-    "x": 2433.6,
-    "y": -1275.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 33,
     "server_id": 19,
     "type": "house",
@@ -4792,7 +4780,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Crimsons_Red",
+    "owner": "Kimmi_Toxiclamee",
     "status": "Занято",
     "x": 2411.22,
     "y": -5.5777,
@@ -5932,7 +5920,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Kiba_Rin",
+    "owner": "Adminchik",
     "status": "Занято",
     "x": 1412.66,
     "y": 1951.6,
@@ -10216,7 +10204,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Scott_Litvinenko",
+    "owner": "Formula_Berkut",
     "status": "Занято",
     "x": -218.123,
     "y": 2481.23,
@@ -11228,6 +11216,18 @@
     "status": "Занято",
     "x": -2239.15,
     "y": 943.854,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 948,
+    "server_id": 19,
+    "type": "house",
+    "name": "Пацэтко з маршрутки",
+    "owner": "Lolly_Lopes",
+    "status": "Занято",
+    "x": -2239.31,
+    "y": 962.374,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20800,7 +20800,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Odessit_Reed",
+    "owner": "Dark_Mellstroy",
     "status": "Занято",
     "x": 2700.21,
     "y": -1238.07,
@@ -21744,6 +21744,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 32,
+    "server_id": 19,
+    "type": "house",
+    "name": "пацэтко се маршрутка",
+    "owner": "Lolly_Lopes",
+    "status": "Аукцион",
+    "x": 2433.6,
+    "y": -1275.03,
+    "price": 800,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 214,
     "server_id": 19,
     "type": "house",
@@ -21873,18 +21885,6 @@
     "x": 2808.02,
     "y": -1190.33,
     "price": 40000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 948,
-    "server_id": 19,
-    "type": "house",
-    "name": "Re-California",
-    "owner": "Gud_Malboro",
-    "status": "Аукцион",
-    "x": -2239.31,
-    "y": 962.374,
-    "price": 200,
     "district": "Сан-Андреас"
   },
   {
@@ -22065,6 +22065,18 @@
     "x": -2672.26,
     "y": 258.431,
     "price": 95000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 182,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": 1104.78,
+    "y": 1380.93,
+    "price": 140000,
     "district": "Сан-Андреас"
   },
   {
@@ -24896,18 +24908,6 @@
     "status": "Занято",
     "x": 2029.71,
     "y": 986.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 182,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": 1104.78,
-    "y": 1380.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
