@@ -7492,7 +7492,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Katsu House",
-    "owner": "Nickname_Page",
+    "owner": "Shadan_Page",
     "status": "Занято",
     "x": 4.7234,
     "y": 1381.21,
@@ -9796,7 +9796,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Hog4",
-    "owner": "Nickname_Page",
+    "owner": "Shadan_Page",
     "status": "Занято",
     "x": -2689.39,
     "y": -152.796,
@@ -18388,7 +18388,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Бог Проекта Screamer_Demorgan",
-    "owner": "Nickname_Page",
+    "owner": "Shadan_Page",
     "status": "Занято",
     "x": 1925.47,
     "y": 663.578,
@@ -22068,42 +22068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 112,
-    "server_id": 19,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Przemko_Nowak",
-    "status": "Аукцион",
-    "x": -2672.26,
-    "y": 258.431,
-    "price": 95000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 196,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Przemko_Nowak",
-    "status": "Аукцион",
-    "x": -2681.61,
-    "y": 583.93,
-    "price": 90000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 217,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Przemko_Nowak",
-    "status": "Аукцион",
-    "x": 2537.82,
-    "y": 2137.12,
-    "price": 90000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 0,
     "server_id": 19,
     "type": "business",
@@ -23952,6 +23916,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 112,
+    "server_id": 19,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Przemko_Nowak",
+    "status": "Занято",
+    "x": -2672.26,
+    "y": 258.431,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 113,
     "server_id": 19,
     "type": "business",
@@ -25068,6 +25044,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 196,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Przemko_Nowak",
+    "status": "Занято",
+    "x": -2681.61,
+    "y": 583.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 197,
     "server_id": 19,
     "type": "business",
@@ -25232,6 +25220,18 @@
     "status": "Занято",
     "x": 2327.86,
     "y": 2421.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 217,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Przemko_Nowak",
+    "status": "Занято",
+    "x": 2537.82,
+    "y": 2137.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
