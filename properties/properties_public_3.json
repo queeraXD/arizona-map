@@ -384,6 +384,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 32,
+    "server_id": 3,
+    "type": "house",
+    "name": "печенькина хижина",
+    "owner": "Crumbl_Cookies",
+    "status": "Занято",
+    "x": 2433.6,
+    "y": -1275.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 33,
     "server_id": 3,
     "type": "house",
@@ -3656,6 +3668,18 @@
     "status": "Занято",
     "x": 2060.47,
     "y": -1076.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 306,
+    "server_id": 3,
+    "type": "house",
+    "name": "Славское царство",
+    "owner": "Despair_Empressions",
+    "status": "Занято",
+    "x": 1895.99,
+    "y": -1064.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12552,18 +12576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1049,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "John_Shelton",
-    "status": "Занято",
-    "x": -2278.58,
-    "y": 767.726,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1050,
     "server_id": 3,
     "type": "house",
@@ -16428,6 +16440,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1373,
+    "server_id": 3,
+    "type": "house",
+    "name": "Зараки",
+    "owner": "Despair_Empressions",
+    "status": "Занято",
+    "x": -2620.74,
+    "y": 103.3899,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1374,
     "server_id": 3,
     "type": "house",
@@ -17960,6 +17984,18 @@
     "status": "Занято",
     "x": -2340.88,
     "y": 721.637,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1504,
+    "server_id": 3,
+    "type": "house",
+    "name": "aveni",
+    "owner": "Vanechka_Implored",
+    "status": "Занято",
+    "x": -2341.02,
+    "y": 730.942,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20000,6 +20036,18 @@
     "status": "Занято",
     "x": 2622.22,
     "y": -1207.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1675,
+    "server_id": 3,
+    "type": "house",
+    "name": "Карачай-малкьар",
+    "owner": "Despair_Empressions",
+    "status": "Занято",
+    "x": 2622.22,
+    "y": -1200.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23916,27 +23964,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 32,
+    "id": 1049,
     "server_id": 3,
     "type": "house",
-    "name": "печенькина хижина",
-    "owner": "Crumbl_Cookies",
-    "status": "Аукцион",
-    "x": 2433.6,
-    "y": -1275.03,
-    "price": 12000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 306,
-    "server_id": 3,
-    "type": "house",
-    "name": "Славское царство",
-    "owner": "Despair_Empressions",
-    "status": "Аукцион",
-    "x": 1895.99,
-    "y": -1064.77,
-    "price": 10000,
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2278.58,
+    "y": 767.726,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23949,18 +23985,6 @@
     "x": -2372.53,
     "y": 644.043,
     "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1373,
-    "server_id": 3,
-    "type": "house",
-    "name": "Зараки",
-    "owner": "Despair_Empressions",
-    "status": "Аукцион",
-    "x": -2620.74,
-    "y": 103.3899,
-    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -23985,30 +24009,6 @@
     "x": -2359.21,
     "y": 721.6359,
     "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1504,
-    "server_id": 3,
-    "type": "house",
-    "name": "aveni",
-    "owner": "Vanechka_Implored",
-    "status": "Аукцион",
-    "x": -2341.02,
-    "y": 730.942,
-    "price": 8000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1675,
-    "server_id": 3,
-    "type": "house",
-    "name": "Карачай-малкьар",
-    "owner": "Despair_Empressions",
-    "status": "Аукцион",
-    "x": 2622.22,
-    "y": -1200.1,
-    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
