@@ -1824,6 +1824,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 152,
+    "server_id": 31,
+    "type": "house",
+    "name": "Крутой дом ",
+    "owner": "Patrik_Wilson",
+    "status": "Занято",
+    "x": 1103.22,
+    "y": -1069.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 153,
     "server_id": 31,
     "type": "house",
@@ -2648,18 +2660,6 @@
     "status": "Занято",
     "x": 848.593,
     "y": -745.0729,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 222,
-    "server_id": 31,
-    "type": "house",
-    "name": " :lion: Министерство Обороны РФ",
-    "owner": "Bratva_Rvetsya",
-    "status": "Занято",
-    "x": 891.1149,
-    "y": -782.806,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3828,18 +3828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 320,
-    "server_id": 31,
-    "type": "house",
-    "name": ":lion: Тактический Центр РФ",
-    "owner": "Bratva_Rvetsya",
-    "status": "Занято",
-    "x": 766.598,
-    "y": -556.781,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 321,
     "server_id": 31,
     "type": "house",
@@ -4320,18 +4308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 361,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bratva_Rvetsya",
-    "status": "Занято",
-    "x": 903.398,
-    "y": -1512.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 362,
     "server_id": 31,
     "type": "house",
@@ -4652,18 +4628,6 @@
     "status": "Занято",
     "x": 2363.33,
     "y": 116.068,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 389,
-    "server_id": 31,
-    "type": "house",
-    "name": ":lion: Министерство Обороны РФ",
-    "owner": "Bratva_Rvetsya",
-    "status": "Занято",
-    "x": 236.401,
-    "y": -1796.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5240,18 +5204,6 @@
     "status": "Занято",
     "x": 2801.93,
     "y": -1936.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 438,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bratva_Rvetsya",
-    "status": "Занято",
-    "x": 228.067,
-    "y": -1405.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8248,7 +8200,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Scorpio House",
-    "owner": "Sair_McCalarado",
+    "owner": "Sos_Krutoy",
     "status": "Занято",
     "x": 1285.0,
     "y": 2610.59,
@@ -23316,15 +23268,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 152,
+    "id": 222,
     "server_id": 31,
     "type": "house",
-    "name": "Крутой дом ",
-    "owner": "Patrik_Wilson",
+    "name": " :lion: Министерство Обороны РФ",
+    "owner": "Bratva_Rvetsya",
     "status": "Аукцион",
-    "x": 1103.22,
-    "y": -1069.38,
-    "price": 81000,
+    "x": 891.1149,
+    "y": -782.806,
+    "price": 70023,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 320,
+    "server_id": 31,
+    "type": "house",
+    "name": ":lion: Тактический Центр РФ",
+    "owner": "Bratva_Rvetsya",
+    "status": "Аукцион",
+    "x": 766.598,
+    "y": -556.781,
+    "price": 90001,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 361,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bratva_Rvetsya",
+    "status": "Аукцион",
+    "x": 903.398,
+    "y": -1512.91,
+    "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 389,
+    "server_id": 31,
+    "type": "house",
+    "name": ":lion: Министерство Обороны РФ",
+    "owner": "Bratva_Rvetsya",
+    "status": "Аукцион",
+    "x": 236.401,
+    "y": -1796.99,
+    "price": 400000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 438,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bratva_Rvetsya",
+    "status": "Аукцион",
+    "x": 228.067,
+    "y": -1405.5,
+    "price": 70000,
     "district": "Сан-Андреас"
   },
   {
