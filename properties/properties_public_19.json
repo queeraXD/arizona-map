@@ -612,6 +612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 51,
+    "server_id": 19,
+    "type": "house",
+    "name": ":uf21c: AntiSocial :uf21c:",
+    "owner": "Kyuoko_Kurokawa",
+    "status": "Занято",
+    "x": 2191.44,
+    "y": -1487.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 52,
     "server_id": 19,
     "type": "house",
@@ -7176,18 +7188,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 599,
-    "server_id": 19,
-    "type": "house",
-    "name": "<3DeForbs Empire<3",
-    "owner": "Povelitely_Sisek",
-    "status": "Занято",
-    "x": -1482.54,
-    "y": 2702.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 600,
     "server_id": 19,
     "type": "house",
@@ -7820,18 +7820,6 @@
     "status": "Занято",
     "x": 2169.36,
     "y": 772.255,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 653,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Larp_King",
-    "status": "Занято",
-    "x": 1977.75,
-    "y": 677.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19528,11 +19516,11 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Zellka_Orane",
-    "status": "Аукцион",
+    "owner": "Andrew_Svicov",
+    "status": "Занято",
     "x": 1809.71,
     "y": 2809.24,
-    "price": 100,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -22020,15 +22008,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 51,
+    "id": 599,
     "server_id": 19,
     "type": "house",
-    "name": ":uf21c: AntiSocial :uf21c:",
-    "owner": "Kyuoko_Kurokawa",
+    "name": "<3DeForbs Empire<3",
+    "owner": "Povelitely_Sisek",
     "status": "Аукцион",
-    "x": 2191.44,
-    "y": -1487.62,
-    "price": 5000,
+    "x": -1482.54,
+    "y": 2702.66,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 653,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Larp_King",
+    "status": "Аукцион",
+    "x": 1977.75,
+    "y": 677.4,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {

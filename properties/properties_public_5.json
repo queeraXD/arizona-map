@@ -4865,10 +4865,10 @@
     "type": "house",
     "name": "Sever_Home",
     "owner": "Severus_Snape",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1451.08,
     "y": 374.286,
-    "price": 10000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -4889,10 +4889,10 @@
     "type": "house",
     "name": "Sever_Home",
     "owner": "Severus_Snape",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1413.46,
     "y": 362.799,
-    "price": 10000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -4901,10 +4901,10 @@
     "type": "house",
     "name": "Sever_Home",
     "owner": "Severus_Snape",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1428.29,
     "y": 355.7619,
-    "price": 10000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -4913,10 +4913,10 @@
     "type": "house",
     "name": "Sever_Home",
     "owner": "Severus_Snape",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1408.62,
     "y": 345.282,
-    "price": 10000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -4925,10 +4925,10 @@
     "type": "house",
     "name": "Sever_Home",
     "owner": "Severus_Snape",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1402.4,
     "y": 333.4599,
-    "price": 10000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -4949,10 +4949,10 @@
     "type": "house",
     "name": "Sever_Home",
     "owner": "Severus_Snape",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1435.43,
     "y": 334.625,
-    "price": 10000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -4961,10 +4961,10 @@
     "type": "house",
     "name": "Sever_Home",
     "owner": "Severus_Snape",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1461.43,
     "y": 341.859,
-    "price": 10000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -18756,18 +18756,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1563,
-    "server_id": 5,
-    "type": "house",
-    "name": ":uf21d: Ферма ДameДz :uf21d:",
-    "owner": "Flaer_Damnedz",
-    "status": "Занято",
-    "x": 2462.77,
-    "y": 134.779,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1564,
     "server_id": 5,
     "type": "house",
@@ -25113,6 +25101,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1563,
+    "server_id": 5,
+    "type": "house",
+    "name": ":uf21d: Ферма ДameДz :uf21d:",
+    "owner": "Flaer_Damnedz",
+    "status": "Аукцион",
+    "x": 2462.77,
+    "y": 134.779,
+    "price": 115000,
     "district": "Сан-Андреас"
   },
   {
