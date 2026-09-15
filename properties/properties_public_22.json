@@ -4948,7 +4948,7 @@
     "server_id": 22,
     "type": "house",
     "name": "УРАааааааааааааа",
-    "owner": "Access_Denied",
+    "owner": "Maestro_Ambassador",
     "status": "Занято",
     "x": 1435.43,
     "y": 334.625,
@@ -7088,18 +7088,6 @@
     "status": "Занято",
     "x": -911.2329,
     "y": 2686.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 591,
-    "server_id": 22,
-    "type": "house",
-    "name": "Домик хота",
-    "owner": "Xot_Rock",
-    "status": "Занято",
-    "x": -1476.21,
-    "y": 2563.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10500,18 +10488,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 875,
-    "server_id": 22,
-    "type": "house",
-    "name": "Домик хота",
-    "owner": "Xot_Rock",
-    "status": "Занято",
-    "x": -236.106,
-    "y": 2540.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 876,
     "server_id": 22,
     "type": "house",
@@ -12648,18 +12624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1055,
-    "server_id": 22,
-    "type": "house",
-    "name": "Домик Хота",
-    "owner": "Xot_Rock",
-    "status": "Занято",
-    "x": -1901.0,
-    "y": 1203.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1056,
     "server_id": 22,
     "type": "house",
@@ -12692,18 +12656,6 @@
     "status": "Занято",
     "x": -2028.96,
     "y": 1275.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1059,
-    "server_id": 22,
-    "type": "house",
-    "name": "Домик Хота",
-    "owner": "Xot_Rock",
-    "status": "Занято",
-    "x": -2024.45,
-    "y": 1275.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19092,18 +19044,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1593,
-    "server_id": 22,
-    "type": "house",
-    "name": "Домик Хота",
-    "owner": "Xot_Rock",
-    "status": "Занято",
-    "x": 1534.72,
-    "y": 2026.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1594,
     "server_id": 22,
     "type": "house",
@@ -20076,18 +20016,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1675,
-    "server_id": 22,
-    "type": "house",
-    "name": "Домик Хота",
-    "owner": "Xot_Rock",
-    "status": "Занято",
-    "x": 2357.05,
-    "y": 1010.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1676,
     "server_id": 22,
     "type": "house",
@@ -20708,18 +20636,6 @@
     "status": "Занято",
     "x": 2492.43,
     "y": -1383.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1728,
-    "server_id": 22,
-    "type": "house",
-    "name": "Домик Хота",
-    "owner": "Xot_Rock",
-    "status": "Занято",
-    "x": 2476.29,
-    "y": -1383.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22020,6 +21936,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 591,
+    "server_id": 22,
+    "type": "house",
+    "name": "Домик хота",
+    "owner": "Xot_Rock",
+    "status": "Аукцион",
+    "x": -1476.21,
+    "y": 2563.06,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 875,
+    "server_id": 22,
+    "type": "house",
+    "name": "Домик хота",
+    "owner": "Xot_Rock",
+    "status": "Аукцион",
+    "x": -236.106,
+    "y": 2540.2,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 992,
     "server_id": 22,
     "type": "house",
@@ -22032,6 +21972,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1055,
+    "server_id": 22,
+    "type": "house",
+    "name": "Домик Хота",
+    "owner": "Xot_Rock",
+    "status": "Аукцион",
+    "x": -1901.0,
+    "y": 1203.07,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1059,
+    "server_id": 22,
+    "type": "house",
+    "name": "Домик Хота",
+    "owner": "Xot_Rock",
+    "status": "Аукцион",
+    "x": -2024.45,
+    "y": 1275.91,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1276,
     "server_id": 22,
     "type": "house",
@@ -22041,6 +22005,42 @@
     "x": -2690.48,
     "y": 64.5195,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1593,
+    "server_id": 22,
+    "type": "house",
+    "name": "Домик Хота",
+    "owner": "Xot_Rock",
+    "status": "Аукцион",
+    "x": 1534.72,
+    "y": 2026.88,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1675,
+    "server_id": 22,
+    "type": "house",
+    "name": "Домик Хота",
+    "owner": "Xot_Rock",
+    "status": "Аукцион",
+    "x": 2357.05,
+    "y": 1010.9,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1728,
+    "server_id": 22,
+    "type": "house",
+    "name": "Домик Хота",
+    "owner": "Xot_Rock",
+    "status": "Аукцион",
+    "x": 2476.29,
+    "y": -1383.38,
+    "price": 9000,
     "district": "Сан-Андреас"
   },
   {

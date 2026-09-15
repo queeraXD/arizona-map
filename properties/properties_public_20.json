@@ -1080,18 +1080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 90,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Troy_FIoyd",
-    "status": "Занято",
-    "x": 2017.75,
-    "y": -1703.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 91,
     "server_id": 20,
     "type": "house",
@@ -1664,6 +1652,18 @@
     "status": "Занято",
     "x": 1695.52,
     "y": -2125.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 139,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sidodji_Rusty",
+    "status": "Занято",
+    "x": 1684.81,
+    "y": -2098.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6188,6 +6188,18 @@
     "status": "Занято",
     "x": 1595.71,
     "y": 2038.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 517,
+    "server_id": 20,
+    "type": "house",
+    "name": "Лачуга Блэка",
+    "owner": "Black_Contract",
+    "status": "Занято",
+    "x": 1641.34,
+    "y": 2044.78,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22272,27 +22284,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 139,
+    "id": 90,
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "Vito_Quintero",
+    "owner": "Troy_FIoyd",
     "status": "Аукцион",
-    "x": 1684.81,
-    "y": -2098.62,
-    "price": 32500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 517,
-    "server_id": 20,
-    "type": "house",
-    "name": "Лачуга Блэка",
-    "owner": "Black_Contract",
-    "status": "Аукцион",
-    "x": 1641.34,
-    "y": 2044.78,
-    "price": 8000,
+    "x": 2017.75,
+    "y": -1703.38,
+    "price": 29999,
     "district": "Сан-Андреас"
   },
   {
@@ -25024,7 +25024,7 @@
     "server_id": 20,
     "type": "business",
     "name": "Отель",
-    "owner": "Kara_Wils",
+    "owner": "Andrey_Tumanov",
     "status": "Занято",
     "x": 2272.941,
     "y": -1795.335,
