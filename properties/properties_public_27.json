@@ -3472,7 +3472,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Дом",
-    "owner": "Wili_Sowid",
+    "owner": "Morph_LIng",
     "status": "Занято",
     "x": 2534.44,
     "y": -1063.42,
@@ -17620,7 +17620,7 @@
     "server_id": 27,
     "type": "house",
     "name": "дом",
-    "owner": "Sergei_Markov",
+    "owner": "Kenji_Kawasaki",
     "status": "Занято",
     "x": 2154.1,
     "y": -979.919,
@@ -23136,18 +23136,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1940,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Arlekin_Apostol",
-    "status": "Занято",
-    "x": 1728.03,
-    "y": 2834.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1941,
     "server_id": 27,
     "type": "house",
@@ -23548,7 +23536,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Дом",
-    "owner": "Wili_Sowid",
+    "owner": "Slishu_Forbs",
     "status": "Занято",
     "x": 1864.95,
     "y": -2019.68,
@@ -24444,6 +24432,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1940,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Arlekin_Apostol",
+    "status": "Аукцион",
+    "x": 1728.03,
+    "y": 2834.82,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1963,
     "server_id": 27,
     "type": "house",
@@ -24477,6 +24477,18 @@
     "x": 1940.01,
     "y": -2116.01,
     "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 356,
+    "server_id": 27,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2348.53,
+    "y": -1372.68,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24860,18 +24872,6 @@
     "status": "Занято",
     "x": 681.561,
     "y": -473.347,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 356,
-    "server_id": 27,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Stasik_Nkey",
-    "status": "Занято",
-    "x": 2348.53,
-    "y": -1372.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
