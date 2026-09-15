@@ -14751,7 +14751,7 @@
     "id": 1230,
     "server_id": 21,
     "type": "house",
-    "name": "Семейный домик",
+    "name": "Дом не продаю!",
     "owner": "Alexis_Grimm",
     "status": "Занято",
     "x": -2433.07,
@@ -15704,6 +15704,18 @@
     "status": "Занято",
     "x": -2515.38,
     "y": -170.9069,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1310,
+    "server_id": 21,
+    "type": "house",
+    "name": "БИТФАРМ",
+    "owner": "Palomino_Ricson",
+    "status": "Занято",
+    "x": 161.531,
+    "y": -1455.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21921,18 +21933,6 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1310,
-    "server_id": 21,
-    "type": "house",
-    "name": "БИТФАРМ",
-    "owner": "Palomino_Ricson",
-    "status": "Аукцион",
-    "x": 161.531,
-    "y": -1455.85,
-    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
