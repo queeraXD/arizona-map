@@ -16068,6 +16068,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1344,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alex_Adiakov",
+    "status": "Занято",
+    "x": 1623.48,
+    "y": 2567.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1345,
     "server_id": 24,
     "type": "house",
@@ -20472,18 +20484,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1714,
-    "server_id": 24,
-    "type": "house",
-    "name": "Brooks Empire",
-    "owner": "Hiroto_Wednesday",
-    "status": "Занято",
-    "x": 1754.54,
-    "y": 2736.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1715,
     "server_id": 24,
     "type": "house",
@@ -21984,18 +21984,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1344,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alex_Adiakov",
-    "status": "Аукцион",
-    "x": 1623.48,
-    "y": 2567.34,
-    "price": 4500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1707,
     "server_id": 24,
     "type": "house",
@@ -22005,6 +21993,18 @@
     "x": 1749.1,
     "y": 2755.88,
     "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1714,
+    "server_id": 24,
+    "type": "house",
+    "name": "Brooks Empire",
+    "owner": "Hiroto_Wednesday",
+    "status": "Аукцион",
+    "x": 1754.54,
+    "y": 2736.02,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -22041,30 +22041,6 @@
     "x": 1738.35,
     "y": 2861.66,
     "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 31,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Big_Husler",
-    "status": "Аукцион",
-    "x": 604.441,
-    "y": -1513.29,
-    "price": 649350,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 265,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Big_Husler",
-    "status": "Аукцион",
-    "x": 1019.18,
-    "y": -1871.74,
-    "price": 779220,
     "district": "Сан-Андреас"
   },
   {
@@ -23364,6 +23340,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 31,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Big_Husler",
+    "status": "Занято",
+    "x": 604.441,
+    "y": -1513.29,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 32,
     "server_id": 24,
     "type": "business",
@@ -23564,6 +23552,18 @@
     "status": "Занято",
     "x": -109.1,
     "y": -1521.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 265,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Big_Husler",
+    "status": "Занято",
+    "x": 1019.18,
+    "y": -1871.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25036,7 +25036,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Macan_Young",
+    "owner": "Subaru_Asgard",
     "status": "Занято",
     "x": -2681.61,
     "y": 583.93,

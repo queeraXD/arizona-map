@@ -5307,7 +5307,7 @@
     "id": 442,
     "server_id": 15,
     "type": "house",
-    "name": "Yamato$Home",
+    "name": "ALPHA",
     "owner": "Maxim_Alpha",
     "status": "Занято",
     "x": 2389.24,
@@ -8768,18 +8768,6 @@
     "status": "Занято",
     "x": 1618.29,
     "y": 2801.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 731,
-    "server_id": 15,
-    "type": "house",
-    "name": "норм лут в шкафу",
-    "owner": "Legion_Smith",
-    "status": "Занято",
-    "x": 1588.46,
-    "y": 2797.61,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21324,15 +21312,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 115,
+    "id": 731,
     "server_id": 15,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Tom_Sosison",
+    "type": "house",
+    "name": "норм лут в шкафу",
+    "owner": "Legion_Smith",
     "status": "Аукцион",
-    "x": -2625.72,
-    "y": 209.242,
-    "price": 400000,
+    "x": 1588.46,
+    "y": 2797.61,
+    "price": 4555,
     "district": "Сан-Андреас"
   },
   {
@@ -21416,6 +21404,18 @@
     "status": "Занято",
     "x": -1508.91,
     "y": 2610.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 115,
+    "server_id": 15,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Tom_Sosison",
+    "status": "Занято",
+    "x": -2625.72,
+    "y": 209.242,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -10164,18 +10164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 850,
-    "server_id": 6,
-    "type": "house",
-    "name": "деп,майнинг,подвал,гараж",
-    "owner": "Elliot_Vintage",
-    "status": "Занято",
-    "x": -2281.91,
-    "y": 1070.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 851,
     "server_id": 6,
     "type": "house",
@@ -22692,18 +22680,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1897,
-    "server_id": 6,
-    "type": "house",
-    "name": "Kaspi_Gold",
-    "owner": "Kaspii_Gold",
-    "status": "Занято",
-    "x": 469.9899,
-    "y": 1437.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1898,
     "server_id": 6,
     "type": "house",
@@ -24504,6 +24480,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 850,
+    "server_id": 6,
+    "type": "house",
+    "name": "деп,майнинг,подвал,гараж",
+    "owner": "Elliot_Vintage",
+    "status": "Аукцион",
+    "x": -2281.91,
+    "y": 1070.3,
+    "price": 4200,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1203,
     "server_id": 6,
     "type": "house",
@@ -24513,6 +24501,18 @@
     "x": -2590.53,
     "y": -158.498,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1897,
+    "server_id": 6,
+    "type": "house",
+    "name": "Kaspi_Gold",
+    "owner": "Kaspii_Gold",
+    "status": "Аукцион",
+    "x": 469.9899,
+    "y": 1437.44,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
@@ -24916,7 +24916,7 @@
     "server_id": 6,
     "type": "business",
     "name": "Бар",
-    "owner": "Benzo_Hokage",
+    "owner": "Fear_Lunary",
     "status": "Занято",
     "x": 2330.78,
     "y": 2165.8,
