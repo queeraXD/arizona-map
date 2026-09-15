@@ -292,7 +292,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Boss_California",
+    "owner": "Spike_Scout",
     "status": "Занято",
     "x": 2230.01,
     "y": -1281.05,
@@ -1068,18 +1068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 89,
-    "server_id": 16,
-    "type": "house",
-    "name": "Tesoro 10/15",
-    "owner": "Francesco_Carbon",
-    "status": "Занято",
-    "x": 2014.4,
-    "y": -1716.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 90,
     "server_id": 16,
     "type": "house",
@@ -1808,18 +1796,6 @@
     "status": "Занято",
     "x": 1142.12,
     "y": -1092.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 151,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mike_Salvator",
-    "status": "Занято",
-    "x": 1141.96,
-    "y": -1069.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22449,6 +22425,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 89,
+    "server_id": 16,
+    "type": "house",
+    "name": "Tesoro 10/15",
+    "owner": "Francesco_Carbon",
+    "status": "Аукцион",
+    "x": 2014.4,
+    "y": -1716.95,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 151,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mike_Salvator",
+    "status": "Аукцион",
+    "x": 1141.96,
+    "y": -1069.88,
+    "price": 13000,
     "district": "Сан-Андреас"
   },
   {

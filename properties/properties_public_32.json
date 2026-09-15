@@ -4596,6 +4596,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 384,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Harly_Quinn",
+    "status": "Занято",
+    "x": 2324.37,
+    "y": 191.1929,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 385,
     "server_id": 32,
     "type": "house",
@@ -10816,7 +10828,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Enzo_Torre",
-    "owner": "Enzo_Torre",
+    "owner": "Konstantin_Pinko",
     "status": "Занято",
     "x": -2126.89,
     "y": 996.109,
@@ -15920,18 +15932,6 @@
     "status": "Занято",
     "x": 1565.47,
     "y": 2757.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1333,
-    "server_id": 32,
-    "type": "house",
-    "name": "Убежище Мартина",
-    "owner": "Martin_Moonlight",
-    "status": "Занято",
-    "x": 1550.54,
-    "y": 2846.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22500,15 +22500,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 384,
+    "id": 1333,
     "server_id": 32,
     "type": "house",
-    "name": "Дом",
-    "owner": "Harly_Quinn",
+    "name": "Убежище Мартина",
+    "owner": "Martin_Moonlight",
     "status": "Аукцион",
-    "x": 2324.37,
-    "y": 191.1929,
-    "price": 70000,
+    "x": 1550.54,
+    "y": 2846.08,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
@@ -23320,7 +23320,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "[29]Alcogol_Onyx",
+    "owner": "Nick_Smith",
     "status": "Занято",
     "x": -2016.84,
     "y": -29.087,
@@ -24460,7 +24460,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Закусочная",
-    "owner": "[29]Alcogol_Onyx",
+    "owner": "Nick_Smith",
     "status": "Занято",
     "x": 203.446,
     "y": -201.945,

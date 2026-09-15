@@ -6876,18 +6876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 574,
-    "server_id": 21,
-    "type": "house",
-    "name": "FERMER",
-    "owner": "Frozer",
-    "status": "Занято",
-    "x": -161.2409,
-    "y": 2727.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 575,
     "server_id": 21,
     "type": "house",
@@ -15672,18 +15660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1310,
-    "server_id": 21,
-    "type": "house",
-    "name": "БИТФАРМ",
-    "owner": "Palomino_Ricson",
-    "status": "Занято",
-    "x": 161.531,
-    "y": -1455.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1311,
     "server_id": 21,
     "type": "house",
@@ -20032,7 +20008,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Чердак бара ниже",
-    "owner": "Mark_Smirnov",
+    "owner": "Tawer_Vanya",
     "status": "Занято",
     "x": 2517.04,
     "y": 1679.36,
@@ -21900,6 +21876,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 574,
+    "server_id": 21,
+    "type": "house",
+    "name": "FERMER",
+    "owner": "Frozer",
+    "status": "Аукцион",
+    "x": -161.2409,
+    "y": 2727.94,
+    "price": 10,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 725,
     "server_id": 21,
     "type": "house",
@@ -21921,6 +21909,18 @@
     "x": -2864.95,
     "y": 681.4379,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1310,
+    "server_id": 21,
+    "type": "house",
+    "name": "БИТФАРМ",
+    "owner": "Palomino_Ricson",
+    "status": "Аукцион",
+    "x": 161.531,
+    "y": -1455.85,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -24004,7 +24004,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Yodolom_Freedom",
+    "owner": "Molodoy_Freedom",
     "status": "Занято",
     "x": 2472.77,
     "y": 2034.24,
@@ -24028,7 +24028,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Yodolom_Freedom",
+    "owner": "Molodoy_Freedom",
     "status": "Занято",
     "x": 2366.7,
     "y": 2071.11,
@@ -24256,7 +24256,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Yodolom_Freedom",
+    "owner": "Molodoy_Freedom",
     "status": "Занято",
     "x": 1586.21,
     "y": -1394.48,
@@ -24772,7 +24772,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Yodolom_Freedom",
+    "owner": "Molodoy_Freedom",
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,
@@ -24892,7 +24892,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Yodolom_Freedom",
+    "owner": "Molodoy_Freedom",
     "status": "Занято",
     "x": 2405.02,
     "y": -1933.97,
@@ -25660,7 +25660,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Yodolom_Freedom",
+    "owner": "Molodoy_Freedom",
     "status": "Занято",
     "x": 2042.82,
     "y": 2633.45,

@@ -2256,18 +2256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 188,
-    "server_id": 4,
-    "type": "house",
-    "name": "Demo House",
-    "owner": "Watch_Demo",
-    "status": "Занято",
-    "x": 769.1149,
-    "y": -1696.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 189,
     "server_id": 4,
     "type": "house",
@@ -3951,8 +3939,8 @@
     "id": 331,
     "server_id": 4,
     "type": "house",
-    "name": "Hefner Family",
-    "owner": "Pablo_Hefner",
+    "name": "Salo Corporation",
+    "owner": "Hunter_Salo",
     "status": "Занято",
     "x": 751.999,
     "y": 375.2529,
@@ -3987,8 +3975,8 @@
     "id": 334,
     "server_id": 4,
     "type": "house",
-    "name": "Hefner Family",
-    "owner": "Pablo_Hefner",
+    "name": "Salo Corporation",
+    "owner": "Hunter_Salo",
     "status": "Занято",
     "x": 807.215,
     "y": 372.506,
@@ -25200,6 +25188,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 188,
+    "server_id": 4,
+    "type": "house",
+    "name": "Demo House",
+    "owner": "Watch_Demo",
+    "status": "Аукцион",
+    "x": 769.1149,
+    "y": -1696.62,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 250,
     "server_id": 4,
     "type": "house",
@@ -25220,7 +25220,7 @@
     "status": "Аукцион",
     "x": 1226.88,
     "y": -1010.94,
-    "price": 2500,
+    "price": 2,
     "district": "Сан-Андреас"
   },
   {
@@ -25244,7 +25244,7 @@
     "status": "Аукцион",
     "x": -2864.96,
     "y": 681.455,
-    "price": 2105,
+    "price": 1005,
     "district": "Сан-Андреас"
   },
   {

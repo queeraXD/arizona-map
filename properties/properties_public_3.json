@@ -480,6 +480,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 41,
+    "server_id": 3,
+    "type": "house",
+    "name": "1lovered On SoundCloud",
+    "owner": "Duwandroa_Qiao",
+    "status": "Занято",
+    "x": 2492.1,
+    "y": -1239.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 42,
+    "server_id": 3,
+    "type": "house",
+    "name": "42 братуха",
+    "owner": "Duwandroa_Qiao",
+    "status": "Занято",
+    "x": 2550.93,
+    "y": -1235.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 43,
     "server_id": 3,
     "type": "house",
@@ -1136,18 +1160,6 @@
     "status": "Занято",
     "x": 2652.88,
     "y": -1989.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 99,
-    "server_id": 3,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Ben_Bradberry",
-    "status": "Занято",
-    "x": 2637.77,
-    "y": -1992.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3908,18 +3920,6 @@
     "status": "Занято",
     "x": 286.1669,
     "y": 41.1968,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 332,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ben_Bradberry",
-    "status": "Занято",
-    "x": 758.6879,
-    "y": 375.0509,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8024,18 +8024,6 @@
     "status": "Занято",
     "x": 885.9299,
     "y": 1980.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 677,
-    "server_id": 3,
-    "type": "house",
-    "name": "DimaKostya",
-    "owner": "Ben_Bradberry",
-    "status": "Занято",
-    "x": 886.143,
-    "y": 2047.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15319,6 +15307,18 @@
     "owner": "Roman_Ethereal",
     "status": "Занято",
     "x": -2340.05,
+    "y": 656.7349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1288,
+    "server_id": 3,
+    "type": "house",
+    "name": "Arabaci",
+    "owner": "[08]Artem_Bojolax",
+    "status": "Занято",
+    "x": -2358.54,
     "y": 656.7349,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23607,7 +23607,7 @@
     "id": 1982,
     "server_id": 3,
     "type": "house",
-    "name": "Dracarys",
+    "name": "Дом",
     "owner": "Geralt_Rivs",
     "status": "Занято",
     "x": -85.6872,
@@ -23619,7 +23619,7 @@
     "id": 1983,
     "server_id": 3,
     "type": "house",
-    "name": "Dracarys",
+    "name": "Дом",
     "owner": "Geralt_Rivs",
     "status": "Занято",
     "x": -85.6846,
@@ -23823,7 +23823,7 @@
     "id": 2000,
     "server_id": 3,
     "type": "house",
-    "name": "Dracarys",
+    "name": "Дом",
     "owner": "Geralt_Rivs",
     "status": "Занято",
     "x": 7.3228,
@@ -23856,30 +23856,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 41,
-    "server_id": 3,
-    "type": "house",
-    "name": "1lovered On SoundCloud",
-    "owner": "Duwandroa_Qiao",
-    "status": "Аукцион",
-    "x": 2492.1,
-    "y": -1239.01,
-    "price": 25000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 42,
-    "server_id": 3,
-    "type": "house",
-    "name": "42 братуха",
-    "owner": "Duwandroa_Qiao",
-    "status": "Аукцион",
-    "x": 2550.93,
-    "y": -1235.19,
-    "price": 25000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 58,
     "server_id": 3,
     "type": "house",
@@ -23889,6 +23865,18 @@
     "x": 2514.21,
     "y": -1691.54,
     "price": 100123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 99,
+    "server_id": 3,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Ben_Bradberry",
+    "status": "Аукцион",
+    "x": 2637.77,
+    "y": -1992.44,
+    "price": 8500,
     "district": "Сан-Андреас"
   },
   {
@@ -23916,6 +23904,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 332,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ben_Bradberry",
+    "status": "Аукцион",
+    "x": 758.6879,
+    "y": 375.0509,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 356,
     "server_id": 3,
     "type": "house",
@@ -23932,11 +23932,23 @@
     "server_id": 3,
     "type": "house",
     "name": "Hells Angels",
-    "owner": "Toma_Hunter",
+    "owner": "Ben_Bradberry",
     "status": "Аукцион",
     "x": 2039.57,
     "y": 2766.53,
-    "price": 5000,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 677,
+    "server_id": 3,
+    "type": "house",
+    "name": "DimaKostya",
+    "owner": "Ben_Bradberry",
+    "status": "Аукцион",
+    "x": 886.143,
+    "y": 2047.18,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
@@ -23961,18 +23973,6 @@
     "x": -2075.03,
     "y": -2526.84,
     "price": 9999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1288,
-    "server_id": 3,
-    "type": "house",
-    "name": "Arabaci",
-    "owner": "[08]Artem_Bojolax",
-    "status": "Аукцион",
-    "x": -2358.54,
-    "y": 656.7349,
-    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -26608,7 +26608,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Отель",
-    "owner": "Zero_Belaev",
+    "owner": "Aleksander_Hpen",
     "status": "Занято",
     "x": 2746.322,
     "y": -1634.34,
