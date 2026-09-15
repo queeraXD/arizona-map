@@ -4596,18 +4596,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 384,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Harly_Quinn",
-    "status": "Занято",
-    "x": 2324.37,
-    "y": 191.1929,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 385,
     "server_id": 32,
     "type": "house",
@@ -17355,7 +17343,7 @@
     "id": 1452,
     "server_id": 32,
     "type": "house",
-    "name": "помойка",
+    "name": "Дом",
     "owner": "All_In",
     "status": "Занято",
     "x": 885.424,
@@ -17463,7 +17451,7 @@
     "id": 1461,
     "server_id": 32,
     "type": "house",
-    "name": "FRYTS",
+    "name": "Дом",
     "owner": "All_In",
     "status": "Занято",
     "x": 928.0239,
@@ -17547,7 +17535,7 @@
     "id": 1468,
     "server_id": 32,
     "type": "house",
-    "name": "Домик Hurly",
+    "name": "Дом",
     "owner": "All_In",
     "status": "Занято",
     "x": 885.7429,
@@ -22500,6 +22488,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 384,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Harly_Quinn",
+    "status": "Аукцион",
+    "x": 2324.37,
+    "y": 191.1929,
+    "price": 70000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1691,
     "server_id": 32,
     "type": "house",
@@ -22509,30 +22509,6 @@
     "x": 1110.52,
     "y": -1554.05,
     "price": 100000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 294,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Pay_Price",
-    "status": "Аукцион",
-    "x": 2472.77,
-    "y": 2034.24,
-    "price": 145000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 299,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Pay_Price",
-    "status": "Аукцион",
-    "x": 1876.07,
-    "y": 2234.15,
-    "price": 145000,
     "district": "Сан-Андреас"
   },
   {
@@ -22904,6 +22880,18 @@
     "status": "Занято",
     "x": 2330.78,
     "y": 2165.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 299,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Pay_Price",
+    "status": "Занято",
+    "x": 1876.07,
+    "y": 2234.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24572,6 +24560,18 @@
     "status": "Занято",
     "x": -144.085,
     "y": 1224.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 294,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Pay_Price",
+    "status": "Занято",
+    "x": 2472.77,
+    "y": 2034.24,
     "price": 0,
     "district": "Сан-Андреас"
   },

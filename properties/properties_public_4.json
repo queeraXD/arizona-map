@@ -3192,18 +3192,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 267,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Inter_Stellar",
-    "status": "Занято",
-    "x": 1226.88,
-    "y": -1010.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 268,
     "server_id": 4,
     "type": "house",
@@ -14084,18 +14072,6 @@
     "status": "Занято",
     "x": -2791.75,
     "y": 212.354,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1178,
-    "server_id": 4,
-    "type": "house",
-    "name": "Местечко на берегу моря",
-    "owner": "Zolo_Maks",
-    "status": "Занято",
-    "x": -2864.96,
-    "y": 681.455,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25236,6 +25212,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 267,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Inter_Stellar",
+    "status": "Аукцион",
+    "x": 1226.88,
+    "y": -1010.94,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 306,
     "server_id": 4,
     "type": "house",
@@ -25257,6 +25245,18 @@
     "x": 1252.6,
     "y": -901.893,
     "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1178,
+    "server_id": 4,
+    "type": "house",
+    "name": "дарк ку всем",
+    "owner": "Zolo_Maks",
+    "status": "Аукцион",
+    "x": -2864.96,
+    "y": 681.455,
+    "price": 2105,
     "district": "Сан-Андреас"
   },
   {
@@ -25588,7 +25588,7 @@
     "server_id": 4,
     "type": "business",
     "name": "Бар",
-    "owner": "Delusion_Akinaura",
+    "owner": "Saqo_Defender",
     "status": "Занято",
     "x": 1940.01,
     "y": -2116.01,

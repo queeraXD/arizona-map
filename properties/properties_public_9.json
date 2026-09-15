@@ -4176,6 +4176,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 348,
+    "server_id": 9,
+    "type": "house",
+    "name": "BELYCHHI DYNASTY",
+    "owner": "Tabyretka_Belychhi",
+    "status": "Занято",
+    "x": 1249.33,
+    "y": -877.3189,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 349,
     "server_id": 9,
     "type": "house",
@@ -11004,18 +11016,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 920,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Yami_Kenshi",
-    "status": "Занято",
-    "x": -2282.39,
-    "y": 1070.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 921,
     "server_id": 9,
     "type": "house",
@@ -14900,18 +14900,6 @@
     "status": "Занято",
     "x": -2793.14,
     "y": -127.0699,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1245,
-    "server_id": 9,
-    "type": "house",
-    "name": "The GROM HOUSE",
-    "owner": "Grom_Soho",
-    "status": "Занято",
-    "x": -2786.76,
-    "y": -118.1389,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23004,18 +22992,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1923,
-    "server_id": 9,
-    "type": "house",
-    "name": "the GROM tower",
-    "owner": "Grom_Soho",
-    "status": "Занято",
-    "x": 2476.36,
-    "y": -1359.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1924,
     "server_id": 9,
     "type": "house",
@@ -23904,18 +23880,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 348,
-    "server_id": 9,
-    "type": "house",
-    "name": "BELYCHHI DYNASTY",
-    "owner": "Tabyretka_Belychhi",
-    "status": "Аукцион",
-    "x": 1249.33,
-    "y": -877.3189,
-    "price": 20000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 597,
     "server_id": 9,
     "type": "house",
@@ -23925,6 +23889,42 @@
     "x": -1450.71,
     "y": 2691.05,
     "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 920,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yami_Kenshi",
+    "status": "Аукцион",
+    "x": -2282.39,
+    "y": 1070.59,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1245,
+    "server_id": 9,
+    "type": "house",
+    "name": "The GROM HOUSE",
+    "owner": "Grom_Soho",
+    "status": "Аукцион",
+    "x": -2786.76,
+    "y": -118.1389,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1923,
+    "server_id": 9,
+    "type": "house",
+    "name": "the GROM tower",
+    "owner": "Grom_Soho",
+    "status": "Аукцион",
+    "x": 2476.36,
+    "y": -1359.1,
+    "price": 25000,
     "district": "Сан-Андреас"
   },
   {
@@ -26560,7 +26560,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Отель",
-    "owner": "Jose_Roessner",
+    "owner": "Juan_Roessner",
     "status": "Занято",
     "x": -2166.173,
     "y": 243.5013,
