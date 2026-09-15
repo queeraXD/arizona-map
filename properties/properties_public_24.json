@@ -6024,18 +6024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 503,
-    "server_id": 24,
-    "type": "house",
-    "name": "кто купит дом тот харош",
-    "owner": "Vania_Oskora",
-    "status": "Занято",
-    "x": 1341.49,
-    "y": 1930.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 504,
     "server_id": 24,
     "type": "house",
@@ -15588,6 +15576,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1304,
+    "server_id": 24,
+    "type": "house",
+    "name": "Бигхаус",
+    "owner": "Vadim_Versachi",
+    "status": "Занято",
+    "x": -2576.42,
+    "y": -198.7969,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1305,
     "server_id": 24,
     "type": "house",
@@ -20556,18 +20556,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1721,
-    "server_id": 24,
-    "type": "house",
-    "name": "Brooks Empire",
-    "owner": "Cailo_Mir",
-    "status": "Занято",
-    "x": 1730.98,
-    "y": 2823.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1722,
     "server_id": 24,
     "type": "house",
@@ -20600,18 +20588,6 @@
     "status": "Занято",
     "x": 1794.37,
     "y": 2863.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1725,
-    "server_id": 24,
-    "type": "house",
-    "name": "ФЕРМА СИСИ 2",
-    "owner": "Logan_Cashmore",
-    "status": "Занято",
-    "x": 1783.7,
-    "y": 2868.61,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21980,7 +21956,19 @@
     "status": "Аукцион",
     "x": 2551.22,
     "y": 57.2303,
-    "price": 9000,
+    "price": 8888,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 503,
+    "server_id": 24,
+    "type": "house",
+    "name": "кто купит дом тот харош",
+    "owner": "Vania_Oskora",
+    "status": "Аукцион",
+    "x": 1341.49,
+    "y": 1930.03,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -22020,18 +22008,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1304,
-    "server_id": 24,
-    "type": "house",
-    "name": "Бигхаус",
-    "owner": "Vadim_Versachi",
-    "status": "Аукцион",
-    "x": -2576.42,
-    "y": -198.7969,
-    "price": 7500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1344,
     "server_id": 24,
     "type": "house",
@@ -22041,6 +22017,30 @@
     "x": 1623.48,
     "y": 2567.34,
     "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1721,
+    "server_id": 24,
+    "type": "house",
+    "name": "Brooks Empire",
+    "owner": "Cailo_Mir",
+    "status": "Аукцион",
+    "x": 1730.98,
+    "y": 2823.46,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1725,
+    "server_id": 24,
+    "type": "house",
+    "name": "ФЕРМА СИСИ 2",
+    "owner": "Logan_Cashmore",
+    "status": "Аукцион",
+    "x": 1783.7,
+    "y": 2868.61,
+    "price": 200,
     "district": "Сан-Андреас"
   },
   {

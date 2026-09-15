@@ -7164,6 +7164,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 598,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Leon_Rocky",
+    "status": "Занято",
+    "x": -1466.16,
+    "y": 2693.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 599,
     "server_id": 17,
     "type": "house",
@@ -11691,7 +11703,7 @@
     "id": 976,
     "server_id": 17,
     "type": "house",
-    "name": "Дом",
+    "name": "ничосик",
     "owner": "Tsunami_Babe",
     "status": "Занято",
     "x": -2446.17,
@@ -16812,18 +16824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1403,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Frank_Stevenson",
-    "status": "Занято",
-    "x": 412.1019,
-    "y": 1385.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1404,
     "server_id": 17,
     "type": "house",
@@ -18848,18 +18848,6 @@
     "status": "Занято",
     "x": 1867.77,
     "y": -2010.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1573,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stu_Lizal",
-    "status": "Занято",
-    "x": 1870.76,
-    "y": -2019.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22452,14 +22440,26 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 598,
+    "id": 1403,
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Kostya_Serento",
+    "owner": "Frank_Stevenson",
     "status": "Аукцион",
-    "x": -1466.16,
-    "y": 2693.15,
+    "x": 412.1019,
+    "y": 1385.15,
+    "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1573,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stu_Lizal",
+    "status": "Аукцион",
+    "x": 1870.76,
+    "y": -2019.77,
     "price": 2000,
     "district": "Сан-Андреас"
   },
@@ -22473,18 +22473,6 @@
     "x": 2495.48,
     "y": -1398.81,
     "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 194,
-    "server_id": 17,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Mikita_Diez",
-    "status": "Аукцион",
-    "x": -2022.61,
-    "y": 459.31,
-    "price": 165000,
     "district": "Сан-Андреас"
   },
   {
@@ -25448,6 +25436,18 @@
     "status": "Занято",
     "x": 2405.02,
     "y": -1933.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 194,
+    "server_id": 17,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Mikita_Diez",
+    "status": "Занято",
+    "x": -2022.61,
+    "y": 459.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
