@@ -9600,18 +9600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 803,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом Фармика)",
-    "owner": "Farmik_Farm",
-    "status": "Занято",
-    "x": -2303.43,
-    "y": 820.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 804,
     "server_id": 17,
     "type": "house",
@@ -22371,7 +22359,7 @@
     "id": 1876,
     "server_id": 17,
     "type": "house",
-    "name": "Дом",
+    "name": "$$$",
     "owner": "Dima_Graph",
     "status": "Занято",
     "x": 7.3228,
@@ -22425,6 +22413,18 @@
     "x": 1570.38,
     "y": 2711.11,
     "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 803,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом Фармика)",
+    "owner": "Farmik_Farm",
+    "status": "Аукцион",
+    "x": -2303.43,
+    "y": 820.036,
+    "price": 100,
     "district": "Сан-Андреас"
   },
   {
