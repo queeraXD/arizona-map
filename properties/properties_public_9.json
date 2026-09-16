@@ -13068,18 +13068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1090,
-    "server_id": 9,
-    "type": "house",
-    "name": "Монополия",
-    "owner": "Blocked_Cards",
-    "status": "Занято",
-    "x": 1802.7,
-    "y": 2826.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1091,
     "server_id": 9,
     "type": "house",
@@ -15244,7 +15232,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Babruiske Squad",
-    "owner": "Hugo_Smoke",
+    "owner": "Bars_HighStyle",
     "status": "Занято",
     "x": -2881.36,
     "y": 790.4589,
@@ -16352,6 +16340,18 @@
     "status": "Занято",
     "x": -2688.97,
     "y": 197.826,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1364,
+    "server_id": 9,
+    "type": "house",
+    "name": "дарк ку всем",
+    "owner": "Linar_Gambino",
+    "status": "Занято",
+    "x": -2678.16,
+    "y": 200.4909,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22704,18 +22704,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1900,
-    "server_id": 9,
-    "type": "house",
-    "name": "TG @anill2607",
-    "owner": "Gregory_Tevzadze",
-    "status": "Занято",
-    "x": 2468.4,
-    "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1901,
     "server_id": 9,
     "type": "house",
@@ -22760,18 +22748,6 @@
     "status": "Занято",
     "x": 2476.34,
     "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1905,
-    "server_id": 9,
-    "type": "house",
-    "name": "ТГ @Danill2607",
-    "owner": "Gregory_Tevzadze",
-    "status": "Занято",
-    "x": 2468.24,
-    "y": -1417.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23880,15 +23856,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1364,
+    "id": 1090,
     "server_id": 9,
     "type": "house",
-    "name": "дарк ку всем",
-    "owner": "Linar_Gambino",
-    "status": "Аукцион",
-    "x": -2678.16,
-    "y": 200.4909,
-    "price": 26000,
+    "name": "Монополия",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1802.7,
+    "y": 2826.27,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23925,6 +23901,30 @@
     "x": 2492.14,
     "y": -1410.34,
     "price": 16000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1900,
+    "server_id": 9,
+    "type": "house",
+    "name": "TG @anill2607",
+    "owner": "Gregory_Tevzadze",
+    "status": "Аукцион",
+    "x": 2468.4,
+    "y": -1398.81,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1905,
+    "server_id": 9,
+    "type": "house",
+    "name": "ТГ @Danill2607",
+    "owner": "Gregory_Tevzadze",
+    "status": "Аукцион",
+    "x": 2468.24,
+    "y": -1417.45,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
