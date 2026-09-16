@@ -1860,18 +1860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 155,
-    "server_id": 6,
-    "type": "house",
-    "name": "Drain Inc.",
-    "owner": "Sashka_Drain",
-    "status": "Занято",
-    "x": 993.6359,
-    "y": -1058.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 156,
     "server_id": 6,
     "type": "house",
@@ -5384,18 +5372,6 @@
     "status": "Занято",
     "x": 1846.45,
     "y": 82.9632,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 449,
-    "server_id": 6,
-    "type": "house",
-    "name": "ДЕП УСОВИЯ",
-    "owner": "Danya_Siemens",
-    "status": "Занято",
-    "x": 2330.09,
-    "y": -1060.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18504,18 +18480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1543,
-    "server_id": 6,
-    "type": "house",
-    "name": "Drain Tower House",
-    "owner": "Sashka_Drain",
-    "status": "Занято",
-    "x": 1110.55,
-    "y": -1554.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1544,
     "server_id": 6,
     "type": "house",
@@ -24456,6 +24420,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 155,
+    "server_id": 6,
+    "type": "house",
+    "name": "Drain Inc.",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 993.6359,
+    "y": -1058.32,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 449,
+    "server_id": 6,
+    "type": "house",
+    "name": "ДЕП УСОВИЯ",
+    "owner": "Danya_Siemens",
+    "status": "Аукцион",
+    "x": 2330.09,
+    "y": -1060.14,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1203,
     "server_id": 6,
     "type": "house",
@@ -24465,6 +24453,18 @@
     "x": -2590.53,
     "y": -158.498,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1543,
+    "server_id": 6,
+    "type": "house",
+    "name": "Drain Tower House",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1110.55,
+    "y": -1554.05,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
