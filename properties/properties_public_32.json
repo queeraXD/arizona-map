@@ -7920,18 +7920,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 662,
-    "server_id": 32,
-    "type": "house",
-    "name": "Hesoyam",
-    "owner": "Hiroto_PodSpace",
-    "status": "Занято",
-    "x": 985.838,
-    "y": 1901.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 663,
     "server_id": 32,
     "type": "house",
@@ -8984,18 +8972,6 @@
     "status": "Занято",
     "x": -2655.45,
     "y": 985.7849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 752,
-    "server_id": 32,
-    "type": "house",
-    "name": "Immortal",
-    "owner": "Vasya_Vasek",
-    "status": "Занято",
-    "x": -2641.07,
-    "y": 935.7189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15027,7 +15003,7 @@
     "id": 1257,
     "server_id": 32,
     "type": "house",
-    "name": "Pudge House",
+    "name": "DOM PEREDOZA",
     "owner": "Peredoz_Mefom",
     "status": "Занято",
     "x": -2321.74,
@@ -15619,18 +15595,6 @@
     "owner": "Mells_Happa",
     "status": "Занято",
     "x": -2541.36,
-    "y": -198.7969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1307,
-    "server_id": 32,
-    "type": "house",
-    "name": "Шлюпкин Дом",
-    "owner": "Implored_Space",
-    "status": "Занято",
-    "x": -2524.33,
     "y": -198.7969,
     "price": 0,
     "district": "Сан-Андреас"
@@ -17691,8 +17655,8 @@
     "id": 1480,
     "server_id": 32,
     "type": "house",
-    "name": "Belarus",
-    "owner": "Godric_Gryffindor",
+    "name": "[$] Emberheart Empire [$]",
+    "owner": "Theomars_Emberheart",
     "status": "Занято",
     "x": -2361.51,
     "y": 246.619,
@@ -20328,18 +20292,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1728,
-    "server_id": 32,
-    "type": "house",
-    "name": "CRYPTO BRODYAGA #1",
-    "owner": "Crypto_Brodyaga",
-    "status": "Занято",
-    "x": 2487.37,
-    "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1729,
     "server_id": 32,
     "type": "house",
@@ -21307,18 +21259,6 @@
     "owner": "Twix_Dragon",
     "status": "Занято",
     "x": 2659.21,
-    "y": 1978.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1810,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hiroto_PodSpace",
-    "status": "Занято",
-    "x": 2642.4,
     "y": 1978.84,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22500,6 +22440,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 662,
+    "server_id": 32,
+    "type": "house",
+    "name": "Hesoyam",
+    "owner": "Hiroto_PodSpace",
+    "status": "Аукцион",
+    "x": 985.838,
+    "y": 1901.11,
+    "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 752,
+    "server_id": 32,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Vasya_Vasek",
+    "status": "Аукцион",
+    "x": -2641.07,
+    "y": 935.7189,
+    "price": 50000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1051,
     "server_id": 32,
     "type": "house",
@@ -22509,6 +22473,42 @@
     "x": -1955.43,
     "y": 1222.45,
     "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1307,
+    "server_id": 32,
+    "type": "house",
+    "name": "Шлюпкин Дом",
+    "owner": "Implored_Space",
+    "status": "Аукцион",
+    "x": -2524.33,
+    "y": -198.7969,
+    "price": 12500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1728,
+    "server_id": 32,
+    "type": "house",
+    "name": "CRYPTO BRODYAGA #1",
+    "owner": "Crypto_Brodyaga",
+    "status": "Аукцион",
+    "x": 2487.37,
+    "y": -1398.81,
+    "price": 15789,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1810,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hiroto_PodSpace",
+    "status": "Аукцион",
+    "x": 2642.4,
+    "y": 1978.84,
+    "price": 12000,
     "district": "Сан-Андреас"
   },
   {
@@ -22557,6 +22557,18 @@
     "x": 1876.07,
     "y": 2234.15,
     "price": 134999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 320,
+    "server_id": 32,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Nicolas_Kato",
+    "status": "Аукцион",
+    "x": 776.731,
+    "y": 1871.36,
+    "price": 875099,
     "district": "Сан-Андреас"
   },
   {
@@ -22736,18 +22748,6 @@
     "status": "Занято",
     "x": 2159.55,
     "y": 943.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 320,
-    "server_id": 32,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Nicolas_Kato",
-    "status": "Занято",
-    "x": 776.731,
-    "y": 1871.36,
     "price": 0,
     "district": "Сан-Андреас"
   },

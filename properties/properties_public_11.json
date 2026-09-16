@@ -7836,6 +7836,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 653,
+    "server_id": 11,
+    "type": "house",
+    "name": "SHPAK | 10",
+    "owner": "Kail_King",
+    "status": "Занято",
+    "x": 1977.75,
+    "y": 677.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 654,
     "server_id": 11,
     "type": "house",
@@ -9516,18 +9528,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 794,
-    "server_id": 11,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Oleg_Pivassik",
-    "status": "Занято",
-    "x": -2538.73,
-    "y": 830.064,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 795,
     "server_id": 11,
     "type": "house",
@@ -10884,18 +10884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 909,
-    "server_id": 11,
-    "type": "house",
-    "name": "Zambidis Empire",
-    "owner": "Scrim_Greys",
-    "status": "Занято",
-    "x": -2168.8,
-    "y": 796.5159,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 910,
     "server_id": 11,
     "type": "house",
@@ -11436,6 +11424,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 955,
+    "server_id": 11,
+    "type": "house",
+    "name": "yan4ic",
+    "owner": "Despair_Empressions",
+    "status": "Занято",
+    "x": -2159.6,
+    "y": 946.984,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 956,
     "server_id": 11,
     "type": "house",
@@ -11504,6 +11504,18 @@
     "status": "Занято",
     "x": -2158.17,
     "y": 753.703,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 962,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "[18]Kolbasa_Vyazanka",
+    "status": "Занято",
+    "x": -2168.74,
+    "y": 743.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15604,7 +15616,7 @@
     "server_id": 11,
     "type": "house",
     "name": "Дом владельца",
-    "owner": "Vladlen_Shepard",
+    "owner": "Mihail_Alone",
     "status": "Занято",
     "x": -2048.26,
     "y": 820.6939,
@@ -19676,6 +19688,18 @@
     "status": "Занято",
     "x": 2751.5,
     "y": -1936.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1655,
+    "server_id": 11,
+    "type": "house",
+    "name": "Elliot & Danik Ltd.",
+    "owner": "Danik_Monopoly",
+    "status": "Занято",
+    "x": 2787.08,
+    "y": -1926.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24576,51 +24600,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 653,
+    "id": 794,
     "server_id": 11,
     "type": "house",
-    "name": "SHPAK | 10",
-    "owner": "Kail_King",
+    "name": "Pivo",
+    "owner": "Oleg_Pivassik",
     "status": "Аукцион",
-    "x": 1977.75,
-    "y": 677.4,
-    "price": 2000,
+    "x": -2538.73,
+    "y": 830.064,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 955,
+    "id": 909,
     "server_id": 11,
     "type": "house",
-    "name": "yan4ic",
-    "owner": "Despair_Empressions",
+    "name": "Zambidis Empire",
+    "owner": "Scrim_Greys",
     "status": "Аукцион",
-    "x": -2159.6,
-    "y": 946.984,
+    "x": -2168.8,
+    "y": 796.5159,
     "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 962,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Аукцион",
-    "x": -2168.74,
-    "y": 743.76,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1655,
-    "server_id": 11,
-    "type": "house",
-    "name": "$Caballero Empire$",
-    "owner": "Dagestanskij_Lovec",
-    "status": "Аукцион",
-    "x": 2787.08,
-    "y": -1926.23,
-    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -24645,6 +24645,18 @@
     "x": -2187.0,
     "y": 821.1329,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 266,
+    "server_id": 11,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Ane_Monopoly",
+    "status": "Аукцион",
+    "x": 947.921,
+    "y": 1719.16,
+    "price": 66666,
     "district": "Сан-Андреас"
   },
   {
@@ -27848,18 +27860,6 @@
     "status": "Занято",
     "x": 2824.77,
     "y": 1290.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 266,
-    "server_id": 11,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Ane_Monopoly",
-    "status": "Занято",
-    "x": 947.921,
-    "y": 1719.16,
     "price": 0,
     "district": "Сан-Андреас"
   },

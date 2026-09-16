@@ -1068,18 +1068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 90,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Troy_FIoyd",
-    "status": "Занято",
-    "x": 2017.75,
-    "y": -1703.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 91,
     "server_id": 20,
     "type": "house",
@@ -5860,7 +5848,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Дом Бряна №3",
-    "owner": "Brian_Shelby",
+    "owner": "Milon_Lasvin",
     "status": "Занято",
     "x": 2071.46,
     "y": 776.244,
@@ -21100,7 +21088,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Пажилой HOUSE 1762",
-    "owner": "Alter_Nativa",
+    "owner": "Diazz_Kaneki",
     "status": "Занято",
     "x": 1731.8,
     "y": 2855.49,
@@ -21655,6 +21643,18 @@
     "owner": "Hentaich_PokPok",
     "status": "Занято",
     "x": 2634.43,
+    "y": 2019.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1809,
+    "server_id": 20,
+    "type": "house",
+    "name": "Snickers",
+    "owner": "Spec_Kennet",
+    "status": "Занято",
+    "x": 2643.69,
     "y": 2019.21,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22308,6 +22308,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 90,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Troy_FIoyd",
+    "status": "Аукцион",
+    "x": 2017.75,
+    "y": -1703.38,
+    "price": 24999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 517,
     "server_id": 20,
     "type": "house",
@@ -22344,15 +22356,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1809,
+    "id": 299,
     "server_id": 20,
-    "type": "house",
-    "name": "Snickers",
-    "owner": "Spec_Kennet",
+    "type": "business",
+    "name": "Бар",
+    "owner": "Pick_Me",
     "status": "Аукцион",
-    "x": 2643.69,
-    "y": 2019.21,
-    "price": 6500,
+    "x": 1876.07,
+    "y": 2234.15,
+    "price": 170000,
     "district": "Сан-Андреас"
   },
   {
@@ -22724,18 +22736,6 @@
     "status": "Занято",
     "x": 2330.78,
     "y": 2165.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 299,
-    "server_id": 20,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Pick_Me",
-    "status": "Занято",
-    "x": 1876.07,
-    "y": 2234.15,
     "price": 0,
     "district": "Сан-Андреас"
   },

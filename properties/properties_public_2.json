@@ -6072,6 +6072,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 506,
+    "server_id": 2,
+    "type": "house",
+    "name": "ТРЕП ХАТА",
+    "owner": "Despair_Empressions",
+    "status": "Занято",
+    "x": 1364.57,
+    "y": 2003.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 507,
     "server_id": 2,
     "type": "house",
@@ -13588,7 +13600,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Штаб",
-    "owner": "Saymon_Kong",
+    "owner": "Dima_Kong",
     "status": "Занято",
     "x": 282.6799,
     "y": -1618.43,
@@ -14580,18 +14592,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1218,
-    "server_id": 2,
-    "type": "house",
-    "name": "Katahbas",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2351.14,
-    "y": 1318.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1219,
     "server_id": 2,
     "type": "house",
@@ -15104,18 +15104,6 @@
     "status": "Занято",
     "x": -2129.23,
     "y": 894.9149,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1262,
-    "server_id": 2,
-    "type": "house",
-    "name": "San Fierro House 1262",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2159.24,
-    "y": 786.125,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23928,18 +23916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 506,
-    "server_id": 2,
-    "type": "house",
-    "name": "ТРЕП ХАТА",
-    "owner": "Despair_Empressions",
-    "status": "Аукцион",
-    "x": 1364.57,
-    "y": 2003.7,
-    "price": 22000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 780,
     "server_id": 2,
     "type": "house",
@@ -23949,6 +23925,30 @@
     "x": -2541.29,
     "y": 733.153,
     "price": 19000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1218,
+    "server_id": 2,
+    "type": "house",
+    "name": "Katahbas",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2351.14,
+    "y": 1318.07,
+    "price": 12500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1262,
+    "server_id": 2,
+    "type": "house",
+    "name": "San Fierro House 1262",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2159.24,
+    "y": 786.125,
+    "price": 12500,
     "district": "Сан-Андреас"
   },
   {

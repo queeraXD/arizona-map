@@ -6132,18 +6132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 512,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Anya_Lawrence",
-    "status": "Занято",
-    "x": 1685.41,
-    "y": 2093.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 513,
     "server_id": 17,
     "type": "house",
@@ -6228,18 +6216,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 522,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hiroto_ShowLow",
-    "status": "Занято",
-    "x": 1645.49,
-    "y": 2127.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 523,
     "server_id": 17,
     "type": "house",
@@ -6260,18 +6236,6 @@
     "status": "Занято",
     "x": 1596.98,
     "y": 2147.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 525,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Slishu_Forbs",
-    "status": "Занято",
-    "x": 1595.81,
-    "y": 2123.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11116,7 +11080,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Jon_Dubovsko",
+    "owner": "Seforolius_Lerned",
     "status": "Занято",
     "x": -2017.64,
     "y": 1017.06,
@@ -18880,7 +18844,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Tim_Frosti",
+    "owner": "Lun_Summerly",
     "status": "Занято",
     "x": 1867.69,
     "y": -1998.07,
@@ -22428,6 +22392,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 512,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Anya_Lawrence",
+    "status": "Аукцион",
+    "x": 1685.41,
+    "y": 2093.71,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 520,
     "server_id": 17,
     "type": "house",
@@ -22449,6 +22425,30 @@
     "x": 1639.79,
     "y": 2102.8,
     "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 522,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hiroto_ShowLow",
+    "status": "Аукцион",
+    "x": 1645.49,
+    "y": 2127.9,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 525,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Slishu_Forbs",
+    "status": "Аукцион",
+    "x": 1595.81,
+    "y": 2123.15,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {

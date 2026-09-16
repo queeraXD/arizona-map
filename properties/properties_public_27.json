@@ -3460,7 +3460,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Temshchik818",
-    "owner": "Beka_Temshchik",
+    "owner": "Shahnur_Monte",
     "status": "Занято",
     "x": 2534.44,
     "y": -1063.42,
@@ -10740,18 +10740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 899,
-    "server_id": 27,
-    "type": "house",
-    "name": "Vochko логово",
-    "owner": "Hiroto_BumbleBee",
-    "status": "Занято",
-    "x": -2069.05,
-    "y": -2561.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 900,
     "server_id": 27,
     "type": "house",
@@ -10784,6 +10772,18 @@
     "status": "Занято",
     "x": -2065.95,
     "y": 1160.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 903,
+    "server_id": 27,
+    "type": "house",
+    "name": "DeadDynasty",
+    "owner": "John_Sage",
+    "status": "Занято",
+    "x": -2034.26,
+    "y": 902.5109,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14432,18 +14432,6 @@
     "status": "Занято",
     "x": -2872.46,
     "y": 697.502,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1208,
-    "server_id": 27,
-    "type": "house",
-    "name": "Relogia Monopoly",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2882.35,
-    "y": 726.682,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23160,6 +23148,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1940,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Arlekin_Apostol",
+    "status": "Занято",
+    "x": 1728.03,
+    "y": 2834.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1941,
     "server_id": 27,
     "type": "house",
@@ -23420,6 +23420,18 @@
     "status": "Занято",
     "x": 2591.62,
     "y": 2208.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1963,
+    "server_id": 27,
+    "type": "house",
+    "name": "Хата Сбеймика",
+    "owner": "Viper_Vazilin",
+    "status": "Занято",
+    "x": 2591.62,
+    "y": 2180.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24372,15 +24384,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 903,
+    "id": 899,
     "server_id": 27,
     "type": "house",
-    "name": "DeadDynasty",
-    "owner": "Государство",
+    "name": "Vochko логово",
+    "owner": "Hiroto_BumbleBee",
     "status": "Аукцион",
-    "x": -2034.26,
-    "y": 902.5109,
-    "price": 150,
+    "x": -2069.05,
+    "y": -2561.36,
+    "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1208,
+    "server_id": 27,
+    "type": "house",
+    "name": "Relogia Monopoly",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2882.35,
+    "y": 726.682,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -24441,30 +24465,6 @@
     "x": 1796.53,
     "y": 2803.61,
     "price": 2500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1940,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Arlekin_Apostol",
-    "status": "Аукцион",
-    "x": 1728.03,
-    "y": 2834.82,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1963,
-    "server_id": 27,
-    "type": "house",
-    "name": "Хата Сбеймика",
-    "owner": "Viper_Vazilin",
-    "status": "Аукцион",
-    "x": 2591.62,
-    "y": 2180.55,
-    "price": 4000,
     "district": "Сан-Андреас"
   },
   {
@@ -24820,7 +24820,7 @@
     "server_id": 27,
     "type": "business",
     "name": "Бар",
-    "owner": "Shingekino_Kyojin",
+    "owner": "Deus_Vult",
     "status": "Занято",
     "x": 1940.01,
     "y": -2116.01,
