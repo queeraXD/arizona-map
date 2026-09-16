@@ -6444,18 +6444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 539,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Opressor_Mkll",
-    "status": "Занято",
-    "x": 2037.05,
-    "y": 2663.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 540,
     "server_id": 29,
     "type": "house",
@@ -6508,7 +6496,7 @@
     "server_id": 29,
     "type": "house",
     "name": "depozity",
-    "owner": "Isa_Bakaev",
+    "owner": "Hiroto_Mirage",
     "status": "Занято",
     "x": 1921.69,
     "y": 2664.64,
@@ -15228,18 +15216,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1274,
-    "server_id": 29,
-    "type": "house",
-    "name": "trap-house",
-    "owner": "Valera_Bashmak",
-    "status": "Занято",
-    "x": -2689.51,
-    "y": 96.3162,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1275,
     "server_id": 29,
     "type": "house",
@@ -20424,18 +20400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1710,
-    "server_id": 29,
-    "type": "house",
-    "name": "стоит набор архетектора",
-    "owner": "Vladimir_Zelenskii",
-    "status": "Занято",
-    "x": 2441.54,
-    "y": 1222.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1711,
     "server_id": 29,
     "type": "house",
@@ -21084,6 +21048,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 539,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Opressor_Mkll",
+    "status": "Аукцион",
+    "x": 2037.05,
+    "y": 2663.99,
+    "price": 8000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 829,
     "server_id": 29,
     "type": "house",
@@ -21105,6 +21081,18 @@
     "x": -2511.33,
     "y": 951.2239,
     "price": 35000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1274,
+    "server_id": 29,
+    "type": "house",
+    "name": "trap-house",
+    "owner": "Valera_Bashmak",
+    "status": "Аукцион",
+    "x": -2689.51,
+    "y": 96.3162,
+    "price": 4500,
     "district": "Сан-Андреас"
   },
   {
@@ -21132,15 +21120,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 70,
+    "id": 1710,
     "server_id": 29,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Astrovskiy_Onyx",
+    "type": "house",
+    "name": "gangster lovit",
+    "owner": "Vladimir_Zelenskii",
     "status": "Аукцион",
-    "x": 2515.7,
-    "y": 1088.17,
-    "price": 72000,
+    "x": 2441.54,
+    "y": 1222.28,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -21740,6 +21728,18 @@
     "status": "Занято",
     "x": 2856.2,
     "y": 1264.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 70,
+    "server_id": 29,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Pharaon_Visconti",
+    "status": "Занято",
+    "x": 2515.7,
+    "y": 1088.17,
     "price": 0,
     "district": "Сан-Андреас"
   },

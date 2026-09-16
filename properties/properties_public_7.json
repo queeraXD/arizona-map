@@ -1116,6 +1116,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 93,
+    "server_id": 7,
+    "type": "house",
+    "name": "Вкусняшка KitKat",
+    "owner": "Kit_Katov",
+    "status": "Занято",
+    "x": 2016.54,
+    "y": -1629.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 94,
     "server_id": 7,
     "type": "house",
@@ -8028,6 +8040,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 671,
+    "server_id": 7,
+    "type": "house",
+    "name": "Вкусняшка KitKat",
+    "owner": "Kit_Katov",
+    "status": "Занято",
+    "x": 1085.88,
+    "y": 2000.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 672,
     "server_id": 7,
     "type": "house",
@@ -11132,18 +11156,6 @@
     "status": "Занято",
     "x": -2230.37,
     "y": 1027.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 931,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом бобра",
-    "owner": "Lupu_Pick",
-    "status": "Занято",
-    "x": -2282.16,
-    "y": 1046.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21468,18 +21480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1794,
-    "server_id": 7,
-    "type": "house",
-    "name": "Наркопритон",
-    "owner": "Yuuki_Namuro",
-    "status": "Занято",
-    "x": 2357.05,
-    "y": 1061.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1795,
     "server_id": 7,
     "type": "house",
@@ -25488,18 +25488,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 93,
-    "server_id": 7,
-    "type": "house",
-    "name": "Вкусняшка KitKat",
-    "owner": "Kit_Katov",
-    "status": "Аукцион",
-    "x": 2016.54,
-    "y": -1629.92,
-    "price": 70000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 399,
     "server_id": 7,
     "type": "house",
@@ -25512,15 +25500,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 671,
+    "id": 931,
     "server_id": 7,
     "type": "house",
-    "name": "Вкусняшка KitKat",
-    "owner": "Kit_Katov",
+    "name": "Дом бобра",
+    "owner": "Lupu_Pick",
     "status": "Аукцион",
-    "x": 1085.88,
-    "y": 2000.85,
-    "price": 70000,
+    "x": -2282.16,
+    "y": 1046.54,
+    "price": 39000,
     "district": "Сан-Андреас"
   },
   {
@@ -25545,6 +25533,18 @@
     "x": 2518.62,
     "y": 58.4566,
     "price": 89000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1794,
+    "server_id": 7,
+    "type": "house",
+    "name": "Наркопритон",
+    "owner": "Yuuki_Namuro",
+    "status": "Аукцион",
+    "x": 2357.05,
+    "y": 1061.93,
+    "price": 45000,
     "district": "Сан-Андреас"
   },
   {

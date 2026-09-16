@@ -6852,18 +6852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 572,
-    "server_id": 8,
-    "type": "house",
-    "name": "maining10",
-    "owner": "Angels_Blood",
-    "status": "Занято",
-    "x": -150.0549,
-    "y": 2688.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 573,
     "server_id": 8,
     "type": "house",
@@ -7768,7 +7756,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Хата",
-    "owner": "Alexandr_Platonov",
+    "owner": "Dorognoe_Radio",
     "status": "Занято",
     "x": 2448.76,
     "y": 689.794,
@@ -12348,6 +12336,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1032,
+    "server_id": 8,
+    "type": "house",
+    "name": "marshmallows house",
+    "owner": "Evgeni_Rukis",
+    "status": "Занято",
+    "x": -2433.77,
+    "y": 1318.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1033,
     "server_id": 8,
     "type": "house",
@@ -12892,7 +12892,7 @@
     "server_id": 8,
     "type": "house",
     "name": "sixmany x templarez",
-    "owner": "Lorenso_McMillan",
+    "owner": "Leonid_Krutoy",
     "status": "Занято",
     "x": 1740.25,
     "y": 2862.91,
@@ -22740,18 +22740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1900,
-    "server_id": 8,
-    "type": "house",
-    "name": "Angel Blood",
-    "owner": "Angels_Blood",
-    "status": "Занято",
-    "x": 2818.53,
-    "y": 2134.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1901,
     "server_id": 8,
     "type": "house",
@@ -23272,7 +23260,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Логово Начинающего",
-    "owner": "Lorenso_McMillan",
+    "owner": "Igor_Burmaldancer",
     "status": "Занято",
     "x": 2010.67,
     "y": 2168.81,
@@ -23948,18 +23936,6 @@
     "status": "Занято",
     "x": 2517.04,
     "y": 1679.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2001,
-    "server_id": 8,
-    "type": "house",
-    "name": "майнинг фулл 10",
-    "owner": "Angels_Blood",
-    "status": "Занято",
-    "x": 2517.04,
-    "y": 1674.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24864,18 +24840,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2078,
-    "server_id": 8,
-    "type": "house",
-    "name": "Angels_Blood 3",
-    "owner": "Angels_Blood",
-    "status": "Занято",
-    "x": 2587.4,
-    "y": -1229.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2079,
     "server_id": 8,
     "type": "house",
@@ -25752,6 +25716,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 572,
+    "server_id": 8,
+    "type": "house",
+    "name": "maining10",
+    "owner": "Angels_Blood",
+    "status": "Аукцион",
+    "x": -150.0549,
+    "y": 2688.03,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 735,
     "server_id": 8,
     "type": "house",
@@ -25764,18 +25740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1032,
-    "server_id": 8,
-    "type": "house",
-    "name": "marshmallows house",
-    "owner": "Valentin_Antonovv",
-    "status": "Аукцион",
-    "x": -2433.77,
-    "y": 1318.95,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1818,
     "server_id": 8,
     "type": "house",
@@ -25785,6 +25749,54 @@
     "x": -2172.98,
     "y": 1079.99,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1900,
+    "server_id": 8,
+    "type": "house",
+    "name": "Angel Blood",
+    "owner": "Angels_Blood",
+    "status": "Аукцион",
+    "x": 2818.53,
+    "y": 2134.41,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2001,
+    "server_id": 8,
+    "type": "house",
+    "name": "майнинг фулл 10",
+    "owner": "Angels_Blood",
+    "status": "Аукцион",
+    "x": 2517.04,
+    "y": 1674.2,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2078,
+    "server_id": 8,
+    "type": "house",
+    "name": "Angels_Blood 3",
+    "owner": "Angels_Blood",
+    "status": "Аукцион",
+    "x": 2587.4,
+    "y": -1229.29,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 8,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Orochimaru_Mikami",
+    "status": "Аукцион",
+    "x": 2366.7,
+    "y": 2071.11,
+    "price": 170000,
     "district": "Сан-Андреас"
   },
   {
@@ -27860,18 +27872,6 @@
     "status": "Занято",
     "x": 2392.56,
     "y": 2042.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 8,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Orochimaru_Mikami",
-    "status": "Занято",
-    "x": 2366.7,
-    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -11652,18 +11652,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 974,
-    "server_id": 13,
-    "type": "house",
-    "name": "домик лв верх 1",
-    "owner": "Lovec_Pisunovv",
-    "status": "Занято",
-    "x": -2479.06,
-    "y": 2509.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 975,
     "server_id": 13,
     "type": "house",
@@ -11672,18 +11660,6 @@
     "status": "Занято",
     "x": -2464.03,
     "y": 2486.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 976,
-    "server_id": 13,
-    "type": "house",
-    "name": "Nakayama Family",
-    "owner": "Lovec_Pisunovv",
-    "status": "Занято",
-    "x": -2446.17,
-    "y": 2491.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12620,6 +12596,18 @@
     "status": "Занято",
     "x": -1901.98,
     "y": 1239.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1055,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Artem_Wvanov",
+    "status": "Занято",
+    "x": -1901.0,
+    "y": 1203.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14456,18 +14444,6 @@
     "status": "Занято",
     "x": -2789.18,
     "y": 183.7279,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1209,
-    "server_id": 13,
-    "type": "house",
-    "name": "Сосип ",
-    "owner": "Var_Esa",
-    "status": "Занято",
-    "x": -2791.85,
-    "y": 194.5769,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,15 +23256,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1055,
+    "id": 974,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Valentin_Antonov",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunovv",
     "status": "Аукцион",
-    "x": -1901.0,
-    "y": 1203.07,
-    "price": 1500,
+    "x": -2479.06,
+    "y": 2509.42,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 976,
+    "server_id": 13,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunovv",
+    "status": "Аукцион",
+    "x": -2446.17,
+    "y": 2491.81,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1209,
+    "server_id": 13,
+    "type": "house",
+    "name": "Сосип ",
+    "owner": "Var_Esa",
+    "status": "Аукцион",
+    "x": -2791.85,
+    "y": 194.5769,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
