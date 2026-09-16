@@ -3756,6 +3756,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 313,
+    "server_id": 11,
+    "type": "house",
+    "name": "Buldozer Dynasty",
+    "owner": "Kostik_Podpal",
+    "status": "Занято",
+    "x": 1939.25,
+    "y": -1066.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 314,
     "server_id": 11,
     "type": "house",
@@ -5612,6 +5624,18 @@
     "status": "Занято",
     "x": 2368.36,
     "y": 654.8389,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 469,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kostik_Podpal",
+    "status": "Занято",
+    "x": 2397.45,
+    "y": 655.7969,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7764,6 +7788,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 649,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kostik_Podpal",
+    "status": "Занято",
+    "x": 2450.27,
+    "y": 662.578,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 650,
     "server_id": 11,
     "type": "house",
@@ -7796,18 +7832,6 @@
     "status": "Занято",
     "x": 2169.36,
     "y": 772.255,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 653,
-    "server_id": 11,
-    "type": "house",
-    "name": "SHPAK | 10",
-    "owner": "Kail_King",
-    "status": "Занято",
-    "x": 1977.75,
-    "y": 677.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11412,18 +11436,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 955,
-    "server_id": 11,
-    "type": "house",
-    "name": "yan4ic",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": -2159.6,
-    "y": 946.984,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 956,
     "server_id": 11,
     "type": "house",
@@ -11492,18 +11504,6 @@
     "status": "Занято",
     "x": -2158.17,
     "y": 753.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 962,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": -2168.74,
-    "y": 743.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19680,18 +19680,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1655,
-    "server_id": 11,
-    "type": "house",
-    "name": "$Caballero Empire$",
-    "owner": "Dagestanskij_Lovec",
-    "status": "Занято",
-    "x": 2787.08,
-    "y": -1926.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1656,
     "server_id": 11,
     "type": "house",
@@ -21571,6 +21559,18 @@
     "owner": "Felix_Blackford",
     "status": "Занято",
     "x": 2486.37,
+    "y": 1682.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1813,
+    "server_id": 11,
+    "type": "house",
+    "name": "Zambidis",
+    "owner": "Kostik_Podpal",
+    "status": "Занято",
+    "x": 2491.26,
     "y": 1682.87,
     "price": 0,
     "district": "Сан-Андреас"
@@ -24600,51 +24600,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 313,
+    "id": 653,
     "server_id": 11,
     "type": "house",
-    "name": "Buldozer Dynasty",
-    "owner": "Kostik_Podpal",
+    "name": "SHPAK | 10",
+    "owner": "Kail_King",
     "status": "Аукцион",
-    "x": 1939.25,
-    "y": -1066.56,
-    "price": 10000,
+    "x": 1977.75,
+    "y": 677.4,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 469,
+    "id": 955,
+    "server_id": 11,
+    "type": "house",
+    "name": "yan4ic",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": -2159.6,
+    "y": 946.984,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 962,
     "server_id": 11,
     "type": "house",
     "name": "Дом",
-    "owner": "Kostik_Podpal",
+    "owner": "Despair_Empressions",
     "status": "Аукцион",
-    "x": 2397.45,
-    "y": 655.7969,
-    "price": 6000,
+    "x": -2168.74,
+    "y": 743.76,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 649,
+    "id": 1655,
     "server_id": 11,
     "type": "house",
-    "name": "Дом",
-    "owner": "Kostik_Podpal",
+    "name": "$Caballero Empire$",
+    "owner": "Dagestanskij_Lovec",
     "status": "Аукцион",
-    "x": 2450.27,
-    "y": 662.578,
-    "price": 6000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1813,
-    "server_id": 11,
-    "type": "house",
-    "name": "Zambidis",
-    "owner": "Kostik_Podpal",
-    "status": "Аукцион",
-    "x": 2491.26,
-    "y": 1682.87,
-    "price": 6000,
+    "x": 2787.08,
+    "y": -1926.23,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {

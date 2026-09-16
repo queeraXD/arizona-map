@@ -444,6 +444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 37,
+    "server_id": 20,
+    "type": "house",
+    "name": "халупа максона",
+    "owner": "Makson_Bandera",
+    "status": "Занято",
+    "x": 2389.73,
+    "y": -1346.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 38,
     "server_id": 20,
     "type": "house",
@@ -5132,30 +5144,6 @@
     "status": "Занято",
     "x": 252.173,
     "y": -121.3349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 430,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Занято",
-    "x": 248.332,
-    "y": -33.1693,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 431,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Занято",
-    "x": 253.3269,
-    "y": -22.4484,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12452,6 +12440,18 @@
     "status": "Занято",
     "x": -1728.11,
     "y": 1158.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1042,
+    "server_id": 20,
+    "type": "house",
+    "name": "Все подвалы гараж и крутая инта",
+    "owner": "Lir_Ika",
+    "status": "Занято",
+    "x": -1742.51,
+    "y": 1174.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21648,18 +21648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1809,
-    "server_id": 20,
-    "type": "house",
-    "name": "Snickers",
-    "owner": "Spec_Kennet",
-    "status": "Занято",
-    "x": 2643.69,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1810,
     "server_id": 20,
     "type": "house",
@@ -22296,18 +22284,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 37,
-    "server_id": 20,
-    "type": "house",
-    "name": "халупа максона",
-    "owner": "Makson_Bandera",
-    "status": "Аукцион",
-    "x": 2389.73,
-    "y": -1346.03,
-    "price": 13000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 280,
     "server_id": 20,
     "type": "house",
@@ -22317,6 +22293,30 @@
     "x": 2413.57,
     "y": 61.4468,
     "price": 24999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 430,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
+    "status": "Аукцион",
+    "x": 248.332,
+    "y": -33.1693,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 431,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
+    "status": "Аукцион",
+    "x": 253.3269,
+    "y": -22.4484,
+    "price": 25000,
     "district": "Сан-Андреас"
   },
   {
@@ -22344,15 +22344,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1042,
+    "id": 1809,
     "server_id": 20,
     "type": "house",
-    "name": "Все подвалы гараж и крутая инта",
-    "owner": "Lir_Ika",
+    "name": "Snickers",
+    "owner": "Spec_Kennet",
     "status": "Аукцион",
-    "x": -1742.51,
-    "y": 1174.37,
-    "price": 7499,
+    "x": 2643.69,
+    "y": 2019.21,
+    "price": 6500,
     "district": "Сан-Андреас"
   },
   {
@@ -26152,7 +26152,7 @@
     "server_id": 20,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Noro_Knight",
+    "owner": "Hidoina_Req",
     "status": "Занято",
     "x": 641.4393,
     "y": -494.824,

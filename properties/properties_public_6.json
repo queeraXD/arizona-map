@@ -5376,6 +5376,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 449,
+    "server_id": 6,
+    "type": "house",
+    "name": "ДЕП УСОВИЯ",
+    "owner": "Alexey_Dorian",
+    "status": "Занято",
+    "x": 2330.09,
+    "y": -1060.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 450,
     "server_id": 6,
     "type": "house",
@@ -10164,18 +10176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 850,
-    "server_id": 6,
-    "type": "house",
-    "name": "деп,майнинг,подвал,гараж",
-    "owner": "Elliot_Vintage",
-    "status": "Занято",
-    "x": -2281.91,
-    "y": 1070.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 851,
     "server_id": 6,
     "type": "house",
@@ -11876,18 +11876,6 @@
     "status": "Занято",
     "x": -715.721,
     "y": 1438.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 993,
-    "server_id": 6,
-    "type": "house",
-    "name": "poksqd",
-    "owner": "Dmitrii_Masturbator",
-    "status": "Занято",
-    "x": -657.5729,
-    "y": 1447.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23520,18 +23508,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1970,
-    "server_id": 6,
-    "type": "house",
-    "name": "[$] Darkside Empire [$]",
-    "owner": "Sinister_Immortalis",
-    "status": "Занято",
-    "x": 2647.11,
-    "y": 2242.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1971,
     "server_id": 6,
     "type": "house",
@@ -24444,18 +24420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 449,
-    "server_id": 6,
-    "type": "house",
-    "name": "ДЕП УСОВИЯ",
-    "owner": "Danya_Siemens",
-    "status": "Аукцион",
-    "x": 2330.09,
-    "y": -1060.14,
-    "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 605,
     "server_id": 6,
     "type": "house",
@@ -24465,6 +24429,30 @@
     "x": -1577.62,
     "y": 2686.93,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 850,
+    "server_id": 6,
+    "type": "house",
+    "name": "деп,майнинг,подвал,гараж",
+    "owner": "Elliot_Vintage",
+    "status": "Аукцион",
+    "x": -2281.91,
+    "y": 1070.3,
+    "price": 4100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 993,
+    "server_id": 6,
+    "type": "house",
+    "name": "poksqd",
+    "owner": "Dmitrii_Masturbator",
+    "status": "Аукцион",
+    "x": -657.5729,
+    "y": 1447.23,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -24524,6 +24512,18 @@
     "status": "Аукцион",
     "x": -1780.1,
     "y": 1138.83,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1970,
+    "server_id": 6,
+    "type": "house",
+    "name": "[$] Darkside Empire [$]",
+    "owner": "Sinister_Immortalis",
+    "status": "Аукцион",
+    "x": 2647.11,
+    "y": 2242.38,
     "price": 1000,
     "district": "Сан-Андреас"
   },
