@@ -12976,7 +12976,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Дом",
-    "owner": "Maloy_Inadequate",
+    "owner": "Owner_Family",
     "status": "Занято",
     "x": 1780.95,
     "y": 2744.99,
@@ -24144,18 +24144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2018,
-    "server_id": 26,
-    "type": "house",
-    "name": "JJovo",
-    "owner": "Zahar_Syhanov",
-    "status": "Занято",
-    "x": 1754.37,
-    "y": 2735.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2019,
     "server_id": 26,
     "type": "house",
@@ -25184,6 +25172,18 @@
     "status": "Аукцион",
     "x": 2468.1,
     "y": -1376.33,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2018,
+    "server_id": 26,
+    "type": "house",
+    "name": "JJovo",
+    "owner": "Zahar_Syhanov",
+    "status": "Аукцион",
+    "x": 1754.37,
+    "y": 2735.98,
     "price": 500,
     "district": "Сан-Андреас"
   },
