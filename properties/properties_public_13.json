@@ -12664,7 +12664,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Nefor_Milniy",
+    "owner": "Valentin_Antonov",
     "status": "Занято",
     "x": -1901.0,
     "y": 1203.07,
@@ -15008,18 +15008,6 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1318.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1253,
-    "server_id": 13,
-    "type": "house",
-    "name": "Epshtein Lair",
-    "owner": "Albert_Epshtein",
-    "status": "Занято",
-    "x": -2351.14,
-    "y": 1299.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23256,6 +23244,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1253,
+    "server_id": 13,
+    "type": "house",
+    "name": "Epshtein Lair",
+    "owner": "Albert_Epshtein",
+    "status": "Аукцион",
+    "x": -2351.14,
+    "y": 1299.64,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1480,
     "server_id": 13,
     "type": "house",
@@ -27064,7 +27064,7 @@
     "server_id": 13,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Entisy_Wong",
+    "owner": "Entisy_Triada",
     "status": "Занято",
     "x": -1784.542,
     "y": -594.7703,
