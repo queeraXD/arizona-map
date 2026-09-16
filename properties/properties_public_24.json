@@ -3372,18 +3372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 281,
-    "server_id": 24,
-    "type": "house",
-    "name": " Sosuke House",
-    "owner": "Unhinged_Mode",
-    "status": "Занято",
-    "x": 2551.22,
-    "y": 57.2303,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 282,
     "server_id": 24,
     "type": "house",
@@ -5352,6 +5340,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 446,
+    "server_id": 24,
+    "type": "house",
+    "name": "|Д|О|М|И|К|Б|Р|А|Т|И|Ш|Е|К|",
+    "owner": "Pasha_Caplya",
+    "status": "Занято",
+    "x": 2440.64,
+    "y": -1057.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 447,
     "server_id": 24,
     "type": "house",
@@ -6320,18 +6320,6 @@
     "status": "Занято",
     "x": 2039.57,
     "y": 2766.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 528,
-    "server_id": 24,
-    "type": "house",
-    "name": "Домик Ванька",
-    "owner": "Vanek_Judoka",
-    "status": "Занято",
-    "x": 2018.48,
-    "y": 2766.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11012,18 +11000,6 @@
     "status": "Занято",
     "x": -2281.41,
     "y": 1046.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 920,
-    "server_id": 24,
-    "type": "house",
-    "name": "моя халабуда",
-    "owner": "Unhinged_Mode",
-    "status": "Занято",
-    "x": -2282.39,
-    "y": 1070.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22020,15 +21996,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 446,
+    "id": 281,
     "server_id": 24,
     "type": "house",
-    "name": "|Д|О|М|И|К|Б|Р|А|Т|И|Ш|Е|К|",
-    "owner": "Pasha_Caplya",
+    "name": " Sosuke House",
+    "owner": "Unhinged_Mode",
     "status": "Аукцион",
-    "x": 2440.64,
-    "y": -1057.33,
-    "price": 4500,
+    "x": 2551.22,
+    "y": 57.2303,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 528,
+    "server_id": 24,
+    "type": "house",
+    "name": "Домик Ванька",
+    "owner": "Vanek_Judoka",
+    "status": "Аукцион",
+    "x": 2018.48,
+    "y": 2766.55,
+    "price": 7000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 920,
+    "server_id": 24,
+    "type": "house",
+    "name": "моя халабуда",
+    "owner": "Unhinged_Mode",
+    "status": "Аукцион",
+    "x": -2282.39,
+    "y": 1070.59,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -22041,30 +22041,6 @@
     "x": 1780.78,
     "y": 2744.58,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 31,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Big_Husler",
-    "status": "Аукцион",
-    "x": 604.441,
-    "y": -1513.29,
-    "price": 700000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 265,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Big_Husler",
-    "status": "Аукцион",
-    "x": 1019.18,
-    "y": -1871.74,
-    "price": 800000,
     "district": "Сан-Андреас"
   },
   {
@@ -23364,6 +23340,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 31,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Big_Husler",
+    "status": "Занято",
+    "x": 604.441,
+    "y": -1513.29,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 32,
     "server_id": 24,
     "type": "business",
@@ -23564,6 +23552,18 @@
     "status": "Занято",
     "x": -109.1,
     "y": -1521.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 265,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Big_Husler",
+    "status": "Занято",
+    "x": 1019.18,
+    "y": -1871.74,
     "price": 0,
     "district": "Сан-Андреас"
   },

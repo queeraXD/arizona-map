@@ -9372,18 +9372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 781,
-    "server_id": 3,
-    "type": "house",
-    "name": "For Sale",
-    "owner": "Jesi_Pinkman",
-    "status": "Занято",
-    "x": -2541.25,
-    "y": 750.9169,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 782,
     "server_id": 3,
     "type": "house",
@@ -15432,18 +15420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1288,
-    "server_id": 3,
-    "type": "house",
-    "name": "bojolx",
-    "owner": "[08]Artem_Bojolax",
-    "status": "Занято",
-    "x": -2358.54,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1289,
     "server_id": 3,
     "type": "house",
@@ -16796,18 +16772,6 @@
     "status": "Занято",
     "x": 2794.26,
     "y": 2229.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1402,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Podpison_Sancheza",
-    "status": "Занято",
-    "x": 2788.01,
-    "y": 2221.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24000,6 +23964,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 781,
+    "server_id": 3,
+    "type": "house",
+    "name": "For Sale",
+    "owner": "Jesi_Pinkman",
+    "status": "Аукцион",
+    "x": -2541.25,
+    "y": 750.9169,
+    "price": 7500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 891,
     "server_id": 3,
     "type": "house",
@@ -24009,6 +23985,30 @@
     "x": -2075.03,
     "y": -2526.84,
     "price": 9999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1288,
+    "server_id": 3,
+    "type": "house",
+    "name": "bojolx",
+    "owner": "Jesi_Pinkman",
+    "status": "Аукцион",
+    "x": -2358.54,
+    "y": 656.7349,
+    "price": 7500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1402,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Podpison_Sancheza",
+    "status": "Аукцион",
+    "x": 2788.01,
+    "y": 2221.92,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {

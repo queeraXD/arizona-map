@@ -9828,18 +9828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 822,
-    "server_id": 27,
-    "type": "house",
-    "name": "Бункер Satoshi",
-    "owner": "Akira_Quadeentino",
-    "status": "Занято",
-    "x": -2691.24,
-    "y": -134.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 823,
     "server_id": 27,
     "type": "house",
@@ -11384,18 +11372,6 @@
     "status": "Занято",
     "x": -2160.15,
     "y": 983.676,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 954,
-    "server_id": 27,
-    "type": "house",
-    "name": "Akira",
-    "owner": "Akira_Quadeentino",
-    "status": "Занято",
-    "x": -2159.76,
-    "y": 965.578,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20124,18 +20100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1683,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Obs_Studio",
-    "status": "Занято",
-    "x": 1422.26,
-    "y": 2026.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1684,
     "server_id": 27,
     "type": "house",
@@ -21420,6 +21384,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1792,
+    "server_id": 27,
+    "type": "house",
+    "name": "есть деп условия",
+    "owner": "Shingekino_Kyojin",
+    "status": "Занято",
+    "x": 2495.44,
+    "y": -1383.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1793,
     "server_id": 27,
     "type": "house",
@@ -21452,6 +21428,18 @@
     "status": "Занято",
     "x": 2487.38,
     "y": -1383.37,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1796,
+    "server_id": 27,
+    "type": "house",
+    "name": "есть деп условия",
+    "owner": "Shingekino_Kyojin",
+    "status": "Занято",
+    "x": 2487.21,
+    "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21835,6 +21823,18 @@
     "owner": "Moda_Dissloved",
     "status": "Занято",
     "x": 2495.26,
+    "y": -1376.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1829,
+    "server_id": 27,
+    "type": "house",
+    "name": "есть деп условия",
+    "owner": "Shingekino_Kyojin",
+    "status": "Занято",
+    "x": 2476.28,
     "y": -1376.27,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23568,18 +23568,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1975,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Slishu_Forbs",
-    "status": "Занято",
-    "x": 1864.95,
-    "y": -2019.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1976,
     "server_id": 27,
     "type": "house",
@@ -24372,6 +24360,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 822,
+    "server_id": 27,
+    "type": "house",
+    "name": "Бункер Satoshi",
+    "owner": "Akira_Quadeentino",
+    "status": "Аукцион",
+    "x": -2691.24,
+    "y": -134.0,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 890,
     "server_id": 27,
     "type": "house",
@@ -24396,15 +24396,39 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 954,
+    "server_id": 27,
+    "type": "house",
+    "name": "Akira",
+    "owner": "Akira_Quadeentino",
+    "status": "Аукцион",
+    "x": -2159.76,
+    "y": 965.578,
+    "price": 6000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1365,
     "server_id": 27,
     "type": "house",
-    "name": "Культурный уголок Castellano",
+    "name": "крвдд жирность",
     "owner": "Kiri_Vagon",
     "status": "Аукцион",
     "x": 1464.5,
     "y": 1920.04,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1683,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Obs_Studio",
+    "status": "Аукцион",
+    "x": 1422.26,
+    "y": 2026.91,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {
@@ -24420,42 +24444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1792,
-    "server_id": 27,
-    "type": "house",
-    "name": "есть деп условия",
-    "owner": "Shingekino_Kyojin",
-    "status": "Аукцион",
-    "x": 2495.44,
-    "y": -1383.38,
-    "price": 5500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1796,
-    "server_id": 27,
-    "type": "house",
-    "name": "есть деп условия",
-    "owner": "Shingekino_Kyojin",
-    "status": "Аукцион",
-    "x": 2487.21,
-    "y": -1391.71,
-    "price": 5500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1829,
-    "server_id": 27,
-    "type": "house",
-    "name": "есть деп условия",
-    "owner": "Shingekino_Kyojin",
-    "status": "Аукцион",
-    "x": 2476.28,
-    "y": -1376.27,
-    "price": 5500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1963,
     "server_id": 27,
     "type": "house",
@@ -24465,6 +24453,18 @@
     "x": 2591.62,
     "y": 2180.55,
     "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1975,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Slishu_Forbs",
+    "status": "Аукцион",
+    "x": 1864.95,
+    "y": -2019.68,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {

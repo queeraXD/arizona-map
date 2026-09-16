@@ -1923,7 +1923,7 @@
     "id": 160,
     "server_id": 32,
     "type": "house",
-    "name": "MAMONT FERMA 4",
+    "name": "Are you afraid?",
     "owner": "CTpaxa_HeT",
     "status": "Занято",
     "x": 1227.42,
@@ -1935,7 +1935,7 @@
     "id": 161,
     "server_id": 32,
     "type": "house",
-    "name": "MAMONT FERMA 1",
+    "name": "Are you afraid?",
     "owner": "CTpaxa_HeT",
     "status": "Занято",
     "x": 1234.59,
@@ -3195,7 +3195,7 @@
     "id": 266,
     "server_id": 32,
     "type": "house",
-    "name": "MAMONT FERMA 3",
+    "name": "Are you afraid?",
     "owner": "CTpaxa_HeT",
     "status": "Занято",
     "x": 1233.88,
@@ -3207,7 +3207,7 @@
     "id": 267,
     "server_id": 32,
     "type": "house",
-    "name": "MAMONT FERMA 2",
+    "name": "Are you afraid?",
     "owner": "CTpaxa_HeT",
     "status": "Занято",
     "x": 1226.88,
@@ -5132,18 +5132,6 @@
     "status": "Занято",
     "x": 252.1829,
     "y": -92.4464,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 429,
-    "server_id": 32,
-    "type": "house",
-    "name": "КОСМО ГАРАЖ И ВСЕ УЛУЧШЕНИЯ",
-    "owner": "Nikita_Mogilevich",
-    "status": "Занято",
-    "x": 252.173,
-    "y": -121.3349,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11644,7 +11632,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Corax Corp<3",
-    "owner": "Kasta_Corax",
+    "owner": "Vodka_Net",
     "status": "Занято",
     "x": -2446.17,
     "y": 2491.81,
@@ -19300,7 +19288,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Oleg_Grava",
+    "owner": "Artem_Kirsakov",
     "status": "Занято",
     "x": 1969.28,
     "y": -1654.67,
@@ -22500,6 +22488,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 429,
+    "server_id": 32,
+    "type": "house",
+    "name": "КОСМО ГАРАЖ И ВСЕ УЛУЧШЕНИЯ",
+    "owner": "Nikita_Mogilevich",
+    "status": "Аукцион",
+    "x": 252.173,
+    "y": -121.3349,
+    "price": 100000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 907,
     "server_id": 32,
     "type": "house",
@@ -22509,6 +22509,18 @@
     "x": -2126.89,
     "y": 996.109,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 9,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Patri_Arhat",
+    "status": "Аукцион",
+    "x": 2481.67,
+    "y": -1757.66,
+    "price": 260000,
     "district": "Сан-Андреас"
   },
   {
@@ -22524,6 +22536,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 193,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Patri_Arhat",
+    "status": "Аукцион",
+    "x": 2405.02,
+    "y": -1933.97,
+    "price": 130000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 202,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Patri_Arhat",
+    "status": "Аукцион",
+    "x": 1183.17,
+    "y": -1315.1,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 218,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Patri_Arhat",
+    "status": "Аукцион",
+    "x": 1500.24,
+    "y": -1628.79,
+    "price": 100000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 249,
+    "server_id": 32,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Oskar_Bratishkin",
+    "status": "Аукцион",
+    "x": 111.076,
+    "y": -1782.68,
+    "price": 110000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 294,
     "server_id": 32,
     "type": "business",
@@ -22532,18 +22592,6 @@
     "status": "Аукцион",
     "x": 2472.77,
     "y": 2034.24,
-    "price": 139990,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 299,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Pay_Price",
-    "status": "Аукцион",
-    "x": 1876.07,
-    "y": 2234.15,
     "price": 139990,
     "district": "Сан-Андреас"
   },
@@ -22920,6 +22968,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 299,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Pay_Price",
+    "status": "Занято",
+    "x": 1876.07,
+    "y": 2234.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 351,
     "server_id": 32,
     "type": "business",
@@ -22988,18 +23048,6 @@
     "status": "Занято",
     "x": 2095.76,
     "y": -1211.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 9,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Patri_Arhat",
-    "status": "Занято",
-    "x": 2481.67,
-    "y": -1757.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23936,18 +23984,6 @@
     "status": "Занято",
     "x": 2637.25,
     "y": 1129.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 249,
-    "server_id": 32,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Oskar_Bratishkin",
-    "status": "Занято",
-    "x": 111.076,
-    "y": -1782.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25464,18 +25500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 193,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Patri_Arhat",
-    "status": "Занято",
-    "x": 2405.02,
-    "y": -1933.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 194,
     "server_id": 32,
     "type": "business",
@@ -25568,18 +25592,6 @@
     "status": "Занято",
     "x": -104.79,
     "y": -309.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 202,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Patri_Arhat",
-    "status": "Занято",
-    "x": 1183.17,
-    "y": -1315.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25688,18 +25700,6 @@
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 218,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Patri_Arhat",
-    "status": "Занято",
-    "x": 1500.24,
-    "y": -1628.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
