@@ -6972,18 +6972,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 581,
-    "server_id": 28,
-    "type": "house",
-    "name": "sinistered",
-    "owner": "LaloSalamanca",
-    "status": "Занято",
-    "x": -287.4519,
-    "y": 2758.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 582,
     "server_id": 28,
     "type": "house",
@@ -10844,18 +10832,6 @@
     "status": "Занято",
     "x": -2116.77,
     "y": 927.3969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 905,
-    "server_id": 28,
-    "type": "house",
-    "name": "СТРАХА_НЕТ",
-    "owner": "LaloSalamanca",
-    "status": "Занято",
-    "x": -2130.12,
-    "y": 942.562,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22368,15 +22344,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 350,
+    "id": 581,
     "server_id": 28,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Travis_Viper",
-    "status": "Аукцион",
-    "x": -2373.8,
-    "y": 910.117,
-    "price": 165000,
+    "type": "house",
+    "name": "sinistered",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -287.4519,
+    "y": 2758.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 905,
+    "server_id": 28,
+    "type": "house",
+    "name": "СТРАХА_НЕТ",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2130.12,
+    "y": 942.562,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
