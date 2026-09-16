@@ -376,7 +376,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Sunrise",
-    "owner": "Okata_Sunrise",
+    "owner": "Nysson_Scottdale",
     "status": "Занято",
     "x": 2110.99,
     "y": -1244.14,
@@ -1148,18 +1148,6 @@
     "status": "Занято",
     "x": 2695.44,
     "y": -2020.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 96,
-    "server_id": 3,
-    "type": "house",
-    "name": "mini Kaer Morhen",
-    "owner": "Geralt_Rivs",
-    "status": "Занято",
-    "x": 2673.33,
-    "y": -2020.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3260,18 +3248,6 @@
     "status": "Занято",
     "x": 2627.84,
     "y": -1085.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 272,
-    "server_id": 3,
-    "type": "house",
-    "name": "...::: Empire LS :::...",
-    "owner": "Geralt_Rivs",
-    "status": "Занято",
-    "x": 2626.19,
-    "y": -1098.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8840,18 +8816,6 @@
     "status": "Занято",
     "x": -796.3729,
     "y": 2258.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 741,
-    "server_id": 3,
-    "type": "house",
-    "name": "pesfam top one",
-    "owner": "Geralt_Rivs",
-    "status": "Занято",
-    "x": -2860.27,
-    "y": 835.6959,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23940,6 +23904,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 96,
+    "server_id": 3,
+    "type": "house",
+    "name": "mini Kaer Morhen",
+    "owner": "Geralt_Rivs",
+    "status": "Аукцион",
+    "x": 2673.33,
+    "y": -2020.14,
+    "price": 9500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 272,
+    "server_id": 3,
+    "type": "house",
+    "name": "...::: Empire LS :::...",
+    "owner": "Geralt_Rivs",
+    "status": "Аукцион",
+    "x": 2626.19,
+    "y": -1098.72,
+    "price": 10500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 306,
     "server_id": 3,
     "type": "house",
@@ -23985,6 +23973,18 @@
     "x": 1085.88,
     "y": 2000.85,
     "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 741,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Geralt_Rivs",
+    "status": "Аукцион",
+    "x": -2860.27,
+    "y": 835.6959,
+    "price": 10500,
     "district": "Сан-Андреас"
   },
   {
