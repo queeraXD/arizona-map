@@ -6600,18 +6600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 550,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "After_Hours",
-    "status": "Занято",
-    "x": 618.3629,
-    "y": 1168.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 551,
     "server_id": 21,
     "type": "house",
@@ -10020,18 +10008,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 836,
-    "server_id": 21,
-    "type": "house",
-    "name": "Вилла",
-    "owner": "After_Hours",
-    "status": "Занято",
-    "x": -2284.87,
-    "y": 849.708,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 837,
     "server_id": 21,
     "type": "house",
@@ -10196,18 +10172,6 @@
     "status": "Занято",
     "x": -2222.18,
     "y": 1163.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 851,
-    "server_id": 21,
-    "type": "house",
-    "name": "дарк ку всем",
-    "owner": "After_Hours",
-    "status": "Занято",
-    "x": -2189.26,
-    "y": 1164.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21912,6 +21876,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 550,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "After_Hours",
+    "status": "Аукцион",
+    "x": 618.3629,
+    "y": 1168.83,
+    "price": 6500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 699,
     "server_id": 21,
     "type": "house",
@@ -21921,6 +21897,30 @@
     "x": 1417.82,
     "y": 2567.98,
     "price": 2300,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 836,
+    "server_id": 21,
+    "type": "house",
+    "name": "Вилла",
+    "owner": "After_Hours",
+    "status": "Аукцион",
+    "x": -2284.87,
+    "y": 849.708,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 851,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "After_Hours",
+    "status": "Аукцион",
+    "x": -2189.26,
+    "y": 1164.27,
+    "price": 3200,
     "district": "Сан-Андреас"
   },
   {
