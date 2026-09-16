@@ -20448,18 +20448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1707,
-    "server_id": 24,
-    "type": "house",
-    "name": "Insane squad",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 1749.1,
-    "y": 2755.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1708,
     "server_id": 24,
     "type": "house",
@@ -20648,18 +20636,6 @@
     "status": "Занято",
     "x": 1783.7,
     "y": 2868.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1726,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 1738.35,
-    "y": 2861.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22008,6 +21984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1707,
+    "server_id": 24,
+    "type": "house",
+    "name": "Insane squad",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 1749.1,
+    "y": 2755.88,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1714,
     "server_id": 24,
     "type": "house",
@@ -22029,6 +22017,18 @@
     "x": 1730.98,
     "y": 2823.46,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1726,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 1738.35,
+    "y": 2861.66,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
@@ -22432,7 +22432,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Бар",
-    "owner": "Ethan_Davenport",
+    "owner": "Leonel_Sweet",
     "status": "Занято",
     "x": 1876.07,
     "y": 2234.15,

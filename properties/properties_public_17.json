@@ -6228,18 +6228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 524,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Seforolius_Lerned",
-    "status": "Занято",
-    "x": 1596.98,
-    "y": 2147.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 526,
     "server_id": 17,
     "type": "house",
@@ -9572,18 +9560,6 @@
     "status": "Занято",
     "x": -2303.43,
     "y": 820.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 804,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Chiken_Gun",
-    "status": "Занято",
-    "x": -2791.84,
-    "y": 218.639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18792,6 +18768,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1573,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Drag_Drakula",
+    "status": "Занято",
+    "x": 1870.76,
+    "y": -2019.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1574,
     "server_id": 17,
     "type": "house",
@@ -19916,18 +19904,6 @@
     "status": "Занято",
     "x": 2495.36,
     "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1668,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Chiken_Gun",
-    "status": "Занято",
-    "x": 2476.36,
-    "y": -1398.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22440,6 +22416,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 524,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Seforolius_Lerned",
+    "status": "Аукцион",
+    "x": 1596.98,
+    "y": 2147.31,
+    "price": 1500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 525,
     "server_id": 17,
     "type": "house",
@@ -22449,6 +22437,18 @@
     "x": 1595.81,
     "y": 2123.15,
     "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 804,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Chiken_Gun",
+    "status": "Аукцион",
+    "x": -2791.84,
+    "y": 218.639,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -22464,27 +22464,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1573,
+    "id": 1668,
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Stu_Lizal",
+    "owner": "Chiken_Gun",
     "status": "Аукцион",
-    "x": 1870.76,
-    "y": -2019.77,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 216,
-    "server_id": 17,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Artem_Cuerto",
-    "status": "Аукцион",
-    "x": 2327.86,
-    "y": 2421.25,
-    "price": 45000,
+    "x": 2476.36,
+    "y": -1398.81,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -25640,6 +25628,18 @@
     "status": "Занято",
     "x": 1976.18,
     "y": -1980.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 216,
+    "server_id": 17,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Artem_Cuerto",
+    "status": "Занято",
+    "x": 2327.86,
+    "y": 2421.25,
     "price": 0,
     "district": "Сан-Андреас"
   },

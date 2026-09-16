@@ -180,18 +180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 15,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dimka_Vjopekartinka",
-    "status": "Занято",
-    "x": 2090.93,
-    "y": -1278.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 16,
     "server_id": 13,
     "type": "house",
@@ -224,30 +212,6 @@
     "status": "Занято",
     "x": 2126.67,
     "y": -1320.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 19,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dimka_Vjopekartinka",
-    "status": "Занято",
-    "x": 2132.25,
-    "y": -1280.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 20,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dimka_Vjopekartinka",
-    "status": "Занято",
-    "x": 2150.17,
-    "y": -1286.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -1467,7 +1431,7 @@
     "id": 122,
     "server_id": 13,
     "type": "house",
-    "name": "т7777356 риелтор Сакура Харума",
+    "name": "Риелтор Сакура Харума Т.650",
     "owner": "Moli_Long",
     "status": "Занято",
     "x": -2421.42,
@@ -6087,7 +6051,7 @@
     "id": 507,
     "server_id": 13,
     "type": "house",
-    "name": "тут живет Хайхдекс",
+    "name": "вася",
     "owner": "Hizdex_Kapachi",
     "status": "Занято",
     "x": 1364.26,
@@ -23241,6 +23205,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 15,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dimka_Vjopekartinka",
+    "status": "Аукцион",
+    "x": 2090.93,
+    "y": -1278.01,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 19,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dimka_Vjopekartinka",
+    "status": "Аукцион",
+    "x": 2132.25,
+    "y": -1280.44,
+    "price": 16500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 20,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dimka_Vjopekartinka",
+    "status": "Аукцион",
+    "x": 2150.17,
+    "y": -1286.35,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
