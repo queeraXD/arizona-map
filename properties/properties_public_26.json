@@ -10203,7 +10203,7 @@
     "id": 854,
     "server_id": 26,
     "type": "house",
-    "name": "Дом",
+    "name": "хата дремза",
     "owner": "Dremz_Deff",
     "status": "Занято",
     "x": -2084.36,
@@ -16084,7 +16084,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Anfisa (LV - LCN)",
-    "owner": "Yuto_Okotsu",
+    "owner": "Dark_Monter",
     "status": "Занято",
     "x": 1551.52,
     "y": 2567.55,
@@ -16544,6 +16544,18 @@
     "status": "Занято",
     "x": 2518.62,
     "y": 58.2863,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1385,
+    "server_id": 26,
+    "type": "house",
+    "name": "Хата мамбчика",
+    "owner": "Mambel_Gum",
+    "status": "Занято",
+    "x": 1110.55,
+    "y": -1554.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25128,18 +25140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1385,
-    "server_id": 26,
-    "type": "house",
-    "name": "Хата мамбчика",
-    "owner": "Mambel_Gum",
-    "status": "Аукцион",
-    "x": 1110.55,
-    "y": -1554.05,
-    "price": 30000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1884,
     "server_id": 26,
     "type": "house",
@@ -25185,30 +25185,6 @@
     "x": -2238.31,
     "y": 1117.55,
     "price": 33333,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 82,
-    "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Wuddy_Overprice",
-    "status": "Аукцион",
-    "x": 1879.19,
-    "y": 2339.5,
-    "price": 180000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Wuddy_Overprice",
-    "status": "Аукцион",
-    "x": 2366.7,
-    "y": 2071.11,
-    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -26952,6 +26928,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 82,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Wuddy_Overprice",
+    "status": "Занято",
+    "x": 1879.19,
+    "y": 2339.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 83,
     "server_id": 26,
     "type": "business",
@@ -27272,6 +27260,18 @@
     "status": "Занято",
     "x": 2392.56,
     "y": 2042.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Wuddy_Overprice",
+    "status": "Занято",
+    "x": 2366.7,
+    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
