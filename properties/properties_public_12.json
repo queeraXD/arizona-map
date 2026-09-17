@@ -2004,30 +2004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 167,
-    "server_id": 12,
-    "type": "house",
-    "name": "Indulgence Squad",
-    "owner": "Fernando_Kleno",
-    "status": "Занято",
-    "x": 922.007,
-    "y": -1803.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 168,
-    "server_id": 12,
-    "type": "house",
-    "name": "Indulgence Squad",
-    "owner": "Fernando_Kleno",
-    "status": "Занято",
-    "x": 910.28,
-    "y": -1802.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 169,
     "server_id": 12,
     "type": "house",
@@ -12075,7 +12051,7 @@
     "id": 1007,
     "server_id": 12,
     "type": "house",
-    "name": "Домик Вики и Паши",
+    "name": "хатка",
     "owner": "Victoria_Nekrasova",
     "status": "Занято",
     "x": -2383.84,
@@ -23772,6 +23748,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 167,
+    "server_id": 12,
+    "type": "house",
+    "name": "Indulgence Squad",
+    "owner": "Fernando_Kleno",
+    "status": "Аукцион",
+    "x": 922.007,
+    "y": -1803.89,
+    "price": 1000123000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 168,
+    "server_id": 12,
+    "type": "house",
+    "name": "Indulgence Squad",
+    "owner": "Fernando_Kleno",
+    "status": "Аукцион",
+    "x": 910.28,
+    "y": -1802.68,
+    "price": 1000123000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 935,
     "server_id": 12,
     "type": "house",
@@ -23817,18 +23817,6 @@
     "x": 1778.63,
     "y": 2735.99,
     "price": 70000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 292,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Vladimir_Nocap",
-    "status": "Аукцион",
-    "x": -243.623,
-    "y": -1364.43,
-    "price": 7499999999,
     "district": "Сан-Андреас"
   },
   {
@@ -27056,6 +27044,18 @@
     "status": "Занято",
     "x": 1460.33,
     "y": 2784.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 292,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Tamerlan_Saimuratov",
+    "status": "Занято",
+    "x": -243.623,
+    "y": -1364.43,
     "price": 0,
     "district": "Сан-Андреас"
   },

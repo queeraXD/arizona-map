@@ -4824,18 +4824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
-    "status": "Занято",
-    "x": 2448.44,
-    "y": -11.0635,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 403,
     "server_id": 7,
     "type": "house",
@@ -10136,18 +10124,6 @@
     "status": "Занято",
     "x": -2282.28,
     "y": 1023.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 845,
-    "server_id": 7,
-    "type": "house",
-    "name": "БИТОК",
-    "owner": "Billy_Dollars",
-    "status": "Занято",
-    "x": -2278.61,
-    "y": 787.8569,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18156,18 +18132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1517,
-    "server_id": 7,
-    "type": "house",
-    "name": "Lombard",
-    "owner": "Billy_Dollars",
-    "status": "Занято",
-    "x": -2285.31,
-    "y": 829.2849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1518,
     "server_id": 7,
     "type": "house",
@@ -25500,6 +25464,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 402,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
+    "status": "Аукцион",
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 845,
+    "server_id": 7,
+    "type": "house",
+    "name": "БИТОК",
+    "owner": "Billy_Dollars",
+    "status": "Аукцион",
+    "x": -2278.61,
+    "y": 787.8569,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 859,
     "server_id": 7,
     "type": "house",
@@ -25545,6 +25533,18 @@
     "x": 2518.62,
     "y": 58.4566,
     "price": 7100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1517,
+    "server_id": 7,
+    "type": "house",
+    "name": "Lombard",
+    "owner": "Billy_Dollars",
+    "status": "Аукцион",
+    "x": -2285.31,
+    "y": 829.2849,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
