@@ -12504,18 +12504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1045,
-    "server_id": 2,
-    "type": "house",
-    "name": "Fake Taxi",
-    "owner": "Wellton_Mendes",
-    "status": "Занято",
-    "x": -2188.03,
-    "y": 1107.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1046,
     "server_id": 2,
     "type": "house",
@@ -14580,18 +14568,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1218,
-    "server_id": 2,
-    "type": "house",
-    "name": "Katahbas",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2351.14,
-    "y": 1318.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1219,
     "server_id": 2,
     "type": "house",
@@ -15104,18 +15080,6 @@
     "status": "Занято",
     "x": -2129.23,
     "y": 894.9149,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1262,
-    "server_id": 2,
-    "type": "house",
-    "name": "San Fierro House 1262",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2159.24,
-    "y": 786.125,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23940,6 +23904,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1045,
+    "server_id": 2,
+    "type": "house",
+    "name": "Fake Taxi",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2188.03,
+    "y": 1107.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 463,
     "server_id": 2,
     "type": "house",
@@ -23948,7 +23924,7 @@
     "status": "Аукцион",
     "x": 2206.36,
     "y": 656.3729,
-    "price": 23000,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23961,6 +23937,30 @@
     "x": -2726.67,
     "y": 822.992,
     "price": 18500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1218,
+    "server_id": 2,
+    "type": "house",
+    "name": "Katahbas",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2351.14,
+    "y": 1318.07,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1262,
+    "server_id": 2,
+    "type": "house",
+    "name": "San Fierro House 1262",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2159.24,
+    "y": 786.125,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {

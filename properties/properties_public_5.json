@@ -2148,18 +2148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 179,
-    "server_id": 5,
-    "type": "house",
-    "name": "life",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": 656.023,
-    "y": -1636.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 180,
     "server_id": 5,
     "type": "house",
@@ -8528,18 +8516,6 @@
     "status": "Занято",
     "x": 1607.08,
     "y": 2679.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 712,
-    "server_id": 5,
-    "type": "house",
-    "name": "Zloy_King",
-    "owner": "Feldan_Plaki",
-    "status": "Занято",
-    "x": 1573.09,
-    "y": 2658.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24132,18 +24108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2012,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igor_Sokoloov",
-    "status": "Аукцион",
-    "x": 2591.62,
-    "y": 2215.99,
-    "price": 7000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2013,
     "server_id": 5,
     "type": "house",
@@ -25104,6 +25068,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 179,
+    "server_id": 5,
+    "type": "house",
+    "name": "life",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": 656.023,
+    "y": -1636.08,
+    "price": 50000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 545,
     "server_id": 5,
     "type": "house",
@@ -25113,6 +25089,30 @@
     "x": -36.0457,
     "y": 1115.65,
     "price": 120000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 712,
+    "server_id": 5,
+    "type": "house",
+    "name": "Zloy_King",
+    "owner": "Feldan_Plaki",
+    "status": "Аукцион",
+    "x": 1573.09,
+    "y": 2658.39,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2012,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igor_Sokoloov",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2215.99,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {
