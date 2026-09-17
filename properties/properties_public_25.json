@@ -2052,18 +2052,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 171,
-    "server_id": 25,
-    "type": "house",
-    "name": "Hotis/Hunter Squad",
-    "owner": "Cox_Hunter",
-    "status": "Занято",
-    "x": 791.4039,
-    "y": -1753.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 172,
     "server_id": 25,
     "type": "house",
@@ -2324,6 +2312,18 @@
     "status": "Занято",
     "x": 280.8919,
     "y": -1767.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 194,
+    "server_id": 25,
+    "type": "house",
+    "name": "Господин",
+    "owner": "Michael_Rapaport",
+    "status": "Занято",
+    "x": 206.955,
+    "y": -1769.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11976,18 +11976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1002,
-    "server_id": 25,
-    "type": "house",
-    "name": "cuerto squad",
-    "owner": "Dostavka_Cuerto",
-    "status": "Занято",
-    "x": -2413.55,
-    "y": 1137.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1003,
     "server_id": 25,
     "type": "house",
@@ -20328,18 +20316,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1698,
-    "server_id": 25,
-    "type": "house",
-    "name": "cuerto squad",
-    "owner": "Dostavka_Cuerto",
-    "status": "Занято",
-    "x": 2541.53,
-    "y": 1232.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1699,
     "server_id": 25,
     "type": "house",
@@ -20384,18 +20360,6 @@
     "status": "Занято",
     "x": 2541.53,
     "y": 1222.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1703,
-    "server_id": 25,
-    "type": "house",
-    "name": "cuerto squad",
-    "owner": "Dostavka_Cuerto",
-    "status": "Занято",
-    "x": 2541.53,
-    "y": 1220.78,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23724,15 +23688,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 194,
+    "id": 171,
     "server_id": 25,
     "type": "house",
-    "name": "Господин",
-    "owner": "Michael_Rapaport",
+    "name": "Hotis/Hunter Squad",
+    "owner": "Cox_Hunter",
     "status": "Аукцион",
-    "x": 206.955,
-    "y": -1769.83,
-    "price": 125000,
+    "x": 791.4039,
+    "y": -1753.94,
+    "price": 19000,
     "district": "Сан-Андреас"
   },
   {
@@ -23760,6 +23724,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1002,
+    "server_id": 25,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Dostavka_Cuerto",
+    "status": "Аукцион",
+    "x": -2413.55,
+    "y": 1137.33,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1698,
+    "server_id": 25,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Dostavka_Cuerto",
+    "status": "Аукцион",
+    "x": 2541.53,
+    "y": 1232.89,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1703,
+    "server_id": 25,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Dostavka_Cuerto",
+    "status": "Аукцион",
+    "x": 2541.53,
+    "y": 1220.78,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1888,
     "server_id": 25,
     "type": "house",
@@ -23781,6 +23781,18 @@
     "x": -19.209,
     "y": 1175.23,
     "price": 350000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 460,
+    "server_id": 25,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Dostavka_Cuerto",
+    "status": "Аукцион",
+    "x": 1586.208,
+    "y": -1394.485,
+    "price": 200123,
     "district": "Сан-Андреас"
   },
   {
@@ -26072,18 +26084,6 @@
     "status": "Занято",
     "x": 1864.59,
     "y": -1393.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 460,
-    "server_id": 25,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Dostavka_Cuerto",
-    "status": "Занято",
-    "x": 1586.208,
-    "y": -1394.485,
     "price": 0,
     "district": "Сан-Андреас"
   },

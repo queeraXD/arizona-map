@@ -3228,6 +3228,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 269,
+    "server_id": 8,
+    "type": "house",
+    "name": "+деп.условия",
+    "owner": "Dimasik_Zloi",
+    "status": "Занято",
+    "x": 1195.57,
+    "y": -1010.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 270,
     "server_id": 8,
     "type": "house",
@@ -4328,18 +4340,6 @@
     "status": "Занято",
     "x": 903.398,
     "y": -1512.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 362,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом бедного",
-    "owner": "Zak_Rockefeller",
-    "status": "Занято",
-    "x": 849.689,
-    "y": -1519.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6855,7 +6855,7 @@
     "id": 572,
     "server_id": 8,
     "type": "house",
-    "name": "maining10",
+    "name": "Night 3",
     "owner": "Franclin_Night",
     "status": "Занято",
     "x": -150.0549,
@@ -18159,8 +18159,8 @@
     "id": 1515,
     "server_id": 8,
     "type": "house",
-    "name": "Тут бомжует Rouzy_Nesquik",
-    "owner": "Rouzy_Nesquik",
+    "name": "ranlain",
+    "owner": "Kostya_Ranlain",
     "status": "Занято",
     "x": 2670.3,
     "y": -1203.04,
@@ -21468,18 +21468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1792,
-    "server_id": 8,
-    "type": "house",
-    "name": "Continental Corporation",
-    "owner": "Lovlya_Vip",
-    "status": "Занято",
-    "x": -2361.51,
-    "y": 246.619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1793,
     "server_id": 8,
     "type": "house",
@@ -23287,6 +23275,18 @@
     "owner": "Klaus_Negodnicov",
     "status": "Занято",
     "x": 2011.14,
+    "y": 2168.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1944,
+    "server_id": 8,
+    "type": "house",
+    "name": "Логово Начинающего",
+    "owner": "Fantom_Sisik",
+    "status": "Занято",
+    "x": 2010.67,
     "y": 2168.81,
     "price": 0,
     "district": "Сан-Андреас"
@@ -25752,15 +25752,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 269,
+    "id": 362,
     "server_id": 8,
     "type": "house",
-    "name": "+деп.условия",
-    "owner": "Dimasik_Zloi",
+    "name": "Дом бедного",
+    "owner": "Zak_Rockefeller",
     "status": "Аукцион",
-    "x": 1195.57,
-    "y": -1010.89,
-    "price": 355000000,
+    "x": 849.689,
+    "y": -1519.95,
+    "price": 65000,
     "district": "Сан-Андреас"
   },
   {
@@ -25776,15 +25776,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1944,
+    "id": 1792,
     "server_id": 8,
     "type": "house",
-    "name": "Логово Начинающего",
-    "owner": "Fantom_Sisik",
+    "name": "Continental Corporation",
+    "owner": "Lovlya_Vip",
     "status": "Аукцион",
-    "x": 2010.67,
-    "y": 2168.81,
-    "price": 1000,
+    "x": -2361.51,
+    "y": 246.619,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {

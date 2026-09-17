@@ -6348,18 +6348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 530,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pisun_Parliament",
-    "status": "Занято",
-    "x": 1967.26,
-    "y": 2766.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 531,
     "server_id": 10,
     "type": "house",
@@ -11300,18 +11288,6 @@
     "status": "Занято",
     "x": -2281.96,
     "y": 979.2269,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 946,
-    "server_id": 10,
-    "type": "house",
-    "name": "oreshek",
-    "owner": "LilDrey_Savchenko",
-    "status": "Занято",
-    "x": -2282.42,
-    "y": 999.619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17748,6 +17724,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1484,
+    "server_id": 10,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Francisk_Skyworth",
+    "status": "Занято",
+    "x": -2592.73,
+    "y": 855.109,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1485,
     "server_id": 10,
     "type": "house",
@@ -22056,18 +22044,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1845,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Aperol_Spritz",
-    "status": "Занято",
-    "x": 1778.52,
-    "y": 2736.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1846,
     "server_id": 10,
     "type": "house",
@@ -23268,6 +23244,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 530,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pisun_Parliament",
+    "status": "Аукцион",
+    "x": 1967.26,
+    "y": 2766.48,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 588,
     "server_id": 10,
     "type": "house",
@@ -23292,6 +23280,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 946,
+    "server_id": 10,
+    "type": "house",
+    "name": "oreshek",
+    "owner": "LilDrey_Savchenko",
+    "status": "Аукцион",
+    "x": -2282.42,
+    "y": 999.619,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1257,
     "server_id": 10,
     "type": "house",
@@ -23304,18 +23304,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1484,
-    "server_id": 10,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Niyaz_Skyworth",
-    "status": "Аукцион",
-    "x": -2592.73,
-    "y": 855.109,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1519,
     "server_id": 10,
     "type": "house",
@@ -23325,6 +23313,18 @@
     "x": 1565.47,
     "y": 2757.16,
     "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1845,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Aperol_Spritz",
+    "status": "Аукцион",
+    "x": 1778.52,
+    "y": 2736.02,
+    "price": 100,
     "district": "Сан-Андреас"
   },
   {
