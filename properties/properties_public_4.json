@@ -4143,7 +4143,7 @@
     "id": 345,
     "server_id": 4,
     "type": "house",
-    "name": "House:house:",
+    "name": "Moon",
     "owner": "Klein_Moon",
     "status": "Занято",
     "x": 1245.81,
@@ -4155,7 +4155,7 @@
     "id": 346,
     "server_id": 4,
     "type": "house",
-    "name": "Mr. Shelby",
+    "name": "Moon",
     "owner": "Klein_Moon",
     "status": "Занято",
     "x": 1252.6,
@@ -20520,18 +20520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1713,
-    "server_id": 4,
-    "type": "house",
-    "name": "Поместье GALLAGHERS",
-    "owner": "Lennon_Gallagher",
-    "status": "Занято",
-    "x": 2288.19,
-    "y": -1104.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1714,
     "server_id": 4,
     "type": "house",
@@ -25248,6 +25236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1713,
+    "server_id": 4,
+    "type": "house",
+    "name": "Поместье GALLAGHERS",
+    "owner": "Lennon_Gallagher",
+    "status": "Аукцион",
+    "x": 2288.19,
+    "y": -1104.65,
+    "price": 50000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1970,
     "server_id": 4,
     "type": "house",
@@ -25257,18 +25257,6 @@
     "x": 2476.35,
     "y": -1417.44,
     "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 123,
-    "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Delusion_Akinaura",
-    "status": "Аукцион",
-    "x": -2579.43,
-    "y": 310.085,
-    "price": 230000,
     "district": "Сан-Андреас"
   },
   {
@@ -27524,6 +27512,18 @@
     "status": "Занято",
     "x": -1967.24,
     "y": 296.392,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 123,
+    "server_id": 4,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Delusion_Akinaura",
+    "status": "Занято",
+    "x": -2579.43,
+    "y": 310.085,
     "price": 0,
     "district": "Сан-Андреас"
   },

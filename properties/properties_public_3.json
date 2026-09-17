@@ -372,18 +372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 31,
-    "server_id": 3,
-    "type": "house",
-    "name": "Sunrise",
-    "owner": "Nysson_Scottdale",
-    "status": "Занято",
-    "x": 2110.99,
-    "y": -1244.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 32,
     "server_id": 3,
     "type": "house",
@@ -1124,18 +1112,6 @@
     "status": "Занято",
     "x": 2016.54,
     "y": -1629.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 94,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Sorochenko",
-    "status": "Занято",
-    "x": 2696.51,
-    "y": -1990.42,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10656,6 +10632,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 891,
+    "server_id": 3,
+    "type": "house",
+    "name": "GG HOUSE",
+    "owner": "Monero_Explosion",
+    "status": "Занято",
+    "x": -2075.03,
+    "y": -2526.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 892,
     "server_id": 3,
     "type": "house",
@@ -11372,6 +11360,18 @@
     "status": "Занято",
     "x": -2437.36,
     "y": 2354.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 952,
+    "server_id": 3,
+    "type": "house",
+    "name": "Фармила аризоны",
+    "owner": "Artem_Jorka",
+    "status": "Занято",
+    "x": 2000.25,
+    "y": -991.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15148,7 +15148,7 @@
     "server_id": 3,
     "type": "house",
     "name": "drugden >2<",
-    "owner": "Drake_Benzo",
+    "owner": "Kisue_Durden",
     "status": "Занято",
     "x": -1565.13,
     "y": 2712.01,
@@ -23940,6 +23940,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 31,
+    "server_id": 3,
+    "type": "house",
+    "name": "yt nysson",
+    "owner": "Nysson_Scottdale",
+    "status": "Аукцион",
+    "x": 2110.99,
+    "y": -1244.14,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 94,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Sorochenko",
+    "status": "Аукцион",
+    "x": 2696.51,
+    "y": -1990.42,
+    "price": 1999999999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 356,
     "server_id": 3,
     "type": "house",
@@ -23961,30 +23985,6 @@
     "x": -2860.27,
     "y": 835.6959,
     "price": 900000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 891,
-    "server_id": 3,
-    "type": "house",
-    "name": "GG HOUSE",
-    "owner": "Monero_Explosion",
-    "status": "Аукцион",
-    "x": -2075.03,
-    "y": -2526.84,
-    "price": 990000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 952,
-    "server_id": 3,
-    "type": "house",
-    "name": "Фармила аризоны",
-    "owner": "Artem_Jorka",
-    "status": "Аукцион",
-    "x": 2000.25,
-    "y": -991.76,
-    "price": 5000,
     "district": "Сан-Андреас"
   },
   {

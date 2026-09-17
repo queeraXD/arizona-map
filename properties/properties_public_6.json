@@ -2652,18 +2652,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 221,
-    "server_id": 6,
-    "type": "house",
-    "name": "даришка живе",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 848.593,
-    "y": -745.0729,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 222,
     "server_id": 6,
     "type": "house",
@@ -8120,6 +8108,18 @@
     "status": "Занято",
     "x": 885.9299,
     "y": 1980.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 677,
+    "server_id": 6,
+    "type": "house",
+    "name": "Old Money Club [11]",
+    "owner": "Malou_Mancini",
+    "status": "Занято",
+    "x": 886.143,
+    "y": 2047.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14092,7 +14092,7 @@
     "server_id": 6,
     "type": "house",
     "name": "cuerto squad",
-    "owner": "Unique_Illusion",
+    "owner": "Leron_Malon",
     "status": "Занято",
     "x": -2791.84,
     "y": -24.398,
@@ -18272,18 +18272,6 @@
     "status": "Занято",
     "x": 2351.03,
     "y": -1039.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1524,
-    "server_id": 6,
-    "type": "house",
-    "name": "биба и боба",
-    "owner": "Mastermind_Tokyo",
-    "status": "Занято",
-    "x": 2355.59,
-    "y": -1038.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23703,7 +23691,7 @@
     "id": 1978,
     "server_id": 6,
     "type": "house",
-    "name": "Дом Судьи",
+    "name": "босяк",
     "owner": "Kayden_Break",
     "status": "Занято",
     "x": 2647.11,
@@ -24516,15 +24504,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 677,
+    "id": 221,
     "server_id": 6,
     "type": "house",
-    "name": "Old Money Club [11]",
-    "owner": "Malou_Mancini",
+    "name": "Дом",
+    "owner": "Ga_Tila",
     "status": "Аукцион",
-    "x": 886.143,
-    "y": 2047.18,
-    "price": 450000000,
+    "x": 848.593,
+    "y": -745.0729,
+    "price": 3250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1524,
+    "server_id": 6,
+    "type": "house",
+    "name": "биба и боба",
+    "owner": "Mastermind_Tokyo",
+    "status": "Аукцион",
+    "x": 2355.59,
+    "y": -1038.57,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27376,7 +27376,7 @@
     "server_id": 6,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Gazan_Immortalis",
+    "owner": "Zamir_Besgeev",
     "status": "Занято",
     "x": 2351.41,
     "y": 2405.59,
