@@ -7452,18 +7452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 626,
-    "server_id": 19,
-    "type": "house",
-    "name": "Singer",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": 4.1448,
-    "y": 1344.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 627,
     "server_id": 19,
     "type": "house",
@@ -14992,7 +14980,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Katsu House",
-    "owner": "Routine_Swarovski",
+    "owner": "Chiloviy_Chell",
     "status": "Занято",
     "x": -2320.15,
     "y": 580.036,
@@ -18556,7 +18544,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Alexey",
-    "owner": "Jack_Chaltsev",
+    "owner": "Artur_Xamam",
     "status": "Занято",
     "x": 1955.89,
     "y": 742.875,
@@ -18607,18 +18595,6 @@
     "owner": "Haunted_Goddamn",
     "status": "Занято",
     "x": 1929.28,
-    "y": 742.875,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1574,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Petr_Burmaldancer",
-    "status": "Занято",
-    "x": 1922.51,
     "y": 742.875,
     "price": 0,
     "district": "Сан-Андреас"
@@ -20752,7 +20728,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Владения Diz*a",
-    "owner": "Diz_Like",
+    "owner": "Young_Muller",
     "status": "Занято",
     "x": 1071.96,
     "y": -2140.44,
@@ -21828,6 +21804,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 626,
+    "server_id": 19,
+    "type": "house",
+    "name": "Singer",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 4.1448,
+    "y": 1344.59,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 806,
     "server_id": 19,
     "type": "house",
@@ -21996,6 +21984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1574,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Petr_Burmaldancer",
+    "status": "Аукцион",
+    "x": 1922.51,
+    "y": 742.875,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1606,
     "server_id": 19,
     "type": "house",
@@ -22056,18 +22056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 172,
-    "server_id": 19,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Volodya_Kumarov",
-    "status": "Аукцион",
-    "x": 2330.59,
-    "y": 2533.61,
-    "price": 7500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 182,
     "server_id": 19,
     "type": "business",
@@ -22088,7 +22076,7 @@
     "status": "Аукцион",
     "x": -1826.43,
     "y": -566.68,
-    "price": 6000000000,
+    "price": 5500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22100,7 +22088,7 @@
     "status": "Аукцион",
     "x": -243.623,
     "y": -1364.43,
-    "price": 6000000000,
+    "price": 5500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22780,7 +22768,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Diz_Like",
+    "owner": "Young_Muller",
     "status": "Занято",
     "x": -179.189,
     "y": 1133.15,
@@ -22960,7 +22948,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Diz_Like",
+    "owner": "Young_Muller",
     "status": "Занято",
     "x": 2452.42,
     "y": 2065.05,
@@ -22972,7 +22960,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Diz_Like",
+    "owner": "Young_Muller",
     "status": "Занято",
     "x": 2820.58,
     "y": -1602.87,
@@ -23488,7 +23476,7 @@
     "server_id": 19,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Diz_Like",
+    "owner": "Young_Muller",
     "status": "Занято",
     "x": -1465.86,
     "y": 1873.41,
@@ -24080,6 +24068,18 @@
     "status": "Занято",
     "x": 2169.41,
     "y": 2795.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 172,
+    "server_id": 19,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Volodya_Kumarov",
+    "status": "Занято",
+    "x": 2330.59,
+    "y": 2533.61,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25936,7 +25936,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Стриптиз Клуб",
-    "owner": "Diz_Like",
+    "owner": "Young_Muller",
     "status": "Занято",
     "x": 2489.24,
     "y": 2123.59,

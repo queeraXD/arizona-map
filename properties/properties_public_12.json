@@ -7488,18 +7488,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 626,
-    "server_id": 12,
-    "type": "house",
-    "name": "krasin",
-    "owner": "Mark_Krasin",
-    "status": "Занято",
-    "x": 4.1448,
-    "y": 1344.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 627,
     "server_id": 12,
     "type": "house",
@@ -8320,7 +8308,7 @@
     "server_id": 12,
     "type": "house",
     "name": "<3Берлога фембоя<3",
-    "owner": "Furry_Femboy",
+    "owner": "Sajonara_Rain",
     "status": "Занято",
     "x": 1349.63,
     "y": 2567.69,
@@ -9936,18 +9924,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 831,
-    "server_id": 12,
-    "type": "house",
-    "name": "пусто",
-    "owner": "Tomi_Warriors",
-    "status": "Занято",
-    "x": -2723.0,
-    "y": 4.0472,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 832,
     "server_id": 12,
     "type": "house",
@@ -11180,6 +11156,18 @@
     "status": "Занято",
     "x": -2112.64,
     "y": 745.564,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 935,
+    "server_id": 12,
+    "type": "house",
+    "name": "BlackGuard",
+    "owner": "Makson_Anderson",
+    "status": "Занято",
+    "x": -2126.66,
+    "y": 755.6099,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13092,6 +13080,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1095,
+    "server_id": 12,
+    "type": "house",
+    "name": "хата паштета",
+    "owner": "Joe_Spen",
+    "status": "Занято",
+    "x": -2205.34,
+    "y": 743.4749,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1096,
     "server_id": 12,
     "type": "house",
@@ -14864,6 +14864,18 @@
     "status": "Занято",
     "x": -2433.99,
     "y": 1274.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1244,
+    "server_id": 12,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kinder_Delice",
+    "status": "Занято",
+    "x": -2433.03,
+    "y": 1264.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23088,18 +23100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1932,
-    "server_id": 12,
-    "type": "house",
-    "name": "krasin",
-    "owner": "Mark_Krasin",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2180.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1933,
     "server_id": 12,
     "type": "house",
@@ -23748,6 +23748,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 626,
+    "server_id": 12,
+    "type": "house",
+    "name": "krasin",
+    "owner": "Mark_Krasin",
+    "status": "Аукцион",
+    "x": 4.1448,
+    "y": 1344.59,
+    "price": 750000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 697,
     "server_id": 12,
     "type": "house",
@@ -23760,39 +23772,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 935,
+    "id": 831,
     "server_id": 12,
     "type": "house",
-    "name": "BlackGuard",
-    "owner": "Normalnyi_Paren",
+    "name": "пусто",
+    "owner": "Tomi_Warriors",
     "status": "Аукцион",
-    "x": -2126.66,
-    "y": 755.6099,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1095,
-    "server_id": 12,
-    "type": "house",
-    "name": "хата паштета",
-    "owner": "Alexey_Voyka",
-    "status": "Аукцион",
-    "x": -2205.34,
-    "y": 743.4749,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1244,
-    "server_id": 12,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Win_Dow",
-    "status": "Аукцион",
-    "x": -2433.03,
-    "y": 1264.2,
-    "price": 1,
+    "x": -2723.0,
+    "y": 4.0472,
+    "price": 550000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23817,6 +23805,18 @@
     "x": 1763.11,
     "y": 2871.19,
     "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1932,
+    "server_id": 12,
+    "type": "house",
+    "name": "krasin",
+    "owner": "Mark_Krasin",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2180.53,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {

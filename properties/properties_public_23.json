@@ -7116,18 +7116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 594,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом Снупа",
-    "owner": "Ross_Toretto",
-    "status": "Занято",
-    "x": -1446.67,
-    "y": 2636.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 595,
     "server_id": 23,
     "type": "house",
@@ -21144,6 +21132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 594,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом Снупа",
+    "owner": "Ross_Toretto",
+    "status": "Аукцион",
+    "x": -1446.67,
+    "y": 2636.7,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 614,
     "server_id": 23,
     "type": "house",
@@ -21165,6 +21165,18 @@
     "x": -2558.56,
     "y": -198.7969,
     "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 199,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Bruno_McDaniel",
+    "status": "Аукцион",
+    "x": 1771.74,
+    "y": -1903.27,
+    "price": 7500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21892,7 +21904,7 @@
     "server_id": 23,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Artem_Cuerto",
+    "owner": "Phantom_Assaassin",
     "status": "Занято",
     "x": -1686.44,
     "y": 1325.38,
@@ -21940,7 +21952,7 @@
     "server_id": 23,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Vanya_Pitya",
+    "owner": "Diego_Darkness",
     "status": "Занято",
     "x": 2411.93,
     "y": -1548.68,
@@ -23092,7 +23104,7 @@
     "server_id": 23,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Artem_Cuerto",
+    "owner": "Phantom_Assaassin",
     "status": "Занято",
     "x": 2397.9,
     "y": -1899.2,
@@ -23920,7 +23932,7 @@
     "server_id": 23,
     "type": "business",
     "name": "Отель",
-    "owner": "Artem_Cuerto",
+    "owner": "Phantom_Assaassin",
     "status": "Занято",
     "x": 1365.16,
     "y": -1859.35,
@@ -24188,18 +24200,6 @@
     "status": "Занято",
     "x": -1826.43,
     "y": -566.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 199,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Bruno_McDaniel",
-    "status": "Занято",
-    "x": 1771.74,
-    "y": -1903.27,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -5820,18 +5820,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 485,
-    "server_id": 10,
-    "type": "house",
-    "name": "Депозит условия",
-    "owner": "Shadow_Dreams",
-    "status": "Занято",
-    "x": 2122.4,
-    "y": 731.726,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 486,
     "server_id": 10,
     "type": "house",
@@ -9084,6 +9072,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 759,
+    "server_id": 10,
+    "type": "house",
+    "name": "есть деп условие и майн подвал",
+    "owner": "Roman_Guapo",
+    "status": "Занято",
+    "x": -2738.32,
+    "y": 801.5289,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 760,
     "server_id": 10,
     "type": "house",
@@ -9332,6 +9332,18 @@
     "status": "Занято",
     "x": -2541.29,
     "y": 733.153,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 781,
+    "server_id": 10,
+    "type": "house",
+    "name": "есть деп условия (60кк) ",
+    "owner": "Roman_Guapo",
+    "status": "Занято",
+    "x": -2541.25,
+    "y": 750.9169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17676,18 +17688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1482,
-    "server_id": 10,
-    "type": "house",
-    "name": "MAJOROV TEAM",
-    "owner": "martinerose",
-    "status": "Занято",
-    "x": -2596.65,
-    "y": 986.278,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1483,
     "server_id": 10,
     "type": "house",
@@ -22020,18 +22020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1844,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Artemy_Young",
-    "status": "Занято",
-    "x": 1752.2,
-    "y": 2744.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1846,
     "server_id": 10,
     "type": "house",
@@ -23220,6 +23208,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 485,
+    "server_id": 10,
+    "type": "house",
+    "name": "Депозит условия",
+    "owner": "Shadow_Dreams",
+    "status": "Аукцион",
+    "x": 2122.4,
+    "y": 731.726,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 488,
     "server_id": 10,
     "type": "house",
@@ -23241,30 +23241,6 @@
     "x": -624.9819,
     "y": 2709.93,
     "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 759,
-    "server_id": 10,
-    "type": "house",
-    "name": "есть деп условие и майн подвал",
-    "owner": "Roman_Guapo",
-    "status": "Аукцион",
-    "x": -2738.32,
-    "y": 801.5289,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 781,
-    "server_id": 10,
-    "type": "house",
-    "name": "есть деп условия (60кк) ",
-    "owner": "Roman_Guapo",
-    "status": "Аукцион",
-    "x": -2541.25,
-    "y": 750.9169,
-    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23313,6 +23289,30 @@
     "x": -2905.16,
     "y": 1165.02,
     "price": 120000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1482,
+    "server_id": 10,
+    "type": "house",
+    "name": "MAJOROV TEAM",
+    "owner": "martinerose",
+    "status": "Аукцион",
+    "x": -2596.65,
+    "y": 986.278,
+    "price": 120000228,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1844,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Artemy_Young",
+    "status": "Аукцион",
+    "x": 1752.2,
+    "y": 2744.55,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {

@@ -10440,18 +10440,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 871,
-    "server_id": 27,
-    "type": "house",
-    "name": "Vochko логово",
-    "owner": "[24]Samp_Bet",
-    "status": "Занято",
-    "x": -302.976,
-    "y": 2552.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 872,
     "server_id": 27,
     "type": "house",
@@ -15067,6 +15055,18 @@
     "owner": "Tim_Vercetti",
     "status": "Занято",
     "x": -2303.4,
+    "y": 656.7349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1257,
+    "server_id": 27,
+    "type": "house",
+    "name": "Skromniy Home",
+    "owner": "Pincher_DeLorean",
+    "status": "Занято",
+    "x": -2321.74,
     "y": 656.7349,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21480,18 +21480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1792,
-    "server_id": 27,
-    "type": "house",
-    "name": "есть деп условия",
-    "owner": "Shingekino_Kyojin",
-    "status": "Занято",
-    "x": 2495.44,
-    "y": -1383.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1793,
     "server_id": 27,
     "type": "house",
@@ -21524,18 +21512,6 @@
     "status": "Занято",
     "x": 2487.38,
     "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1796,
-    "server_id": 27,
-    "type": "house",
-    "name": "есть деп условия",
-    "owner": "Shingekino_Kyojin",
-    "status": "Занято",
-    "x": 2487.21,
-    "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21919,18 +21895,6 @@
     "owner": "Moda_Dissloved",
     "status": "Занято",
     "x": 2495.26,
-    "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1829,
-    "server_id": 27,
-    "type": "house",
-    "name": "есть деп условия",
-    "owner": "Shingekino_Kyojin",
-    "status": "Занято",
-    "x": 2476.28,
     "y": -1376.27,
     "price": 0,
     "district": "Сан-Андреас"
@@ -24420,15 +24384,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1257,
+    "id": 871,
     "server_id": 27,
     "type": "house",
-    "name": "Skromniy Home",
-    "owner": "Ihor_Skromniy",
+    "name": "Vochko логово",
+    "owner": "[24]Samp_Bet",
     "status": "Аукцион",
-    "x": -2321.74,
-    "y": 656.7349,
-    "price": 5000,
+    "x": -302.976,
+    "y": 2552.28,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1792,
+    "server_id": 27,
+    "type": "house",
+    "name": "есть деп условия",
+    "owner": "Shingekino_Kyojin",
+    "status": "Аукцион",
+    "x": 2495.44,
+    "y": -1383.38,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1796,
+    "server_id": 27,
+    "type": "house",
+    "name": "есть деп условия",
+    "owner": "Shingekino_Kyojin",
+    "status": "Аукцион",
+    "x": 2487.21,
+    "y": -1391.71,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1829,
+    "server_id": 27,
+    "type": "house",
+    "name": "есть деп условия",
+    "owner": "Shingekino_Kyojin",
+    "status": "Аукцион",
+    "x": 2476.28,
+    "y": -1376.27,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
