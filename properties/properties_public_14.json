@@ -1212,18 +1212,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 101,
-    "server_id": 14,
-    "type": "house",
-    "name": "<3 Sovhoz Corporation <3",
-    "owner": "Mirco_Diamond",
-    "status": "Занято",
-    "x": 2650.38,
-    "y": -2021.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 102,
     "server_id": 14,
     "type": "house",
@@ -6900,18 +6888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 575,
-    "server_id": 14,
-    "type": "house",
-    "name": "LiptonMining+ДепУсловия",
-    "owner": "Winter_Arc",
-    "status": "Занято",
-    "x": -155.673,
-    "y": 2758.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 576,
     "server_id": 14,
     "type": "house",
@@ -8916,18 +8892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 743,
-    "server_id": 14,
-    "type": "house",
-    "name": "Overdose",
-    "owner": "Winter_Arc",
-    "status": "Занято",
-    "x": -2884.17,
-    "y": 743.6279,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 744,
     "server_id": 14,
     "type": "house",
@@ -10400,6 +10364,30 @@
     "status": "Занято",
     "x": -327.64,
     "y": 2570.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 868,
+    "server_id": 14,
+    "type": "house",
+    "name": "Shakur",
+    "owner": "Peta_Nateplohode",
+    "status": "Занято",
+    "x": -313.3299,
+    "y": 2567.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 869,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Peta_Nateplohode",
+    "status": "Занято",
+    "x": -322.6199,
+    "y": 2554.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14436,18 +14424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1207,
-    "server_id": 14,
-    "type": "house",
-    "name": "Overdose",
-    "owner": "Winter_Arc",
-    "status": "Занято",
-    "x": -2872.49,
-    "y": 697.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1208,
     "server_id": 14,
     "type": "house",
@@ -14936,6 +14912,18 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1244.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1249,
+    "server_id": 14,
+    "type": "house",
+    "name": "деп условия. 1 месяц 10кк",
+    "owner": "Peta_Nateplohode",
+    "status": "Занято",
+    "x": -2351.14,
+    "y": 1226.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17316,6 +17304,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1448,
+    "server_id": 14,
+    "type": "house",
+    "name": "Nateplohode",
+    "owner": "Peta_Nateplohode",
+    "status": "Занято",
+    "x": 1055.0,
+    "y": 2315.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1449,
     "server_id": 14,
     "type": "house",
@@ -18532,7 +18532,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Дом",
-    "owner": "Konstantin_Kiba",
+    "owner": "Monty_Kristo",
     "status": "Занято",
     "x": 857.452,
     "y": -978.838,
@@ -20528,18 +20528,6 @@
     "status": "Занято",
     "x": 1849.54,
     "y": -2010.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1717,
-    "server_id": 14,
-    "type": "house",
-    "name": "Mavuika number one ",
-    "owner": "Tro_Pic",
-    "status": "Занято",
-    "x": 1838.7,
-    "y": -1994.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23628,6 +23616,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 101,
+    "server_id": 14,
+    "type": "house",
+    "name": "<3 Sovhoz Corporation <3",
+    "owner": "Mirco_Diamond",
+    "status": "Аукцион",
+    "x": 2650.38,
+    "y": -2021.82,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 575,
+    "server_id": 14,
+    "type": "house",
+    "name": "LiptonMining+ДепУсловия",
+    "owner": "Winter_Arc",
+    "status": "Аукцион",
+    "x": -155.673,
+    "y": 2758.71,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 743,
+    "server_id": 14,
+    "type": "house",
+    "name": "Overdose",
+    "owner": "Winter_Arc",
+    "status": "Аукцион",
+    "x": -2884.17,
+    "y": 743.6279,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 815,
     "server_id": 14,
     "type": "house",
@@ -23637,30 +23661,6 @@
     "x": -2724.34,
     "y": -191.276,
     "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 868,
-    "server_id": 14,
-    "type": "house",
-    "name": "Shakur",
-    "owner": "Peta_Nateplohode",
-    "status": "Аукцион",
-    "x": -313.3299,
-    "y": 2567.31,
-    "price": 7000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 869,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Peta_Nateplohode",
-    "status": "Аукцион",
-    "x": -322.6199,
-    "y": 2554.17,
-    "price": 7000,
     "district": "Сан-Андреас"
   },
   {
@@ -23676,27 +23676,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1249,
+    "id": 1207,
     "server_id": 14,
     "type": "house",
-    "name": "деп условия. 1 месяц 10кк",
-    "owner": "Peta_Nateplohode",
+    "name": "Overdose",
+    "owner": "Winter_Arc",
     "status": "Аукцион",
-    "x": -2351.14,
-    "y": 1226.43,
-    "price": 7000,
+    "x": -2872.49,
+    "y": 697.58,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1448,
+    "id": 1717,
     "server_id": 14,
     "type": "house",
-    "name": "Nateplohode",
-    "owner": "Peta_Nateplohode",
+    "name": "чек шкаф",
+    "owner": "Tro_Pic",
     "status": "Аукцион",
-    "x": 1055.0,
-    "y": 2315.2,
-    "price": 7000,
+    "x": 1838.7,
+    "y": -1994.23,
+    "price": 5300,
     "district": "Сан-Андреас"
   },
   {

@@ -7648,7 +7648,7 @@
     "server_id": 27,
     "type": "house",
     "name": "VispCorp",
-    "owner": "Oliver_Visenti",
+    "owner": "Paul_Barrett",
     "status": "Занято",
     "x": -328.5119,
     "y": 1118.86,
@@ -15067,18 +15067,6 @@
     "owner": "Tim_Vercetti",
     "status": "Занято",
     "x": -2303.4,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1257,
-    "server_id": 27,
-    "type": "house",
-    "name": "Skromniy Home",
-    "owner": "Ihor_Skromniy",
-    "status": "Занято",
-    "x": -2321.74,
     "y": 656.7349,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23256,18 +23244,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1940,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ihor_Skromniy",
-    "status": "Занято",
-    "x": 1728.03,
-    "y": 2834.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1941,
     "server_id": 27,
     "type": "house",
@@ -24444,6 +24420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1257,
+    "server_id": 27,
+    "type": "house",
+    "name": "Skromniy Home",
+    "owner": "Ihor_Skromniy",
+    "status": "Аукцион",
+    "x": -2321.74,
+    "y": 656.7349,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1740,
     "server_id": 27,
     "type": "house",
@@ -24453,6 +24441,18 @@
     "x": 2608.15,
     "y": -1203.1,
     "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1940,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ihor_Skromniy",
+    "status": "Аукцион",
+    "x": 1728.03,
+    "y": 2834.82,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {

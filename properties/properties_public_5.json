@@ -2148,18 +2148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 179,
-    "server_id": 5,
-    "type": "house",
-    "name": "life",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": 656.023,
-    "y": -1636.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 180,
     "server_id": 5,
     "type": "house",
@@ -13232,18 +13220,6 @@
     "status": "Занято",
     "x": 1739.41,
     "y": 2792.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1107,
-    "server_id": 5,
-    "type": "house",
-    "name": "Монополия Richards",
-    "owner": "Nick_Flanders",
-    "status": "Занято",
-    "x": 1740.34,
-    "y": 2863.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25032,6 +25008,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 179,
+    "server_id": 5,
+    "type": "house",
+    "name": "life",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": 656.023,
+    "y": -1636.08,
+    "price": 50000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 712,
     "server_id": 5,
     "type": "house",
@@ -25077,6 +25065,18 @@
     "x": -2868.73,
     "y": 820.978,
     "price": 750000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1107,
+    "server_id": 5,
+    "type": "house",
+    "name": "Монополия Richards",
+    "owner": "Nick_Flanders",
+    "status": "Аукцион",
+    "x": 1740.34,
+    "y": 2863.24,
+    "price": 7000,
     "district": "Сан-Андреас"
   },
   {

@@ -720,42 +720,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 60,
-    "server_id": 9,
-    "type": "house",
-    "name": "Пивнуха <<Алмазное Колечко>>",
-    "owner": "Baron_Scandino",
-    "status": "Занято",
-    "x": 2523.31,
-    "y": -1658.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 61,
-    "server_id": 9,
-    "type": "house",
-    "name": "Пивнуха <<Алмазное Колечко>>",
-    "owner": "Baron_Scandino",
-    "status": "Занято",
-    "x": 2513.55,
-    "y": -1650.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 62,
-    "server_id": 9,
-    "type": "house",
-    "name": "Пивнуха <<Алмазное Колечко>>",
-    "owner": "Baron_Scandino",
-    "status": "Занято",
-    "x": 2498.47,
-    "y": -1643.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 63,
     "server_id": 9,
     "type": "house",
@@ -788,18 +752,6 @@
     "status": "Занято",
     "x": 2469.52,
     "y": -1646.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 66,
-    "server_id": 9,
-    "type": "house",
-    "name": "Пивнуха<<Алмазное Колечко>>",
-    "owner": "Baron_Scandino",
-    "status": "Занято",
-    "x": 2451.9,
-    "y": -1642.61,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12516,6 +12468,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1044,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hayden_Benet",
+    "status": "Занято",
+    "x": 2004.26,
+    "y": 2145.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1045,
     "server_id": 9,
     "type": "house",
@@ -19764,18 +19728,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1652,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Korrigan_Morse",
-    "status": "Занято",
-    "x": -2627.4,
-    "y": 2359.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1653,
     "server_id": 9,
     "type": "house",
@@ -23880,15 +23832,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1044,
+    "id": 60,
     "server_id": 9,
     "type": "house",
-    "name": "Дом",
-    "owner": "Actavis_Wizzard",
+    "name": "sell с набором архтектора",
+    "owner": "Baron_Scandino",
     "status": "Аукцион",
-    "x": 2004.26,
-    "y": 2145.14,
-    "price": 13000,
+    "x": 2523.31,
+    "y": -1658.56,
+    "price": 8500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 61,
+    "server_id": 9,
+    "type": "house",
+    "name": "sell с набором архтектора",
+    "owner": "Baron_Scandino",
+    "status": "Аукцион",
+    "x": 2513.55,
+    "y": -1650.3,
+    "price": 8500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 62,
+    "server_id": 9,
+    "type": "house",
+    "name": "sell с набором архтектора",
+    "owner": "Baron_Scandino",
+    "status": "Аукцион",
+    "x": 2498.47,
+    "y": -1643.62,
+    "price": 8500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 66,
+    "server_id": 9,
+    "type": "house",
+    "name": "sell с набором архтектора",
+    "owner": "Baron_Scandino",
+    "status": "Аукцион",
+    "x": 2451.9,
+    "y": -1642.61,
+    "price": 8500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23928,27 +23916,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 41,
+    "id": 1652,
     "server_id": 9,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Maksim_Legendary",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Korrigan_Morse",
     "status": "Аукцион",
-    "x": 2469.02,
-    "y": -1513.98,
-    "price": 163000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 55,
-    "server_id": 9,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Maksim_Legendary",
-    "status": "Аукцион",
-    "x": 2262.75,
-    "y": 2036.09,
-    "price": 163000,
+    "x": -2627.4,
+    "y": 2359.59,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26088,6 +26064,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 41,
+    "server_id": 9,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Maksim_Legendary",
+    "status": "Занято",
+    "x": 2469.02,
+    "y": -1513.98,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 42,
     "server_id": 9,
     "type": "business",
@@ -26132,6 +26120,18 @@
     "status": "Занято",
     "x": 2200.76,
     "y": 1394.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 55,
+    "server_id": 9,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Maksim_Legendary",
+    "status": "Занято",
+    "x": 2262.75,
+    "y": 2036.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
