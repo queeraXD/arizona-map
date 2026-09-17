@@ -2148,6 +2148,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 179,
+    "server_id": 5,
+    "type": "house",
+    "name": "life",
+    "owner": "Eugene_Macedonsky",
+    "status": "Занято",
+    "x": 656.023,
+    "y": -1636.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 180,
     "server_id": 5,
     "type": "house",
@@ -9024,18 +9036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 754,
-    "server_id": 5,
-    "type": "house",
-    "name": "Мой дом",
-    "owner": "Kik_Deluxe",
-    "status": "Занято",
-    "x": -2678.18,
-    "y": 722.1619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 755,
     "server_id": 5,
     "type": "house",
@@ -11312,18 +11312,6 @@
     "status": "Занято",
     "x": -2066.61,
     "y": 796.3289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 947,
-    "server_id": 5,
-    "type": "house",
-    "name": "OtsaCity",
-    "owner": "Kik_Deluxe",
-    "status": "Занято",
-    "x": -2112.59,
-    "y": 796.4169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23112,18 +23100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1930,
-    "server_id": 5,
-    "type": "house",
-    "name": "Min house ",
-    "owner": "Nori_Takayama",
-    "status": "Занято",
-    "x": 2487.4,
-    "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1932,
     "server_id": 5,
     "type": "house",
@@ -25044,18 +25020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 179,
-    "server_id": 5,
-    "type": "house",
-    "name": "life",
-    "owner": "Eugene_Macedonsky",
-    "status": "Аукцион",
-    "x": 656.023,
-    "y": -1636.08,
-    "price": 50000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 662,
     "server_id": 5,
     "type": "house",
@@ -25065,6 +25029,18 @@
     "x": 985.838,
     "y": 1901.11,
     "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 754,
+    "server_id": 5,
+    "type": "house",
+    "name": "Мой дом",
+    "owner": "Kik_Deluxe",
+    "status": "Аукцион",
+    "x": -2678.18,
+    "y": 722.1619,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -25089,6 +25065,30 @@
     "x": -2325.86,
     "y": 944.7849,
     "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 947,
+    "server_id": 5,
+    "type": "house",
+    "name": "OtsaCity",
+    "owner": "Kik_Deluxe",
+    "status": "Аукцион",
+    "x": -2112.59,
+    "y": 796.4169,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1930,
+    "server_id": 5,
+    "type": "house",
+    "name": "Min house ",
+    "owner": "Nori_Takayama",
+    "status": "Аукцион",
+    "x": 2487.4,
+    "y": -1398.81,
+    "price": 750000000,
     "district": "Сан-Андреас"
   },
   {
