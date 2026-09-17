@@ -12072,18 +12072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1013,
-    "server_id": 19,
-    "type": "house",
-    "name": "Katsu House",
-    "owner": "Buba_Strax",
-    "status": "Занято",
-    "x": -2506.37,
-    "y": 1141.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1014,
     "server_id": 19,
     "type": "house",
@@ -14655,7 +14643,7 @@
     "id": 1231,
     "server_id": 19,
     "type": "house",
-    "name": "Дом",
+    "name": "Блат-хата",
     "owner": "Lenchik_Lannister",
     "status": "Занято",
     "x": -2433.75,
@@ -19068,18 +19056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1603,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gud_Malboro",
-    "status": "Занято",
-    "x": 1724.89,
-    "y": 2800.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1604,
     "server_id": 19,
     "type": "house",
@@ -19160,18 +19136,6 @@
     "status": "Занято",
     "x": 1741.39,
     "y": 2741.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1611,
-    "server_id": 19,
-    "type": "house",
-    "name": "ambassador",
-    "owner": "nikita_Frolov",
-    "status": "Занято",
-    "x": 1743.61,
-    "y": 2733.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20820,18 +20784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1752,
-    "server_id": 19,
-    "type": "house",
-    "name": "Dikiy Home",
-    "owner": "Almatinka_Latinka",
-    "status": "Занято",
-    "x": 2707.31,
-    "y": -1216.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1753,
     "server_id": 19,
     "type": "house",
@@ -21864,6 +21816,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1013,
+    "server_id": 19,
+    "type": "house",
+    "name": "Katsu House",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2506.37,
+    "y": 1141.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1574,
     "server_id": 19,
     "type": "house",
@@ -21872,6 +21836,18 @@
     "status": "Свободно",
     "x": 1922.51,
     "y": 742.875,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1611,
+    "server_id": 19,
+    "type": "house",
+    "name": "ambassador",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1743.61,
+    "y": 2733.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22020,6 +21996,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1603,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gud_Malboro",
+    "status": "Аукцион",
+    "x": 1724.89,
+    "y": 2800.45,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1621,
     "server_id": 19,
     "type": "house",
@@ -22053,6 +22041,18 @@
     "x": 1414.7,
     "y": 2026.98,
     "price": 80000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1752,
+    "server_id": 19,
+    "type": "house",
+    "name": "Dikiy Home",
+    "owner": "Almatinka_Latinka",
+    "status": "Аукцион",
+    "x": 2707.31,
+    "y": -1216.3,
+    "price": 30000000,
     "district": "Сан-Андреас"
   },
   {

@@ -3672,18 +3672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 306,
-    "server_id": 3,
-    "type": "house",
-    "name": "Славское царство",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 1895.99,
-    "y": -1064.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 307,
     "server_id": 3,
     "type": "house",
@@ -7152,6 +7140,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 597,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом с набором архитектора",
+    "owner": "Aleks_Weiss",
+    "status": "Занято",
+    "x": -1450.71,
+    "y": 2691.05,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 598,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом с набором архитектора",
+    "owner": "Aleks_Weiss",
+    "status": "Занято",
+    "x": -1466.16,
+    "y": 2693.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 599,
     "server_id": 3,
     "type": "house",
@@ -8628,6 +8640,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 722,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом с набором творчества",
+    "owner": "Aleks_Weiss",
+    "status": "Занято",
+    "x": 1663.37,
+    "y": 2753.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 723,
     "server_id": 3,
     "type": "house",
@@ -9459,7 +9483,7 @@
     "id": 792,
     "server_id": 3,
     "type": "house",
-    "name": "Вул. Незалежності 3",
+    "name": "Вул. Незалежності 1",
     "owner": "Graph_Moran",
     "status": "Занято",
     "x": -2540.21,
@@ -9483,7 +9507,7 @@
     "id": 794,
     "server_id": 3,
     "type": "house",
-    "name": "Вул. Незалежності 1",
+    "name": "Вул. Незалежності 3",
     "owner": "Graph_Moran",
     "status": "Занято",
     "x": -2538.73,
@@ -17860,7 +17884,7 @@
     "server_id": 3,
     "type": "house",
     "name": "MIUMIU",
-    "owner": "Graph_Moran",
+    "owner": "Timka_Izanami",
     "status": "Занято",
     "x": 1638.14,
     "y": 2610.72,
@@ -20024,18 +20048,6 @@
     "status": "Занято",
     "x": 2622.22,
     "y": -1207.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1675,
-    "server_id": 3,
-    "type": "house",
-    "name": "Карачай-малкьар",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 2622.22,
-    "y": -1200.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23952,6 +23964,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 306,
+    "server_id": 3,
+    "type": "house",
+    "name": "Славское царство",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 1895.99,
+    "y": -1064.77,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 356,
     "server_id": 3,
     "type": "house",
@@ -23964,42 +23988,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 597,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом с набором архитектора",
-    "owner": "Aleks_Weiss",
-    "status": "Аукцион",
-    "x": -1450.71,
-    "y": 2691.05,
-    "price": 50000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 598,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом с набором архитектора",
-    "owner": "Aleks_Weiss",
-    "status": "Аукцион",
-    "x": -1466.16,
-    "y": 2693.15,
-    "price": 50000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 722,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом с набором творчества",
-    "owner": "Aleks_Weiss",
-    "status": "Аукцион",
-    "x": 1663.37,
-    "y": 2753.72,
-    "price": 52000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1288,
     "server_id": 3,
     "type": "house",
@@ -24009,6 +23997,18 @@
     "x": -2358.54,
     "y": 656.7349,
     "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1675,
+    "server_id": 3,
+    "type": "house",
+    "name": "Карачай-малкьар",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 2622.22,
+    "y": -1200.1,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {

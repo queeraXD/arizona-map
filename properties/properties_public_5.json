@@ -8544,18 +8544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 712,
-    "server_id": 5,
-    "type": "house",
-    "name": "Zloy_King",
-    "owner": "Feldan_Plaki",
-    "status": "Занято",
-    "x": 1573.09,
-    "y": 2658.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 713,
     "server_id": 5,
     "type": "house",
@@ -12260,18 +12248,6 @@
     "status": "Занято",
     "x": -2863.56,
     "y": 829.7769,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1024,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Micro_Wave",
-    "status": "Занято",
-    "x": -2868.73,
-    "y": 820.978,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18732,18 +18708,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1563,
-    "server_id": 5,
-    "type": "house",
-    "name": ":uf21d: Ферма ДameДz :uf21d:",
-    "owner": "Flaer_Damnedz",
-    "status": "Занято",
-    "x": 2462.77,
-    "y": 134.779,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1564,
     "server_id": 5,
     "type": "house",
@@ -25068,6 +25032,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 712,
+    "server_id": 5,
+    "type": "house",
+    "name": "Zloy_King",
+    "owner": "Feldan_Plaki",
+    "status": "Аукцион",
+    "x": 1573.09,
+    "y": 2658.39,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 785,
     "server_id": 5,
     "type": "house",
@@ -25089,6 +25065,30 @@
     "x": -2029.84,
     "y": 745.572,
     "price": 16000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1024,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Micro_Wave",
+    "status": "Аукцион",
+    "x": -2868.73,
+    "y": 820.978,
+    "price": 750000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1563,
+    "server_id": 5,
+    "type": "house",
+    "name": ":uf21d: Ферма ДameДz :uf21d:",
+    "owner": "Flaer_Damnedz",
+    "status": "Аукцион",
+    "x": 2462.77,
+    "y": 134.779,
+    "price": 110000,
     "district": "Сан-Андреас"
   },
   {

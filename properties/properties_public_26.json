@@ -120,6 +120,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 10,
+    "server_id": 26,
+    "type": "house",
+    "name": "Seventy squad",
+    "owner": "Aperol_Spritz",
+    "status": "Занято",
+    "x": 2050.88,
+    "y": -1065.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 11,
     "server_id": 26,
     "type": "house",
@@ -12072,18 +12084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1010,
-    "server_id": 26,
-    "type": "house",
-    "name": "Smola Incorporated",
-    "owner": "Dimka_Balanda",
-    "status": "Занято",
-    "x": -2468.65,
-    "y": 1141.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1011,
     "server_id": 26,
     "type": "house",
@@ -20952,18 +20952,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1750,
-    "server_id": 26,
-    "type": "house",
-    "name": "Тимоха squad жир",
-    "owner": "Dimka_Balanda",
-    "status": "Занято",
-    "x": 2624.85,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1751,
     "server_id": 26,
     "type": "house",
@@ -22544,18 +22532,6 @@
     "status": "Занято",
     "x": -2515.38,
     "y": -153.9309,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1884,
-    "server_id": 26,
-    "type": "house",
-    "name": "Montanich",
-    "owner": "Dimka_Balanda",
-    "status": "Занято",
-    "x": -2066.42,
-    "y": 820.6929,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25140,18 +25116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 10,
-    "server_id": 26,
-    "type": "house",
-    "name": "Seventy squad",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2050.88,
-    "y": -1065.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 20,
     "server_id": 26,
     "type": "house",
@@ -25176,6 +25140,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1010,
+    "server_id": 26,
+    "type": "house",
+    "name": "Smola Incorporated",
+    "owner": "Dimka_Balanda",
+    "status": "Аукцион",
+    "x": -2468.65,
+    "y": 1141.54,
+    "price": 75000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1750,
+    "server_id": 26,
+    "type": "house",
+    "name": "Тимоха squad жир",
+    "owner": "Dimka_Balanda",
+    "status": "Аукцион",
+    "x": 2624.85,
+    "y": 2195.56,
+    "price": 30000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1866,
     "server_id": 26,
     "type": "house",
@@ -25185,6 +25173,18 @@
     "x": -2621.04,
     "y": 96.8983,
     "price": 80000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1884,
+    "server_id": 26,
+    "type": "house",
+    "name": "Montanich",
+    "owner": "Dimka_Balanda",
+    "status": "Аукцион",
+    "x": -2066.42,
+    "y": 820.6929,
+    "price": 75000000,
     "district": "Сан-Андреас"
   },
   {
