@@ -7092,18 +7092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 591,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Feldan_Lizalov",
-    "status": "Занято",
-    "x": -1476.21,
-    "y": 2563.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 592,
     "server_id": 18,
     "type": "house",
@@ -9836,18 +9824,6 @@
     "status": "Занято",
     "x": -2691.32,
     "y": -159.893,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 820,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lau_Ma",
-    "status": "Занято",
-    "x": -2689.39,
-    "y": -152.796,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16932,18 +16908,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1412,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 885.4229,
-    "y": 2153.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1413,
     "server_id": 18,
     "type": "house",
@@ -22209,6 +22173,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 591,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Feldan_Lizalov",
+    "status": "Аукцион",
+    "x": -1476.21,
+    "y": 2563.06,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 820,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lau_Ma",
+    "status": "Аукцион",
+    "x": -2689.39,
+    "y": -152.796,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1412,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 885.4229,
+    "y": 2153.95,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
