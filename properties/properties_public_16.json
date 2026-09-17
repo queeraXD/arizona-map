@@ -288,18 +288,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 24,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": 2230.01,
-    "y": -1281.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 25,
     "server_id": 16,
     "type": "house",
@@ -3200,18 +3188,6 @@
     "status": "Занято",
     "x": 2561.86,
     "y": -1034.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 277,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Serafim_Weeknd",
-    "status": "Занято",
-    "x": 2549.37,
-    "y": -1032.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8392,7 +8368,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Paul_William",
+    "owner": "Pitr_Desire",
     "status": "Занято",
     "x": 1610.94,
     "y": 2648.2,
@@ -14556,18 +14532,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1225,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Blake_Shadow",
-    "status": "Занято",
-    "x": -2632.0,
-    "y": 274.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1226,
     "server_id": 16,
     "type": "house",
@@ -14823,8 +14787,8 @@
     "id": 1247,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
-    "owner": "Ravion_Markelovani",
+    "name": "Хижина Сопрано",
+    "owner": "Garry_Soprano",
     "status": "Занято",
     "x": -2476.96,
     "y": 1273.95,
@@ -15272,18 +15236,6 @@
     "status": "Занято",
     "x": -2863.72,
     "y": 829.721,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1286,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Serafim_Weeknd",
-    "status": "Занято",
-    "x": -2840.23,
-    "y": 866.7639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20004,18 +19956,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1684,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Serafim_Weeknd",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2159.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1685,
     "server_id": 16,
     "type": "house",
@@ -20516,18 +20456,6 @@
     "status": "Занято",
     "x": 2437.04,
     "y": 1204.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1727,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pavel_Fiendo",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1209.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22272,6 +22200,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 24,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Spike_Scout",
+    "status": "Аукцион",
+    "x": 2230.01,
+    "y": -1281.05,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 75,
     "server_id": 16,
     "type": "house",
@@ -22392,6 +22332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 277,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Serafim_Weeknd",
+    "status": "Аукцион",
+    "x": 2549.37,
+    "y": -1032.24,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 678,
     "server_id": 16,
     "type": "house",
@@ -22404,6 +22356,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1225,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Blake_Shadow",
+    "status": "Аукцион",
+    "x": -2632.0,
+    "y": 274.54,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1256,
     "server_id": 16,
     "type": "house",
@@ -22413,6 +22377,18 @@
     "x": -2433.05,
     "y": 1301.28,
     "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1286,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Serafim_Weeknd",
+    "status": "Аукцион",
+    "x": -2840.23,
+    "y": 866.7639,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22461,6 +22437,30 @@
     "x": 1974.77,
     "y": -1671.19,
     "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1684,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Serafim_Weeknd",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2159.43,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1727,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pavel_Fiendo",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1209.68,
+    "price": 130000000,
     "district": "Сан-Андреас"
   },
   {

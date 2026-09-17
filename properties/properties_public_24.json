@@ -7272,18 +7272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 607,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": -1603.7,
-    "y": 2689.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 608,
     "server_id": 24,
     "type": "house",
@@ -8700,6 +8688,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 726,
+    "server_id": 24,
+    "type": "house",
+    "name": "|О|С|О|Б|Н|Я|Ч|О|К|",
+    "owner": "Big_Husler",
+    "status": "Занято",
+    "x": 1735.65,
+    "y": 2691.22,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 727,
     "server_id": 24,
     "type": "house",
@@ -9164,18 +9164,6 @@
     "status": "Занято",
     "x": -2660.11,
     "y": 803.0839,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 766,
-    "server_id": 24,
-    "type": "house",
-    "name": "Brooks and Blackseekers.",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": -2687.81,
-    "y": 803.0819,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11720,6 +11708,18 @@
     "status": "Занято",
     "x": -2278.21,
     "y": 768.1019,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 981,
+    "server_id": 24,
+    "type": "house",
+    "name": "Dynasty Legion",
+    "owner": "Flip_Ratero",
+    "status": "Занято",
+    "x": -2278.81,
+    "y": 787.749,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21960,15 +21960,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 726,
+    "id": 607,
     "server_id": 24,
     "type": "house",
-    "name": "|О|С|О|Б|Н|Я|Ч|О|К|",
-    "owner": "Big_Husler",
+    "name": "Дом",
+    "owner": "Eugene_Macedonsky",
     "status": "Аукцион",
-    "x": 1735.65,
-    "y": 2691.22,
-    "price": 7000,
+    "x": -1603.7,
+    "y": 2689.76,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 766,
+    "server_id": 24,
+    "type": "house",
+    "name": "Brooks and Blackseekers.",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": -2687.81,
+    "y": 803.0819,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -21981,18 +21993,6 @@
     "x": -2159.79,
     "y": 1030.66,
     "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 981,
-    "server_id": 24,
-    "type": "house",
-    "name": "Dynasty Legion",
-    "owner": "Flip_Ratero",
-    "status": "Аукцион",
-    "x": -2278.81,
-    "y": 787.749,
-    "price": 4500,
     "district": "Сан-Андреас"
   },
   {
@@ -22044,27 +22044,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 31,
+    "id": 78,
     "server_id": 24,
     "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Big_Husler",
+    "name": "Закусочная",
+    "owner": "Lucky_May",
     "status": "Аукцион",
-    "x": 604.441,
-    "y": -1513.29,
-    "price": 800000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 265,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Big_Husler",
-    "status": "Аукцион",
-    "x": 1019.18,
-    "y": -1871.74,
-    "price": 800000,
+    "x": 172.348,
+    "y": 1177.63,
+    "price": 390000,
     "district": "Сан-Андреас"
   },
   {
@@ -23364,6 +23352,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 31,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Big_Husler",
+    "status": "Занято",
+    "x": 604.441,
+    "y": -1513.29,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 32,
     "server_id": 24,
     "type": "business",
@@ -23568,6 +23568,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 265,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Big_Husler",
+    "status": "Занято",
+    "x": 1019.18,
+    "y": -1871.74,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 285,
     "server_id": 24,
     "type": "business",
@@ -23732,18 +23744,6 @@
     "status": "Занято",
     "x": 1038.22,
     "y": -1340.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 78,
-    "server_id": 24,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Lucky_May",
-    "status": "Занято",
-    "x": 172.348,
-    "y": 1177.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
