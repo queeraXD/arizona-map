@@ -5352,18 +5352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 447,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ichigo_Kurosakiu",
-    "status": "Занято",
-    "x": 2457.76,
-    "y": -1054.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 448,
     "server_id": 32,
     "type": "house",
@@ -8980,7 +8968,7 @@
     "server_id": 32,
     "type": "house",
     "name": "налдон ловит",
-    "owner": "Lev_Tigr",
+    "owner": "Vasya_Vasek",
     "status": "Занято",
     "x": -2641.07,
     "y": 935.7189,
@@ -11956,7 +11944,7 @@
     "server_id": 32,
     "type": "house",
     "name": "налдон ловит",
-    "owner": "Lev_Tigr",
+    "owner": "Vasya_Vasek",
     "status": "Занято",
     "x": -2369.51,
     "y": 1121.8,
@@ -13696,7 +13684,7 @@
     "server_id": 32,
     "type": "house",
     "name": "квартира налдона",
-    "owner": "Lev_Tigr",
+    "owner": "Vasya_Vasek",
     "status": "Занято",
     "x": 276.2319,
     "y": -1620.42,
@@ -15264,18 +15252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1278,
-    "server_id": 32,
-    "type": "house",
-    "name": "*CRIPS HOUSE*",
-    "owner": "Ichigo_Kurosakiu",
-    "status": "Занято",
-    "x": -2723.06,
-    "y": 21.9043,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1279,
     "server_id": 32,
     "type": "house",
@@ -15628,7 +15604,7 @@
     "server_id": 32,
     "type": "house",
     "name": "домик налдона",
-    "owner": "Lev_Tigr",
+    "owner": "Vasya_Vasek",
     "status": "Занято",
     "x": -2515.38,
     "y": -189.2209,
@@ -18548,18 +18524,6 @@
     "status": "Занято",
     "x": 2374.04,
     "y": -1138.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1581,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lev_Tigr",
-    "status": "Занято",
-    "x": 2395.05,
-    "y": -1134.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21724,7 +21688,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Bober значит миллионер",
-    "owner": "Bober_Millioner",
+    "owner": "Oleg_Pivassik",
     "status": "Занято",
     "x": 2613.64,
     "y": 2051.63,
@@ -22500,6 +22464,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 447,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ichigo_Kurosakiu",
+    "status": "Аукцион",
+    "x": 2457.76,
+    "y": -1054.57,
+    "price": 850000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1162,
     "server_id": 32,
     "type": "house",
@@ -22509,6 +22485,30 @@
     "x": 276.22,
     "y": -1620.5,
     "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1278,
+    "server_id": 32,
+    "type": "house",
+    "name": "*CRIPS HOUSE*",
+    "owner": "Ichigo_Kurosakiu",
+    "status": "Аукцион",
+    "x": -2723.06,
+    "y": 21.9043,
+    "price": 850000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1581,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vasya_Vasek",
+    "status": "Аукцион",
+    "x": 2395.05,
+    "y": -1134.08,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
