@@ -2619,7 +2619,7 @@
     "id": 219,
     "server_id": 5,
     "type": "house",
-    "name": ":uf259:Velual Family:uf259:",
+    "name": "Дом",
     "owner": "Billy_BuTcher",
     "status": "Занято",
     "x": 785.828,
@@ -2631,7 +2631,7 @@
     "id": 220,
     "server_id": 5,
     "type": "house",
-    "name": "VIPClub",
+    "name": "Дом",
     "owner": "Billy_BuTcher",
     "status": "Занято",
     "x": 808.908,
@@ -7932,18 +7932,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 662,
-    "server_id": 5,
-    "type": "house",
-    "name": "Dark_Crows!",
-    "owner": "Abraham_Falcone",
-    "status": "Занято",
-    "x": 985.838,
-    "y": 1901.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 663,
     "server_id": 5,
     "type": "house",
@@ -8528,6 +8516,18 @@
     "status": "Занято",
     "x": 1607.08,
     "y": 2679.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 712,
+    "server_id": 5,
+    "type": "house",
+    "name": "Zloy_King",
+    "owner": "Feldan_Plaki",
+    "status": "Занято",
+    "x": 1573.09,
+    "y": 2658.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9980,18 +9980,6 @@
     "status": "Занято",
     "x": -2048.18,
     "y": 745.752,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 834,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2029.84,
-    "y": 745.572,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12248,6 +12236,18 @@
     "status": "Занято",
     "x": -2863.56,
     "y": 829.7769,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1024,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kem_Nibud",
+    "status": "Занято",
+    "x": -2868.73,
+    "y": 820.978,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18696,6 +18696,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1563,
+    "server_id": 5,
+    "type": "house",
+    "name": ":uf21d: Ферма ДameДz :uf21d:",
+    "owner": "Flaer_Damnedz",
+    "status": "Занято",
+    "x": 2462.77,
+    "y": 134.779,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1564,
     "server_id": 5,
     "type": "house",
@@ -23100,18 +23112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1931,
-    "server_id": 5,
-    "type": "house",
-    "name": "имя отсутствует",
-    "owner": "Declan_Rice",
-    "status": "Занято",
-    "x": 2487.06,
-    "y": -1410.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1932,
     "server_id": 5,
     "type": "house",
@@ -23420,18 +23420,6 @@
     "status": "Занято",
     "x": 2492.21,
     "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1958,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 2476.46,
-    "y": -1376.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25056,15 +25044,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 712,
+    "id": 662,
     "server_id": 5,
     "type": "house",
-    "name": "Zloy_King",
-    "owner": "Feldan_Plaki",
+    "name": "Dark_Crows!",
+    "owner": "Abraham_Falcone",
     "status": "Аукцион",
-    "x": 1573.09,
-    "y": 2658.39,
-    "price": 2000000000,
+    "x": 985.838,
+    "y": 1901.11,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 834,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": -2029.84,
+    "y": 745.572,
+    "price": 16000,
     "district": "Сан-Андреас"
   },
   {
@@ -25080,18 +25080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1024,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Micro_Wave",
-    "status": "Аукцион",
-    "x": -2868.73,
-    "y": 820.978,
-    "price": 750000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1107,
     "server_id": 5,
     "type": "house",
@@ -25104,27 +25092,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1563,
+    "id": 1931,
     "server_id": 5,
     "type": "house",
-    "name": ":uf21d: Ферма ДameДz :uf21d:",
-    "owner": "Flaer_Damnedz",
+    "name": "имя отсутствует",
+    "owner": "Declan_Rice",
     "status": "Аукцион",
-    "x": 2462.77,
-    "y": 134.779,
-    "price": 110000,
+    "x": 2487.06,
+    "y": -1410.38,
+    "price": 1001001001,
     "district": "Сан-Андреас"
   },
   {
-    "id": 206,
+    "id": 1958,
     "server_id": 5,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Serega_Sergeev",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igoryan_Toretto",
     "status": "Аукцион",
-    "x": 1381.1,
-    "y": -1805.03,
-    "price": 100000,
+    "x": 2476.46,
+    "y": -1376.54,
+    "price": 750000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26080,7 +26068,7 @@
     "server_id": 5,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Molly_Hills",
+    "owner": "Empire_Hills",
     "status": "Занято",
     "x": -1694.58,
     "y": 951.914,
@@ -26140,7 +26128,7 @@
     "server_id": 5,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Molly_Hills",
+    "owner": "Empire_Hills",
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
@@ -27580,7 +27568,7 @@
     "server_id": 5,
     "type": "business",
     "name": "Отель",
-    "owner": "Molly_Hills",
+    "owner": "Empire_Hills",
     "status": "Занято",
     "x": 1547.183,
     "y": -1269.795,
@@ -28232,6 +28220,18 @@
     "status": "Занято",
     "x": 1136.92,
     "y": -1750.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 206,
+    "server_id": 5,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Alonso_Owner",
+    "status": "Занято",
+    "x": 1381.1,
+    "y": -1805.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28888,7 +28888,7 @@
     "server_id": 5,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Molly_Hills",
+    "owner": "Empire_Hills",
     "status": "Занято",
     "x": -1784.542,
     "y": -594.7703,

@@ -804,6 +804,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 68,
+    "server_id": 26,
+    "type": "house",
+    "name": "О К А К",
+    "owner": "Wuddy_Overprice",
+    "status": "Занято",
+    "x": 2393.19,
+    "y": -1646.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 69,
     "server_id": 26,
     "type": "house",
@@ -6288,18 +6300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 528,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом №528",
-    "owner": "Masons_Junior",
-    "status": "Занято",
-    "x": 2018.48,
-    "y": 2766.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 529,
     "server_id": 26,
     "type": "house",
@@ -10148,18 +10148,6 @@
     "status": "Занято",
     "x": -2158.05,
     "y": 1148.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 850,
-    "server_id": 26,
-    "type": "house",
-    "name": "afk farm",
-    "owner": "Takayuki_Hakegawa",
-    "status": "Занято",
-    "x": -2222.18,
-    "y": 1163.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14156,18 +14144,6 @@
     "status": "Занято",
     "x": -2791.58,
     "y": -107.4069,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1187,
-    "server_id": 26,
-    "type": "house",
-    "name": "onyxflare",
-    "owner": "Avoid_Freeze",
-    "status": "Занято",
-    "x": -2791.85,
-    "y": -94.7826,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20904,6 +20880,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1750,
+    "server_id": 26,
+    "type": "house",
+    "name": "Тимоха squad жир",
+    "owner": "Dimka_Balanda",
+    "status": "Занято",
+    "x": 2624.85,
+    "y": 2195.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1751,
     "server_id": 26,
     "type": "house",
@@ -22496,6 +22484,18 @@
     "status": "Занято",
     "x": -2515.38,
     "y": -153.9309,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1884,
+    "server_id": 26,
+    "type": "house",
+    "name": "Montanich",
+    "owner": "Dimka_Balanda",
+    "status": "Занято",
+    "x": -2066.42,
+    "y": 820.6929,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24736,7 +24736,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Дом",
-    "owner": "Durante_Lamour",
+    "owner": "Aren_Arenovich",
     "status": "Занято",
     "x": -77.3582,
     "y": 992.018,
@@ -25080,18 +25080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1097,
-    "server_id": 26,
-    "type": "house",
-    "name": "дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2223.62,
-    "y": 820.458,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 10,
     "server_id": 26,
     "type": "house",
@@ -25101,18 +25089,6 @@
     "x": 2050.88,
     "y": -1065.7,
     "price": 20000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 68,
-    "server_id": 26,
-    "type": "house",
-    "name": "О К А К",
-    "owner": "Yuki_Ximura",
-    "status": "Аукцион",
-    "x": 2393.19,
-    "y": -1646.03,
-    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25140,15 +25116,63 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 528,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом №528",
+    "owner": "Masons_Junior",
+    "status": "Аукцион",
+    "x": 2018.48,
+    "y": 2766.55,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 850,
+    "server_id": 26,
+    "type": "house",
+    "name": "afk farm",
+    "owner": "Takayuki_Hakegawa",
+    "status": "Аукцион",
+    "x": -2222.18,
+    "y": 1163.98,
+    "price": 900,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1010,
     "server_id": 26,
     "type": "house",
     "name": "Smola Incorporated",
-    "owner": "Dimka_Balanda",
+    "owner": "Lutik_Lucifer",
     "status": "Аукцион",
     "x": -2468.65,
     "y": 1141.54,
-    "price": 75000000,
+    "price": 5500000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1097,
+    "server_id": 26,
+    "type": "house",
+    "name": "дом",
+    "owner": "Aperol_Spritz",
+    "status": "Аукцион",
+    "x": -2223.62,
+    "y": 820.458,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1187,
+    "server_id": 26,
+    "type": "house",
+    "name": "onyxflare",
+    "owner": "Avoid_Freeze",
+    "status": "Аукцион",
+    "x": -2791.85,
+    "y": -94.7826,
+    "price": 80000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25161,30 +25185,6 @@
     "x": 1110.55,
     "y": -1554.05,
     "price": 2200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1750,
-    "server_id": 26,
-    "type": "house",
-    "name": "Тимоха squad жир",
-    "owner": "Dimka_Balanda",
-    "status": "Аукцион",
-    "x": 2624.85,
-    "y": 2195.56,
-    "price": 30000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1884,
-    "server_id": 26,
-    "type": "house",
-    "name": "Montanich",
-    "owner": "Dimka_Balanda",
-    "status": "Аукцион",
-    "x": -2066.42,
-    "y": 820.6929,
-    "price": 75000000,
     "district": "Сан-Андреас"
   },
   {

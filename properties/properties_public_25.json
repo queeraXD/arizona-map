@@ -7656,6 +7656,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 640,
+    "server_id": 25,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunov",
+    "status": "Занято",
+    "x": -247.8639,
+    "y": 1001.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 641,
     "server_id": 25,
     "type": "house",
@@ -7916,18 +7928,6 @@
     "status": "Занято",
     "x": 985.838,
     "y": 1901.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 663,
-    "server_id": 25,
-    "type": "house",
-    "name": "Лас вентурас",
-    "owner": "Michael_Rapaport",
-    "status": "Занято",
-    "x": 985.0139,
-    "y": 1930.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19839,7 +19839,7 @@
     "id": 1660,
     "server_id": 25,
     "type": "house",
-    "name": "Логово легендарного Мишаеля",
+    "name": "house vaneek",
     "owner": "Vanek_Okashovich",
     "status": "Занято",
     "x": 2594.5,
@@ -23712,15 +23712,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 640,
+    "id": 663,
     "server_id": 25,
     "type": "house",
-    "name": "налдон ловит",
-    "owner": "Lovec_Pisunov",
+    "name": "Лас вентурас",
+    "owner": "Michael_Rapaport",
     "status": "Аукцион",
-    "x": -247.8639,
-    "y": 1001.56,
-    "price": 200000000,
+    "x": 985.0139,
+    "y": 1930.67,
+    "price": 444123123,
     "district": "Сан-Андреас"
   },
   {
@@ -27040,7 +27040,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Автосалон эконом",
-    "owner": "Dominic_Barrington",
+    "owner": "Frenk_Barrington",
     "status": "Занято",
     "x": -479.773,
     "y": -542.696,
@@ -27880,7 +27880,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Frenk_Barrington",
+    "owner": "Dominic_Barrington",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
