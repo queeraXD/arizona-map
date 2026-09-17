@@ -7764,18 +7764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 662,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "John_Frusciante",
-    "status": "Занято",
-    "x": 985.838,
-    "y": 1901.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 663,
     "server_id": 33,
     "type": "house",
@@ -9423,7 +9411,7 @@
     "id": 806,
     "server_id": 33,
     "type": "house",
-    "name": "Lendere house",
+    "name": "WALTEZ",
     "owner": "Pasquale_Waltez",
     "status": "Занято",
     "x": -2723.93,
@@ -13959,7 +13947,7 @@
     "id": 1190,
     "server_id": 33,
     "type": "house",
-    "name": "waldemarfam",
+    "name": "WALTEZ",
     "owner": "Pasquale_Waltez",
     "status": "Занято",
     "x": -2791.58,
@@ -19440,18 +19428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1690,
-    "server_id": 33,
-    "type": "house",
-    "name": "КВ ARIZONA TOWER",
-    "owner": "Allo_Home",
-    "status": "Занято",
-    "x": 1105.59,
-    "y": -1562.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1691,
     "server_id": 33,
     "type": "house",
@@ -21360,18 +21336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1856,
-    "server_id": 33,
-    "type": "house",
-    "name": "Geforce",
-    "owner": "Vova_Nepivo",
-    "status": "Занято",
-    "x": 2653.01,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1857,
     "server_id": 33,
     "type": "house",
@@ -22176,6 +22140,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 662,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "John_Frusciante",
+    "status": "Аукцион",
+    "x": 985.838,
+    "y": 1901.11,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 719,
     "server_id": 33,
     "type": "house",
@@ -22440,6 +22416,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1690,
+    "server_id": 33,
+    "type": "house",
+    "name": "КВ ARIZONA TOWER",
+    "owner": "Allo_Home",
+    "status": "Аукцион",
+    "x": 1105.59,
+    "y": -1562.7,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1757,
     "server_id": 33,
     "type": "house",
@@ -22509,6 +22497,18 @@
     "x": 2648.32,
     "y": 2029.23,
     "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1856,
+    "server_id": 33,
+    "type": "house",
+    "name": "Geforce",
+    "owner": "Vova_Nepivo",
+    "status": "Аукцион",
+    "x": 2653.01,
+    "y": 2019.21,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23020,7 +23020,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Mahiru_Shiotaki",
+    "owner": "Trage_Waltez",
     "status": "Занято",
     "x": -2165.77,
     "y": -2416.71,
@@ -23692,7 +23692,7 @@
     "server_id": 33,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Alexandr_Winner",
+    "owner": "Alexandr_Nikitin",
     "status": "Занято",
     "x": -78.68,
     "y": -1169.82,
@@ -23812,7 +23812,7 @@
     "server_id": 33,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Alexandr_Winner",
+    "owner": "Alexandr_Nikitin",
     "status": "Занято",
     "x": 595.6531,
     "y": -1540.795,
@@ -24016,7 +24016,7 @@
     "server_id": 33,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Alexandr_Winner",
+    "owner": "Alexandr_Nikitin",
     "status": "Занято",
     "x": -124.3423,
     "y": -1526.146,
