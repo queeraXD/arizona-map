@@ -120,18 +120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 10,
-    "server_id": 26,
-    "type": "house",
-    "name": "Seventy squad",
-    "owner": "Ykyrish_Faraway",
-    "status": "Занято",
-    "x": 2050.88,
-    "y": -1065.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 11,
     "server_id": 26,
     "type": "house",
@@ -236,18 +224,6 @@
     "status": "Занято",
     "x": 2132.25,
     "y": -1280.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 20,
-    "server_id": 26,
-    "type": "house",
-    "name": "seventy squad",
-    "owner": "Ykyrish_Faraway",
-    "status": "Занято",
-    "x": 2150.22,
-    "y": -1285.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6572,6 +6548,18 @@
     "status": "Занято",
     "x": 12.7711,
     "y": 1113.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 548,
+    "server_id": 26,
+    "type": "house",
+    "name": "хата морфа",
+    "owner": "Morph_Nevermore",
+    "status": "Занято",
+    "x": 570.7319,
+    "y": 1174.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25140,15 +25128,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 548,
+    "id": 10,
     "server_id": 26,
     "type": "house",
-    "name": ":P :p :p",
-    "owner": "Eugene_Macedonsky",
+    "name": "Seventy squad",
+    "owner": "Ykyrish_Faraway",
     "status": "Аукцион",
-    "x": 570.7319,
-    "y": 1174.37,
-    "price": 1000,
+    "x": 2050.88,
+    "y": -1065.7,
+    "price": 125000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 20,
+    "server_id": 26,
+    "type": "house",
+    "name": "seventy squad",
+    "owner": "Ykyrish_Faraway",
+    "status": "Аукцион",
+    "x": 2150.22,
+    "y": -1285.04,
+    "price": 125000000,
     "district": "Сан-Андреас"
   },
   {

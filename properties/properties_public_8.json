@@ -5872,7 +5872,7 @@
     "server_id": 8,
     "type": "house",
     "name": "brood house<3",
-    "owner": "Broo_Da",
+    "owner": "Kaz_Yan",
     "status": "Занято",
     "x": 2065.03,
     "y": 730.408,
@@ -13304,6 +13304,18 @@
     "status": "Занято",
     "x": 1746.11,
     "y": 2767.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1111,
+    "server_id": 8,
+    "type": "house",
+    "name": "Мафия ЛКН",
+    "owner": "Big_Strayf",
+    "status": "Занято",
+    "x": 1748.71,
+    "y": 2758.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,18 +23292,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1944,
-    "server_id": 8,
-    "type": "house",
-    "name": "Логово Начинающего",
-    "owner": "Fantom_Sisik",
-    "status": "Занято",
-    "x": 2010.67,
-    "y": 2168.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1945,
     "server_id": 8,
     "type": "house",
@@ -25764,18 +25764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1111,
-    "server_id": 8,
-    "type": "house",
-    "name": "Мафия ЛКН",
-    "owner": "Soft_Blade",
-    "status": "Аукцион",
-    "x": 1748.71,
-    "y": 2758.46,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1741,
     "server_id": 8,
     "type": "house",
@@ -25788,15 +25776,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 296,
+    "id": 1944,
     "server_id": 8,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Orochimaru_Mikami",
+    "type": "house",
+    "name": "Логово Начинающего",
+    "owner": "Fantom_Sisik",
     "status": "Аукцион",
-    "x": 2366.7,
-    "y": 2071.11,
-    "price": 200000,
+    "x": 2010.67,
+    "y": 2168.81,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -27872,6 +27860,18 @@
     "status": "Занято",
     "x": 2392.56,
     "y": 2042.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 8,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Orochimaru_Mikami",
+    "status": "Занято",
+    "x": 2366.7,
+    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },

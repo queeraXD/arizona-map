@@ -228,6 +228,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 19,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dimka_Vjopekartinka",
+    "status": "Занято",
+    "x": 2132.25,
+    "y": -1280.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 20,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dimka_Vjopekartinka",
+    "status": "Занято",
+    "x": 2150.17,
+    "y": -1286.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 21,
     "server_id": 13,
     "type": "house",
@@ -11556,18 +11580,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 969,
-    "server_id": 13,
-    "type": "house",
-    "name": "Раутвиль Empire//Майк Раут|0lvl",
-    "owner": "Loki_Daymas",
-    "status": "Занято",
-    "x": -2424.9,
-    "y": 2448.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 970,
     "server_id": 13,
     "type": "house",
@@ -20148,18 +20160,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1692,
-    "server_id": 13,
-    "type": "house",
-    "name": "майнинг",
-    "owner": "Ronix_Wourov",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1211.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1693,
     "server_id": 13,
     "type": "house",
@@ -21176,30 +21176,6 @@
     "status": "Занято",
     "x": 2468.25,
     "y": -1359.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1783,
-    "server_id": 13,
-    "type": "house",
-    "name": "Тун Тун Тун Сахур",
-    "owner": "Munuctep_Kingman",
-    "status": "Занято",
-    "x": 2468.24,
-    "y": -1431.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1784,
-    "server_id": 13,
-    "type": "house",
-    "name": "Тун Тун Тун Сахур",
-    "owner": "Munuctep_Kingman",
-    "status": "Занято",
-    "x": 2476.45,
-    "y": -1431.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23076,30 +23052,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 19,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dimka_Vjopekartinka",
-    "status": "Аукцион",
-    "x": 2132.25,
-    "y": -1280.44,
-    "price": 1200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 20,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dimka_Vjopekartinka",
-    "status": "Аукцион",
-    "x": 2150.17,
-    "y": -1286.35,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 80,
     "server_id": 13,
     "type": "house",
@@ -23145,6 +23097,18 @@
     "x": -2029.79,
     "y": 796.554,
     "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 969,
+    "server_id": 13,
+    "type": "house",
+    "name": "Раутвиль Empire//Майк Раут|0lvl",
+    "owner": "Loki_Daymas",
+    "status": "Аукцион",
+    "x": -2424.9,
+    "y": 2448.35,
+    "price": 1200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23232,6 +23196,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1692,
+    "server_id": 13,
+    "type": "house",
+    "name": "майнинг",
+    "owner": "Ronix_Wourov",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1211.07,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1746,
     "server_id": 13,
     "type": "house",
@@ -23277,6 +23253,30 @@
     "x": 2468.27,
     "y": -1424.58,
     "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1783,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Munuctep_Kingman",
+    "status": "Аукцион",
+    "x": 2468.24,
+    "y": -1431.68,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1784,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Munuctep_Kingman",
+    "status": "Аукцион",
+    "x": 2476.45,
+    "y": -1431.68,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
