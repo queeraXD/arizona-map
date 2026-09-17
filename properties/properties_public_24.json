@@ -3376,7 +3376,7 @@
     "server_id": 24,
     "type": "house",
     "name": " Sosuke House",
-    "owner": "Mihail_Obramov",
+    "owner": "Warrior_Destruction",
     "status": "Занято",
     "x": 2551.22,
     "y": 57.2303,
@@ -5352,18 +5352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 446,
-    "server_id": 24,
-    "type": "house",
-    "name": "|Д|О|М|И|К|Б|Р|А|Т|И|Ш|Е|К|",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 2440.64,
-    "y": -1057.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 447,
     "server_id": 24,
     "type": "house",
@@ -6332,18 +6320,6 @@
     "status": "Занято",
     "x": 2039.57,
     "y": 2766.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 528,
-    "server_id": 24,
-    "type": "house",
-    "name": "Домик Ванька",
-    "owner": "Vanek_Judoka",
-    "status": "Занято",
-    "x": 2018.48,
-    "y": 2766.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19908,18 +19884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1663,
-    "server_id": 24,
-    "type": "house",
-    "name": "Wednesday ",
-    "owner": "Hesoyam_Deeplace",
-    "status": "Занято",
-    "x": 536.682,
-    "y": 1138.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1664,
     "server_id": 24,
     "type": "house",
@@ -20528,18 +20492,6 @@
     "status": "Занято",
     "x": 1786.85,
     "y": 2767.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1716,
-    "server_id": 24,
-    "type": "house",
-    "name": "Майнинг мороженки2",
-    "owner": "Ykyrish_Deeplace",
-    "status": "Занято",
-    "x": 1736.39,
-    "y": 2803.6,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22008,6 +21960,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 446,
+    "server_id": 24,
+    "type": "house",
+    "name": "|Д|О|М|И|К|Б|Р|А|Т|И|Ш|Е|К|",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": 2440.64,
+    "y": -1057.33,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 528,
+    "server_id": 24,
+    "type": "house",
+    "name": "Домик Ванька",
+    "owner": "Vanek_Judoka",
+    "status": "Аукцион",
+    "x": 2018.48,
+    "y": 2766.55,
+    "price": 5500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 607,
     "server_id": 24,
     "type": "house",
@@ -22044,6 +22020,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1663,
+    "server_id": 24,
+    "type": "house",
+    "name": "Wednesday ",
+    "owner": "Hesoyam_Deeplace",
+    "status": "Аукцион",
+    "x": 536.682,
+    "y": 1138.82,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1716,
+    "server_id": 24,
+    "type": "house",
+    "name": "Майнинг мороженки2",
+    "owner": "Ykyrish_Deeplace",
+    "status": "Аукцион",
+    "x": 1736.39,
+    "y": 2803.6,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 31,
     "server_id": 24,
     "type": "business",
@@ -22065,6 +22065,18 @@
     "x": -2093.7,
     "y": -2464.91,
     "price": 800000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 179,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Bak_Sh",
+    "status": "Аукцион",
+    "x": 1521.99,
+    "y": -1025.07,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24824,18 +24836,6 @@
     "status": "Занято",
     "x": -172.597,
     "y": 1106.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 179,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Bak_Sh",
-    "status": "Занято",
-    "x": 1521.99,
-    "y": -1025.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
