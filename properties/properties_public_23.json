@@ -10164,18 +10164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 848,
-    "server_id": 23,
-    "type": "house",
-    "name": "facil owning",
-    "owner": "Vasya_Kanistra",
-    "status": "Занято",
-    "x": -2157.62,
-    "y": 1117.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 849,
     "server_id": 23,
     "type": "house",
@@ -11012,18 +11000,6 @@
     "status": "Занято",
     "x": -2281.41,
     "y": 1046.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 920,
-    "server_id": 23,
-    "type": "house",
-    "name": "facil owning",
-    "owner": "Vasya_Kanistra",
-    "status": "Занято",
-    "x": -2282.39,
-    "y": 1070.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21168,6 +21144,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 848,
+    "server_id": 23,
+    "type": "house",
+    "name": "facil owning",
+    "owner": "Vasya_Kanistra",
+    "status": "Аукцион",
+    "x": -2157.62,
+    "y": 1117.52,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 920,
+    "server_id": 23,
+    "type": "house",
+    "name": "facil owning",
+    "owner": "Vasya_Kanistra",
+    "status": "Аукцион",
+    "x": -2282.39,
+    "y": 1070.59,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 61,
     "server_id": 23,
     "type": "business",
@@ -21225,6 +21225,18 @@
     "x": 1771.74,
     "y": -1903.27,
     "price": 6700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 209,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Donny_Doberman",
+    "status": "Аукцион",
+    "x": 1976.18,
+    "y": -1980.19,
+    "price": 9999999999,
     "district": "Сан-Андреас"
   },
   {
@@ -24308,18 +24320,6 @@
     "status": "Занято",
     "x": 194.751,
     "y": -273.823,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 209,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Donny_Doberman",
-    "status": "Занято",
-    "x": 1976.18,
-    "y": -1980.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
