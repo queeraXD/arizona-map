@@ -7380,18 +7380,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 620,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -886.291,
-    "y": 1514.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 621,
     "server_id": 19,
     "type": "house",
@@ -18624,18 +18612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1567,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": 1957.05,
-    "y": 731.299,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1568,
     "server_id": 19,
     "type": "house",
@@ -19100,18 +19076,6 @@
     "status": "Занято",
     "x": 1740.51,
     "y": 2744.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1610,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": 1741.39,
-    "y": 2741.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20884,7 +20848,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "QuasWex_Exort",
+    "owner": "Sol_Evoy",
     "status": "Занято",
     "x": 1105.59,
     "y": -1562.7,
@@ -21828,6 +21792,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 620,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -886.291,
+    "y": 1514.59,
+    "price": 15000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 626,
     "server_id": 19,
     "type": "house",
@@ -21936,6 +21912,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1567,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": 1957.05,
+    "y": 731.299,
+    "price": 15000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1569,
     "server_id": 19,
     "type": "house",
@@ -21957,6 +21945,18 @@
     "x": 1735.26,
     "y": 2764.32,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1610,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": 1741.39,
+    "y": 2741.66,
+    "price": 15000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22077,18 +22077,6 @@
     "x": 1104.78,
     "y": 1380.93,
     "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 198,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Volodya_Kumarov",
-    "status": "Аукцион",
-    "x": -1826.43,
-    "y": -566.68,
-    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25088,6 +25076,18 @@
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 198,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Volodya_Kumarov",
+    "status": "Занято",
+    "x": -1826.43,
+    "y": -566.68,
     "price": 0,
     "district": "Сан-Андреас"
   },

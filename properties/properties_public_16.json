@@ -2484,18 +2484,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 207,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Add_Forever",
-    "status": "Занято",
-    "x": 1331.84,
-    "y": -632.729,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 208,
     "server_id": 16,
     "type": "house",
@@ -3591,8 +3579,8 @@
     "id": 299,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
-    "owner": "Sergey_Rims",
+    "name": "Двойняшка ",
+    "owner": "White_Markelovani",
     "status": "Занято",
     "x": 2101.94,
     "y": -1075.22,
@@ -3603,8 +3591,8 @@
     "id": 300,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
-    "owner": "Pozer_Pass",
+    "name": "Двойняшка",
+    "owner": "White_Markelovani",
     "status": "Занято",
     "x": 2109.6,
     "y": -1081.15,
@@ -22452,6 +22440,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 207,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Add_Forever",
+    "status": "Аукцион",
+    "x": 1331.84,
+    "y": -632.729,
+    "price": 999999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1739,
     "server_id": 16,
     "type": "house",
@@ -22460,7 +22460,7 @@
     "status": "Аукцион",
     "x": 2437.04,
     "y": 1205.26,
-    "price": 300000000,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {

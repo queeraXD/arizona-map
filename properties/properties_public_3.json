@@ -9948,18 +9948,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 830,
-    "server_id": 3,
-    "type": "house",
-    "name": "Casio Family",
-    "owner": "Postavshik_Snaryadov",
-    "status": "Занято",
-    "x": -2723.16,
-    "y": -16.7231,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 831,
     "server_id": 3,
     "type": "house",
@@ -10664,6 +10652,18 @@
     "status": "Занято",
     "x": -2101.77,
     "y": -2532.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 891,
+    "server_id": 3,
+    "type": "house",
+    "name": "GG HOUSE",
+    "owner": "Monero_Explosion",
+    "status": "Занято",
+    "x": -2075.03,
+    "y": -2526.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11588,18 +11588,6 @@
     "status": "Занято",
     "x": 2510.56,
     "y": -1132.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 969,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kyo_Ousuke",
-    "status": "Занято",
-    "x": 2808.19,
-    "y": -1175.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20376,30 +20364,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1704,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": 2172.61,
-    "y": -1615.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1705,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Many_Leage",
-    "status": "Занято",
-    "x": 2151.31,
-    "y": -1598.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1707,
     "server_id": 3,
     "type": "house",
@@ -23940,15 +23904,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 891,
+    "id": 830,
     "server_id": 3,
     "type": "house",
-    "name": "GG HOUSE",
-    "owner": "Monero_Explosion",
+    "name": "Casio Family",
+    "owner": "Postavshik_Snaryadov",
     "status": "Аукцион",
-    "x": -2075.03,
-    "y": -2526.84,
-    "price": 900000000,
+    "x": -2723.16,
+    "y": -16.7231,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 969,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kyo_Ousuke",
+    "status": "Аукцион",
+    "x": 2808.19,
+    "y": -1175.92,
+    "price": 5555555555,
     "district": "Сан-Андреас"
   },
   {
@@ -23985,6 +23961,30 @@
     "x": 2150.27,
     "y": -1584.28,
     "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1704,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": 2172.61,
+    "y": -1615.23,
+    "price": 850123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1705,
+    "server_id": 3,
+    "type": "house",
+    "name": "gangster lovit",
+    "owner": "Many_Leage",
+    "status": "Аукцион",
+    "x": 2151.31,
+    "y": -1598.41,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
