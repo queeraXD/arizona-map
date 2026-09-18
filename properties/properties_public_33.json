@@ -132,18 +132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 11,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Damage_Net",
-    "status": "Занято",
-    "x": 2093.85,
-    "y": -1122.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 12,
     "server_id": 33,
     "type": "house",
@@ -11568,18 +11556,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 973,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lev_Tigr",
-    "status": "Занято",
-    "x": -2478.74,
-    "y": 2488.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 974,
     "server_id": 33,
     "type": "house",
@@ -11776,7 +11752,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом №2",
-    "owner": "Morgan_Rogers",
+    "owner": "Mrr_Beast",
     "status": "Занято",
     "x": 2556.37,
     "y": 87.7666,
@@ -13968,6 +13944,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1173,
+    "server_id": 33,
+    "type": "house",
+    "name": "ДОМ ИНФУКЕРА",
+    "owner": "Infykay_Vmakafon",
+    "status": "Занято",
+    "x": -905.4119,
+    "y": -1848.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1174,
     "server_id": 33,
     "type": "house",
@@ -13988,6 +13976,18 @@
     "status": "Занято",
     "x": -890.033,
     "y": -1826.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1176,
+    "server_id": 33,
+    "type": "house",
+    "name": "ДОМ ИНФУКЕРА",
+    "owner": "Infykay_Vmakafon",
+    "status": "Занято",
+    "x": -881.4689,
+    "y": -1837.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22404,6 +22404,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 11,
+    "server_id": 33,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Damage_Net",
+    "status": "Аукцион",
+    "x": 2093.85,
+    "y": -1122.68,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 183,
     "server_id": 33,
     "type": "house",
@@ -22464,27 +22476,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1173,
+    "id": 973,
     "server_id": 33,
     "type": "house",
     "name": "Дом",
     "owner": "Lev_Tigr",
     "status": "Аукцион",
-    "x": -905.4119,
-    "y": -1848.44,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1176,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lev_Tigr",
-    "status": "Аукцион",
-    "x": -881.4689,
-    "y": -1837.21,
-    "price": 350000000,
+    "x": -2478.74,
+    "y": 2488.76,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24412,7 +24412,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Mini_Perekup",
+    "owner": "Crypto_Trader",
     "status": "Занято",
     "x": -2062.52,
     "y": -60.6291,
