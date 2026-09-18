@@ -3360,18 +3360,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 280,
-    "server_id": 26,
-    "type": "house",
-    "name": "фармик",
-    "owner": "Mister_Prikolist",
-    "status": "Занято",
-    "x": 2413.57,
-    "y": 61.4468,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 281,
     "server_id": 26,
     "type": "house",
@@ -3416,18 +3404,6 @@
     "status": "Занято",
     "x": 2462.37,
     "y": -1011.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 285,
-    "server_id": 26,
-    "type": "house",
-    "name": "дом Ивана Гаврилова",
-    "owner": "Munuctep_Makapon",
-    "status": "Занято",
-    "x": 2219.28,
-    "y": -1031.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5660,18 +5636,6 @@
     "status": "Занято",
     "x": 2398.27,
     "y": 736.0989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 472,
-    "server_id": 26,
-    "type": "house",
-    "name": "Kazuto",
-    "owner": "champagne",
-    "status": "Занято",
-    "x": 2369.06,
-    "y": 734.939,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11619,8 +11583,8 @@
     "id": 971,
     "server_id": 26,
     "type": "house",
-    "name": "Baby House",
-    "owner": "Avoid_Freeze",
+    "name": "Домик рыбака",
+    "owner": "Leo_Devil",
     "status": "Занято",
     "x": -2348.76,
     "y": 2423.25,
@@ -15060,18 +15024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1259,
-    "server_id": 26,
-    "type": "house",
-    "name": "tik tok spuxx samp",
-    "owner": "Aomine_Mendoza",
-    "status": "Занято",
-    "x": -2358.62,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1260,
     "server_id": 26,
     "type": "house",
@@ -17708,18 +17660,6 @@
     "status": "Занято",
     "x": 883.95,
     "y": 2104.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1480,
-    "server_id": 26,
-    "type": "house",
-    "name": "2 подвала + деп условия",
-    "owner": "Bober_Lovec",
-    "status": "Занято",
-    "x": 883.95,
-    "y": 2131.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22440,18 +22380,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1874,
-    "server_id": 26,
-    "type": "house",
-    "name": "Golif house",
-    "owner": "Mister_Prikolist",
-    "status": "Занято",
-    "x": -2678.28,
-    "y": 200.3959,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1875,
     "server_id": 26,
     "type": "house",
@@ -25140,6 +25068,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 280,
+    "server_id": 26,
+    "type": "house",
+    "name": "фармик",
+    "owner": "Mister_Prikolist",
+    "status": "Аукцион",
+    "x": 2413.57,
+    "y": 61.4468,
+    "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 285,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Munuctep_Makapon",
+    "status": "Аукцион",
+    "x": 2219.28,
+    "y": -1031.06,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 472,
+    "server_id": 26,
+    "type": "house",
+    "name": "Kazuto",
+    "owner": "champagne",
+    "status": "Аукцион",
+    "x": 2369.06,
+    "y": 734.939,
+    "price": 150,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 584,
     "server_id": 26,
     "type": "house",
@@ -25173,6 +25137,42 @@
     "x": -2373.18,
     "y": 851.663,
     "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1259,
+    "server_id": 26,
+    "type": "house",
+    "name": "tik tok spuxx samp",
+    "owner": "Aomine_Mendoza",
+    "status": "Аукцион",
+    "x": -2358.62,
+    "y": 656.7349,
+    "price": 115000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1480,
+    "server_id": 26,
+    "type": "house",
+    "name": "2 подвала + деп условия",
+    "owner": "Bober_Lovec",
+    "status": "Аукцион",
+    "x": 883.95,
+    "y": 2131.46,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1874,
+    "server_id": 26,
+    "type": "house",
+    "name": "Golif house",
+    "owner": "Mister_Prikolist",
+    "status": "Аукцион",
+    "x": -2678.28,
+    "y": 200.3959,
+    "price": 250123123,
     "district": "Сан-Андреас"
   },
   {

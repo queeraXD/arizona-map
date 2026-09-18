@@ -16035,7 +16035,7 @@
     "id": 1338,
     "server_id": 2,
     "type": "house",
-    "name": "Почти фулл улучш и шкаф",
+    "name": "Бульба дома",
     "owner": "Eze_Naggano",
     "status": "Занято",
     "x": -2524.33,
@@ -20412,18 +20412,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1703,
-    "server_id": 2,
-    "type": "house",
-    "name": "бардель",
-    "owner": "Alex_Faten",
-    "status": "Занято",
-    "x": 885.4249,
-    "y": 2238.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1704,
     "server_id": 2,
     "type": "house",
@@ -23952,6 +23940,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1703,
+    "server_id": 2,
+    "type": "house",
+    "name": "бардель",
+    "owner": "Alex_Faten",
+    "status": "Аукцион",
+    "x": 885.4249,
+    "y": 2238.86,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1925,
     "server_id": 2,
     "type": "house",
@@ -23961,18 +23961,6 @@
     "x": 2650.21,
     "y": 2029.23,
     "price": 900000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 196,
-    "server_id": 2,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Yamato_Masuda",
-    "status": "Аукцион",
-    "x": -2681.61,
-    "y": 583.93,
-    "price": 199000,
     "district": "Сан-Андреас"
   },
   {
@@ -26960,6 +26948,18 @@
     "status": "Занято",
     "x": -1548.81,
     "y": 673.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 196,
+    "server_id": 2,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Yamato_Masuda",
+    "status": "Занято",
+    "x": -2681.61,
+    "y": 583.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
