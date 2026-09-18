@@ -12132,18 +12132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1014,
-    "server_id": 8,
-    "type": "house",
-    "name": "Tekashi Family ",
-    "owner": "Ike_Tekashi",
-    "status": "Занято",
-    "x": -2413.2,
-    "y": 895.231,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1015,
     "server_id": 8,
     "type": "house",
@@ -18144,18 +18132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1515,
-    "server_id": 8,
-    "type": "house",
-    "name": "ДЕП УСлОВИЯ,ПОДВАл, МАЙНИНГ",
-    "owner": "Kostya_Ranlain",
-    "status": "Занято",
-    "x": 2670.3,
-    "y": -1203.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1516,
     "server_id": 8,
     "type": "house",
@@ -23556,18 +23532,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1967,
-    "server_id": 8,
-    "type": "house",
-    "name": "ХАЛУПА ЛЬВА",
-    "owner": "Sos_Negodnicov",
-    "status": "Занято",
-    "x": 2512.58,
-    "y": 1643.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1968,
     "server_id": 8,
     "type": "house",
@@ -25752,6 +25716,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1014,
+    "server_id": 8,
+    "type": "house",
+    "name": "Tekashi Family ",
+    "owner": "Ike_Tekashi",
+    "status": "Аукцион",
+    "x": -2413.2,
+    "y": 895.231,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1515,
+    "server_id": 8,
+    "type": "house",
+    "name": "ДЕП УСлОВИЯ,ПОДВАл, МАЙНИНГ",
+    "owner": "Kostya_Ranlain",
+    "status": "Аукцион",
+    "x": 2670.3,
+    "y": -1203.04,
+    "price": 360000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1900,
     "server_id": 8,
     "type": "house",
@@ -25761,6 +25749,18 @@
     "x": 2818.53,
     "y": 2134.41,
     "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1967,
+    "server_id": 8,
+    "type": "house",
+    "name": "ХАЛУПА ЛЬВА",
+    "owner": "Sos_Negodnicov",
+    "status": "Аукцион",
+    "x": 2512.58,
+    "y": 1643.58,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
