@@ -11076,18 +11076,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 935,
-    "server_id": 4,
-    "type": "house",
-    "name": "XMEGA",
-    "owner": "Wistful_Gloaming",
-    "status": "Занято",
-    "x": -2223.88,
-    "y": 796.3809,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 936,
     "server_id": 4,
     "type": "house",
@@ -25188,6 +25176,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 935,
+    "server_id": 4,
+    "type": "house",
+    "name": "XMEGA",
+    "owner": "Wistful_Gloaming",
+    "status": "Аукцион",
+    "x": -2223.88,
+    "y": 796.3809,
+    "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1018,
     "server_id": 4,
     "type": "house",
@@ -25208,7 +25208,7 @@
     "status": "Аукцион",
     "x": 2285.88,
     "y": 161.7709,
-    "price": 4800000000,
+    "price": 4500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25257,6 +25257,66 @@
     "x": 2288.19,
     "y": -1104.65,
     "price": 4500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
+    "server_id": 4,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Jonik_Carmone",
+    "status": "Аукцион",
+    "x": 2085.84,
+    "y": 2486.25,
+    "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 183,
+    "server_id": 4,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Jonik_Carmone",
+    "status": "Аукцион",
+    "x": 1575.5,
+    "y": 1844.07,
+    "price": 210000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 208,
+    "server_id": 4,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Jonik_Carmone",
+    "status": "Аукцион",
+    "x": 194.751,
+    "y": -273.823,
+    "price": 210000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 216,
+    "server_id": 4,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Jonik_Carmone",
+    "status": "Аукцион",
+    "x": 2327.86,
+    "y": 2421.25,
+    "price": 210000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 357,
+    "server_id": 4,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Jonik_Carmone",
+    "status": "Аукцион",
+    "x": 693.619,
+    "y": 1967.68,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -27348,18 +27408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 357,
-    "server_id": 4,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Jonik_Carmone",
-    "status": "Занято",
-    "x": 693.619,
-    "y": 1967.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 358,
     "server_id": 4,
     "type": "business",
@@ -27476,18 +27524,6 @@
     "status": "Занято",
     "x": 1671.52,
     "y": 1814.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 57,
-    "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Jonik_Carmone",
-    "status": "Занято",
-    "x": 2085.84,
-    "y": 2486.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28092,18 +28128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 183,
-    "server_id": 4,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Jonik_Carmone",
-    "status": "Занято",
-    "x": 1575.5,
-    "y": 1844.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 184,
     "server_id": 4,
     "type": "business",
@@ -28392,18 +28416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 208,
-    "server_id": 4,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Jonik_Carmone",
-    "status": "Занято",
-    "x": 194.751,
-    "y": -273.823,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 209,
     "server_id": 4,
     "type": "business",
@@ -28412,18 +28424,6 @@
     "status": "Занято",
     "x": 1976.18,
     "y": -1980.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 216,
-    "server_id": 4,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Jonik_Carmone",
-    "status": "Занято",
-    "x": 2327.86,
-    "y": 2421.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
