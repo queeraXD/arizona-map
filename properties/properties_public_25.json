@@ -5376,6 +5376,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 448,
+    "server_id": 25,
+    "type": "house",
+    "name": "Miracles House",
+    "owner": "Golub_NaKapte",
+    "status": "Занято",
+    "x": 2551.22,
+    "y": -5.3846,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 449,
     "server_id": 25,
     "type": "house",
@@ -6344,6 +6356,18 @@
     "status": "Занято",
     "x": 1929.81,
     "y": 2774.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 532,
+    "server_id": 25,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Icy_Steiner",
+    "status": "Занято",
+    "x": 1931.33,
+    "y": 2721.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7568,18 +7592,6 @@
     "status": "Занято",
     "x": -278.9989,
     "y": 1003.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 640,
-    "server_id": 25,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": -247.8639,
-    "y": 1001.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10664,6 +10676,18 @@
     "status": "Занято",
     "x": -2043.12,
     "y": -2559.13,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 899,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Freez_Reez",
+    "status": "Занято",
+    "x": -2069.05,
+    "y": -2561.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22656,6 +22680,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1905,
+    "server_id": 25,
+    "type": "house",
+    "name": "Biale",
+    "owner": "Anton_Shmalov",
+    "status": "Занято",
+    "x": 1787.67,
+    "y": 2770.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1906,
     "server_id": 25,
     "type": "house",
@@ -23592,18 +23628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 448,
-    "server_id": 25,
-    "type": "house",
-    "name": "Miracles House",
-    "owner": "Slatty_Merciless",
-    "status": "Аукцион",
-    "x": 2551.22,
-    "y": -5.3846,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 518,
     "server_id": 25,
     "type": "house",
@@ -23625,18 +23649,6 @@
     "x": 1967.26,
     "y": 2766.48,
     "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 532,
-    "server_id": 25,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Icy_Steiner",
-    "status": "Аукцион",
-    "x": 1931.33,
-    "y": 2721.72,
-    "price": 550000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23700,15 +23712,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 899,
+    "id": 640,
     "server_id": 25,
     "type": "house",
-    "name": "Дом",
-    "owner": "Freez_Reez",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunov",
     "status": "Аукцион",
-    "x": -2069.05,
-    "y": -2561.36,
-    "price": 300000000,
+    "x": -247.8639,
+    "y": 1001.56,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23760,15 +23772,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1905,
+    "id": 343,
     "server_id": 25,
-    "type": "house",
-    "name": "Biale",
-    "owner": "Anton_Shmalov",
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Dominic_Barrington",
     "status": "Аукцион",
-    "x": 1787.67,
-    "y": 2770.03,
-    "price": 150000000,
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 1050000,
     "district": "Сан-Андреас"
   },
   {
@@ -27869,18 +27881,6 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "William_Barrington",
-    "status": "Занято",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 343,
-    "server_id": 25,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Dominic_Barrington",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

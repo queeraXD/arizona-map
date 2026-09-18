@@ -2004,30 +2004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 167,
-    "server_id": 12,
-    "type": "house",
-    "name": "Indulgence Squad",
-    "owner": "Fernando_Kleno",
-    "status": "Занято",
-    "x": 922.007,
-    "y": -1803.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 168,
-    "server_id": 12,
-    "type": "house",
-    "name": "Indulgence Squad",
-    "owner": "Fernando_Kleno",
-    "status": "Занято",
-    "x": 910.28,
-    "y": -1802.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 169,
     "server_id": 12,
     "type": "house",
@@ -8364,6 +8340,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 697,
+    "server_id": 12,
+    "type": "house",
+    "name": "Нора кроликов",
+    "owner": "Serega_Shax",
+    "status": "Занято",
+    "x": 1362.71,
+    "y": 2525.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 698,
     "server_id": 12,
     "type": "house",
@@ -12255,7 +12243,7 @@
     "id": 1023,
     "server_id": 12,
     "type": "house",
-    "name": "Imperial Residences - Monopoly",
+    "name": "Дом",
     "owner": "Marquis_Monopoly",
     "status": "Занято",
     "x": 1914.57,
@@ -17568,18 +17556,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1467,
-    "server_id": 12,
-    "type": "house",
-    "name": "Берлога Фембоя:3",
-    "owner": "Alexey_Voyka",
-    "status": "Занято",
-    "x": 2572.33,
-    "y": -1091.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1468,
     "server_id": 12,
     "type": "house",
@@ -22116,6 +22092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1846,
+    "server_id": 12,
+    "type": "house",
+    "name": "Dom dyrdom",
+    "owner": "Serega_Shax",
+    "status": "Занято",
+    "x": 1778.63,
+    "y": 2735.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1847,
     "server_id": 12,
     "type": "house",
@@ -22616,6 +22604,18 @@
     "status": "Занято",
     "x": 1748.69,
     "y": 2867.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1890,
+    "server_id": 12,
+    "type": "house",
+    "name": "btc+деп",
+    "owner": "Serega_Shax",
+    "status": "Занято",
+    "x": 1763.11,
+    "y": 2871.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23748,15 +23748,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 697,
+    "id": 167,
     "server_id": 12,
     "type": "house",
-    "name": "Нора кроликов",
-    "owner": "Serega_Shax",
+    "name": "Indulgence Squad",
+    "owner": "Fernando_Kleno",
     "status": "Аукцион",
-    "x": 1362.71,
-    "y": 2525.57,
-    "price": 10000,
+    "x": 922.007,
+    "y": -1803.89,
+    "price": 888888888,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 168,
+    "server_id": 12,
+    "type": "house",
+    "name": "Indulgence Squad",
+    "owner": "Fernando_Kleno",
+    "status": "Аукцион",
+    "x": 910.28,
+    "y": -1802.68,
+    "price": 888888888,
     "district": "Сан-Андреас"
   },
   {
@@ -23784,15 +23796,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1846,
+    "id": 1467,
     "server_id": 12,
     "type": "house",
-    "name": "Dom dyrdom",
-    "owner": "Serega_Shax",
+    "name": "Берлога Фембоя:3",
+    "owner": "Alexey_Voyka",
     "status": "Аукцион",
-    "x": 1778.63,
-    "y": 2735.99,
-    "price": 80000000,
+    "x": 2572.33,
+    "y": -1091.82,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23805,18 +23817,6 @@
     "x": 1796.56,
     "y": 2803.61,
     "price": 70000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1890,
-    "server_id": 12,
-    "type": "house",
-    "name": "btc+деп",
-    "owner": "Serega_Shax",
-    "status": "Аукцион",
-    "x": 1763.11,
-    "y": 2871.19,
-    "price": 1500,
     "district": "Сан-Андреас"
   },
   {

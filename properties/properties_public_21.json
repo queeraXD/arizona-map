@@ -555,7 +555,7 @@
     "id": 46,
     "server_id": 21,
     "type": "house",
-    "name": "Owner fam Nether",
+    "name": "MarketPlace",
     "owner": "Brazilian_Market",
     "status": "Занято",
     "x": 2196.22,
@@ -567,7 +567,7 @@
     "id": 47,
     "server_id": 21,
     "type": "house",
-    "name": "Owner fam Nether",
+    "name": "MarketPlace",
     "owner": "Brazilian_Market",
     "status": "Занято",
     "x": 2188.55,
@@ -2960,18 +2960,6 @@
     "status": "Занято",
     "x": 431.881,
     "y": -1253.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 247,
-    "server_id": 21,
-    "type": "house",
-    "name": ".?.",
-    "owner": "Sergio_Tohok",
-    "status": "Занято",
-    "x": 2443.85,
-    "y": 92.166,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6708,18 +6696,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 559,
-    "server_id": 21,
-    "type": "house",
-    "name": "House Bacardi",
-    "owner": "Vadim_Lambo",
-    "status": "Занято",
-    "x": 238.8159,
-    "y": 1026.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 560,
     "server_id": 21,
     "type": "house",
@@ -7760,18 +7736,6 @@
     "status": "Занято",
     "x": 2450.36,
     "y": 714.341,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 647,
-    "server_id": 21,
-    "type": "house",
-    "name": "Депозитные условия",
-    "owner": "Yura_Feniks",
-    "status": "Занято",
-    "x": 2450.15,
-    "y": 742.632,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9572,30 +9536,6 @@
     "status": "Занято",
     "x": -2368.82,
     "y": 740.5089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 798,
-    "server_id": 21,
-    "type": "house",
-    "name": ".?.",
-    "owner": "Moskovskij_Kokain",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 763.504,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 799,
-    "server_id": 21,
-    "type": "house",
-    "name": ".?.",
-    "owner": "Moskovskij_Kokain",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 784.028,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11936,6 +11876,18 @@
     "status": "Занято",
     "x": -2358.71,
     "y": 796.9899,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 997,
+    "server_id": 21,
+    "type": "house",
+    "name": "Квартира",
+    "owner": "Armen_Karpyan",
+    "status": "Занято",
+    "x": -2373.39,
+    "y": 834.4459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20124,6 +20076,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1680,
+    "server_id": 21,
+    "type": "house",
+    "name": "кибитка смородины",
+    "owner": "Sebastian_Vale",
+    "status": "Занято",
+    "x": 2517.04,
+    "y": 1643.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1681,
     "server_id": 21,
     "type": "house",
@@ -21900,6 +21864,66 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 247,
+    "server_id": 21,
+    "type": "house",
+    "name": ".?.",
+    "owner": "Sergio_Tohok",
+    "status": "Аукцион",
+    "x": 2443.85,
+    "y": 92.166,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 559,
+    "server_id": 21,
+    "type": "house",
+    "name": "House Bacardi",
+    "owner": "Vadim_Lambo",
+    "status": "Аукцион",
+    "x": 238.8159,
+    "y": 1026.24,
+    "price": 40000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 647,
+    "server_id": 21,
+    "type": "house",
+    "name": "Депозитные условия",
+    "owner": "Yura_Feniks",
+    "status": "Аукцион",
+    "x": 2450.15,
+    "y": 742.632,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 798,
+    "server_id": 21,
+    "type": "house",
+    "name": ".?.",
+    "owner": "Moskovskij_Kokain",
+    "status": "Аукцион",
+    "x": -2368.82,
+    "y": 763.504,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 799,
+    "server_id": 21,
+    "type": "house",
+    "name": ".?.",
+    "owner": "Moskovskij_Kokain",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 784.028,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 906,
     "server_id": 21,
     "type": "house",
@@ -21909,30 +21933,6 @@
     "x": -2126.7,
     "y": 978.411,
     "price": 700,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 997,
-    "server_id": 21,
-    "type": "house",
-    "name": "хатинка",
-    "owner": "Vadim_Lambo",
-    "status": "Аукцион",
-    "x": -2373.39,
-    "y": 834.4459,
-    "price": 70000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1680,
-    "server_id": 21,
-    "type": "house",
-    "name": "кибитка смородины",
-    "owner": "Fara_Farmila",
-    "status": "Аукцион",
-    "x": 2517.04,
-    "y": 1643.58,
-    "price": 60000000,
     "district": "Сан-Андреас"
   },
   {

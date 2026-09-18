@@ -6591,7 +6591,7 @@
     "id": 550,
     "server_id": 23,
     "type": "house",
-    "name": "Пристанище странников ",
+    "name": "Дом",
     "owner": "Monte_Cristo",
     "status": "Занято",
     "x": 618.3629,
@@ -19056,6 +19056,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1598,
+    "server_id": 23,
+    "type": "house",
+    "name": "Xerox *1598*",
+    "owner": "Niko_Novachrono",
+    "status": "Занято",
+    "x": 2537.03,
+    "y": 1205.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1599,
     "server_id": 23,
     "type": "house",
@@ -21156,15 +21168,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1598,
+    "id": 61,
     "server_id": 23,
-    "type": "house",
-    "name": "Xerox *1598*",
-    "owner": "Niko_Novachrono",
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Donny_Doberman",
     "status": "Аукцион",
-    "x": 2537.03,
-    "y": 1205.24,
-    "price": 300000000,
+    "x": 663.131,
+    "y": 1716.35,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 76,
+    "server_id": 23,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Donny_Doberman",
+    "status": "Аукцион",
+    "x": -179.189,
+    "y": 1133.15,
+    "price": 350000,
     "district": "Сан-Андреас"
   },
   {
@@ -21189,6 +21213,18 @@
     "x": 1976.18,
     "y": -1980.19,
     "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 285,
+    "server_id": 23,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Donny_Doberman",
+    "status": "Аукцион",
+    "x": 1031.61,
+    "y": 1354.3,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -21864,18 +21900,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 76,
-    "server_id": 23,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Donny_Doberman",
-    "status": "Занято",
-    "x": -179.189,
-    "y": 1133.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 77,
     "server_id": 23,
     "type": "business",
@@ -22536,18 +22560,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 61,
-    "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Donny_Doberman",
-    "status": "Занято",
-    "x": 663.131,
-    "y": 1716.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 62,
     "server_id": 23,
     "type": "business",
@@ -22712,18 +22724,6 @@
     "status": "Занято",
     "x": 1019.18,
     "y": -1871.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 285,
-    "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Donny_Doberman",
-    "status": "Занято",
-    "x": 1031.61,
-    "y": 1354.3,
     "price": 0,
     "district": "Сан-Андреас"
   },

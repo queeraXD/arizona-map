@@ -324,18 +324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
-    "server_id": 8,
-    "type": "house",
-    "name": "Colmenarego",
-    "owner": "Jon_Colmenarego",
-    "status": "Занято",
-    "x": 2229.54,
-    "y": -1241.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 28,
     "server_id": 8,
     "type": "house",
@@ -6868,7 +6856,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Night 3",
-    "owner": "Franclin_Night",
+    "owner": "Nosatiy_Zyuzya",
     "status": "Занято",
     "x": -150.0549,
     "y": 2688.03,
@@ -13248,6 +13236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1106,
+    "server_id": 8,
+    "type": "house",
+    "name": "майнинг,подвал ,топ ремонт",
+    "owner": "Kostya_Ranlain",
+    "status": "Занято",
+    "x": 1739.68,
+    "y": 2792.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1107,
     "server_id": 8,
     "type": "house",
@@ -18140,6 +18140,18 @@
     "status": "Занято",
     "x": 2670.29,
     "y": -1211.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1515,
+    "server_id": 8,
+    "type": "house",
+    "name": "ДЕП УСлОВИЯ,ПОДВАл, МАЙНИНГ",
+    "owner": "Kostya_Ranlain",
+    "status": "Занято",
+    "x": 2670.3,
+    "y": -1203.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25716,6 +25728,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 27,
+    "server_id": 8,
+    "type": "house",
+    "name": "Colmenarego",
+    "owner": "Jon_Colmenarego",
+    "status": "Аукцион",
+    "x": 2229.54,
+    "y": -1241.34,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 596,
     "server_id": 8,
     "type": "house",
@@ -25725,30 +25749,6 @@
     "x": -1459.18,
     "y": 2653.51,
     "price": 800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1106,
-    "server_id": 8,
-    "type": "house",
-    "name": "майнинг,подвал ,топ ремонт",
-    "owner": "Kostya_Ranlain",
-    "status": "Аукцион",
-    "x": 1739.68,
-    "y": 2792.03,
-    "price": 370000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1515,
-    "server_id": 8,
-    "type": "house",
-    "name": "ДЕП УСлОВИЯ,ПОДВАл, МАЙНИНГ",
-    "owner": "Kostya_Ranlain",
-    "status": "Аукцион",
-    "x": 2670.3,
-    "y": -1203.04,
-    "price": 400100000,
     "district": "Сан-Андреас"
   },
   {
@@ -25785,18 +25785,6 @@
     "x": 2587.4,
     "y": -1229.29,
     "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 292,
-    "server_id": 8,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Rex_Show",
-    "status": "Аукцион",
-    "x": -243.623,
-    "y": -1364.43,
-    "price": 5500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -29024,6 +29012,18 @@
     "status": "Занято",
     "x": 1460.33,
     "y": 2784.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 292,
+    "server_id": 8,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Rex_Show",
+    "status": "Занято",
+    "x": -243.623,
+    "y": -1364.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
