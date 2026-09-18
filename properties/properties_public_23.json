@@ -8532,18 +8532,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 712,
-    "server_id": 23,
-    "type": "house",
-    "name": "Татары Рулят",
-    "owner": "Hell_Light",
-    "status": "Занято",
-    "x": 1573.09,
-    "y": 2658.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 713,
     "server_id": 23,
     "type": "house",
@@ -13868,18 +13856,6 @@
     "status": "Занято",
     "x": 282.729,
     "y": -1618.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1164,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Stewart",
-    "status": "Занято",
-    "x": 289.286,
-    "y": -1619.6,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21072,6 +21048,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1164,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 289.286,
+    "y": -1619.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 25,
     "server_id": 23,
     "type": "house",
@@ -21081,6 +21069,18 @@
     "x": 2250.11,
     "y": -1280.4,
     "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 712,
+    "server_id": 23,
+    "type": "house",
+    "name": "Татары Рулят",
+    "owner": "Hell_Light",
+    "status": "Аукцион",
+    "x": 1573.09,
+    "y": 2658.39,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21168,15 +21168,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 199,
+    "id": 192,
     "server_id": 23,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Vitya_Shuracov",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 1771.74,
-    "y": -1903.27,
-    "price": 8500000000,
+    "x": 1136.97,
+    "y": -1456.62,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 209,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Donny_Doberman",
+    "status": "Аукцион",
+    "x": 1976.18,
+    "y": -1980.19,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23476,7 +23488,7 @@
     "server_id": 23,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Velasco_Scalette",
+    "owner": "[32]Implored_Space",
     "status": "Занято",
     "x": 1864.59,
     "y": -1393.39,
@@ -24100,7 +24112,7 @@
     "server_id": 23,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Velasco_Scalette",
+    "owner": "Feldan_Holiday",
     "status": "Занято",
     "x": 1123.41,
     "y": -1466.6,
@@ -24112,22 +24124,10 @@
     "server_id": 23,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Velasco_Scalette",
+    "owner": "[32]Atlantic_Runner",
     "status": "Занято",
     "x": 1143.17,
     "y": -1473.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 192,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Velasco_Scalette",
-    "status": "Занято",
-    "x": 1136.97,
-    "y": -1456.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24200,6 +24200,18 @@
     "status": "Занято",
     "x": -1826.43,
     "y": -566.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 199,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Vitya_Shuracov",
+    "status": "Занято",
+    "x": 1771.74,
+    "y": -1903.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24308,18 +24320,6 @@
     "status": "Занято",
     "x": 194.751,
     "y": -273.823,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 209,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Donny_Doberman",
-    "status": "Занято",
-    "x": 1976.18,
-    "y": -1980.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

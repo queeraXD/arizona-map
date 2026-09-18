@@ -4596,6 +4596,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 384,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом с набором архитектора.",
+    "owner": "Harly_Quinn",
+    "status": "Занято",
+    "x": 2324.37,
+    "y": 191.1929,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 385,
     "server_id": 32,
     "type": "house",
@@ -16332,18 +16344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1367,
-    "server_id": 32,
-    "type": "house",
-    "name": "Александр",
-    "owner": "Aleksander_Monopoly",
-    "status": "Занято",
-    "x": 1109.01,
-    "y": -1575.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1368,
     "server_id": 32,
     "type": "house",
@@ -18276,18 +18276,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1558,
-    "server_id": 32,
-    "type": "house",
-    "name": "Уютный домик",
-    "owner": "Ecolant_Vyksa",
-    "status": "Занято",
-    "x": 2826.08,
-    "y": 2134.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1559,
     "server_id": 32,
     "type": "house",
@@ -18956,18 +18944,6 @@
     "status": "Занято",
     "x": 2537.03,
     "y": 1236.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1615,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ecolant_Vyksa",
-    "status": "Занято",
-    "x": 2537.03,
-    "y": 1235.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22476,15 +22452,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 384,
+    "id": 1367,
     "server_id": 32,
     "type": "house",
-    "name": "Дом с набором архитектора.",
-    "owner": "Harly_Quinn",
+    "name": "Александр",
+    "owner": "Aleksander_Monopoly",
     "status": "Аукцион",
-    "x": 2324.37,
-    "y": 191.1929,
-    "price": 4600000000,
+    "x": 1109.01,
+    "y": -1575.2,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1558,
+    "server_id": 32,
+    "type": "house",
+    "name": "Уютный домик",
+    "owner": "Ecolant_Vyksa",
+    "status": "Аукцион",
+    "x": 2826.08,
+    "y": 2134.37,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1615,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ecolant_Vyksa",
+    "status": "Аукцион",
+    "x": 2537.03,
+    "y": 1235.31,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22509,18 +22509,6 @@
     "x": 2613.64,
     "y": 2051.63,
     "price": 800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Xxx_Xxx",
-    "status": "Аукцион",
-    "x": -2373.8,
-    "y": 910.117,
-    "price": 205000,
     "district": "Сан-Андреас"
   },
   {
@@ -23540,6 +23528,18 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Xxx_Xxx",
+    "status": "Занято",
+    "x": -2373.8,
+    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },

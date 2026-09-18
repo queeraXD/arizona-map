@@ -2295,7 +2295,7 @@
     "id": 191,
     "server_id": 25,
     "type": "house",
-    "name": ">>CROSS<<",
+    "name": "Dream",
     "owner": "Sam_Dream",
     "status": "Занято",
     "x": 315.8299,
@@ -6912,30 +6912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 582,
-    "server_id": 25,
-    "type": "house",
-    "name": "деревня Горных Лам №2",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": -275.376,
-    "y": 2736.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 583,
-    "server_id": 25,
-    "type": "house",
-    "name": "деревня Горных Лам №1",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": -279.3829,
-    "y": 2722.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 584,
     "server_id": 25,
     "type": "house",
@@ -6944,18 +6920,6 @@
     "status": "Занято",
     "x": -219.5899,
     "y": 2767.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 585,
-    "server_id": 25,
-    "type": "house",
-    "name": "деревня Горных Лам №5",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": -306.5914,
-    "y": 2739.557,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7880,6 +7844,18 @@
     "status": "Занято",
     "x": 985.838,
     "y": 1901.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 663,
+    "server_id": 25,
+    "type": "house",
+    "name": "Лас вентурас",
+    "owner": "Michael_Rapaport",
+    "status": "Занято",
+    "x": 985.0139,
+    "y": 1930.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14684,6 +14660,18 @@
     "status": "Занято",
     "x": -2433.05,
     "y": 1301.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1234,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Munuctep_Makapon",
+    "status": "Занято",
+    "x": -2433.73,
+    "y": 1281.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23676,15 +23664,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 663,
+    "id": 582,
     "server_id": 25,
     "type": "house",
-    "name": "Лас вентурас",
-    "owner": "Michael_Rapaport",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunov",
     "status": "Аукцион",
-    "x": 985.0139,
-    "y": 1930.67,
-    "price": 5050,
+    "x": -275.376,
+    "y": 2736.23,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 583,
+    "server_id": 25,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": -279.3829,
+    "y": 2722.05,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 585,
+    "server_id": 25,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": -306.5914,
+    "y": 2739.557,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23709,18 +23721,6 @@
     "x": 2556.37,
     "y": 87.7666,
     "price": 20000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1234,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Munuctep_Makapon",
-    "status": "Аукцион",
-    "x": -2433.73,
-    "y": 1281.56,
-    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26704,7 +26704,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "NeYoung_Samogon",
+    "owner": "Young_Samogon",
     "status": "Занято",
     "x": 1143.17,
     "y": -1473.83,
@@ -26776,7 +26776,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "NeYoung_Samogon",
+    "owner": "Young_Samogon",
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,
