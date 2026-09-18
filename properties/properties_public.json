@@ -736,7 +736,7 @@
     "server_id": 33,
     "type": "house",
     "name": "пузо",
-    "owner": "Pio_Pio",
+    "owner": "Leo_Another",
     "status": "Занято",
     "x": 2513.55,
     "y": -1650.3,
@@ -2568,6 +2568,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 216,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alexander_Kabanov",
+    "status": "Занято",
+    "x": 910.38,
+    "y": -817.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 217,
     "server_id": 33,
     "type": "house",
@@ -4384,7 +4396,7 @@
     "server_id": 33,
     "type": "house",
     "name": "40 squad",
-    "owner": "Shakal_Boss",
+    "owner": "Awa_Iwai",
     "status": "Занято",
     "x": 1187.44,
     "y": -1233.23,
@@ -6892,7 +6904,7 @@
     "server_id": 33,
     "type": "house",
     "name": "берлога бандита",
-    "owner": "Ivan_Skeletrix",
+    "owner": "Mushkin_Pushkin",
     "status": "Занято",
     "x": -1476.21,
     "y": 2563.06,
@@ -7592,6 +7604,18 @@
     "status": "Занято",
     "x": 1939.93,
     "y": 642.882,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 652,
+    "server_id": 33,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Platon_Baton",
+    "status": "Занято",
+    "x": 2169.36,
+    "y": 772.255,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11124,6 +11148,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 954,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ego_Ist",
+    "status": "Занято",
+    "x": -2159.76,
+    "y": 965.578,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 955,
     "server_id": 33,
     "type": "house",
@@ -11852,18 +11888,6 @@
     "status": "Занято",
     "x": -2563.4,
     "y": 1148.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1018,
-    "server_id": 33,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Bank_Roll",
-    "status": "Занято",
-    "x": -2541.3,
-    "y": 987.9089,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14739,7 +14763,7 @@
     "id": 1260,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "дом 1",
     "owner": "Platon_Baton",
     "status": "Занято",
     "x": -2372.53,
@@ -14752,7 +14776,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Winter_Wyvern",
+    "owner": "Platon_Baton",
     "status": "Занято",
     "x": -2372.53,
     "y": 632.4099,
@@ -22104,18 +22128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 216,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alexander_Kabanov",
-    "status": "Аукцион",
-    "x": 910.38,
-    "y": -817.25,
-    "price": 2500500500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 267,
     "server_id": 33,
     "type": "house",
@@ -22296,18 +22308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 652,
-    "server_id": 33,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Uwe_Wehmeyer",
-    "status": "Аукцион",
-    "x": 2169.36,
-    "y": 772.255,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 731,
     "server_id": 33,
     "type": "house",
@@ -22356,18 +22356,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 954,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ego_Ist",
-    "status": "Аукцион",
-    "x": -2159.76,
-    "y": 965.578,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 991,
     "server_id": 33,
     "type": "house",
@@ -22389,6 +22377,18 @@
     "x": -2373.39,
     "y": 834.4459,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1018,
+    "server_id": 33,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Bank_Roll",
+    "status": "Аукцион",
+    "x": -2541.3,
+    "y": 987.9089,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
