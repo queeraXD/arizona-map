@@ -9432,18 +9432,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 786,
-    "server_id": 28,
-    "type": "house",
-    "name": "L.G444",
-    "owner": "Cyber_Penis",
-    "status": "Занято",
-    "x": -2513.51,
-    "y": 885.7399,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 787,
     "server_id": 28,
     "type": "house",
@@ -10856,18 +10844,6 @@
     "status": "Занято",
     "x": -2130.12,
     "y": 942.562,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 906,
-    "server_id": 28,
-    "type": "house",
-    "name": "Халупа Emochki",
-    "owner": "Emo_DeIaet",
-    "status": "Занято",
-    "x": -2126.7,
-    "y": 978.411,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19164,18 +19140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1601,
-    "server_id": 28,
-    "type": "house",
-    "name": "Апартаменты в Las-Venturas",
-    "owner": "Mister_Sheldon",
-    "status": "Занято",
-    "x": 1786.92,
-    "y": 2767.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1602,
     "server_id": 28,
     "type": "house",
@@ -22332,6 +22296,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 786,
+    "server_id": 28,
+    "type": "house",
+    "name": "L.G444",
+    "owner": "Cyber_Penis",
+    "status": "Аукцион",
+    "x": -2513.51,
+    "y": 885.7399,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 906,
+    "server_id": 28,
+    "type": "house",
+    "name": "Халупа Emochki",
+    "owner": "Emo_DeIaet",
+    "status": "Аукцион",
+    "x": -2126.7,
+    "y": 978.411,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 936,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22353,18 @@
     "x": 2437.04,
     "y": 1211.1,
     "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1601,
+    "server_id": 28,
+    "type": "house",
+    "name": "Апартаменты в Las-Venturas",
+    "owner": "Mister_Sheldon",
+    "status": "Аукцион",
+    "x": 1786.92,
+    "y": 2767.24,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
@@ -24064,7 +24064,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Jose_Rose",
+    "owner": "Danilo_Xivivide",
     "status": "Занято",
     "x": 172.348,
     "y": 1177.63,
