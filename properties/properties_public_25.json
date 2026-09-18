@@ -11772,18 +11772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 990,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Korrigan_Morse",
-    "status": "Занято",
-    "x": 2556.37,
-    "y": 87.7666,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 991,
     "server_id": 25,
     "type": "house",
@@ -23712,6 +23700,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 990,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Korrigan_Morse",
+    "status": "Аукцион",
+    "x": 2556.37,
+    "y": 87.7666,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1234,
     "server_id": 25,
     "type": "house",
@@ -27496,7 +27496,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Body Shop",
-    "owner": "NeYoung_Samogon",
+    "owner": "Young_Samogon",
     "status": "Занято",
     "x": 2042.819,
     "y": 2633.449,
