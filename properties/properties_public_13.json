@@ -936,18 +936,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 80,
-    "server_id": 13,
-    "type": "house",
-    "name": "ЦГшное убежище",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 2256.76,
-    "y": -1645.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 81,
     "server_id": 13,
     "type": "house",
@@ -2012,18 +2000,6 @@
     "status": "Занято",
     "x": 883.2899,
     "y": -1800.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 170,
-    "server_id": 13,
-    "type": "house",
-    "name": "личная взлётная полоса",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 866.827,
-    "y": -1798.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12636,18 +12612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1056,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": -1927.71,
-    "y": 1252.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1057,
     "server_id": 13,
     "type": "house",
@@ -15144,18 +15108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1265,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": -2358.47,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1266,
     "server_id": 13,
     "type": "house",
@@ -17232,18 +17184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1439,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом Тони ) ",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 957.4509,
-    "y": 2415.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1440,
     "server_id": 13,
     "type": "house",
@@ -17960,18 +17900,6 @@
     "status": "Занято",
     "x": 2044.64,
     "y": -991.325,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1500,
-    "server_id": 13,
-    "type": "house",
-    "name": "Escort base",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 2051.26,
-    "y": -954.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21747,7 +21675,7 @@
     "id": 1818,
     "server_id": 13,
     "type": "house",
-    "name": "Тун Тун Тун Сахур",
+    "name": "Landre Empire",
     "owner": "Iandre_Hartmann",
     "status": "Занято",
     "x": 1745.5,
@@ -23256,6 +23184,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 80,
+    "server_id": 13,
+    "type": "house",
+    "name": "ЦГшное убежище",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 2256.76,
+    "y": -1645.11,
+    "price": 1670670670,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 170,
+    "server_id": 13,
+    "type": "house",
+    "name": "личная взлётная полоса",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 866.827,
+    "y": -1798.91,
+    "price": 2500500500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 569,
     "server_id": 13,
     "type": "house",
@@ -23265,6 +23217,54 @@
     "x": 232.205,
     "y": 1151.6,
     "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1056,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": -1927.71,
+    "y": 1252.78,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1265,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": -2358.47,
+    "y": 656.7349,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1439,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом Тони ) ",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 957.4509,
+    "y": 2415.15,
+    "price": 450450450,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1500,
+    "server_id": 13,
+    "type": "house",
+    "name": "Escort base",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 2051.26,
+    "y": -954.65,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23301,30 +23301,6 @@
     "x": 1521.99,
     "y": -1025.07,
     "price": 6500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 434,
-    "server_id": 13,
-    "type": "business",
-    "name": "Аренда сетов",
-    "owner": "brodyagathegod",
-    "status": "Аукцион",
-    "x": 2216.0,
-    "y": -1679.688,
-    "price": 1200000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 435,
-    "server_id": 13,
-    "type": "business",
-    "name": "Аренда сетов",
-    "owner": "brodyagathegod",
-    "status": "Аукцион",
-    "x": 532.7643,
-    "y": 874.9283,
-    "price": 1200000,
     "district": "Сан-Андреас"
   },
   {
