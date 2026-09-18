@@ -300,6 +300,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 25,
+    "server_id": 21,
+    "type": "house",
+    "name": "-------",
+    "owner": "Blake_Shadow",
+    "status": "Занято",
+    "x": 2250.11,
+    "y": -1280.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 26,
     "server_id": 21,
     "type": "house",
@@ -3224,6 +3236,18 @@
     "status": "Занято",
     "x": 1195.57,
     "y": -1010.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 270,
+    "server_id": 21,
+    "type": "house",
+    "name": ".!.",
+    "owner": "Cepera_Mope",
+    "status": "Занято",
+    "x": 2628.1,
+    "y": -1067.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9540,6 +9564,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 797,
+    "server_id": 21,
+    "type": "house",
+    "name": ".?.",
+    "owner": "Leonid_Odessit",
+    "status": "Занято",
+    "x": -2368.82,
+    "y": 740.5089,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 798,
+    "server_id": 21,
+    "type": "house",
+    "name": ".?.",
+    "owner": "Moskovskij_Kokain",
+    "status": "Занято",
+    "x": -2368.82,
+    "y": 763.504,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 799,
+    "server_id": 21,
+    "type": "house",
+    "name": ".?.",
+    "owner": "Moskovskij_Kokain",
+    "status": "Занято",
+    "x": -2372.53,
+    "y": 784.028,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 800,
     "server_id": 21,
     "type": "house",
@@ -10820,18 +10880,6 @@
     "status": "Занято",
     "x": -2126.89,
     "y": 996.109,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 908,
-    "server_id": 21,
-    "type": "house",
-    "name": "Snow",
-    "owner": "divo",
-    "status": "Занято",
-    "x": -2126.98,
-    "y": 1014.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15140,18 +15188,6 @@
     "status": "Занято",
     "x": -2301.78,
     "y": 580.0339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1268,
-    "server_id": 21,
-    "type": "house",
-    "name": "Naslaide",
-    "owner": "Sanek_Pozitiv",
-    "status": "Занято",
-    "x": -2621.98,
-    "y": 168.636,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20008,7 +20044,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Чердак бара ниже",
-    "owner": "Tawer_Vanya",
+    "owner": "Mark_Smirnov",
     "status": "Занято",
     "x": 2517.04,
     "y": 1679.36,
@@ -21024,6 +21060,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1758,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Podpal_Arias",
+    "status": "Занято",
+    "x": 2468.32,
+    "y": -1424.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1759,
     "server_id": 21,
     "type": "house",
@@ -21864,75 +21912,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 25,
+    "id": 908,
     "server_id": 21,
     "type": "house",
-    "name": "-------",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2250.11,
-    "y": -1280.4,
-    "price": 0,
+    "name": "Snow",
+    "owner": "divo",
+    "status": "Аукцион",
+    "x": -2126.98,
+    "y": 1014.21,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 270,
+    "id": 1268,
     "server_id": 21,
     "type": "house",
-    "name": ".!.",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2628.1,
-    "y": -1067.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 797,
-    "server_id": 21,
-    "type": "house",
-    "name": ".?.",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2368.82,
-    "y": 740.5089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 798,
-    "server_id": 21,
-    "type": "house",
-    "name": ".?.",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2368.82,
-    "y": 763.504,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 799,
-    "server_id": 21,
-    "type": "house",
-    "name": ".?.",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2372.53,
-    "y": 784.028,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1758,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2468.32,
-    "y": -1424.58,
-    "price": 0,
+    "name": "Naslaide",
+    "owner": "Sanek_Pozitiv",
+    "status": "Аукцион",
+    "x": -2621.98,
+    "y": 168.636,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {

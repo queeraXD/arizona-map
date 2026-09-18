@@ -2952,18 +2952,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 246,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Undefined_Woo",
-    "status": "Занято",
-    "x": 431.881,
-    "y": -1253.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 247,
     "server_id": 17,
     "type": "house",
@@ -6240,18 +6228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 520,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Evgeniy_Boss",
-    "status": "Занято",
-    "x": 1596.87,
-    "y": 2093.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 521,
     "server_id": 17,
     "type": "house",
@@ -8784,18 +8760,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 732,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Undefined_Woo",
-    "status": "Занято",
-    "x": -2622.35,
-    "y": -198.1479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 733,
     "server_id": 17,
     "type": "house",
@@ -9944,18 +9908,6 @@
     "status": "Занято",
     "x": -2721.08,
     "y": -44.7512,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 829,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Podpal_Dryn",
-    "status": "Занято",
-    "x": -2720.98,
-    "y": -23.3173,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18288,18 +18240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1524,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Undefined_Woo",
-    "status": "Занято",
-    "x": 1796.61,
-    "y": 2803.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1525,
     "server_id": 17,
     "type": "house",
@@ -18895,18 +18835,6 @@
     "owner": "Artur_Watral",
     "status": "Занято",
     "x": 1865.96,
-    "y": -2003.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1576,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Undefined_Woo",
-    "status": "Занято",
-    "x": 1867.71,
     "y": -2003.87,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21648,18 +21576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1810,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Undefined_Woo",
-    "status": "Занято",
-    "x": 2623.65,
-    "y": 2039.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1811,
     "server_id": 17,
     "type": "house",
@@ -22464,6 +22380,66 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 246,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Undefined_Woo",
+    "status": "Аукцион",
+    "x": 431.881,
+    "y": -1253.44,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 520,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Evgeniy_Boss",
+    "status": "Аукцион",
+    "x": 1596.87,
+    "y": 2093.57,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 732,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Undefined_Woo",
+    "status": "Аукцион",
+    "x": -2622.35,
+    "y": -198.1479,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 829,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Podpal_Dryn",
+    "status": "Аукцион",
+    "x": -2720.98,
+    "y": -23.3173,
+    "price": 190123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1524,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Undefined_Woo",
+    "status": "Аукцион",
+    "x": 1796.61,
+    "y": 2803.59,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1565,
     "server_id": 17,
     "type": "house",
@@ -22473,6 +22449,30 @@
     "x": 1849.39,
     "y": -2028.42,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1576,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Undefined_Woo",
+    "status": "Аукцион",
+    "x": 1867.71,
+    "y": -2003.87,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1810,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Undefined_Woo",
+    "status": "Аукцион",
+    "x": 2623.65,
+    "y": 2039.59,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
