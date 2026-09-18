@@ -87,7 +87,7 @@
     "id": 7,
     "server_id": 3,
     "type": "house",
-    "name": "LiL Peep жив",
+    "name": "Trappa House",
     "owner": "Free_Trappa",
     "status": "Занято",
     "x": 2045.39,
@@ -1124,18 +1124,6 @@
     "status": "Занято",
     "x": 2016.54,
     "y": -1629.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 94,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Sorochenko",
-    "status": "Занято",
-    "x": 2696.51,
-    "y": -1990.42,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20412,18 +20400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1706,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "[08]Artem_Bojolax",
-    "status": "Занято",
-    "x": 2143.45,
-    "y": -1571.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1707,
     "server_id": 3,
     "type": "house",
@@ -21968,18 +21944,6 @@
     "status": "Занято",
     "x": 2690.54,
     "y": -1211.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1836,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Thunderstuck_Li",
-    "status": "Занято",
-    "x": 2690.54,
-    "y": -1207.75,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23964,6 +23928,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 94,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Sorochenko",
+    "status": "Аукцион",
+    "x": 2696.51,
+    "y": -1990.42,
+    "price": 1999999999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 891,
     "server_id": 3,
     "type": "house",
@@ -24009,6 +23985,30 @@
     "x": 2150.27,
     "y": -1584.28,
     "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1706,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "[08]Artem_Bojolax",
+    "status": "Аукцион",
+    "x": 2143.45,
+    "y": -1571.0,
+    "price": 4500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1836,
+    "server_id": 3,
+    "type": "house",
+    "name": "meow na lovle)",
+    "owner": "Thunderstuck_Li",
+    "status": "Аукцион",
+    "x": 2690.54,
+    "y": -1207.75,
+    "price": 299999999,
     "district": "Сан-Андреас"
   },
   {
