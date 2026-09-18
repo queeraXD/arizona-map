@@ -492,6 +492,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 41,
+    "server_id": 32,
+    "type": "house",
+    "name": "Absolute Squad",
+    "owner": "Xexexe_Xexexe",
+    "status": "Занято",
+    "x": 2492.1,
+    "y": -1239.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 42,
     "server_id": 32,
     "type": "house",
@@ -8888,18 +8900,6 @@
     "status": "Занято",
     "x": -2869.38,
     "y": 690.9039,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 745,
-    "server_id": 32,
-    "type": "house",
-    "name": "+ Набор Архитектора",
-    "owner": "Kazuha_Scuff",
-    "status": "Занято",
-    "x": -2710.75,
-    "y": 967.4719,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18711,7 +18711,7 @@
     "id": 1593,
     "server_id": 32,
     "type": "house",
-    "name": "Дом повелителя мира",
+    "name": "BERNHARD EMPIRE",
     "owner": "Konis_Bernhard",
     "status": "Занято",
     "x": 2441.54,
@@ -20115,7 +20115,7 @@
     "id": 1710,
     "server_id": 32,
     "type": "house",
-    "name": "Куплю дома рядом",
+    "name": "FAM INSIDER - 1710",
     "owner": "Arizona_RP",
     "status": "Занято",
     "x": 2476.5,
@@ -21000,18 +21000,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1784,
-    "server_id": 32,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Oleg_Pivassik",
-    "status": "Занято",
-    "x": 2629.8,
-    "y": 2185.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1785,
     "server_id": 32,
     "type": "house",
@@ -21716,18 +21704,6 @@
     "status": "Занято",
     "x": 2613.64,
     "y": 2044.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1845,
-    "server_id": 32,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Oleg_Pivassik",
-    "status": "Занято",
-    "x": 2613.64,
-    "y": 2051.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22488,15 +22464,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 41,
+    "id": 745,
     "server_id": 32,
     "type": "house",
-    "name": "Absolute Squad",
-    "owner": "Xexexe_Xexexe",
+    "name": "+ Набор Архитектора",
+    "owner": "Kazuha_Scuff",
     "status": "Аукцион",
-    "x": 2492.1,
-    "y": -1239.01,
-    "price": 75000,
+    "x": -2710.75,
+    "y": 967.4719,
+    "price": 6000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1784,
+    "server_id": 32,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Oleg_Pivassik",
+    "status": "Аукцион",
+    "x": 2629.8,
+    "y": 2185.54,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22509,6 +22497,30 @@
     "x": 2645.55,
     "y": 2019.21,
     "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1845,
+    "server_id": 32,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Oleg_Pivassik",
+    "status": "Аукцион",
+    "x": 2613.64,
+    "y": 2051.63,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 202,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Patri_Arhat",
+    "status": "Аукцион",
+    "x": 1183.17,
+    "y": -1315.1,
+    "price": 220000,
     "district": "Сан-Андреас"
   },
   {
@@ -25568,18 +25580,6 @@
     "status": "Занято",
     "x": -104.79,
     "y": -309.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 202,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Patri_Arhat",
-    "status": "Занято",
-    "x": 1183.17,
-    "y": -1315.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
