@@ -5451,7 +5451,7 @@
     "id": 454,
     "server_id": 8,
     "type": "house",
-    "name": "Ballbesik House",
+    "name": "Дом",
     "owner": "Ballbesik_Hulinam",
     "status": "Занято",
     "x": 2014.05,
@@ -8984,6 +8984,18 @@
     "status": "Занято",
     "x": -2659.96,
     "y": 876.3309,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 749,
+    "server_id": 8,
+    "type": "house",
+    "name": " Vance Manor",
+    "owner": "Edward_Vance",
+    "status": "Занято",
+    "x": -2671.31,
+    "y": 927.4249,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25776,15 +25788,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 749,
+    "id": 46,
     "server_id": 8,
-    "type": "house",
-    "name": " Vance Manor",
-    "owner": "Edward_Vance",
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Danny_Velasquez",
     "status": "Аукцион",
-    "x": -2671.31,
-    "y": 927.4249,
-    "price": 55000,
+    "x": 1445.11,
+    "y": -1418.56,
+    "price": 420000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 145,
+    "server_id": 8,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Danny_Velasquez",
+    "status": "Аукцион",
+    "x": 1274.509,
+    "y": -1319.577,
+    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -26348,18 +26372,6 @@
     "status": "Занято",
     "x": 2493.12,
     "y": -1958.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 46,
-    "server_id": 8,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Danny_Velasquez",
-    "status": "Занято",
-    "x": 1445.11,
-    "y": -1418.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28292,18 +28304,6 @@
     "status": "Занято",
     "x": 2234.806,
     "y": 1301.195,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 145,
-    "server_id": 8,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Danny_Velasquez",
-    "status": "Занято",
-    "x": 1274.509,
-    "y": -1319.577,
     "price": 0,
     "district": "Сан-Андреас"
   },
