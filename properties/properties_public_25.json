@@ -6180,18 +6180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 518,
-    "server_id": 25,
-    "type": "house",
-    "name": "house Monolith <3",
-    "owner": "Logan_Monolith",
-    "status": "Занято",
-    "x": 1595.41,
-    "y": 2070.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 519,
     "server_id": 25,
     "type": "house",
@@ -6956,18 +6944,6 @@
     "status": "Занято",
     "x": -279.3829,
     "y": 2722.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 584,
-    "server_id": 25,
-    "type": "house",
-    "name": "house Monolith",
-    "owner": "Logan_Monolith",
-    "status": "Занято",
-    "x": -219.5899,
-    "y": 2767.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23736,6 +23712,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 518,
+    "server_id": 25,
+    "type": "house",
+    "name": "house Monolith <3",
+    "owner": "Logan_Monolith",
+    "status": "Аукцион",
+    "x": 1595.41,
+    "y": 2070.99,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 576,
     "server_id": 25,
     "type": "house",
@@ -23745,6 +23733,18 @@
     "x": -165.173,
     "y": 2768.39,
     "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 584,
+    "server_id": 25,
+    "type": "house",
+    "name": "house Monolith",
+    "owner": "Logan_Monolith",
+    "status": "Аукцион",
+    "x": -219.5899,
+    "y": 2767.46,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23769,6 +23769,30 @@
     "x": -2358.62,
     "y": 656.7349,
     "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 52,
+    "server_id": 25,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Farma_Zone",
+    "status": "Аукцион",
+    "x": -2257.681,
+    "y": 2278.016,
+    "price": 190000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 53,
+    "server_id": 25,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Farma_Zone",
+    "status": "Аукцион",
+    "x": 157.238,
+    "y": -1808.59,
+    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -25928,30 +25952,6 @@
     "status": "Занято",
     "x": 1957.1,
     "y": -2183.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 52,
-    "server_id": 25,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Farma_Zone",
-    "status": "Занято",
-    "x": -2257.681,
-    "y": 2278.016,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 53,
-    "server_id": 25,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Farma_Zone",
-    "status": "Занято",
-    "x": 157.238,
-    "y": -1808.59,
     "price": 0,
     "district": "Сан-Андреас"
   },

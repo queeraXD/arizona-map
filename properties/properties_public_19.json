@@ -4248,18 +4248,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 357,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Katrin_Vesna",
-    "status": "Занято",
-    "x": 1288.35,
-    "y": -873.8729,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 358,
     "server_id": 19,
     "type": "house",
@@ -7464,18 +7452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 626,
-    "server_id": 19,
-    "type": "house",
-    "name": "Singer",
-    "owner": "Katrin_Vesna",
-    "status": "Занято",
-    "x": 4.1448,
-    "y": 1344.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 627,
     "server_id": 19,
     "type": "house",
@@ -7664,6 +7640,18 @@
     "status": "Занято",
     "x": 1846.05,
     "y": 661.2009,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 643,
+    "server_id": 19,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Ahapxuct_Butcher",
+    "status": "Занято",
+    "x": 1897.15,
+    "y": 736.687,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9800,6 +9788,18 @@
     "status": "Занято",
     "x": -2691.24,
     "y": -134.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 823,
+    "server_id": 19,
+    "type": "house",
+    "name": "ambassador",
+    "owner": "Keks_Marlboro",
+    "status": "Занято",
+    "x": -2688.28,
+    "y": -118.0049,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12380,18 +12380,6 @@
     "status": "Занято",
     "x": -1728.11,
     "y": 1158.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1042,
-    "server_id": 19,
-    "type": "house",
-    "name": "ART-House by Katrin_Vesna",
-    "owner": "Katrin_Vesna",
-    "status": "Занято",
-    "x": -1742.51,
-    "y": 1174.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18504,18 +18492,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1557,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Artemka_NaLovle",
-    "status": "Занято",
-    "x": 1932.09,
-    "y": 663.577,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1558,
     "server_id": 19,
     "type": "house",
@@ -19356,18 +19332,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1630,
-    "server_id": 19,
-    "type": "house",
-    "name": "SVICOV DINASTY",
-    "owner": "Katrin_Vesna",
-    "status": "Занято",
-    "x": 1809.71,
-    "y": 2809.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1631,
     "server_id": 19,
     "type": "house",
@@ -19724,18 +19688,6 @@
     "status": "Занято",
     "x": 1881.98,
     "y": 2792.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1661,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Katrin_Vesna",
-    "status": "Занято",
-    "x": 1879.96,
-    "y": 2790.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21860,7 +21812,7 @@
     "status": "Аукцион",
     "x": 2628.1,
     "y": -1067.95,
-    "price": 300000000,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21888,6 +21840,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 357,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Katrin_Vesna",
+    "status": "Аукцион",
+    "x": 1288.35,
+    "y": -873.8729,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 597,
     "server_id": 19,
     "type": "house",
@@ -21900,15 +21864,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 643,
+    "id": 626,
     "server_id": 19,
     "type": "house",
-    "name": "40 squad",
-    "owner": "Sinister_Page",
+    "name": "Singer",
+    "owner": "Katrin_Vesna",
     "status": "Аукцион",
-    "x": 1897.15,
-    "y": 736.687,
-    "price": 10000000,
+    "x": 4.1448,
+    "y": 1344.59,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -21921,18 +21885,6 @@
     "x": -2622.52,
     "y": 749.754,
     "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 823,
-    "server_id": 19,
-    "type": "house",
-    "name": "ambassador",
-    "owner": "Timofei_StaloneI",
-    "status": "Аукцион",
-    "x": -2688.28,
-    "y": -118.0049,
-    "price": 100,
     "district": "Сан-Андреас"
   },
   {
@@ -21957,6 +21909,18 @@
     "x": -2358.71,
     "y": 796.9899,
     "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1042,
+    "server_id": 19,
+    "type": "house",
+    "name": "ART-House by Katrin_Vesna",
+    "owner": "Katrin_Vesna",
+    "status": "Аукцион",
+    "x": -1742.51,
+    "y": 1174.37,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -22017,6 +21981,42 @@
     "x": -2351.14,
     "y": 1226.39,
     "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1557,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Artemka_NaLovle",
+    "status": "Аукцион",
+    "x": 1932.09,
+    "y": 663.577,
+    "price": 20123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1630,
+    "server_id": 19,
+    "type": "house",
+    "name": "SVICOV DINASTY",
+    "owner": "Katrin_Vesna",
+    "status": "Аукцион",
+    "x": 1809.71,
+    "y": 2809.24,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1661,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Katrin_Vesna",
+    "status": "Аукцион",
+    "x": 1879.96,
+    "y": 2790.31,
+    "price": 500,
     "district": "Сан-Андреас"
   },
   {
