@@ -228,6 +228,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 19,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Artem_Tanaka",
+    "status": "Занято",
+    "x": 2132.25,
+    "y": -1280.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 20,
+    "server_id": 13,
+    "type": "house",
+    "name": "гараж за домом",
+    "owner": "Dimka_Vjopekartinka",
+    "status": "Занято",
+    "x": 2150.17,
+    "y": -1286.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 21,
     "server_id": 13,
     "type": "house",
@@ -23196,30 +23220,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 19,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dimka_Vjopekartinka",
-    "status": "Аукцион",
-    "x": 2132.25,
-    "y": -1280.44,
-    "price": 750000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 20,
-    "server_id": 13,
-    "type": "house",
-    "name": "гараж за домом",
-    "owner": "Dimka_Vjopekartinka",
-    "status": "Аукцион",
-    "x": 2150.17,
-    "y": -1286.35,
-    "price": 1400000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 542,
     "server_id": 13,
     "type": "house",
@@ -26080,8 +26080,8 @@
     "server_id": 13,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Pasquale_Blackwood",
-    "status": "Занято",
+    "owner": "Государство",
+    "status": "Свободно",
     "x": 1521.99,
     "y": -1025.07,
     "price": 0,
