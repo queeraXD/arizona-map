@@ -9564,30 +9564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 797,
-    "server_id": 21,
-    "type": "house",
-    "name": ".?.",
-    "owner": "Leonid_Odessit",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 740.5089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 799,
-    "server_id": 21,
-    "type": "house",
-    "name": ".?.",
-    "owner": "Moskovskij_Kokain",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 784.028,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 800,
     "server_id": 21,
     "type": "house",
@@ -11660,18 +11636,6 @@
     "status": "Занято",
     "x": -2478.74,
     "y": 2488.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 974,
-    "server_id": 21,
-    "type": "house",
-    "name": "RAMPAGE",
-    "owner": "Kimchi_Howl",
-    "status": "Занято",
-    "x": -2479.06,
-    "y": 2509.42,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20676,18 +20640,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1726,
-    "server_id": 21,
-    "type": "house",
-    "name": "RAMPAGE",
-    "owner": "Kimchi_Howl",
-    "status": "Занято",
-    "x": 2468.32,
-    "y": -1399.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1727,
     "server_id": 21,
     "type": "house",
@@ -21912,6 +21864,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 797,
+    "server_id": 21,
+    "type": "house",
+    "name": ".?.",
+    "owner": "Leonid_Odessit",
+    "status": "Аукцион",
+    "x": -2368.82,
+    "y": 740.5089,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 798,
     "server_id": 21,
     "type": "house",
@@ -21924,6 +21888,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 799,
+    "server_id": 21,
+    "type": "house",
+    "name": ".?.",
+    "owner": "Moskovskij_Kokain",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 784.028,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 974,
+    "server_id": 21,
+    "type": "house",
+    "name": "RAMPAGE",
+    "owner": "Kimchi_Howl",
+    "status": "Аукцион",
+    "x": -2479.06,
+    "y": 2509.42,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1666,
     "server_id": 21,
     "type": "house",
@@ -21933,6 +21921,18 @@
     "x": 2486.53,
     "y": 1682.87,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1726,
+    "server_id": 21,
+    "type": "house",
+    "name": "RAMPAGE",
+    "owner": "Kimchi_Howl",
+    "status": "Аукцион",
+    "x": 2468.32,
+    "y": -1399.16,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {

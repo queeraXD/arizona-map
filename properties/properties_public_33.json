@@ -7803,7 +7803,7 @@
     "id": 652,
     "server_id": 33,
     "type": "house",
-    "name": "40 squad",
+    "name": "LV у казика",
     "owner": "Platon_Baton",
     "status": "Занято",
     "x": 2169.36,
@@ -9704,18 +9704,6 @@
     "status": "Занято",
     "x": -2723.62,
     "y": -162.701,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 813,
-    "server_id": 33,
-    "type": "house",
-    "name": "Home для Home",
-    "owner": "Serega_Binance",
-    "status": "Занято",
-    "x": -2723.28,
-    "y": -166.408,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11628,18 +11616,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 974,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Serega_Binance",
-    "status": "Занято",
-    "x": -2479.06,
-    "y": 2509.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 975,
     "server_id": 33,
     "type": "house",
@@ -13059,7 +13035,7 @@
     "id": 1093,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "дом",
     "owner": "Platon_Baton",
     "status": "Занято",
     "x": -2192.58,
@@ -14228,18 +14204,6 @@
     "status": "Занято",
     "x": -2791.58,
     "y": -35.9182,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1191,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Serega_Binance",
-    "status": "Занято",
-    "x": -2791.87,
-    "y": -24.3971,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20544,18 +20508,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1748,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dun_Duk",
-    "status": "Занято",
-    "x": -789.702,
-    "y": 2763.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1749,
     "server_id": 33,
     "type": "house",
@@ -21320,18 +21272,6 @@
     "status": "Занято",
     "x": 2623.74,
     "y": 1978.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1813,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Serega_Binance",
-    "status": "Занято",
-    "x": 2631.13,
-    "y": 1978.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22500,6 +22440,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 813,
+    "server_id": 33,
+    "type": "house",
+    "name": "Home для Home",
+    "owner": "Serega_Binance",
+    "status": "Аукцион",
+    "x": -2723.28,
+    "y": -166.408,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 974,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Serega_Binance",
+    "status": "Аукцион",
+    "x": -2479.06,
+    "y": 2509.42,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1191,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Serega_Binance",
+    "status": "Аукцион",
+    "x": -2791.87,
+    "y": -24.3971,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1717,
     "server_id": 33,
     "type": "house",
@@ -22509,6 +22485,30 @@
     "x": 2492.1,
     "y": -1424.58,
     "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1748,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dun_Duk",
+    "status": "Аукцион",
+    "x": -789.702,
+    "y": 2763.77,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1813,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Serega_Binance",
+    "status": "Аукцион",
+    "x": 2631.13,
+    "y": 1978.84,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
