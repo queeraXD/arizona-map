@@ -965,10 +965,10 @@
     "type": "house",
     "name": "ЦГшное убежище",
     "owner": "Ga_Tila",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2256.76,
     "y": -1645.11,
-    "price": 1670670670,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -1479,7 +1479,7 @@
     "id": 123,
     "server_id": 13,
     "type": "house",
-    "name": "улучш деп",
+    "name": "Домик Блейза;)",
     "owner": "Blaze_Creepers",
     "status": "Занято",
     "x": 1873.66,
@@ -2045,10 +2045,10 @@
     "type": "house",
     "name": "личная взлётная полоса",
     "owner": "Ga_Tila",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 866.827,
     "y": -1798.91,
-    "price": 2500500500,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -6608,18 +6608,6 @@
     "status": "Занято",
     "x": 618.3629,
     "y": 1168.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 551,
-    "server_id": 13,
-    "type": "house",
-    "name": "Майнинг ферма 3",
-    "owner": "Timofey_Grou",
-    "status": "Занято",
-    "x": 536.656,
-    "y": 1138.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12677,10 +12665,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Ga_Tila",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -1927.71,
     "y": 1252.78,
-    "price": 400000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -15185,10 +15173,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Ga_Tila",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2358.47,
     "y": 656.7349,
-    "price": 400000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -17273,10 +17261,10 @@
     "type": "house",
     "name": "Дом Тони ) ",
     "owner": "Ga_Tila",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 957.4509,
     "y": 2415.15,
-    "price": 450450450,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -18005,10 +17993,10 @@
     "type": "house",
     "name": "Escort base",
     "owner": "Ga_Tila",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2051.26,
     "y": -954.65,
-    "price": 700000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -19464,18 +19452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1622,
-    "server_id": 13,
-    "type": "house",
-    "name": "Company Seva",
-    "owner": "Seva_Gudini",
-    "status": "Занято",
-    "x": 2818.53,
-    "y": 2134.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1623,
     "server_id": 13,
     "type": "house",
@@ -19796,18 +19772,6 @@
     "status": "Занято",
     "x": 2787.94,
     "y": 2268.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1650,
-    "server_id": 13,
-    "type": "house",
-    "name": "Сompany Seva",
-    "owner": "Seva_Gudini",
-    "status": "Занято",
-    "x": 2794.0,
-    "y": 2260.94,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,6 +23244,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 551,
+    "server_id": 13,
+    "type": "house",
+    "name": "Майнинг ферма 3",
+    "owner": "Timofey_Grou",
+    "status": "Аукцион",
+    "x": 536.656,
+    "y": 1138.79,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1622,
+    "server_id": 13,
+    "type": "house",
+    "name": "Company Seva",
+    "owner": "Seva_Gudini",
+    "status": "Аукцион",
+    "x": 2818.53,
+    "y": 2134.57,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1650,
+    "server_id": 13,
+    "type": "house",
+    "name": "Сompany Seva",
+    "owner": "Seva_Gudini",
+    "status": "Аукцион",
+    "x": 2794.0,
+    "y": 2260.94,
+    "price": 255000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1764,
     "server_id": 13,
     "type": "house",
@@ -23289,6 +23289,30 @@
     "x": 2473.13,
     "y": -1391.71,
     "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 181,
+    "server_id": 13,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Seva_Gudini",
+    "status": "Аукцион",
+    "x": 2029.71,
+    "y": 986.64,
+    "price": 200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 292,
+    "server_id": 13,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Seva_Gudini",
+    "status": "Аукцион",
+    "x": -243.623,
+    "y": -1364.43,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -26100,18 +26124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 181,
-    "server_id": 13,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Seva_Gudini",
-    "status": "Занято",
-    "x": 2029.71,
-    "y": 986.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 182,
     "server_id": 13,
     "type": "business",
@@ -26516,18 +26528,6 @@
     "status": "Занято",
     "x": 1460.33,
     "y": 2784.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 292,
-    "server_id": 13,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Seva_Gudini",
-    "status": "Занято",
-    "x": -243.623,
-    "y": -1364.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
