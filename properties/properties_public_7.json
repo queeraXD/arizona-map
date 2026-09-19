@@ -4824,18 +4824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
-    "status": "Занято",
-    "x": 2448.44,
-    "y": -11.0635,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 403,
     "server_id": 7,
     "type": "house",
@@ -6032,6 +6020,18 @@
     "status": "Занято",
     "x": 1364.3,
     "y": 1931.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 503,
+    "server_id": 7,
+    "type": "house",
+    "name": "$REBORN №6$",
+    "owner": "Requiem_Midzuno",
+    "status": "Занято",
+    "x": 1341.49,
+    "y": 1930.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11163,7 +11163,7 @@
     "id": 931,
     "server_id": 7,
     "type": "house",
-    "name": "Дом бобра",
+    "name": "Smirnov House #2",
     "owner": "Artur_Smirnov",
     "status": "Занято",
     "x": -2282.16,
@@ -25500,15 +25500,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 503,
+    "id": 402,
     "server_id": 7,
     "type": "house",
-    "name": "$REBORN №6$",
-    "owner": "Kodjio_Lemonte",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
     "status": "Аукцион",
-    "x": 1341.49,
-    "y": 1930.03,
-    "price": 1000000,
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {

@@ -6684,18 +6684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 557,
-    "server_id": 28,
-    "type": "house",
-    "name": "Архитектор 2 + деп",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": -262.1919,
-    "y": 914.895,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 558,
     "server_id": 28,
     "type": "house",
@@ -13052,6 +13040,18 @@
     "status": "Занято",
     "x": -2192.58,
     "y": 903.109,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1094,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kosynoki_Rambery",
+    "status": "Занято",
+    "x": -2210.98,
+    "y": 902.885,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22260,6 +22260,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 557,
+    "server_id": 28,
+    "type": "house",
+    "name": "Архитектор 2 + деп",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": -262.1919,
+    "y": 914.895,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 620,
     "server_id": 28,
     "type": "house",
@@ -22316,18 +22328,6 @@
     "status": "Аукцион",
     "x": -2511.04,
     "y": 942.551,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1094,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kosynoki_Rambery",
-    "status": "Аукцион",
-    "x": -2210.98,
-    "y": 902.885,
     "price": 150000000,
     "district": "Сан-Андреас"
   },
@@ -24376,7 +24376,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Lion_Carillo",
+    "owner": "Maximus_Soprano",
     "status": "Занято",
     "x": 1404.09,
     "y": 51.2512,

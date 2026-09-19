@@ -6660,18 +6660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 558,
-    "server_id": 15,
-    "type": "house",
-    "name": "Деревня Шахтёров",
-    "owner": "Medved_Markelovani",
-    "status": "Занято",
-    "x": 707.2509,
-    "y": 1284.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 559,
     "server_id": 15,
     "type": "house",
@@ -6680,18 +6668,6 @@
     "status": "Занято",
     "x": 238.8159,
     "y": 1026.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 560,
-    "server_id": 15,
-    "type": "house",
-    "name": "Деревня Шахтёров",
-    "owner": "Medved_Markelovani",
-    "status": "Занято",
-    "x": 688.887,
-    "y": 1276.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6716,18 +6692,6 @@
     "status": "Занято",
     "x": 227.792,
     "y": 1167.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 563,
-    "server_id": 15,
-    "type": "house",
-    "name": "Деревня Шахтёров",
-    "owner": "Medved_Markelovani",
-    "status": "Занято",
-    "x": 475.7619,
-    "y": 1394.49,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6764,18 +6728,6 @@
     "status": "Занято",
     "x": 232.205,
     "y": 1151.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 567,
-    "server_id": 15,
-    "type": "house",
-    "name": "Деревня Шахтёров",
-    "owner": "Medved_Markelovani",
-    "status": "Занято",
-    "x": 471.803,
-    "y": 1414.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11856,6 +11808,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 993,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tommy_Almighty",
+    "status": "Занято",
+    "x": -2551.78,
+    "y": 2267.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 994,
     "server_id": 15,
     "type": "house",
@@ -12423,7 +12387,7 @@
     "id": 1041,
     "server_id": 15,
     "type": "house",
-    "name": "ГЛАВНЫЙ МАЙНЕР",
+    "name": "Killnet The House",
     "owner": "Tommy_Almighty",
     "status": "Занято",
     "x": -1728.11,
@@ -14703,8 +14667,8 @@
     "id": 1231,
     "server_id": 15,
     "type": "house",
-    "name": "|UZB MONOPOLY|",
-    "owner": "Takeda_McCloud",
+    "name": "Grove street-Home.",
+    "owner": "Luciffer_Dennice",
     "status": "Занято",
     "x": -2338.45,
     "y": 580.036,
@@ -16652,18 +16616,6 @@
     "status": "Занято",
     "x": 1111.63,
     "y": -976.447,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1395,
-    "server_id": 15,
-    "type": "house",
-    "name": "Деревня Шахтёров",
-    "owner": "Medved_Markelovani",
-    "status": "Занято",
-    "x": 689.755,
-    "y": 1297.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21264,6 +21216,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 558,
+    "server_id": 15,
+    "type": "house",
+    "name": "Деревня Шахтёров",
+    "owner": "Medved_Markelovani",
+    "status": "Аукцион",
+    "x": 707.2509,
+    "y": 1284.74,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 560,
+    "server_id": 15,
+    "type": "house",
+    "name": "Деревня Шахтёров",
+    "owner": "Medved_Markelovani",
+    "status": "Аукцион",
+    "x": 688.887,
+    "y": 1276.57,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 563,
+    "server_id": 15,
+    "type": "house",
+    "name": "Деревня Шахтёров",
+    "owner": "Medved_Markelovani",
+    "status": "Аукцион",
+    "x": 475.7619,
+    "y": 1394.49,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 567,
+    "server_id": 15,
+    "type": "house",
+    "name": "Деревня Шахтёров",
+    "owner": "Medved_Markelovani",
+    "status": "Аукцион",
+    "x": 471.803,
+    "y": 1414.46,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 612,
     "server_id": 15,
     "type": "house",
@@ -21276,18 +21276,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 993,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jerry_Burberry",
-    "status": "Аукцион",
-    "x": -2551.78,
-    "y": 2267.08,
-    "price": 1123123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1394,
     "server_id": 15,
     "type": "house",
@@ -21297,6 +21285,18 @@
     "x": 469.8479,
     "y": 1437.4,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1395,
+    "server_id": 15,
+    "type": "house",
+    "name": "Деревня Шахтёров",
+    "owner": "Medved_Markelovani",
+    "status": "Аукцион",
+    "x": 689.755,
+    "y": 1297.17,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
