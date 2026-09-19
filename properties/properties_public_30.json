@@ -3676,7 +3676,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Dojan",
-    "owner": "Michel_Lazorev",
+    "owner": "Hardy_Howard",
     "status": "Занято",
     "x": 1895.99,
     "y": -1064.77,
@@ -22752,18 +22752,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 39,
-    "server_id": 30,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Subo_Kimpintyao",
-    "status": "Аукцион",
-    "x": 559.489,
-    "y": -1293.21,
-    "price": 240000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 0,
     "server_id": 30,
     "type": "business",
@@ -24872,6 +24860,18 @@
     "status": "Занято",
     "x": -2103.59,
     "y": -2342.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 39,
+    "server_id": 30,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Subo_Kimpintyao",
+    "status": "Занято",
+    "x": 559.489,
+    "y": -1293.21,
     "price": 0,
     "district": "Сан-Андреас"
   },

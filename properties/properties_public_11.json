@@ -7104,6 +7104,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 592,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Negativ_Players",
+    "status": "Занято",
+    "x": -1478.59,
+    "y": 2547.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 593,
     "server_id": 11,
     "type": "house",
@@ -12516,14 +12528,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1046,
+    "id": 1045,
     "server_id": 11,
     "type": "house",
-    "name": "EmoSchool",
-    "owner": "Kostik_Podpal",
+    "name": "|| Aspi - House ||",
+    "owner": "Aspi_Morgan",
     "status": "Занято",
-    "x": -1872.44,
-    "y": 1146.74,
+    "x": -1831.83,
+    "y": 1166.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18852,6 +18864,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1585,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Negativ_Players",
+    "status": "Занято",
+    "x": 534.947,
+    "y": -1174.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1586,
     "server_id": 11,
     "type": "house",
@@ -19315,6 +19339,18 @@
     "owner": "Iori_Monopoly",
     "status": "Занято",
     "x": 2476.29,
+    "y": -1391.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1625,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Negativ_Players",
+    "status": "Занято",
+    "x": 2473.19,
     "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21547,18 +21583,6 @@
     "owner": "Felix_Blackford",
     "status": "Занято",
     "x": 2486.37,
-    "y": 1682.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1813,
-    "server_id": 11,
-    "type": "house",
-    "name": "Zambidis",
-    "owner": "Kostik_Podpal",
-    "status": "Занято",
-    "x": 2491.26,
     "y": 1682.87,
     "price": 0,
     "district": "Сан-Андреас"
@@ -24588,51 +24612,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 592,
+    "id": 1046,
     "server_id": 11,
     "type": "house",
-    "name": "Дом",
-    "owner": "Negativ_Players",
+    "name": "EmoSchool",
+    "owner": "Kostik_Podpal",
     "status": "Аукцион",
-    "x": -1478.59,
-    "y": 2547.3,
-    "price": 4200,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1045,
-    "server_id": 11,
-    "type": "house",
-    "name": "|| Aspi - House ||",
-    "owner": "Aspi_Morgan",
-    "status": "Аукцион",
-    "x": -1831.83,
-    "y": 1166.06,
-    "price": 7000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1585,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Negativ_Players",
-    "status": "Аукцион",
-    "x": 534.947,
-    "y": -1174.06,
-    "price": 9000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1625,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Negativ_Players",
-    "status": "Аукцион",
-    "x": 2473.19,
-    "y": -1391.71,
-    "price": 4200,
+    "x": -1872.44,
+    "y": 1146.74,
+    "price": 300123123,
     "district": "Сан-Андреас"
   },
   {
@@ -24645,6 +24633,18 @@
     "x": 2750.39,
     "y": -1222.19,
     "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1813,
+    "server_id": 11,
+    "type": "house",
+    "name": "Zambidis",
+    "owner": "Kostik_Podpal",
+    "status": "Аукцион",
+    "x": 2491.26,
+    "y": 1682.87,
+    "price": 300123123,
     "district": "Сан-Андреас"
   },
   {
@@ -27832,7 +27832,7 @@
     "server_id": 11,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Artyr_Monopoly",
+    "owner": "Dean_Caballero",
     "status": "Занято",
     "x": 1500.24,
     "y": -1628.79,
@@ -27868,7 +27868,7 @@
     "server_id": 11,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Vorovskoy_Buldozer",
+    "owner": "Dostavka_Cuerto",
     "status": "Занято",
     "x": 1460.33,
     "y": 2784.8,

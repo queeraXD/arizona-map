@@ -13284,18 +13284,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1110,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Maksim_Makvinov",
-    "status": "Занято",
-    "x": 1817.72,
-    "y": -1286.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1111,
     "server_id": 15,
     "type": "house",
@@ -21324,15 +21312,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 115,
+    "id": 1110,
     "server_id": 15,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Tom_Sosison",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Maksim_Makvinov",
     "status": "Аукцион",
-    "x": -2625.72,
-    "y": 209.242,
-    "price": 300000,
+    "x": 1817.72,
+    "y": -1286.74,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21416,6 +21404,18 @@
     "status": "Занято",
     "x": -1508.91,
     "y": 2610.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 115,
+    "server_id": 15,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Tom_Sosison",
+    "status": "Занято",
+    "x": -2625.72,
+    "y": 209.242,
     "price": 0,
     "district": "Сан-Андреас"
   },
