@@ -3240,18 +3240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 270,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Fernando_Alvares",
-    "status": "Занято",
-    "x": 2628.1,
-    "y": -1067.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 271,
     "server_id": 19,
     "type": "house",
@@ -7436,6 +7424,18 @@
     "status": "Занято",
     "x": -906.119,
     "y": 1514.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 620,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Занято",
+    "x": -886.291,
+    "y": 1514.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14139,8 +14139,8 @@
     "id": 1184,
     "server_id": 19,
     "type": "house",
-    "name": "Набор Архитектора",
-    "owner": "Buba_Strax",
+    "name": "nova houses",
+    "owner": "Nova_Sadness",
     "status": "Занято",
     "x": -486.807,
     "y": -1466.74,
@@ -14996,6 +14996,18 @@
     "status": "Занято",
     "x": -2303.41,
     "y": 679.963,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1256,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Buba_Strax",
+    "status": "Занято",
+    "x": -2303.4,
+    "y": 656.7349,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19212,6 +19224,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1610,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Занято",
+    "x": 1741.39,
+    "y": 2741.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1611,
     "server_id": 19,
     "type": "house",
@@ -19220,18 +19244,6 @@
     "status": "Занято",
     "x": 1743.61,
     "y": 2733.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1612,
-    "server_id": 19,
-    "type": "house",
-    "name": "Сollins",
-    "owner": "Vinston_Collins",
-    "status": "Занято",
-    "x": 1787.59,
-    "y": 2770.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20796,6 +20808,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1745,
+    "server_id": 19,
+    "type": "house",
+    "name": "шкаф",
+    "owner": "Jimmy_Martino",
+    "status": "Занято",
+    "x": 2700.21,
+    "y": -1233.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1746,
     "server_id": 19,
     "type": "house",
@@ -21912,27 +21936,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1256,
+    "id": 1612,
     "server_id": 19,
     "type": "house",
-    "name": "Дом",
+    "name": "Сollins",
     "owner": "Государство",
     "status": "Свободно",
-    "x": -2303.4,
-    "y": 656.7349,
+    "x": 1787.59,
+    "y": 2770.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 620,
+    "id": 270,
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Jack_Chaltsev",
+    "owner": "Fernando_Alvares",
     "status": "Аукцион",
-    "x": -886.291,
-    "y": 1514.59,
-    "price": 15000000,
+    "x": 2628.1,
+    "y": -1067.95,
+    "price": 320000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22008,18 +22032,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1610,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Аукцион",
-    "x": 1741.39,
-    "y": 2741.66,
-    "price": 15000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1630,
     "server_id": 19,
     "type": "house",
@@ -22041,18 +22053,6 @@
     "x": 1879.96,
     "y": 2790.31,
     "price": 500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1745,
-    "server_id": 19,
-    "type": "house",
-    "name": "шкаф",
-    "owner": "Jimmy_Martino",
-    "status": "Аукцион",
-    "x": 2700.21,
-    "y": -1233.57,
-    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
