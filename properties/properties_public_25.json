@@ -14784,18 +14784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1234,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Munuctep_Makapon",
-    "status": "Занято",
-    "x": -2433.73,
-    "y": 1281.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1235,
     "server_id": 25,
     "type": "house",
@@ -23760,6 +23748,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1234,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Munuctep_Makapon",
+    "status": "Аукцион",
+    "x": -2433.73,
+    "y": 1281.56,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1900,
     "server_id": 25,
     "type": "house",
@@ -23769,18 +23769,6 @@
     "x": 1748.41,
     "y": 2758.69,
     "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 185,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Duxa",
-    "status": "Аукцион",
-    "x": 2599.42,
-    "y": 1060.38,
-    "price": 70000,
     "district": "Сан-Андреас"
   },
   {
@@ -26224,7 +26212,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Отель",
-    "owner": "Misha_Redolf",
+    "owner": "Sam_Dream",
     "status": "Занято",
     "x": 1486.788,
     "y": -1585.277,
@@ -26636,6 +26624,18 @@
     "status": "Занято",
     "x": 2351.41,
     "y": 2405.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 185,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Duxa",
+    "status": "Занято",
+    "x": 2599.42,
+    "y": 1060.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
