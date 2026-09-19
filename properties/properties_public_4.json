@@ -7920,18 +7920,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 660,
-    "server_id": 4,
-    "type": "house",
-    "name": "Fox House",
-    "owner": "Blake_Fox",
-    "status": "Занято",
-    "x": 1030.21,
-    "y": 1848.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 661,
     "server_id": 4,
     "type": "house",
@@ -25248,6 +25236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 660,
+    "server_id": 4,
+    "type": "house",
+    "name": "Fox House",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1030.21,
+    "y": 1848.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1713,
     "server_id": 4,
     "type": "house",
@@ -25257,42 +25257,6 @@
     "x": 2288.19,
     "y": -1104.65,
     "price": 4500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 63,
-    "server_id": 4,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Doctor_Infernales",
-    "status": "Аукцион",
-    "x": -1320.49,
-    "y": 2698.65,
-    "price": 315000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 184,
-    "server_id": 4,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Doctor_Infernales",
-    "status": "Аукцион",
-    "x": 2351.41,
-    "y": 2405.59,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 288,
-    "server_id": 4,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Doctor_Infernales",
-    "status": "Аукцион",
-    "x": 1948.4,
-    "y": 2068.87,
-    "price": 315000,
     "district": "Сан-Андреас"
   },
   {
@@ -26664,6 +26628,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 63,
+    "server_id": 4,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": -1320.49,
+    "y": 2698.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 64,
     "server_id": 4,
     "type": "business",
@@ -26840,6 +26816,18 @@
     "status": "Занято",
     "x": -2111.89,
     "y": -733.419,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 288,
+    "server_id": 4,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": 1948.4,
+    "y": 2068.87,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28112,6 +28100,18 @@
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 4,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": 2351.41,
+    "y": 2405.59,
     "price": 0,
     "district": "Сан-Андреас"
   },

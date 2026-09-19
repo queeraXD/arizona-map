@@ -7380,6 +7380,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 615,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Timur_Donskoi",
+    "status": "Занято",
+    "x": -905.638,
+    "y": 1543.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 616,
     "server_id": 6,
     "type": "house",
@@ -21588,18 +21600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1803,
-    "server_id": 6,
-    "type": "house",
-    "name": "pes family",
-    "owner": "Fallen_Castle",
-    "status": "Занято",
-    "x": 2492.18,
-    "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1804,
     "server_id": 6,
     "type": "house",
@@ -22124,18 +22124,6 @@
     "status": "Занято",
     "x": 2357.51,
     "y": 1664.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1848,
-    "server_id": 6,
-    "type": "house",
-    "name": "Vettorio House",
-    "owner": "Arenda_Marshall",
-    "status": "Занято",
-    "x": 2406.41,
-    "y": 1682.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24480,15 +24468,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 615,
+    "id": 1848,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Unquestionable_Brown",
-    "status": "Аукцион",
-    "x": -905.638,
-    "y": 1543.5,
-    "price": 100000000,
+    "name": "Vettorio House",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2406.41,
+    "y": 1682.88,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -24525,6 +24513,18 @@
     "x": 2487.39,
     "y": -1399.07,
     "price": 1510,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1803,
+    "server_id": 6,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Fallen_Castle",
+    "status": "Аукцион",
+    "x": 2492.18,
+    "y": -1366.2,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
