@@ -3760,7 +3760,7 @@
     "server_id": 27,
     "type": "house",
     "name": "oxycodon",
-    "owner": "Cynep_Alya",
+    "owner": "Sleep_Mode",
     "status": "Занято",
     "x": 1939.25,
     "y": -1066.56,
@@ -6864,6 +6864,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 572,
+    "server_id": 27,
+    "type": "house",
+    "name": "@CitrusCG",
+    "owner": "Shanieka_Howald",
+    "status": "Занято",
+    "x": -2789.17,
+    "y": -181.2929,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 573,
     "server_id": 27,
     "type": "house",
@@ -8904,30 +8916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 743,
-    "server_id": 27,
-    "type": "house",
-    "name": "Майнинг номер 2 | Сф",
-    "owner": "Hiroto_BumbleBee",
-    "status": "Занято",
-    "x": -2884.17,
-    "y": 743.6279,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 744,
-    "server_id": 27,
-    "type": "house",
-    "name": "Майнинг номер 1 | Сф",
-    "owner": "Hiroto_BumbleBee",
-    "status": "Занято",
-    "x": -2869.38,
-    "y": 690.9039,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 745,
     "server_id": 27,
     "type": "house",
@@ -10668,18 +10656,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 890,
-    "server_id": 27,
-    "type": "house",
-    "name": "Бункер Satoshi",
-    "owner": "Hiroto_BumbleBee",
-    "status": "Занято",
-    "x": -2087.62,
-    "y": -2510.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 891,
     "server_id": 27,
     "type": "house",
@@ -10772,18 +10748,6 @@
     "status": "Занято",
     "x": -2043.12,
     "y": -2559.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 899,
-    "server_id": 27,
-    "type": "house",
-    "name": "Vochko логово",
-    "owner": "Hiroto_BumbleBee",
-    "status": "Занято",
-    "x": -2069.05,
-    "y": -2561.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16840,7 +16804,7 @@
     "server_id": 27,
     "type": "house",
     "name": "oxycodon",
-    "owner": "Cynep_Alya",
+    "owner": "Sleep_Mode",
     "status": "Занято",
     "x": 1109.01,
     "y": -1575.2,
@@ -19680,18 +19644,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1641,
-    "server_id": 27,
-    "type": "house",
-    "name": "биба и боба",
-    "owner": "Hiroto_BumbleBee",
-    "status": "Занято",
-    "x": 2440.7,
-    "y": 1225.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1642,
     "server_id": 27,
     "type": "house",
@@ -21868,7 +21820,7 @@
     "server_id": 27,
     "type": "house",
     "name": "oxycodon",
-    "owner": "Cynep_Alya",
+    "owner": "Sleep_Mode",
     "status": "Занято",
     "x": 2492.21,
     "y": -1366.2,
@@ -24408,15 +24360,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 572,
+    "id": 743,
     "server_id": 27,
     "type": "house",
-    "name": "@CitrusCG",
-    "owner": "Shanieka_Howald",
+    "name": "Майнинг номер 2 | Сф",
+    "owner": "Hiroto_BumbleBee",
     "status": "Аукцион",
-    "x": -2789.17,
-    "y": -181.2929,
-    "price": 12000,
+    "x": -2884.17,
+    "y": 743.6279,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 744,
+    "server_id": 27,
+    "type": "house",
+    "name": "Майнинг номер 1 | Сф",
+    "owner": "Hiroto_BumbleBee",
+    "status": "Аукцион",
+    "x": -2869.38,
+    "y": 690.9039,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 890,
+    "server_id": 27,
+    "type": "house",
+    "name": "Бункер Satoshi",
+    "owner": "Hiroto_BumbleBee",
+    "status": "Аукцион",
+    "x": -2087.62,
+    "y": -2510.66,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 899,
+    "server_id": 27,
+    "type": "house",
+    "name": "Vochko логово",
+    "owner": "Hiroto_BumbleBee",
+    "status": "Аукцион",
+    "x": -2069.05,
+    "y": -2561.36,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1641,
+    "server_id": 27,
+    "type": "house",
+    "name": "биба и боба",
+    "owner": "Hiroto_BumbleBee",
+    "status": "Аукцион",
+    "x": 2440.7,
+    "y": 1225.84,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24465,18 +24465,6 @@
     "x": 1728.03,
     "y": 2834.82,
     "price": 4500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 356,
-    "server_id": 27,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Matteo_Messina",
-    "status": "Аукцион",
-    "x": 2348.53,
-    "y": -1372.68,
-    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -24872,6 +24860,18 @@
     "status": "Занято",
     "x": 681.561,
     "y": -473.347,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 356,
+    "server_id": 27,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Matteo_Messina",
+    "status": "Занято",
+    "x": 2348.53,
+    "y": -1372.68,
     "price": 0,
     "district": "Сан-Андреас"
   },

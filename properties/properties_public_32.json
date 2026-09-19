@@ -3456,18 +3456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 289,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Implored_Space",
-    "status": "Занято",
-    "x": 2534.44,
-    "y": -1063.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 290,
     "server_id": 32,
     "type": "house",
@@ -7784,18 +7772,6 @@
     "status": "Занято",
     "x": 1028.89,
     "y": 1905.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 659,
-    "server_id": 32,
-    "type": "house",
-    "name": "Уфа в кач+ бонус",
-    "owner": "Implored_Space",
-    "status": "Занято",
-    "x": 1029.68,
-    "y": 1876.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19084,7 +19060,7 @@
     "server_id": 32,
     "type": "house",
     "name": "allsantos",
-    "owner": "All_Santos",
+    "owner": "Loud_Silence",
     "status": "Занято",
     "x": -1.2819,
     "y": 1394.7,
@@ -20368,7 +20344,7 @@
     "server_id": 32,
     "type": "house",
     "name": "all house",
-    "owner": "All_Santos",
+    "owner": "Mega_Fame",
     "status": "Занято",
     "x": -851.525,
     "y": 2761.52,
@@ -20404,7 +20380,7 @@
     "server_id": 32,
     "type": "house",
     "name": "all house",
-    "owner": "All_Santos",
+    "owner": "Implored_Space",
     "status": "Занято",
     "x": -880.1329,
     "y": 2761.15,
@@ -20672,18 +20648,6 @@
     "status": "Занято",
     "x": 1803.41,
     "y": 2855.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1768,
-    "server_id": 32,
-    "type": "house",
-    "name": "Уютное гнёздышко ",
-    "owner": "Ichigo_Kurosakiu",
-    "status": "Занято",
-    "x": 1796.87,
-    "y": 2861.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22368,6 +22332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 289,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Implored_Space",
+    "status": "Аукцион",
+    "x": 2534.44,
+    "y": -1063.42,
+    "price": 1300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 384,
     "server_id": 32,
     "type": "house",
@@ -22452,6 +22428,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 659,
+    "server_id": 32,
+    "type": "house",
+    "name": "Уфа в кач+ бонус",
+    "owner": "Implored_Space",
+    "status": "Аукцион",
+    "x": 1029.68,
+    "y": 1876.28,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 726,
     "server_id": 32,
     "type": "house",
@@ -22497,6 +22485,18 @@
     "x": 1109.01,
     "y": -1575.2,
     "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1768,
+    "server_id": 32,
+    "type": "house",
+    "name": "Уютное гнёздышко ",
+    "owner": "Ichigo_Kurosakiu",
+    "status": "Аукцион",
+    "x": 1796.87,
+    "y": 2861.7,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22888,7 +22888,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Бар",
-    "owner": "Yoda_Mcduck",
+    "owner": "Nolan_Pierce",
     "status": "Занято",
     "x": 1876.07,
     "y": 2234.15,
@@ -24568,7 +24568,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Yoda_Mcduck",
+    "owner": "Nolan_Pierce",
     "status": "Занято",
     "x": 2472.77,
     "y": 2034.24,
@@ -25720,7 +25720,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Yoda_Mcduck",
+    "owner": "Nolan_Pierce",
     "status": "Занято",
     "x": 947.921,
     "y": 1719.16,

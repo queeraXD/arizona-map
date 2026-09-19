@@ -7476,18 +7476,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 626,
-    "server_id": 21,
-    "type": "house",
-    "name": "Нычка Сербии",
-    "owner": "Artyr_Morgan",
-    "status": "Занято",
-    "x": 4.1448,
-    "y": 1344.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 627,
     "server_id": 21,
     "type": "house",
@@ -9536,18 +9524,6 @@
     "status": "Занято",
     "x": -2368.82,
     "y": 740.5089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 798,
-    "server_id": 21,
-    "type": "house",
-    "name": "в шкафу подарок",
-    "owner": "Bruno_Levin",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 763.504,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21924,6 +21900,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 626,
+    "server_id": 21,
+    "type": "house",
+    "name": "MorganHome",
+    "owner": "Artyr_Morgan",
+    "status": "Аукцион",
+    "x": 4.1448,
+    "y": 1344.59,
+    "price": 475123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 798,
+    "server_id": 21,
+    "type": "house",
+    "name": "в шкафу подарок",
+    "owner": "Bruno_Levin",
+    "status": "Аукцион",
+    "x": -2368.82,
+    "y": 763.504,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1693,
     "server_id": 21,
     "type": "house",
@@ -22864,7 +22864,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Aleksei_Leonovich",
+    "owner": "Artem_Cuerto",
     "status": "Занято",
     "x": 2102.49,
     "y": 2257.4,

@@ -120,18 +120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 10,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "nekich_bossov",
-    "status": "Занято",
-    "x": 2050.88,
-    "y": -1065.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 11,
     "server_id": 15,
     "type": "house",
@@ -3276,30 +3264,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 274,
-    "server_id": 15,
-    "type": "house",
-    "name": "$ Кортель Диора $",
-    "owner": "Dior_Bluberry",
-    "status": "Занято",
-    "x": 2576.59,
-    "y": -1070.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 275,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lir_Ika",
-    "status": "Занято",
-    "x": 2579.67,
-    "y": -1033.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 276,
     "server_id": 15,
     "type": "house",
@@ -4928,18 +4892,6 @@
     "status": "Занято",
     "x": 1415.14,
     "y": 324.105,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 412,
-    "server_id": 15,
-    "type": "house",
-    "name": "АЗЛК-412",
-    "owner": "Temik_McCloud",
-    "status": "Занято",
-    "x": 1435.43,
-    "y": 334.625,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11484,6 +11436,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 959,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Young_Flores",
+    "status": "Занято",
+    "x": -2158.75,
+    "y": 786.197,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 960,
     "server_id": 15,
     "type": "house",
@@ -14724,18 +14688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1231,
-    "server_id": 15,
-    "type": "house",
-    "name": "|UZB MONOPOLY|",
-    "owner": "World_Trendsetter",
-    "status": "Занято",
-    "x": -2338.45,
-    "y": 580.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1232,
     "server_id": 15,
     "type": "house",
@@ -17304,18 +17256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1446,
-    "server_id": 15,
-    "type": "house",
-    "name": "Killside",
-    "owner": "nekich_bossov",
-    "status": "Занято",
-    "x": 345.091,
-    "y": -1298.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1447,
     "server_id": 15,
     "type": "house",
@@ -17680,7 +17620,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Krisa corporation",
-    "owner": "Konosi_Feniksov",
+    "owner": "Volko_Dav",
     "status": "Занято",
     "x": 228.003,
     "y": -1405.46,
@@ -18044,18 +17984,6 @@
     "status": "Занято",
     "x": -2620.61,
     "y": -120.2129,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1508,
-    "server_id": 15,
-    "type": "house",
-    "name": "WOODLES MONOPOLY",
-    "owner": "Temik_McCloud",
-    "status": "Занято",
-    "x": -2619.75,
-    "y": -127.494,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21288,6 +21216,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 10,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "nekich_bossov",
+    "status": "Аукцион",
+    "x": 2050.88,
+    "y": -1065.7,
+    "price": 400123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 185,
     "server_id": 15,
     "type": "house",
@@ -21300,15 +21240,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 959,
+    "id": 274,
+    "server_id": 15,
+    "type": "house",
+    "name": "premium luxe home",
+    "owner": "Dior_Bluberry",
+    "status": "Аукцион",
+    "x": 2576.59,
+    "y": -1070.64,
+    "price": 750000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 275,
     "server_id": 15,
     "type": "house",
     "name": "Дом",
-    "owner": "Renat_Decabrazov",
+    "owner": "Lir_Ika",
     "status": "Аукцион",
-    "x": -2158.75,
-    "y": 786.197,
-    "price": 900000000,
+    "x": 2579.67,
+    "y": -1033.2,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 412,
+    "server_id": 15,
+    "type": "house",
+    "name": "tt - temichbrooklyn",
+    "owner": "Temik_McCloud",
+    "status": "Аукцион",
+    "x": 1435.43,
+    "y": 334.625,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21321,6 +21285,54 @@
     "x": 1817.72,
     "y": -1286.74,
     "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1231,
+    "server_id": 15,
+    "type": "house",
+    "name": "|UZB MONOPOLY|",
+    "owner": "World_Trendsetter",
+    "status": "Аукцион",
+    "x": -2338.45,
+    "y": 580.036,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1446,
+    "server_id": 15,
+    "type": "house",
+    "name": "Killside",
+    "owner": "nekich_bossov",
+    "status": "Аукцион",
+    "x": 345.091,
+    "y": -1298.09,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1508,
+    "server_id": 15,
+    "type": "house",
+    "name": "tt - temichbrooklyn",
+    "owner": "Temik_McCloud",
+    "status": "Аукцион",
+    "x": -2619.75,
+    "y": -127.494,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 328,
+    "server_id": 15,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Queen_McCloud",
+    "status": "Аукцион",
+    "x": -2245.69,
+    "y": 2282.04,
+    "price": 6000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24572,18 +24584,6 @@
     "status": "Занято",
     "x": 563.087,
     "y": 864.122,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 328,
-    "server_id": 15,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Queen_McCloud",
-    "status": "Занято",
-    "x": -2245.69,
-    "y": 2282.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
