@@ -9048,6 +9048,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 755,
+    "server_id": 4,
+    "type": "house",
+    "name": "Уютный уголок",
+    "owner": "Implored_Space",
+    "status": "Занято",
+    "x": -2706.83,
+    "y": 722.856,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 756,
     "server_id": 4,
     "type": "house",
@@ -14496,6 +14508,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1211,
+    "server_id": 4,
+    "type": "house",
+    "name": "Райское место",
+    "owner": "Yohan_International",
+    "status": "Занято",
+    "x": -2478.88,
+    "y": 1141.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1212,
     "server_id": 4,
     "type": "house",
@@ -17856,18 +17880,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1492,
-    "server_id": 4,
-    "type": "house",
-    "name": "моя халупа",
-    "owner": "Dostavka_Cuerto",
-    "status": "Занято",
-    "x": 1877.32,
-    "y": -2000.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1493,
     "server_id": 4,
     "type": "house",
@@ -20504,18 +20516,6 @@
     "status": "Занято",
     "x": -2409.0,
     "y": 819.973,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1713,
-    "server_id": 4,
-    "type": "house",
-    "name": "Поместье GALLAGHERS",
-    "owner": "Lennon_Gallagher",
-    "status": "Занято",
-    "x": 2288.19,
-    "y": -1104.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25212,30 +25212,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 755,
-    "server_id": 4,
-    "type": "house",
-    "name": "Уютный уголок",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2706.83,
-    "y": 722.856,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1211,
-    "server_id": 4,
-    "type": "house",
-    "name": "Райское место",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2478.88,
-    "y": 1141.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 447,
     "server_id": 4,
     "type": "house",
@@ -25245,6 +25221,30 @@
     "x": 2457.76,
     "y": -1054.57,
     "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1492,
+    "server_id": 4,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Dostavka_Cuerto",
+    "status": "Аукцион",
+    "x": 1877.32,
+    "y": -2000.95,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1713,
+    "server_id": 4,
+    "type": "house",
+    "name": "Поместье GALLAGHERS",
+    "owner": "Lennon_Gallagher",
+    "status": "Аукцион",
+    "x": 2288.19,
+    "y": -1104.65,
+    "price": 4300000000,
     "district": "Сан-Андреас"
   },
   {
