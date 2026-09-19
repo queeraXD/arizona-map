@@ -7505,10 +7505,10 @@
     "type": "house",
     "name": "Singer",
     "owner": "Katrin_Vesna",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 4.1448,
     "y": 1344.59,
-    "price": 2000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -7796,18 +7796,6 @@
     "status": "Занято",
     "x": 2532.3,
     "y": 742.5419,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 651,
-    "server_id": 19,
-    "type": "house",
-    "name": "Трэп-хата",
-    "owner": "Bill_Flesh",
-    "status": "Занято",
-    "x": 1939.93,
-    "y": 642.882,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9221,10 +9209,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Qwerty_Henderson",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2594.19,
     "y": 768.164,
-    "price": 200000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -12473,10 +12461,10 @@
     "type": "house",
     "name": "ART-House by Katrin_Vesna",
     "owner": "Katrin_Vesna",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -1742.51,
     "y": 1174.37,
-    "price": 2000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -14004,6 +13992,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1170,
+    "server_id": 19,
+    "type": "house",
+    "name": "Ховка",
+    "owner": "Yoshiri_Tsukimo",
+    "status": "Занято",
+    "x": -970.8699,
+    "y": -1877.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1171,
     "server_id": 19,
     "type": "house",
@@ -14960,6 +14960,18 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1244.73,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1251,
+    "server_id": 19,
+    "type": "house",
+    "name": "HITMAN",
+    "owner": "Kimmi_Toxiclamee",
+    "status": "Занято",
+    "x": -2351.14,
+    "y": 1226.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18648,18 +18660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1559,
-    "server_id": 19,
-    "type": "house",
-    "name": "lunixnapike",
-    "owner": "AllEyez_OnMe",
-    "status": "Занято",
-    "x": 1945.53,
-    "y": 663.577,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1560,
     "server_id": 19,
     "type": "house",
@@ -19505,21 +19505,9 @@
     "type": "house",
     "name": "SVICOV DINASTY",
     "owner": "Katrin_Vesna",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1809.71,
     "y": 2809.24,
-    "price": 1000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1631,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "AllEyez_OnMe",
-    "status": "Занято",
-    "x": 1810.63,
-    "y": 2811.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19877,10 +19865,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Katrin_Vesna",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1879.96,
     "y": 2790.31,
-    "price": 500,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -22020,14 +22008,26 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1251,
+    "id": 1559,
     "server_id": 19,
     "type": "house",
-    "name": "HITMAN",
+    "name": "lunixnapike",
     "owner": "Государство",
     "status": "Свободно",
-    "x": -2351.14,
-    "y": 1226.39,
+    "x": 1945.53,
+    "y": 663.577,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1631,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1810.63,
+    "y": 2811.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22044,15 +22044,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1170,
+    "id": 651,
     "server_id": 19,
     "type": "house",
-    "name": "Ховка",
-    "owner": "Yoshiri_Tsukimo",
+    "name": "Трэп-хата",
+    "owner": "Bill_Flesh",
     "status": "Аукцион",
-    "x": -970.8699,
-    "y": -1877.33,
-    "price": 40000,
+    "x": 1939.93,
+    "y": 642.882,
+    "price": 100,
     "district": "Сан-Андреас"
   },
   {
