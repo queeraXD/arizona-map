@@ -8176,7 +8176,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Автогонки",
-    "owner": "[17]Jackson_Sparks",
+    "owner": "Eugene_Macedonsky",
     "status": "Занято",
     "x": 985.354,
     "y": 2343.7,
@@ -9944,18 +9944,6 @@
     "status": "Занято",
     "x": -2721.08,
     "y": -44.7512,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 829,
-    "server_id": 12,
-    "type": "house",
-    "name": "хата ",
-    "owner": "Ruslan_Bobov",
-    "status": "Занято",
-    "x": -2720.98,
-    "y": -23.3173,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18312,18 +18300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1527,
-    "server_id": 12,
-    "type": "house",
-    "name": "..:Escobar Monopoly:..",
-    "owner": "Kentik_Rockefeller",
-    "status": "Занято",
-    "x": 652.6649,
-    "y": -1694.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1528,
     "server_id": 12,
     "type": "house",
@@ -22908,18 +22884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1911,
-    "server_id": 12,
-    "type": "house",
-    "name": "Legends Never Die",
-    "owner": "Creeper_Fam",
-    "status": "Занято",
-    "x": 2643.78,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1912,
     "server_id": 12,
     "type": "house",
@@ -23096,18 +23060,6 @@
     "status": "Занято",
     "x": 2601.64,
     "y": 2204.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1927,
-    "server_id": 12,
-    "type": "house",
-    "name": "Собственно Crespo ",
-    "owner": "Xanax_XR",
-    "status": "Занято",
-    "x": 2601.64,
-    "y": 2211.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23796,6 +23748,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 829,
+    "server_id": 12,
+    "type": "house",
+    "name": "хата ",
+    "owner": "Ruslan_Bobov",
+    "status": "Аукцион",
+    "x": -2720.98,
+    "y": -23.3173,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1226,
     "server_id": 12,
     "type": "house",
@@ -23808,6 +23772,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1527,
+    "server_id": 12,
+    "type": "house",
+    "name": "..:Escobar Monopoly:..",
+    "owner": "Kentik_Rockefeller",
+    "status": "Аукцион",
+    "x": 652.6649,
+    "y": -1694.01,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1854,
     "server_id": 12,
     "type": "house",
@@ -23817,6 +23793,30 @@
     "x": 1796.56,
     "y": 2803.61,
     "price": 120000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1911,
+    "server_id": 12,
+    "type": "house",
+    "name": "Legends Never Die",
+    "owner": "Creeper_Fam",
+    "status": "Аукцион",
+    "x": 2643.78,
+    "y": 2195.56,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1927,
+    "server_id": 12,
+    "type": "house",
+    "name": "Собственно Crespo ",
+    "owner": "Xanax_XR",
+    "status": "Аукцион",
+    "x": 2601.64,
+    "y": 2211.4,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23853,6 +23853,18 @@
     "x": 2637.25,
     "y": 1129.68,
     "price": 200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 204,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Frost_Avalanche",
+    "status": "Аукцион",
+    "x": 1502.14,
+    "y": -1278.58,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26900,18 +26912,6 @@
     "status": "Занято",
     "x": 1433.75,
     "y": -1739.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 204,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Frost_Avalanche",
-    "status": "Занято",
-    "x": 1502.14,
-    "y": -1278.58,
     "price": 0,
     "district": "Сан-Андреас"
   },

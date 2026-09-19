@@ -20727,7 +20727,7 @@
     "id": 1735,
     "server_id": 23,
     "type": "house",
-    "name": "VipKazahOsoba1",
+    "name": "VipKazah",
     "owner": "Nekit_Demidov",
     "status": "Занято",
     "x": -140.3179,
@@ -20739,7 +20739,7 @@
     "id": 1736,
     "server_id": 23,
     "type": "house",
-    "name": "VipKazahOsoba2",
+    "name": "VipKazah",
     "owner": "Nekit_Demidov",
     "status": "Занято",
     "x": -175.6519,
@@ -21189,6 +21189,18 @@
     "x": -179.189,
     "y": 1133.15,
     "price": 350000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 81,
+    "server_id": 23,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Georgij_Doberman",
+    "status": "Аукцион",
+    "x": 2101.89,
+    "y": 2228.81,
+    "price": 155000,
     "district": "Сан-Андреас"
   },
   {
@@ -22932,18 +22944,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 81,
-    "server_id": 23,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Georgij_Doberman",
-    "status": "Занято",
-    "x": 2101.89,
-    "y": 2228.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 82,
     "server_id": 23,
     "type": "business",
@@ -23500,7 +23500,7 @@
     "server_id": 23,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "[32]Implored_Space",
+    "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": 1864.59,
     "y": -1393.39,

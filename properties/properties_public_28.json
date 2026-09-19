@@ -5340,6 +5340,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 447,
+    "server_id": 28,
+    "type": "house",
+    "name": "-farmilaHouse-",
+    "owner": "Vic_Vega",
+    "status": "Занято",
+    "x": 2457.76,
+    "y": -1054.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 448,
     "server_id": 28,
     "type": "house",
@@ -18840,18 +18852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1585,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kosynoki_Rambery",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1209.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1586,
     "server_id": 28,
     "type": "house",
@@ -22224,18 +22224,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 447,
-    "server_id": 28,
-    "type": "house",
-    "name": "-farmilaHouse-",
-    "owner": "Seforolius_Lerned",
-    "status": "Аукцион",
-    "x": 2457.76,
-    "y": -1054.57,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 545,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22353,18 @@
     "x": 2437.04,
     "y": 1211.1,
     "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1585,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kosynoki_Rambery",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1209.88,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23068,7 +23068,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Maximus_Soprano",
+    "owner": "Mario_Soprano",
     "status": "Занято",
     "x": -227.385,
     "y": 2711.95,

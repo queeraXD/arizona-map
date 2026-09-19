@@ -3360,6 +3360,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 280,
+    "server_id": 20,
+    "type": "house",
+    "name": "бобриная норка",
+    "owner": "Bart_Simpson",
+    "status": "Занято",
+    "x": 2413.57,
+    "y": 61.4468,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 281,
     "server_id": 20,
     "type": "house",
@@ -9632,18 +9644,6 @@
     "status": "Занято",
     "x": -2791.84,
     "y": 218.639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 805,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Fedya_Burmaldancer",
-    "status": "Занято",
-    "x": -2725.64,
-    "y": -92.5289,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19332,18 +19332,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1616,
-    "server_id": 20,
-    "type": "house",
-    "name": "Sopranos",
-    "owner": "Ne_Light",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2168.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1617,
     "server_id": 20,
     "type": "house",
@@ -20660,6 +20648,18 @@
     "status": "Занято",
     "x": 2468.22,
     "y": -1391.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1727,
+    "server_id": 20,
+    "type": "house",
+    "name": "Глухих",
+    "owner": "Yee_Blonde",
+    "status": "Занято",
+    "x": 2487.38,
+    "y": -1410.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22284,18 +22284,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 280,
-    "server_id": 20,
-    "type": "house",
-    "name": "бобриная норка",
-    "owner": "Vladimir_Riodayungog",
-    "status": "Аукцион",
-    "x": 2413.57,
-    "y": 61.4468,
-    "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 759,
     "server_id": 20,
     "type": "house",
@@ -22305,6 +22293,18 @@
     "x": -2738.32,
     "y": 801.5289,
     "price": 630000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 805,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Fedya_Burmaldancer",
+    "status": "Аукцион",
+    "x": -2725.64,
+    "y": -92.5289,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22344,15 +22344,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1727,
+    "id": 1616,
     "server_id": 20,
     "type": "house",
-    "name": "Глухих",
-    "owner": "Yee_Blonde",
+    "name": "Sopranos",
+    "owner": "Ne_Light",
     "status": "Аукцион",
-    "x": 2487.38,
-    "y": -1410.34,
-    "price": 820000000,
+    "x": 2003.69,
+    "y": 2168.31,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
