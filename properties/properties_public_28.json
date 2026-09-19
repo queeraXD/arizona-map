@@ -7632,18 +7632,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 642,
-    "server_id": 28,
-    "type": "house",
-    "name": "luvdakash",
-    "owner": "ilovemisha",
-    "status": "Занято",
-    "x": 1846.05,
-    "y": 661.2009,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 643,
     "server_id": 28,
     "type": "house",
@@ -8716,7 +8704,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Халупа Emochki",
-    "owner": "Emo_DeIaet",
+    "owner": "Emo_Grom",
     "status": "Занято",
     "x": -2622.35,
     "y": -198.1479,
@@ -12120,18 +12108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1019,
-    "server_id": 28,
-    "type": "house",
-    "name": "подвалы + деп условия",
-    "owner": "Set_Time",
-    "status": "Занято",
-    "x": -2542.09,
-    "y": 967.7059,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1020,
     "server_id": 28,
     "type": "house",
@@ -12152,18 +12128,6 @@
     "status": "Занято",
     "x": -2511.33,
     "y": 951.2239,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1022,
-    "server_id": 28,
-    "type": "house",
-    "name": "McCree_Dynasty",
-    "owner": "ilovemisha",
-    "status": "Занято",
-    "x": -2511.04,
-    "y": 942.551,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18708,18 +18672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1570,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дрочильня",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1211.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1571,
     "server_id": 28,
     "type": "house",
@@ -18872,6 +18824,30 @@
     "status": "Занято",
     "x": 2440.7,
     "y": 1225.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1584,
+    "server_id": 28,
+    "type": "house",
+    "name": "Комунальная квартира",
+    "owner": "Angel_Pine",
+    "status": "Занято",
+    "x": 2437.04,
+    "y": 1211.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1585,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kosynoki_Rambery",
+    "status": "Занято",
+    "x": 2437.04,
+    "y": 1209.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22296,6 +22272,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 642,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "ilovemisha",
+    "status": "Аукцион",
+    "x": 1846.05,
+    "y": 661.2009,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 943,
     "server_id": 28,
     "type": "house",
@@ -22317,6 +22305,30 @@
     "x": -2239.09,
     "y": 980.309,
     "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1019,
+    "server_id": 28,
+    "type": "house",
+    "name": "подвалы + деп условия",
+    "owner": "Set_Time",
+    "status": "Аукцион",
+    "x": -2542.09,
+    "y": 967.7059,
+    "price": 120000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1022,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "ilovemisha",
+    "status": "Аукцион",
+    "x": -2511.04,
+    "y": 942.551,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22344,27 +22356,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1584,
+    "id": 1570,
     "server_id": 28,
     "type": "house",
-    "name": "Комунальная квартира",
-    "owner": "Angel_Pine",
+    "name": "Дрочильня",
+    "owner": "Sos_Krutoy",
     "status": "Аукцион",
     "x": 2437.04,
-    "y": 1211.2,
-    "price": 100000000,
+    "y": 1211.1,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1585,
+    "id": 314,
     "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kosynoki_Rambery",
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "3umph",
     "status": "Аукцион",
-    "x": 2437.04,
-    "y": 1209.88,
-    "price": 150000000,
+    "x": 1004.554,
+    "y": -1356.182,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26180,18 +26192,6 @@
     "status": "Занято",
     "x": 1332.48,
     "y": -1120.468,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 314,
-    "server_id": 28,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "3umph",
-    "status": "Занято",
-    "x": 1004.554,
-    "y": -1356.182,
     "price": 0,
     "district": "Сан-Андреас"
   },
