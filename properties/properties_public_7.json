@@ -615,7 +615,7 @@
     "id": 51,
     "server_id": 7,
     "type": "house",
-    "name": "На продаже (+набор арх)",
+    "name": "Дом",
     "owner": "Chase_Verwest",
     "status": "Занято",
     "x": 2191.44,
@@ -12156,6 +12156,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1014,
+    "server_id": 7,
+    "type": "house",
+    "name": "буль буль",
+    "owner": "Oxota_Kpenkoe",
+    "status": "Занято",
+    "x": -2790.88,
+    "y": -111.1729,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1015,
     "server_id": 7,
     "type": "house",
@@ -14028,18 +14040,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1171,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gatila_Sebekov",
-    "status": "Занято",
-    "x": -2558.63,
-    "y": -118.7259,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1172,
     "server_id": 7,
     "type": "house",
@@ -15236,6 +15236,18 @@
     "status": "Занято",
     "x": -2863.72,
     "y": 829.7119,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1272,
+    "server_id": 7,
+    "type": "house",
+    "name": "набор архитектора+все улучшения",
+    "owner": "Alexey_Li",
+    "status": "Занято",
+    "x": -2856.67,
+    "y": 841.926,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18624,18 +18636,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1555,
-    "server_id": 7,
-    "type": "house",
-    "name": "Backwoods fam",
-    "owner": "Brazilian_Phonk",
-    "status": "Занято",
-    "x": 2510.57,
-    "y": -1132.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1556,
     "server_id": 7,
     "type": "house",
@@ -21492,6 +21492,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1794,
+    "server_id": 7,
+    "type": "house",
+    "name": "Наркопритон",
+    "owner": "Yuuki_Namuro",
+    "status": "Занято",
+    "x": 2357.05,
+    "y": 1061.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1795,
     "server_id": 7,
     "type": "house",
@@ -23784,18 +23796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1986,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gatila_Sebekov",
-    "status": "Занято",
-    "x": 2487.39,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1987,
     "server_id": 7,
     "type": "house",
@@ -25512,39 +25512,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1014,
+    "id": 1171,
     "server_id": 7,
     "type": "house",
-    "name": "буль буль",
-    "owner": "Robert_Pluhov",
+    "name": "Дом",
+    "owner": "Gatila_Sebekov",
     "status": "Аукцион",
-    "x": -2790.88,
-    "y": -111.1729,
-    "price": 45000,
+    "x": -2558.63,
+    "y": -118.7259,
+    "price": 3700000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1272,
+    "id": 1555,
     "server_id": 7,
     "type": "house",
-    "name": "набор архитектора+все улучшения",
-    "owner": "Alexey_Li",
+    "name": "Backwoods fam",
+    "owner": "Brazilian_Phonk",
     "status": "Аукцион",
-    "x": -2856.67,
-    "y": 841.926,
-    "price": 95000,
+    "x": 2510.57,
+    "y": -1132.53,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1794,
+    "id": 1986,
     "server_id": 7,
     "type": "house",
-    "name": "Наркопритон",
-    "owner": "Yuuki_Namuro",
+    "name": "Дом",
+    "owner": "Gatila_Sebekov",
     "status": "Аукцион",
-    "x": 2357.05,
-    "y": 1061.93,
-    "price": 40000,
+    "x": 2487.39,
+    "y": -1383.37,
+    "price": 3150000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26536,7 +26536,7 @@
     "server_id": 7,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Billy_Dollars",
+    "owner": "Matthew_Guretto",
     "status": "Занято",
     "x": 499.489,
     "y": -1360.62,
@@ -28732,7 +28732,7 @@
     "server_id": 7,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Matthew_Guretto",
+    "owner": "Nikolai_Radian",
     "status": "Занято",
     "x": 1500.24,
     "y": -1628.79,
