@@ -19048,7 +19048,7 @@
     "server_id": 20,
     "type": "house",
     "name": "House",
-    "owner": "Zeber_koroboc",
+    "owner": "Spring_Mode",
     "status": "Занято",
     "x": 2824.04,
     "y": 2268.71,
@@ -19280,6 +19280,18 @@
     "status": "Занято",
     "x": 2007.31,
     "y": 2132.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1609,
+    "server_id": 20,
+    "type": "house",
+    "name": "здесь больше не обитает DRAKYLA",
+    "owner": "Yan_Reckless",
+    "status": "Занято",
+    "x": 2003.69,
+    "y": 2136.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22320,18 +22332,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1609,
-    "server_id": 20,
-    "type": "house",
-    "name": "здесь больше не обитает DRAKYLA",
-    "owner": "Yan_Reckless",
-    "status": "Аукцион",
-    "x": 2003.69,
-    "y": 2136.2,
-    "price": 5000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1615,
     "server_id": 20,
     "type": "house",
@@ -22353,66 +22353,6 @@
     "x": 2003.69,
     "y": 2168.31,
     "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 185,
-    "server_id": 20,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Zamir_Besgeev",
-    "status": "Аукцион",
-    "x": 2599.42,
-    "y": 1060.38,
-    "price": 9999999999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 193,
-    "server_id": 20,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Zamir_Besgeev",
-    "status": "Аукцион",
-    "x": 2405.02,
-    "y": -1933.97,
-    "price": 9999999999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 200,
-    "server_id": 20,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Radovan_Karadzic",
-    "status": "Аукцион",
-    "x": -1983.44,
-    "y": 127.66,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 328,
-    "server_id": 20,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Zamir_Besgeev",
-    "status": "Аукцион",
-    "x": -2245.69,
-    "y": 2282.04,
-    "price": 9900000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 20,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Radovan_Karadzic",
-    "status": "Аукцион",
-    "x": -2373.8,
-    "y": 910.117,
-    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23432,6 +23372,18 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 20,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Radovan_Karadzic",
+    "status": "Занято",
+    "x": -2373.8,
+    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25260,6 +25212,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 185,
+    "server_id": 20,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Zamir_Besgeev",
+    "status": "Занято",
+    "x": 2599.42,
+    "y": 1060.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 186,
     "server_id": 20,
     "type": "business",
@@ -25344,6 +25308,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 193,
+    "server_id": 20,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Zamir_Besgeev",
+    "status": "Занято",
+    "x": 2405.02,
+    "y": -1933.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 194,
     "server_id": 20,
     "type": "business",
@@ -25412,6 +25388,18 @@
     "status": "Занято",
     "x": 1771.74,
     "y": -1903.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 200,
+    "server_id": 20,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Radovan_Karadzic",
+    "status": "Занято",
+    "x": -1983.44,
+    "y": 127.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25616,6 +25604,18 @@
     "status": "Занято",
     "x": 563.087,
     "y": 864.122,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 328,
+    "server_id": 20,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Zamir_Besgeev",
+    "status": "Занято",
+    "x": -2245.69,
+    "y": 2282.04,
     "price": 0,
     "district": "Сан-Андреас"
   },

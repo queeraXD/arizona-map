@@ -3988,7 +3988,7 @@
     "server_id": 26,
     "type": "house",
     "name": "merlyn#1",
-    "owner": "Maka_NoCap",
+    "owner": "Kaede_Plugg",
     "status": "Занято",
     "x": 787.895,
     "y": 376.4259,
@@ -4016,6 +4016,18 @@
     "status": "Занято",
     "x": 805.4329,
     "y": 358.6799,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 337,
+    "server_id": 26,
+    "type": "house",
+    "name": "yosida",
+    "owner": "Sexy_Swag",
+    "status": "Занято",
+    "x": 772.468,
+    "y": 348.204,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6603,8 +6615,8 @@
     "id": 555,
     "server_id": 26,
     "type": "house",
-    "name": "Openmind Family",
-    "owner": "Moon_Openmind",
+    "name": "Хатка блядка",
+    "owner": "Bodya_Creed",
     "status": "Занято",
     "x": 1801.86,
     "y": 2823.5,
@@ -7968,6 +7980,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 669,
+    "server_id": 26,
+    "type": "house",
+    "name": "House",
+    "owner": "Sexy_Swag",
+    "status": "Занято",
+    "x": 1030.09,
+    "y": 2028.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 670,
     "server_id": 26,
     "type": "house",
@@ -8992,7 +9016,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Дом для кладов ",
-    "owner": "Jesko_Friend",
+    "owner": "Aperol_Spritz",
     "status": "Занято",
     "x": -2738.32,
     "y": 746.648,
@@ -23136,6 +23160,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1942,
+    "server_id": 26,
+    "type": "house",
+    "name": "dom",
+    "owner": "Vasyl_Levytskyi",
+    "status": "Занято",
+    "x": 2642.52,
+    "y": 1978.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1943,
     "server_id": 26,
     "type": "house",
@@ -23324,6 +23360,18 @@
     "status": "Занято",
     "x": -2618.75,
     "y": 831.004,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1959,
+    "server_id": 26,
+    "type": "house",
+    "name": "rastaman",
+    "owner": "Roman_Rastaman",
+    "status": "Занято",
+    "x": -2619.74,
+    "y": 845.3449,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25008,18 +25056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1942,
-    "server_id": 26,
-    "type": "house",
-    "name": "dom",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2642.52,
-    "y": 1978.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 281,
     "server_id": 26,
     "type": "house",
@@ -25044,18 +25080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 337,
-    "server_id": 26,
-    "type": "house",
-    "name": "yosida",
-    "owner": "Sexy_Swag",
-    "status": "Аукцион",
-    "x": 772.468,
-    "y": 348.204,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 385,
     "server_id": 26,
     "type": "house",
@@ -25077,18 +25101,6 @@
     "x": 1451.08,
     "y": 374.286,
     "price": 50123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 669,
-    "server_id": 26,
-    "type": "house",
-    "name": "House",
-    "owner": "Sexy_Swag",
-    "status": "Аукцион",
-    "x": 1030.09,
-    "y": 2028.11,
-    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25176,15 +25188,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1959,
+    "id": 201,
     "server_id": 26,
-    "type": "house",
-    "name": "rastaman",
-    "owner": "Roman_Rastaman",
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Slastik_Escobar",
     "status": "Аукцион",
-    "x": -2619.74,
-    "y": 845.3449,
-    "price": 100000000,
+    "x": -104.79,
+    "y": -309.98,
+    "price": 120000,
     "district": "Сан-Андреас"
   },
   {
@@ -28232,18 +28244,6 @@
     "status": "Занято",
     "x": -1983.44,
     "y": 127.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 201,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Slastik_Escobar",
-    "status": "Занято",
-    "x": -104.79,
-    "y": -309.98,
     "price": 0,
     "district": "Сан-Андреас"
   },

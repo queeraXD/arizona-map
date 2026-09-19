@@ -19416,18 +19416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1621,
-    "server_id": 13,
-    "type": "house",
-    "name": "Классный Домик",
-    "owner": "Cyrus_King",
-    "status": "Занято",
-    "x": 2826.08,
-    "y": 2140.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1622,
     "server_id": 13,
     "type": "house",
@@ -22224,6 +22212,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1856,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zheka_Trofimov",
+    "status": "Занято",
+    "x": 2622.4,
+    "y": 2185.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1857,
     "server_id": 13,
     "type": "house",
@@ -22316,18 +22316,6 @@
     "status": "Занято",
     "x": 2657.13,
     "y": 2265.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1865,
-    "server_id": 13,
-    "type": "house",
-    "name": "Enzo Sexolog",
-    "owner": "Dimas_Soap",
-    "status": "Занято",
-    "x": 2657.13,
-    "y": 2256.42,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,15 +23268,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1856,
+    "id": 1621,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Zheka_Trofimov",
+    "name": "Классный Домик",
+    "owner": "Cyrus_King",
     "status": "Аукцион",
-    "x": 2622.4,
-    "y": 2185.54,
-    "price": 250000000,
+    "x": 2826.08,
+    "y": 2140.68,
+    "price": 300000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1865,
+    "server_id": 13,
+    "type": "house",
+    "name": "Enzo Sexolog",
+    "owner": "Dimas_Soap",
+    "status": "Аукцион",
+    "x": 2657.13,
+    "y": 2256.42,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23301,18 +23301,6 @@
     "x": -2050.0,
     "y": -60.63,
     "price": 170000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 179,
-    "server_id": 13,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Pasquale_Blackwood",
-    "status": "Аукцион",
-    "x": 1521.99,
-    "y": -1025.07,
-    "price": 6500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25072,7 +25060,7 @@
     "server_id": 13,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Dva_Piva",
+    "owner": "Andres_Iniesta",
     "status": "Занято",
     "x": 1872.26,
     "y": 2071.74,
@@ -26084,6 +26072,18 @@
     "status": "Занято",
     "x": -172.597,
     "y": 1106.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 179,
+    "server_id": 13,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Pasquale_Blackwood",
+    "status": "Занято",
+    "x": 1521.99,
+    "y": -1025.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
