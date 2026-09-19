@@ -3984,6 +3984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 332,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Venyamin_Wizard",
+    "status": "Занято",
+    "x": 758.6879,
+    "y": 375.0509,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 333,
     "server_id": 4,
     "type": "house",
@@ -9032,18 +9044,6 @@
     "status": "Занято",
     "x": -2678.18,
     "y": 722.1619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 755,
-    "server_id": 4,
-    "type": "house",
-    "name": "Уютный уголок",
-    "owner": "Los_Zettas",
-    "status": "Занято",
-    "x": -2706.83,
-    "y": 722.856,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14492,18 +14492,6 @@
     "status": "Занято",
     "x": -2523.95,
     "y": 1142.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1211,
-    "server_id": 4,
-    "type": "house",
-    "name": "Райское место",
-    "owner": "Los_Zettas",
-    "status": "Занято",
-    "x": -2478.88,
-    "y": 1141.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23904,18 +23892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1995,
-    "server_id": 4,
-    "type": "house",
-    "name": "Гурам",
-    "owner": "Implored_Space",
-    "status": "Занято",
-    "x": 2487.3,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1996,
     "server_id": 4,
     "type": "house",
@@ -25236,15 +25212,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 332,
+    "id": 755,
     "server_id": 4,
     "type": "house",
-    "name": "Дом",
-    "owner": "Inter_Stellar",
-    "status": "Аукцион",
-    "x": 758.6879,
-    "y": 375.0509,
-    "price": 150000000,
+    "name": "Уютный уголок",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2706.83,
+    "y": 722.856,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1211,
+    "server_id": 4,
+    "type": "house",
+    "name": "Райское место",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2478.88,
+    "y": 1141.99,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -25257,6 +25245,18 @@
     "x": 2457.76,
     "y": -1054.57,
     "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1995,
+    "server_id": 4,
+    "type": "house",
+    "name": "Гурам",
+    "owner": "Implored_Space",
+    "status": "Аукцион",
+    "x": 2487.3,
+    "y": -1383.37,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
