@@ -10959,8 +10959,8 @@
     "id": 916,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Customazer_Laki",
+    "name": "Дом Дарти)",
+    "owner": "Dartyy_Nilson",
     "status": "Занято",
     "x": -2159.79,
     "y": 1030.66,
@@ -11652,18 +11652,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 974,
-    "server_id": 13,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Valentin_Antonov",
-    "status": "Занято",
-    "x": -2479.06,
-    "y": 2509.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 975,
     "server_id": 13,
     "type": "house",
@@ -11680,7 +11668,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Халабуда",
-    "owner": "Petro_Yerko",
+    "owner": "Prohor_Nilson",
     "status": "Занято",
     "x": -2446.17,
     "y": 2491.81,
@@ -21180,18 +21168,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1770,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Cyrus_King",
-    "status": "Занято",
-    "x": 2476.39,
-    "y": -1417.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1771,
     "server_id": 13,
     "type": "house",
@@ -21596,18 +21572,6 @@
     "status": "Занято",
     "x": 1772.09,
     "y": 2871.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1805,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Cyrus_King",
-    "status": "Занято",
-    "x": 1763.11,
-    "y": 2871.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23268,6 +23232,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 974,
+    "server_id": 13,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Valentin_Antonov",
+    "status": "Аукцион",
+    "x": -2479.06,
+    "y": 2509.42,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1621,
     "server_id": 13,
     "type": "house",
@@ -23277,6 +23253,30 @@
     "x": 2826.08,
     "y": 2140.68,
     "price": 300000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1770,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Cyrus_King",
+    "status": "Аукцион",
+    "x": 2476.39,
+    "y": -1417.44,
+    "price": 500000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1805,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Cyrus_King",
+    "status": "Аукцион",
+    "x": 1763.11,
+    "y": 2871.21,
+    "price": 200000123,
     "district": "Сан-Андреас"
   },
   {

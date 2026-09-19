@@ -3363,7 +3363,7 @@
     "id": 280,
     "server_id": 20,
     "type": "house",
-    "name": "бобриная норка",
+    "name": "Simpson",
     "owner": "Bart_Simpson",
     "status": "Занято",
     "x": 2413.57,
@@ -9340,7 +9340,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "Vadim_Knight",
+    "owner": "Avrorka_Kiss",
     "status": "Занято",
     "x": -2550.67,
     "y": 794.174,
@@ -9660,6 +9660,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 805,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Fedya_Burmaldancer",
+    "status": "Занято",
+    "x": -2725.64,
+    "y": -92.5289,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 806,
     "server_id": 20,
     "type": "house",
@@ -9944,18 +9956,6 @@
     "status": "Занято",
     "x": -2720.98,
     "y": -23.3173,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 830,
-    "server_id": 20,
-    "type": "house",
-    "name": "Майнинг 8 LVL",
-    "owner": "Stepa_Turbocharger",
-    "status": "Занято",
-    "x": -2723.16,
-    "y": -16.7231,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21672,18 +21672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1810,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Areol_Archangel",
-    "status": "Занято",
-    "x": 2626.9,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1811,
     "server_id": 20,
     "type": "house",
@@ -22308,15 +22296,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 805,
+    "id": 830,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
-    "owner": "Fedya_Burmaldancer",
+    "name": "Майнинг 8 LVL",
+    "owner": "Stepa_Turbocharger",
     "status": "Аукцион",
-    "x": -2725.64,
-    "y": -92.5289,
-    "price": 800000000,
+    "x": -2723.16,
+    "y": -16.7231,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22353,6 +22341,18 @@
     "x": 2003.69,
     "y": 2168.31,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1810,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Areol_Archangel",
+    "status": "Аукцион",
+    "x": 2626.9,
+    "y": 2019.21,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {

@@ -11328,18 +11328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 945,
-    "server_id": 23,
-    "type": "house",
-    "name": "[Moriarty] #5",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": -2281.96,
-    "y": 979.2269,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 946,
     "server_id": 23,
     "type": "house",
@@ -21144,6 +21132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 945,
+    "server_id": 23,
+    "type": "house",
+    "name": "[Moriarty] #5",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": -2281.96,
+    "y": 979.2269,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1287,
     "server_id": 23,
     "type": "house",
@@ -21180,18 +21180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 191,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "[32]Atlantic_Runner",
-    "status": "Аукцион",
-    "x": 1143.17,
-    "y": -1473.83,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 192,
     "server_id": 23,
     "type": "business",
@@ -21213,6 +21201,18 @@
     "x": 1864.59,
     "y": -1393.39,
     "price": 7000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 356,
+    "server_id": 23,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Ruslan_Akentev",
+    "status": "Аукцион",
+    "x": 2348.53,
+    "y": -1372.68,
+    "price": 120000,
     "district": "Сан-Андреас"
   },
   {
@@ -21608,18 +21608,6 @@
     "status": "Занято",
     "x": 681.5606,
     "y": -473.347,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 356,
-    "server_id": 23,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Ruslan_Akentev",
-    "status": "Занято",
-    "x": 2348.53,
-    "y": -1372.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24116,6 +24104,18 @@
     "status": "Занято",
     "x": 1123.41,
     "y": -1466.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 191,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "[32]Atlantic_Runner",
+    "status": "Занято",
+    "x": 1143.17,
+    "y": -1473.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
