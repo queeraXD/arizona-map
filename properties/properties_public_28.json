@@ -11823,7 +11823,7 @@
     "id": 990,
     "server_id": 28,
     "type": "house",
-    "name": "Блядское логово",
+    "name": "Hooks",
     "owner": "Jack_Hooks",
     "status": "Занято",
     "x": 2556.37,
@@ -18924,30 +18924,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1584,
-    "server_id": 28,
-    "type": "house",
-    "name": "Комунальная квартира",
-    "owner": "Angel_Pine",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1211.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1585,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kosynoki_Rambery",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1209.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1586,
     "server_id": 28,
     "type": "house",
@@ -22356,6 +22332,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1584,
+    "server_id": 28,
+    "type": "house",
+    "name": "Комунальная квартира",
+    "owner": "Angel_Pine",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1211.2,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1585,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kosynoki_Rambery",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1209.88,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1710,
     "server_id": 28,
     "type": "house",
@@ -23404,7 +23404,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Ferry_Perry",
+    "owner": "Aleksandr_Chekushka",
     "status": "Занято",
     "x": -2373.8,
     "y": 910.117,
@@ -25204,7 +25204,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Sol_Ana",
+    "owner": "Larry_Morry",
     "status": "Занято",
     "x": 1104.78,
     "y": 1380.93,

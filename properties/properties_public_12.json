@@ -3747,7 +3747,7 @@
     "id": 312,
     "server_id": 12,
     "type": "house",
-    "name": "yarik house",
+    "name": "Дом",
     "owner": "Falcone_Miracle",
     "status": "Занято",
     "x": 1934.05,
@@ -9944,6 +9944,18 @@
     "status": "Занято",
     "x": -2721.08,
     "y": -44.7512,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 829,
+    "server_id": 12,
+    "type": "house",
+    "name": "хата ",
+    "owner": "Ruslan_Bobov",
+    "status": "Занято",
+    "x": -2720.98,
+    "y": -23.3173,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17556,6 +17568,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1467,
+    "server_id": 12,
+    "type": "house",
+    "name": "Берлога Фембоя:3",
+    "owner": "Bogdan_Dollar",
+    "status": "Занято",
+    "x": 2572.33,
+    "y": -1091.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1468,
     "server_id": 12,
     "type": "house",
@@ -23760,18 +23784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 829,
-    "server_id": 12,
-    "type": "house",
-    "name": "хата ",
-    "owner": "Ruslan_Bobov",
-    "status": "Аукцион",
-    "x": -2720.98,
-    "y": -23.3173,
-    "price": 530000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1217,
     "server_id": 12,
     "type": "house",
@@ -23808,30 +23820,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1467,
-    "server_id": 12,
-    "type": "house",
-    "name": "Берлога Фембоя:3",
-    "owner": "Bogdan_Dollar",
-    "status": "Аукцион",
-    "x": 2572.33,
-    "y": -1091.82,
-    "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2,
-    "server_id": 12,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Keisuke_Moore",
-    "status": "Аукцион",
-    "x": 242.897,
-    "y": -178.385,
-    "price": 550000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 0,
     "server_id": 12,
     "type": "business",
@@ -23852,6 +23840,18 @@
     "status": "Занято",
     "x": 2333.5,
     "y": 61.624,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2,
+    "server_id": 12,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Keisuke_Moore",
+    "status": "Занято",
+    "x": 242.897,
+    "y": -178.385,
     "price": 0,
     "district": "Сан-Андреас"
   },

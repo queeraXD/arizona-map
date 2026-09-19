@@ -300,18 +300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 25,
-    "server_id": 21,
-    "type": "house",
-    "name": "-------",
-    "owner": "Blake_Shadow",
-    "status": "Занято",
-    "x": 2250.11,
-    "y": -1280.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 26,
     "server_id": 21,
     "type": "house",
@@ -21900,6 +21888,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 25,
+    "server_id": 21,
+    "type": "house",
+    "name": "-------",
+    "owner": "Blake_Shadow",
+    "status": "Аукцион",
+    "x": 2250.11,
+    "y": -1280.4,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 138,
     "server_id": 21,
     "type": "house",
@@ -25132,7 +25132,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Yaroslav_Hlanta",
+    "owner": "Holidol_Benz",
     "status": "Занято",
     "x": 2824.77,
     "y": 1290.68,
