@@ -14784,18 +14784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1234,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Munuctep_Makapon",
-    "status": "Занято",
-    "x": -2433.73,
-    "y": 1281.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1235,
     "server_id": 25,
     "type": "house",
@@ -23772,6 +23760,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1234,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Munuctep_Makapon",
+    "status": "Аукцион",
+    "x": -2433.73,
+    "y": 1281.56,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 57,
     "server_id": 25,
     "type": "business",
@@ -26896,7 +26896,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Cyber_Bronik",
+    "owner": "Wyatt_Jack",
     "status": "Занято",
     "x": 196.119,
     "y": -116.76,

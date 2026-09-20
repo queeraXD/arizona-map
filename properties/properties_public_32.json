@@ -2235,7 +2235,7 @@
     "id": 187,
     "server_id": 32,
     "type": "house",
-    "name": "Crowzy Family",
+    "name": "Дом бомжа",
     "owner": "Kevin_Woles",
     "status": "Занято",
     "x": 768.0759,
@@ -5276,18 +5276,6 @@
     "status": "Занято",
     "x": -691.8779,
     "y": 939.5889,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 442,
-    "server_id": 32,
-    "type": "house",
-    "name": "..::Illusion HOME::..",
-    "owner": "Angel_Razer",
-    "status": "Занято",
-    "x": 2389.24,
-    "y": -1037.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9624,18 +9612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 808,
-    "server_id": 32,
-    "type": "house",
-    "name": "Добро пожаловать!",
-    "owner": "Angel_Razer",
-    "status": "Занято",
-    "x": -2722.88,
-    "y": -127.9029,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 809,
     "server_id": 32,
     "type": "house",
@@ -11864,18 +11840,6 @@
     "status": "Занято",
     "x": -2340.07,
     "y": 797.5759,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 996,
-    "server_id": 32,
-    "type": "house",
-    "name": "Склад Hangovers",
-    "owner": "Adam_Hangovers",
-    "status": "Занято",
-    "x": -2358.71,
-    "y": 796.9899,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22476,6 +22440,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 442,
+    "server_id": 32,
+    "type": "house",
+    "name": "..::Illusion HOME::..",
+    "owner": "Angel_Razer",
+    "status": "Аукцион",
+    "x": 2389.24,
+    "y": -1037.06,
+    "price": 1250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 659,
     "server_id": 32,
     "type": "house",
@@ -22485,6 +22461,30 @@
     "x": 1029.68,
     "y": 1876.28,
     "price": 1100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 808,
+    "server_id": 32,
+    "type": "house",
+    "name": "Добро пожаловать!",
+    "owner": "Angel_Razer",
+    "status": "Аукцион",
+    "x": -2722.88,
+    "y": -127.9029,
+    "price": 1250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 996,
+    "server_id": 32,
+    "type": "house",
+    "name": "Склад Hangovers",
+    "owner": "Adam_Hangovers",
+    "status": "Аукцион",
+    "x": -2358.71,
+    "y": 796.9899,
+    "price": 12000,
     "district": "Сан-Андреас"
   },
   {
