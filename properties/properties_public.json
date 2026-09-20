@@ -267,7 +267,7 @@
     "id": 22,
     "server_id": 33,
     "type": "house",
-    "name": "/present arzhome",
+    "name": "SOPRANO",
     "owner": "Tony_Soprano",
     "status": "Занято",
     "x": 2191.59,
@@ -2535,7 +2535,7 @@
     "id": 212,
     "server_id": 33,
     "type": "house",
-    "name": "Не Дурачек, а Дурачио",
+    "name": "Хатка Дурачио",
     "owner": "Durachio_Prime",
     "status": "Занято",
     "x": 1017.07,
@@ -2571,7 +2571,7 @@
     "id": 215,
     "server_id": 33,
     "type": "house",
-    "name": "Не Дурачек, а Дурачио",
+    "name": "Хатка Дурачио",
     "owner": "Durachio_Prime",
     "status": "Занято",
     "x": 924.3809,
@@ -7572,18 +7572,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 635,
-    "server_id": 33,
-    "type": "house",
-    "name": "vk @ukrainiancuz",
-    "owner": "Sweet_Dreams",
-    "status": "Занято",
-    "x": -369.302,
-    "y": 1169.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 636,
     "server_id": 33,
     "type": "house",
@@ -8355,7 +8343,7 @@
     "id": 702,
     "server_id": 33,
     "type": "house",
-    "name": "TG @idi696 ",
+    "name": "Бомжатня",
     "owner": "Magnat_Pupkin",
     "status": "Занято",
     "x": 1454.23,
@@ -11552,18 +11540,6 @@
     "status": "Занято",
     "x": -2398.35,
     "y": 2409.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 973,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": -2478.74,
-    "y": 2488.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18492,6 +18468,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1585,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Joe_Elegant",
+    "status": "Занято",
+    "x": 2437.04,
+    "y": 1242.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1586,
     "server_id": 33,
     "type": "house",
@@ -19916,18 +19904,6 @@
     "status": "Занято",
     "x": 2495.46,
     "y": -1366.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1705,
-    "server_id": 33,
-    "type": "house",
-    "name": "Repose Inc. | tg: @reposegen",
-    "owner": "Gen_Ywoo",
-    "status": "Занято",
-    "x": 2492.13,
-    "y": -1376.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22416,6 +22392,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 635,
+    "server_id": 33,
+    "type": "house",
+    "name": "vk @ukrainiancuz",
+    "owner": "Sweet_Dreams",
+    "status": "Аукцион",
+    "x": -369.302,
+    "y": 1169.02,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 649,
     "server_id": 33,
     "type": "house",
@@ -22449,6 +22437,18 @@
     "x": -2126.66,
     "y": 755.6099,
     "price": 665000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 973,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Naldon_Legenda",
+    "status": "Аукцион",
+    "x": -2478.74,
+    "y": 2488.76,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22500,15 +22500,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1585,
+    "id": 1705,
     "server_id": 33,
     "type": "house",
-    "name": "ДОМ АМИРХАНА ",
-    "owner": "Amik_Erken",
+    "name": "Repose Inc. | tg: @reposegen",
+    "owner": "Gen_Ywoo",
     "status": "Аукцион",
-    "x": 2437.04,
-    "y": 1242.43,
-    "price": 250000000,
+    "x": 2492.13,
+    "y": -1376.27,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
