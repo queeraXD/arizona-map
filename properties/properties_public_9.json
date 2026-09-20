@@ -9948,18 +9948,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 833,
-    "server_id": 9,
-    "type": "house",
-    "name": "ХАТА БРАТВЫ ИТАНА",
-    "owner": "Ethan_Milano",
-    "status": "Занято",
-    "x": -2234.63,
-    "y": 870.7579,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 834,
     "server_id": 9,
     "type": "house",
@@ -11636,18 +11624,6 @@
     "status": "Занято",
     "x": -2479.06,
     "y": 2509.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 975,
-    "server_id": 9,
-    "type": "house",
-    "name": "Милый дом",
-    "owner": "Actavis_Wizzard",
-    "status": "Занято",
-    "x": -2464.03,
-    "y": 2486.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15044,6 +15020,18 @@
     "status": "Занято",
     "x": -2791.84,
     "y": 103.595,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1259,
+    "server_id": 9,
+    "type": "house",
+    "name": "Резиденция «Лазурный Берег»",
+    "owner": "Mars_Wolter",
+    "status": "Занято",
+    "x": -2793.14,
+    "y": 111.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23892,15 +23880,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1259,
+    "id": 833,
     "server_id": 9,
     "type": "house",
-    "name": "Резиденция «Лазурный Берег»",
-    "owner": "Korrigan_Morse",
+    "name": "ХАТА БРАТВЫ ИТАНА",
+    "owner": "Ethan_Milano",
     "status": "Аукцион",
-    "x": -2793.14,
-    "y": 111.0,
-    "price": 20000000,
+    "x": -2234.63,
+    "y": 870.7579,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 975,
+    "server_id": 9,
+    "type": "house",
+    "name": "Милый дом",
+    "owner": "Actavis_Wizzard",
+    "status": "Аукцион",
+    "x": -2464.03,
+    "y": 2486.08,
+    "price": 1400000000,
     "district": "Сан-Андреас"
   },
   {

@@ -22176,18 +22176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1849,
-    "server_id": 12,
-    "type": "house",
-    "name": "Lonely House",
-    "owner": "Jonu_Ton",
-    "status": "Занято",
-    "x": 1784.51,
-    "y": 2758.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1850,
     "server_id": 12,
     "type": "house",
@@ -23808,6 +23796,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1849,
+    "server_id": 12,
+    "type": "house",
+    "name": "Lonely House",
+    "owner": "Jonu_Ton",
+    "status": "Аукцион",
+    "x": 1784.51,
+    "y": 2758.72,
+    "price": 99999999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1854,
     "server_id": 12,
     "type": "house",
@@ -23817,18 +23817,6 @@
     "x": 1796.56,
     "y": 2803.61,
     "price": 85000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2,
-    "server_id": 12,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Keisuke_Moore",
-    "status": "Аукцион",
-    "x": 242.897,
-    "y": -178.385,
-    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
@@ -23864,6 +23852,18 @@
     "status": "Занято",
     "x": 2333.5,
     "y": 61.624,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2,
+    "server_id": 12,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Keisuke_Moore",
+    "status": "Занято",
+    "x": 242.897,
+    "y": -178.385,
     "price": 0,
     "district": "Сан-Андреас"
   },

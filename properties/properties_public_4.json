@@ -2100,18 +2100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 175,
-    "server_id": 4,
-    "type": "house",
-    "name": "House:house: | SELL: 2kkk",
-    "owner": "Matvei_Anderson",
-    "status": "Занято",
-    "x": 790.9739,
-    "y": -1661.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 176,
     "server_id": 4,
     "type": "house",
@@ -5348,18 +5336,6 @@
     "status": "Занято",
     "x": 2440.64,
     "y": -1057.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 447,
-    "server_id": 4,
-    "type": "house",
-    "name": "cuerto squad",
-    "owner": "Mark_Olegovich",
-    "status": "Занято",
-    "x": 2457.76,
-    "y": -1054.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16164,18 +16140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1349,
-    "server_id": 4,
-    "type": "house",
-    "name": "Холостяцкая Хата",
-    "owner": "Ramazz_Autovaz",
-    "status": "Занято",
-    "x": 2532.33,
-    "y": 742.541,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1350,
     "server_id": 4,
     "type": "house",
@@ -25096,7 +25060,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Фарм Дом",
-    "owner": "Miroslav_Neil",
+    "owner": "Bruce_Velasco",
     "status": "Занято",
     "x": -2.0703,
     "y": 1012.19,
@@ -25164,6 +25128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 175,
+    "server_id": 4,
+    "type": "house",
+    "name": "House:house:",
+    "owner": "Matvei_Anderson",
+    "status": "Аукцион",
+    "x": 790.9739,
+    "y": -1661.87,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 268,
     "server_id": 4,
     "type": "house",
@@ -25172,6 +25148,30 @@
     "status": "Аукцион",
     "x": 1188.36,
     "y": -1011.85,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 447,
+    "server_id": 4,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Mark_Olegovich",
+    "status": "Аукцион",
+    "x": 2457.76,
+    "y": -1054.57,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1349,
+    "server_id": 4,
+    "type": "house",
+    "name": "Холостяцкая Хата",
+    "owner": "Ramazz_Autovaz",
+    "status": "Аукцион",
+    "x": 2532.33,
+    "y": 742.541,
     "price": 300000000,
     "district": "Сан-Андреас"
   },
@@ -25257,6 +25257,18 @@
     "x": 2410.78,
     "y": 962.8809,
     "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 258,
+    "server_id": 4,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Chester_Haynes",
+    "status": "Аукцион",
+    "x": -2479.24,
+    "y": 2317.84,
+    "price": 240000,
     "district": "Сан-Андреас"
   },
   {
@@ -26084,18 +26096,6 @@
     "status": "Занято",
     "x": -1531.05,
     "y": 2591.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 258,
-    "server_id": 4,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Chester_Haynes",
-    "status": "Занято",
-    "x": -2479.24,
-    "y": 2317.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
