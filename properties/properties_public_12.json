@@ -10368,18 +10368,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 866,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 6",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -340.7749,
-    "y": 2565.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 867,
     "server_id": 12,
     "type": "house",
@@ -10400,18 +10388,6 @@
     "status": "Занято",
     "x": -313.3299,
     "y": 2567.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 869,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 5",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -322.6199,
-    "y": 2554.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22452,6 +22428,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1874,
+    "server_id": 12,
+    "type": "house",
+    "name": "Anarchist",
+    "owner": "Bomshik_Gattuso",
+    "status": "Занято",
+    "x": 1798.84,
+    "y": 2812.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1875,
     "server_id": 12,
     "type": "house",
@@ -22896,18 +22884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1912,
-    "server_id": 12,
-    "type": "house",
-    "name": "Nebesniy na slete",
-    "owner": "Miha_Chlenougodie",
-    "status": "Занято",
-    "x": 2643.81,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1913,
     "server_id": 12,
     "type": "house",
@@ -23060,18 +23036,6 @@
     "status": "Занято",
     "x": 2601.64,
     "y": 2192.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1926,
-    "server_id": 12,
-    "type": "house",
-    "name": "Monopoly Baton2",
-    "owner": "Miha_Chlenougodie",
-    "status": "Занято",
-    "x": 2601.64,
-    "y": 2204.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23796,6 +23760,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 866,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 6",
+    "owner": "Dylan_Broker",
+    "status": "Аукцион",
+    "x": -340.7749,
+    "y": 2565.41,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 869,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 5",
+    "owner": "Dylan_Broker",
+    "status": "Аукцион",
+    "x": -322.6199,
+    "y": 2554.17,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1849,
     "server_id": 12,
     "type": "house",
@@ -23808,15 +23796,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1874,
+    "id": 1912,
     "server_id": 12,
     "type": "house",
-    "name": "Anarchist",
-    "owner": "Bomshik_Gattuso",
+    "name": "Дом",
+    "owner": "Miha_Chlenougodie",
     "status": "Аукцион",
-    "x": 1798.84,
-    "y": 2812.16,
-    "price": 150123123,
+    "x": 2643.81,
+    "y": 2195.56,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1926,
+    "server_id": 12,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Miha_Chlenougodie",
+    "status": "Аукцион",
+    "x": 2601.64,
+    "y": 2204.01,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
