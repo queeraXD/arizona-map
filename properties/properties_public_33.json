@@ -3420,6 +3420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 287,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kostyan_Eclipse",
+    "status": "Занято",
+    "x": 2491.35,
+    "y": -1012.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 288,
     "server_id": 33,
     "type": "house",
@@ -3752,30 +3764,6 @@
     "status": "Занято",
     "x": 1959.61,
     "y": -1069.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 316,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bad_Karma",
-    "status": "Занято",
-    "x": 1245.66,
-    "y": -902.775,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 317,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bad_Karma",
-    "status": "Занято",
-    "x": 1252.78,
-    "y": -901.866,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6891,7 +6879,7 @@
     "id": 577,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "A. Kaleidoscope #1",
     "owner": "Aleksei_Kaleidoscope",
     "status": "Занято",
     "x": -201.6629,
@@ -8751,7 +8739,7 @@
     "id": 736,
     "server_id": 33,
     "type": "house",
-    "name": "HOKAGE SQUAD",
+    "name": "A. Kaleidoscope #2",
     "owner": "Aleksei_Kaleidoscope",
     "status": "Занято",
     "x": -2899.14,
@@ -14352,18 +14340,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1207,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nox_Nostra",
-    "status": "Занято",
-    "x": -2872.46,
-    "y": 697.502,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1208,
     "server_id": 33,
     "type": "house",
@@ -17487,7 +17463,7 @@
     "id": 1470,
     "server_id": 33,
     "type": "house",
-    "name": "A/Scalfaro #2",
+    "name": "A. Kaleidoscope #3",
     "owner": "Aleksei_Kaleidoscope",
     "status": "Занято",
     "x": 884.517,
@@ -22404,15 +22380,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 287,
+    "id": 316,
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Kostyan_Eclipse",
+    "owner": "Bad_Karma",
     "status": "Аукцион",
-    "x": 2491.35,
-    "y": -1012.34,
-    "price": 450000000,
+    "x": 1245.66,
+    "y": -902.775,
+    "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 317,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bad_Karma",
+    "status": "Аукцион",
+    "x": 1252.78,
+    "y": -901.866,
+    "price": 100,
     "district": "Сан-Андреас"
   },
   {
@@ -22461,6 +22449,18 @@
     "x": 2556.37,
     "y": 87.7666,
     "price": 999999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1207,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nox_Nostra",
+    "status": "Аукцион",
+    "x": -2872.46,
+    "y": 697.502,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
