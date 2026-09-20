@@ -1272,18 +1272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 106,
-    "server_id": 26,
-    "type": "house",
-    "name": "McLarren ",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": 2486.39,
-    "y": -2021.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 107,
     "server_id": 26,
     "type": "house",
@@ -2984,18 +2972,6 @@
     "status": "Занято",
     "x": 2458.76,
     "y": 128.9869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 251,
-    "server_id": 26,
-    "type": "house",
-    "name": "ДЕП УСЛОВИЯ, ГАРДЕРОБ, ШКАФ",
-    "owner": "Yuki_Ximura",
-    "status": "Занято",
-    "x": 2480.55,
-    "y": 126.995,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6668,18 +6644,6 @@
     "status": "Занято",
     "x": 227.699,
     "y": 1070.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 561,
-    "server_id": 26,
-    "type": "house",
-    "name": "секасбомба",
-    "owner": "Mellstroy_Burmalda",
-    "status": "Занято",
-    "x": 222.9839,
-    "y": 1109.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17463,8 +17427,8 @@
     "id": 1469,
     "server_id": 26,
     "type": "house",
-    "name": "чил зона никитоса",
-    "owner": "Moon_Openmind",
+    "name": "MaxorTrapHouse",
+    "owner": "Maxor_BigTape",
     "status": "Занято",
     "x": 531.333,
     "y": 1336.2,
@@ -23604,30 +23568,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1983,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Yuki_Ximura",
-    "status": "Занято",
-    "x": -760.6079,
-    "y": 2765.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1984,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Yuki_Ximura",
-    "status": "Занято",
-    "x": -759.104,
-    "y": 2765.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1985,
     "server_id": 26,
     "type": "house",
@@ -23648,18 +23588,6 @@
     "status": "Занято",
     "x": -789.7039,
     "y": 2763.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1987,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Yuki_Ximura",
-    "status": "Занято",
-    "x": -768.5989,
-    "y": 2765.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25008,6 +24936,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 106,
+    "server_id": 26,
+    "type": "house",
+    "name": "McLarren ",
+    "owner": "Kolya_Infinity",
+    "status": "Аукцион",
+    "x": 2486.39,
+    "y": -2021.38,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 108,
     "server_id": 26,
     "type": "house",
@@ -25029,6 +24969,18 @@
     "x": 354.445,
     "y": -1280.53,
     "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 251,
+    "server_id": 26,
+    "type": "house",
+    "name": "ДЕП УСЛОВИЯ, ГАРДЕРОБ, ШКАФ",
+    "owner": "Yuki_Ximura",
+    "status": "Аукцион",
+    "x": 2480.55,
+    "y": 126.995,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25065,6 +25017,18 @@
     "x": 2092.26,
     "y": -1067.44,
     "price": 10500300,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 561,
+    "server_id": 26,
+    "type": "house",
+    "name": "секасбомба",
+    "owner": "Mellstroy_Burmalda",
+    "status": "Аукцион",
+    "x": 222.9839,
+    "y": 1109.19,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25185,6 +25149,42 @@
     "x": 884.517,
     "y": 2321.9,
     "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1983,
+    "server_id": 26,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Yuki_Ximura",
+    "status": "Аукцион",
+    "x": -760.6079,
+    "y": 2765.4,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1984,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yuki_Ximura",
+    "status": "Аукцион",
+    "x": -759.104,
+    "y": 2765.4,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1987,
+    "server_id": 26,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Yuki_Ximura",
+    "status": "Аукцион",
+    "x": -768.5989,
+    "y": 2765.4,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {

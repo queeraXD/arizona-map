@@ -7576,7 +7576,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Vadim_Bezdodepov",
+    "owner": "Apollo_Moon",
     "status": "Занято",
     "x": -324.3099,
     "y": 1165.32,
@@ -18552,18 +18552,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1585,
-    "server_id": 33,
-    "type": "house",
-    "name": "ДОМ АМИРХАНА ",
-    "owner": "Amik_Erken",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1242.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1586,
     "server_id": 33,
     "type": "house",
@@ -22512,15 +22500,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 309,
+    "id": 1585,
     "server_id": 33,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Palaga_Novikov",
+    "type": "house",
+    "name": "ДОМ АМИРХАНА ",
+    "owner": "Amik_Erken",
     "status": "Аукцион",
-    "x": -1546.29,
-    "y": 591.994,
-    "price": 10000000000,
+    "x": 2437.04,
+    "y": 1242.43,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23116,7 +23104,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Mini_Perekup",
+    "owner": "Volt_Energy",
     "status": "Занято",
     "x": 2856.2,
     "y": 1264.44,
@@ -26276,6 +26264,18 @@
     "status": "Занято",
     "x": -1992.94,
     "y": 583.407,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 309,
+    "server_id": 33,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Palaga_Novikov",
+    "status": "Занято",
+    "x": -1546.29,
+    "y": 591.994,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -3216,18 +3216,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 268,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gavrik_Montano",
-    "status": "Занято",
-    "x": 1188.36,
-    "y": -1011.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 269,
     "server_id": 4,
     "type": "house",
@@ -19104,30 +19092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1607,
-    "server_id": 4,
-    "type": "house",
-    "name": "autohotkey fam",
-    "owner": "Shtorm_Moonlight",
-    "status": "Занято",
-    "x": -2075.27,
-    "y": -2526.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1608,
-    "server_id": 4,
-    "type": "house",
-    "name": "autohotkey fam",
-    "owner": "Shtorm_Moonlight",
-    "status": "Занято",
-    "x": -2082.03,
-    "y": -2548.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1609,
     "server_id": 4,
     "type": "house",
@@ -25092,6 +25056,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 268,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gavrik_Montano",
+    "status": "Аукцион",
+    "x": 1188.36,
+    "y": -1011.85,
+    "price": 2600,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 282,
     "server_id": 4,
     "type": "house",
@@ -25257,6 +25233,30 @@
     "x": 2373.85,
     "y": 21.9458,
     "price": 4200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1607,
+    "server_id": 4,
+    "type": "house",
+    "name": "autohotkey fam",
+    "owner": "Cozart_Jouve",
+    "status": "Аукцион",
+    "x": -2075.27,
+    "y": -2526.15,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1608,
+    "server_id": 4,
+    "type": "house",
+    "name": "autohotkey fam",
+    "owner": "Cozart_Jouve",
+    "status": "Аукцион",
+    "x": -2082.03,
+    "y": -2548.24,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
@@ -29332,7 +29332,7 @@
     "server_id": 4,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Samael_Devilside",
+    "owner": "Roman_Senyshyn",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

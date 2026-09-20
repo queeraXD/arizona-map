@@ -3348,18 +3348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 280,
-    "server_id": 20,
-    "type": "house",
-    "name": "Simpson",
-    "owner": "Bart_Simpson",
-    "status": "Занято",
-    "x": 2413.57,
-    "y": 61.4468,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 281,
     "server_id": 20,
     "type": "house",
@@ -6980,18 +6968,6 @@
     "status": "Занято",
     "x": -275.376,
     "y": 2736.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 583,
-    "server_id": 20,
-    "type": "house",
-    "name": "Nights Monopoly",
-    "owner": "Areol_Archangel",
-    "status": "Занято",
-    "x": -279.3829,
-    "y": 2722.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18180,6 +18156,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1519,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kara_Wils",
+    "status": "Занято",
+    "x": -950.966,
+    "y": -531.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1520,
     "server_id": 20,
     "type": "house",
@@ -19316,6 +19304,18 @@
     "status": "Занято",
     "x": 2003.69,
     "y": 2159.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1615,
+    "server_id": 20,
+    "type": "house",
+    "name": "Barrington Home",
+    "owner": "Samurai_Barrington",
+    "status": "Занято",
+    "x": 2003.68,
+    "y": 2163.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22296,6 +22296,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 280,
+    "server_id": 20,
+    "type": "house",
+    "name": "Simpson",
+    "owner": "Bart_Simpson",
+    "status": "Аукцион",
+    "x": 2413.57,
+    "y": 61.4468,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 583,
+    "server_id": 20,
+    "type": "house",
+    "name": "Nights Monopoly",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -279.3829,
+    "y": 2722.05,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 805,
     "server_id": 20,
     "type": "house",
@@ -22329,30 +22353,6 @@
     "x": -2211.09,
     "y": 933.7139,
     "price": 6000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1519,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -950.966,
-    "y": -531.2,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1615,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 2003.68,
-    "y": 2163.69,
-    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {

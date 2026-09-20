@@ -123,7 +123,7 @@
     "id": 10,
     "server_id": 15,
     "type": "house",
-    "name": "Дом",
+    "name": "общественный туалет gillbert",
     "owner": "Maga_Gilbertt",
     "status": "Занято",
     "x": 2050.88,
@@ -21324,6 +21324,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 102,
+    "server_id": 15,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Leon_Obscure",
+    "status": "Аукцион",
+    "x": -1735.96,
+    "y": 897.68,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 115,
     "server_id": 15,
     "type": "business",
@@ -22028,18 +22040,6 @@
     "status": "Занято",
     "x": -2242.28,
     "y": -170.898,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 102,
-    "server_id": 15,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Leon_Obscure",
-    "status": "Занято",
-    "x": -1735.96,
-    "y": 897.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
