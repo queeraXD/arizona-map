@@ -9216,6 +9216,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 771,
+    "server_id": 19,
+    "type": "house",
+    "name": "Aivan 6",
+    "owner": "Aivan_Darkstorm",
+    "status": "Занято",
+    "x": -2622.52,
+    "y": 749.754,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 772,
     "server_id": 19,
     "type": "house",
@@ -11288,6 +11300,18 @@
     "status": "Занято",
     "x": -2281.96,
     "y": 979.2269,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 946,
+    "server_id": 19,
+    "type": "house",
+    "name": "Aivan 7",
+    "owner": "Aivan_Darkstorm",
+    "status": "Занято",
+    "x": -2282.42,
+    "y": 999.619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13940,6 +13964,18 @@
     "status": "Занято",
     "x": -986.9279,
     "y": -1877.55,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1170,
+    "server_id": 19,
+    "type": "house",
+    "name": "Ховка",
+    "owner": "Yoshiri_Tsukimo",
+    "status": "Занято",
+    "x": -970.8699,
+    "y": -1877.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18564,18 +18600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1560,
-    "server_id": 19,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Aperol_Spritz",
-    "status": "Занято",
-    "x": 1952.15,
-    "y": 663.577,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1561,
     "server_id": 19,
     "type": "house",
@@ -18920,18 +18944,6 @@
     "status": "Занято",
     "x": 1739.39,
     "y": 2792.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1591,
-    "server_id": 19,
-    "type": "house",
-    "name": "Macalister impire 1",
-    "owner": "Aperol_Spritz",
-    "status": "Занято",
-    "x": 1737.22,
-    "y": 2800.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21876,18 +21888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1569,
-    "server_id": 19,
-    "type": "house",
-    "name": "Alexey",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1955.89,
-    "y": 742.875,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 270,
     "server_id": 19,
     "type": "house",
@@ -21924,30 +21924,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 771,
-    "server_id": 19,
-    "type": "house",
-    "name": "Aivan 6",
-    "owner": "Aivan_Darkstorm",
-    "status": "Аукцион",
-    "x": -2622.52,
-    "y": 749.754,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 946,
-    "server_id": 19,
-    "type": "house",
-    "name": "Aivan 7",
-    "owner": "Aivan_Darkstorm",
-    "status": "Аукцион",
-    "x": -2282.42,
-    "y": 999.619,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 996,
     "server_id": 19,
     "type": "house",
@@ -21969,18 +21945,6 @@
     "x": -1742.51,
     "y": 1174.37,
     "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1170,
-    "server_id": 19,
-    "type": "house",
-    "name": "Ховка",
-    "owner": "Yoshiri_Tsukimo",
-    "status": "Аукцион",
-    "x": -970.8699,
-    "y": -1877.33,
-    "price": 37000,
     "district": "Сан-Андреас"
   },
   {
@@ -22029,6 +21993,42 @@
     "x": 1932.09,
     "y": 663.577,
     "price": 20123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1560,
+    "server_id": 19,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Aperol_Spritz",
+    "status": "Аукцион",
+    "x": 1952.15,
+    "y": 663.577,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1569,
+    "server_id": 19,
+    "type": "house",
+    "name": "Alexey",
+    "owner": "Aperol_Spritz",
+    "status": "Аукцион",
+    "x": 1955.89,
+    "y": 742.875,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1591,
+    "server_id": 19,
+    "type": "house",
+    "name": "Macalister impire 1",
+    "owner": "Aperol_Spritz",
+    "status": "Аукцион",
+    "x": 1737.22,
+    "y": 2800.82,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {

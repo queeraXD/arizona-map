@@ -17115,7 +17115,7 @@
     "id": 1427,
     "server_id": 17,
     "type": "house",
-    "name": "Дом",
+    "name": "босс",
     "owner": "Artem_Bosov",
     "status": "Занято",
     "x": 884.517,
@@ -20760,6 +20760,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1731,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kitty_Shakro",
+    "status": "Занято",
+    "x": 1980.76,
+    "y": -1682.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1732,
     "server_id": 17,
     "type": "house",
@@ -21356,18 +21368,6 @@
     "status": "Занято",
     "x": 1733.24,
     "y": 2814.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1787,
-    "server_id": 17,
-    "type": "house",
-    "name": "В ШКАФУ ЧТО ТО ЕСТЬ",
-    "owner": "Artem_Bosov",
-    "status": "Занято",
-    "x": 1754.49,
-    "y": 2736.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22464,15 +22464,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1731,
+    "id": 1787,
     "server_id": 17,
     "type": "house",
-    "name": "Дом",
-    "owner": "Spike_Scout",
+    "name": "В ШКАФУ ЧТО ТО ЕСТЬ",
+    "owner": "Artem_Bosov",
     "status": "Аукцион",
-    "x": 1980.76,
-    "y": -1682.66,
-    "price": 800000000,
+    "x": 1754.49,
+    "y": 2736.01,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
