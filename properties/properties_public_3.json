@@ -1128,18 +1128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 94,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Sorochenko",
-    "status": "Занято",
-    "x": 2696.51,
-    "y": -1990.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 95,
     "server_id": 3,
     "type": "house",
@@ -5436,18 +5424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 454,
-    "server_id": 3,
-    "type": "house",
-    "name": "Хижина Князя",
-    "owner": "Magic_City",
-    "status": "Занято",
-    "x": 2014.05,
-    "y": 650.828,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 455,
     "server_id": 3,
     "type": "house",
@@ -9352,7 +9328,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Берлога сутинера",
-    "owner": "Tape_Lesters",
+    "owner": "Dostavka_Cuerto",
     "status": "Занято",
     "x": -2541.29,
     "y": 733.153,
@@ -10652,6 +10628,18 @@
     "status": "Занято",
     "x": -2101.77,
     "y": -2532.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 891,
+    "server_id": 3,
+    "type": "house",
+    "name": "GG HOUSE",
+    "owner": "Monero_Explosion",
+    "status": "Занято",
+    "x": -2075.03,
+    "y": -2526.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12372,18 +12360,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1035,
-    "server_id": 3,
-    "type": "house",
-    "name": "6 номер, 9лвл",
-    "owner": "Wonder_Ful",
-    "status": "Занято",
-    "x": -2168.73,
-    "y": 795.8939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1036,
     "server_id": 3,
     "type": "house",
@@ -14048,18 +14024,6 @@
     "status": "Занято",
     "x": -2791.93,
     "y": 103.594,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1175,
-    "server_id": 3,
-    "type": "house",
-    "name": "атказана",
-    "owner": "Vladimir_Sorochenko",
-    "status": "Занято",
-    "x": -2793.14,
-    "y": 110.9339,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19728,6 +19692,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1649,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zeferion_Baretti",
+    "status": "Занято",
+    "x": 2587.4,
+    "y": -1224.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1650,
     "server_id": 3,
     "type": "house",
@@ -21396,18 +21372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1790,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kyo_Ousuke",
-    "status": "Занято",
-    "x": 2700.21,
-    "y": -1233.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1791,
     "server_id": 3,
     "type": "house",
@@ -22740,6 +22704,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1902,
+    "server_id": 3,
+    "type": "house",
+    "name": "Home ",
+    "owner": "Maxim_Gnezdilov",
+    "status": "Занято",
+    "x": 767.7059,
+    "y": 2007.61,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1903,
     "server_id": 3,
     "type": "house",
@@ -23928,6 +23904,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 94,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Sorochenko",
+    "status": "Аукцион",
+    "x": 2696.51,
+    "y": -1990.42,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 310,
     "server_id": 3,
     "type": "house",
@@ -23937,6 +23925,18 @@
     "x": 1916.89,
     "y": -1064.86,
     "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 454,
+    "server_id": 3,
+    "type": "house",
+    "name": "Хижина Князя",
+    "owner": "Magic_City",
+    "status": "Аукцион",
+    "x": 2014.05,
+    "y": 650.828,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23952,15 +23952,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 891,
+    "id": 1035,
     "server_id": 3,
     "type": "house",
-    "name": "GG HOUSE",
-    "owner": "Monero_Explosion",
+    "name": "6 номер, 9лвл",
+    "owner": "Wonder_Ful",
     "status": "Аукцион",
-    "x": -2075.03,
-    "y": -2526.84,
-    "price": 800000000,
+    "x": -2168.73,
+    "y": 795.8939,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1175,
+    "server_id": 3,
+    "type": "house",
+    "name": "атказана",
+    "owner": "Vladimir_Sorochenko",
+    "status": "Аукцион",
+    "x": -2793.14,
+    "y": 110.9339,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23976,18 +23988,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1649,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Wonder_Ful",
-    "status": "Аукцион",
-    "x": 2587.4,
-    "y": -1224.72,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1703,
     "server_id": 3,
     "type": "house",
@@ -24000,15 +24000,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1902,
+    "id": 1790,
     "server_id": 3,
     "type": "house",
-    "name": "Home ",
-    "owner": "Vadim_Komarovinka",
+    "name": "Дом",
+    "owner": "Kyo_Ousuke",
     "status": "Аукцион",
-    "x": 767.7059,
-    "y": 2007.61,
-    "price": 300000000,
+    "x": 2700.21,
+    "y": -1233.66,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {

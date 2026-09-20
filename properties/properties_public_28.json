@@ -5556,18 +5556,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 464,
-    "server_id": 28,
-    "type": "house",
-    "name": "Haunted House",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 2228.91,
-    "y": 654.7739,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 465,
     "server_id": 28,
     "type": "house",
@@ -5888,18 +5876,6 @@
     "status": "Занято",
     "x": 1756.79,
     "y": 66.9654,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 492,
-    "server_id": 28,
-    "type": "house",
-    "name": "AEZAKMI",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 2042.4,
-    "y": 731.6829,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10800,6 +10776,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 904,
+    "server_id": 28,
+    "type": "house",
+    "name": "Классический дом",
+    "owner": "Ioshinory_Sakurai",
+    "status": "Занято",
+    "x": -2116.77,
+    "y": 927.3969,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 905,
     "server_id": 28,
     "type": "house",
@@ -11468,6 +11456,18 @@
     "status": "Занято",
     "x": -2158.94,
     "y": 769.9379,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 961,
+    "server_id": 28,
+    "type": "house",
+    "name": "California Empire ",
+    "owner": "Ioshinory_Sakurai",
+    "status": "Занято",
+    "x": -2158.17,
+    "y": 753.703,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12380,18 +12380,6 @@
     "status": "Занято",
     "x": 1911.59,
     "y": -464.2439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1038,
-    "server_id": 28,
-    "type": "house",
-    "name": "Deluxe",
-    "owner": "Bite_Gromov",
-    "status": "Занято",
-    "x": -1776.13,
-    "y": 1115.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22296,6 +22284,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 464,
+    "server_id": 28,
+    "type": "house",
+    "name": "Haunted House",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": 2228.91,
+    "y": 654.7739,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 492,
+    "server_id": 28,
+    "type": "house",
+    "name": "AEZAKMI",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": 2042.4,
+    "y": 731.6829,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 545,
     "server_id": 28,
     "type": "house",
@@ -22320,27 +22332,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 904,
+    "id": 1038,
     "server_id": 28,
     "type": "house",
-    "name": "Классический дом",
-    "owner": "Ioshinory_Sakurai",
+    "name": "Deluxe",
+    "owner": "Bite_Gromov",
     "status": "Аукцион",
-    "x": -2116.77,
-    "y": 927.3969,
-    "price": 3000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 961,
-    "server_id": 28,
-    "type": "house",
-    "name": "California Empire ",
-    "owner": "Ioshinory_Sakurai",
-    "status": "Аукцион",
-    "x": -2158.17,
-    "y": 753.703,
-    "price": 3000,
+    "x": -1776.13,
+    "y": 1115.2,
+    "price": 170000000,
     "district": "Сан-Андреас"
   },
   {

@@ -4824,18 +4824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
-    "status": "Занято",
-    "x": 2448.44,
-    "y": -11.0635,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 403,
     "server_id": 7,
     "type": "house",
@@ -10304,18 +10292,6 @@
     "status": "Занято",
     "x": 2594.5,
     "y": -1203.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 859,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Roxy_Reynolds",
-    "status": "Занято",
-    "x": -2428.748,
-    "y": -1328.385,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25545,6 +25521,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 402,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
+    "status": "Аукцион",
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 859,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Roxy_Reynolds",
+    "status": "Аукцион",
+    "x": -2428.748,
+    "y": -1328.385,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {

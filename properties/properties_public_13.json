@@ -1368,18 +1368,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 114,
-    "server_id": 13,
-    "type": "house",
-    "name": "Landre Empire",
-    "owner": "Iandre_Hartmann",
-    "status": "Занято",
-    "x": 2261.51,
-    "y": -1906.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 115,
     "server_id": 13,
     "type": "house",
@@ -4340,18 +4328,6 @@
     "status": "Занято",
     "x": 903.398,
     "y": -1512.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 362,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "brodyagathegod",
-    "status": "Занято",
-    "x": 849.689,
-    "y": -1519.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17736,18 +17712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1480,
-    "server_id": 13,
-    "type": "house",
-    "name": "позитивний парень",
-    "owner": "Yura_Kaban",
-    "status": "Занято",
-    "x": 2362.62,
-    "y": -1046.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1481,
     "server_id": 13,
     "type": "house",
@@ -20724,18 +20688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1729,
-    "server_id": 13,
-    "type": "house",
-    "name": "помойка",
-    "owner": "brodyagathegod",
-    "status": "Занято",
-    "x": 263.6849,
-    "y": 2895.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1730,
     "server_id": 13,
     "type": "house",
@@ -21912,18 +21864,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1829,
-    "server_id": 13,
-    "type": "house",
-    "name": "HOUSE OF CODY // THE BEST GAME!",
-    "owner": "brodyagathegod",
-    "status": "Занято",
-    "x": 1799.6,
-    "y": 2814.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1830,
     "server_id": 13,
     "type": "house",
@@ -21932,18 +21872,6 @@
     "status": "Занято",
     "x": 1802.66,
     "y": 2826.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1831,
-    "server_id": 13,
-    "type": "house",
-    "name": "| Авангард Empire |",
-    "owner": "brodyagathegod",
-    "status": "Занято",
-    "x": 1804.92,
-    "y": 2834.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23256,6 +23184,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 114,
+    "server_id": 13,
+    "type": "house",
+    "name": "Landre Empire",
+    "owner": "Iandre_Hartmann",
+    "status": "Аукцион",
+    "x": 2261.51,
+    "y": -1906.6,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 362,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 849.689,
+    "y": -1519.95,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 542,
     "server_id": 13,
     "type": "house",
@@ -23280,6 +23232,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1480,
+    "server_id": 13,
+    "type": "house",
+    "name": "позитивний парень",
+    "owner": "Yura_Kaban",
+    "status": "Аукцион",
+    "x": 2362.62,
+    "y": -1046.45,
+    "price": 999123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1729,
+    "server_id": 13,
+    "type": "house",
+    "name": "помойка",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 263.6849,
+    "y": 2895.52,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1829,
+    "server_id": 13,
+    "type": "house",
+    "name": "HOUSE OF CODY // THE BEST GAME!",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 1799.6,
+    "y": 2814.94,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1831,
+    "server_id": 13,
+    "type": "house",
+    "name": "| Авангард Empire |",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 1804.92,
+    "y": 2834.83,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1856,
     "server_id": 13,
     "type": "house",
@@ -23301,6 +23301,30 @@
     "x": 1521.99,
     "y": -1025.07,
     "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 434,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 2216.0,
+    "y": -1679.688,
+    "price": 1200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 435,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 532.7643,
+    "y": 874.9283,
+    "price": 1200000,
     "district": "Сан-Андреас"
   },
   {

@@ -132,6 +132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 11,
+    "server_id": 33,
+    "type": "house",
+    "name": "Dezzy Happa // Мой дом",
+    "owner": "Dezzy_Happa",
+    "status": "Занято",
+    "x": 2093.85,
+    "y": -1122.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 12,
     "server_id": 33,
     "type": "house",
@@ -560,6 +572,18 @@
     "status": "Занято",
     "x": 2188.55,
     "y": -1419.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 48,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lil_Krystalll",
+    "status": "Занято",
+    "x": 2194.35,
+    "y": -1443.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3404,18 +3428,6 @@
     "status": "Занято",
     "x": 2259.37,
     "y": -1019.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 287,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kostyan_Eclipse",
-    "status": "Занято",
-    "x": 2491.35,
-    "y": -1012.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7704,18 +7716,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 648,
-    "server_id": 33,
-    "type": "house",
-    "name": "JesusHouse",
-    "owner": "Artem_Pudchenko",
-    "status": "Занято",
-    "x": 2449.23,
-    "y": 689.8359,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 649,
     "server_id": 33,
     "type": "house",
@@ -9520,7 +9520,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Трэп Хата",
-    "owner": "Senya_Dark",
+    "owner": "Metro_Boomin",
     "status": "Занято",
     "x": -2303.43,
     "y": 820.036,
@@ -12768,18 +12768,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1076,
-    "server_id": 33,
-    "type": "house",
-    "name": "Coffe",
-    "owner": "Boss",
-    "status": "Занято",
-    "x": -2901.54,
-    "y": 1033.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1077,
     "server_id": 33,
     "type": "house",
@@ -14152,7 +14140,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом миллиардера Макса Максбетов",
-    "owner": "Maks_Maksbetov",
+    "owner": "Peter_Parker",
     "status": "Занято",
     "x": -2791.87,
     "y": -24.3971,
@@ -20304,6 +20292,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1735,
+    "server_id": 33,
+    "type": "house",
+    "name": "mar!domination",
+    "owner": "Leonardo_Kapril",
+    "status": "Занято",
+    "x": 2473.06,
+    "y": -1359.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1736,
     "server_id": 33,
     "type": "house",
@@ -22120,7 +22120,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Deff_Replate",
+    "owner": "Hunt_Beloro",
     "status": "Занято",
     "x": -77.3479,
     "y": 946.1459,
@@ -22380,30 +22380,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 11,
-    "server_id": 33,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Timosha_Galosha",
-    "status": "Аукцион",
-    "x": 2093.85,
-    "y": -1122.68,
-    "price": 700123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 48,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lil_Krystalll",
-    "status": "Аукцион",
-    "x": 2194.35,
-    "y": -1443.0,
-    "price": 600000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 112,
     "server_id": 33,
     "type": "house",
@@ -22413,6 +22389,18 @@
     "x": 2241.99,
     "y": -1882.29,
     "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 287,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kostyan_Eclipse",
+    "status": "Аукцион",
+    "x": 2491.35,
+    "y": -1012.34,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22437,6 +22425,18 @@
     "x": 1252.78,
     "y": -901.866,
     "price": 100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 648,
+    "server_id": 33,
+    "type": "house",
+    "name": "JesusHouse",
+    "owner": "Artem_Pudchenko",
+    "status": "Аукцион",
+    "x": 2449.23,
+    "y": 689.8359,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22476,6 +22476,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1076,
+    "server_id": 33,
+    "type": "house",
+    "name": "Coffe",
+    "owner": "Boss",
+    "status": "Аукцион",
+    "x": -2901.54,
+    "y": 1033.81,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1207,
     "server_id": 33,
     "type": "house",
@@ -22484,18 +22496,6 @@
     "status": "Аукцион",
     "x": -2872.46,
     "y": 697.502,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1735,
-    "server_id": 33,
-    "type": "house",
-    "name": "mar!domination",
-    "owner": "Bud_Beer",
-    "status": "Аукцион",
-    "x": 2473.06,
-    "y": -1359.1,
     "price": 150000000,
     "district": "Сан-Андреас"
   },
@@ -24268,7 +24268,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Evan_Gard",
+    "owner": "Magic_Rust",
     "status": "Занято",
     "x": 1872.26,
     "y": 2071.74,

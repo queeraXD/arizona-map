@@ -3219,8 +3219,8 @@
     "id": 269,
     "server_id": 26,
     "type": "house",
-    "name": "Крутой дом крутого Бабаева",
-    "owner": "Maxor_BigTape",
+    "name": "Naomi",
+    "owner": "Naomi_Winter",
     "status": "Занято",
     "x": 1195.57,
     "y": -1010.89,
@@ -3356,6 +3356,18 @@
     "status": "Занято",
     "x": 2413.57,
     "y": 61.4468,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 281,
+    "server_id": 26,
+    "type": "house",
+    "name": "УЛУЧШЕНИЕ НА ШКАФ",
+    "owner": "Yuki_Ximura",
+    "status": "Занято",
+    "x": 2551.22,
+    "y": 57.2303,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3548,18 +3560,6 @@
     "status": "Занято",
     "x": 2105.31,
     "y": -1056.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 298,
-    "server_id": 26,
-    "type": "house",
-    "name": "seventy squad",
-    "owner": "Hawick_Eclipse",
-    "status": "Занято",
-    "x": 2092.26,
-    "y": -1067.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8048,6 +8048,18 @@
     "status": "Занято",
     "x": 928.6199,
     "y": 2006.45,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 675,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yuki_Ximura",
+    "status": "Занято",
+    "x": 930.306,
+    "y": 2027.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15812,6 +15824,18 @@
     "status": "Занято",
     "x": 1447.38,
     "y": 361.768,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1325,
+    "server_id": 26,
+    "type": "house",
+    "name": "долг мики",
+    "owner": "Leonid_Terentyev",
+    "status": "Занято",
+    "x": 1461.16,
+    "y": 342.493,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25104,15 +25128,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 281,
+    "id": 298,
     "server_id": 26,
     "type": "house",
-    "name": "УЛУЧШЕНИЕ НА ШКАФ",
-    "owner": "Yuki_Ximura",
+    "name": "дарк ку всем",
+    "owner": "Hawick_Eclipse",
     "status": "Аукцион",
-    "x": 2551.22,
-    "y": 57.2303,
-    "price": 400000000,
+    "x": 2092.26,
+    "y": -1067.44,
+    "price": 10500300,
     "district": "Сан-Андреас"
   },
   {
@@ -25140,18 +25164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 675,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Yuki_Ximura",
-    "status": "Аукцион",
-    "x": 930.306,
-    "y": 2027.86,
-    "price": 80000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1202,
     "server_id": 26,
     "type": "house",
@@ -25164,18 +25176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1325,
-    "server_id": 26,
-    "type": "house",
-    "name": "курымдык",
-    "owner": "crimsonpact",
-    "status": "Аукцион",
-    "x": 1461.16,
-    "y": 342.493,
-    "price": 5000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1493,
     "server_id": 26,
     "type": "house",
@@ -25185,6 +25185,30 @@
     "x": 885.901,
     "y": 1953.21,
     "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 82,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Wuddy_Overprice",
+    "status": "Аукцион",
+    "x": 1879.19,
+    "y": 2339.5,
+    "price": 180000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Wuddy_Overprice",
+    "status": "Аукцион",
+    "x": 2366.7,
+    "y": 2071.11,
+    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -26928,18 +26952,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 82,
-    "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Wuddy_Overprice",
-    "status": "Занято",
-    "x": 1879.19,
-    "y": 2339.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 83,
     "server_id": 26,
     "type": "business",
@@ -27260,18 +27272,6 @@
     "status": "Занято",
     "x": 2392.56,
     "y": 2042.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Wuddy_Overprice",
-    "status": "Занято",
-    "x": 2366.7,
-    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
