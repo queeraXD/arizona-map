@@ -4248,18 +4248,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 354,
-    "server_id": 28,
-    "type": "house",
-    "name": "Блядское логoво",
-    "owner": "Larres_Juarez",
-    "status": "Занято",
-    "x": 1280.86,
-    "y": -874.8439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 355,
     "server_id": 28,
     "type": "house",
@@ -6100,7 +6088,7 @@
     "server_id": 28,
     "type": "house",
     "name": "home 2",
-    "owner": "Ariel_Sheriff",
+    "owner": "Icy_Thuger",
     "status": "Занято",
     "x": 1684.51,
     "y": 2046.57,
@@ -6500,6 +6488,18 @@
     "status": "Занято",
     "x": 1921.69,
     "y": 2664.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 545,
+    "server_id": 28,
+    "type": "house",
+    "name": "Мун Сан",
+    "owner": "Moon_Sun",
+    "status": "Занято",
+    "x": -36.0457,
+    "y": 1115.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9864,6 +9864,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 827,
+    "server_id": 28,
+    "type": "house",
+    "name": "DOMDOM",
+    "owner": "Travis_Viper",
+    "status": "Занято",
+    "x": -2724.29,
+    "y": -58.0475,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 828,
     "server_id": 28,
     "type": "house",
@@ -9920,18 +9932,6 @@
     "status": "Занято",
     "x": -2234.38,
     "y": 888.869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 833,
-    "server_id": 28,
-    "type": "house",
-    "name": "Блядское логово",
-    "owner": "Larres_Juarez",
-    "status": "Занято",
-    "x": -2234.63,
-    "y": 870.7579,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11032,7 +11032,7 @@
     "server_id": 28,
     "type": "house",
     "name": "home 4",
-    "owner": "Ariel_Sheriff",
+    "owner": "Icy_Thuger",
     "status": "Занято",
     "x": -2307.24,
     "y": 944.2639,
@@ -11476,7 +11476,7 @@
     "server_id": 28,
     "type": "house",
     "name": "ame blessee",
-    "owner": "Bite_Gromov",
+    "owner": "Artema_Details",
     "status": "Занято",
     "x": -2187.12,
     "y": 743.71,
@@ -18952,7 +18952,7 @@
     "server_id": 28,
     "type": "house",
     "name": "home 3",
-    "owner": "Ariel_Sheriff",
+    "owner": "Icy_Thuger",
     "status": "Занято",
     "x": 2437.04,
     "y": 1241.14,
@@ -21123,7 +21123,7 @@
     "id": 1769,
     "server_id": 28,
     "type": "house",
-    "name": "майн ферма 9 лвл ",
+    "name": "[eq",
     "owner": "Kostik_Avtorazborka",
     "status": "Занято",
     "x": 1907.73,
@@ -22272,6 +22272,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 354,
+    "server_id": 28,
+    "type": "house",
+    "name": "Блядское логoво",
+    "owner": "Larres_Juarez",
+    "status": "Аукцион",
+    "x": 1280.86,
+    "y": -874.8439,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 375,
     "server_id": 28,
     "type": "house",
@@ -22308,18 +22320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 545,
-    "server_id": 28,
-    "type": "house",
-    "name": "Большущий дядя мальчик",
-    "owner": "Muctep_Islam",
-    "status": "Аукцион",
-    "x": -36.0457,
-    "y": 1115.65,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 642,
     "server_id": 28,
     "type": "house",
@@ -22332,15 +22332,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 827,
+    "id": 833,
     "server_id": 28,
     "type": "house",
-    "name": "DOMDOM",
-    "owner": "Travis_Viper",
+    "name": "Блядское логово",
+    "owner": "Larres_Juarez",
     "status": "Аукцион",
-    "x": -2724.29,
-    "y": -58.0475,
-    "price": 150000000,
+    "x": -2234.63,
+    "y": 870.7579,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
