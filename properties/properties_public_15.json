@@ -7344,6 +7344,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 612,
+    "server_id": 15,
+    "type": "house",
+    "name": "owned by kimura",
+    "owner": "Rocket_McCloud",
+    "status": "Занято",
+    "x": -830.166,
+    "y": 1589.46,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 613,
     "server_id": 15,
     "type": "house",
@@ -17787,7 +17799,7 @@
     "id": 1485,
     "server_id": 15,
     "type": "house",
-    "name": "Ghetto Home",
+    "name": "vivienne house",
     "owner": "Vivienne_Oxford",
     "status": "Занято",
     "x": 2469.18,
@@ -17799,7 +17811,7 @@
     "id": 1486,
     "server_id": 15,
     "type": "house",
-    "name": "Ghetto Home",
+    "name": "vivienne house",
     "owner": "Vivienne_Oxford",
     "status": "Занято",
     "x": 2470.37,
@@ -21300,18 +21312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 612,
-    "server_id": 15,
-    "type": "house",
-    "name": "owned by kimura",
-    "owner": "Vova_Kilimandjaro",
-    "status": "Аукцион",
-    "x": -830.166,
-    "y": 1589.46,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1446,
     "server_id": 15,
     "type": "house",
@@ -21345,6 +21345,30 @@
     "x": -2625.72,
     "y": 209.242,
     "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 118,
+    "server_id": 15,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Max_Fantom",
+    "status": "Аукцион",
+    "x": -2093.7,
+    "y": -2464.91,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 164,
+    "server_id": 15,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Max_Fantom",
+    "status": "Аукцион",
+    "x": -2624.67,
+    "y": 1412.73,
+    "price": 160000,
     "district": "Сан-Андреас"
   },
   {
@@ -21452,18 +21476,6 @@
     "status": "Занято",
     "x": -2051.91,
     "y": 553.746,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 118,
-    "server_id": 15,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Max_Fantom",
-    "status": "Занято",
-    "x": -2093.7,
-    "y": -2464.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21668,18 +21680,6 @@
     "status": "Занято",
     "x": 1940.01,
     "y": -2116.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 164,
-    "server_id": 15,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Max_Fantom",
-    "status": "Занято",
-    "x": -2624.67,
-    "y": 1412.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23152,7 +23152,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Son_Parker",
+    "owner": "Bober_Morgue",
     "status": "Занято",
     "x": -2356.45,
     "y": 1008.19,

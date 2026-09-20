@@ -9420,18 +9420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 787,
-    "server_id": 24,
-    "type": "house",
-    "name": "OLEG HOUSE",
-    "owner": "Sila_Repa",
-    "status": "Занято",
-    "x": -2543.58,
-    "y": 922.2329,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 788,
     "server_id": 24,
     "type": "house",
@@ -11036,18 +11024,6 @@
     "status": "Занято",
     "x": -2280.46,
     "y": 1130.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 923,
-    "server_id": 24,
-    "type": "house",
-    "name": "Допка Sunrise",
-    "owner": "Sunrise_Extazz",
-    "status": "Занято",
-    "x": -2239.14,
-    "y": 1154.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22032,6 +22008,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 787,
+    "server_id": 24,
+    "type": "house",
+    "name": "OLEG HOUSE",
+    "owner": "Sila_Repa",
+    "status": "Аукцион",
+    "x": -2543.58,
+    "y": 922.2329,
+    "price": 600123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 923,
+    "server_id": 24,
+    "type": "house",
+    "name": "Допка Sunrise",
+    "owner": "Sunrise_Extazz",
+    "status": "Аукцион",
+    "x": -2239.14,
+    "y": 1154.01,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1389,
     "server_id": 24,
     "type": "house",
@@ -22041,18 +22041,6 @@
     "x": 1115.72,
     "y": -1570.0,
     "price": 15555,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 206,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Ethan_Extazz",
-    "status": "Аукцион",
-    "x": 1381.1,
-    "y": -1805.03,
-    "price": 70000,
     "district": "Сан-Андреас"
   },
   {
@@ -25160,6 +25148,18 @@
     "status": "Занято",
     "x": 1136.92,
     "y": -1750.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 206,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Leonel_Sweet",
+    "status": "Занято",
+    "x": 1381.1,
+    "y": -1805.03,
     "price": 0,
     "district": "Сан-Андреас"
   },

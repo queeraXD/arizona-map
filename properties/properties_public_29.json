@@ -2784,6 +2784,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 232,
+    "server_id": 29,
+    "type": "house",
+    "name": "#2016",
+    "owner": "Fuzze_Qq",
+    "status": "Занято",
+    "x": 552.9169,
+    "y": -1200.29,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 233,
     "server_id": 29,
     "type": "house",
@@ -4984,22 +4996,10 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Azamat_Bogatov",
+    "owner": "Jarvis_Wilson",
     "status": "Занято",
     "x": 1303.1,
     "y": 186.9129,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 417,
-    "server_id": 29,
-    "type": "house",
-    "name": "#2016",
-    "owner": "Fuzze_Qq",
-    "status": "Занято",
-    "x": 1294.67,
-    "y": 174.8339,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5036,18 +5036,6 @@
     "status": "Занято",
     "x": 1299.13,
     "y": 141.296,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 421,
-    "server_id": 29,
-    "type": "house",
-    "name": "#2016",
-    "owner": "Fuzze_Qq",
-    "status": "Занято",
-    "x": 1308.05,
-    "y": 152.9629,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5247,8 +5235,8 @@
     "id": 438,
     "server_id": 29,
     "type": "house",
-    "name": "Оргия мух",
-    "owner": "Muha_Avialinii",
+    "name": "Visconti Empire",
+    "owner": "Pharaon_Visconti",
     "status": "Занято",
     "x": 228.067,
     "y": -1405.5,
@@ -6460,7 +6448,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Opressor_Mkll",
+    "owner": "Sinister_Larpov",
     "status": "Занято",
     "x": 2037.05,
     "y": 2663.99,
@@ -12640,7 +12628,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Дрочильня",
-    "owner": "Azamat_Bogatov",
+    "owner": "Jarvis_Wilson",
     "status": "Занято",
     "x": -1927.71,
     "y": 1252.78,
@@ -17412,10 +17400,22 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1456,
+    "server_id": 29,
+    "type": "house",
+    "name": "10 лвл",
+    "owner": "Dying_Graviano",
+    "status": "Занято",
+    "x": 927.994,
+    "y": 2414.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1457,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
+    "name": "Graviano La Elite",
     "owner": "Dying_Graviano",
     "status": "Занято",
     "x": 981.5859,
@@ -17427,7 +17427,7 @@
     "id": 1458,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
+    "name": "Graviano La Elite",
     "owner": "Dying_Graviano",
     "status": "Занято",
     "x": 985.283,
@@ -20116,7 +20116,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Rei_Wolters",
+    "owner": "Sashka_Jones",
     "status": "Занято",
     "x": 2473.09,
     "y": -1391.71,
@@ -21060,15 +21060,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 232,
+    "id": 417,
     "server_id": 29,
     "type": "house",
-    "name": "Дом Кирюши",
-    "owner": "Blitz_Mood",
+    "name": "#2016",
+    "owner": "Fuzze_Qq",
     "status": "Аукцион",
-    "x": 552.9169,
-    "y": -1200.29,
-    "price": 1000000000,
+    "x": 1294.67,
+    "y": 174.8339,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 421,
+    "server_id": 29,
+    "type": "house",
+    "name": "#2016",
+    "owner": "Fuzze_Qq",
+    "status": "Аукцион",
+    "x": 1308.05,
+    "y": 152.9629,
+    "price": 650000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21108,18 +21120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1456,
-    "server_id": 29,
-    "type": "house",
-    "name": "10 лвл",
-    "owner": "Vova_BabyTron",
-    "status": "Аукцион",
-    "x": 927.994,
-    "y": 2414.26,
-    "price": 550000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1660,
     "server_id": 29,
     "type": "house",
@@ -21128,7 +21128,7 @@
     "status": "Аукцион",
     "x": 2468.25,
     "y": -1424.58,
-    "price": 650000000,
+    "price": 550000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21144,15 +21144,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 298,
+    "id": 192,
     "server_id": 29,
     "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Crazy_Thoughts",
+    "name": "Ларек с уличной едой",
+    "owner": "Sweet_Tea",
     "status": "Аукцион",
-    "x": 2452.42,
-    "y": 2065.05,
-    "price": 250000,
+    "x": 1136.97,
+    "y": -1456.62,
+    "price": 220000,
     "district": "Сан-Андреас"
   },
   {
@@ -22004,6 +22004,18 @@
     "status": "Занято",
     "x": 2097.67,
     "y": 2224.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 298,
+    "server_id": 29,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Crazy_Thoughts",
+    "status": "Занято",
+    "x": 2452.42,
+    "y": 2065.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24068,18 +24080,6 @@
     "status": "Занято",
     "x": 1143.17,
     "y": -1473.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 192,
-    "server_id": 29,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Sweet_Tea",
-    "status": "Занято",
-    "x": 1136.97,
-    "y": -1456.62,
     "price": 0,
     "district": "Сан-Андреас"
   },

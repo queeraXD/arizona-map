@@ -2076,18 +2076,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 173,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Misha_WarZone",
-    "status": "Занято",
-    "x": 794.132,
-    "y": -1707.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 174,
     "server_id": 5,
     "type": "house",
@@ -2240,18 +2228,6 @@
     "status": "Занято",
     "x": 768.0759,
     "y": -1655.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 188,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Misha_WarZone",
-    "status": "Занято",
-    "x": 769.1149,
-    "y": -1696.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14292,18 +14268,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1196,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nalik_Black",
-    "status": "Занято",
-    "x": -906.4069,
-    "y": -1826.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1197,
     "server_id": 5,
     "type": "house",
@@ -21048,18 +21012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1760,
-    "server_id": 5,
-    "type": "house",
-    "name": "MASONKA",
-    "owner": "Morphius_Mackenzie",
-    "status": "Занято",
-    "x": -2361.44,
-    "y": 251.6199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1761,
     "server_id": 5,
     "type": "house",
@@ -21728,18 +21680,6 @@
     "status": "Занято",
     "x": 2826.08,
     "y": 2134.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1817,
-    "server_id": 5,
-    "type": "house",
-    "name": "Zloy Deluxe",
-    "owner": "Bogdan_Lovecov",
-    "status": "Занято",
-    "x": 2826.08,
-    "y": 2140.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24687,7 +24627,7 @@
     "id": 2064,
     "server_id": 5,
     "type": "house",
-    "name": "Дом",
+    "name": "Ферма",
     "owner": "Morphius_Mackenzie",
     "status": "Занято",
     "x": -77.3582,
@@ -25032,6 +24972,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 173,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Misha_WarZone",
+    "status": "Аукцион",
+    "x": 794.132,
+    "y": -1707.45,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 179,
     "server_id": 5,
     "type": "house",
@@ -25041,6 +24993,18 @@
     "x": 656.023,
     "y": -1636.08,
     "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 188,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Misha_WarZone",
+    "status": "Аукцион",
+    "x": 769.1149,
+    "y": -1696.62,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25092,6 +25056,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1196,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nalik_Black",
+    "status": "Аукцион",
+    "x": -906.4069,
+    "y": -1826.94,
+    "price": 6000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1563,
     "server_id": 5,
     "type": "house",
@@ -25101,6 +25077,30 @@
     "x": 2462.77,
     "y": 134.779,
     "price": 8000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1760,
+    "server_id": 5,
+    "type": "house",
+    "name": "MASONKA",
+    "owner": "Morphius_Mackenzie",
+    "status": "Аукцион",
+    "x": -2361.44,
+    "y": 251.6199,
+    "price": 200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1817,
+    "server_id": 5,
+    "type": "house",
+    "name": "Zloy Deluxe",
+    "owner": "Bogdan_Lovecov",
+    "status": "Аукцион",
+    "x": 2826.08,
+    "y": 2140.74,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {

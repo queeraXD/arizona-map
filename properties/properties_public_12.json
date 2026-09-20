@@ -9916,7 +9916,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Дом кавбасы",
-    "owner": "Daniil_Kolbasenko",
+    "owner": "Kolbasenko_Inside",
     "status": "Занято",
     "x": -2720.98,
     "y": -23.3173,
@@ -9944,6 +9944,18 @@
     "status": "Занято",
     "x": -2723.0,
     "y": 4.0472,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 832,
+    "server_id": 12,
+    "type": "house",
+    "name": "HOMESFg",
+    "owner": "Nick_Eighteen",
+    "status": "Занято",
+    "x": -2234.38,
+    "y": 888.869,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21891,7 +21903,7 @@
     "id": 1829,
     "server_id": 12,
     "type": "house",
-    "name": "HOME",
+    "name": "HOMELS",
     "owner": "Nick_Eighteen",
     "status": "Занято",
     "x": 2492.18,
@@ -22419,7 +22431,7 @@
     "id": 1874,
     "server_id": 12,
     "type": "house",
-    "name": "Anarchist",
+    "name": "Привет медвед",
     "owner": "Bomshik_Gattuso",
     "status": "Занято",
     "x": 1798.84,
@@ -23784,18 +23796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 832,
-    "server_id": 12,
-    "type": "house",
-    "name": "Ферма 13",
-    "owner": "Jonu_Ton",
-    "status": "Аукцион",
-    "x": -2234.38,
-    "y": 888.869,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 937,
     "server_id": 12,
     "type": "house",
@@ -23841,30 +23841,6 @@
     "x": 2515.7,
     "y": 1088.17,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 81,
-    "server_id": 12,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Andrey_ThrillSmoke",
-    "status": "Аукцион",
-    "x": 2101.89,
-    "y": 2228.81,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 137,
-    "server_id": 12,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Andrey_ThrillSmoke",
-    "status": "Аукцион",
-    "x": 2637.25,
-    "y": 1129.68,
-    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25236,6 +25212,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 137,
+    "server_id": 12,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Fyodor_Krylov",
+    "status": "Занято",
+    "x": 2637.25,
+    "y": 1129.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 249,
     "server_id": 12,
     "type": "business",
@@ -25556,6 +25544,18 @@
     "status": "Занято",
     "x": 2638.3,
     "y": 1671.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 81,
+    "server_id": 12,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Sidoji_Johnson",
+    "status": "Занято",
+    "x": 2101.89,
+    "y": 2228.81,
     "price": 0,
     "district": "Сан-Андреас"
   },

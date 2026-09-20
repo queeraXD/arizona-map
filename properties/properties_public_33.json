@@ -1467,7 +1467,7 @@
     "id": 122,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "Вся улица не продается",
     "owner": "Jose_Mendoza",
     "status": "Занято",
     "x": -2421.42,
@@ -3440,6 +3440,18 @@
     "status": "Занято",
     "x": 2259.37,
     "y": -1019.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 287,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kostyan_Eclipse",
+    "status": "Занято",
+    "x": 2491.35,
+    "y": -1012.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7740,6 +7752,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 648,
+    "server_id": 33,
+    "type": "house",
+    "name": "Youtube-TikTok: Mini Perekup",
+    "owner": "Mini_Perekup",
+    "status": "Занято",
+    "x": 2449.23,
+    "y": 689.8359,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 649,
     "server_id": 33,
     "type": "house",
@@ -10191,7 +10215,7 @@
     "id": 855,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "Вся улица не продается",
     "owner": "Jose_Mendoza",
     "status": "Занято",
     "x": -2479.74,
@@ -11152,7 +11176,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "New_Gen",
+    "owner": "Matvey_Space",
     "status": "Занято",
     "x": -2127.05,
     "y": 773.752,
@@ -11200,7 +11224,7 @@
     "server_id": 33,
     "type": "house",
     "name": ":fire:ВАНЧИК БОЛВАНЧИК:fire:",
-    "owner": "New_Gen",
+    "owner": "Matvey_Space",
     "status": "Занято",
     "x": -2048.26,
     "y": 796.4689,
@@ -11547,7 +11571,7 @@
     "id": 970,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "не продаю",
     "owner": "Lautaro_Martinez",
     "status": "Занято",
     "x": -2379.32,
@@ -11571,7 +11595,7 @@
     "id": 972,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "Вся улица не продается",
     "owner": "Jose_Mendoza",
     "status": "Занято",
     "x": -2398.35,
@@ -12588,18 +12612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1057,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bulatka_Femboy",
-    "status": "Занято",
-    "x": -1970.43,
-    "y": 1273.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1058,
     "server_id": 33,
     "type": "house",
@@ -12812,6 +12824,18 @@
     "status": "Занято",
     "x": -2900.45,
     "y": 1056.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1076,
+    "server_id": 33,
+    "type": "house",
+    "name": "Coffe",
+    "owner": "Axelx_Skywalker",
+    "status": "Занято",
+    "x": -2901.54,
+    "y": 1033.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22440,18 +22464,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 287,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kostyan_Eclipse",
-    "status": "Аукцион",
-    "x": 2491.35,
-    "y": -1012.34,
-    "price": 450000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 629,
     "server_id": 33,
     "type": "house",
@@ -22461,18 +22473,6 @@
     "x": -207.4239,
     "y": 1119.16,
     "price": 3500228123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 648,
-    "server_id": 33,
-    "type": "house",
-    "name": "JesusHouse",
-    "owner": "Artem_Pudchenko",
-    "status": "Аукцион",
-    "x": 2449.23,
-    "y": 689.8359,
-    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22488,15 +22488,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1076,
+    "id": 1057,
     "server_id": 33,
     "type": "house",
-    "name": "Coffe",
-    "owner": "Boss",
+    "name": "Дом",
+    "owner": "Bulatka_Femboy",
     "status": "Аукцион",
-    "x": -2901.54,
-    "y": 1033.81,
-    "price": 350000000,
+    "x": -1970.43,
+    "y": 1273.05,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

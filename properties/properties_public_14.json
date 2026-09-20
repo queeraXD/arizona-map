@@ -1408,7 +1408,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Blood Empire",
-    "owner": "Huckleberry_Blood",
+    "owner": "Bear_Blood",
     "status": "Занято",
     "x": 2532.77,
     "y": 1507.69,
@@ -7552,7 +7552,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Божественный Гошан",
-    "owner": "Huckleberry_Blood",
+    "owner": "Bear_Blood",
     "status": "Занято",
     "x": -207.4239,
     "y": 1119.16,
@@ -10560,18 +10560,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 880,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дача Катчера",
-    "owner": "Adolf_Miller",
-    "status": "Занято",
-    "x": 2807.98,
-    "y": -1176.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 881,
     "server_id": 14,
     "type": "house",
@@ -10580,6 +10568,18 @@
     "status": "Занято",
     "x": 2808.02,
     "y": -1190.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 882,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jackk_Black",
+    "status": "Занято",
+    "x": 2847.13,
+    "y": -1309.75,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23676,15 +23676,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 882,
+    "id": 880,
     "server_id": 14,
     "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Netanyahu",
+    "name": "Дача Катчера",
+    "owner": "Adolf_Miller",
     "status": "Аукцион",
-    "x": 2847.13,
-    "y": -1309.75,
-    "price": 1500000000,
+    "x": 2807.98,
+    "y": -1176.4,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25012,7 +25012,7 @@
     "server_id": 14,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Huckleberry_Blood",
+    "owner": "Bear_Blood",
     "status": "Занято",
     "x": 1374.87,
     "y": 469.264,
