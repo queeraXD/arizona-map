@@ -2332,7 +2332,7 @@
     "server_id": 24,
     "type": "house",
     "name": "House Masonov",
-    "owner": "Levik_Masonov",
+    "owner": "Nox_Nostra",
     "status": "Занято",
     "x": 206.955,
     "y": -1769.83,
@@ -7284,6 +7284,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 607,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Eugene_Macedonsky",
+    "status": "Занято",
+    "x": -1603.7,
+    "y": 2689.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 608,
     "server_id": 24,
     "type": "house",
@@ -9176,6 +9188,18 @@
     "status": "Занято",
     "x": -2660.11,
     "y": 803.0839,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 766,
+    "server_id": 24,
+    "type": "house",
+    "name": "Brooks and Blackseekers.",
+    "owner": "Eugene_Macedonsky",
+    "status": "Занято",
+    "x": -2687.81,
+    "y": 803.0819,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16608,6 +16632,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1389,
+    "server_id": 24,
+    "type": "house",
+    "name": "Home Prospero",
+    "owner": "Prospero_Deeplace",
+    "status": "Занято",
+    "x": 1115.72,
+    "y": -1570.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1390,
     "server_id": 24,
     "type": "house",
@@ -17504,18 +17540,6 @@
     "status": "Занято",
     "x": 1109.01,
     "y": -1575.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1465,
-    "server_id": 24,
-    "type": "house",
-    "name": "  12",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": 2532.24,
-    "y": 750.0969,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20628,18 +20652,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1726,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ilya_Grant",
-    "status": "Занято",
-    "x": 1738.35,
-    "y": 2861.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1727,
     "server_id": 24,
     "type": "house",
@@ -21984,30 +21996,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 607,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Eugene_Macedonsky",
-    "status": "Аукцион",
-    "x": -1603.7,
-    "y": 2689.76,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 766,
-    "server_id": 24,
-    "type": "house",
-    "name": "Brooks and Blackseekers.",
-    "owner": "Eugene_Macedonsky",
-    "status": "Аукцион",
-    "x": -2687.81,
-    "y": 803.0819,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 787,
     "server_id": 24,
     "type": "house",
@@ -22032,15 +22020,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1389,
+    "id": 1465,
     "server_id": 24,
     "type": "house",
-    "name": "Home Prospero",
-    "owner": "Prospero_Deeplace",
+    "name": "  12",
+    "owner": "Night_Sosiska",
     "status": "Аукцион",
-    "x": 1115.72,
-    "y": -1570.0,
-    "price": 15555,
+    "x": 2532.24,
+    "y": 750.0969,
+    "price": 300123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1726,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ilya_Grant",
+    "status": "Аукцион",
+    "x": 1738.35,
+    "y": 2861.66,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
