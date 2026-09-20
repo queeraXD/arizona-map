@@ -6828,18 +6828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 569,
-    "server_id": 21,
-    "type": "house",
-    "name": "Cortez | Village",
-    "owner": "After_Hours",
-    "status": "Занято",
-    "x": 452.07,
-    "y": 1246.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 570,
     "server_id": 21,
     "type": "house",
@@ -8384,18 +8372,6 @@
     "status": "Занято",
     "x": 1407.6,
     "y": 2524.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 699,
-    "server_id": 21,
-    "type": "house",
-    "name": "Peach Home",
-    "owner": "After_Hours",
-    "status": "Занято",
-    "x": 1417.82,
-    "y": 2567.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10208,18 +10184,6 @@
     "status": "Занято",
     "x": -2222.18,
     "y": 1163.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 851,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "After_Hours",
-    "status": "Занято",
-    "x": -2189.26,
-    "y": 1164.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21912,6 +21876,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 569,
+    "server_id": 21,
+    "type": "house",
+    "name": "Cortez | Village",
+    "owner": "After_Hours",
+    "status": "Аукцион",
+    "x": 452.07,
+    "y": 1246.99,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 699,
+    "server_id": 21,
+    "type": "house",
+    "name": "Peach Home",
+    "owner": "After_Hours",
+    "status": "Аукцион",
+    "x": 1417.82,
+    "y": 2567.98,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 851,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "After_Hours",
+    "status": "Аукцион",
+    "x": -2189.26,
+    "y": 1164.27,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1076,
     "server_id": 21,
     "type": "house",
@@ -24628,7 +24628,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Отель",
-    "owner": "Ham_Dragon",
+    "owner": "Wizi_Prime",
     "status": "Занято",
     "x": 2097.389,
     "y": 2170.27,
@@ -24940,7 +24940,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Logica_Nevermore",
+    "owner": "Medium_Woong",
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,

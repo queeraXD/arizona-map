@@ -6268,7 +6268,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Extra House",
-    "owner": "Mops_Extra",
+    "owner": "Brian_Sadness",
     "status": "Занято",
     "x": 2049.55,
     "y": 2763.94,
@@ -9344,18 +9344,6 @@
     "status": "Занято",
     "x": -2513.5,
     "y": 849.1569,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 785,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": -2513.5,
-    "y": 867.418,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12756,6 +12744,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1070,
+    "server_id": 19,
+    "type": "house",
+    "name": "Butcher",
+    "owner": "John_Ramirez",
+    "status": "Занято",
+    "x": -2905.16,
+    "y": 1165.02,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1071,
     "server_id": 19,
     "type": "house",
@@ -14852,6 +14852,18 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1244.73,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1251,
+    "server_id": 19,
+    "type": "house",
+    "name": "HITMAN",
+    "owner": "Kimmi_Toxiclamee",
+    "status": "Занято",
+    "x": -2351.14,
+    "y": 1226.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21888,15 +21900,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1070,
+    "id": 785,
     "server_id": 19,
     "type": "house",
-    "name": "Butcher",
-    "owner": "Routine_Swarovski",
+    "name": "Дом",
+    "owner": "Despair_Empressions",
     "status": "Аукцион",
-    "x": -2905.16,
-    "y": 1165.02,
-    "price": 20000000,
+    "x": -2513.5,
+    "y": 867.418,
+    "price": 120000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21957,18 +21969,6 @@
     "x": -2477.91,
     "y": 1301.16,
     "price": 100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1251,
-    "server_id": 19,
-    "type": "house",
-    "name": "HITMAN",
-    "owner": "Kimmi_Toxiclamee",
-    "status": "Аукцион",
-    "x": -2351.14,
-    "y": 1226.39,
-    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22065,30 +22065,6 @@
     "x": 2515.7,
     "y": 1088.17,
     "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 94,
-    "server_id": 19,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Routine_Swarovski",
-    "status": "Аукцион",
-    "x": 1966.2,
-    "y": 1623.14,
-    "price": 4000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 182,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Brutto_Asylum",
-    "status": "Аукцион",
-    "x": 1104.78,
-    "y": 1380.93,
-    "price": 9000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22400,6 +22376,18 @@
     "status": "Занято",
     "x": 2506.95,
     "y": 2120.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 94,
+    "server_id": 19,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Routine_Swarovski",
+    "status": "Занято",
+    "x": 1966.2,
+    "y": 1623.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24884,6 +24872,18 @@
     "status": "Занято",
     "x": 2029.71,
     "y": 986.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 182,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Brutto_Asylum",
+    "status": "Занято",
+    "x": 1104.78,
+    "y": 1380.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
