@@ -9280,7 +9280,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Divine House #1",
-    "owner": "Ami_Terasu",
+    "owner": "Ami_Tsukuyomi",
     "status": "Занято",
     "x": -2622.52,
     "y": 782.702,
@@ -14476,7 +14476,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Divine House #2",
-    "owner": "Ami_Terasu",
+    "owner": "Ami_Tsukuyomi",
     "status": "Занято",
     "x": -2433.03,
     "y": 1264.19,
@@ -15136,7 +15136,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Divine House #3",
-    "owner": "Ami_Terasu",
+    "owner": "Ami_Tsukuyomi",
     "status": "Занято",
     "x": -2278.83,
     "y": 787.827,
@@ -23668,7 +23668,7 @@
     "server_id": 2,
     "type": "house",
     "name": "КОТТЕДЖ ПАНТЕРЫ",
-    "owner": "Ami_Terasu",
+    "owner": "Ami_Tsukuyomi",
     "status": "Занято",
     "x": -76.791,
     "y": 974.4689,
@@ -23964,18 +23964,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 266,
-    "server_id": 2,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Brian_Alvarez",
-    "status": "Аукцион",
-    "x": 947.921,
-    "y": 1719.16,
-    "price": 200000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 357,
     "server_id": 2,
     "type": "business",
@@ -23985,6 +23973,18 @@
     "x": 693.619,
     "y": 1967.68,
     "price": 155555,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 2,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Tlm_Really",
+    "status": "Аукцион",
+    "x": -2103.59,
+    "y": -2342.04,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -26076,18 +26076,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 358,
-    "server_id": 2,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Tlm_Really",
-    "status": "Занято",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 39,
     "server_id": 2,
     "type": "business",
@@ -27176,6 +27164,18 @@
     "status": "Занято",
     "x": 2824.77,
     "y": 1290.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 266,
+    "server_id": 2,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Brian_Alvarez",
+    "status": "Занято",
+    "x": 947.921,
+    "y": 1719.16,
     "price": 0,
     "district": "Сан-Андреас"
   },

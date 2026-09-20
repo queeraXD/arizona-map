@@ -4140,30 +4140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 345,
-    "server_id": 25,
-    "type": "house",
-    "name": "продам за дорага",
-    "owner": "Oleksii_Dashkivskyi",
-    "status": "Занято",
-    "x": 1245.81,
-    "y": -902.788,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 346,
-    "server_id": 25,
-    "type": "house",
-    "name": "Алтайское посольство в США",
-    "owner": "Eternity_Continental",
-    "status": "Занято",
-    "x": 1252.6,
-    "y": -901.893,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 347,
     "server_id": 25,
     "type": "house",
@@ -6056,6 +6032,18 @@
     "status": "Занято",
     "x": 1314.4,
     "y": 1930.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 505,
+    "server_id": 25,
+    "type": "house",
+    "name": "крiпта",
+    "owner": "Drake_Yujinberg",
+    "status": "Занято",
+    "x": 1364.25,
+    "y": 1969.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10896,18 +10884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 910,
-    "server_id": 25,
-    "type": "house",
-    "name": "Общежитие Ком.Партии ",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": -2126.8,
-    "y": 1032.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 911,
     "server_id": 25,
     "type": "house",
@@ -11468,18 +11444,6 @@
     "status": "Занято",
     "x": -2211.09,
     "y": 933.7139,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 958,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Wyatt_Jack",
-    "status": "Занято",
-    "x": -2229.52,
-    "y": 934.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23748,15 +23712,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 505,
+    "id": 345,
     "server_id": 25,
     "type": "house",
-    "name": "крiпта",
+    "name": "продам за дорага",
+    "owner": "Oleksii_Dashkivskyi",
+    "status": "Аукцион",
+    "x": 1245.81,
+    "y": -902.788,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 346,
+    "server_id": 25,
+    "type": "house",
+    "name": "Алтайское посольство в США",
+    "owner": "Oleksii_Dashkivskyi",
+    "status": "Аукцион",
+    "x": 1252.6,
+    "y": -901.893,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 910,
+    "server_id": 25,
+    "type": "house",
+    "name": "Общежитие Ком.Партии ",
+    "owner": "Kolya_Infinity",
+    "status": "Аукцион",
+    "x": -2126.8,
+    "y": 1032.62,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 958,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
     "owner": "Wyatt_Jack",
     "status": "Аукцион",
-    "x": 1364.25,
-    "y": 1969.15,
-    "price": 300000000,
+    "x": -2229.52,
+    "y": 934.32,
+    "price": 240000000,
     "district": "Сан-Андреас"
   },
   {

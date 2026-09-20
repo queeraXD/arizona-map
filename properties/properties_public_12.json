@@ -7416,6 +7416,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 620,
+    "server_id": 12,
+    "type": "house",
+    "name": "Хижина",
+    "owner": "Gangster_Vendetta",
+    "status": "Занято",
+    "x": -886.291,
+    "y": 1514.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 621,
     "server_id": 12,
     "type": "house",
@@ -9915,8 +9927,8 @@
     "id": 829,
     "server_id": 12,
     "type": "house",
-    "name": "хата ",
-    "owner": "Jonu_Ton",
+    "name": "Дом кавбасы",
+    "owner": "Daniil_Kolbasenko",
     "status": "Занято",
     "x": -2720.98,
     "y": -23.3173,
@@ -11360,18 +11372,6 @@
     "status": "Занято",
     "x": -2159.84,
     "y": 1001.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 953,
-    "server_id": 12,
-    "type": "house",
-    "name": "Крутая халупа",
-    "owner": "Blooming_Jasmine",
-    "status": "Занято",
-    "x": -2160.15,
-    "y": 983.676,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14636,18 +14636,6 @@
     "status": "Занято",
     "x": -2840.23,
     "y": 884.609,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1226,
-    "server_id": 12,
-    "type": "house",
-    "name": "KULTURA NAPAPIJRI",
-    "owner": "Normalnyi_Paren",
-    "status": "Занято",
-    "x": -2843.22,
-    "y": 904.494,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23736,18 +23724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 620,
-    "server_id": 12,
-    "type": "house",
-    "name": "Хижина",
-    "owner": "Gangster_Vendetta",
-    "status": "Аукцион",
-    "x": -886.291,
-    "y": 1514.59,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 832,
     "server_id": 12,
     "type": "house",
@@ -23781,6 +23757,30 @@
     "x": -322.6199,
     "y": 2554.17,
     "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 953,
+    "server_id": 12,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Blooming_Jasmine",
+    "status": "Аукцион",
+    "x": -2160.15,
+    "y": 983.676,
+    "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1226,
+    "server_id": 12,
+    "type": "house",
+    "name": "KULTURA NAPAPIJRI",
+    "owner": "Normalnyi_Paren",
+    "status": "Аукцион",
+    "x": -2843.22,
+    "y": 904.494,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24748,7 +24748,7 @@
     "server_id": 12,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Blooming_Jasmine",
+    "owner": "Yaroslav_Frozen",
     "status": "Занято",
     "x": 2102.49,
     "y": 2257.4,
