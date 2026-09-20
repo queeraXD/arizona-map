@@ -4504,7 +4504,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Iosif_Dixon",
+    "owner": "Raf_Simons",
     "status": "Занято",
     "x": 2204.64,
     "y": 106.164,
@@ -5572,7 +5572,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Haunted House",
-    "owner": "Iosif_Dixon",
+    "owner": "Sirius_Cybernetik",
     "status": "Занято",
     "x": 2228.91,
     "y": 654.7739,
@@ -5908,7 +5908,7 @@
     "server_id": 28,
     "type": "house",
     "name": "AEZAKMI",
-    "owner": "Sergio_Cerezon",
+    "owner": "Sirius_Cybernetik",
     "status": "Занято",
     "x": 2042.4,
     "y": 731.6829,
@@ -7436,6 +7436,18 @@
     "status": "Занято",
     "x": -906.119,
     "y": 1514.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 620,
+    "server_id": 28,
+    "type": "house",
+    "name": "куплен доп шкаф",
+    "owner": "Turbo_Ww",
+    "status": "Занято",
+    "x": -886.291,
+    "y": 1514.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11532,18 +11544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 963,
-    "server_id": 28,
-    "type": "house",
-    "name": "ame blessee",
-    "owner": "Bite_Gromov",
-    "status": "Занято",
-    "x": -2187.12,
-    "y": 743.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 964,
     "server_id": 28,
     "type": "house",
@@ -12428,18 +12428,6 @@
     "status": "Занято",
     "x": 1911.59,
     "y": -464.2439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1038,
-    "server_id": 28,
-    "type": "house",
-    "name": "Deluxe",
-    "owner": "Bite_Gromov",
-    "status": "Занято",
-    "x": -1776.13,
-    "y": 1115.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22356,15 +22344,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 620,
+    "id": 963,
     "server_id": 28,
     "type": "house",
-    "name": "куплен доп шкаф",
-    "owner": "Turbo_Ww",
+    "name": "ame blessee",
+    "owner": "Bite_Gromov",
     "status": "Аукцион",
-    "x": -886.291,
-    "y": 1514.59,
-    "price": 80000000,
+    "x": -2187.12,
+    "y": 743.71,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1038,
+    "server_id": 28,
+    "type": "house",
+    "name": "Deluxe",
+    "owner": "Bite_Gromov",
+    "status": "Аукцион",
+    "x": -1776.13,
+    "y": 1115.2,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
