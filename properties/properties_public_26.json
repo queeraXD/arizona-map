@@ -3208,7 +3208,7 @@
     "server_id": 26,
     "type": "house",
     "name": "House number 1",
-    "owner": "Shah_Murasaki",
+    "owner": "Dimka_Balanda",
     "status": "Занято",
     "x": 1188.36,
     "y": -1011.85,
@@ -3400,7 +3400,7 @@
     "server_id": 26,
     "type": "house",
     "name": "House number 3",
-    "owner": "Shah_Murasaki",
+    "owner": "Dimka_Balanda",
     "status": "Занято",
     "x": 2462.37,
     "y": -1011.12,
@@ -5636,18 +5636,6 @@
     "status": "Занято",
     "x": 2398.27,
     "y": 736.0989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 472,
-    "server_id": 26,
-    "type": "house",
-    "name": "Kazuto",
-    "owner": "Mishka_Worchun",
-    "status": "Занято",
-    "x": 2369.06,
-    "y": 734.939,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10469,10 +10457,10 @@
     "type": "house",
     "name": "40 squad",
     "owner": "Pahan_Servera",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2791.9,
     "y": -134.468,
-    "price": 100000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -11944,7 +11932,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Архипелаг Грёз",
-    "owner": "Shah_Murasaki",
+    "owner": "Dimka_Balanda",
     "status": "Занято",
     "x": -2373.26,
     "y": 872.018,
@@ -15005,10 +14993,10 @@
     "type": "house",
     "name": "МАЙНИНГ 1",
     "owner": "Mister_Prikolist",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2303.41,
     "y": 679.963,
-    "price": 100123123,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -15836,18 +15824,6 @@
     "status": "Занято",
     "x": 1447.38,
     "y": 361.768,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1325,
-    "server_id": 26,
-    "type": "house",
-    "name": "курымдык",
-    "owner": "Ara_Mun",
-    "status": "Занято",
-    "x": 1461.16,
-    "y": 342.493,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25128,6 +25104,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1325,
+    "server_id": 26,
+    "type": "house",
+    "name": "курымдык",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1461.16,
+    "y": 342.493,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 251,
     "server_id": 26,
     "type": "house",
@@ -25149,6 +25137,18 @@
     "x": 2203.11,
     "y": -89.2798,
     "price": 420000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 472,
+    "server_id": 26,
+    "type": "house",
+    "name": "Kazuto",
+    "owner": "Mishka_Worchun",
+    "status": "Аукцион",
+    "x": 2369.06,
+    "y": 734.939,
+    "price": 99000001,
     "district": "Сан-Андреас"
   },
   {
