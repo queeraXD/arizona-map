@@ -6387,7 +6387,7 @@
     "id": 533,
     "server_id": 3,
     "type": "house",
-    "name": "FULL 5LVL(BTC)",
+    "name": "Дом",
     "owner": "Mike_MacKenzie",
     "status": "Занято",
     "x": 1950.82,
@@ -9619,18 +9619,6 @@
     "owner": "Akari_Watanabe",
     "status": "Занято",
     "x": -2321.73,
-    "y": 820.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 803,
-    "server_id": 3,
-    "type": "house",
-    "name": "Хата Angel",
-    "owner": "Wayne_Continental",
-    "status": "Занято",
-    "x": -2303.43,
     "y": 820.036,
     "price": 0,
     "district": "Сан-Андреас"
@@ -15171,7 +15159,7 @@
     "id": 1267,
     "server_id": 3,
     "type": "house",
-    "name": "drugden >2<",
+    "name": "FightClub",
     "owner": "Kisue_Durden",
     "status": "Занято",
     "x": -1565.13,
@@ -18384,6 +18372,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1536,
+    "server_id": 3,
+    "type": "house",
+    "name": "Mr.Osobov",
+    "owner": "Roberto_Osobov",
+    "status": "Занято",
+    "x": -761.627,
+    "y": 1613.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1537,
     "server_id": 3,
     "type": "house",
@@ -18644,6 +18644,18 @@
     "status": "Занято",
     "x": -2431.27,
     "y": 921.4229,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1559,
+    "server_id": 3,
+    "type": "house",
+    "name": "ConorCity",
+    "owner": "Alex_Pollard",
+    "status": "Занято",
+    "x": -2294.99,
+    "y": 969.984,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21384,6 +21396,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1790,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kyo_Ousuke",
+    "status": "Занято",
+    "x": 2700.21,
+    "y": -1233.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1791,
     "server_id": 3,
     "type": "house",
@@ -23856,6 +23880,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1998,
+    "server_id": 3,
+    "type": "house",
+    "name": "Илья Заводчанин",
+    "owner": "Ilya_Zavodchanin",
+    "status": "Занято",
+    "x": 6.7891,
+    "y": 1009.02,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1999,
     "server_id": 3,
     "type": "house",
@@ -23904,6 +23940,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 803,
+    "server_id": 3,
+    "type": "house",
+    "name": "Хата Angel",
+    "owner": "Wayne_Continental",
+    "status": "Аукцион",
+    "x": -2303.43,
+    "y": 820.036,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 891,
     "server_id": 3,
     "type": "house",
@@ -23925,30 +23973,6 @@
     "x": -2576.38,
     "y": -145.694,
     "price": 720000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1536,
-    "server_id": 3,
-    "type": "house",
-    "name": "Илья Заводчанин",
-    "owner": "Ilya_Zavodchanin",
-    "status": "Аукцион",
-    "x": -761.627,
-    "y": 1613.16,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1559,
-    "server_id": 3,
-    "type": "house",
-    "name": "ConorCity",
-    "owner": "Alex_Pollard",
-    "status": "Аукцион",
-    "x": -2294.99,
-    "y": 969.984,
-    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23976,18 +24000,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1790,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kyo_Ousuke",
-    "status": "Аукцион",
-    "x": 2700.21,
-    "y": -1233.66,
-    "price": 500123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1902,
     "server_id": 3,
     "type": "house",
@@ -23997,18 +24009,6 @@
     "x": 767.7059,
     "y": 2007.61,
     "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1998,
-    "server_id": 3,
-    "type": "house",
-    "name": "Илья Заводчанин",
-    "owner": "Ilya_Zavodchanin",
-    "status": "Аукцион",
-    "x": 6.7891,
-    "y": 1009.02,
-    "price": 690000,
     "district": "Сан-Андреас"
   },
   {

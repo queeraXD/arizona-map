@@ -360,18 +360,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 30,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Image_Material",
-    "status": "Занято",
-    "x": 2153.86,
-    "y": -1243.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 31,
     "server_id": 16,
     "type": "house",
@@ -9288,18 +9276,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 774,
-    "server_id": 16,
-    "type": "house",
-    "name": "Markelovani",
-    "owner": "Image_Material",
-    "status": "Занято",
-    "x": -2621.68,
-    "y": 802.908,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 775,
     "server_id": 16,
     "type": "house",
@@ -9992,18 +9968,6 @@
     "status": "Занято",
     "x": -2234.38,
     "y": 888.869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 833,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Image_Material",
-    "status": "Занято",
-    "x": -2234.63,
-    "y": 870.7579,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10892,18 +10856,6 @@
     "status": "Занято",
     "x": -2126.98,
     "y": 1014.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 909,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Image_Material",
-    "status": "Занято",
-    "x": -2168.8,
-    "y": 796.5159,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13012,7 +12964,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Vladimir_Kalmikov",
+    "owner": "Artem_Ledesmaro",
     "status": "Занято",
     "x": 1780.95,
     "y": 2744.99,
@@ -19764,18 +19716,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1649,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Image_Material",
-    "status": "Занято",
-    "x": 2368.77,
-    "y": 962.838,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1650,
     "server_id": 16,
     "type": "house",
@@ -22452,6 +22392,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 30,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Image_Material",
+    "status": "Аукцион",
+    "x": 2153.86,
+    "y": -1243.36,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 774,
+    "server_id": 16,
+    "type": "house",
+    "name": "Markelovani",
+    "owner": "Image_Material",
+    "status": "Аукцион",
+    "x": -2621.68,
+    "y": 802.908,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 833,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Image_Material",
+    "status": "Аукцион",
+    "x": -2234.63,
+    "y": 870.7579,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 909,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Image_Material",
+    "status": "Аукцион",
+    "x": -2168.8,
+    "y": 796.5159,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1263,
     "server_id": 16,
     "type": "house",
@@ -22461,6 +22449,18 @@
     "x": -2383.14,
     "y": 1299.71,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1649,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Image_Material",
+    "status": "Аукцион",
+    "x": 2368.77,
+    "y": 962.838,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {

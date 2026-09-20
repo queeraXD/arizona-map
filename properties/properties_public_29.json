@@ -3580,7 +3580,7 @@
     "server_id": 29,
     "type": "house",
     "name": "МАЙНИНГ 10 ЛВЛ ",
-    "owner": "Arbuznoe_Opg",
+    "owner": "Arbuz_Arbuzik",
     "status": "Занято",
     "x": 2092.26,
     "y": -1067.44,
@@ -9996,18 +9996,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 834,
-    "server_id": 29,
-    "type": "house",
-    "name": "10 LVL",
-    "owner": "Kosynoki_Rambery",
-    "status": "Занято",
-    "x": -2233.89,
-    "y": 849.1599,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 835,
     "server_id": 29,
     "type": "house",
@@ -11288,18 +11276,6 @@
     "status": "Занято",
     "x": -2018.45,
     "y": 784.7659,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 943,
-    "server_id": 29,
-    "type": "house",
-    "name": "brandon home",
-    "owner": "Brandon_Morrow",
-    "status": "Занято",
-    "x": -2018.3,
-    "y": 766.4459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17412,30 +17388,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1457,
-    "server_id": 29,
-    "type": "house",
-    "name": "10 лвл",
-    "owner": "Data_Fourhundredfour",
-    "status": "Занято",
-    "x": 981.5859,
-    "y": 2414.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1458,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bless_Vlone",
-    "status": "Занято",
-    "x": 985.283,
-    "y": 2367.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1459,
     "server_id": 29,
     "type": "house",
@@ -18992,18 +18944,6 @@
     "status": "Занято",
     "x": 2357.74,
     "y": 1653.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1589,
-    "server_id": 29,
-    "type": "house",
-    "name": "Брендон Хаус",
-    "owner": "Brandon_Morrow",
-    "status": "Занято",
-    "x": 2357.74,
-    "y": 1664.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21084,6 +21024,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 834,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kosynoki_Rambery",
+    "status": "Аукцион",
+    "x": -2233.89,
+    "y": 849.1599,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 933,
     "server_id": 29,
     "type": "house",
@@ -21093,6 +21045,18 @@
     "x": -2094.28,
     "y": 745.752,
     "price": 650123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 943,
+    "server_id": 29,
+    "type": "house",
+    "name": "brandon home",
+    "owner": "Brandon_Morrow",
+    "status": "Аукцион",
+    "x": -2018.3,
+    "y": 766.4459,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21132,6 +21096,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1457,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Data_Fourhundredfour",
+    "status": "Аукцион",
+    "x": 981.5859,
+    "y": 2414.26,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1458,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bless_Vlone",
+    "status": "Аукцион",
+    "x": 985.283,
+    "y": 2367.75,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1589,
+    "server_id": 29,
+    "type": "house",
+    "name": "Брендон Хаус",
+    "owner": "Brandon_Morrow",
+    "status": "Аукцион",
+    "x": 2357.74,
+    "y": 1664.38,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 13,
     "server_id": 29,
     "type": "business",
@@ -21141,6 +21141,30 @@
     "x": 2244.42,
     "y": -1665.12,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 155,
+    "server_id": 29,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Trap_Meff",
+    "status": "Аукцион",
+    "x": -2166.173,
+    "y": 243.5013,
+    "price": 270000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 467,
+    "server_id": 29,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Trap_Meff",
+    "status": "Аукцион",
+    "x": -2015.06,
+    "y": -2.1872,
+    "price": 270000,
     "district": "Сан-Андреас"
   },
   {
@@ -23748,18 +23772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 155,
-    "server_id": 29,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Trap_Meff",
-    "status": "Занято",
-    "x": -2166.173,
-    "y": 243.5013,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 156,
     "server_id": 29,
     "type": "business",
@@ -23888,18 +23900,6 @@
     "status": "Занято",
     "x": 1365.16,
     "y": -1859.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 467,
-    "server_id": 29,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Trap_Meff",
-    "status": "Занято",
-    "x": -2015.06,
-    "y": -2.1872,
     "price": 0,
     "district": "Сан-Андреас"
   },
