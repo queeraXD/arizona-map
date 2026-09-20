@@ -7416,18 +7416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 620,
-    "server_id": 12,
-    "type": "house",
-    "name": "Хижина",
-    "owner": "Gangster_Vendetta",
-    "status": "Занято",
-    "x": -886.291,
-    "y": 1514.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 621,
     "server_id": 12,
     "type": "house",
@@ -8148,18 +8136,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 681,
-    "server_id": 12,
-    "type": "house",
-    "name": "Автогонки",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": 985.354,
-    "y": 2343.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 682,
     "server_id": 12,
     "type": "house",
@@ -8804,18 +8780,6 @@
     "status": "Занято",
     "x": -2900.72,
     "y": 1067.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 736,
-    "server_id": 12,
-    "type": "house",
-    "name": "Ishigami family",
-    "owner": "Dexter_Ishigami",
-    "status": "Занято",
-    "x": -2899.14,
-    "y": 1026.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10356,6 +10320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 866,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 6",
+    "owner": "Dylan_Broker",
+    "status": "Занято",
+    "x": -340.7749,
+    "y": 2565.41,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 867,
     "server_id": 12,
     "type": "house",
@@ -10376,6 +10352,18 @@
     "status": "Занято",
     "x": -313.3299,
     "y": 2567.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 869,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 5",
+    "owner": "Dylan_Broker",
+    "status": "Занято",
+    "x": -322.6199,
+    "y": 2554.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11180,18 +11168,6 @@
     "status": "Занято",
     "x": -2127.05,
     "y": 773.752,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 937,
-    "server_id": 12,
-    "type": "house",
-    "name": "Ishigami family",
-    "owner": "Dexter_Ishigami",
-    "status": "Занято",
-    "x": -2112.62,
-    "y": 796.5349,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14848,7 +14824,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Дом",
-    "owner": "Kinder_Delice",
+    "owner": "Moonshine_Miracle",
     "status": "Занято",
     "x": -2433.03,
     "y": 1264.2,
@@ -22848,6 +22824,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1912,
+    "server_id": 12,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Miha_Chlenougodie",
+    "status": "Занято",
+    "x": 2643.81,
+    "y": 2195.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1913,
     "server_id": 12,
     "type": "house",
@@ -23000,6 +22988,18 @@
     "status": "Занято",
     "x": 2601.64,
     "y": 2192.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1926,
+    "server_id": 12,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Miha_Chlenougodie",
+    "status": "Занято",
+    "x": 2601.64,
+    "y": 2204.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23724,6 +23724,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 620,
+    "server_id": 12,
+    "type": "house",
+    "name": "Хижина",
+    "owner": "Gangster_Vendetta",
+    "status": "Аукцион",
+    "x": -886.291,
+    "y": 1514.59,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 681,
+    "server_id": 12,
+    "type": "house",
+    "name": "// photo squad //",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": 985.354,
+    "y": 2343.7,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 736,
+    "server_id": 12,
+    "type": "house",
+    "name": "Ishigami family",
+    "owner": "Dexter_Ishigami",
+    "status": "Аукцион",
+    "x": -2899.14,
+    "y": 1026.71,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 832,
     "server_id": 12,
     "type": "house",
@@ -23736,27 +23772,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 866,
+    "id": 937,
     "server_id": 12,
     "type": "house",
-    "name": "Broker 6",
-    "owner": "Dylan_Broker",
+    "name": "Ishigami family",
+    "owner": "Dexter_Ishigami",
     "status": "Аукцион",
-    "x": -340.7749,
-    "y": 2565.41,
-    "price": 15000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 869,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 5",
-    "owner": "Dylan_Broker",
-    "status": "Аукцион",
-    "x": -322.6199,
-    "y": 2554.17,
-    "price": 15000,
+    "x": -2112.62,
+    "y": 796.5349,
+    "price": 1000,
     "district": "Сан-Андреас"
   },
   {
@@ -23793,30 +23817,6 @@
     "x": 1784.51,
     "y": 2758.72,
     "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1912,
-    "server_id": 12,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Miha_Chlenougodie",
-    "status": "Аукцион",
-    "x": 2643.81,
-    "y": 2195.56,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1926,
-    "server_id": 12,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Miha_Chlenougodie",
-    "status": "Аукцион",
-    "x": 2601.64,
-    "y": 2204.01,
-    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {

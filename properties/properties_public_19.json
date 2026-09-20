@@ -3927,7 +3927,7 @@
     "id": 327,
     "server_id": 19,
     "type": "house",
-    "name": "Butchers",
+    "name": "40 squad",
     "owner": "Pari_Vision",
     "status": "Занято",
     "x": 342.376,
@@ -9636,18 +9636,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 807,
-    "server_id": 19,
-    "type": "house",
-    "name": "GARIK",
-    "owner": "Buba_Strax",
-    "status": "Занято",
-    "x": -2723.12,
-    "y": -112.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 808,
     "server_id": 19,
     "type": "house",
@@ -13068,18 +13056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1095,
-    "server_id": 19,
-    "type": "house",
-    "name": "Мишинина Хата",
-    "owner": "Zimbab_We",
-    "status": "Занято",
-    "x": -2224.84,
-    "y": 902.7009,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1096,
     "server_id": 19,
     "type": "house",
@@ -15056,6 +15032,18 @@
     "status": "Занято",
     "x": -2338.49,
     "y": 580.0319,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1266,
+    "server_id": 19,
+    "type": "house",
+    "name": "Katsu House",
+    "owner": "Sinister_Page",
+    "status": "Занято",
+    "x": -2320.15,
+    "y": 580.036,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18543,7 +18531,7 @@
     "id": 1557,
     "server_id": 19,
     "type": "house",
-    "name": "Дом",
+    "name": "свитой храм",
     "owner": "nikita_Frolov",
     "status": "Занято",
     "x": 1932.09,
@@ -18880,7 +18868,7 @@
     "server_id": 19,
     "type": "house",
     "name": "дом хаун",
-    "owner": "Sanzik_Vanzik",
+    "owner": "Sanhez_Venux",
     "status": "Занято",
     "x": 1732.26,
     "y": 2775.67,
@@ -19036,7 +19024,7 @@
     "server_id": 19,
     "type": "house",
     "name": "SVICOV DINASTY",
-    "owner": "Andrew_Svicov",
+    "owner": "Pizdaliz_Svicov",
     "status": "Занято",
     "x": 1722.4,
     "y": 2812.0,
@@ -19160,6 +19148,18 @@
     "status": "Занято",
     "x": 1743.61,
     "y": 2733.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1612,
+    "server_id": 19,
+    "type": "house",
+    "name": "Сollins",
+    "owner": "Pizdaliz_Svicov",
+    "status": "Занято",
+    "x": 1787.59,
+    "y": 2770.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19572,18 +19572,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1647,
-    "server_id": 19,
-    "type": "house",
-    "name": "Бардель три пилюли",
-    "owner": "Ssd_MvMe",
-    "status": "Занято",
-    "x": 1772.08,
-    "y": 2871.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1648,
     "server_id": 19,
     "type": "house",
@@ -19820,18 +19808,6 @@
     "status": "Занято",
     "x": 1847.04,
     "y": 2757.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1668,
-    "server_id": 19,
-    "type": "house",
-    "name": "lover by 666raskymar",
-    "owner": "Shadan_Page",
-    "status": "Занято",
-    "x": 1840.9,
-    "y": 2751.13,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20408,18 +20384,6 @@
     "status": "Занято",
     "x": 1534.72,
     "y": 2026.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1720,
-    "server_id": 19,
-    "type": "house",
-    "name": "Butchers",
-    "owner": "Buba_Strax",
-    "status": "Занято",
-    "x": 1542.27,
-    "y": 2026.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21816,14 +21780,38 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1266,
+    "id": 807,
     "server_id": 19,
     "type": "house",
-    "name": "Katsu House",
+    "name": "GARIK",
     "owner": "Государство",
     "status": "Свободно",
-    "x": -2320.15,
-    "y": 580.036,
+    "x": -2723.12,
+    "y": -112.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1668,
+    "server_id": 19,
+    "type": "house",
+    "name": "lover by 666raskymar",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1840.9,
+    "y": 2751.13,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1720,
+    "server_id": 19,
+    "type": "house",
+    "name": "Butchers",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1542.27,
+    "y": 2026.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21885,6 +21873,18 @@
     "x": -2158.98,
     "y": 866.3289,
     "price": 120000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1095,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zimbab_We",
+    "status": "Аукцион",
+    "x": -2224.84,
+    "y": 902.7009,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21984,15 +21984,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1612,
+    "id": 1647,
     "server_id": 19,
     "type": "house",
-    "name": "Сollins",
-    "owner": "Rino_Offline",
+    "name": "Бардель три пилюли",
+    "owner": "Ssd_MvMe",
     "status": "Аукцион",
-    "x": 1787.59,
-    "y": 2770.05,
-    "price": 3000000,
+    "x": 1772.08,
+    "y": 2871.23,
+    "price": 1,
     "district": "Сан-Андреас"
   },
   {

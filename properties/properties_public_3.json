@@ -8856,18 +8856,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 741,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Geralt_Rivs",
-    "status": "Занято",
-    "x": -2860.27,
-    "y": 835.6959,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 742,
     "server_id": 3,
     "type": "house",
@@ -9595,6 +9583,18 @@
     "owner": "Akari_Watanabe",
     "status": "Занято",
     "x": -2321.73,
+    "y": 820.036,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 803,
+    "server_id": 3,
+    "type": "house",
+    "name": "Домик гараж СФ",
+    "owner": "Andriy_Vines",
+    "status": "Занято",
+    "x": -2303.43,
     "y": 820.036,
     "price": 0,
     "district": "Сан-Андреас"
@@ -19896,18 +19896,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1666,
-    "server_id": 3,
-    "type": "house",
-    "name": "7 лвл майнинг",
-    "owner": "lmao",
-    "status": "Занято",
-    "x": 2615.11,
-    "y": -1220.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1667,
     "server_id": 3,
     "type": "house",
@@ -23940,15 +23928,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 803,
+    "id": 741,
     "server_id": 3,
     "type": "house",
-    "name": "Хата Angel",
-    "owner": "Wayne_Continental",
+    "name": "Дом",
+    "owner": "Geralt_Rivs",
     "status": "Аукцион",
-    "x": -2303.43,
-    "y": 820.036,
-    "price": 500000000,
+    "x": -2860.27,
+    "y": 835.6959,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23985,6 +23973,18 @@
     "x": -2576.38,
     "y": -145.694,
     "price": 720000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1666,
+    "server_id": 3,
+    "type": "house",
+    "name": "7 лвл майнинг",
+    "owner": "lmao",
+    "status": "Аукцион",
+    "x": 2615.11,
+    "y": -1220.47,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27160,7 +27160,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Euro_Ninetyone",
+    "owner": "Last_Hustle",
     "status": "Занято",
     "x": 1976.18,
     "y": -1980.19,
