@@ -3084,6 +3084,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 257,
+    "server_id": 32,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Oleg_Pivassik",
+    "status": "Занято",
+    "x": 2122.32,
+    "y": -970.3649,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 258,
     "server_id": 32,
     "type": "house",
@@ -6120,18 +6132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 513,
-    "server_id": 32,
-    "type": "house",
-    "name": "My house",
-    "owner": "Korrigan_Morse",
-    "status": "Занято",
-    "x": 1548.62,
-    "y": 2125.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 514,
     "server_id": 32,
     "type": "house",
@@ -7612,7 +7612,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Komar",
-    "owner": "Danya_Komar",
+    "owner": "Shh_KaiAngel",
     "status": "Занято",
     "x": 1535.16,
     "y": 2609.22,
@@ -20244,18 +20244,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1738,
-    "server_id": 32,
-    "type": "house",
-    "name": "all house",
-    "owner": "Korrigan_Morse",
-    "status": "Занято",
-    "x": -814.6309,
-    "y": 2752.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1739,
     "server_id": 32,
     "type": "house",
@@ -20600,6 +20588,18 @@
     "status": "Занято",
     "x": 1803.41,
     "y": 2855.52,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1768,
+    "server_id": 32,
+    "type": "house",
+    "name": "Уютный Домик",
+    "owner": "Serega_Piratik",
+    "status": "Занято",
+    "x": 1796.87,
+    "y": 2861.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21356,18 +21356,6 @@
     "status": "Занято",
     "x": 2613.64,
     "y": 2062.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1832,
-    "server_id": 32,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Korrigan_Morse",
-    "status": "Занято",
-    "x": 2613.64,
-    "y": 2053.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22284,18 +22272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 257,
-    "server_id": 32,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Oleg_Pivassik",
-    "status": "Аукцион",
-    "x": 2122.32,
-    "y": -970.3649,
-    "price": 900000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 403,
     "server_id": 32,
     "type": "house",
@@ -22317,6 +22293,18 @@
     "x": 2440.64,
     "y": -1057.33,
     "price": 1100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 513,
+    "server_id": 32,
+    "type": "house",
+    "name": "My house",
+    "owner": "Korrigan_Morse",
+    "status": "Аукцион",
+    "x": 1548.62,
+    "y": 2125.54,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22500,15 +22488,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1768,
+    "id": 1738,
     "server_id": 32,
     "type": "house",
-    "name": "Уютное гнёздышко ",
-    "owner": "Ichigo_Kurosakiu",
+    "name": "all house",
+    "owner": "Korrigan_Morse",
     "status": "Аукцион",
-    "x": 1796.87,
-    "y": 2861.7,
-    "price": 800000000,
+    "x": -814.6309,
+    "y": 2752.81,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1832,
+    "server_id": 32,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Korrigan_Morse",
+    "status": "Аукцион",
+    "x": 2613.64,
+    "y": 2053.44,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
