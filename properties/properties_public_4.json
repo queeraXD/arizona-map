@@ -9108,18 +9108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 759,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом Dimasa",
-    "owner": "Dimas_Efrem",
-    "status": "Занято",
-    "x": -2738.32,
-    "y": 801.5289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 760,
     "server_id": 4,
     "type": "house",
@@ -10516,7 +10504,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Рори ВанЛав SaxaraP",
-    "owner": "Liker_Dominators",
+    "owner": "Chu_Lochki",
     "status": "Занято",
     "x": -197.4149,
     "y": 2529.87,
@@ -11204,6 +11192,18 @@
     "status": "Занято",
     "x": -2241.27,
     "y": 786.0789,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 935,
+    "server_id": 4,
+    "type": "house",
+    "name": "Ramaz",
+    "owner": "Ramazz_Autovaz",
+    "status": "Занято",
+    "x": -2223.88,
+    "y": 796.3809,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23880,18 +23880,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1992,
-    "server_id": 4,
-    "type": "house",
-    "name": "Astrales :az:",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 2473.16,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1993,
     "server_id": 4,
     "type": "house",
@@ -25248,15 +25236,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 935,
+    "id": 759,
     "server_id": 4,
     "type": "house",
-    "name": "XMEGA",
-    "owner": "Richi_Grishko",
+    "name": "Дом Dimasa",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2738.32,
+    "y": 801.5289,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1992,
+    "server_id": 4,
+    "type": "house",
+    "name": "Astrales :az:",
+    "owner": "Lovec_Pisunov",
     "status": "Аукцион",
-    "x": -2223.88,
-    "y": 796.3809,
-    "price": 500000000,
+    "x": 2473.16,
+    "y": -1383.37,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
