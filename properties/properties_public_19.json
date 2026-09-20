@@ -3245,10 +3245,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Fernando_Alvares",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2628.1,
     "y": -1067.95,
-    "price": 250000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -4289,10 +4289,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Katrin_Vesna",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1288.35,
     "y": -873.8729,
-    "price": 5000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -7176,6 +7176,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 598,
+    "server_id": 19,
+    "type": "house",
+    "name": "SLEDEZZ",
+    "owner": "Ssd_MvMe",
+    "status": "Занято",
+    "x": -1466.16,
+    "y": 2693.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 599,
     "server_id": 19,
     "type": "house",
@@ -7505,10 +7517,10 @@
     "type": "house",
     "name": "Singer",
     "owner": "Katrin_Vesna",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 4.1448,
     "y": 1344.59,
-    "price": 2000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -12485,10 +12497,10 @@
     "type": "house",
     "name": "ART-House by Katrin_Vesna",
     "owner": "Katrin_Vesna",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -1742.51,
     "y": 1174.37,
-    "price": 2000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -15356,18 +15368,6 @@
     "status": "Занято",
     "x": -2686.82,
     "y": -188.091,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1282,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Routine_Swarovski",
-    "status": "Занято",
-    "x": -2620.77,
-    "y": -185.8979,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18664,11 +18664,11 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Artemka_NaLovle",
-    "status": "Аукцион",
+    "owner": "nikita_Frolov",
+    "status": "Занято",
     "x": 1932.09,
     "y": 663.577,
-    "price": 20123123,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -19505,10 +19505,10 @@
     "type": "house",
     "name": "SVICOV DINASTY",
     "owner": "Katrin_Vesna",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1809.71,
     "y": 2809.24,
-    "price": 1000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -19704,6 +19704,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1647,
+    "server_id": 19,
+    "type": "house",
+    "name": "Бардель три пилюли",
+    "owner": "Ssd_MvMe",
+    "status": "Занято",
+    "x": 1772.08,
+    "y": 2871.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1648,
     "server_id": 19,
     "type": "house",
@@ -19812,18 +19824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1657,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Routine_Swarovski",
-    "status": "Занято",
-    "x": 1890.22,
-    "y": 2800.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1658,
     "server_id": 19,
     "type": "house",
@@ -19865,10 +19865,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Katrin_Vesna",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1879.96,
     "y": 2790.31,
-    "price": 500,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -21996,27 +21996,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 598,
+    "id": 1282,
     "server_id": 19,
     "type": "house",
-    "name": "SLEDEZZ",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -1466.16,
-    "y": 2693.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1647,
-    "server_id": 19,
-    "type": "house",
-    "name": "Бардель три пилюли",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1772.08,
-    "y": 2871.23,
-    "price": 0,
+    "name": "Дом",
+    "owner": "Routine_Swarovski",
+    "status": "Аукцион",
+    "x": -2620.77,
+    "y": -185.8979,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22053,6 +22041,30 @@
     "x": 1737.22,
     "y": 2800.82,
     "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1657,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Routine_Swarovski",
+    "status": "Аукцион",
+    "x": 1890.22,
+    "y": 2800.72,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 94,
+    "server_id": 19,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Routine_Swarovski",
+    "status": "Аукцион",
+    "x": 1966.2,
+    "y": 1623.14,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22364,18 +22376,6 @@
     "status": "Занято",
     "x": 2506.95,
     "y": 2120.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 94,
-    "server_id": 19,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Routine_Swarovski",
-    "status": "Занято",
-    "x": 1966.2,
-    "y": 1623.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
