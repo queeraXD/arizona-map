@@ -22536,18 +22536,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 271,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Vadim_Fedulov",
-    "status": "Аукцион",
-    "x": -1912.17,
-    "y": 827.954,
-    "price": 137000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 0,
     "server_id": 32,
     "type": "business",
@@ -24552,6 +24540,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 271,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Vadim_Fedulov",
+    "status": "Занято",
+    "x": -1912.17,
+    "y": 827.954,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 272,
     "server_id": 32,
     "type": "business",
@@ -24832,7 +24832,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Магазин аксессуаров",
-    "owner": "Howa_Thug",
+    "owner": "Full_Tilt",
     "status": "Занято",
     "x": 1833.77,
     "y": -1843.24,

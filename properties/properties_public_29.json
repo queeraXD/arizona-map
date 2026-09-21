@@ -6760,7 +6760,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Aaron_Johnson",
+    "owner": "Data_Fourhundredfour",
     "status": "Занято",
     "x": 258.3089,
     "y": 1151.77,
@@ -9968,6 +9968,18 @@
     "status": "Занято",
     "x": -2234.63,
     "y": 870.7579,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 834,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kosynoki_Rambery",
+    "status": "Занято",
+    "x": -2233.89,
+    "y": 849.1599,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17080,7 +17092,7 @@
     "server_id": 29,
     "type": "house",
     "name": "LinkTeam",
-    "owner": "Temporalis_Glock",
+    "owner": "TpLink_Glock",
     "status": "Занято",
     "x": 1109.03,
     "y": -1557.39,
@@ -17228,18 +17240,6 @@
     "status": "Занято",
     "x": 1115.59,
     "y": -2252.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1442,
-    "server_id": 29,
-    "type": "house",
-    "name": "<3Golden House<3",
-    "owner": "Vladimir_Zelenskii",
-    "status": "Занято",
-    "x": 689.755,
-    "y": 1297.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21108,18 +21108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 834,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kosynoki_Rambery",
-    "status": "Аукцион",
-    "x": -2233.89,
-    "y": 849.1599,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1040,
     "server_id": 29,
     "type": "house",
@@ -21129,6 +21117,18 @@
     "x": -1727.98,
     "y": 1138.91,
     "price": 400123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1442,
+    "server_id": 29,
+    "type": "house",
+    "name": "<3Golden House<3",
+    "owner": "Vladimir_Zelenskii",
+    "status": "Аукцион",
+    "x": 689.755,
+    "y": 1297.17,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
