@@ -6648,18 +6648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 554,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Daniil_Higas",
-    "status": "Занято",
-    "x": 352.9729,
-    "y": 1099.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 555,
     "server_id": 1,
     "type": "house",
@@ -7400,6 +7388,18 @@
     "status": "Занято",
     "x": -684.244,
     "y": 939.393,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 617,
+    "server_id": 1,
+    "type": "house",
+    "name": "Katsuro Home",
+    "owner": "Kakash_MyLove",
+    "status": "Занято",
+    "x": -881.726,
+    "y": 1532.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24156,15 +24156,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 617,
+    "id": 554,
     "server_id": 1,
     "type": "house",
-    "name": "Katsuro Home",
-    "owner": "Kakash_MyLove",
-    "status": "Аукцион",
-    "x": -881.726,
-    "y": 1532.36,
-    "price": 25000,
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 352.9729,
+    "y": 1099.58,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -24189,6 +24189,18 @@
     "x": 2170.48,
     "y": 542.934,
     "price": 165000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 289,
+    "server_id": 1,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Motteo_Crips",
+    "status": "Аукцион",
+    "x": 2097.389,
+    "y": 2170.27,
+    "price": 320000,
     "district": "Сан-Андреас"
   },
   {
@@ -26864,18 +26876,6 @@
     "status": "Занято",
     "x": -2188.019,
     "y": -2264.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 289,
-    "server_id": 1,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Motteo_Crips",
-    "status": "Занято",
-    "x": 2097.389,
-    "y": 2170.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
