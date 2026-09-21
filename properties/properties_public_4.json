@@ -12588,18 +12588,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1052,
-    "server_id": 4,
-    "type": "house",
-    "name": "Long house",
-    "owner": "Earl_Long",
-    "status": "Занято",
-    "x": -2396.98,
-    "y": 1132.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1053,
     "server_id": 4,
     "type": "house",
@@ -12620,18 +12608,6 @@
     "status": "Занято",
     "x": -2573.0,
     "y": 1154.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1055,
-    "server_id": 4,
-    "type": "house",
-    "name": "gsx",
-    "owner": "Earl_Long",
-    "status": "Занято",
-    "x": -2506.3,
-    "y": 1141.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25256,7 +25232,31 @@
     "status": "Аукцион",
     "x": -2359.04,
     "y": 1117.85,
-    "price": 380000000,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1052,
+    "server_id": 4,
+    "type": "house",
+    "name": "Long house",
+    "owner": "Earl_Long",
+    "status": "Аукцион",
+    "x": -2396.98,
+    "y": 1132.72,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1055,
+    "server_id": 4,
+    "type": "house",
+    "name": "gsx",
+    "owner": "Earl_Long",
+    "status": "Аукцион",
+    "x": -2506.3,
+    "y": 1141.81,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {

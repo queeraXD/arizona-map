@@ -6672,18 +6672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 561,
-    "server_id": 19,
-    "type": "house",
-    "name": "дом у тюрьмы в пустыне",
-    "owner": "Sela_Vstan",
-    "status": "Занято",
-    "x": 222.9839,
-    "y": 1109.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 562,
     "server_id": 19,
     "type": "house",
@@ -14040,18 +14028,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1178,
-    "server_id": 19,
-    "type": "house",
-    "name": "Набор Архитектора",
-    "owner": "Lord_Gambino",
-    "status": "Занято",
-    "x": -458.9649,
-    "y": -1447.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1179,
     "server_id": 19,
     "type": "house",
@@ -14072,18 +14048,6 @@
     "status": "Занято",
     "x": -465.877,
     "y": -1484.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1181,
-    "server_id": 19,
-    "type": "house",
-    "name": "Набор Архитектора",
-    "owner": "Lord_Gambino",
-    "status": "Занято",
-    "x": -464.234,
-    "y": -1503.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14972,6 +14936,18 @@
     "status": "Занято",
     "x": -2303.41,
     "y": 679.963,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1256,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nik_Wers",
+    "status": "Занято",
+    "x": -2303.4,
+    "y": 656.7349,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18600,18 +18576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1559,
-    "server_id": 19,
-    "type": "house",
-    "name": "lunixnapike",
-    "owner": "Looks_Maxing",
-    "status": "Занято",
-    "x": 1945.53,
-    "y": 663.577,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1560,
     "server_id": 19,
     "type": "house",
@@ -18692,18 +18656,6 @@
     "status": "Занято",
     "x": 1957.05,
     "y": 724.6699,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1567,
-    "server_id": 19,
-    "type": "house",
-    "name": "Bounty Home",
-    "owner": "Bounty_Marlboro",
-    "status": "Занято",
-    "x": 1957.05,
-    "y": 731.299,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22020,6 +21972,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 561,
+    "server_id": 19,
+    "type": "house",
+    "name": "дом у тюрьмы в пустыне",
+    "owner": "Sela_Vstan",
+    "status": "Аукцион",
+    "x": 222.9839,
+    "y": 1109.19,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 613,
     "server_id": 19,
     "type": "house",
@@ -22044,15 +22008,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1256,
+    "id": 1178,
     "server_id": 19,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
+    "name": "Набор Архитектора",
+    "owner": "Lord_Gambino",
     "status": "Аукцион",
-    "x": -2303.4,
-    "y": 656.7349,
-    "price": 10000000,
+    "x": -458.9649,
+    "y": -1447.62,
+    "price": 2200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1181,
+    "server_id": 19,
+    "type": "house",
+    "name": "Набор Архитектора",
+    "owner": "Lord_Gambino",
+    "status": "Аукцион",
+    "x": -464.234,
+    "y": -1503.88,
+    "price": 2200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1559,
+    "server_id": 19,
+    "type": "house",
+    "name": "lunixnapike",
+    "owner": "Looks_Maxing",
+    "status": "Аукцион",
+    "x": 1945.53,
+    "y": 663.577,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1567,
+    "server_id": 19,
+    "type": "house",
+    "name": "Bounty Home",
+    "owner": "Bounty_Marlboro",
+    "status": "Аукцион",
+    "x": 1957.05,
+    "y": 731.299,
+    "price": 20123123,
     "district": "Сан-Андреас"
   },
   {

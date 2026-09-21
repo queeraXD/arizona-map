@@ -6528,18 +6528,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 544,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergio_White",
-    "status": "Занято",
-    "x": 1921.69,
-    "y": 2664.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 545,
     "server_id": 17,
     "type": "house",
@@ -7160,18 +7148,6 @@
     "status": "Занято",
     "x": -1459.18,
     "y": 2653.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 597,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergio_White",
-    "status": "Занято",
-    "x": -1450.71,
-    "y": 2691.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12476,18 +12452,6 @@
     "status": "Занято",
     "x": -1732.18,
     "y": 1114.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1040,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergio_White",
-    "status": "Занято",
-    "x": -1727.98,
-    "y": 1138.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22476,6 +22440,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 544,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergio_White",
+    "status": "Аукцион",
+    "x": 1921.69,
+    "y": 2664.64,
+    "price": 130000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 597,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergio_White",
+    "status": "Аукцион",
+    "x": -1450.71,
+    "y": 2691.05,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1040,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergio_White",
+    "status": "Аукцион",
+    "x": -1727.98,
+    "y": 1138.91,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 216,
+    "server_id": 17,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": 2327.86,
+    "y": 2421.25,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 17,
     "type": "business",
@@ -25628,18 +25640,6 @@
     "status": "Занято",
     "x": 1976.18,
     "y": -1980.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 216,
-    "server_id": 17,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": 2327.86,
-    "y": 2421.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
