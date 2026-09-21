@@ -6192,18 +6192,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 516,
-    "server_id": 33,
-    "type": "house",
-    "name": "Sergey_Pianzin",
-    "owner": "Sergey_Pianzin",
-    "status": "Занято",
-    "x": 1595.71,
-    "y": 2038.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 517,
     "server_id": 33,
     "type": "house",
@@ -7776,18 +7764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 649,
-    "server_id": 33,
-    "type": "house",
-    "name": "Sergey_Pianzin",
-    "owner": "Sergey_Pianzin",
-    "status": "Занято",
-    "x": 2450.27,
-    "y": 662.578,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 650,
     "server_id": 33,
     "type": "house",
@@ -9104,18 +9080,6 @@
     "status": "Занято",
     "x": -2700.33,
     "y": 820.8649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 762,
-    "server_id": 33,
-    "type": "house",
-    "name": "Sergey_Pianzin",
-    "owner": "Sergey_Pianzin",
-    "status": "Занято",
-    "x": -2667.07,
-    "y": 820.3189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11148,18 +11112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 935,
-    "server_id": 33,
-    "type": "house",
-    "name": "Sergey_Pianzin",
-    "owner": "Sergey_Pianzin",
-    "status": "Занято",
-    "x": -2126.66,
-    "y": 755.6099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 936,
     "server_id": 33,
     "type": "house",
@@ -11864,18 +11816,6 @@
     "status": "Занято",
     "x": -2340.07,
     "y": 797.5759,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 996,
-    "server_id": 33,
-    "type": "house",
-    "name": "Sergey_Pianzin",
-    "owner": "Sergey_Pianzin",
-    "status": "Занято",
-    "x": -2358.71,
-    "y": 796.9899,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13728,6 +13668,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1152,
+    "server_id": 33,
+    "type": "house",
+    "name": "ARZ LST",
+    "owner": "Axelx_Skywalker",
+    "status": "Занято",
+    "x": 289.6879,
+    "y": -1619.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1153,
     "server_id": 33,
     "type": "house",
@@ -15536,30 +15488,6 @@
     "status": "Занято",
     "x": -2590.53,
     "y": -186.0579,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1304,
-    "server_id": 33,
-    "type": "house",
-    "name": "Sergey_Pianzin",
-    "owner": "Sergey_Pianzin",
-    "status": "Занято",
-    "x": -2576.42,
-    "y": -198.7969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1305,
-    "server_id": 33,
-    "type": "house",
-    "name": "Sergey_Pianzin",
-    "owner": "Sergey_Pianzin",
-    "status": "Занято",
-    "x": -2558.56,
-    "y": -198.7969,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17979,7 +17907,7 @@
     "id": 1509,
     "server_id": 33,
     "type": "house",
-    "name": "MAksnes",
+    "name": "БП ХАТА",
     "owner": "Pablo_Cortez",
     "status": "Занято",
     "x": -2358.48,
@@ -22440,6 +22368,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 516,
+    "server_id": 33,
+    "type": "house",
+    "name": "Sergey_Pianzin",
+    "owner": "Sergey_Pianzin",
+    "status": "Аукцион",
+    "x": 1595.71,
+    "y": 2038.28,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 649,
+    "server_id": 33,
+    "type": "house",
+    "name": "Sergey_Pianzin",
+    "owner": "Sergey_Pianzin",
+    "status": "Аукцион",
+    "x": 2450.27,
+    "y": 662.578,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 762,
+    "server_id": 33,
+    "type": "house",
+    "name": "Sergey_Pianzin",
+    "owner": "Sergey_Pianzin",
+    "status": "Аукцион",
+    "x": -2667.07,
+    "y": 820.3189,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 891,
     "server_id": 33,
     "type": "house",
@@ -22464,6 +22428,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 935,
+    "server_id": 33,
+    "type": "house",
+    "name": "Sergey_Pianzin",
+    "owner": "Sergey_Pianzin",
+    "status": "Аукцион",
+    "x": -2126.66,
+    "y": 755.6099,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 973,
     "server_id": 33,
     "type": "house",
@@ -22473,6 +22449,18 @@
     "x": -2478.74,
     "y": 2488.76,
     "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 996,
+    "server_id": 33,
+    "type": "house",
+    "name": "Sergey_Pianzin",
+    "owner": "Sergey_Pianzin",
+    "status": "Аукцион",
+    "x": -2358.71,
+    "y": 796.9899,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22488,15 +22476,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1152,
+    "id": 1304,
     "server_id": 33,
     "type": "house",
-    "name": "arz lst",
-    "owner": "Drakon_Cucumber",
+    "name": "Sergey_Pianzin",
+    "owner": "Sergey_Pianzin",
     "status": "Аукцион",
-    "x": 289.6879,
-    "y": -1619.58,
-    "price": 200000000,
+    "x": -2576.42,
+    "y": -198.7969,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1305,
+    "server_id": 33,
+    "type": "house",
+    "name": "Sergey_Pianzin",
+    "owner": "Sergey_Pianzin",
+    "status": "Аукцион",
+    "x": -2558.56,
+    "y": -198.7969,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
