@@ -2208,18 +2208,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 184,
-    "server_id": 8,
-    "type": "house",
-    "name": "Brudberry <3",
-    "owner": "Bread_Blueberry",
-    "status": "Занято",
-    "x": 693.841,
-    "y": -1645.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 185,
     "server_id": 8,
     "type": "house",
@@ -3840,18 +3828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 323,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Idushchijkreke",
-    "status": "Занято",
-    "x": 776.6719,
-    "y": -503.492,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 324,
     "server_id": 8,
     "type": "house",
@@ -4304,18 +4280,6 @@
     "status": "Занято",
     "x": 903.398,
     "y": -1512.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 362,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом бедного",
-    "owner": "Zak_Rockefeller",
-    "status": "Занято",
-    "x": 849.689,
-    "y": -1519.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25752,6 +25716,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 184,
+    "server_id": 8,
+    "type": "house",
+    "name": "Brudberry <3",
+    "owner": "Bread_Blueberry",
+    "status": "Аукцион",
+    "x": 693.841,
+    "y": -1645.77,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 222,
     "server_id": 8,
     "type": "house",
@@ -25785,6 +25761,30 @@
     "x": 470.8739,
     "y": -1164.12,
     "price": 120000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 323,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Idushchijkreke",
+    "status": "Аукцион",
+    "x": 776.6719,
+    "y": -503.492,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 362,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом бедного",
+    "owner": "Zak_Rockefeller",
+    "status": "Аукцион",
+    "x": 849.689,
+    "y": -1519.95,
+    "price": 50000,
     "district": "Сан-Андреас"
   },
   {

@@ -1320,18 +1320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 110,
-    "server_id": 33,
-    "type": "house",
-    "name": "Jude",
-    "owner": "Jude_Murphy",
-    "status": "Занято",
-    "x": 2296.54,
-    "y": -1882.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 111,
     "server_id": 33,
     "type": "house",
@@ -7000,7 +6988,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Jessi_Pinkman",
+    "owner": "Bart_Drey",
     "status": "Занято",
     "x": -219.5899,
     "y": 2767.46,
@@ -8199,7 +8187,7 @@
     "id": 687,
     "server_id": 33,
     "type": "house",
-    "name": "продам тока после открытия вс",
+    "name": "не sell тока после открытия вс",
     "owner": "Aleksander_Stark",
     "status": "Занято",
     "x": 1265.52,
@@ -8696,18 +8684,6 @@
     "status": "Занято",
     "x": 1618.29,
     "y": 2801.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 731,
-    "server_id": 33,
-    "type": "house",
-    "name": "Словлен на открытии",
-    "owner": "Eazy_Reyes",
-    "status": "Занято",
-    "x": 1588.46,
-    "y": 2797.61,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10596,6 +10572,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 891,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kostik_Bursevich",
+    "status": "Занято",
+    "x": -2069.91,
+    "y": -2494.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 892,
     "server_id": 33,
     "type": "house",
@@ -10928,6 +10916,18 @@
     "status": "Занято",
     "x": -2281.41,
     "y": 1046.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 920,
+    "server_id": 33,
+    "type": "house",
+    "name": "домик с набором архитектором",
+    "owner": "Eurofighter_Typhoon",
+    "status": "Занято",
+    "x": -2282.39,
+    "y": 1070.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21288,6 +21288,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1820,
+    "server_id": 33,
+    "type": "house",
+    "name": "ШКАФ",
+    "owner": "Grant_Nightingale",
+    "status": "Занято",
+    "x": 2645.53,
+    "y": 2019.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1821,
     "server_id": 33,
     "type": "house",
@@ -22356,6 +22368,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 110,
+    "server_id": 33,
+    "type": "house",
+    "name": "Jude",
+    "owner": "Jude_Murphy",
+    "status": "Аукцион",
+    "x": 2296.54,
+    "y": -1882.34,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 516,
     "server_id": 33,
     "type": "house",
@@ -22392,6 +22416,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 731,
+    "server_id": 33,
+    "type": "house",
+    "name": "Словлен на открытии",
+    "owner": "Eazy_Reyes",
+    "status": "Аукцион",
+    "x": 1588.46,
+    "y": 2797.61,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 762,
     "server_id": 33,
     "type": "house",
@@ -22401,30 +22437,6 @@
     "x": -2667.07,
     "y": 820.3189,
     "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 891,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ji_Soo",
-    "status": "Аукцион",
-    "x": -2069.91,
-    "y": -2494.76,
-    "price": 15000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 920,
-    "server_id": 33,
-    "type": "house",
-    "name": "домик с набором архитектором",
-    "owner": "Eurofighter_Typhoon",
-    "status": "Аукцион",
-    "x": -2282.39,
-    "y": 1070.59,
-    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22497,18 +22509,6 @@
     "x": 2601.64,
     "y": 2194.57,
     "price": 100123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1820,
-    "server_id": 33,
-    "type": "house",
-    "name": "ШКАФ",
-    "owner": "Peter_Parker",
-    "status": "Аукцион",
-    "x": 2645.53,
-    "y": 2019.21,
-    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
