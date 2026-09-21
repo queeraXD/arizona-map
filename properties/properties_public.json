@@ -8496,6 +8496,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 710,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Manya_Fearst",
+    "status": "Занято",
+    "x": 1610.94,
+    "y": 2648.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 711,
     "server_id": 33,
     "type": "house",
@@ -10632,18 +10644,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 891,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ji_Soo",
-    "status": "Занято",
-    "x": -2069.91,
-    "y": -2494.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 892,
     "server_id": 33,
     "type": "house",
@@ -10980,18 +10980,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 920,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Eurofighter_Typhoon",
-    "status": "Занято",
-    "x": -2282.39,
-    "y": 1070.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 921,
     "server_id": 33,
     "type": "house",
@@ -11176,7 +11164,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Matvey_Space",
+    "owner": "Matvey_Moon",
     "status": "Занято",
     "x": -2127.05,
     "y": 773.752,
@@ -11224,7 +11212,7 @@
     "server_id": 33,
     "type": "house",
     "name": ":fire:ВАНЧИК БОЛВАНЧИК:fire:",
-    "owner": "Matvey_Space",
+    "owner": "Matvey_Moon",
     "status": "Занято",
     "x": -2048.26,
     "y": 796.4689,
@@ -21396,18 +21384,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1820,
-    "server_id": 33,
-    "type": "house",
-    "name": "ШКАФ",
-    "owner": "Peter_Parker",
-    "status": "Занято",
-    "x": 2645.53,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1821,
     "server_id": 33,
     "type": "house",
@@ -22264,7 +22240,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Springs 2",
-    "owner": "Walter_White",
+    "owner": "Abaymba_Monopoly",
     "status": "Занято",
     "x": -85.5818,
     "y": 977.598,
@@ -22476,15 +22452,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 710,
+    "id": 891,
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Manya_Fearst",
+    "owner": "Ji_Soo",
     "status": "Аукцион",
-    "x": 1610.94,
-    "y": 2648.2,
-    "price": 900000123,
+    "x": -2069.91,
+    "y": -2494.76,
+    "price": 15000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 920,
+    "server_id": 33,
+    "type": "house",
+    "name": "домик с набором архитектором",
+    "owner": "Eurofighter_Typhoon",
+    "status": "Аукцион",
+    "x": -2282.39,
+    "y": 1070.59,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22509,6 +22497,18 @@
     "x": 289.6879,
     "y": -1619.58,
     "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1820,
+    "server_id": 33,
+    "type": "house",
+    "name": "ШКАФ",
+    "owner": "Peter_Parker",
+    "status": "Аукцион",
+    "x": 2645.53,
+    "y": 2019.21,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25156,7 +25156,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Отель",
-    "owner": "Pablo_Cortez",
+    "owner": "Matvey_Moon",
     "status": "Занято",
     "x": 2230.12,
     "y": -1795.36,
