@@ -6624,18 +6624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 552,
-    "server_id": 21,
-    "type": "house",
-    "name": "Домик возле шахты",
-    "owner": "Sila_Repa",
-    "status": "Занято",
-    "x": 465.75,
-    "y": 1147.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 553,
     "server_id": 21,
     "type": "house",
@@ -9555,8 +9543,8 @@
     "id": 798,
     "server_id": 21,
     "type": "house",
-    "name": "Гет",
-    "owner": "Angel_Rodriguez",
+    "name": "Abaldyi Fam",
+    "owner": "Gett_Abaldyi",
     "status": "Занято",
     "x": -2368.82,
     "y": 763.504,
@@ -19000,7 +18988,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Дом",
-    "owner": "Slatt_Taufuze",
+    "owner": "Pakistan_Market",
     "status": "Занято",
     "x": -2187.02,
     "y": 821.1339,
@@ -20372,18 +20360,6 @@
     "status": "Занято",
     "x": 2003.69,
     "y": 2163.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1703,
-    "server_id": 21,
-    "type": "house",
-    "name": "Уютное гнездышко Сони",
-    "owner": "Valentin_Antonovv",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2158.89,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21888,6 +21864,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 552,
+    "server_id": 21,
+    "type": "house",
+    "name": "Домик возле шахты",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 465.75,
+    "y": 1147.6,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 678,
     "server_id": 21,
     "type": "house",
@@ -21936,15 +21924,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 201,
+    "id": 1703,
     "server_id": 21,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Wizi_Prime",
+    "type": "house",
+    "name": "Уютное гнездышко Сони",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": -104.79,
-    "y": -309.98,
-    "price": 5000000123,
+    "x": 2003.69,
+    "y": 2158.89,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24992,6 +24980,18 @@
     "status": "Занято",
     "x": -1983.44,
     "y": 127.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 201,
+    "server_id": 21,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Mark_Morenno",
+    "status": "Занято",
+    "x": -104.79,
+    "y": -309.98,
     "price": 0,
     "district": "Сан-Андреас"
   },

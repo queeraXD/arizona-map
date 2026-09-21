@@ -532,7 +532,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Vishenka House CG",
-    "owner": "Thomas_Vishenka",
+    "owner": "Tom_Vishenka",
     "status": "Занято",
     "x": 2520.72,
     "y": -1197.44,
@@ -8704,7 +8704,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Vishenka House LVтср",
-    "owner": "Thomas_Vishenka",
+    "owner": "Tom_Vishenka",
     "status": "Занято",
     "x": 1672.98,
     "y": 2801.06,
@@ -10104,18 +10104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 846,
-    "server_id": 23,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "RasL_Dark",
-    "status": "Занято",
-    "x": -2191.59,
-    "y": 1080.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 847,
     "server_id": 23,
     "type": "house",
@@ -11016,18 +11004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 923,
-    "server_id": 23,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "RasL_Dark",
-    "status": "Занято",
-    "x": -2239.14,
-    "y": 1154.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 924,
     "server_id": 23,
     "type": "house",
@@ -11920,7 +11896,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Shady House",
-    "owner": "Thomas_Vishenka",
+    "owner": "Tom_Vishenka",
     "status": "Занято",
     "x": -2373.18,
     "y": 851.663,
@@ -21165,6 +21141,30 @@
     "x": -2687.81,
     "y": 803.0819,
     "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 846,
+    "server_id": 23,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "RasL_Dark",
+    "status": "Аукцион",
+    "x": -2191.59,
+    "y": 1080.32,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 923,
+    "server_id": 23,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "RasL_Dark",
+    "status": "Аукцион",
+    "x": -2239.14,
+    "y": 1154.01,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {

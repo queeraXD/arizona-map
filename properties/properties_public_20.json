@@ -424,7 +424,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "EbbIpb_TeppopucT",
+    "owner": "Slava_Rfki",
     "status": "Занято",
     "x": 2439.59,
     "y": -1357.21,
@@ -3356,18 +3356,6 @@
     "status": "Занято",
     "x": 2194.19,
     "y": -999.3109,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 280,
-    "server_id": 20,
-    "type": "house",
-    "name": "Simpson",
-    "owner": "Bart_Simpson",
-    "status": "Занято",
-    "x": 2413.57,
-    "y": 61.4468,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9364,7 +9352,7 @@
     "server_id": 20,
     "type": "house",
     "name": "х3 гараж и улучш.деп",
-    "owner": "Moto_Vladik",
+    "owner": "Vlad_Twink",
     "status": "Занято",
     "x": -2541.25,
     "y": 750.9169,
@@ -11468,18 +11456,6 @@
     "status": "Занято",
     "x": -2192.67,
     "y": 934.1019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 957,
-    "server_id": 20,
-    "type": "house",
-    "name": "спалка",
-    "owner": "Moto_Vladik",
-    "status": "Занято",
-    "x": -2211.09,
-    "y": 933.7139,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22344,6 +22320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 280,
+    "server_id": 20,
+    "type": "house",
+    "name": "Simpson",
+    "owner": "Bart_Simpson",
+    "status": "Аукцион",
+    "x": 2413.57,
+    "y": 61.4468,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 722,
     "server_id": 20,
     "type": "house",
@@ -22353,6 +22341,18 @@
     "x": 1663.37,
     "y": 2753.72,
     "price": 900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 957,
+    "server_id": 20,
+    "type": "house",
+    "name": "спалка",
+    "owner": "Moto_Vladik",
+    "status": "Аукцион",
+    "x": -2211.09,
+    "y": 933.7139,
+    "price": 400123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25204,7 +25204,7 @@
     "server_id": 20,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Shadow_Hunter",
+    "owner": "Pivopivo_Vodochka",
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,

@@ -5292,18 +5292,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 445,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Fernando_Alvares",
-    "status": "Занято",
-    "x": 2439.9,
-    "y": -1010.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 446,
     "server_id": 19,
     "type": "house",
@@ -6608,18 +6596,6 @@
     "status": "Занято",
     "x": 352.9729,
     "y": 1099.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 555,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Andrew_Svicov",
-    "status": "Занято",
-    "x": 1801.86,
-    "y": 2823.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21909,6 +21885,30 @@
     "x": 1288.35,
     "y": -873.8729,
     "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 445,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Fernando_Alvares",
+    "status": "Аукцион",
+    "x": 2439.9,
+    "y": -1010.88,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 555,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Andrew_Svicov",
+    "status": "Аукцион",
+    "x": 1801.86,
+    "y": 2823.5,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
