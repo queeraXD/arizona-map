@@ -7356,6 +7356,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 622,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом Насти Креветки",
+    "owner": "Velikiy_Dvizh",
+    "status": "Занято",
+    "x": -1051.59,
+    "y": 1549.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 623,
+    "server_id": 33,
+    "type": "house",
+    "name": "Настя креветка хаус",
+    "owner": "Velikiy_Dvizh",
+    "status": "Занято",
+    "x": -1499.93,
+    "y": 1960.46,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 624,
     "server_id": 33,
     "type": "house",
@@ -12651,7 +12675,7 @@
     "id": 1072,
     "server_id": 33,
     "type": "house",
-    "name": "Сoffe",
+    "name": "Medvedev 1",
     "owner": "Damian_Medvedev",
     "status": "Занято",
     "x": -2904.47,
@@ -13160,18 +13184,6 @@
     "status": "Занято",
     "x": 1817.63,
     "y": -1276.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1115,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hank_Andersen",
-    "status": "Занято",
-    "x": 1817.86,
-    "y": -1286.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14408,6 +14420,18 @@
     "status": "Занято",
     "x": -2843.22,
     "y": 904.4119,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1219,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Leeroy_Devaux",
+    "status": "Занято",
+    "x": -2904.81,
+    "y": 1111.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20727,8 +20751,8 @@
     "id": 1783,
     "server_id": 33,
     "type": "house",
-    "name": " Ember ebet",
-    "owner": "Jlexa_Tadjik",
+    "name": "GREY EMPIRE",
+    "owner": "Christian_Grey",
     "status": "Занято",
     "x": 2620.53,
     "y": 2185.54,
@@ -22344,30 +22368,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 622,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом Насти Креветки",
-    "owner": "Velikiy_Dvizh",
-    "status": "Аукцион",
-    "x": -1051.59,
-    "y": 1549.59,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 623,
-    "server_id": 33,
-    "type": "house",
-    "name": "Настя креветка хаус",
-    "owner": "Velikiy_Dvizh",
-    "status": "Аукцион",
-    "x": -1499.93,
-    "y": 1960.46,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 710,
     "server_id": 33,
     "type": "house",
@@ -22416,15 +22416,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1219,
+    "id": 1115,
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Breaker_Bulkin",
+    "owner": "Hank_Andersen",
     "status": "Аукцион",
-    "x": -2904.81,
-    "y": 1111.64,
-    "price": 300000000,
+    "x": 1817.86,
+    "y": -1286.76,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22509,30 +22509,6 @@
     "x": 2707.31,
     "y": -1202.99,
     "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 209,
-    "server_id": 33,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Pappa_Happa",
-    "status": "Аукцион",
-    "x": 1976.18,
-    "y": -1980.19,
-    "price": 5000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 309,
-    "server_id": 33,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Palaga_Novikov",
-    "status": "Аукцион",
-    "x": -1546.29,
-    "y": 591.994,
-    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23224,7 +23200,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Vasek_Buldozer",
+    "owner": "Joe_Yabuki",
     "status": "Занято",
     "x": -227.385,
     "y": 2711.95,
@@ -24436,7 +24412,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Crypto_Trader",
+    "owner": "Consligere_Atlas",
     "status": "Занято",
     "x": -2062.52,
     "y": -60.6291,
@@ -25680,6 +25656,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 209,
+    "server_id": 33,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Trage_Waltez",
+    "status": "Занято",
+    "x": 1976.18,
+    "y": -1980.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 216,
     "server_id": 33,
     "type": "business",
@@ -26280,6 +26268,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 309,
+    "server_id": 33,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Palaga_Novikov",
+    "status": "Занято",
+    "x": -1546.29,
+    "y": 591.994,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 310,
     "server_id": 33,
     "type": "business",
@@ -26416,7 +26416,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Рыболовный магазин",
-    "owner": "Monster_Energy",
+    "owner": "Vasek_Buldozer",
     "status": "Занято",
     "x": -2057.44,
     "y": -2464.48,
