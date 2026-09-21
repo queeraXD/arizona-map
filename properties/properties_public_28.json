@@ -4500,18 +4500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 375,
-    "server_id": 28,
-    "type": "house",
-    "name": "на пол с3ка",
-    "owner": "Raf_Simons",
-    "status": "Занято",
-    "x": 2204.64,
-    "y": 106.164,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 376,
     "server_id": 28,
     "type": "house",
@@ -7856,6 +7844,18 @@
     "status": "Занято",
     "x": 2065.71,
     "y": 650.2559,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 655,
+    "server_id": 28,
+    "type": "house",
+    "name": "Extazz",
+    "owner": "Floppa_Monday",
+    "status": "Занято",
+    "x": 2013.32,
+    "y": 730.669,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17404,7 +17404,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Деп Условия",
-    "owner": "Aleksej_Ivanovo",
+    "owner": "Seforolius_Lerned",
     "status": "Занято",
     "x": 885.424,
     "y": 2346.05,
@@ -18968,18 +18968,6 @@
     "status": "Занято",
     "x": 2437.04,
     "y": 1211.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1585,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kosynoki_Rambery",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1209.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21888,18 +21876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1830,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kent_Sworowski",
-    "status": "Занято",
-    "x": -115.554,
-    "y": 1046.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1831,
     "server_id": 28,
     "type": "house",
@@ -22320,15 +22296,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 655,
+    "id": 375,
     "server_id": 28,
     "type": "house",
-    "name": "Extazz",
-    "owner": "Bloodamare_Coramare",
+    "name": "на пол с3ка",
+    "owner": "Raf_Simons",
     "status": "Аукцион",
-    "x": 2013.32,
-    "y": 730.669,
-    "price": 150000000,
+    "x": 2204.64,
+    "y": 106.164,
+    "price": 777777777,
     "district": "Сан-Андреас"
   },
   {
@@ -22356,6 +22332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1585,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kosynoki_Rambery",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1209.88,
+    "price": 80000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1655,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22353,18 @@
     "x": 2826.08,
     "y": 2134.42,
     "price": 55123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1830,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kent_Sworowski",
+    "status": "Аукцион",
+    "x": -115.554,
+    "y": 1046.7,
+    "price": 1220000,
     "district": "Сан-Андреас"
   },
   {

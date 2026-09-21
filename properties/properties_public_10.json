@@ -7716,18 +7716,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 645,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": 1978.33,
-    "y": 715.1459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 646,
     "server_id": 10,
     "type": "house",
@@ -8876,18 +8864,6 @@
     "status": "Занято",
     "x": -2860.27,
     "y": 835.6959,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 742,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -2882.27,
-    "y": 779.971,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11148,18 +11124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 932,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -2017.94,
-    "y": 970.2399,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 933,
     "server_id": 10,
     "type": "house",
@@ -11624,18 +11588,6 @@
     "status": "Занято",
     "x": -2348.76,
     "y": 2423.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 972,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kashemir_NaBlock",
-    "status": "Занято",
-    "x": -2398.35,
-    "y": 2409.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15012,18 +14964,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1254,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 643.856,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1255,
     "server_id": 10,
     "type": "house",
@@ -18204,18 +18144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1521,
-    "server_id": 10,
-    "type": "house",
-    "name": "Зергей",
-    "owner": "Hiroto_Surprise",
-    "status": "Занято",
-    "x": 2750.39,
-    "y": -1222.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1522,
     "server_id": 10,
     "type": "house",
@@ -20868,18 +20796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1743,
-    "server_id": 10,
-    "type": "house",
-    "name": "Деп. условия",
-    "owner": "Zloy_Maxinator",
-    "status": "Занято",
-    "x": 1542.54,
-    "y": 1996.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1744,
     "server_id": 10,
     "type": "house",
@@ -23340,6 +23256,66 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 645,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": 1978.33,
+    "y": 715.1459,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 742,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -2882.27,
+    "y": 779.971,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 932,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -2017.94,
+    "y": 970.2399,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 972,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kashemir_NaBlock",
+    "status": "Аукцион",
+    "x": -2398.35,
+    "y": 2409.29,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1254,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 643.856,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1300,
     "server_id": 10,
     "type": "house",
@@ -23349,6 +23325,30 @@
     "x": -2541.46,
     "y": -198.798,
     "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1521,
+    "server_id": 10,
+    "type": "house",
+    "name": "Зергей",
+    "owner": "Hiroto_Surprise",
+    "status": "Аукцион",
+    "x": 2750.39,
+    "y": -1222.27,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1743,
+    "server_id": 10,
+    "type": "house",
+    "name": "Деп. условия",
+    "owner": "Zloy_Maxinator",
+    "status": "Аукцион",
+    "x": 1542.54,
+    "y": 1996.35,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
