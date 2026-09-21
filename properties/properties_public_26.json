@@ -4096,7 +4096,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Хранилище Пирата",
-    "owner": "Takeshi_Kyoto",
+    "owner": "San_Nesterov",
     "status": "Занято",
     "x": 746.4089,
     "y": 304.946,
@@ -12492,18 +12492,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1048,
-    "server_id": 26,
-    "type": "house",
-    "name": "Mining Corporation",
-    "owner": "Vitalya_faraway",
-    "status": "Занято",
-    "x": -1915.56,
-    "y": 1190.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1049,
     "server_id": 26,
     "type": "house",
@@ -14740,7 +14728,7 @@
     "server_id": 26,
     "type": "house",
     "name": "@Zacrutyi",
-    "owner": "Light_Art",
+    "owner": "Grafi_Kus",
     "status": "Занято",
     "x": -2433.99,
     "y": 1274.1,
@@ -14971,18 +14959,6 @@
     "owner": "Arizona_Hot",
     "status": "Занято",
     "x": -2321.75,
-    "y": 679.963,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1255,
-    "server_id": 26,
-    "type": "house",
-    "name": "МАЙНИНГ 1",
-    "owner": "Mister_Prikolist",
-    "status": "Занято",
-    "x": -2303.41,
     "y": 679.963,
     "price": 0,
     "district": "Сан-Андреас"
@@ -25173,6 +25149,30 @@
     "x": -2723.12,
     "y": -112.97,
     "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1048,
+    "server_id": 26,
+    "type": "house",
+    "name": "Mining Corporation",
+    "owner": "Vitalya_faraway",
+    "status": "Аукцион",
+    "x": -1915.56,
+    "y": 1190.1,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1255,
+    "server_id": 26,
+    "type": "house",
+    "name": "МАЙНИНГ 1",
+    "owner": "Mister_Prikolist",
+    "status": "Аукцион",
+    "x": -2303.41,
+    "y": 679.963,
+    "price": 50123123,
     "district": "Сан-Андреас"
   },
   {

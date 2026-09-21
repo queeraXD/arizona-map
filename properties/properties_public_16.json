@@ -3664,7 +3664,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Artist_Yellowside",
+    "owner": "Image_Material",
     "status": "Занято",
     "x": 2060.47,
     "y": -1076.7,
@@ -6028,7 +6028,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Artist_Yellowside",
+    "owner": "Jackson_Jey",
     "status": "Занято",
     "x": 1364.3,
     "y": 1931.64,
@@ -6212,18 +6212,6 @@
     "status": "Занято",
     "x": 1641.34,
     "y": 2044.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 518,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergey_Rims",
-    "status": "Занято",
-    "x": 1595.41,
-    "y": 2070.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6500,18 +6488,6 @@
     "status": "Занято",
     "x": 1518.73,
     "y": -92.9521,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 542,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergey_Rims",
-    "status": "Занято",
-    "x": 1969.7,
-    "y": 2663.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20400,6 +20376,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1701,
+    "server_id": 16,
+    "type": "house",
+    "name": "KAMAZOV DOMINATION <3<3",
+    "owner": "Fortuna_Kamazov",
+    "status": "Занято",
+    "x": 2818.53,
+    "y": 2141.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1702,
     "server_id": 16,
     "type": "house",
@@ -22428,15 +22416,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1701,
+    "id": 518,
     "server_id": 16,
     "type": "house",
-    "name": "ДЕП УСЛОВИЯ+НАБОР АРИСТОКРАТА",
-    "owner": "Slava_Yamaha",
+    "name": "Дом",
+    "owner": "Sergey_Rims",
     "status": "Аукцион",
-    "x": 2818.53,
-    "y": 2141.01,
-    "price": 800,
+    "x": 1595.41,
+    "y": 2070.99,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 542,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergey_Rims",
+    "status": "Аукцион",
+    "x": 1969.7,
+    "y": 2663.35,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {

@@ -792,18 +792,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 66,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mushkin_Pushkin",
-    "status": "Занято",
-    "x": 2451.93,
-    "y": -1641.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 67,
     "server_id": 33,
     "type": "house",
@@ -2792,18 +2780,6 @@
     "status": "Занято",
     "x": 470.8739,
     "y": -1164.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 234,
-    "server_id": 33,
-    "type": "house",
-    "name": "Deluxe",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": 416.519,
-    "y": -1154.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10480,7 +10456,7 @@
     "server_id": 33,
     "type": "house",
     "name": "OLX",
-    "owner": "Magnat_Pupkin",
+    "owner": "Lucas_Varano",
     "status": "Занято",
     "x": 2852.5,
     "y": -1365.96,
@@ -11948,18 +11924,6 @@
     "status": "Занято",
     "x": -2549.0,
     "y": 1145.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1009,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tics_Taffanel",
-    "status": "Занято",
-    "x": -2517.07,
-    "y": 1142.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21684,18 +21648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1853,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tics_Taffanel",
-    "status": "Занято",
-    "x": 2626.59,
-    "y": 1968.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1854,
     "server_id": 33,
     "type": "house",
@@ -22368,6 +22320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 66,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mushkin_Pushkin",
+    "status": "Аукцион",
+    "x": 2451.93,
+    "y": -1641.41,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 110,
     "server_id": 33,
     "type": "house",
@@ -22377,6 +22341,18 @@
     "x": 2296.54,
     "y": -1882.34,
     "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 234,
+    "server_id": 33,
+    "type": "house",
+    "name": "Deluxe",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 416.519,
+    "y": -1154.58,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22476,6 +22452,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1009,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tics_Taffanel",
+    "status": "Аукцион",
+    "x": -2517.07,
+    "y": 1142.17,
+    "price": 120000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1304,
     "server_id": 33,
     "type": "house",
@@ -22509,6 +22497,18 @@
     "x": 2601.64,
     "y": 2194.57,
     "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1853,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tics_Taffanel",
+    "status": "Аукцион",
+    "x": 2626.59,
+    "y": 1968.83,
+    "price": 80000000,
     "district": "Сан-Андреас"
   },
   {
