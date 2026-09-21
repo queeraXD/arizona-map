@@ -792,6 +792,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 66,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mushkin_Pushkin",
+    "status": "Занято",
+    "x": 2451.93,
+    "y": -1641.41,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 67,
     "server_id": 33,
     "type": "house",
@@ -6028,7 +6040,7 @@
     "server_id": 33,
     "type": "house",
     "name": "A/Scalfaro #1",
-    "owner": "Aist_Magnat",
+    "owner": "Big_Bulls",
     "status": "Занято",
     "x": 1364.26,
     "y": 2022.81,
@@ -8412,18 +8424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 710,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Manya_Fearst",
-    "status": "Занято",
-    "x": 1610.94,
-    "y": 2648.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 711,
     "server_id": 33,
     "type": "house",
@@ -10560,18 +10560,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 891,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kostik_Bursevich",
-    "status": "Занято",
-    "x": -2069.91,
-    "y": -2494.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 892,
     "server_id": 33,
     "type": "house",
@@ -11396,18 +11384,6 @@
     "status": "Занято",
     "x": -2158.94,
     "y": 769.9379,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 961,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mushkin_Pushkin",
-    "status": "Занято",
-    "x": -2158.17,
-    "y": 753.703,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14964,18 +14940,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1260,
-    "server_id": 33,
-    "type": "house",
-    "name": "дом 1",
-    "owner": "Platon_Baton",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 643.8189,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1261,
     "server_id": 33,
     "type": "house",
@@ -15272,18 +15236,6 @@
     "status": "Занято",
     "x": -2621.02,
     "y": -134.798,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1286,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mushkin_Pushkin",
-    "status": "Занято",
-    "x": -2619.75,
-    "y": -127.581,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22380,18 +22332,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 66,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mushkin_Pushkin",
-    "status": "Аукцион",
-    "x": 2451.93,
-    "y": -1641.41,
-    "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 174,
     "server_id": 33,
     "type": "house",
@@ -22464,6 +22404,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 710,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Manya_Fearst",
+    "status": "Аукцион",
+    "x": 1610.94,
+    "y": 2648.2,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 891,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kostik_Bursevich",
+    "status": "Аукцион",
+    "x": -2069.91,
+    "y": -2494.76,
+    "price": 280000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 961,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mushkin_Pushkin",
+    "status": "Аукцион",
+    "x": -2158.17,
+    "y": 753.703,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1057,
     "server_id": 33,
     "type": "house",
@@ -22485,6 +22461,30 @@
     "x": -2904.81,
     "y": 1111.64,
     "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1260,
+    "server_id": 33,
+    "type": "house",
+    "name": "дом 1",
+    "owner": "Platon_Baton",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 643.8189,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1286,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mushkin_Pushkin",
+    "status": "Аукцион",
+    "x": -2619.75,
+    "y": -127.581,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22520,6 +22520,18 @@
     "status": "Аукцион",
     "x": 1976.18,
     "y": -1980.19,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 297,
+    "server_id": 33,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Naldon_Legenda",
+    "status": "Аукцион",
+    "x": 2330.401,
+    "y": 2166.094,
     "price": 5000000000,
     "district": "Сан-Андреас"
   },
@@ -22880,18 +22892,6 @@
     "status": "Занято",
     "x": 816.203,
     "y": -1386.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 297,
-    "server_id": 33,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 2330.401,
-    "y": 2166.094,
     "price": 0,
     "district": "Сан-Андреас"
   },
