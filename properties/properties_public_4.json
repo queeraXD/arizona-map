@@ -8188,7 +8188,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Dictators Crew House",
-    "owner": "Maksim_Novikow",
+    "owner": "Edul_Abgaryan",
     "status": "Занято",
     "x": 1325.5,
     "y": 2567.57,
@@ -9392,6 +9392,18 @@
     "status": "Занято",
     "x": -2538.73,
     "y": 830.064,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 795,
+    "server_id": 4,
+    "type": "house",
+    "name": "67 house",
+    "owner": "Blaze_Lapierre",
+    "status": "Занято",
+    "x": -2372.53,
+    "y": 692.763,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16296,18 +16308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1374,
-    "server_id": 4,
-    "type": "house",
-    "name": "Montana House",
-    "owner": "Valentin_Antonov",
-    "status": "Занято",
-    "x": 1453.72,
-    "y": 2033.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1375,
     "server_id": 4,
     "type": "house",
@@ -22824,18 +22824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1920,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Valentin_Antonov",
-    "status": "Занято",
-    "x": 2793.71,
-    "y": 2229.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1921,
     "server_id": 4,
     "type": "house",
@@ -23688,6 +23676,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1992,
+    "server_id": 4,
+    "type": "house",
+    "name": "Хата Сутенёра ",
+    "owner": "Richi_Grishko",
+    "status": "Занято",
+    "x": 2473.16,
+    "y": -1383.37,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1993,
     "server_id": 4,
     "type": "house",
@@ -24076,7 +24076,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Династия Колхозников",
-    "owner": "Edul_Abgaryan",
+    "owner": "Blake_Fox",
     "status": "Занято",
     "x": 2357.05,
     "y": 1048.93,
@@ -24088,7 +24088,7 @@
     "server_id": 4,
     "type": "house",
     "name": "ЛВ тюн",
-    "owner": "Edul_Abgaryan",
+    "owner": "Alvaro_Escobar",
     "status": "Занято",
     "x": 2357.05,
     "y": 1059.45,
@@ -24244,7 +24244,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Династия Колхозников",
-    "owner": "Edul_Abgaryan",
+    "owner": "Blake_Fox",
     "status": "Занято",
     "x": 2410.78,
     "y": 962.8809,
@@ -25188,18 +25188,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 795,
-    "server_id": 4,
-    "type": "house",
-    "name": "67 house",
-    "owner": "Yohan_International",
-    "status": "Аукцион",
-    "x": -2372.53,
-    "y": 692.763,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1018,
     "server_id": 4,
     "type": "house",
@@ -25221,6 +25209,18 @@
     "x": 2285.88,
     "y": 161.7709,
     "price": 4200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1374,
+    "server_id": 4,
+    "type": "house",
+    "name": "Montana House",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1453.72,
+    "y": 2033.2,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25248,15 +25248,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1992,
+    "id": 1920,
     "server_id": 4,
     "type": "house",
-    "name": "Хата Сутенёра ",
-    "owner": "Cliff_Cho",
+    "name": "Дом",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 2473.16,
-    "y": -1383.37,
-    "price": 300000000,
+    "x": 2793.71,
+    "y": 2229.47,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
