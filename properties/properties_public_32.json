@@ -2364,18 +2364,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 197,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Heilig_Pfeil",
-    "status": "Занято",
-    "x": 1440.39,
-    "y": -926.2199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 198,
     "server_id": 32,
     "type": "house",
@@ -3452,18 +3440,6 @@
     "status": "Занято",
     "x": 2512.81,
     "y": -1027.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 289,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Implored_Space",
-    "status": "Занято",
-    "x": 2534.44,
-    "y": -1063.42,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11292,18 +11268,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 946,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Implored_Space",
-    "status": "Занято",
-    "x": -2282.42,
-    "y": 999.619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 947,
     "server_id": 32,
     "type": "house",
@@ -15944,6 +15908,18 @@
     "status": "Занято",
     "x": 1550.54,
     "y": 2846.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1334,
+    "server_id": 32,
+    "type": "house",
+    "name": "Домик Пушистого Фармилы",
+    "owner": "Cristofer_France",
+    "status": "Занято",
+    "x": 1575.88,
+    "y": 2844.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21351,7 +21327,7 @@
     "id": 1815,
     "server_id": 32,
     "type": "house",
-    "name": "Хата фарма",
+    "name": "Дом",
     "owner": "Farm_Farmer",
     "status": "Занято",
     "x": 2659.17,
@@ -22476,6 +22452,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 197,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Heilig_Pfeil",
+    "status": "Аукцион",
+    "x": 1440.39,
+    "y": -926.2199,
+    "price": 5555555555,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 257,
     "server_id": 32,
     "type": "house",
@@ -22488,15 +22476,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1334,
+    "id": 289,
     "server_id": 32,
     "type": "house",
-    "name": "Домик Пушистого Фармилы",
-    "owner": "Legoshi_Wolf",
+    "name": "Деп условия",
+    "owner": "Implored_Space",
     "status": "Аукцион",
-    "x": 1575.88,
-    "y": 2844.16,
-    "price": 1500000000,
+    "x": 2534.44,
+    "y": -1063.42,
+    "price": 1100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 946,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Implored_Space",
+    "status": "Аукцион",
+    "x": -2282.42,
+    "y": 999.619,
+    "price": 1100000000,
     "district": "Сан-Андреас"
   },
   {
