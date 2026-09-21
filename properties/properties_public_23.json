@@ -8088,18 +8088,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 675,
-    "server_id": 23,
-    "type": "house",
-    "name": "home 1",
-    "owner": "RasL_Dark",
-    "status": "Занято",
-    "x": 930.306,
-    "y": 2027.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 676,
     "server_id": 23,
     "type": "house",
@@ -10116,18 +10104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 846,
-    "server_id": 23,
-    "type": "house",
-    "name": "facil owning",
-    "owner": "RasL_Dark",
-    "status": "Занято",
-    "x": -2191.59,
-    "y": 1080.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 847,
     "server_id": 23,
     "type": "house",
@@ -11024,18 +11000,6 @@
     "status": "Занято",
     "x": -2280.46,
     "y": 1130.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 923,
-    "server_id": 23,
-    "type": "house",
-    "name": "Belle is my Kitty",
-    "owner": "RasL_Dark",
-    "status": "Занято",
-    "x": -2239.14,
-    "y": 1154.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12201,6 +12165,18 @@
     "x": -2542.49,
     "y": 942.4849,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1021,
+    "server_id": 23,
+    "type": "house",
+    "name": "трэп хата",
+    "owner": "Dante_Doc",
+    "status": "Аукцион",
+    "x": -2511.33,
+    "y": 951.2239,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21132,6 +21108,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 675,
+    "server_id": 23,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "RasL_Dark",
+    "status": "Аукцион",
+    "x": 930.306,
+    "y": 2027.86,
+    "price": 7777777,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 731,
     "server_id": 23,
     "type": "house",
@@ -21156,14 +21144,26 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1021,
+    "id": 846,
     "server_id": 23,
     "type": "house",
-    "name": "трэп хата",
-    "owner": "Dante_Doc",
+    "name": "деп условия",
+    "owner": "RasL_Dark",
     "status": "Аукцион",
-    "x": -2511.33,
-    "y": 951.2239,
+    "x": -2191.59,
+    "y": 1080.32,
+    "price": 370000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 923,
+    "server_id": 23,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "RasL_Dark",
+    "status": "Аукцион",
+    "x": -2239.14,
+    "y": 1154.01,
     "price": 300000000,
     "district": "Сан-Андреас"
   },
