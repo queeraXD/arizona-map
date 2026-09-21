@@ -10392,6 +10392,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 866,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 6",
+    "owner": "Dylan_Broker",
+    "status": "Занято",
+    "x": -340.7749,
+    "y": 2565.41,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 867,
     "server_id": 12,
     "type": "house",
@@ -10412,6 +10424,18 @@
     "status": "Занято",
     "x": -313.3299,
     "y": 2567.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 869,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 5",
+    "owner": "Dylan_Broker",
+    "status": "Занято",
+    "x": -322.6199,
+    "y": 2554.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19480,7 +19504,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Резиденция Мелконян",
-    "owner": "Zerof_Imort",
+    "owner": "Leto_IArbaleti",
     "status": "Занято",
     "x": 885.9019,
     "y": 2211.72,
@@ -22128,18 +22152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1846,
-    "server_id": 12,
-    "type": "house",
-    "name": "Dom dyrdom",
-    "owner": "Serega_Shax",
-    "status": "Занято",
-    "x": 1778.63,
-    "y": 2735.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1847,
     "server_id": 12,
     "type": "house",
@@ -22652,18 +22664,6 @@
     "status": "Занято",
     "x": 1748.69,
     "y": 2867.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1890,
-    "server_id": 12,
-    "type": "house",
-    "name": "btc+деп",
-    "owner": "Serega_Shax",
-    "status": "Занято",
-    "x": 1763.11,
-    "y": 2871.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23192,18 +23192,6 @@
     "status": "Занято",
     "x": 2591.62,
     "y": 2197.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1935,
-    "server_id": 12,
-    "type": "house",
-    "name": "домик",
-    "owner": "Leonid_Odessit",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2206.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23760,27 +23748,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 866,
+    "id": 1846,
     "server_id": 12,
     "type": "house",
-    "name": "Broker 6",
-    "owner": "Dylan_Broker",
+    "name": "Dom dyrdom",
+    "owner": "Serega_Shax",
     "status": "Аукцион",
-    "x": -340.7749,
-    "y": 2565.41,
-    "price": 15000,
+    "x": 1778.63,
+    "y": 2735.99,
+    "price": 80000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 869,
+    "id": 1890,
     "server_id": 12,
     "type": "house",
-    "name": "Broker 5",
-    "owner": "Dylan_Broker",
+    "name": "btc+деп",
+    "owner": "Serega_Shax",
     "status": "Аукцион",
-    "x": -322.6199,
-    "y": 2554.17,
-    "price": 15000,
+    "x": 1763.11,
+    "y": 2871.19,
+    "price": 80000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1935,
+    "server_id": 12,
+    "type": "house",
+    "name": "домик",
+    "owner": "Leonid_Odessit",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2206.64,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {

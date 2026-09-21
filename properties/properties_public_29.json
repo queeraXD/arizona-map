@@ -3324,30 +3324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 277,
-    "server_id": 29,
-    "type": "house",
-    "name": "<3Golden House<3",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": 2549.37,
-    "y": -1032.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 278,
-    "server_id": 29,
-    "type": "house",
-    "name": "<3Golden House<3",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": 2526.83,
-    "y": -1033.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 279,
     "server_id": 29,
     "type": "house",
@@ -3452,18 +3428,6 @@
     "status": "Занято",
     "x": 2491.35,
     "y": -1012.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 288,
-    "server_id": 29,
-    "type": "house",
-    "name": "<3Golden House<3",
-    "owner": "Valera_Bashmak",
-    "status": "Занято",
-    "x": 2512.81,
-    "y": -1027.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3867,8 +3831,8 @@
     "id": 322,
     "server_id": 29,
     "type": "house",
-    "name": "Nixon House",
-    "owner": "Valera_Bashmak",
+    "name": "yt nysson",
+    "owner": "Max_Diesel",
     "status": "Занято",
     "x": 795.195,
     "y": -506.406,
@@ -6452,18 +6416,6 @@
     "status": "Занято",
     "x": 2056.57,
     "y": 2664.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 539,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sinister_Larpov",
-    "status": "Занято",
-    "x": 2037.05,
-    "y": 2663.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9152,18 +9104,6 @@
     "status": "Занято",
     "x": -2652.52,
     "y": 820.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 764,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом Рона №4",
-    "owner": "Andrey_Xamam",
-    "status": "Занято",
-    "x": -2645.56,
-    "y": 803.083,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12368,6 +12308,18 @@
     "status": "Занято",
     "x": -1732.18,
     "y": 1114.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1040,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sinister_Larpov",
+    "status": "Занято",
+    "x": -1727.98,
+    "y": 1138.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21000,6 +20952,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 277,
+    "server_id": 29,
+    "type": "house",
+    "name": "<3Golden House<3",
+    "owner": "Kolya_Infinity",
+    "status": "Аукцион",
+    "x": 2549.37,
+    "y": -1032.24,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 278,
+    "server_id": 29,
+    "type": "house",
+    "name": "<3Golden House<3",
+    "owner": "Night_Sosiska",
+    "status": "Аукцион",
+    "x": 2526.83,
+    "y": -1033.53,
+    "price": 450123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 288,
+    "server_id": 29,
+    "type": "house",
+    "name": "yt nysson",
+    "owner": "Valera_Bashmak",
+    "status": "Аукцион",
+    "x": 2512.81,
+    "y": -1027.56,
+    "price": 300123213,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 422,
     "server_id": 29,
     "type": "house",
@@ -21009,6 +20997,30 @@
     "x": 1312.43,
     "y": 170.811,
     "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 539,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sinister_Larpov",
+    "status": "Аукцион",
+    "x": 2037.05,
+    "y": 2663.99,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 764,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом Рона №4",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2645.56,
+    "y": 803.083,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21105,18 +21117,6 @@
     "x": -2478.95,
     "y": 1141.58,
     "price": 550000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1040,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sinister_Larpov",
-    "status": "Аукцион",
-    "x": -1727.98,
-    "y": 1138.91,
-    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
