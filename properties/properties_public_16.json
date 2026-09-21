@@ -3960,18 +3960,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 330,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jackson_Sparks",
-    "status": "Занято",
-    "x": 286.1669,
-    "y": 41.1968,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 331,
     "server_id": 16,
     "type": "house",
@@ -6216,6 +6204,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 518,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergey_Rims",
+    "status": "Занято",
+    "x": 1595.41,
+    "y": 2070.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 519,
     "server_id": 16,
     "type": "house",
@@ -6488,6 +6488,18 @@
     "status": "Занято",
     "x": 1518.73,
     "y": -92.9521,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 542,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergey_Rims",
+    "status": "Занято",
+    "x": 1969.7,
+    "y": 2663.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9363,7 +9375,7 @@
     "id": 783,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
+    "name": "Автогонк",
     "owner": "Jackson_Sparks",
     "status": "Занято",
     "x": -2513.51,
@@ -14188,7 +14200,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Vyzantiya_Empire",
+    "owner": "Multi_Cheat",
     "status": "Занято",
     "x": -2790.25,
     "y": -168.429,
@@ -19227,8 +19239,8 @@
     "id": 1607,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
-    "owner": "Sanchez_Exodus",
+    "name": ":uf259:Unknown Monopoly:uf259:",
+    "owner": "Mikki_Sixone",
     "status": "Занято",
     "x": -2355.53,
     "y": 246.6649,
@@ -19263,7 +19275,7 @@
     "id": 1610,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
+    "name": ":uf259:Unknown Monopoly:uf259:",
     "owner": "Mikki_Sixone",
     "status": "Занято",
     "x": -2361.44,
@@ -19544,18 +19556,6 @@
     "status": "Занято",
     "x": 305.1549,
     "y": -1770.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1634,
-    "server_id": 16,
-    "type": "house",
-    "name": "фама",
-    "owner": "Toma_Hunter",
-    "status": "Занято",
-    "x": 1974.77,
-    "y": -1671.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22404,27 +22404,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 518,
+    "id": 330,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
-    "owner": "Sergey_Rims",
+    "name": "Автогонки",
+    "owner": "Blake_Shadow",
     "status": "Аукцион",
-    "x": 1595.41,
-    "y": 2070.99,
-    "price": 450000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 542,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergey_Rims",
-    "status": "Аукцион",
-    "x": 1969.7,
-    "y": 2663.35,
-    "price": 600000000,
+    "x": 286.1669,
+    "y": 41.1968,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22449,6 +22437,18 @@
     "x": -2540.68,
     "y": 855.103,
     "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1634,
+    "server_id": 16,
+    "type": "house",
+    "name": "фама",
+    "owner": "Toma_Hunter",
+    "status": "Аукцион",
+    "x": 1974.77,
+    "y": -1671.19,
+    "price": 300123123,
     "district": "Сан-Андреас"
   },
   {
