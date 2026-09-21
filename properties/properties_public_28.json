@@ -7440,18 +7440,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 620,
-    "server_id": 28,
-    "type": "house",
-    "name": "куплен доп шкаф",
-    "owner": "Turbo_Ww",
-    "status": "Занято",
-    "x": -886.291,
-    "y": 1514.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 621,
     "server_id": 28,
     "type": "house",
@@ -7997,10 +7985,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Pavel_Spitsyn",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 984.7579,
     "y": 2030.14,
-    "price": 500000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -8588,18 +8576,6 @@
     "status": "Занято",
     "x": 1580.14,
     "y": 2708.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 716,
-    "server_id": 28,
-    "type": "house",
-    "name": "Trap Models",
-    "owner": "Turbo_Ww",
-    "status": "Занято",
-    "x": 1601.14,
-    "y": 2709.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22365,6 +22341,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 620,
+    "server_id": 28,
+    "type": "house",
+    "name": "куплен доп шкаф",
+    "owner": "Turbo_Ww",
+    "status": "Аукцион",
+    "x": -886.291,
+    "y": 1514.59,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 716,
+    "server_id": 28,
+    "type": "house",
+    "name": "Trap Models",
+    "owner": "Turbo_Ww",
+    "status": "Аукцион",
+    "x": 1601.14,
+    "y": 2709.39,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {

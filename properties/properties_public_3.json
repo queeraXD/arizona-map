@@ -9363,7 +9363,7 @@
     "id": 780,
     "server_id": 3,
     "type": "house",
-    "name": "Берлога сутинера",
+    "name": "cuerto squad",
     "owner": "Dostavka_Cuerto",
     "status": "Занято",
     "x": -2541.29,
@@ -18684,18 +18684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1559,
-    "server_id": 3,
-    "type": "house",
-    "name": "ConorCity",
-    "owner": "Alex_Pollard",
-    "status": "Занято",
-    "x": -2294.99,
-    "y": 969.984,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1560,
     "server_id": 3,
     "type": "house",
@@ -24000,6 +23988,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1559,
+    "server_id": 3,
+    "type": "house",
+    "name": "ConorCity",
+    "owner": "Alex_Pollard",
+    "status": "Аукцион",
+    "x": -2294.99,
+    "y": 969.984,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1666,
     "server_id": 3,
     "type": "house",
@@ -24009,18 +24009,6 @@
     "x": 2615.11,
     "y": -1220.47,
     "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 186,
-    "server_id": 3,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Chio_Rio",
-    "status": "Аукцион",
-    "x": 2268.78,
-    "y": 624.86,
-    "price": 190000,
     "district": "Сан-Андреас"
   },
   {
@@ -26888,6 +26876,18 @@
     "status": "Занято",
     "x": 2599.42,
     "y": 1060.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 186,
+    "server_id": 3,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Chio_Rio",
+    "status": "Занято",
+    "x": 2268.78,
+    "y": 624.86,
     "price": 0,
     "district": "Сан-Андреас"
   },

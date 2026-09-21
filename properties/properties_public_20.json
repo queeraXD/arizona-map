@@ -1080,18 +1080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 90,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Troy_FIoyd",
-    "status": "Занято",
-    "x": 2017.75,
-    "y": -1703.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 91,
     "server_id": 20,
     "type": "house",
@@ -3365,10 +3353,10 @@
     "type": "house",
     "name": "Simpson",
     "owner": "Bart_Simpson",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2413.57,
     "y": 61.4468,
-    "price": 1500000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -7180,7 +7168,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Nights Monopoly",
-    "owner": "Karlos_Nights",
+    "owner": "Otis_Porus",
     "status": "Занято",
     "x": -1482.54,
     "y": 2702.66,
@@ -22341,6 +22329,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 90,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Troy_FIoyd",
+    "status": "Аукцион",
+    "x": 2017.75,
+    "y": -1703.38,
+    "price": 3500000000,
     "district": "Сан-Андреас"
   },
   {
