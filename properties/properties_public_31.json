@@ -8812,7 +8812,7 @@
     "server_id": 31,
     "type": "house",
     "name": "pirat",
-    "owner": "Seller_Shower",
+    "owner": "Maxunatop",
     "status": "Занято",
     "x": -2899.14,
     "y": 1026.71,
@@ -9496,7 +9496,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Seller_Shower",
+    "owner": "Maxunatop",
     "status": "Занято",
     "x": -2540.68,
     "y": 855.103,
@@ -10956,18 +10956,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 916,
-    "server_id": 31,
-    "type": "house",
-    "name": "sell 1,5kk",
-    "owner": "Tough_Guy",
-    "status": "Занято",
-    "x": -2159.79,
-    "y": 1030.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 917,
     "server_id": 31,
     "type": "house",
@@ -11892,18 +11880,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 994,
-    "server_id": 31,
-    "type": "house",
-    "name": "домик ",
-    "owner": "Tadjik_Monopoly",
-    "status": "Занято",
-    "x": -2321.64,
-    "y": 797.465,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 995,
     "server_id": 31,
     "type": "house",
@@ -12052,7 +12028,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Seller_Shower",
+    "owner": "Maxunatop",
     "status": "Занято",
     "x": -2383.84,
     "y": 1127.85,
@@ -12880,7 +12856,7 @@
     "server_id": 31,
     "type": "house",
     "name": "pirat",
-    "owner": "Seller_Shower",
+    "owner": "Maxunatop",
     "status": "Занято",
     "x": -2901.54,
     "y": 1033.81,
@@ -12892,7 +12868,7 @@
     "server_id": 31,
     "type": "house",
     "name": "pirat",
-    "owner": "Seller_Shower",
+    "owner": "Maxunatop",
     "status": "Занято",
     "x": -2895.53,
     "y": 1017.01,
@@ -15292,7 +15268,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Hanmazenok house",
-    "owner": "Seller_Shower",
+    "owner": "Maxunatop",
     "status": "Занято",
     "x": -2689.47,
     "y": 57.0872,
@@ -19815,7 +19791,7 @@
     "id": 1655,
     "server_id": 31,
     "type": "house",
-    "name": "Блат хата",
+    "name": "Кобяков гэнг",
     "owner": "Kaoru_Close",
     "status": "Занято",
     "x": 2357.05,
@@ -22308,6 +22284,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1866,
+    "server_id": 31,
+    "type": "house",
+    "name": "Агентство,деп условия,фулл шкаф",
+    "owner": "Minuli_Dni",
+    "status": "Занято",
+    "x": -2431.4,
+    "y": 895.234,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1867,
     "server_id": 31,
     "type": "house",
@@ -23328,6 +23316,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 916,
+    "server_id": 31,
+    "type": "house",
+    "name": "sell 1,5kk",
+    "owner": "Tough_Guy",
+    "status": "Аукцион",
+    "x": -2159.79,
+    "y": 1030.66,
+    "price": 1300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 994,
+    "server_id": 31,
+    "type": "house",
+    "name": "домик ",
+    "owner": "Tadjik_Monopoly",
+    "status": "Аукцион",
+    "x": -2321.64,
+    "y": 797.465,
+    "price": 1600000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1728,
     "server_id": 31,
     "type": "house",
@@ -23340,15 +23352,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1866,
+    "id": 82,
     "server_id": 31,
-    "type": "house",
-    "name": "Агентство,деп условия,фулл шкаф",
-    "owner": "Minuli_Dni",
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Mlnato_Rostik",
     "status": "Аукцион",
-    "x": -2431.4,
-    "y": 895.234,
-    "price": 1500000000,
+    "x": 1879.19,
+    "y": 2339.5,
+    "price": 156279,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 468,
+    "server_id": 31,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Marsel_Garcia",
+    "status": "Аукцион",
+    "x": -172.597,
+    "y": 1106.0,
+    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -25092,18 +25116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 82,
-    "server_id": 31,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Mlnato_Rostik",
-    "status": "Занято",
-    "x": 1879.19,
-    "y": 2339.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 83,
     "server_id": 31,
     "type": "business",
@@ -26120,18 +26132,6 @@
     "status": "Занято",
     "x": -2015.06,
     "y": -2.1872,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 468,
-    "server_id": 31,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Marsel_Garcia",
-    "status": "Занято",
-    "x": -172.597,
-    "y": 1106.0,
     "price": 0,
     "district": "Сан-Андреас"
   },

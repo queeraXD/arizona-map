@@ -2196,6 +2196,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 183,
+    "server_id": 9,
+    "type": "house",
+    "name": "Escobar",
+    "owner": "Gosa_Money",
+    "status": "Занято",
+    "x": 694.833,
+    "y": -1690.29,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 184,
     "server_id": 9,
     "type": "house",
@@ -7656,6 +7668,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 639,
+    "server_id": 9,
+    "type": "house",
+    "name": "owned by Джентльмены",
+    "owner": "Linar_Gambino",
+    "status": "Занято",
+    "x": -278.9989,
+    "y": 1003.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 640,
     "server_id": 9,
     "type": "house",
@@ -8600,18 +8624,6 @@
     "status": "Занято",
     "x": 1599.4,
     "y": 2757.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 719,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Felix_Walker",
-    "status": "Занято",
-    "x": 1608.55,
-    "y": 2752.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18568,7 +18580,7 @@
     "server_id": 9,
     "type": "house",
     "name": "ЧилЗона#55",
-    "owner": "Alex_Samuylov",
+    "owner": "Monti_Amarallis",
     "status": "Занято",
     "x": -1852.39,
     "y": 1162.22,
@@ -19388,18 +19400,6 @@
     "status": "Занято",
     "x": 2051.27,
     "y": -954.8259,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1619,
-    "server_id": 9,
-    "type": "house",
-    "name": "Flux Empire",
-    "owner": "Bones_Flux",
-    "status": "Занято",
-    "x": 2049.1,
-    "y": -987.2739,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22836,18 +22836,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1909,
-    "server_id": 9,
-    "type": "house",
-    "name": ":uf219: exodus squad :uf219:",
-    "owner": "Sota_Takedji",
-    "status": "Занято",
-    "x": 2468.34,
-    "y": -1424.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1910,
     "server_id": 9,
     "type": "house",
@@ -22947,8 +22935,8 @@
     "id": 1918,
     "server_id": 9,
     "type": "house",
-    "name": "ARLEKIN EBATORU",
-    "owner": "Arlekin_Fesher",
+    "name": "Гурам",
+    "owner": "Antonio_Russi",
     "status": "Занято",
     "x": 2487.52,
     "y": -1383.38,
@@ -22975,6 +22963,18 @@
     "owner": "Faster_Collins",
     "status": "Занято",
     "x": 2487.32,
+    "y": -1366.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1921,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Antonio_Russi",
+    "status": "Занято",
+    "x": 2492.13,
     "y": -1366.2,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23416,7 +23416,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Дом",
-    "owner": "Baron_Scandino",
+    "owner": "Benjamin_Scorseze",
     "status": "Занято",
     "x": 37.8027,
     "y": 1048.67,
@@ -23880,39 +23880,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 183,
-    "server_id": 9,
-    "type": "house",
-    "name": "Escobar",
-    "owner": "Nekich_Bossov",
-    "status": "Аукцион",
-    "x": 694.833,
-    "y": -1690.29,
-    "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 639,
-    "server_id": 9,
-    "type": "house",
-    "name": "owned by Джентльмены",
-    "owner": "Linar_Gambino",
-    "status": "Аукцион",
-    "x": -278.9989,
-    "y": 1003.39,
-    "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1921,
+    "id": 719,
     "server_id": 9,
     "type": "house",
     "name": "Дом",
-    "owner": "Nekich_Bossov",
+    "owner": "Stu_Loving",
     "status": "Аукцион",
-    "x": 2492.13,
-    "y": -1366.2,
-    "price": 10000000,
+    "x": 1608.55,
+    "y": 2752.98,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1619,
+    "server_id": 9,
+    "type": "house",
+    "name": "Flux Empire",
+    "owner": "Bones_Flux",
+    "status": "Аукцион",
+    "x": 2049.1,
+    "y": -987.2739,
+    "price": 2200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1909,
+    "server_id": 9,
+    "type": "house",
+    "name": ":uf219: exodus squad :uf219:",
+    "owner": "Sota_Takedji",
+    "status": "Аукцион",
+    "x": 2468.34,
+    "y": -1424.58,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {

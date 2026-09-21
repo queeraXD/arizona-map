@@ -3360,6 +3360,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 280,
+    "server_id": 20,
+    "type": "house",
+    "name": "Simpson",
+    "owner": "Bart_Simpson",
+    "status": "Занято",
+    "x": 2413.57,
+    "y": 61.4468,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 281,
     "server_id": 20,
     "type": "house",
@@ -8648,18 +8660,6 @@
     "status": "Занято",
     "x": -300.595,
     "y": 2658.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 722,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tapsord_Rangers",
-    "status": "Занято",
-    "x": 1663.37,
-    "y": 2753.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21700,7 +21700,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Snickers",
-    "owner": "Spec_Kennet",
+    "owner": "Sanchez_Borov",
     "status": "Занято",
     "x": 2643.69,
     "y": 2019.21,
@@ -22344,15 +22344,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 280,
+    "id": 722,
     "server_id": 20,
     "type": "house",
-    "name": "Simpson",
-    "owner": "Bart_Simpson",
+    "name": "монополия ферма 8 LVL",
+    "owner": "Tapsord_Rangers",
     "status": "Аукцион",
-    "x": 2413.57,
-    "y": 61.4468,
-    "price": 1500000000,
+    "x": 1663.37,
+    "y": 2753.72,
+    "price": 900000000,
     "district": "Сан-Андреас"
   },
   {

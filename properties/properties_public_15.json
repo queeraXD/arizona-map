@@ -8616,18 +8616,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 718,
-    "server_id": 15,
-    "type": "house",
-    "name": "ЛКН",
-    "owner": "Medved_Markelovani",
-    "status": "Занято",
-    "x": 1599.4,
-    "y": 2757.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 719,
     "server_id": 15,
     "type": "house",
@@ -14264,18 +14252,6 @@
     "status": "Занято",
     "x": -2792.93,
     "y": -153.097,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1190,
-    "server_id": 15,
-    "type": "house",
-    "name": "Мелстрой",
-    "owner": "Medved_Markelovani",
-    "status": "Занято",
-    "x": -2791.58,
-    "y": -145.904,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21321,6 +21297,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 718,
+    "server_id": 15,
+    "type": "house",
+    "name": "ЛКН",
+    "owner": "Medved_Markelovani",
+    "status": "Аукцион",
+    "x": 1599.4,
+    "y": 2757.09,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1190,
+    "server_id": 15,
+    "type": "house",
+    "name": "Мелстрой",
+    "owner": "Medved_Markelovani",
+    "status": "Аукцион",
+    "x": -2791.58,
+    "y": -145.904,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
