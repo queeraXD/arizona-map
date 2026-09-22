@@ -6792,6 +6792,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 568,
+    "server_id": 31,
+    "type": "house",
+    "name": "Verstappen",
+    "owner": "Nikita_Verstappen",
+    "status": "Занято",
+    "x": 404.363,
+    "y": 1243.78,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 569,
     "server_id": 31,
     "type": "house",
@@ -23292,18 +23304,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 568,
-    "server_id": 31,
-    "type": "house",
-    "name": "House of Gods Knights | 4",
-    "owner": "Andrew_Milky",
-    "status": "Аукцион",
-    "x": 404.363,
-    "y": 1243.78,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 678,
     "server_id": 31,
     "type": "house",
@@ -23361,6 +23361,30 @@
     "x": 1879.19,
     "y": 2339.5,
     "price": 156000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 232,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Boris_Brytva",
+    "status": "Аукцион",
+    "x": 1071.66,
+    "y": -1438.98,
+    "price": 500000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 301,
+    "server_id": 31,
+    "type": "business",
+    "name": "Лотерейная",
+    "owner": "Boris_Brytva",
+    "status": "Аукцион",
+    "x": 1288.7,
+    "y": 271.232,
+    "price": 800000,
     "district": "Сан-Андреас"
   },
   {
@@ -23476,7 +23500,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Dettlaff_Eretein",
+    "owner": "Sterlo_White",
     "status": "Занято",
     "x": -2051.91,
     "y": 553.746,
@@ -23512,7 +23536,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Sterlo_White",
+    "owner": "Dettlaff_Eretein",
     "status": "Занято",
     "x": 2353.31,
     "y": -1463.47,
@@ -25740,18 +25764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 232,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 1071.66,
-    "y": -1438.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 352,
     "server_id": 31,
     "type": "business",
@@ -27012,18 +27024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 301,
-    "server_id": 31,
-    "type": "business",
-    "name": "Лотерейная",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 1288.7,
-    "y": 271.232,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 302,
     "server_id": 31,
     "type": "business",
@@ -27280,7 +27280,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Рыболовный магазин",
-    "owner": "Dettlaff_Eretein",
+    "owner": "Sterlo_White",
     "status": "Занято",
     "x": -2224.77,
     "y": 2288.47,

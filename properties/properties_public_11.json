@@ -1908,18 +1908,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 160,
-    "server_id": 11,
-    "type": "house",
-    "name": "Bec 200",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": 1227.42,
-    "y": -1017.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 161,
     "server_id": 11,
     "type": "house",
@@ -3764,18 +3752,6 @@
     "status": "Занято",
     "x": 1954.5,
     "y": -1074.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 315,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "Strax_Tsr",
-    "status": "Занято",
-    "x": 1959.61,
-    "y": -1069.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19324,7 +19300,7 @@
     "server_id": 11,
     "type": "house",
     "name": "Punisher Guard",
-    "owner": "Donk_Monopoly",
+    "owner": "Vladichka_Gromov",
     "status": "Занято",
     "x": 2468.27,
     "y": -1398.82,
@@ -24576,6 +24552,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 160,
+    "server_id": 11,
+    "type": "house",
+    "name": "Bec 200",
+    "owner": "Zheka_Zhuk",
+    "status": "Аукцион",
+    "x": 1227.42,
+    "y": -1017.05,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "Strax_Tsr",
+    "status": "Аукцион",
+    "x": 1959.61,
+    "y": -1069.92,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 768,
     "server_id": 11,
     "type": "house",
@@ -24657,18 +24657,6 @@
     "x": 928.254,
     "y": -1352.9,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 188,
-    "server_id": 11,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Nikolai_Bronto",
-    "status": "Аукцион",
-    "x": -88.37,
-    "y": 101.05,
-    "price": 55000,
     "district": "Сан-Андреас"
   },
   {
@@ -27548,6 +27536,18 @@
     "status": "Занято",
     "x": 158.63,
     "y": -1812.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 188,
+    "server_id": 11,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Nikolai_Bronto",
+    "status": "Занято",
+    "x": -88.37,
+    "y": 101.05,
     "price": 0,
     "district": "Сан-Андреас"
   },

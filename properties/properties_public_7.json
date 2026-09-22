@@ -6456,18 +6456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 539,
-    "server_id": 7,
-    "type": "house",
-    "name": "Halturim",
-    "owner": "One_Lord",
-    "status": "Занято",
-    "x": 2037.05,
-    "y": 2663.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 540,
     "server_id": 7,
     "type": "house",
@@ -10120,7 +10108,7 @@
     "server_id": 7,
     "type": "house",
     "name": "БИТОК",
-    "owner": "Billy_Dollars",
+    "owner": "Aarne_Mircea",
     "status": "Занято",
     "x": -2278.61,
     "y": 787.8569,
@@ -21352,7 +21340,7 @@
     "server_id": 7,
     "type": "house",
     "name": "LOLZTEAM",
-    "owner": "Otto_Lydetto",
+    "owner": "Jhon_Lydetto",
     "status": "Занято",
     "x": 2440.7,
     "y": 1231.63,
@@ -21376,7 +21364,7 @@
     "server_id": 7,
     "type": "house",
     "name": "LolzTeam",
-    "owner": "Otto_Lydetto",
+    "owner": "Jhon_Lydetto",
     "status": "Занято",
     "x": 2440.7,
     "y": 1220.62,
@@ -23144,18 +23132,6 @@
     "status": "Занято",
     "x": 2541.53,
     "y": 1231.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1933,
-    "server_id": 7,
-    "type": "house",
-    "name": "Spataphore Crew",
-    "owner": "One_Lord",
-    "status": "Занято",
-    "x": 2540.69,
-    "y": 1224.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25476,6 +25452,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 539,
+    "server_id": 7,
+    "type": "house",
+    "name": "Halturim",
+    "owner": "One_Lord",
+    "status": "Аукцион",
+    "x": 2037.05,
+    "y": 2663.99,
+    "price": 2100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 604,
     "server_id": 7,
     "type": "house",
@@ -25512,6 +25500,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1933,
+    "server_id": 7,
+    "type": "house",
+    "name": "Spataphore Crew",
+    "owner": "One_Lord",
+    "status": "Аукцион",
+    "x": 2540.69,
+    "y": 1224.35,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1937,
     "server_id": 7,
     "type": "house",
@@ -25545,6 +25545,30 @@
     "x": 1733.4,
     "y": 2814.95,
     "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 209,
+    "server_id": 7,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Matthew_Guretto",
+    "status": "Аукцион",
+    "x": 1976.18,
+    "y": -1980.19,
+    "price": 270000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 216,
+    "server_id": 7,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Matthew_Guretto",
+    "status": "Аукцион",
+    "x": 2327.86,
+    "y": 2421.25,
+    "price": 270000,
     "district": "Сан-Андреас"
   },
   {
@@ -28688,30 +28712,6 @@
     "status": "Занято",
     "x": 194.751,
     "y": -273.823,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 209,
-    "server_id": 7,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Matthew_Guretto",
-    "status": "Занято",
-    "x": 1976.18,
-    "y": -1980.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 216,
-    "server_id": 7,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Matthew_Guretto",
-    "status": "Занято",
-    "x": 2327.86,
-    "y": 2421.25,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -11052,6 +11052,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 923,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом Криптана",
+    "owner": "Ram_York",
+    "status": "Занято",
+    "x": -2239.14,
+    "y": 1154.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 924,
     "server_id": 21,
     "type": "house",
@@ -11480,18 +11492,6 @@
     "status": "Занято",
     "x": -2158.75,
     "y": 786.197,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 960,
-    "server_id": 21,
-    "type": "house",
-    "name": "S.Naceri",
-    "owner": "Vadim_Lambo",
-    "status": "Занято",
-    "x": -2158.94,
-    "y": 769.9379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21900,15 +21900,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 923,
+    "id": 960,
     "server_id": 21,
     "type": "house",
-    "name": "Дом Криптана",
-    "owner": "Ram_York",
+    "name": "S.Naceri",
+    "owner": "Vadim_Lambo",
     "status": "Аукцион",
-    "x": -2239.14,
-    "y": 1154.01,
-    "price": 125999666,
+    "x": -2158.94,
+    "y": 769.9379,
+    "price": 110000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22024,7 +22024,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Kawai_Donatte",
+    "owner": "Kirill_Slon",
     "status": "Занято",
     "x": -2625.72,
     "y": 209.242,

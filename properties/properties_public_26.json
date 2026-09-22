@@ -9600,18 +9600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 807,
-    "server_id": 26,
-    "type": "house",
-    "name": "деп усл",
-    "owner": "Vladimir_Suxoi",
-    "status": "Занято",
-    "x": -2723.12,
-    "y": -112.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 808,
     "server_id": 26,
     "type": "house",
@@ -18448,7 +18436,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Monopoly mr. Patrick ;3",
-    "owner": "Mister_Secret",
+    "owner": "Monster_ZeroSugar",
     "status": "Занято",
     "x": -1134.24,
     "y": -921.4589,
@@ -19444,7 +19432,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Morphin",
-    "owner": "Milfa_Morphin",
+    "owner": "Milfa_Vpotoke",
     "status": "Занято",
     "x": -2449.76,
     "y": 921.426,
@@ -19580,18 +19568,6 @@
     "status": "Занято",
     "x": -600.6849,
     "y": -1065.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1643,
-    "server_id": 26,
-    "type": "house",
-    "name": "Toni House",
-    "owner": "Aleksandr_Kostolev",
-    "status": "Занято",
-    "x": -594.8129,
-    "y": -1056.87,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21700,7 +21676,7 @@
     "server_id": 26,
     "type": "house",
     "name": "деп условия",
-    "owner": "Ivan_Gvozdik",
+    "owner": "Lex_Fonc",
     "status": "Занято",
     "x": 2826.08,
     "y": 2134.39,
@@ -23964,18 +23940,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2011,
-    "server_id": 26,
-    "type": "house",
-    "name": "karatel squad",
-    "owner": "Aleksandr_Kostolev",
-    "status": "Занято",
-    "x": 1740.79,
-    "y": 2863.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2012,
     "server_id": 26,
     "type": "house",
@@ -23984,18 +23948,6 @@
     "status": "Занято",
     "x": 1731.7,
     "y": 2855.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2013,
-    "server_id": 26,
-    "type": "house",
-    "name": "Vodnaya Beyba",
-    "owner": "Anatoliy_Pavlov",
-    "status": "Занято",
-    "x": 1786.53,
-    "y": 2867.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25116,6 +25068,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 807,
+    "server_id": 26,
+    "type": "house",
+    "name": "деп усл",
+    "owner": "Vladimir_Suxoi",
+    "status": "Аукцион",
+    "x": -2723.12,
+    "y": -112.97,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1274,
     "server_id": 26,
     "type": "house",
@@ -25149,6 +25113,18 @@
     "x": 885.901,
     "y": 1953.21,
     "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1643,
+    "server_id": 26,
+    "type": "house",
+    "name": "Toni House",
+    "owner": "Aleksandr_Kostolev",
+    "status": "Аукцион",
+    "x": -594.8129,
+    "y": -1056.87,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25188,27 +25164,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 82,
+    "id": 2011,
     "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Wuddy_Overprice",
+    "type": "house",
+    "name": "karatel squad",
+    "owner": "Aleksandr_Kostolev",
     "status": "Аукцион",
-    "x": 1879.19,
-    "y": 2339.5,
-    "price": 10000000000,
+    "x": 1740.79,
+    "y": 2863.35,
+    "price": 70000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 296,
+    "id": 2013,
     "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Wuddy_Overprice",
+    "type": "house",
+    "name": "Vodnaya Beyba",
+    "owner": "Anatoliy_Pavlov",
     "status": "Аукцион",
-    "x": 2366.7,
-    "y": 2071.11,
-    "price": 10000000000,
+    "x": 1786.53,
+    "y": 2867.73,
+    "price": 80123123,
     "district": "Сан-Андреас"
   },
   {
@@ -26952,6 +26928,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 82,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Toni_Lorenso",
+    "status": "Занято",
+    "x": 1879.19,
+    "y": 2339.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 83,
     "server_id": 26,
     "type": "business",
@@ -27272,6 +27260,18 @@
     "status": "Занято",
     "x": 2392.56,
     "y": 2042.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Toni_Lorenso",
+    "status": "Занято",
+    "x": 2366.7,
+    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
