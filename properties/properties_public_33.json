@@ -792,6 +792,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 66,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mercy_White",
+    "status": "Занято",
+    "x": 2451.93,
+    "y": -1641.41,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 67,
     "server_id": 33,
     "type": "house",
@@ -2451,7 +2463,7 @@
     "id": 207,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "Sedona",
     "owner": "Soner_Io",
     "status": "Занято",
     "x": 1331.84,
@@ -2583,7 +2595,7 @@
     "id": 218,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "Промо #бабки",
     "owner": "Arizona_Home",
     "status": "Занято",
     "x": 836.2839,
@@ -2823,7 +2835,7 @@
     "id": 238,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "Sedona",
     "owner": "Soner_Io",
     "status": "Занято",
     "x": 1095.15,
@@ -10528,7 +10540,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Date_Idea",
+    "owner": "Sanek_Kleinanzeigen",
     "status": "Занято",
     "x": -2058.54,
     "y": -2503.38,
@@ -11312,6 +11324,18 @@
     "status": "Занято",
     "x": -2158.94,
     "y": 769.9379,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 961,
+    "server_id": 33,
+    "type": "house",
+    "name": "Gallardo House",
+    "owner": "Maksim_Gallardo",
+    "status": "Занято",
+    "x": -2158.17,
+    "y": 753.703,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14464,7 +14488,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Date_Idea",
+    "owner": "Mushkin_Pushkin",
     "status": "Занято",
     "x": -2477.21,
     "y": 1318.55,
@@ -15152,6 +15176,18 @@
     "status": "Занято",
     "x": -2621.02,
     "y": -134.798,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1286,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Goga_Gang",
+    "status": "Занято",
+    "x": -2619.75,
+    "y": -127.581,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16611,8 +16647,8 @@
     "id": 1412,
     "server_id": 33,
     "type": "house",
-    "name": "Mozol House",
-    "owner": "Sergio_Mozol",
+    "name": "legovy BO$$",
+    "owner": "legovy",
     "status": "Занято",
     "x": 1115.72,
     "y": -1570.0,
@@ -22224,18 +22260,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 66,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mushkin_Pushkin",
-    "status": "Аукцион",
-    "x": 2451.93,
-    "y": -1641.41,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 68,
     "server_id": 33,
     "type": "house",
@@ -22280,7 +22304,7 @@
     "status": "Аукцион",
     "x": 2043.25,
     "y": 651.7869,
-    "price": 550000000,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22392,18 +22416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 961,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mushkin_Pushkin",
-    "status": "Аукцион",
-    "x": -2158.17,
-    "y": 753.703,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 990,
     "server_id": 33,
     "type": "house",
@@ -22449,18 +22461,6 @@
     "x": 1817.86,
     "y": -1286.76,
     "price": 990000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1286,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mushkin_Pushkin",
-    "status": "Аукцион",
-    "x": -2619.75,
-    "y": -127.581,
-    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25408,7 +25408,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Rick_Trader",
+    "owner": "SeriK_Trader",
     "status": "Занято",
     "x": -88.37,
     "y": 101.05,
