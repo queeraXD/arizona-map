@@ -3012,6 +3012,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 251,
+    "server_id": 26,
+    "type": "house",
+    "name": "ДЕП УСЛОВИЯ, ГАРДЕРОБ, ШКАФ",
+    "owner": "Yuki_Ximura",
+    "status": "Занято",
+    "x": 2480.55,
+    "y": 126.995,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 252,
     "server_id": 26,
     "type": "house",
@@ -3363,7 +3375,7 @@
     "id": 281,
     "server_id": 26,
     "type": "house",
-    "name": "УЛУЧШЕНИЕ НА ШКАФ",
+    "name": "Squirt",
     "owner": "Sofia_Quirt",
     "status": "Занято",
     "x": 2551.22,
@@ -10132,7 +10144,7 @@
     "server_id": 26,
     "type": "house",
     "name": "afk farm",
-    "owner": "BOSHAY_TORPEDA",
+    "owner": "Shit_Talking",
     "status": "Занято",
     "x": -2222.18,
     "y": 1163.98,
@@ -15176,18 +15188,6 @@
     "status": "Занято",
     "x": -2690.78,
     "y": 102.2819,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1274,
-    "server_id": 26,
-    "type": "house",
-    "name": "Тут живет злой Тони",
-    "owner": "KopoHa_Bupyc",
-    "status": "Занято",
-    "x": -2689.51,
-    "y": 96.3162,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22296,6 +22296,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1867,
+    "server_id": 26,
+    "type": "house",
+    "name": "Collin^s",
+    "owner": "Taras_Bulba",
+    "status": "Занято",
+    "x": -2620.79,
+    "y": 103.388,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1868,
     "server_id": 26,
     "type": "house",
@@ -23408,6 +23420,18 @@
     "status": "Занято",
     "x": -2620.24,
     "y": 883.114,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1961,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yuki_Ximura",
+    "status": "Занято",
+    "x": -2620.03,
+    "y": 874.869,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25056,30 +25080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2013,
-    "server_id": 26,
-    "type": "house",
-    "name": "Vodnaya Beyba",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1786.53,
-    "y": 2867.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 251,
-    "server_id": 26,
-    "type": "house",
-    "name": "ДЕП УСЛОВИЯ, ГАРДЕРОБ, ШКАФ",
-    "owner": "Yuki_Ximura",
-    "status": "Аукцион",
-    "x": 2480.55,
-    "y": 126.995,
-    "price": 450000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 487,
     "server_id": 26,
     "type": "house",
@@ -25164,27 +25164,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1867,
+    "id": 1274,
     "server_id": 26,
     "type": "house",
-    "name": "Collin^s",
-    "owner": "Egorio_Supreme",
+    "name": "Тут живет злой Тони",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": -2620.79,
-    "y": 103.388,
-    "price": 60123123,
+    "x": -2689.51,
+    "y": 96.3162,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1961,
+    "id": 2013,
     "server_id": 26,
     "type": "house",
-    "name": "Дом",
-    "owner": "Yuki_Ximura",
+    "name": "Vodnaya Beyba",
+    "owner": "Shit_Talking",
     "status": "Аукцион",
-    "x": -2620.03,
-    "y": 874.869,
-    "price": 100000000,
+    "x": 1786.53,
+    "y": 2867.73,
+    "price": 55123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 72,
+    "server_id": 26,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Baza_Priem",
+    "status": "Аукцион",
+    "x": 1998.29,
+    "y": 2302.91,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 189,
+    "server_id": 26,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Baza_Priem",
+    "status": "Аукцион",
+    "x": -1981.62,
+    "y": 174.636,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 267,
+    "server_id": 26,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Baza_Priem",
+    "status": "Аукцион",
+    "x": 1460.33,
+    "y": 2784.8,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25808,18 +25844,6 @@
     "status": "Занято",
     "x": 2014.82,
     "y": 1107.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 72,
-    "server_id": 26,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Baza_Priem",
-    "status": "Занято",
-    "x": 1998.29,
-    "y": 2302.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28092,18 +28116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 189,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Baza_Priem",
-    "status": "Занято",
-    "x": -1981.62,
-    "y": 174.636,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 190,
     "server_id": 26,
     "type": "business",
@@ -28400,18 +28412,6 @@
     "status": "Занято",
     "x": 947.921,
     "y": 1719.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 267,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Baza_Priem",
-    "status": "Занято",
-    "x": 1460.33,
-    "y": 2784.8,
     "price": 0,
     "district": "Сан-Андреас"
   },
