@@ -2688,6 +2688,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 224,
+    "server_id": 8,
+    "type": "house",
+    "name": "tg:fiftytwooo5252",
+    "owner": "Xros_Pyatiy",
+    "status": "Занято",
+    "x": 898.2739,
+    "y": -677.5339,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 225,
     "server_id": 8,
     "type": "house",
@@ -3860,6 +3872,18 @@
     "status": "Занято",
     "x": 795.195,
     "y": -506.406,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 323,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Idushchijkreke",
+    "status": "Занято",
+    "x": 776.6719,
+    "y": -503.492,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10028,18 +10052,6 @@
     "status": "Занято",
     "x": 687.2449,
     "y": -445.644,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 840,
-    "server_id": 8,
-    "type": "house",
-    "name": "OXIDIZE турбопацаны 4",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": -2158.59,
-    "y": 830.713,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17760,18 +17772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1485,
-    "server_id": 8,
-    "type": "house",
-    "name": "COSMO",
-    "owner": "Jeffy_Cosmo",
-    "status": "Занято",
-    "x": 2408.01,
-    "y": -1106.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1486,
     "server_id": 8,
     "type": "house",
@@ -18248,18 +18248,6 @@
     "status": "Занято",
     "x": 2690.54,
     "y": -1203.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1526,
-    "server_id": 8,
-    "type": "house",
-    "name": "бесовесные",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": 2700.2,
-    "y": -1200.02,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22035,7 +22023,7 @@
     "id": 1841,
     "server_id": 8,
     "type": "house",
-    "name": "Халф Лайф",
+    "name": "несправедливость шипучка",
     "owner": "Alexey_Frakoz",
     "status": "Занято",
     "x": 2473.09,
@@ -23645,10 +23633,10 @@
     "type": "house",
     "name": "chudo",
     "owner": "Chudo_Yudo",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2517.04,
     "y": 1679.27,
-    "price": 500000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -25740,30 +25728,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 224,
-    "server_id": 8,
-    "type": "house",
-    "name": "tg:fiftytwooo5252",
-    "owner": "Xros_Pyatiy",
-    "status": "Аукцион",
-    "x": 898.2739,
-    "y": -677.5339,
-    "price": 5000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 323,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Idushchijkreke",
-    "status": "Аукцион",
-    "x": 776.6719,
-    "y": -503.492,
-    "price": 5000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 432,
     "server_id": 8,
     "type": "house",
@@ -25785,6 +25749,54 @@
     "x": 1549.98,
     "y": 2096.4,
     "price": 1100228228,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 840,
+    "server_id": 8,
+    "type": "house",
+    "name": "OXIDIZE турбопацаны 4",
+    "owner": "Kolya_Infinity",
+    "status": "Аукцион",
+    "x": -2158.59,
+    "y": 830.713,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1485,
+    "server_id": 8,
+    "type": "house",
+    "name": "COSMO",
+    "owner": "Jeffy_Cosmo",
+    "status": "Аукцион",
+    "x": 2408.01,
+    "y": -1106.97,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1526,
+    "server_id": 8,
+    "type": "house",
+    "name": "бесовесные",
+    "owner": "Kolya_Infinity",
+    "status": "Аукцион",
+    "x": 2700.2,
+    "y": -1200.02,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 8,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Orochimaru_Mikami",
+    "status": "Аукцион",
+    "x": 2366.7,
+    "y": 2071.11,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -27860,18 +27872,6 @@
     "status": "Занято",
     "x": 2392.56,
     "y": 2042.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 8,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Orochimaru_Mikami",
-    "status": "Занято",
-    "x": 2366.7,
-    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },

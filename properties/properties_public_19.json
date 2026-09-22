@@ -4968,18 +4968,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 416,
-    "server_id": 19,
-    "type": "house",
-    "name": "Blackridj",
-    "owner": "Hiroto_Page",
-    "status": "Занято",
-    "x": 1303.1,
-    "y": 186.9129,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 417,
     "server_id": 19,
     "type": "house",
@@ -5732,18 +5720,6 @@
     "status": "Занято",
     "x": 2228.61,
     "y": 690.2319,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 480,
-    "server_id": 19,
-    "type": "house",
-    "name": "Yamato_Morito",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": 2256.91,
-    "y": 690.51,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6680,6 +6656,18 @@
     "status": "Занято",
     "x": 312.3569,
     "y": 1068.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 559,
+    "server_id": 19,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Takumi_Farmila",
+    "status": "Занято",
+    "x": 238.8159,
+    "y": 1026.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13008,18 +12996,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1094,
-    "server_id": 19,
-    "type": "house",
-    "name": "маненький house",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": -2210.98,
-    "y": 902.885,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1095,
     "server_id": 19,
     "type": "house",
@@ -18564,18 +18540,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1559,
-    "server_id": 19,
-    "type": "house",
-    "name": "lunixnapike",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": 1945.53,
-    "y": 663.577,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1560,
     "server_id": 19,
     "type": "house",
@@ -21852,15 +21816,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 559,
+    "id": 416,
     "server_id": 19,
     "type": "house",
-    "name": "40 squad",
-    "owner": "Takumi_Farmila",
+    "name": "Blackridj",
+    "owner": "Hiroto_Page",
     "status": "Аукцион",
-    "x": 238.8159,
-    "y": 1026.24,
-    "price": 120000000,
+    "x": 1303.1,
+    "y": 186.9129,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 480,
+    "server_id": 19,
+    "type": "house",
+    "name": "Yamato_Morito",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": 2256.91,
+    "y": 690.51,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21936,6 +21912,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1094,
+    "server_id": 19,
+    "type": "house",
+    "name": "маненький house",
+    "owner": "Spike_Scout",
+    "status": "Аукцион",
+    "x": -2210.98,
+    "y": 902.885,
+    "price": 30000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1219,
     "server_id": 19,
     "type": "house",
@@ -21956,6 +21944,18 @@
     "status": "Аукцион",
     "x": -2433.99,
     "y": 1274.1,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1559,
+    "server_id": 19,
+    "type": "house",
+    "name": "lunixnapike",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": 1945.53,
+    "y": 663.577,
     "price": 20000000,
     "district": "Сан-Андреас"
   },
@@ -22076,31 +22076,7 @@
     "status": "Аукцион",
     "x": -2672.26,
     "y": 258.431,
-    "price": 5000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 196,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Przemko_Nowak",
-    "status": "Аукцион",
-    "x": -2681.61,
-    "y": 583.93,
-    "price": 3500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 217,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Przemko_Nowak",
-    "status": "Аукцион",
-    "x": 2537.82,
-    "y": 2137.12,
-    "price": 4000000000,
+    "price": 4500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25068,6 +25044,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 196,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Boby_Singer",
+    "status": "Занято",
+    "x": -2681.61,
+    "y": 583.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 197,
     "server_id": 19,
     "type": "business",
@@ -25232,6 +25220,18 @@
     "status": "Занято",
     "x": 2327.86,
     "y": 2421.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 217,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Boby_Singer",
+    "status": "Занято",
+    "x": 2537.82,
+    "y": 2137.12,
     "price": 0,
     "district": "Сан-Андреас"
   },

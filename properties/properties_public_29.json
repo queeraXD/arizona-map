@@ -3096,6 +3096,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 258,
+    "server_id": 29,
+    "type": "house",
+    "name": "<3Golden House<3",
+    "owner": "Ford_Belford",
+    "status": "Занято",
+    "x": 2131.66,
+    "y": -973.916,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 259,
     "server_id": 29,
     "type": "house",
@@ -3908,18 +3920,6 @@
     "status": "Занято",
     "x": 340.0769,
     "y": 33.6021,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 327,
-    "server_id": 29,
-    "type": "house",
-    "name": "<3 Residence of Monopoly <3",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": 342.376,
-    "y": 62.625,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9987,7 +9987,7 @@
     "id": 834,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
+    "name": "Drochilnya",
     "owner": "Froggi_Scoundrels",
     "status": "Занято",
     "x": -2233.89,
@@ -11436,18 +11436,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 955,
-    "server_id": 29,
-    "type": "house",
-    "name": "1am",
-    "owner": "Bop_Begemotov",
-    "status": "Занято",
-    "x": -2159.6,
-    "y": 946.984,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 956,
     "server_id": 29,
     "type": "house",
@@ -11756,18 +11744,6 @@
     "status": "Занято",
     "x": -2278.81,
     "y": 787.749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 982,
-    "server_id": 29,
-    "type": "house",
-    "name": "Есть деп условия)",
-    "owner": "Vova_BabyTron",
-    "status": "Занято",
-    "x": -2286.53,
-    "y": 796.7609,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14252,18 +14228,6 @@
     "status": "Занято",
     "x": -2791.85,
     "y": -41.8134,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1190,
-    "server_id": 29,
-    "type": "house",
-    "name": "Монополия имени Сетха Торреса",
-    "owner": "Blitz_Mood",
-    "status": "Занято",
-    "x": -2791.58,
-    "y": -35.9182,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21108,15 +21072,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 258,
+    "id": 327,
     "server_id": 29,
     "type": "house",
-    "name": "<3Golden House<3",
-    "owner": "School_Girl",
+    "name": "<3 Residence of Monopoly <3",
+    "owner": "Kolya_Infinity",
     "status": "Аукцион",
-    "x": 2131.66,
-    "y": -973.916,
-    "price": 10000000,
+    "x": 342.376,
+    "y": 62.625,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21129,6 +21093,42 @@
     "x": 985.354,
     "y": 2343.7,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 955,
+    "server_id": 29,
+    "type": "house",
+    "name": "1am",
+    "owner": "Bop_Begemotov",
+    "status": "Аукцион",
+    "x": -2159.6,
+    "y": 946.984,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 982,
+    "server_id": 29,
+    "type": "house",
+    "name": "Есть деп условия)",
+    "owner": "Vova_BabyTron",
+    "status": "Аукцион",
+    "x": -2286.53,
+    "y": 796.7609,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1190,
+    "server_id": 29,
+    "type": "house",
+    "name": "Монополия имени Сетха Торреса",
+    "owner": "Blitz_Mood",
+    "status": "Аукцион",
+    "x": -2791.58,
+    "y": -35.9182,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22228,7 +22228,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Телефонные коммуникации",
-    "owner": "Euphoria_Distress",
+    "owner": "Rico_Fletcher",
     "status": "Занято",
     "x": 2006.82,
     "y": 1219.38,

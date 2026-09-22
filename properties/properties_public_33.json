@@ -144,18 +144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 12,
-    "server_id": 33,
-    "type": "house",
-    "name": "OLX",
-    "owner": "Tinki_Winki",
-    "status": "Занято",
-    "x": 2095.36,
-    "y": -1145.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 13,
     "server_id": 33,
     "type": "house",
@@ -1167,7 +1155,7 @@
     "id": 98,
     "server_id": 33,
     "type": "house",
-    "name": "Disappearez",
+    "name": "Sacredov",
     "owner": "Glamour_SilvaMillion",
     "status": "Занято",
     "x": 2652.88,
@@ -1179,7 +1167,7 @@
     "id": 99,
     "server_id": 33,
     "type": "house",
-    "name": "Disappearez",
+    "name": "Sacredov",
     "owner": "Glamour_SilvaMillion",
     "status": "Занято",
     "x": 2637.13,
@@ -1191,7 +1179,7 @@
     "id": 100,
     "server_id": 33,
     "type": "house",
-    "name": "Disappearez",
+    "name": "Sacredov",
     "owner": "Glamour_SilvaMillion",
     "status": "Занято",
     "x": 2636.44,
@@ -3436,7 +3424,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Lil_Krystalll",
+    "owner": "Oxota_Krepkaya",
     "status": "Занято",
     "x": 2491.35,
     "y": -1012.34,
@@ -4840,7 +4828,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Magic_Rust",
+    "owner": "Joy_Wallker",
     "status": "Занято",
     "x": 1451.08,
     "y": 374.286,
@@ -6893,10 +6881,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Vini_Puxov",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -219.5899,
     "y": 2767.46,
-    "price": 250000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -7316,6 +7304,30 @@
     "status": "Занято",
     "x": -886.291,
     "y": 1514.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 622,
+    "server_id": 33,
+    "type": "house",
+    "name": "Одиночка Движа",
+    "owner": "Velikiy_Dvizh",
+    "status": "Занято",
+    "x": -1051.59,
+    "y": 1549.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 623,
+    "server_id": 33,
+    "type": "house",
+    "name": "Одиночка Движа",
+    "owner": "Velikiy_Dvizh",
+    "status": "Занято",
+    "x": -1499.93,
+    "y": 1960.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11436,6 +11448,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 973,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Maks_Maksbetov",
+    "status": "Занято",
+    "x": -2478.74,
+    "y": 2488.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 974,
     "server_id": 33,
     "type": "house",
@@ -11840,6 +11864,18 @@
     "status": "Занято",
     "x": -2549.0,
     "y": 1145.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1009,
+    "server_id": 33,
+    "type": "house",
+    "name": "Полицейский департамент ",
+    "owner": "Kirill_Maladores",
+    "status": "Занято",
+    "x": -2517.07,
+    "y": 1142.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18807,8 +18843,8 @@
     "id": 1621,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
-    "owner": "Ward_Memphis",
+    "name": "NAMY КРАСАВЧИК",
+    "owner": "Namy_Spirit",
     "status": "Занято",
     "x": 2541.53,
     "y": 1220.66,
@@ -18856,7 +18892,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Rustopia EU Main",
-    "owner": "Magic_Rust",
+    "owner": "Joy_Wallker",
     "status": "Занято",
     "x": 2707.33,
     "y": -1224.68,
@@ -20944,7 +20980,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Infinity",
-    "owner": "Maks_Maksbetov",
+    "owner": "Igor_Ageev",
     "status": "Занято",
     "x": 2610.33,
     "y": 2142.34,
@@ -22236,6 +22272,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 12,
+    "server_id": 33,
+    "type": "house",
+    "name": "OLX",
+    "owner": "Tinki_Winki",
+    "status": "Аукцион",
+    "x": 2095.36,
+    "y": -1145.09,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 68,
     "server_id": 33,
     "type": "house",
@@ -22368,30 +22416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 622,
-    "server_id": 33,
-    "type": "house",
-    "name": "Одиночка Движа",
-    "owner": "Velikiy_Dvizh",
-    "status": "Аукцион",
-    "x": -1051.59,
-    "y": 1549.59,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 623,
-    "server_id": 33,
-    "type": "house",
-    "name": "Одиночка Движа",
-    "owner": "Velikiy_Dvizh",
-    "status": "Аукцион",
-    "x": -1499.93,
-    "y": 1960.46,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 642,
     "server_id": 33,
     "type": "house",
@@ -22428,18 +22452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 973,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pepsikolniy_Thug",
-    "status": "Аукцион",
-    "x": -2478.74,
-    "y": 2488.76,
-    "price": 12000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 993,
     "server_id": 33,
     "type": "house",
@@ -22449,18 +22461,6 @@
     "x": -2551.78,
     "y": 2267.08,
     "price": 2400123111,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1009,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pepsikolniy_Thug",
-    "status": "Аукцион",
-    "x": -2517.07,
-    "y": 1142.17,
-    "price": 120000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24268,7 +24268,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Magic_Rust",
+    "owner": "Joy_Wallker",
     "status": "Занято",
     "x": 1872.26,
     "y": 2071.74,

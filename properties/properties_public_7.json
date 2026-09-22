@@ -4764,6 +4764,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 402,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
+    "status": "Занято",
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 403,
     "server_id": 7,
     "type": "house",
@@ -7172,18 +7184,6 @@
     "status": "Занято",
     "x": -1562.54,
     "y": 2650.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 604,
-    "server_id": 7,
-    "type": "house",
-    "name": "First Club",
-    "owner": "Byr_Malda",
-    "status": "Занято",
-    "x": -1568.17,
-    "y": 2629.75,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21804,18 +21804,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1824,
-    "server_id": 7,
-    "type": "house",
-    "name": "Хата кабана",
-    "owner": "Byr_Malda",
-    "status": "Занято",
-    "x": 2794.15,
-    "y": 2221.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1825,
     "server_id": 7,
     "type": "house",
@@ -23144,18 +23132,6 @@
     "status": "Занято",
     "x": -269.4779,
     "y": 894.2839,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1937,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дрочильня",
-    "owner": "Byr_Malda",
-    "status": "Занято",
-    "x": -283.9819,
-    "y": 907.0859,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24504,18 +24480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2051,
-    "server_id": 7,
-    "type": "house",
-    "name": "Домик",
-    "owner": "Cemorial_Black",
-    "status": "Занято",
-    "x": 1733.4,
-    "y": 2814.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2052,
     "server_id": 7,
     "type": "house",
@@ -25500,15 +25464,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 402,
+    "id": 604,
     "server_id": 7,
     "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
+    "name": "First Club",
+    "owner": "Byr_Malda",
     "status": "Аукцион",
-    "x": 2448.44,
-    "y": -11.0635,
-    "price": 10000000000,
+    "x": -1568.17,
+    "y": 2629.75,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {
@@ -25524,6 +25488,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1824,
+    "server_id": 7,
+    "type": "house",
+    "name": "Хата кабана",
+    "owner": "Byr_Malda",
+    "status": "Аукцион",
+    "x": 2794.15,
+    "y": 2221.92,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1909,
     "server_id": 7,
     "type": "house",
@@ -25536,6 +25512,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1937,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дрочильня",
+    "owner": "Byr_Malda",
+    "status": "Аукцион",
+    "x": -283.9819,
+    "y": 907.0859,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1953,
     "server_id": 7,
     "type": "house",
@@ -25545,6 +25533,18 @@
     "x": 2487.29,
     "y": -1398.81,
     "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2051,
+    "server_id": 7,
+    "type": "house",
+    "name": "Домик",
+    "owner": "Cemorial_Black",
+    "status": "Аукцион",
+    "x": 1733.4,
+    "y": 2814.95,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {

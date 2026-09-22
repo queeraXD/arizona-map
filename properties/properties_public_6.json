@@ -10140,18 +10140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 846,
-    "server_id": 6,
-    "type": "house",
-    "name": "#russianmafiaextra",
-    "owner": "Russian_MafiaExtra",
-    "status": "Занято",
-    "x": -2240.49,
-    "y": 1054.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 847,
     "server_id": 6,
     "type": "house",
@@ -10215,8 +10203,8 @@
     "id": 852,
     "server_id": 6,
     "type": "house",
-    "name": "#russianmafiaextra",
-    "owner": "Russian_MafiaExtra",
+    "name": "House",
+    "owner": "Earl_Cartman",
     "status": "Занято",
     "x": -2281.78,
     "y": 1023.14,
@@ -10968,18 +10956,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 915,
-    "server_id": 6,
-    "type": "house",
-    "name": "#russianmafiaextra",
-    "owner": "Russian_MafiaExtra",
-    "status": "Занято",
-    "x": -2160.06,
-    "y": 1048.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 916,
     "server_id": 6,
     "type": "house",
@@ -11204,18 +11180,6 @@
     "status": "Занято",
     "x": -2158.06,
     "y": 889.3419,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 935,
-    "server_id": 6,
-    "type": "house",
-    "name": "#russianmafiaextra",
-    "owner": "Russian_MafiaExtra",
-    "status": "Занято",
-    "x": -2174.28,
-    "y": 903.002,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18276,6 +18240,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1524,
+    "server_id": 6,
+    "type": "house",
+    "name": "биба и боба",
+    "owner": "Artem_Perec",
+    "status": "Занято",
+    "x": 2355.59,
+    "y": -1038.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1525,
     "server_id": 6,
     "type": "house",
@@ -24492,15 +24468,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1524,
+    "id": 846,
     "server_id": 6,
     "type": "house",
-    "name": "биба и боба",
-    "owner": "Maria_Borowa",
+    "name": "#russianmafiaextra",
+    "owner": "Russian_MafiaExtra",
     "status": "Аукцион",
-    "x": 2355.59,
-    "y": -1038.57,
-    "price": 100000000,
+    "x": -2240.49,
+    "y": 1054.14,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 915,
+    "server_id": 6,
+    "type": "house",
+    "name": "#russianmafiaextra",
+    "owner": "Russian_MafiaExtra",
+    "status": "Аукцион",
+    "x": -2160.06,
+    "y": 1048.58,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 935,
+    "server_id": 6,
+    "type": "house",
+    "name": "#russianmafiaextra",
+    "owner": "Russian_MafiaExtra",
+    "status": "Аукцион",
+    "x": -2174.28,
+    "y": 903.002,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
