@@ -4212,18 +4212,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 351,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Monopoly Asylum Family ~",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": 1283.53,
-    "y": -897.7899,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 352,
     "server_id": 19,
     "type": "house",
@@ -4232,18 +4220,6 @@
     "status": "Занято",
     "x": 1290.98,
     "y": -896.9199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 353,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Monopoly Asylum Family ~",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": 1283.53,
-    "y": -897.827,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -4996,7 +4972,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Blackridj",
-    "owner": "Nikita_Blackridj",
+    "owner": "Hiroto_Page",
     "status": "Занято",
     "x": 1303.1,
     "y": 186.9129,
@@ -7140,18 +7116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 597,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Monopoly Asylum Family ~",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": -1450.71,
-    "y": 2691.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 598,
     "server_id": 19,
     "type": "house",
@@ -8720,18 +8684,6 @@
     "status": "Занято",
     "x": 1588.46,
     "y": 2797.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 732,
-    "server_id": 19,
-    "type": "house",
-    "name": "trappa house",
-    "owner": "Astral_Angel",
-    "status": "Занято",
-    "x": -2622.35,
-    "y": -198.1479,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12984,18 +12936,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1088,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": -2158.98,
-    "y": 866.3289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1089,
     "server_id": 19,
     "type": "house",
@@ -14732,18 +14672,6 @@
     "status": "Занято",
     "x": -2433.73,
     "y": 1281.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1235,
-    "server_id": 19,
-    "type": "house",
-    "name": "Katsu House",
-    "owner": "Astral_Angel",
-    "status": "Занято",
-    "x": -2433.99,
-    "y": 1274.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18868,7 +18796,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Nikita_Zhikharev",
+    "owner": "Podpal_Drynov",
     "status": "Занято",
     "x": 1745.52,
     "y": 2770.07,
@@ -19280,18 +19208,6 @@
     "status": "Занято",
     "x": 1794.69,
     "y": 2753.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1621,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~ ",
-    "owner": "Podpal_Drynov",
-    "status": "Занято",
-    "x": 1795.44,
-    "y": 2755.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21864,6 +21780,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 351,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Monopoly Asylum Family ~",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": 1283.53,
+    "y": -897.7899,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 353,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Monopoly Asylum Family ~",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": 1283.53,
+    "y": -897.827,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 559,
     "server_id": 19,
     "type": "house",
@@ -21885,6 +21825,18 @@
     "x": -604.3229,
     "y": 2716.72,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 597,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Monopoly Asylum Family ~",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": -1450.71,
+    "y": 2691.05,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21924,6 +21876,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 732,
+    "server_id": 19,
+    "type": "house",
+    "name": "trappa house",
+    "owner": "Astral_Angel",
+    "status": "Аукцион",
+    "x": -2622.35,
+    "y": -198.1479,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1088,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Brutto_Asylum",
+    "status": "Аукцион",
+    "x": -2158.98,
+    "y": 866.3289,
+    "price": 120000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1219,
     "server_id": 19,
     "type": "house",
@@ -21933,6 +21909,18 @@
     "x": -2904.81,
     "y": 1111.64,
     "price": 5000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1235,
+    "server_id": 19,
+    "type": "house",
+    "name": "Katsu House",
+    "owner": "Astral_Angel",
+    "status": "Аукцион",
+    "x": -2433.99,
+    "y": 1274.1,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22017,6 +22005,18 @@
     "x": 2794.33,
     "y": 2260.94,
     "price": 850000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1621,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~ ",
+    "owner": "Podpal_Drynov",
+    "status": "Аукцион",
+    "x": 1795.44,
+    "y": 2755.79,
+    "price": 20123123,
     "district": "Сан-Андреас"
   },
   {
