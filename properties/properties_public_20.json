@@ -783,7 +783,7 @@
     "id": 65,
     "server_id": 20,
     "type": "house",
-    "name": "Terrifier House №4",
+    "name": "Recorti Avenue",
     "owner": "Terrifier_Star",
     "status": "Занято",
     "x": 2469.52,
@@ -1076,6 +1076,18 @@
     "status": "Занято",
     "x": 2016.2,
     "y": -1716.96,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 90,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Troy_FIoyd",
+    "status": "Занято",
+    "x": 2017.75,
+    "y": -1703.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -1383,7 +1395,7 @@
     "id": 116,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
+    "name": "Terrifier House №5",
     "owner": "Terrifier_Star",
     "status": "Занято",
     "x": 1938.19,
@@ -1407,7 +1419,7 @@
     "id": 118,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
+    "name": "Terrifier House №4",
     "owner": "Terrifier_Star",
     "status": "Занято",
     "x": 1913.53,
@@ -21696,18 +21708,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1815,
-    "server_id": 20,
-    "type": "house",
-    "name": "Пажилой HOUSE 1815",
-    "owner": "Blizzard_Lovlya",
-    "status": "Занято",
-    "x": 2623.76,
-    "y": 1978.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1816,
     "server_id": 20,
     "type": "house",
@@ -22272,18 +22272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 90,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Troy_FIoyd",
-    "status": "Аукцион",
-    "x": 2017.75,
-    "y": -1703.38,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 434,
     "server_id": 20,
     "type": "house",
@@ -22356,6 +22344,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1815,
+    "server_id": 20,
+    "type": "house",
+    "name": "Пажилой HOUSE 1815",
+    "owner": "Blizzard_Lovlya",
+    "status": "Аукцион",
+    "x": 2623.76,
+    "y": 1978.84,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 19,
     "server_id": 20,
     "type": "business",
@@ -22365,6 +22365,30 @@
     "x": 1000.11,
     "y": -920.027,
     "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 200,
+    "server_id": 20,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Radovan_Karadzic",
+    "status": "Аукцион",
+    "x": -1983.44,
+    "y": 127.66,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 20,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Radovan_Karadzic",
+    "status": "Аукцион",
+    "x": -2373.8,
+    "y": 910.117,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23384,18 +23408,6 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 20,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Radovan_Karadzic",
-    "status": "Занято",
-    "x": -2373.8,
-    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25388,18 +25400,6 @@
     "status": "Занято",
     "x": 1771.74,
     "y": -1903.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 200,
-    "server_id": 20,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Radovan_Karadzic",
-    "status": "Занято",
-    "x": -1983.44,
-    "y": 127.66,
     "price": 0,
     "district": "Сан-Андреас"
   },

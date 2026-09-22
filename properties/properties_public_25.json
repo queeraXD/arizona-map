@@ -10776,18 +10776,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 899,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Freez_Reez",
-    "status": "Занято",
-    "x": -2069.05,
-    "y": -2561.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 900,
     "server_id": 25,
     "type": "house",
@@ -12884,18 +12872,6 @@
     "status": "Занято",
     "x": -2900.45,
     "y": 1056.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1076,
-    "server_id": 25,
-    "type": "house",
-    "name": "ОтдыХалка",
-    "owner": "Duxa",
-    "status": "Занято",
-    "x": -2901.54,
-    "y": 1033.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15188,18 +15164,6 @@
     "status": "Занято",
     "x": -2301.78,
     "y": 580.0339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1268,
-    "server_id": 25,
-    "type": "house",
-    "name": "Нычка для фарма",
-    "owner": "Freez_Reez",
-    "status": "Занято",
-    "x": -2621.98,
-    "y": 168.636,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23736,6 +23700,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 899,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Freez_Reez",
+    "status": "Аукцион",
+    "x": -2069.05,
+    "y": -2561.36,
+    "price": 200000775,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 956,
     "server_id": 25,
     "type": "house",
@@ -23745,6 +23721,30 @@
     "x": -2192.67,
     "y": 934.1019,
     "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1076,
+    "server_id": 25,
+    "type": "house",
+    "name": "ОтдыХалка",
+    "owner": "Duxa",
+    "status": "Аукцион",
+    "x": -2901.54,
+    "y": 1033.81,
+    "price": 200200200,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1268,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Freez_Reez",
+    "status": "Аукцион",
+    "x": -2621.98,
+    "y": 168.636,
+    "price": 250000775,
     "district": "Сан-Андреас"
   },
   {
@@ -25552,7 +25552,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Закусочная",
-    "owner": "John_Gromov",
+    "owner": "Conor_Gromov",
     "status": "Занято",
     "x": -1213.8,
     "y": 1830.33,

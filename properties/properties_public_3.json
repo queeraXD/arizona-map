@@ -6324,18 +6324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 527,
-    "server_id": 3,
-    "type": "house",
-    "name": ":la::ll::la::ln:(T):lr::le::lz:",
-    "owner": "Leso_Polosa",
-    "status": "Занято",
-    "x": 2039.57,
-    "y": 2766.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 528,
     "server_id": 3,
     "type": "house",
@@ -8152,7 +8140,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Foxes Empire ",
-    "owner": "Fox_Hound",
+    "owner": "Akyiama_Foxes",
     "status": "Занято",
     "x": 986.426,
     "y": 2271.81,
@@ -8576,18 +8564,6 @@
     "status": "Занято",
     "x": 1570.38,
     "y": 2711.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 715,
-    "server_id": 3,
-    "type": "house",
-    "name": "Fruktoviy Empire",
-    "owner": "Takeru_Rize",
-    "status": "Занято",
-    "x": 1580.14,
-    "y": 2708.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9952,7 +9928,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Дом",
-    "owner": "Tyler_Knight",
+    "owner": "Yagoda_Master",
     "status": "Занято",
     "x": -2723.16,
     "y": -16.7231,
@@ -12388,7 +12364,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Дом",
-    "owner": "Tyler_Knight",
+    "owner": "Yagoda_Master",
     "status": "Занято",
     "x": -2029.92,
     "y": 745.7719,
@@ -13972,7 +13948,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Дом",
-    "owner": "Tyler_Knight",
+    "owner": "Yagoda_Master",
     "status": "Занято",
     "x": -2791.87,
     "y": -24.398,
@@ -16424,18 +16400,6 @@
     "status": "Занято",
     "x": 731.117,
     "y": -1012.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1372,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Postavshik_Snaryadov",
-    "status": "Занято",
-    "x": -2621.04,
-    "y": 96.7973,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23976,6 +23940,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 527,
+    "server_id": 3,
+    "type": "house",
+    "name": ":la::ll::la::ln:(T):lr::le::lz:",
+    "owner": "Leso_Polosa",
+    "status": "Аукцион",
+    "x": 2039.57,
+    "y": 2766.53,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 715,
+    "server_id": 3,
+    "type": "house",
+    "name": "Fruktoviy Empire",
+    "owner": "Takeru_Rize",
+    "status": "Аукцион",
+    "x": 1580.14,
+    "y": 2708.88,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 780,
     "server_id": 3,
     "type": "house",
@@ -23997,6 +23985,18 @@
     "x": -2793.14,
     "y": 110.9339,
     "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1372,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Postavshik_Snaryadov",
+    "status": "Аукцион",
+    "x": -2621.04,
+    "y": 96.7973,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

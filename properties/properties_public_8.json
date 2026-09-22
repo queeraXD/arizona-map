@@ -2784,18 +2784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 233,
-    "server_id": 8,
-    "type": "house",
-    "name": "Каспиан Склад",
-    "owner": "India_Eisley",
-    "status": "Занято",
-    "x": 470.8739,
-    "y": -1164.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 234,
     "server_id": 8,
     "type": "house",
@@ -9156,18 +9144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 766,
-    "server_id": 8,
-    "type": "house",
-    "name": "House Skupka_RedRock",
-    "owner": "Skupka_RedRock",
-    "status": "Занято",
-    "x": -2687.81,
-    "y": 803.0819,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 767,
     "server_id": 8,
     "type": "house",
@@ -13611,7 +13587,7 @@
     "id": 1139,
     "server_id": 8,
     "type": "house",
-    "name": "for sell (uotofrome ds&tg)",
+    "name": "каспик склад",
     "owner": "Caspian_Cargo",
     "status": "Занято",
     "x": -2429.16,
@@ -23448,18 +23424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1961,
-    "server_id": 8,
-    "type": "house",
-    "name": "GOODMAN EMPIRE",
-    "owner": "Manifest_True",
-    "status": "Занято",
-    "x": 2751.5,
-    "y": -1936.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1962,
     "server_id": 8,
     "type": "house",
@@ -25728,6 +25692,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 233,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "India_Eisley",
+    "status": "Аукцион",
+    "x": 470.8739,
+    "y": -1164.12,
+    "price": 4500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 514,
     "server_id": 8,
     "type": "house",
@@ -25749,6 +25725,18 @@
     "x": 1554.44,
     "y": 2610.42,
     "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 766,
+    "server_id": 8,
+    "type": "house",
+    "name": "House Skupka_RedRock",
+    "owner": "Skupka_RedRock",
+    "status": "Аукцион",
+    "x": -2687.81,
+    "y": 803.0819,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25785,6 +25773,18 @@
     "x": 2700.2,
     "y": -1200.02,
     "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1961,
+    "server_id": 8,
+    "type": "house",
+    "name": "GOODMAN EMPIRE",
+    "owner": "Manifest_True",
+    "status": "Аукцион",
+    "x": 2751.5,
+    "y": -1936.14,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {

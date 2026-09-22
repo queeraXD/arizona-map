@@ -3816,18 +3816,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 318,
-    "server_id": 2,
-    "type": "house",
-    "name": ":uf259:Aristokratov:uf259:",
-    "owner": "Artur_Aristokratov",
-    "status": "Занято",
-    "x": 736.669,
-    "y": -556.783,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 319,
     "server_id": 2,
     "type": "house",
@@ -9435,8 +9423,8 @@
     "id": 787,
     "server_id": 2,
     "type": "house",
-    "name": "Archi House",
-    "owner": "Aki_Morrison",
+    "name": "Federal Dynasty",
+    "owner": "Dea_Hipe",
     "status": "Занято",
     "x": -2543.58,
     "y": 922.2329,
@@ -10848,18 +10836,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 906,
-    "server_id": 2,
-    "type": "house",
-    "name": "зис ис май хаус",
-    "owner": "Bleeding_Mistakes",
-    "status": "Занято",
-    "x": -2412.92,
-    "y": 896.1409,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 907,
     "server_id": 2,
     "type": "house",
@@ -11068,7 +11044,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Домик Раяна Сафончика",
-    "owner": "Walker_Muller",
+    "owner": "Ryan_Safonov",
     "status": "Занято",
     "x": 1978.77,
     "y": -1671.58,
@@ -11104,7 +11080,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Домик Раяна Сафончика",
-    "owner": "Walker_Muller",
+    "owner": "Ryan_Safonov",
     "status": "Занято",
     "x": 1976.21,
     "y": -1634.09,
@@ -16748,18 +16724,6 @@
     "status": "Занято",
     "x": 2532.39,
     "y": 742.543,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1398,
-    "server_id": 2,
-    "type": "house",
-    "name": "Golden House",
-    "owner": "Cameron_Hall",
-    "status": "Занято",
-    "x": 2526.14,
-    "y": 750.096,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23940,6 +23904,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 318,
+    "server_id": 2,
+    "type": "house",
+    "name": ":uf259:Aristokratov:uf259:",
+    "owner": "Artur_Aristokratov",
+    "status": "Аукцион",
+    "x": 736.669,
+    "y": -556.783,
+    "price": 465000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 506,
     "server_id": 2,
     "type": "house",
@@ -23952,10 +23928,34 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 906,
+    "server_id": 2,
+    "type": "house",
+    "name": "зис ис май хаус",
+    "owner": "Bleeding_Mistakes",
+    "status": "Аукцион",
+    "x": -2412.92,
+    "y": 896.1409,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1398,
+    "server_id": 2,
+    "type": "house",
+    "name": "Golden House",
+    "owner": "Cameron_Hall",
+    "status": "Аукцион",
+    "x": 2526.14,
+    "y": 750.096,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1906,
     "server_id": 2,
     "type": "house",
-    "name": "В подвале видео карти 2 3 лвл",
+    "name": "домик",
     "owner": "Koleyzka_Melnyk",
     "status": "Аукцион",
     "x": 1793.44,
