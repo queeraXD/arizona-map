@@ -711,8 +711,8 @@
     "id": 59,
     "server_id": 15,
     "type": "house",
-    "name": "Trap House by Insult no sell",
-    "owner": "Ryder_Insult",
+    "name": "Quzik Monopoly",
+    "owner": "Quzik_McCloud",
     "status": "Занято",
     "x": 2523.27,
     "y": -1679.21,
@@ -940,7 +940,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Дом",
-    "owner": "Quzik_McCloud",
+    "owner": "NeQuzik_McCloud",
     "status": "Занято",
     "x": 2306.97,
     "y": -1678.06,
@@ -952,7 +952,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Дом",
-    "owner": "Quzik_McCloud",
+    "owner": "NeQuzik_McCloud",
     "status": "Занято",
     "x": 2282.13,
     "y": -1641.68,
@@ -964,7 +964,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Дом",
-    "owner": "Quzik_McCloud",
+    "owner": "NeQuzik_McCloud",
     "status": "Занято",
     "x": 2256.76,
     "y": -1645.11,
@@ -8292,18 +8292,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 692,
-    "server_id": 15,
-    "type": "house",
-    "name": "Владичка",
-    "owner": "Korrigan_Morse",
-    "status": "Занято",
-    "x": 1274.87,
-    "y": 2522.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 693,
     "server_id": 15,
     "type": "house",
@@ -10428,18 +10416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 872,
-    "server_id": 15,
-    "type": "house",
-    "name": "salon lv",
-    "owner": "Hiroto_McCloud",
-    "status": "Занято",
-    "x": -298.635,
-    "y": 2565.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 873,
     "server_id": 15,
     "type": "house",
@@ -12063,7 +12039,7 @@
     "id": 1008,
     "server_id": 15,
     "type": "house",
-    "name": "hatka",
+    "name": "база нато",
     "owner": "Muck_Olimpyc",
     "status": "Занято",
     "x": -2549.0,
@@ -21300,6 +21276,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 692,
+    "server_id": 15,
+    "type": "house",
+    "name": "Владичка",
+    "owner": "Korrigan_Morse",
+    "status": "Аукцион",
+    "x": 1274.87,
+    "y": 2522.6,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 787,
     "server_id": 15,
     "type": "house",
@@ -21309,6 +21297,18 @@
     "x": -2543.58,
     "y": 922.2329,
     "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 872,
+    "server_id": 15,
+    "type": "house",
+    "name": "salon lv",
+    "owner": "Hiroto_McCloud",
+    "status": "Аукцион",
+    "x": -298.635,
+    "y": 2565.81,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22012,7 +22012,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Quzik_McCloud",
+    "owner": "Ryder_Insult",
     "status": "Занято",
     "x": -227.385,
     "y": 2711.95,
