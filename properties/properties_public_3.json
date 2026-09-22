@@ -3084,18 +3084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 257,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Roman_Ethereal",
-    "status": "Занято",
-    "x": 2122.32,
-    "y": -970.3649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 258,
     "server_id": 3,
     "type": "house",
@@ -19624,7 +19612,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Ethereal",
-    "owner": "Ilya_Ethereal",
+    "owner": "Roman_Ethereal",
     "status": "Занято",
     "x": 1935.93,
     "y": 742.8729,
@@ -23976,6 +23964,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 257,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Roman_Ethereal",
+    "status": "Аукцион",
+    "x": 2122.32,
+    "y": -970.3649,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 780,
     "server_id": 3,
     "type": "house",
@@ -24009,18 +24009,6 @@
     "x": -2793.14,
     "y": 110.9339,
     "price": 800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 186,
-    "server_id": 3,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Chio_Rio",
-    "status": "Аукцион",
-    "x": 2268.78,
-    "y": 624.86,
-    "price": 170000,
     "district": "Сан-Андреас"
   },
   {
@@ -26888,6 +26876,18 @@
     "status": "Занято",
     "x": 2599.42,
     "y": 1060.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 186,
+    "server_id": 3,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Chio_Rio",
+    "status": "Занято",
+    "x": 2268.78,
+    "y": 624.86,
     "price": 0,
     "district": "Сан-Андреас"
   },

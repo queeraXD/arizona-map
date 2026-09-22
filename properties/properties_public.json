@@ -6852,18 +6852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 576,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом Таргариен",
-    "owner": "Arima_Kishou",
-    "status": "Занято",
-    "x": -165.936,
-    "y": 2768.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 577,
     "server_id": 33,
     "type": "house",
@@ -9356,6 +9344,18 @@
     "status": "Занято",
     "x": -2543.58,
     "y": 922.2329,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 788,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Session_Terminated",
+    "status": "Занято",
+    "x": -2551.89,
+    "y": 920.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22176,18 +22176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1892,
-    "server_id": 33,
-    "type": "house",
-    "name": "Springs 2",
-    "owner": "Abaymba_Monopoly",
-    "status": "Занято",
-    "x": -85.5818,
-    "y": 977.598,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1893,
     "server_id": 33,
     "type": "house",
@@ -22452,15 +22440,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 788,
+    "id": 576,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
-    "owner": "Session_Terminated",
+    "name": "Дом Таргариен",
+    "owner": "Arima_Kishou",
     "status": "Аукцион",
-    "x": -2551.89,
-    "y": 920.38,
-    "price": 350000000,
+    "x": -165.936,
+    "y": 2768.25,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22509,6 +22497,18 @@
     "x": 2613.64,
     "y": 2044.07,
     "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1892,
+    "server_id": 33,
+    "type": "house",
+    "name": "Springs 2",
+    "owner": "Abaymba_Monopoly",
+    "status": "Аукцион",
+    "x": -85.5818,
+    "y": 977.598,
+    "price": 9901000000,
     "district": "Сан-Андреас"
   },
   {
