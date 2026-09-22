@@ -6168,6 +6168,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 514,
+    "server_id": 8,
+    "type": "house",
+    "name": "TITOVSKIY LA ELITE || 5 MONOPOL",
+    "owner": "Mark_Golovanskiy",
+    "status": "Занято",
+    "x": 1549.98,
+    "y": 2096.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 515,
     "server_id": 8,
     "type": "house",
@@ -12432,18 +12444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1038,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом круглых",
-    "owner": "Ore_Kia",
-    "status": "Занято",
-    "x": -2351.34,
-    "y": 1226.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1039,
     "server_id": 8,
     "type": "house",
@@ -17823,7 +17823,7 @@
     "id": 1487,
     "server_id": 8,
     "type": "house",
-    "name": "Notem",
+    "name": "АЛКО ХАТА",
     "owner": "Repantinio_Quattroki",
     "status": "Занято",
     "x": 535.0469,
@@ -19220,18 +19220,6 @@
     "status": "Занято",
     "x": 2621.06,
     "y": 713.307,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1604,
-    "server_id": 8,
-    "type": "house",
-    "name": "Letychi_Galandec - top",
-    "owner": "Checker_Levakov",
-    "status": "Занято",
-    "x": 2613.51,
-    "y": 713.252,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25776,15 +25764,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 514,
+    "id": 1038,
     "server_id": 8,
     "type": "house",
-    "name": "TITOVSKIY LA ELITE || 5 MONOPOL",
-    "owner": "Mark_Golovanskiy",
+    "name": "Дом круглых",
+    "owner": "Ore_Kia",
     "status": "Аукцион",
-    "x": 1549.98,
-    "y": 2096.4,
-    "price": 1400228228,
+    "x": -2351.34,
+    "y": 1226.24,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1604,
+    "server_id": 8,
+    "type": "house",
+    "name": "Letychi_Galandec - top",
+    "owner": "Checker_Levakov",
+    "status": "Аукцион",
+    "x": 2613.51,
+    "y": 713.252,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
