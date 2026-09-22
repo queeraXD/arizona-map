@@ -144,6 +144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 12,
+    "server_id": 33,
+    "type": "house",
+    "name": "OLX",
+    "owner": "Tinki_Winki",
+    "status": "Занято",
+    "x": 2095.36,
+    "y": -1145.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 13,
     "server_id": 33,
     "type": "house",
@@ -788,18 +800,6 @@
     "status": "Занято",
     "x": 2413.9,
     "y": -1646.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 68,
-    "server_id": 33,
-    "type": "house",
-    "name": "Strong",
-    "owner": "Sell_Car",
-    "status": "Занято",
-    "x": 2393.19,
-    "y": -1646.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2836,7 +2836,7 @@
     "server_id": 33,
     "type": "house",
     "name": "особа налдона",
-    "owner": "Naldon_Legenda",
+    "owner": "Mushkin_Pushkin",
     "status": "Занято",
     "x": 253.005,
     "y": -1222.47,
@@ -3027,8 +3027,8 @@
     "id": 255,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
-    "owner": "Clyde_Evervess",
+    "name": "BRATVA EVERVESS",
+    "owner": "Boulevard_Depo",
     "status": "Занято",
     "x": 2005.97,
     "y": 71.7238,
@@ -7372,7 +7372,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Одиночка Движа",
-    "owner": "Velikiy_Dvizh",
+    "owner": "Two_Sides",
     "status": "Занято",
     "x": -1051.59,
     "y": 1549.59,
@@ -9208,7 +9208,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Kait_Excellency",
+    "owner": "Yurnero_God",
     "status": "Занято",
     "x": -2568.95,
     "y": 794.1749,
@@ -13112,18 +13112,6 @@
     "status": "Занято",
     "x": 1817.63,
     "y": -1276.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1115,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "farm",
-    "status": "Занято",
-    "x": 1817.86,
-    "y": -1286.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22236,18 +22224,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 12,
-    "server_id": 33,
-    "type": "house",
-    "name": "OLX",
-    "owner": "Tinki_Winki",
-    "status": "Аукцион",
-    "x": 2095.36,
-    "y": -1145.09,
-    "price": 700000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 66,
     "server_id": 33,
     "type": "house",
@@ -22257,6 +22233,18 @@
     "x": 2451.93,
     "y": -1641.41,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 68,
+    "server_id": 33,
+    "type": "house",
+    "name": "Strong",
+    "owner": "Sell_Car",
+    "status": "Аукцион",
+    "x": 2393.19,
+    "y": -1646.03,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22449,6 +22437,18 @@
     "x": -1728.11,
     "y": 1158.95,
     "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1115,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "farm",
+    "status": "Аукцион",
+    "x": 1817.86,
+    "y": -1286.76,
+    "price": 990000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22768,7 +22768,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Бар",
-    "owner": "Limp_Bizkit",
+    "owner": "Mrr_Beast",
     "status": "Занято",
     "x": -91.2371,
     "y": 1188.43,
@@ -26068,7 +26068,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Магазин видеокарт",
-    "owner": "Sax_Reyx",
+    "owner": "Clyde_Evervess",
     "status": "Занято",
     "x": -2717.86,
     "y": 195.217,
