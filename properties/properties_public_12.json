@@ -10392,18 +10392,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 866,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 6",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -340.7749,
-    "y": 2565.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 867,
     "server_id": 12,
     "type": "house",
@@ -10424,18 +10412,6 @@
     "status": "Занято",
     "x": -313.3299,
     "y": 2567.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 869,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 5",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -322.6199,
-    "y": 2554.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14264,18 +14240,6 @@
     "status": "Занято",
     "x": -2789.17,
     "y": -181.2749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1189,
-    "server_id": 12,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ruslan_Bobov",
-    "status": "Занято",
-    "x": -2791.89,
-    "y": -160.4689,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23817,6 +23781,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 866,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 6",
+    "owner": "Dylan_Broker",
+    "status": "Аукцион",
+    "x": -340.7749,
+    "y": 2565.41,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 869,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 5",
+    "owner": "Dylan_Broker",
+    "status": "Аукцион",
+    "x": -322.6199,
+    "y": 2554.17,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1189,
+    "server_id": 12,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2791.89,
+    "y": -160.4689,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
