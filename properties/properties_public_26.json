@@ -1284,6 +1284,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 107,
+    "server_id": 26,
+    "type": "house",
+    "name": "ASC#2",
+    "owner": "Diego_McLarren",
+    "status": "Занято",
+    "x": 2465.28,
+    "y": -2020.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 108,
     "server_id": 26,
     "type": "house",
@@ -9624,18 +9636,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 807,
-    "server_id": 26,
-    "type": "house",
-    "name": "деп усл",
-    "owner": "Vladimir_Suxoi",
-    "status": "Занято",
-    "x": -2723.12,
-    "y": -112.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 808,
     "server_id": 26,
     "type": "house",
@@ -11936,18 +11936,6 @@
     "status": "Занято",
     "x": -2359.06,
     "y": 1117.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1001,
-    "server_id": 26,
-    "type": "house",
-    "name": "Smola incorporated",
-    "owner": "Hawick_Eclipse",
-    "status": "Занято",
-    "x": -2369.51,
-    "y": 1121.8,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14744,18 +14732,6 @@
     "status": "Занято",
     "x": -2433.73,
     "y": 1281.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1235,
-    "server_id": 26,
-    "type": "house",
-    "name": "@Zacrutyi",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": -2433.99,
-    "y": 1274.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21672,6 +21648,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1812,
+    "server_id": 26,
+    "type": "house",
+    "name": "В шкафу подарочек",
+    "owner": "Seva_Jigulist",
+    "status": "Занято",
+    "x": 2417.74,
+    "y": 995.023,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1813,
     "server_id": 26,
     "type": "house",
@@ -25092,18 +25080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 107,
-    "server_id": 26,
-    "type": "house",
-    "name": "ASC#2",
-    "owner": "Pavel_Caplya",
-    "status": "Аукцион",
-    "x": 2465.28,
-    "y": -2020.5,
-    "price": 150000123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 251,
     "server_id": 26,
     "type": "house",
@@ -25152,15 +25128,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1812,
+    "id": 807,
     "server_id": 26,
     "type": "house",
-    "name": "В шкафу подарочек",
-    "owner": "Mellstroy_Burmalda",
+    "name": "деп усл",
+    "owner": "Vladimir_Suxoi",
     "status": "Аукцион",
-    "x": 2417.74,
-    "y": 995.023,
-    "price": 10000000,
+    "x": -2723.12,
+    "y": -112.97,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1001,
+    "server_id": 26,
+    "type": "house",
+    "name": "дарк ку всем",
+    "owner": "Hawick_Eclipse",
+    "status": "Аукцион",
+    "x": -2369.51,
+    "y": 1121.8,
+    "price": 151000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1235,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Grafi_Kus",
+    "status": "Аукцион",
+    "x": -2433.99,
+    "y": 1274.1,
+    "price": 20123123,
     "district": "Сан-Андреас"
   },
   {

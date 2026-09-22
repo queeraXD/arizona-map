@@ -6708,18 +6708,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 559,
-    "server_id": 19,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Takumi_Farmila",
-    "status": "Занято",
-    "x": 238.8159,
-    "y": 1026.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 560,
     "server_id": 19,
     "type": "house",
@@ -14072,6 +14060,18 @@
     "status": "Занято",
     "x": -865.7399,
     "y": -1849.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1178,
+    "server_id": 19,
+    "type": "house",
+    "name": "Набор Архитектора",
+    "owner": "Lord_Gambino",
+    "status": "Занято",
+    "x": -458.9649,
+    "y": -1447.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21864,6 +21864,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 559,
+    "server_id": 19,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Takumi_Farmila",
+    "status": "Аукцион",
+    "x": 238.8159,
+    "y": 1026.24,
+    "price": 120000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 587,
     "server_id": 19,
     "type": "house",
@@ -21909,18 +21921,6 @@
     "x": 1939.93,
     "y": 642.882,
     "price": 5000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1178,
-    "server_id": 19,
-    "type": "house",
-    "name": "Набор Архитектора",
-    "owner": "Lord_Gambino",
-    "status": "Аукцион",
-    "x": -458.9649,
-    "y": -1447.62,
-    "price": 2300123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22056,6 +22056,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 112,
+    "server_id": 19,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Przemko_Nowak",
+    "status": "Аукцион",
+    "x": -2672.26,
+    "y": 258.431,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 193,
     "server_id": 19,
     "type": "business",
@@ -22064,6 +22076,30 @@
     "status": "Аукцион",
     "x": 2405.02,
     "y": -1933.97,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 196,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Przemko_Nowak",
+    "status": "Аукцион",
+    "x": -2681.61,
+    "y": 583.93,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 217,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Przemko_Nowak",
+    "status": "Аукцион",
+    "x": 2537.82,
+    "y": 2137.12,
     "price": 4000000000,
     "district": "Сан-Андреас"
   },
@@ -23928,18 +23964,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 112,
-    "server_id": 19,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Przemko_Nowak",
-    "status": "Занято",
-    "x": -2672.26,
-    "y": 258.431,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 113,
     "server_id": 19,
     "type": "business",
@@ -25044,18 +25068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 196,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Przemko_Nowak",
-    "status": "Занято",
-    "x": -2681.61,
-    "y": 583.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 197,
     "server_id": 19,
     "type": "business",
@@ -25220,18 +25232,6 @@
     "status": "Занято",
     "x": 2327.86,
     "y": 2421.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 217,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Przemko_Nowak",
-    "status": "Занято",
-    "x": 2537.82,
-    "y": 2137.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
