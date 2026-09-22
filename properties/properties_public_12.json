@@ -13104,6 +13104,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1095,
+    "server_id": 12,
+    "type": "house",
+    "name": "хата паштета",
+    "owner": "Bop_Begemotov",
+    "status": "Занято",
+    "x": -2205.34,
+    "y": 743.4749,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1096,
     "server_id": 12,
     "type": "house",
@@ -14548,7 +14560,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Дом",
-    "owner": "Angel_Mateo",
+    "owner": "Toby_Marshell",
     "status": "Занято",
     "x": -2883.57,
     "y": 736.726,
@@ -22176,18 +22188,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1853,
-    "server_id": 12,
-    "type": "house",
-    "name": "Шкаф 5ккк+ | Mining №1",
-    "owner": "Bratishka_Rampasso",
-    "status": "Занято",
-    "x": 1793.58,
-    "y": 2792.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1854,
     "server_id": 12,
     "type": "house",
@@ -22700,18 +22700,6 @@
     "status": "Занято",
     "x": 1786.49,
     "y": 2867.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1897,
-    "server_id": 12,
-    "type": "house",
-    "name": "Халупа Kenta",
-    "owner": "Bratishka_Rampasso",
-    "status": "Занято",
-    "x": 1796.79,
-    "y": 2861.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23724,18 +23712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1095,
-    "server_id": 12,
-    "type": "house",
-    "name": "хата паштета",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2205.34,
-    "y": 743.4749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 815,
     "server_id": 12,
     "type": "house",
@@ -23781,6 +23757,30 @@
     "x": -2791.89,
     "y": -160.4689,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1853,
+    "server_id": 12,
+    "type": "house",
+    "name": "Шкаф 5ккк+ | Mining №1",
+    "owner": "Bratishka_Rampasso",
+    "status": "Аукцион",
+    "x": 1793.58,
+    "y": 2792.25,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1897,
+    "server_id": 12,
+    "type": "house",
+    "name": "Халупа Kenta",
+    "owner": "Bratishka_Rampasso",
+    "status": "Аукцион",
+    "x": 1796.79,
+    "y": 2861.59,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {

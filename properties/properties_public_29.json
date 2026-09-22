@@ -8124,6 +8124,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 681,
+    "server_id": 29,
+    "type": "house",
+    "name": "Graviano La Elite",
+    "owner": "Dying_Graviano",
+    "status": "Занято",
+    "x": 985.354,
+    "y": 2343.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 682,
     "server_id": 29,
     "type": "house",
@@ -8772,18 +8784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 737,
-    "server_id": 29,
-    "type": "house",
-    "name": "Eclipse Apartments #2",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": -2881.09,
-    "y": 989.736,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 738,
     "server_id": 29,
     "type": "house",
@@ -9336,18 +9336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 784,
-    "server_id": 29,
-    "type": "house",
-    "name": "Хеллоу ептав",
-    "owner": "[09]Vetalya_Hellatrigger",
-    "status": "Занято",
-    "x": -2513.5,
-    "y": 849.1569,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 785,
     "server_id": 29,
     "type": "house",
@@ -9536,18 +9524,6 @@
     "status": "Занято",
     "x": -2358.42,
     "y": 820.0349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 801,
-    "server_id": 29,
-    "type": "house",
-    "name": "Тут живет Андрей",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": -2340.03,
-    "y": 820.0209,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11124,18 +11100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 933,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Waseri_Abaes",
-    "status": "Занято",
-    "x": -2094.28,
-    "y": 745.752,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 934,
     "server_id": 29,
     "type": "house",
@@ -12372,18 +12336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1040,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Waseri_Abaes",
-    "status": "Занято",
-    "x": -1727.98,
-    "y": 1138.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1041,
     "server_id": 29,
     "type": "house",
@@ -12812,18 +12764,6 @@
     "status": "Занято",
     "x": -2901.54,
     "y": 1033.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1078,
-    "server_id": 29,
-    "type": "house",
-    "name": "Eclipse Apartments #4",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": -2887.9,
-    "y": 1002.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14120,18 +14060,6 @@
     "status": "Занято",
     "x": -2789.17,
     "y": -52.6333,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1189,
-    "server_id": 29,
-    "type": "house",
-    "name": "Карты, деньги, ASC",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": -2791.85,
-    "y": -41.8134,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20988,18 +20916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 681,
-    "server_id": 29,
-    "type": "house",
-    "name": "10 лвл",
-    "owner": "Minecraft_LetsPlay",
-    "status": "Аукцион",
-    "x": 985.354,
-    "y": 2343.7,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 736,
     "server_id": 29,
     "type": "house",
@@ -21009,6 +20925,54 @@
     "x": -2899.14,
     "y": 1026.71,
     "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 737,
+    "server_id": 29,
+    "type": "house",
+    "name": "Eclipse Apartments #2",
+    "owner": "Kolya_Infinity",
+    "status": "Аукцион",
+    "x": -2881.09,
+    "y": 989.736,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 784,
+    "server_id": 29,
+    "type": "house",
+    "name": "Хеллоу ептав",
+    "owner": "[09]Vetalya_Hellatrigger",
+    "status": "Аукцион",
+    "x": -2513.5,
+    "y": 849.1569,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 801,
+    "server_id": 29,
+    "type": "house",
+    "name": "Тут живет Андрей",
+    "owner": "Night_Sosiska",
+    "status": "Аукцион",
+    "x": -2340.03,
+    "y": 820.0209,
+    "price": 600123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 933,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Waseri_Abaes",
+    "status": "Аукцион",
+    "x": -2094.28,
+    "y": 745.752,
+    "price": 300123123,
     "district": "Сан-Андреас"
   },
   {
@@ -21048,6 +21012,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1040,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Waseri_Abaes",
+    "status": "Аукцион",
+    "x": -1727.98,
+    "y": 1138.91,
+    "price": 300123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1077,
     "server_id": 29,
     "type": "house",
@@ -21057,6 +21033,18 @@
     "x": -2895.53,
     "y": 1017.01,
     "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1078,
+    "server_id": 29,
+    "type": "house",
+    "name": "Eclipse Apartments #4",
+    "owner": "Night_Sosiska",
+    "status": "Аукцион",
+    "x": -2887.9,
+    "y": 1002.04,
+    "price": 600123123,
     "district": "Сан-Андреас"
   },
   {
@@ -21081,6 +21069,18 @@
     "x": -2876.04,
     "y": 980.9829,
     "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1189,
+    "server_id": 29,
+    "type": "house",
+    "name": "Карты, деньги, ASC",
+    "owner": "Kolya_Infinity",
+    "status": "Аукцион",
+    "x": -2791.85,
+    "y": -41.8134,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
