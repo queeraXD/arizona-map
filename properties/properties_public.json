@@ -2812,7 +2812,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Tinker_Overdose",
+    "owner": "Bee_Cripson",
     "status": "Занято",
     "x": 497.6589,
     "y": -1094.61,
@@ -2859,7 +2859,7 @@
     "id": 239,
     "server_id": 33,
     "type": "house",
-    "name": "Казанский коттедж",
+    "name": "особа налдона",
     "owner": "Naldon_Legenda",
     "status": "Занято",
     "x": 253.005,
@@ -6252,18 +6252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 523,
-    "server_id": 33,
-    "type": "house",
-    "name": "McLarren Farm N1",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 1641.14,
-    "y": 2149.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 524,
     "server_id": 33,
     "type": "house",
@@ -6984,6 +6972,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 584,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vini_Puxov",
+    "status": "Занято",
+    "x": -219.5899,
+    "y": 2767.46,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 585,
     "server_id": 33,
     "type": "house",
@@ -7544,6 +7544,18 @@
     "status": "Занято",
     "x": -324.3099,
     "y": 1165.32,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 635,
+    "server_id": 33,
+    "type": "house",
+    "name": "drey fam / tg: saxreyx",
+    "owner": "Sax_Reyx",
+    "status": "Занято",
+    "x": -369.302,
+    "y": 1169.02,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10880,18 +10892,6 @@
     "status": "Занято",
     "x": -2169.66,
     "y": 1027.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 918,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": -2282.05,
-    "y": 1023.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22428,15 +22428,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 584,
+    "id": 523,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
-    "owner": "Bart_Drey",
+    "name": "налдон ловит",
+    "owner": "Naldon_Legenda",
     "status": "Аукцион",
-    "x": -219.5899,
-    "y": 2767.46,
-    "price": 100123123,
+    "x": 1641.14,
+    "y": 2149.78,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22464,18 +22464,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 635,
-    "server_id": 33,
-    "type": "house",
-    "name": "drey fam / tg: saxreyx",
-    "owner": "Sax_Reyx",
-    "status": "Аукцион",
-    "x": -369.302,
-    "y": 1169.02,
-    "price": 6000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 788,
     "server_id": 33,
     "type": "house",
@@ -22485,6 +22473,18 @@
     "x": -2551.89,
     "y": 920.38,
     "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 918,
+    "server_id": 33,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Naldon_Legenda",
+    "status": "Аукцион",
+    "x": -2282.05,
+    "y": 1023.01,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
