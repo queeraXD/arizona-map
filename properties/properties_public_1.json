@@ -5667,7 +5667,7 @@
     "id": 472,
     "server_id": 1,
     "type": "house",
-    "name": ":u269c:ЛАКРИЦА:u269c:",
+    "name": "$Manhattan$",
     "owner": "Austin_Manhattan",
     "status": "Занято",
     "x": 2369.06,
@@ -11840,6 +11840,18 @@
     "status": "Занято",
     "x": -2081.98,
     "y": -2548.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 988,
+    "server_id": 1,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Sila_Repa",
+    "status": "Занято",
+    "x": -2069.04,
+    "y": -2561.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21756,18 +21768,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1815,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "James_Stechkin",
-    "status": "Занято",
-    "x": 2441.54,
-    "y": 1220.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1816,
     "server_id": 1,
     "type": "house",
@@ -24156,15 +24156,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 988,
+    "id": 1815,
     "server_id": 1,
     "type": "house",
-    "name": "pes family",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2069.04,
-    "y": -2561.46,
-    "price": 0,
+    "name": "Дом",
+    "owner": "James_Stechkin",
+    "status": "Аукцион",
+    "x": 2441.54,
+    "y": 1220.7,
+    "price": 1950000000,
     "district": "Сан-Андреас"
   },
   {
