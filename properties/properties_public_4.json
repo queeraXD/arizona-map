@@ -20280,18 +20280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1713,
-    "server_id": 4,
-    "type": "house",
-    "name": "Поместье GALLAGHERS",
-    "owner": "Lennon_Gallagher",
-    "status": "Занято",
-    "x": 2288.19,
-    "y": -1104.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1714,
     "server_id": 4,
     "type": "house",
@@ -25236,6 +25224,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1713,
+    "server_id": 4,
+    "type": "house",
+    "name": "Поместье GALLAGHERS",
+    "owner": "Lennon_Gallagher",
+    "status": "Аукцион",
+    "x": 2288.19,
+    "y": -1104.65,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1920,
     "server_id": 4,
     "type": "house",
@@ -25257,6 +25257,30 @@
     "x": 2473.16,
     "y": -1383.37,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 63,
+    "server_id": 4,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": -1320.49,
+    "y": 2698.65,
+    "price": 290000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 4,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2351.41,
+    "y": 2405.59,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26624,18 +26648,6 @@
     "status": "Занято",
     "x": 2150.73,
     "y": 2733.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 63,
-    "server_id": 4,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": -1320.49,
-    "y": 2698.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28100,18 +28112,6 @@
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 184,
-    "server_id": 4,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2351.41,
-    "y": 2405.59,
     "price": 0,
     "district": "Сан-Андреас"
   },

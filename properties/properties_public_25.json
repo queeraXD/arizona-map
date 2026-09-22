@@ -2628,18 +2628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 219,
-    "server_id": 25,
-    "type": "house",
-    "name": "Домик Мовсара Евлоева #5",
-    "owner": "Musa_Evloev",
-    "status": "Занято",
-    "x": 785.828,
-    "y": -828.3469,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 220,
     "server_id": 25,
     "type": "house",
@@ -3928,7 +3916,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Запах Майи и Рональду",
-    "owner": "Yatoro_Morales",
+    "owner": "Yatoro_Revivus",
     "status": "Занято",
     "x": 342.376,
     "y": 62.625,
@@ -19300,7 +19288,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Spichka_McKenzie",
+    "owner": "Vogue_Revivus",
     "status": "Занято",
     "x": 2540.06,
     "y": 719.523,
@@ -21132,6 +21120,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1766,
+    "server_id": 25,
+    "type": "house",
+    "name": "Morgan",
+    "owner": "Vladimir_Saloedov",
+    "status": "Занято",
+    "x": 2003.69,
+    "y": 2163.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1767,
     "server_id": 25,
     "type": "house",
@@ -22572,18 +22572,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1889,
-    "server_id": 25,
-    "type": "house",
-    "name": "Matsuo Monopoly",
-    "owner": "Wyatt_Jack",
-    "status": "Занято",
-    "x": 2492.07,
-    "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1890,
     "server_id": 25,
     "type": "house",
@@ -22952,6 +22940,18 @@
     "status": "Занято",
     "x": 1728.03,
     "y": 2834.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1921,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Berlin_Vzaly",
+    "status": "Занято",
+    "x": 1730.21,
+    "y": 2826.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23700,6 +23700,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 219,
+    "server_id": 25,
+    "type": "house",
+    "name": "Домик Мовсара Евлоева #5",
+    "owner": "Musa_Evloev",
+    "status": "Аукцион",
+    "x": 785.828,
+    "y": -828.3469,
+    "price": 25000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 899,
     "server_id": 25,
     "type": "house",
@@ -23748,27 +23760,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1766,
+    "id": 1889,
     "server_id": 25,
     "type": "house",
-    "name": "Morgan",
-    "owner": "Vladimir_Saloedov",
+    "name": "Matsuo Monopoly",
+    "owner": "Wyatt_Jack",
     "status": "Аукцион",
-    "x": 2003.69,
-    "y": 2163.69,
-    "price": 300000000,
+    "x": 2492.07,
+    "y": -1376.27,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1921,
+    "id": 271,
     "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Berlin_Vzaly",
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Farma_Zone",
     "status": "Аукцион",
-    "x": 1730.21,
-    "y": 2826.25,
-    "price": 200123123,
+    "x": -1912.17,
+    "y": 827.954,
+    "price": 120000,
     "district": "Сан-Андреас"
   },
   {
@@ -25796,18 +25808,6 @@
     "status": "Занято",
     "x": -53.8409,
     "y": 1189.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 271,
-    "server_id": 25,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Farma_Zone",
-    "status": "Занято",
-    "x": -1912.17,
-    "y": 827.954,
     "price": 0,
     "district": "Сан-Андреас"
   },
