@@ -23772,42 +23772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 53,
-    "server_id": 25,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Farma_Zone",
-    "status": "Аукцион",
-    "x": 157.238,
-    "y": -1808.59,
-    "price": 180000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 111,
-    "server_id": 25,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Farma_Zone",
-    "status": "Аукцион",
-    "x": -2767.51,
-    "y": 788.72,
-    "price": 140000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 271,
-    "server_id": 25,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Farma_Zone",
-    "status": "Аукцион",
-    "x": -1912.17,
-    "y": 827.954,
-    "price": 125000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 0,
     "server_id": 25,
     "type": "business",
@@ -25656,6 +25620,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 111,
+    "server_id": 25,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Farma_Zone",
+    "status": "Занято",
+    "x": -2767.51,
+    "y": 788.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 112,
     "server_id": 25,
     "type": "business",
@@ -25824,6 +25800,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 271,
+    "server_id": 25,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Farma_Zone",
+    "status": "Занято",
+    "x": -1912.17,
+    "y": 827.954,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 272,
     "server_id": 25,
     "type": "business",
@@ -25952,6 +25940,18 @@
     "status": "Занято",
     "x": -2257.681,
     "y": 2278.016,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 53,
+    "server_id": 25,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Farma_Zone",
+    "status": "Занято",
+    "x": 157.238,
+    "y": -1808.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
