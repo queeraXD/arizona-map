@@ -12828,6 +12828,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1077,
+    "server_id": 29,
+    "type": "house",
+    "name": "Eclipse Apartments #5",
+    "owner": "Jons_Taffanel",
+    "status": "Занято",
+    "x": -2895.53,
+    "y": 1017.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1079,
     "server_id": 29,
     "type": "house",
@@ -12836,6 +12848,18 @@
     "status": "Занято",
     "x": -2884.2,
     "y": 995.635,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1080,
+    "server_id": 29,
+    "type": "house",
+    "name": "Eclipse Apartments #1",
+    "owner": "Jons_Taffanel",
+    "status": "Занято",
+    "x": -2876.04,
+    "y": 980.9829,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14144,6 +14168,18 @@
     "status": "Занято",
     "x": -2791.58,
     "y": -35.9182,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1191,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дар Торреса",
+    "owner": "Unwritten_Reply",
+    "status": "Занято",
+    "x": -2791.87,
+    "y": -24.3971,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19908,6 +19944,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1673,
+    "server_id": 29,
+    "type": "house",
+    "name": "Ферма №1",
+    "owner": "Kail_Butcher",
+    "status": "Занято",
+    "x": 2492.23,
+    "y": -1366.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1674,
     "server_id": 29,
     "type": "house",
@@ -21060,18 +21108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1077,
-    "server_id": 29,
-    "type": "house",
-    "name": "Eclipse Apartments #5",
-    "owner": "God_Blessed",
-    "status": "Аукцион",
-    "x": -2895.53,
-    "y": 1017.01,
-    "price": 450000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1078,
     "server_id": 29,
     "type": "house",
@@ -21084,18 +21120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1080,
-    "server_id": 29,
-    "type": "house",
-    "name": "Eclipse Apartments #1",
-    "owner": "[08]Artem_Bojolax",
-    "status": "Аукцион",
-    "x": -2876.04,
-    "y": 980.9829,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1189,
     "server_id": 29,
     "type": "house",
@@ -21105,30 +21129,6 @@
     "x": -2791.85,
     "y": -41.8134,
     "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1191,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дар Торреса",
-    "owner": "Unwritten_Reply",
-    "status": "Аукцион",
-    "x": -2791.87,
-    "y": -24.3971,
-    "price": 500123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1673,
-    "server_id": 29,
-    "type": "house",
-    "name": "Ферма №1",
-    "owner": "[08]Artem_Bojolax",
-    "status": "Аукцион",
-    "x": 2492.23,
-    "y": -1366.2,
-    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22408,7 +22408,7 @@
     "server_id": 29,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Aleksandr_Sever",
+    "owner": "San_Fierro",
     "status": "Занято",
     "x": -2269.51,
     "y": -1.153,

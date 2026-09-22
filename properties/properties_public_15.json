@@ -1743,7 +1743,7 @@
     "id": 145,
     "server_id": 15,
     "type": "house",
-    "name": "Killnet The House (1/10)",
+    "name": "Killnet The House (1/12)",
     "owner": "Tommy_Almighty",
     "status": "Занято",
     "x": 1285.01,
@@ -5199,7 +5199,7 @@
     "id": 433,
     "server_id": 15,
     "type": "house",
-    "name": "Killnet The House (2/10)",
+    "name": "Killnet The House (2/12)",
     "owner": "Tommy_Almighty",
     "status": "Занято",
     "x": 2284.16,
@@ -6699,7 +6699,7 @@
     "id": 558,
     "server_id": 15,
     "type": "house",
-    "name": "Killnet The House (4/10)",
+    "name": "Killnet The House (4/12)",
     "owner": "Tommy_Almighty",
     "status": "Занято",
     "x": 707.2509,
@@ -6723,7 +6723,7 @@
     "id": 560,
     "server_id": 15,
     "type": "house",
-    "name": "Killnet The House (5/10)",
+    "name": "Killnet The House (5/12)",
     "owner": "Tommy_Almighty",
     "status": "Занято",
     "x": 688.887,
@@ -8523,7 +8523,7 @@
     "id": 710,
     "server_id": 15,
     "type": "house",
-    "name": "Killnet The House (6/10)",
+    "name": "Killnet The House (6/12)",
     "owner": "Tommy_Almighty",
     "status": "Занято",
     "x": 1610.94,
@@ -15312,18 +15312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1277,
-    "server_id": 15,
-    "type": "house",
-    "name": "ОПГ Троянівка",
-    "owner": "Olichka_Novikowa",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1281.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1278,
     "server_id": 15,
     "type": "house",
@@ -21324,6 +21312,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1277,
+    "server_id": 15,
+    "type": "house",
+    "name": "ОПГ Троянівка",
+    "owner": "Olichka_Novikowa",
+    "status": "Аукцион",
+    "x": -2383.14,
+    "y": 1281.33,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 77,
     "server_id": 15,
     "type": "business",
@@ -21333,18 +21333,6 @@
     "x": -227.385,
     "y": 2711.95,
     "price": 130000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 115,
-    "server_id": 15,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Tom_Sosison",
-    "status": "Аукцион",
-    "x": -2625.72,
-    "y": 209.242,
-    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -21452,6 +21440,18 @@
     "status": "Занято",
     "x": -1508.91,
     "y": 2610.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 115,
+    "server_id": 15,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Tom_Sosison",
+    "status": "Занято",
+    "x": -2625.72,
+    "y": 209.242,
     "price": 0,
     "district": "Сан-Андреас"
   },
