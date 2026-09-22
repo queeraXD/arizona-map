@@ -6221,10 +6221,10 @@
     "type": "house",
     "name": "house Monolith <3",
     "owner": "Logan_Monolith",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1595.41,
     "y": 2070.99,
-    "price": 500000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -7956,18 +7956,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 663,
-    "server_id": 25,
-    "type": "house",
-    "name": "Лас вентурас",
-    "owner": "Michael_Rapaport",
-    "status": "Занято",
-    "x": 985.0139,
-    "y": 1930.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 664,
     "server_id": 25,
     "type": "house",
@@ -8032,7 +8020,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Enigma squad",
-    "owner": "Aramus_Lies",
+    "owner": "Daniil_Stark",
     "status": "Занято",
     "x": 1030.09,
     "y": 2028.11,
@@ -10772,18 +10760,6 @@
     "status": "Занято",
     "x": -2043.12,
     "y": -2559.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 899,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Freez_Reez",
-    "status": "Занято",
-    "x": -2069.05,
-    "y": -2561.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15204,18 +15180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1268,
-    "server_id": 25,
-    "type": "house",
-    "name": "Нычка для фарма",
-    "owner": "Freez_Reez",
-    "status": "Занято",
-    "x": -2621.98,
-    "y": 168.636,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1269,
     "server_id": 25,
     "type": "house",
@@ -16432,7 +16396,7 @@
     "server_id": 25,
     "type": "house",
     "name": "TESSA <3",
-    "owner": "Aramus_Lies",
+    "owner": "Vitalya_Bob",
     "status": "Занято",
     "x": 1978.77,
     "y": -1671.6,
@@ -16588,7 +16552,7 @@
     "server_id": 25,
     "type": "house",
     "name": "TESSA <3",
-    "owner": "Aramus_Lies",
+    "owner": "Quki_Dit",
     "status": "Занято",
     "x": 1978.77,
     "y": -1671.59,
@@ -20369,10 +20333,10 @@
     "type": "house",
     "name": "House Style ",
     "owner": "Dmitriy_Taganow",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2541.53,
     "y": 1232.89,
-    "price": 300000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -21080,18 +21044,6 @@
     "status": "Занято",
     "x": 2003.69,
     "y": 2154.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1758,
-    "server_id": 25,
-    "type": "house",
-    "name": "love Medina",
-    "owner": "Dexter_Doc",
-    "status": "Занято",
-    "x": 2003.68,
-    "y": 2159.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22636,7 +22588,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Matsuo Monopoly",
-    "owner": "Aramus_Lies",
+    "owner": "Wyatt_Jack",
     "status": "Занято",
     "x": 2492.07,
     "y": -1376.27,
@@ -23024,18 +22976,6 @@
     "status": "Занято",
     "x": 1730.21,
     "y": 2826.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1922,
-    "server_id": 25,
-    "type": "house",
-    "name": "плейбой карти",
-    "owner": "Ignat_Samper",
-    "status": "Занято",
-    "x": 1734.08,
-    "y": 2812.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23769,6 +23709,66 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 663,
+    "server_id": 25,
+    "type": "house",
+    "name": "Лас вентурас",
+    "owner": "Michael_Rapaport",
+    "status": "Аукцион",
+    "x": 985.0139,
+    "y": 1930.67,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 899,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Freez_Reez",
+    "status": "Аукцион",
+    "x": -2069.05,
+    "y": -2561.36,
+    "price": 200000775,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1268,
+    "server_id": 25,
+    "type": "house",
+    "name": "Нычка для фарма",
+    "owner": "Freez_Reez",
+    "status": "Аукцион",
+    "x": -2621.98,
+    "y": 168.636,
+    "price": 300000775,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1758,
+    "server_id": 25,
+    "type": "house",
+    "name": "love Medina",
+    "owner": "Dexter_Doc",
+    "status": "Аукцион",
+    "x": 2003.68,
+    "y": 2159.12,
+    "price": 220000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1922,
+    "server_id": 25,
+    "type": "house",
+    "name": "плейбой карти",
+    "owner": "Ignat_Samper",
+    "status": "Аукцион",
+    "x": 1734.08,
+    "y": 2812.14,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {

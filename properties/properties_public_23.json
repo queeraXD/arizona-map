@@ -11100,6 +11100,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 929,
+    "server_id": 23,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Abaz_Ali",
+    "status": "Занято",
+    "x": -2017.64,
+    "y": 1017.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 930,
     "server_id": 23,
     "type": "house",
@@ -12188,18 +12200,6 @@
     "status": "Занято",
     "x": -2542.49,
     "y": 942.4849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1021,
-    "server_id": 23,
-    "type": "house",
-    "name": "трэп хата",
-    "owner": "Dante_Doc",
-    "status": "Занято",
-    "x": -2511.33,
-    "y": 951.2239,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15104,18 +15104,6 @@
     "status": "Занято",
     "x": -2372.53,
     "y": 595.7219,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1264,
-    "server_id": 23,
-    "type": "house",
-    "name": "|| House MIXTY :) || ",
-    "owner": "Dante_Doc",
-    "status": "Занято",
-    "x": -2356.74,
-    "y": 580.0269,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21156,14 +21144,26 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 929,
+    "id": 1021,
     "server_id": 23,
     "type": "house",
-    "name": "деп условия",
-    "owner": "Goha_Stepanov",
+    "name": "трэп хата",
+    "owner": "Dante_Doc",
     "status": "Аукцион",
-    "x": -2017.64,
-    "y": 1017.06,
+    "x": -2511.33,
+    "y": 951.2239,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1264,
+    "server_id": 23,
+    "type": "house",
+    "name": "|| House MIXTY :) || ",
+    "owner": "Dante_Doc",
+    "status": "Аукцион",
+    "x": -2356.74,
+    "y": 580.0269,
     "price": 200000000,
     "district": "Сан-Андреас"
   },
