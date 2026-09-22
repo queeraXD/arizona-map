@@ -2100,18 +2100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 175,
-    "server_id": 4,
-    "type": "house",
-    "name": "House:house:",
-    "owner": "Matvei_Anderson",
-    "status": "Занято",
-    "x": 790.9739,
-    "y": -1661.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 176,
     "server_id": 4,
     "type": "house",
@@ -5384,6 +5372,18 @@
     "status": "Занято",
     "x": 2094.12,
     "y": 650.4459,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 459,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "dexey",
+    "status": "Занято",
+    "x": 2091.25,
+    "y": 694.6959,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8928,18 +8928,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 755,
-    "server_id": 4,
-    "type": "house",
-    "name": "Уютный уголок",
-    "owner": "Implored_Space",
-    "status": "Занято",
-    "x": -2706.83,
-    "y": 722.856,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 756,
     "server_id": 4,
     "type": "house",
@@ -8972,18 +8960,6 @@
     "status": "Занято",
     "x": -2738.31,
     "y": 771.5869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 759,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом Dimasa",
-    "owner": "Implored_Space",
-    "status": "Занято",
-    "x": -2738.32,
-    "y": 801.5289,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11252,6 +11228,18 @@
     "status": "Занято",
     "x": -2301.75,
     "y": 579.817,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 950,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "dexey",
+    "status": "Занято",
+    "x": -2240.04,
+    "y": 1037.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25044,27 +25032,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 459,
+    "id": 175,
     "server_id": 4,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2091.25,
-    "y": 694.6959,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 950,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2240.04,
-    "y": 1037.58,
-    "price": 0,
+    "name": "House:house:",
+    "owner": "Matvei_Anderson",
+    "status": "Аукцион",
+    "x": 790.9739,
+    "y": -1661.87,
+    "price": 1700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25185,6 +25161,30 @@
     "x": 2551.22,
     "y": -5.3846,
     "price": 4200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 755,
+    "server_id": 4,
+    "type": "house",
+    "name": "Уютный уголок",
+    "owner": "Implored_Space",
+    "status": "Аукцион",
+    "x": -2706.83,
+    "y": 722.856,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 759,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом Dimasa",
+    "owner": "Implored_Space",
+    "status": "Аукцион",
+    "x": -2738.32,
+    "y": 801.5289,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
