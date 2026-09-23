@@ -15713,10 +15713,10 @@
     "type": "house",
     "name": "Saber Family",
     "owner": "Evgeniy_Saber",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 142.6089,
     "y": -1470.36,
-    "price": 4000000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -16364,6 +16364,18 @@
     "status": "Занято",
     "x": 1112.2,
     "y": -1575.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1366,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergio_Goyard",
+    "status": "Занято",
+    "x": 1110.53,
+    "y": -1578.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18977,10 +18989,10 @@
     "type": "house",
     "name": "Saber Family ",
     "owner": "Evgeniy_Saber",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2437.04,
     "y": 1242.43,
-    "price": 1300000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -19061,10 +19073,10 @@
     "type": "house",
     "name": "Saber Family",
     "owner": "Evgeniy_Saber",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2441.54,
     "y": 1224.14,
-    "price": 1300000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -19109,10 +19121,10 @@
     "type": "house",
     "name": "Saber Family",
     "owner": "Evgeniy_Saber",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2441.54,
     "y": 1220.71,
-    "price": 1300000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -19337,10 +19349,10 @@
     "type": "house",
     "name": "Saber Family",
     "owner": "Evgeniy_Saber",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2537.03,
     "y": 1235.31,
-    "price": 1300000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -19409,10 +19421,10 @@
     "type": "house",
     "name": "Saber Family",
     "owner": "Evgeniy_Saber",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2541.53,
     "y": 1220.66,
-    "price": 1300000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -21216,18 +21228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1774,
-    "server_id": 31,
-    "type": "house",
-    "name": "Graf Company",
-    "owner": "Donnie_Hudson",
-    "status": "Занято",
-    "x": -767.1699,
-    "y": 2765.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1775,
     "server_id": 31,
     "type": "house",
@@ -21704,18 +21704,6 @@
     "status": "Занято",
     "x": 2620.35,
     "y": 2139.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1815,
-    "server_id": 31,
-    "type": "house",
-    "name": "#DRAKE2026",
-    "owner": "Donnie_Hudson",
-    "status": "Занято",
-    "x": 2620.36,
-    "y": 2148.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23328,15 +23316,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1366,
+    "id": 1774,
     "server_id": 31,
     "type": "house",
-    "name": "Дом",
-    "owner": "Sergio_Goyard",
+    "name": "Graf Company",
+    "owner": "Donnie_Hudson",
     "status": "Аукцион",
-    "x": 1110.53,
-    "y": -1578.45,
-    "price": 1250000000,
+    "x": -767.1699,
+    "y": 2765.4,
+    "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1815,
+    "server_id": 31,
+    "type": "house",
+    "name": "#DRAKE2026",
+    "owner": "Donnie_Hudson",
+    "status": "Аукцион",
+    "x": 2620.36,
+    "y": 2148.99,
+    "price": 12000,
     "district": "Сан-Андреас"
   },
   {
