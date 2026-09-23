@@ -300,18 +300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 25,
-    "server_id": 27,
-    "type": "house",
-    "name": "домик лирика",
-    "owner": "castle",
-    "status": "Занято",
-    "x": 2250.11,
-    "y": -1280.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 26,
     "server_id": 27,
     "type": "house",
@@ -15084,18 +15072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1257,
-    "server_id": 27,
-    "type": "house",
-    "name": "Хата Пинчера",
-    "owner": "Tony_Royce",
-    "status": "Занято",
-    "x": -2321.74,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1258,
     "server_id": 27,
     "type": "house",
@@ -24429,6 +24405,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1257,
+    "server_id": 27,
+    "type": "house",
+    "name": "Хата Ройса",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2321.74,
+    "y": 656.7349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 25,
+    "server_id": 27,
+    "type": "house",
+    "name": "домик лирика",
+    "owner": "castle",
+    "status": "Аукцион",
+    "x": 2250.11,
+    "y": -1280.4,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

@@ -1188,18 +1188,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 99,
-    "server_id": 12,
-    "type": "house",
-    "name": "Владение Антона Чигура",
-    "owner": "Bop_Begemotov",
-    "status": "Занято",
-    "x": 2637.77,
-    "y": -1992.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 100,
     "server_id": 12,
     "type": "house",
@@ -9220,7 +9208,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Monopoly Empire",
-    "owner": "Obd_Ristal",
+    "owner": "Black_LIst",
     "status": "Занято",
     "x": -2594.19,
     "y": 733.1779,
@@ -11384,18 +11372,6 @@
     "status": "Занято",
     "x": -2239.28,
     "y": 998.7769,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 951,
-    "server_id": 12,
-    "type": "house",
-    "name": "Народная бомжатня ",
-    "owner": "Leto_IArbaleti",
-    "status": "Занято",
-    "x": -2230.74,
-    "y": 1027.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19476,18 +19452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1625,
-    "server_id": 12,
-    "type": "house",
-    "name": "Резиденция Мелконян",
-    "owner": "Leto_IArbaleti",
-    "status": "Занято",
-    "x": 885.9019,
-    "y": 2211.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1626,
     "server_id": 12,
     "type": "house",
@@ -23796,6 +23760,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 99,
+    "server_id": 12,
+    "type": "house",
+    "name": "Владение Антона Чигура",
+    "owner": "Bop_Begemotov",
+    "status": "Аукцион",
+    "x": 2637.77,
+    "y": -1992.44,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 866,
     "server_id": 12,
     "type": "house",
@@ -23817,6 +23793,30 @@
     "x": -322.6199,
     "y": 2554.17,
     "price": 1300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 951,
+    "server_id": 12,
+    "type": "house",
+    "name": "Народная бомжатня ",
+    "owner": "Leto_IArbaleti",
+    "status": "Аукцион",
+    "x": -2230.74,
+    "y": 1027.64,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1625,
+    "server_id": 12,
+    "type": "house",
+    "name": "Резиденция Мелконян",
+    "owner": "Leto_IArbaleti",
+    "status": "Аукцион",
+    "x": 885.9019,
+    "y": 2211.72,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
