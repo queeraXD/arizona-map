@@ -480,18 +480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 40,
-    "server_id": 18,
-    "type": "house",
-    "name": "Майнинг 7лвл",
-    "owner": "Ivan_Lombardi",
-    "status": "Занято",
-    "x": 2472.88,
-    "y": -1238.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 41,
     "server_id": 18,
     "type": "house",
@@ -500,18 +488,6 @@
     "status": "Занято",
     "x": 2492.1,
     "y": -1239.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 42,
-    "server_id": 18,
-    "type": "house",
-    "name": "Lombardi",
-    "owner": "Ivan_Lombardi",
-    "status": "Занято",
-    "x": 2550.93,
-    "y": -1235.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -544,7 +520,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Майнинг 7лвл",
-    "owner": "Ivan_Lombardi",
+    "owner": "Jerry_Burberry",
     "status": "Занято",
     "x": 2467.61,
     "y": -1200.41,
@@ -9764,18 +9740,6 @@
     "status": "Занято",
     "x": -2723.1,
     "y": -178.8459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 815,
-    "server_id": 18,
-    "type": "house",
-    "name": "Майнинг 7лвл",
-    "owner": "Ivan_Lombardi",
-    "status": "Занято",
-    "x": -2724.34,
-    "y": -191.276,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22148,6 +22112,42 @@
     "status": "Занято",
     "x": 7.3323,
     "y": 1012.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 40,
+    "server_id": 18,
+    "type": "house",
+    "name": "Майнинг 7лвл",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2472.88,
+    "y": -1238.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 42,
+    "server_id": 18,
+    "type": "house",
+    "name": "Lombardi",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2550.93,
+    "y": -1235.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 815,
+    "server_id": 18,
+    "type": "house",
+    "name": "Майнинг 7лвл",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2724.34,
+    "y": -191.276,
     "price": 0,
     "district": "Сан-Андреас"
   },
