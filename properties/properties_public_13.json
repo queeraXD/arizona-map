@@ -11112,18 +11112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 928,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Aiden_Venum",
-    "status": "Занято",
-    "x": -1860.83,
-    "y": 1114.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 929,
     "server_id": 13,
     "type": "house",
@@ -21772,7 +21760,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Landre Empire",
-    "owner": "Landre_Empire",
+    "owner": "Hugo_Mewell",
     "status": "Занято",
     "x": 1745.5,
     "y": 2770.06,
@@ -21840,18 +21828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1824,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дарова пацаны",
-    "owner": "Glacies_Floe",
-    "status": "Занято",
-    "x": 1784.49,
-    "y": 2758.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1825,
     "server_id": 13,
     "type": "house",
@@ -21908,18 +21884,6 @@
     "status": "Занято",
     "x": 1799.6,
     "y": 2814.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1830,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Glacies_Floe",
-    "status": "Занято",
-    "x": 1802.66,
-    "y": 2826.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,6 +23244,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 928,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Aiden_Venum",
+    "status": "Аукцион",
+    "x": -1860.83,
+    "y": 1114.77,
+    "price": 350123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1094,
     "server_id": 13,
     "type": "house",
@@ -23289,6 +23265,30 @@
     "x": -2210.98,
     "y": 902.885,
     "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1824,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дарова пацаны",
+    "owner": "Glacies_Floe",
+    "status": "Аукцион",
+    "x": 1784.49,
+    "y": 2758.73,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1830,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Glacies_Floe",
+    "status": "Аукцион",
+    "x": 1802.66,
+    "y": 2826.28,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {

@@ -6612,18 +6612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 551,
-    "server_id": 27,
-    "type": "house",
-    "name": "Чилловые Шахтёры",
-    "owner": "Sage_Company",
-    "status": "Занято",
-    "x": 531.0819,
-    "y": 1336.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 552,
     "server_id": 27,
     "type": "house",
@@ -7916,18 +7904,6 @@
     "status": "Занято",
     "x": 1029.68,
     "y": 1876.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 660,
-    "server_id": 27,
-    "type": "house",
-    "name": "Egoist only",
-    "owner": "Lament_Sweat",
-    "status": "Занято",
-    "x": 1030.21,
-    "y": 1848.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9572,6 +9548,18 @@
     "status": "Занято",
     "x": -2368.82,
     "y": 740.5089,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 798,
+    "server_id": 27,
+    "type": "house",
+    "name": "Norgaard House №1",
+    "owner": "Alf_Norgaard",
+    "status": "Занято",
+    "x": -2368.82,
+    "y": 763.504,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23568,6 +23556,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1967,
+    "server_id": 27,
+    "type": "house",
+    "name": "Norgaard House №2",
+    "owner": "Alf_Norgaard",
+    "status": "Занято",
+    "x": -2187.05,
+    "y": 795.7009,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1968,
     "server_id": 27,
     "type": "house",
@@ -24420,15 +24420,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 798,
+    "id": 551,
     "server_id": 27,
     "type": "house",
-    "name": "Norgaard House №1",
-    "owner": "Alf_Norgaard",
+    "name": "Чилловые Шахтёры",
+    "owner": "Sage_Company",
     "status": "Аукцион",
-    "x": -2368.82,
-    "y": 763.504,
-    "price": 500000000,
+    "x": 531.0819,
+    "y": 1336.29,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 660,
+    "server_id": 27,
+    "type": "house",
+    "name": "Egoist only",
+    "owner": "Lament_Sweat",
+    "status": "Аукцион",
+    "x": 1030.21,
+    "y": 1848.1,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24453,54 +24465,6 @@
     "x": 1752.22,
     "y": 2744.56,
     "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1967,
-    "server_id": 27,
-    "type": "house",
-    "name": "Norgaard House №2",
-    "owner": "Alf_Norgaard",
-    "status": "Аукцион",
-    "x": -2187.05,
-    "y": 795.7009,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 97,
-    "server_id": 27,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Den_Paul",
-    "status": "Аукцион",
-    "x": 208.11,
-    "y": -62.718,
-    "price": 200000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 295,
-    "server_id": 27,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Den_Paul",
-    "status": "Аукцион",
-    "x": 2392.56,
-    "y": 2042.21,
-    "price": 180000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 27,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Den_Paul",
-    "status": "Аукцион",
-    "x": 2366.7,
-    "y": 2071.11,
-    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -26568,6 +26532,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 295,
+    "server_id": 27,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Den_Paul",
+    "status": "Занято",
+    "x": 2392.56,
+    "y": 2042.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 27,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Den_Paul",
+    "status": "Занято",
+    "x": 2366.7,
+    "y": 2071.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 357,
     "server_id": 27,
     "type": "business",
@@ -26816,6 +26804,18 @@
     "status": "Занято",
     "x": 2131.88,
     "y": -1151.32,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 97,
+    "server_id": 27,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Den_Paul",
+    "status": "Занято",
+    "x": 208.11,
+    "y": -62.718,
     "price": 0,
     "district": "Сан-Андреас"
   },
