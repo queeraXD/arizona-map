@@ -8308,7 +8308,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Бомжатня",
-    "owner": "Magnat_Pupkin",
+    "owner": "Oxota_Krepkaya",
     "status": "Занято",
     "x": 1454.23,
     "y": 2525.59,
@@ -12816,6 +12816,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1086,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Denzel_Sacra",
+    "status": "Занято",
+    "x": 1781.15,
+    "y": 2747.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1087,
     "server_id": 33,
     "type": "house",
@@ -13148,6 +13160,18 @@
     "status": "Занято",
     "x": 1817.63,
     "y": -1276.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1115,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "farm",
+    "status": "Занято",
+    "x": 1817.86,
+    "y": -1286.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14163,7 +14187,7 @@
     "id": 1200,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "ds: kumagora_3",
     "owner": "Night_Drive",
     "status": "Занято",
     "x": -2791.58,
@@ -14480,6 +14504,18 @@
     "status": "Занято",
     "x": -2476.94,
     "y": 1311.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1228,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nikita_Knailend",
+    "status": "Занято",
+    "x": -2477.21,
+    "y": 1318.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18235,6 +18271,18 @@
     "owner": "Big_Boysik",
     "status": "Занято",
     "x": 2794.33,
+    "y": 2268.49,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1575,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mardi_Home",
+    "status": "Занято",
+    "x": 2788.07,
     "y": 2268.49,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22380,30 +22428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1086,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stefan_Curry",
-    "status": "Аукцион",
-    "x": 1781.15,
-    "y": 2747.27,
-    "price": 15000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1115,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "farm",
-    "status": "Аукцион",
-    "x": 1817.86,
-    "y": -1286.76,
-    "price": 600000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1201,
     "server_id": 33,
     "type": "house",
@@ -22413,18 +22437,6 @@
     "x": -2791.92,
     "y": 143.272,
     "price": 120000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1228,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mushkin_Pushkin",
-    "status": "Аукцион",
-    "x": -2477.21,
-    "y": 1318.55,
-    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22461,18 +22473,6 @@
     "x": 2787.95,
     "y": 2260.95,
     "price": 80000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1575,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lanha_Apuna",
-    "status": "Аукцион",
-    "x": 2788.07,
-    "y": 2268.49,
-    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25708,7 +25708,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Trage_Waltez",
+    "owner": "Aron_Holm",
     "status": "Занято",
     "x": 2824.77,
     "y": 1290.68,

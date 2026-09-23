@@ -4,7 +4,7 @@
     "server_id": 23,
     "type": "house",
     "name": "МайнингГАНГЕ",
-    "owner": "Sentenario_Infinity",
+    "owner": "Flint_Marko",
     "status": "Занято",
     "x": 1885.88,
     "y": -1113.56,
@@ -16,7 +16,7 @@
     "server_id": 23,
     "type": "house",
     "name": "МайнингГАНГЕ",
-    "owner": "Sentenario_Infinity",
+    "owner": "Flint_Marko",
     "status": "Занято",
     "x": 1906.0,
     "y": -1113.0,
@@ -28,7 +28,7 @@
     "server_id": 23,
     "type": "house",
     "name": "OsobovCompany",
-    "owner": "Sentenario_Infinity",
+    "owner": "Flint_Marko",
     "status": "Занято",
     "x": 1921.35,
     "y": -1115.22,
@@ -40,7 +40,7 @@
     "server_id": 23,
     "type": "house",
     "name": "OsobovCompany",
-    "owner": "Sentenario_Infinity",
+    "owner": "Flint_Marko",
     "status": "Занято",
     "x": 1939.18,
     "y": -1114.48,
@@ -268,7 +268,7 @@
     "server_id": 23,
     "type": "house",
     "name": "OsobovCompany",
-    "owner": "Sentenario_Infinity",
+    "owner": "Flint_Marko",
     "status": "Занято",
     "x": 2191.59,
     "y": -1275.87,
@@ -11040,6 +11040,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 923,
+    "server_id": 23,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Artem_Slize",
+    "status": "Занято",
+    "x": -2239.14,
+    "y": 1154.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 924,
     "server_id": 23,
     "type": "house",
@@ -17632,7 +17644,7 @@
     "server_id": 23,
     "type": "house",
     "name": "BloodRage FAM ",
-    "owner": "Sentenario_Infinity",
+    "owner": "Flint_Marko",
     "status": "Занято",
     "x": 883.95,
     "y": 2104.88,
@@ -17732,6 +17744,18 @@
     "status": "Занято",
     "x": 932.8909,
     "y": 2271.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1487,
+    "server_id": 23,
+    "type": "house",
+    "name": "связь со мной /call 247",
+    "owner": "Wayne_Killa",
+    "status": "Занято",
+    "x": 928.6149,
+    "y": 2319.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19148,18 +19172,6 @@
     "status": "Занято",
     "x": 2537.03,
     "y": 1236.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1608,
-    "server_id": 23,
-    "type": "house",
-    "name": "связь со мной /call 247",
-    "owner": "Spike",
-    "status": "Занято",
-    "x": 2541.52,
-    "y": 1232.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21048,18 +21060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 923,
-    "server_id": 23,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Artem_Slize",
-    "status": "Аукцион",
-    "x": -2239.14,
-    "y": 1154.01,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1281,
     "server_id": 23,
     "type": "house",
@@ -21120,18 +21120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1487,
-    "server_id": 23,
-    "type": "house",
-    "name": "связь со мной /call 247",
-    "owner": "Viper_Darkness",
-    "status": "Аукцион",
-    "x": 928.6149,
-    "y": 2319.31,
-    "price": 150123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1493,
     "server_id": 23,
     "type": "house",
@@ -21152,6 +21140,18 @@
     "status": "Аукцион",
     "x": 2540.69,
     "y": 1222.27,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1608,
+    "server_id": 23,
+    "type": "house",
+    "name": "связь со мной /call 247",
+    "owner": "Spike",
+    "status": "Аукцион",
+    "x": 2541.52,
+    "y": 1232.98,
     "price": 100000000,
     "district": "Сан-Андреас"
   },

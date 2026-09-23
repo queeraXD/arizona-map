@@ -3372,18 +3372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 284,
-    "server_id": 4,
-    "type": "house",
-    "name": "s0beit",
-    "owner": "Toma_Hunter",
-    "status": "Занято",
-    "x": 2462.37,
-    "y": -1011.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 285,
     "server_id": 4,
     "type": "house",
@@ -5360,18 +5348,6 @@
     "status": "Занято",
     "x": 2094.12,
     "y": 650.4459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 459,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "dexey",
-    "status": "Занято",
-    "x": 2091.25,
-    "y": 694.6959,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8304,18 +8280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 704,
-    "server_id": 4,
-    "type": "house",
-    "name": "Pelmeshka Empire",
-    "owner": "Actavia_Delafuente",
-    "status": "Занято",
-    "x": 1515.82,
-    "y": 2610.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 705,
     "server_id": 4,
     "type": "house",
@@ -11240,18 +11204,6 @@
     "status": "Занято",
     "x": -2301.75,
     "y": 579.817,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 950,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "dexey",
-    "status": "Занято",
-    "x": -2240.04,
-    "y": 1037.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25092,6 +25044,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 284,
+    "server_id": 4,
+    "type": "house",
+    "name": "s0beit",
+    "owner": "Toma_Hunter",
+    "status": "Аукцион",
+    "x": 2462.37,
+    "y": -1011.12,
+    "price": 130123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 377,
     "server_id": 4,
     "type": "house",
@@ -25197,6 +25161,42 @@
     "x": 2551.22,
     "y": -5.3846,
     "price": 3900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 459,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "dexey",
+    "status": "Аукцион",
+    "x": 2091.25,
+    "y": 694.6959,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 704,
+    "server_id": 4,
+    "type": "house",
+    "name": "Pelmeshka Empire",
+    "owner": "Actavia_Delafuente",
+    "status": "Аукцион",
+    "x": 1515.82,
+    "y": 2610.19,
+    "price": 13000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 950,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "dexey",
+    "status": "Аукцион",
+    "x": -2240.04,
+    "y": 1037.58,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
