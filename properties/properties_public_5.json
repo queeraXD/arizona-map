@@ -9996,18 +9996,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 834,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2029.84,
-    "y": 745.572,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 835,
     "server_id": 5,
     "type": "house",
@@ -11228,6 +11216,18 @@
     "status": "Занято",
     "x": -2282.34,
     "y": 1046.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 937,
+    "server_id": 5,
+    "type": "house",
+    "name": "Тут живет Максон",
+    "owner": "Smuzi_Bolest",
+    "status": "Занято",
+    "x": -2066.49,
+    "y": 819.859,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18747,8 +18747,8 @@
     "id": 1566,
     "server_id": 5,
     "type": "house",
-    "name": "Jason_McDuck",
-    "owner": "Jason_McDuck",
+    "name": "Party House",
+    "owner": "Annie_Lannister",
     "status": "Занято",
     "x": 2750.39,
     "y": -1222.16,
@@ -23352,18 +23352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1953,
-    "server_id": 5,
-    "type": "house",
-    "name": "Jason_McDuck",
-    "owner": "Jason_McDuck",
-    "status": "Занято",
-    "x": 2468.46,
-    "y": -1376.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1954,
     "server_id": 5,
     "type": "house",
@@ -23408,18 +23396,6 @@
     "status": "Занято",
     "x": 2492.21,
     "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1958,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 2476.46,
-    "y": -1376.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25044,15 +25020,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 937,
+    "id": 834,
     "server_id": 5,
     "type": "house",
-    "name": "Тут живет Максон",
-    "owner": "Smuzi_Bolest",
+    "name": "Без названия",
+    "owner": "Igoryan_Toretto",
     "status": "Аукцион",
-    "x": -2066.49,
-    "y": 819.859,
-    "price": 11000,
+    "x": -2029.84,
+    "y": 745.572,
+    "price": 14000,
     "district": "Сан-Андреас"
   },
   {
@@ -25113,6 +25089,42 @@
     "x": 2441.54,
     "y": 1213.67,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1953,
+    "server_id": 5,
+    "type": "house",
+    "name": "Jason_McDuck",
+    "owner": "Jason_McDuck",
+    "status": "Аукцион",
+    "x": 2468.46,
+    "y": -1376.26,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1958,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": 2476.46,
+    "y": -1376.54,
+    "price": 8500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 187,
+    "server_id": 5,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Kellai_LaMonte",
+    "status": "Аукцион",
+    "x": 158.63,
+    "y": -1812.59,
+    "price": 110000,
     "district": "Сан-Андреас"
   },
   {
@@ -27992,18 +28004,6 @@
     "status": "Занято",
     "x": 2268.78,
     "y": 624.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 187,
-    "server_id": 5,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Kellai_LaMonte",
-    "status": "Занято",
-    "x": 158.63,
-    "y": -1812.59,
     "price": 0,
     "district": "Сан-Андреас"
   },

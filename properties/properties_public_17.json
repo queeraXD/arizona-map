@@ -9444,18 +9444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 790,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Shockwaveous_Dragon",
-    "status": "Занято",
-    "x": -2583.75,
-    "y": 896.255,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 791,
     "server_id": 17,
     "type": "house",
@@ -11072,18 +11060,6 @@
     "status": "Занято",
     "x": -2029.88,
     "y": 745.3209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 926,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Shockwaveous_Dragon",
-    "status": "Занято",
-    "x": -2307.24,
-    "y": 944.2639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16800,18 +16776,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1403,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Frank_Stevenson",
-    "status": "Занято",
-    "x": 412.1019,
-    "y": 1385.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1404,
     "server_id": 17,
     "type": "house",
@@ -22452,6 +22416,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 790,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Shockwaveous_Dragon",
+    "status": "Аукцион",
+    "x": -2583.75,
+    "y": 896.255,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 926,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Shockwaveous_Dragon",
+    "status": "Аукцион",
+    "x": -2307.24,
+    "y": 944.2639,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1403,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Frank_Stevenson",
+    "status": "Аукцион",
+    "x": 412.1019,
+    "y": 1385.15,
+    "price": 900000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1434,
     "server_id": 17,
     "type": "house",
@@ -23920,7 +23920,7 @@
     "server_id": 17,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Loneliness_Marlboro",
+    "owner": "Hood_Trap",
     "status": "Занято",
     "x": -2975.86,
     "y": 623.271,
@@ -23932,7 +23932,7 @@
     "server_id": 17,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Loneliness_Marlboro",
+    "owner": "Hood_Trap",
     "status": "Занято",
     "x": 441.766,
     "y": 313.07,
