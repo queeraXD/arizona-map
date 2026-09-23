@@ -6756,18 +6756,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 563,
-    "server_id": 1,
-    "type": "house",
-    "name": "Домик Фармилы №9",
-    "owner": "Ben_Shvedov",
-    "status": "Занято",
-    "x": 263.622,
-    "y": 1171.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 564,
     "server_id": 1,
     "type": "house",
@@ -11840,6 +11828,18 @@
     "status": "Занято",
     "x": -2081.98,
     "y": -2548.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 988,
+    "server_id": 1,
+    "type": "house",
+    "name": "13-GG Empire",
+    "owner": "Lipton_Nakamura",
+    "status": "Занято",
+    "x": -2069.04,
+    "y": -2561.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24156,39 +24156,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 988,
+    "id": 563,
     "server_id": 1,
     "type": "house",
-    "name": "pes family",
-    "owner": "Sila_Repa",
+    "name": "Домик Фармилы №9",
+    "owner": "Ben_Shvedov",
     "status": "Аукцион",
-    "x": -2069.04,
-    "y": -2561.46,
+    "x": 263.622,
+    "y": 1171.51,
     "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 184,
-    "server_id": 1,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Cameron_Wright",
-    "status": "Аукцион",
-    "x": 2351.41,
-    "y": 2405.59,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 185,
-    "server_id": 1,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Cameron_Wright",
-    "status": "Аукцион",
-    "x": 2599.42,
-    "y": 1060.38,
-    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27032,6 +27008,30 @@
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 1,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Cameron_Wright",
+    "status": "Занято",
+    "x": 2351.41,
+    "y": 2405.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 185,
+    "server_id": 1,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Cameron_Wright",
+    "status": "Занято",
+    "x": 2599.42,
+    "y": 1060.38,
     "price": 0,
     "district": "Сан-Андреас"
   },

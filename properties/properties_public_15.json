@@ -11172,18 +11172,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 932,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом СФ, 10 лвл",
-    "owner": "Milki_Flinger",
-    "status": "Занято",
-    "x": -2017.94,
-    "y": 970.2399,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 933,
     "server_id": 15,
     "type": "house",
@@ -11540,18 +11528,6 @@
     "status": "Занято",
     "x": -2168.74,
     "y": 743.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 963,
-    "server_id": 15,
-    "type": "house",
-    "name": "SHUMOV SWAG",
-    "owner": "Zimbabwe_McCloud",
-    "status": "Занято",
-    "x": -2187.12,
-    "y": 743.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12472,7 +12448,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Дом Шахтера",
-    "owner": "Patrick_Arena",
+    "owner": "Quantum_Dilda",
     "status": "Занято",
     "x": -1727.98,
     "y": 1138.91,
@@ -15200,30 +15176,6 @@
     "status": "Занято",
     "x": -2433.07,
     "y": 1338.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1268,
-    "server_id": 15,
-    "type": "house",
-    "name": "Night 2",
-    "owner": "Monar_Rich",
-    "status": "Занято",
-    "x": -2433.75,
-    "y": 1318.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1269,
-    "server_id": 15,
-    "type": "house",
-    "name": "Night 1",
-    "owner": "Monar_Rich",
-    "status": "Занято",
-    "x": -2434.01,
-    "y": 1311.6,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21312,6 +21264,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 932,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом СФ, 10 лвл",
+    "owner": "Milki_Flinger",
+    "status": "Аукцион",
+    "x": -2017.94,
+    "y": 970.2399,
+    "price": 480000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 963,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zimbabwe_McCloud",
+    "status": "Аукцион",
+    "x": -2187.12,
+    "y": 743.71,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1268,
+    "server_id": 15,
+    "type": "house",
+    "name": "Night 2",
+    "owner": "Monar_Rich",
+    "status": "Аукцион",
+    "x": -2433.75,
+    "y": 1318.51,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1269,
+    "server_id": 15,
+    "type": "house",
+    "name": "Night 1",
+    "owner": "Monar_Rich",
+    "status": "Аукцион",
+    "x": -2434.01,
+    "y": 1311.6,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1277,
     "server_id": 15,
     "type": "house",
@@ -21321,6 +21321,42 @@
     "x": -2383.14,
     "y": 1281.33,
     "price": 480000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 115,
+    "server_id": 15,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Tom_Sosison",
+    "status": "Аукцион",
+    "x": -2625.72,
+    "y": 209.242,
+    "price": 210000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 118,
+    "server_id": 15,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Max_Fantom",
+    "status": "Аукцион",
+    "x": -2093.7,
+    "y": -2464.91,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 164,
+    "server_id": 15,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Max_Fantom",
+    "status": "Аукцион",
+    "x": -2624.67,
+    "y": 1412.73,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -21408,18 +21444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 115,
-    "server_id": 15,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Tom_Sosison",
-    "status": "Занято",
-    "x": -2625.72,
-    "y": 209.242,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 116,
     "server_id": 15,
     "type": "business",
@@ -21440,18 +21464,6 @@
     "status": "Занято",
     "x": -2051.91,
     "y": 553.746,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 118,
-    "server_id": 15,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Max_Fantom",
-    "status": "Занято",
-    "x": -2093.7,
-    "y": -2464.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21656,18 +21668,6 @@
     "status": "Занято",
     "x": 1940.01,
     "y": -2116.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 164,
-    "server_id": 15,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Max_Fantom",
-    "status": "Занято",
-    "x": -2624.67,
-    "y": 1412.73,
     "price": 0,
     "district": "Сан-Андреас"
   },

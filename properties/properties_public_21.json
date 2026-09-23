@@ -3468,18 +3468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 289,
-    "server_id": 21,
-    "type": "house",
-    "name": "Smith Family",
-    "owner": "Bonita_Deluxe",
-    "status": "Занято",
-    "x": 2534.44,
-    "y": -1063.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 290,
     "server_id": 21,
     "type": "house",
@@ -6600,18 +6588,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 550,
-    "server_id": 21,
-    "type": "house",
-    "name": "Intelligence",
-    "owner": "Bonita_Deluxe",
-    "status": "Занято",
-    "x": 618.3629,
-    "y": 1168.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 551,
     "server_id": 21,
     "type": "house",
@@ -8152,7 +8128,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Склад",
-    "owner": "Position_Attacker",
+    "owner": "Dostavka_Cuerto",
     "status": "Занято",
     "x": 986.426,
     "y": 2271.81,
@@ -11504,18 +11480,6 @@
     "status": "Занято",
     "x": -2158.75,
     "y": 786.197,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 960,
-    "server_id": 21,
-    "type": "house",
-    "name": "S.Naceri",
-    "owner": "Vadim_Lambo",
-    "status": "Занято",
-    "x": -2158.94,
-    "y": 769.9379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20320,7 +20284,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Grom House",
-    "owner": "Timofey_Oxota",
+    "owner": "Kiryxa_Akyla",
     "status": "Занято",
     "x": 2003.68,
     "y": 2163.89,
@@ -20728,7 +20692,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Sachalin House",
-    "owner": "Bryant_Collin",
+    "owner": "Blood_Prince",
     "status": "Занято",
     "x": 2476.2,
     "y": -1391.4,
@@ -21921,6 +21885,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 289,
+    "server_id": 21,
+    "type": "house",
+    "name": "Smith Family",
+    "owner": "Bonita_Deluxe",
+    "status": "Аукцион",
+    "x": 2534.44,
+    "y": -1063.42,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 550,
+    "server_id": 21,
+    "type": "house",
+    "name": "Intelligence",
+    "owner": "Bonita_Deluxe",
+    "status": "Аукцион",
+    "x": 618.3629,
+    "y": 1168.83,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 960,
+    "server_id": 21,
+    "type": "house",
+    "name": "S.Naceri",
+    "owner": "Vadim_Lambo",
+    "status": "Аукцион",
+    "x": -2158.94,
+    "y": 769.9379,
+    "price": 80000000,
     "district": "Сан-Андреас"
   },
   {

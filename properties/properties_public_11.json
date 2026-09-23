@@ -19200,18 +19200,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1622,
-    "server_id": 11,
-    "type": "house",
-    "name": "Punisher Guard",
-    "owner": "Raiska",
-    "status": "Занято",
-    "x": 2473.12,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1623,
     "server_id": 11,
     "type": "house",
@@ -21960,18 +21948,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1853,
-    "server_id": 11,
-    "type": "house",
-    "name": "Angel House",
-    "owner": "Angel_Deprisant",
-    "status": "Занято",
-    "x": 471.8059,
-    "y": 1414.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1854,
     "server_id": 11,
     "type": "house",
@@ -23240,18 +23216,6 @@
     "status": "Занято",
     "x": 1760.16,
     "y": 2870.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1961,
-    "server_id": 11,
-    "type": "house",
-    "name": "Alexsen | Mining",
-    "owner": "Cricket_Temporal",
-    "status": "Занято",
-    "x": 1730.96,
-    "y": 2823.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24624,6 +24588,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1622,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "Raiska",
+    "status": "Аукцион",
+    "x": 2473.12,
+    "y": -1383.37,
+    "price": 270123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1673,
     "server_id": 11,
     "type": "house",
@@ -24633,6 +24609,18 @@
     "x": 2154.12,
     "y": -979.8649,
     "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1853,
+    "server_id": 11,
+    "type": "house",
+    "name": "tg: @d3athAngell",
+    "owner": "Angel_Deprisant",
+    "status": "Аукцион",
+    "x": 471.8059,
+    "y": 1414.51,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24648,15 +24636,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 218,
+    "id": 1961,
     "server_id": 11,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Dean_Caballero",
+    "type": "house",
+    "name": "Alexsen | Mining",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 1500.24,
-    "y": -1628.79,
-    "price": 6000000000,
+    "x": 1730.96,
+    "y": 2823.45,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27836,6 +27824,18 @@
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 218,
+    "server_id": 11,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Wezzard_Morgan",
+    "status": "Занято",
+    "x": 1500.24,
+    "y": -1628.79,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -3,7 +3,7 @@
     "id": 0,
     "server_id": 18,
     "type": "house",
-    "name": "sweet line base",
+    "name": "Main Office",
     "owner": "Rita_Sukanova",
     "status": "Занято",
     "x": 1885.88,
@@ -27,7 +27,7 @@
     "id": 2,
     "server_id": 18,
     "type": "house",
-    "name": "sweet line acc base",
+    "name": "Acc Base",
     "owner": "Rita_Sukanova",
     "status": "Занято",
     "x": 1921.35,
@@ -39,7 +39,7 @@
     "id": 3,
     "server_id": 18,
     "type": "house",
-    "name": "sweet line obj base",
+    "name": "Objects Base",
     "owner": "Rita_Sukanova",
     "status": "Занято",
     "x": 1939.18,
@@ -51,7 +51,7 @@
     "id": 4,
     "server_id": 18,
     "type": "house",
-    "name": "sweet line case base",
+    "name": "Case Base",
     "owner": "Rita_Sukanova",
     "status": "Занято",
     "x": 1955.12,
@@ -87,7 +87,7 @@
     "id": 7,
     "server_id": 18,
     "type": "house",
-    "name": "sweet line store",
+    "name": "Main Store",
     "owner": "Rita_Sukanova",
     "status": "Занято",
     "x": 2045.39,
@@ -8228,6 +8228,18 @@
     "status": "Занято",
     "x": 1223.02,
     "y": 2616.74,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 687,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Avito_Cheremshin",
+    "status": "Занято",
+    "x": 1265.52,
+    "y": 2609.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22160,19 +22172,7 @@
     "status": "Аукцион",
     "x": 1326.18,
     "y": -1067.59,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 687,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "dimaparij",
-    "status": "Аукцион",
-    "x": 1265.52,
-    "y": 2609.7,
-    "price": 2000000000,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22184,7 +22184,7 @@
     "status": "Аукцион",
     "x": -2655.45,
     "y": 985.7849,
-    "price": 150000,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22196,7 +22196,7 @@
     "status": "Аукцион",
     "x": -2169.66,
     "y": 1027.11,
-    "price": 30000,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
