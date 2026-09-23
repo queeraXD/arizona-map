@@ -8140,11 +8140,11 @@
     "server_id": 31,
     "type": "house",
     "name": "@AGUERRA",
-    "owner": "August_DeGuerra",
-    "status": "Аукцион",
+    "owner": "Oscar_Williams",
+    "status": "Занято",
     "x": 956.921,
     "y": 2270.92,
-    "price": 1000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -12244,7 +12244,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Shakursk",
-    "owner": "Santerro_Bounteiro",
+    "owner": "Matthew_Vernon",
     "status": "Занято",
     "x": 1914.57,
     "y": -159.451,
@@ -12256,7 +12256,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Shakursk",
-    "owner": "Santerro_Bounteiro",
+    "owner": "Matthew_Vernon",
     "status": "Занято",
     "x": 1966.01,
     "y": -226.552,
@@ -12268,7 +12268,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Shakursk",
-    "owner": "Santerro_Bounteiro",
+    "owner": "Matthew_Vernon",
     "status": "Занято",
     "x": 2024.52,
     "y": -199.391,
@@ -12280,7 +12280,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Shakursk",
-    "owner": "Santerro_Bounteiro",
+    "owner": "Matthew_Vernon",
     "status": "Занято",
     "x": 2092.59,
     "y": -202.505,
@@ -12292,7 +12292,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Shakursk",
-    "owner": "Maras_Shakur",
+    "owner": "Matthew_Vernon",
     "status": "Занято",
     "x": 2095.85,
     "y": -248.149,
@@ -12304,7 +12304,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Shakursk",
-    "owner": "Maras_Shakur",
+    "owner": "Matthew_Vernon",
     "status": "Занято",
     "x": 2059.93,
     "y": -266.501,
@@ -12316,7 +12316,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Shakursk",
-    "owner": "Maras_Shakur",
+    "owner": "Matthew_Vernon",
     "status": "Занято",
     "x": 2019.01,
     "y": -317.5629,
@@ -12328,7 +12328,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Shakursk",
-    "owner": "Maras_Shakur",
+    "owner": "Matthew_Vernon",
     "status": "Занято",
     "x": 1955.61,
     "y": -303.604,
@@ -14364,6 +14364,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1200,
+    "server_id": 31,
+    "type": "house",
+    "name": "Кайф",
+    "owner": "Danya_Shawarma",
+    "status": "Занято",
+    "x": -2791.58,
+    "y": 130.6239,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1201,
     "server_id": 31,
     "type": "house",
@@ -15680,6 +15692,18 @@
     "status": "Занято",
     "x": 161.531,
     "y": -1455.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1311,
+    "server_id": 31,
+    "type": "house",
+    "name": "Saber Family",
+    "owner": "Fanky_Tape",
+    "status": "Занято",
+    "x": 142.6089,
+    "y": -1470.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21492,6 +21516,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1804,
+    "server_id": 31,
+    "type": "house",
+    "name": "10/15 7lvl ферма",
+    "owner": "Billy_Sweizy",
+    "status": "Занято",
+    "x": 2544.18,
+    "y": 2213.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1805,
     "server_id": 31,
     "type": "house",
@@ -23244,30 +23280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1200,
-    "server_id": 31,
-    "type": "house",
-    "name": "Кайф",
-    "owner": "Danya_Shawarma",
-    "status": "Аукцион",
-    "x": -2791.58,
-    "y": 130.6239,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1311,
-    "server_id": 31,
-    "type": "house",
-    "name": "Saber Family",
-    "owner": "Evgeniy_Saber",
-    "status": "Аукцион",
-    "x": 142.6089,
-    "y": -1470.36,
-    "price": 4000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1585,
     "server_id": 31,
     "type": "house",
@@ -23328,18 +23340,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1804,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом Легенды",
-    "owner": "ARTEMKA_IVANOVZ",
-    "status": "Аукцион",
-    "x": 2544.18,
-    "y": 2213.07,
-    "price": 20000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1866,
     "server_id": 31,
     "type": "house",
@@ -23349,18 +23349,6 @@
     "x": -2431.4,
     "y": 895.234,
     "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 82,
-    "server_id": 31,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Mlnato_Rostik",
-    "status": "Аукцион",
-    "x": 1879.19,
-    "y": 2339.5,
-    "price": 156000,
     "district": "Сан-Андреас"
   },
   {
@@ -25112,6 +25100,18 @@
     "status": "Занято",
     "x": 2101.89,
     "y": 2228.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 82,
+    "server_id": 31,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Mlnato_Rostik",
+    "status": "Занято",
+    "x": 1879.19,
+    "y": 2339.5,
     "price": 0,
     "district": "Сан-Андреас"
   },

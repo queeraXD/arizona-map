@@ -1253,10 +1253,10 @@
     "type": "house",
     "name": "ds lostuser0000",
     "owner": "champagne",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2508.21,
     "y": -1998.37,
-    "price": 4000000123,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -1265,10 +1265,10 @@
     "type": "house",
     "name": "dostavkacuerto ds",
     "owner": "Arbuznik_Lovlya",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2483.41,
     "y": -1995.78,
-    "price": 4123123123,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -15132,18 +15132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1265,
-    "server_id": 26,
-    "type": "house",
-    "name": "Gashik",
-    "owner": "Georgi_Tevzadze",
-    "status": "Занято",
-    "x": -2338.49,
-    "y": 580.0319,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1266,
     "server_id": 26,
     "type": "house",
@@ -20760,6 +20748,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1735,
+    "server_id": 26,
+    "type": "house",
+    "name": "depression 1000-7",
+    "owner": "Tema_NeLololoshkin",
+    "status": "Занято",
+    "x": -2597.31,
+    "y": 2357.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1736,
     "server_id": 26,
     "type": "house",
@@ -21044,6 +21044,18 @@
     "status": "Занято",
     "x": 2601.64,
     "y": 2203.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1760,
+    "server_id": 26,
+    "type": "house",
+    "name": "Kamishini No Yari",
+    "owner": "Tema_NeLololoshkin",
+    "status": "Занято",
+    "x": 2601.63,
+    "y": 2211.3,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25116,6 +25128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1265,
+    "server_id": 26,
+    "type": "house",
+    "name": "Gashik",
+    "owner": "Georgi_Tevzadze",
+    "status": "Аукцион",
+    "x": -2338.49,
+    "y": 580.0319,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1559,
     "server_id": 26,
     "type": "house",
@@ -25125,30 +25149,6 @@
     "x": 2787.7,
     "y": 2268.49,
     "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1735,
-    "server_id": 26,
-    "type": "house",
-    "name": "depression 1000-7",
-    "owner": "Tema_NeLololoshkin",
-    "status": "Аукцион",
-    "x": -2597.31,
-    "y": 2357.08,
-    "price": 400123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1760,
-    "server_id": 26,
-    "type": "house",
-    "name": "Kamishini No Yari",
-    "owner": "Tema_NeLololoshkin",
-    "status": "Аукцион",
-    "x": 2601.63,
-    "y": 2211.3,
-    "price": 100123123,
     "district": "Сан-Андреас"
   },
   {

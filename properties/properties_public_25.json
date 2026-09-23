@@ -6941,10 +6941,10 @@
     "type": "house",
     "name": "деревня Горных Лам №9",
     "owner": "Eugene_Macedonsky",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -268.992,
     "y": 2769.35,
-    "price": 400000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -6953,10 +6953,10 @@
     "type": "house",
     "name": "деревня Горных Лам №6",
     "owner": "Eugene_Macedonsky",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -287.4519,
     "y": 2758.14,
-    "price": 400000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -7928,6 +7928,18 @@
     "status": "Занято",
     "x": 985.838,
     "y": 1901.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 663,
+    "server_id": 25,
+    "type": "house",
+    "name": "Лас вентурас",
+    "owner": "Michael_Rapaport",
+    "status": "Занято",
+    "x": 985.0139,
+    "y": 1930.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16536,6 +16548,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1383,
+    "server_id": 25,
+    "type": "house",
+    "name": "tg- @Lorixii",
+    "owner": "Lorix_Baltika",
+    "status": "Занято",
+    "x": 1978.77,
+    "y": -1671.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1384,
     "server_id": 25,
     "type": "house",
@@ -23628,18 +23652,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 663,
-    "server_id": 25,
-    "type": "house",
-    "name": "Лас вентурас",
-    "owner": "Michael_Rapaport",
-    "status": "Аукцион",
-    "x": 985.0139,
-    "y": 1930.67,
-    "price": 4500,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 841,
     "server_id": 25,
     "type": "house",
@@ -23649,18 +23661,6 @@
     "x": -2208.08,
     "y": 1108.05,
     "price": 50000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1383,
-    "server_id": 25,
-    "type": "house",
-    "name": "TESSA <3",
-    "owner": "Quki_Dit",
-    "status": "Аукцион",
-    "x": 1978.77,
-    "y": -1671.59,
-    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23769,18 +23769,6 @@
     "x": 1789.83,
     "y": 2778.61,
     "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 271,
-    "server_id": 25,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Farma_Zone",
-    "status": "Аукцион",
-    "x": -1912.17,
-    "y": 827.954,
-    "price": 99001,
     "district": "Сан-Андреас"
   },
   {
@@ -25820,6 +25808,18 @@
     "status": "Занято",
     "x": -53.8409,
     "y": 1189.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 271,
+    "server_id": 25,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Farma_Zone",
+    "status": "Занято",
+    "x": -1912.17,
+    "y": 827.954,
     "price": 0,
     "district": "Сан-Андреас"
   },
