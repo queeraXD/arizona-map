@@ -9732,6 +9732,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 811,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Leo_Bianco",
+    "status": "Занято",
+    "x": -2721.11,
+    "y": -146.664,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 812,
     "server_id": 31,
     "type": "house",
@@ -9800,18 +9812,6 @@
     "status": "Занято",
     "x": -2621.01,
     "y": -173.2859,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 818,
-    "server_id": 31,
-    "type": "house",
-    "name": "Обмен",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": -2689.46,
-    "y": -167.298,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22248,18 +22248,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1866,
-    "server_id": 31,
-    "type": "house",
-    "name": "Агентство,деп условия,фулл шкаф",
-    "owner": "Stepan_Gorodskoy",
-    "status": "Занято",
-    "x": -2431.4,
-    "y": 895.234,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1867,
     "server_id": 31,
     "type": "house",
@@ -23256,15 +23244,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 811,
+    "id": 818,
     "server_id": 31,
     "type": "house",
-    "name": "Дом",
-    "owner": "crimson",
+    "name": "Обмен",
+    "owner": "Unwritten_Reply",
     "status": "Аукцион",
-    "x": -2721.11,
-    "y": -146.664,
-    "price": 500000000,
+    "x": -2689.46,
+    "y": -167.298,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23349,6 +23337,18 @@
     "x": 2541.53,
     "y": 1220.66,
     "price": 1300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1866,
+    "server_id": 31,
+    "type": "house",
+    "name": "Агентство,деп условия,фулл шкаф",
+    "owner": "Stepan_Gorodskoy",
+    "status": "Аукцион",
+    "x": -2431.4,
+    "y": 895.234,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {

@@ -8835,7 +8835,7 @@
     "id": 736,
     "server_id": 29,
     "type": "house",
-    "name": "Eclipse Apartments #6",
+    "name": "Taffanel Monopoly",
     "owner": "Raffaello_Taffanel",
     "status": "Занято",
     "x": -2899.14,
@@ -9608,18 +9608,6 @@
     "status": "Занято",
     "x": -2358.42,
     "y": 820.0349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 801,
-    "server_id": 29,
-    "type": "house",
-    "name": "Тут живет Андрей",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": -2340.03,
-    "y": 820.0209,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12928,7 +12916,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Taffanel Monopoly",
-    "owner": "Jons_Taffanel",
+    "owner": "Raffaello_Taffanel",
     "status": "Занято",
     "x": -2895.53,
     "y": 1017.01,
@@ -14292,18 +14280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1191,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дар Торреса",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": -2791.87,
-    "y": -24.3971,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1192,
     "server_id": 29,
     "type": "house",
@@ -14428,7 +14404,7 @@
     "server_id": 29,
     "type": "house",
     "name": "ХАТА 1",
-    "owner": "Daniil_Lotsmanov",
+    "owner": "Valera_Bashmak",
     "status": "Занято",
     "x": -2789.18,
     "y": 183.798,
@@ -17288,18 +17264,6 @@
     "status": "Занято",
     "x": 1115.59,
     "y": -2252.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1442,
-    "server_id": 29,
-    "type": "house",
-    "name": "gangster lovit",
-    "owner": "Vladimir_Zelenskii",
-    "status": "Занято",
-    "x": 689.755,
-    "y": 1297.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21129,6 +21093,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 801,
+    "server_id": 29,
+    "type": "house",
+    "name": "Тут живет Андрей",
+    "owner": "Night_Sosiska",
+    "status": "Аукцион",
+    "x": -2340.03,
+    "y": 820.0209,
+    "price": 550123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1191,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дар Торреса",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": -2791.87,
+    "y": -24.3971,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1442,
+    "server_id": 29,
+    "type": "house",
+    "name": "gangster lovit",
+    "owner": "Vladimir_Zelenskii",
+    "status": "Аукцион",
+    "x": 689.755,
+    "y": 1297.17,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
