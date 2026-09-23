@@ -1344,18 +1344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 112,
-    "server_id": 33,
-    "type": "house",
-    "name": "Dracul | Empire",
-    "owner": "Bruno_Dracul",
-    "status": "Занято",
-    "x": 2241.99,
-    "y": -1882.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 113,
     "server_id": 33,
     "type": "house",
@@ -2808,30 +2796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 234,
-    "server_id": 33,
-    "type": "house",
-    "name": "Cripson Empire",
-    "owner": "Bee_Cripson",
-    "status": "Занято",
-    "x": 416.519,
-    "y": -1154.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 235,
-    "server_id": 33,
-    "type": "house",
-    "name": "Cripson Empire",
-    "owner": "Bee_Cripson",
-    "status": "Занято",
-    "x": 497.6589,
-    "y": -1094.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 236,
     "server_id": 33,
     "type": "house",
@@ -2864,18 +2828,6 @@
     "status": "Занято",
     "x": 1095.15,
     "y": -647.6619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 239,
-    "server_id": 33,
-    "type": "house",
-    "name": "особа налдона",
-    "owner": "Mushkin_Pushkin",
-    "status": "Занято",
-    "x": 253.005,
-    "y": -1222.47,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6960,18 +6912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 584,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Opium_Svyat",
-    "status": "Занято",
-    "x": -219.5899,
-    "y": 2767.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 585,
     "server_id": 33,
     "type": "house",
@@ -7360,7 +7300,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Joe_Norton",
+    "owner": "Jonni_Makaronina",
     "status": "Занято",
     "x": -2523.5,
     "y": 2239.64,
@@ -7635,7 +7575,7 @@
     "id": 642,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "ds: kumagora_3",
     "owner": "Night_Drive",
     "status": "Занято",
     "x": 1846.05,
@@ -7983,7 +7923,7 @@
     "id": 671,
     "server_id": 33,
     "type": "house",
-    "name": "Endo 3",
+    "name": "GREY EMPIRE",
     "owner": "Christian_Grey",
     "status": "Занято",
     "x": 1085.88,
@@ -11776,7 +11716,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Joe_Norton",
+    "owner": "Jonni_Makaronina",
     "status": "Занято",
     "x": -2551.78,
     "y": 2267.08,
@@ -12788,6 +12728,18 @@
     "status": "Занято",
     "x": -2884.2,
     "y": 995.635,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1080,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lottery_Billz",
+    "status": "Занято",
+    "x": -2876.04,
+    "y": 980.9829,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14528,18 +14480,6 @@
     "status": "Занято",
     "x": -2476.94,
     "y": 1311.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1228,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mushkin_Pushkin",
-    "status": "Занято",
-    "x": -2477.21,
-    "y": 1318.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19224,18 +19164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1652,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tics_Taffanel",
-    "status": "Занято",
-    "x": 2357.04,
-    "y": 1021.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1653,
     "server_id": 33,
     "type": "house",
@@ -22308,6 +22236,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 112,
+    "server_id": 33,
+    "type": "house",
+    "name": "Dracul | Empire",
+    "owner": "Bruno_Dracul",
+    "status": "Аукцион",
+    "x": 2241.99,
+    "y": -1882.29,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 234,
+    "server_id": 33,
+    "type": "house",
+    "name": "Cripson Empire",
+    "owner": "Bee_Cripson",
+    "status": "Аукцион",
+    "x": 416.519,
+    "y": -1154.58,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 235,
+    "server_id": 33,
+    "type": "house",
+    "name": "Cripson Empire",
+    "owner": "Bee_Cripson",
+    "status": "Аукцион",
+    "x": 497.6589,
+    "y": -1094.61,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 239,
+    "server_id": 33,
+    "type": "house",
+    "name": "особа налдона",
+    "owner": "Mushkin_Pushkin",
+    "status": "Аукцион",
+    "x": 253.005,
+    "y": -1222.47,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 311,
     "server_id": 33,
     "type": "house",
@@ -22353,6 +22329,18 @@
     "x": 2039.57,
     "y": 2766.53,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 584,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Opium_Svyat",
+    "status": "Аукцион",
+    "x": -219.5899,
+    "y": 2767.46,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22428,18 +22416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1080,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lottery_Billz",
-    "status": "Аукцион",
-    "x": -2876.04,
-    "y": 980.9829,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1086,
     "server_id": 33,
     "type": "house",
@@ -22461,6 +22437,18 @@
     "x": 1817.86,
     "y": -1286.76,
     "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1228,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mushkin_Pushkin",
+    "status": "Аукцион",
+    "x": -2477.21,
+    "y": 1318.55,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22497,6 +22485,18 @@
     "x": 2788.07,
     "y": 2268.49,
     "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1652,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tics_Taffanel",
+    "status": "Аукцион",
+    "x": 2357.04,
+    "y": 1021.74,
+    "price": 80000000,
     "district": "Сан-Андреас"
   },
   {

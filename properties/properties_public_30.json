@@ -15508,7 +15508,7 @@
     "server_id": 30,
     "type": "house",
     "name": "STSFam",
-    "owner": "Ati_Syzen",
+    "owner": "streetphotographer",
     "status": "Занято",
     "x": -2590.53,
     "y": -105.9329,
@@ -17216,6 +17216,18 @@
     "status": "Занято",
     "x": 1105.59,
     "y": -1562.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1435,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Venom_Confidental",
+    "status": "Занято",
+    "x": 1112.2,
+    "y": -1575.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19688,18 +19700,6 @@
     "status": "Занято",
     "x": 1110.52,
     "y": -1554.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1647,
-    "server_id": 30,
-    "type": "house",
-    "name": "MiyaGi",
-    "owner": "Legenda_Skamma",
-    "status": "Занято",
-    "x": 1115.72,
-    "y": -1562.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22728,18 +22728,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1435,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "CrisP_DeMoretti",
-    "status": "Аукцион",
-    "x": 1112.2,
-    "y": -1575.21,
-    "price": 10000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1591,
     "server_id": 30,
     "type": "house",
@@ -22749,6 +22737,18 @@
     "x": 2476.29,
     "y": -1358.87,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1647,
+    "server_id": 30,
+    "type": "house",
+    "name": "MiyaGi",
+    "owner": "Legenda_Skamma",
+    "status": "Аукцион",
+    "x": 1115.72,
+    "y": -1562.72,
+    "price": 1200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25936,7 +25936,7 @@
     "server_id": 30,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Ruslyana_Dredd",
+    "owner": "Mitchi_Matsumota",
     "status": "Занято",
     "x": 1500.24,
     "y": -1628.79,

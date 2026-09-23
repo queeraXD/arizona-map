@@ -14463,7 +14463,7 @@
     "id": 1205,
     "server_id": 27,
     "type": "house",
-    "name": "Частное поместье Сира Халупы",
+    "name": "Гуртожиток",
     "owner": "Petryxa_Shtukatyr",
     "status": "Занято",
     "x": -2791.91,
@@ -17756,18 +17756,6 @@
     "status": "Занято",
     "x": 883.95,
     "y": 2104.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1480,
-    "server_id": 27,
-    "type": "house",
-    "name": "Selekts House",
-    "owner": "Sila_Repa",
-    "status": "Занято",
-    "x": 883.95,
-    "y": 2131.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23064,18 +23052,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1922,
-    "server_id": 27,
-    "type": "house",
-    "name": "ШКАФ + МАЙНИНГ ",
-    "owner": "hypnotic",
-    "status": "Занято",
-    "x": 1754.59,
-    "y": 2736.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1923,
     "server_id": 27,
     "type": "house",
@@ -24453,6 +24429,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1480,
+    "server_id": 27,
+    "type": "house",
+    "name": "Selekts House",
+    "owner": "Sila_Repa",
+    "status": "Аукцион",
+    "x": 883.95,
+    "y": 2131.46,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1922,
+    "server_id": 27,
+    "type": "house",
+    "name": "ШКАФ + МАЙНИНГ ",
+    "owner": "hypnotic",
+    "status": "Аукцион",
+    "x": 1754.59,
+    "y": 2736.03,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {

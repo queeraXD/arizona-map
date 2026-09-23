@@ -21324,18 +21324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 99,
-    "server_id": 15,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "El_Capucci",
-    "status": "Аукцион",
-    "x": -2089.11,
-    "y": 84.268,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 115,
     "server_id": 15,
     "type": "business",
@@ -23700,6 +23688,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 99,
+    "server_id": 15,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "El_Capucci",
+    "status": "Занято",
+    "x": -2089.11,
+    "y": 84.268,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 100,
     "server_id": 15,
     "type": "business",
@@ -24328,7 +24328,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Myxa_Helic",
+    "owner": "Farmila_Skufov",
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,
