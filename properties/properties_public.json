@@ -6048,6 +6048,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 507,
+    "server_id": 33,
+    "type": "house",
+    "name": "A/Scalfaro #1",
+    "owner": "Maloy_Milliard",
+    "status": "Занято",
+    "x": 1364.26,
+    "y": 2022.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 508,
     "server_id": 33,
     "type": "house",
@@ -9240,18 +9252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 779,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Yurnero_God",
-    "status": "Занято",
-    "x": -2568.95,
-    "y": 794.1749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 780,
     "server_id": 33,
     "type": "house",
@@ -9416,18 +9416,6 @@
     "status": "Занято",
     "x": -2540.68,
     "y": 855.103,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 794,
-    "server_id": 33,
-    "type": "house",
-    "name": "myhouse",
-    "owner": "Yurnero_God",
-    "status": "Занято",
-    "x": -2538.73,
-    "y": 830.064,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12384,6 +12372,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1045,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Peter_Parker",
+    "status": "Занято",
+    "x": -1831.83,
+    "y": 1166.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1046,
     "server_id": 33,
     "type": "house",
@@ -12852,18 +12852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1086,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stefan_Curry",
-    "status": "Занято",
-    "x": 1781.15,
-    "y": 2747.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1087,
     "server_id": 33,
     "type": "house",
@@ -13196,18 +13184,6 @@
     "status": "Занято",
     "x": 1817.63,
     "y": -1276.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1115,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "farm",
-    "status": "Занято",
-    "x": 1817.86,
-    "y": -1286.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18232,7 +18208,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Mick_Demoney",
+    "owner": "Damage_Net",
     "status": "Занято",
     "x": 2788.02,
     "y": 2221.93,
@@ -18336,23 +18312,11 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1575,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lanha_Apuna",
-    "status": "Занято",
-    "x": 2788.07,
-    "y": 2268.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1576,
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Date_Idea",
+    "owner": "Peredoz_Mefom",
     "status": "Занято",
     "x": 2788.02,
     "y": 2268.49,
@@ -19359,7 +19323,7 @@
     "id": 1661,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "Домик Деда ",
     "owner": "Deda_Hasan",
     "status": "Занято",
     "x": 2417.74,
@@ -22380,18 +22344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 507,
-    "server_id": 33,
-    "type": "house",
-    "name": "A/Scalfaro #1",
-    "owner": "Peter_Parker",
-    "status": "Аукцион",
-    "x": 1364.26,
-    "y": 2022.81,
-    "price": 320000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 527,
     "server_id": 33,
     "type": "house",
@@ -22413,6 +22365,30 @@
     "x": -881.726,
     "y": 1532.36,
     "price": 280000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 779,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Yurnero_God",
+    "status": "Аукцион",
+    "x": -2568.95,
+    "y": 794.1749,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 794,
+    "server_id": 33,
+    "type": "house",
+    "name": "myhouse",
+    "owner": "Yurnero_God",
+    "status": "Аукцион",
+    "x": -2538.73,
+    "y": 830.064,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22452,18 +22428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1045,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Peter_Parker",
-    "status": "Аукцион",
-    "x": -1831.83,
-    "y": 1166.06,
-    "price": 320000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1080,
     "server_id": 33,
     "type": "house",
@@ -22473,6 +22437,30 @@
     "x": -2876.04,
     "y": 980.9829,
     "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1086,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stefan_Curry",
+    "status": "Аукцион",
+    "x": 1781.15,
+    "y": 2747.27,
+    "price": 15000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1115,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "farm",
+    "status": "Аукцион",
+    "x": 1817.86,
+    "y": -1286.76,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22497,6 +22485,18 @@
     "x": 2826.08,
     "y": 2140.74,
     "price": 370000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1575,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lanha_Apuna",
+    "status": "Аукцион",
+    "x": 2788.07,
+    "y": 2268.49,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
