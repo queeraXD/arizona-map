@@ -1920,18 +1920,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 160,
-    "server_id": 11,
-    "type": "house",
-    "name": "Bec 200",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": 1227.42,
-    "y": -1017.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 161,
     "server_id": 11,
     "type": "house",
@@ -4076,18 +4064,6 @@
     "status": "Занято",
     "x": 2482.03,
     "y": 1526.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 340,
-    "server_id": 11,
-    "type": "house",
-    "name": "Roxwell",
-    "owner": "Buravchik_Monopoly",
-    "status": "Занято",
-    "x": 747.122,
-    "y": 278.2139,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10128,18 +10104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 845,
-    "server_id": 11,
-    "type": "house",
-    "name": "grig chmo",
-    "owner": "Buravchik_Monopoly",
-    "status": "Занято",
-    "x": -2209.65,
-    "y": 1079.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 846,
     "server_id": 11,
     "type": "house",
@@ -15164,18 +15128,6 @@
     "status": "Занято",
     "x": -2591.17,
     "y": 944.4019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1277,
-    "server_id": 11,
-    "type": "house",
-    "name": "Тут живет семейная пара",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": -2591.18,
-    "y": 960.7689,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22572,18 +22524,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1895,
-    "server_id": 11,
-    "type": "house",
-    "name": "Costa HOUSE #2",
-    "owner": "Vladichka_Gromov",
-    "status": "Занято",
-    "x": 2492.23,
-    "y": -1399.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1896,
     "server_id": 11,
     "type": "house",
@@ -24600,6 +24540,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 160,
+    "server_id": 11,
+    "type": "house",
+    "name": "Bec 200",
+    "owner": "Zheka_Zhuk",
+    "status": "Аукцион",
+    "x": 1227.42,
+    "y": -1017.05,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 340,
+    "server_id": 11,
+    "type": "house",
+    "name": "Roxwell",
+    "owner": "Buravchik_Monopoly",
+    "status": "Аукцион",
+    "x": 747.122,
+    "y": 278.2139,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 796,
     "server_id": 11,
     "type": "house",
@@ -24612,6 +24576,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 845,
+    "server_id": 11,
+    "type": "house",
+    "name": "grig chmo",
+    "owner": "Buravchik_Monopoly",
+    "status": "Аукцион",
+    "x": -2209.65,
+    "y": 1079.99,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1277,
+    "server_id": 11,
+    "type": "house",
+    "name": "Тут живет семейная пара",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": -2591.18,
+    "y": 960.7689,
+    "price": 135000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1627,
     "server_id": 11,
     "type": "house",
@@ -24620,6 +24608,18 @@
     "status": "Аукцион",
     "x": 2468.27,
     "y": -1398.82,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1895,
+    "server_id": 11,
+    "type": "house",
+    "name": "Costa HOUSE #2",
+    "owner": "Vladichka_Gromov",
+    "status": "Аукцион",
+    "x": 2492.23,
+    "y": -1399.08,
     "price": 100000000,
     "district": "Сан-Андреас"
   },
@@ -24645,18 +24645,6 @@
     "x": -2187.16,
     "y": 795.7009,
     "price": 250123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 36,
-    "server_id": 11,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 928.254,
-    "y": -1352.9,
-    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26300,6 +26288,18 @@
     "status": "Занято",
     "x": 1367.55,
     "y": 248.241,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 36,
+    "server_id": 11,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Emilia_Kingston",
+    "status": "Занято",
+    "x": 928.254,
+    "y": -1352.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
