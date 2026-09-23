@@ -300,6 +300,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 25,
+    "server_id": 23,
+    "type": "house",
+    "name": "Sklim Monopoly ",
+    "owner": "Robet_Below",
+    "status": "Занято",
+    "x": 2250.11,
+    "y": -1280.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 26,
     "server_id": 23,
     "type": "house",
@@ -5752,7 +5764,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Strax_Qweensex",
+    "owner": "Kot_Cornello",
     "status": "Занято",
     "x": 2228.36,
     "y": 734.7039,
@@ -9908,6 +9920,18 @@
     "status": "Занято",
     "x": -2724.29,
     "y": -58.0475,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 828,
+    "server_id": 23,
+    "type": "house",
+    "name": "sklim Monopoly ",
+    "owner": "Kot_Cornello",
+    "status": "Занято",
+    "x": -2721.08,
+    "y": -44.7512,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15123,7 +15147,7 @@
     "id": 1264,
     "server_id": 23,
     "type": "house",
-    "name": "|| House MIXTY :) || ",
+    "name": "House Harder (ФБР СФ)",
     "owner": "Luke_Harder",
     "status": "Занято",
     "x": -2356.74,
@@ -15360,18 +15384,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1285,
-    "server_id": 23,
-    "type": "house",
-    "name": "VipKazahHouse",
-    "owner": "Daniil_Khaibullin",
-    "status": "Занято",
-    "x": -2621.02,
-    "y": -134.798,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1286,
     "server_id": 23,
     "type": "house",
@@ -15380,18 +15392,6 @@
     "status": "Занято",
     "x": -2619.75,
     "y": -127.581,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1287,
-    "server_id": 23,
-    "type": "house",
-    "name": "VipKazahHouse",
-    "owner": "Fil_Dolkson",
-    "status": "Занято",
-    "x": -2620.77,
-    "y": -120.2119,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17688,6 +17688,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1480,
+    "server_id": 23,
+    "type": "house",
+    "name": "связь со мной /call 247",
+    "owner": "Maksim_Lenins",
+    "status": "Занято",
+    "x": 885.4249,
+    "y": 2238.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1481,
     "server_id": 23,
     "type": "house",
@@ -17816,6 +17828,18 @@
     "status": "Занято",
     "x": 884.517,
     "y": 2076.63,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1493,
+    "server_id": 23,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Laptopik",
+    "status": "Занято",
+    "x": 885.9019,
+    "y": 2211.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21048,30 +21072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 25,
-    "server_id": 23,
-    "type": "house",
-    "name": "Sklim Monopoly ",
-    "owner": "Sirius_Cybernetik",
-    "status": "Аукцион",
-    "x": 2250.11,
-    "y": -1280.4,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 828,
-    "server_id": 23,
-    "type": "house",
-    "name": "sklim Monopoly ",
-    "owner": "Sirius_Cybernetik",
-    "status": "Аукцион",
-    "x": -2721.08,
-    "y": -44.7512,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1281,
     "server_id": 23,
     "type": "house",
@@ -21081,6 +21081,30 @@
     "x": -2686.82,
     "y": -188.091,
     "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1285,
+    "server_id": 23,
+    "type": "house",
+    "name": "Деп условия +бонус в шкафу ",
+    "owner": "Daniil_Khaibullin",
+    "status": "Аукцион",
+    "x": -2621.02,
+    "y": -134.798,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1287,
+    "server_id": 23,
+    "type": "house",
+    "name": "VipKazahHouse",
+    "owner": "Fil_Dolkson",
+    "status": "Аукцион",
+    "x": -2620.77,
+    "y": -120.2119,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21096,18 +21120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1480,
-    "server_id": 23,
-    "type": "house",
-    "name": "связь со мной /call 247",
-    "owner": "Sergio_Tohok",
-    "status": "Аукцион",
-    "x": 885.4249,
-    "y": 2238.86,
-    "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1484,
     "server_id": 23,
     "type": "house",
@@ -21117,18 +21129,6 @@
     "x": 981.5859,
     "y": 2414.26,
     "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1493,
-    "server_id": 23,
-    "type": "house",
-    "name": "pes family",
-    "owner": "Pes_Family",
-    "status": "Аукцион",
-    "x": 885.9019,
-    "y": 2211.72,
-    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {

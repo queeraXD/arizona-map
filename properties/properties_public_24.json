@@ -6372,18 +6372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 531,
-    "server_id": 24,
-    "type": "house",
-    "name": "|У|Ю|Т|Н|Ы|Й| |Д|О|М|И|Ш|К|А|",
-    "owner": "Vlad_Collapse",
-    "status": "Занято",
-    "x": 1929.81,
-    "y": 2774.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 532,
     "server_id": 24,
     "type": "house",
@@ -7268,18 +7256,6 @@
     "status": "Занято",
     "x": -1589.79,
     "y": 2706.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 607,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": -1603.7,
-    "y": 2689.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9164,18 +9140,6 @@
     "status": "Занято",
     "x": -2660.11,
     "y": 803.0839,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 766,
-    "server_id": 24,
-    "type": "house",
-    "name": "Brooks and Blackseekers.",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": -2687.81,
-    "y": 803.0819,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20436,30 +20400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1709,
-    "server_id": 24,
-    "type": "house",
-    "name": "Brooks Empire",
-    "owner": "Subaru_Asgard",
-    "status": "Занято",
-    "x": 1734.18,
-    "y": 2811.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1710,
-    "server_id": 24,
-    "type": "house",
-    "name": "Brooks Empire",
-    "owner": "Subaru_Asgard",
-    "status": "Занято",
-    "x": 1717.14,
-    "y": 2831.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1711,
     "server_id": 24,
     "type": "house",
@@ -21152,6 +21092,18 @@
     "status": "Занято",
     "x": 2601.05,
     "y": -1224.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1769,
+    "server_id": 24,
+    "type": "house",
+    "name": "Майнинг 1 лвл (7/18) ",
+    "owner": "Matthew_Syndicate",
+    "status": "Занято",
+    "x": 2594.5,
+    "y": -1229.22,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21984,6 +21936,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 531,
+    "server_id": 24,
+    "type": "house",
+    "name": "|У|Ю|Т|Н|Ы|Й| |Д|О|М|И|Ш|К|А|",
+    "owner": "Vlad_Collapse",
+    "status": "Аукцион",
+    "x": 1929.81,
+    "y": 2774.34,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 604,
     "server_id": 24,
     "type": "house",
@@ -21996,6 +21960,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 607,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": -1603.7,
+    "y": 2689.76,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 634,
     "server_id": 24,
     "type": "house",
@@ -22005,6 +21981,18 @@
     "x": -324.3099,
     "y": 1165.32,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 766,
+    "server_id": 24,
+    "type": "house",
+    "name": "Brooks and Blackseekers.",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": -2687.81,
+    "y": 803.0819,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22032,15 +22020,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1769,
+    "id": 1709,
     "server_id": 24,
     "type": "house",
-    "name": "Майнинг 1 лвл (7/18) ",
-    "owner": "Flip_Ratero",
+    "name": "Brooks Empire",
+    "owner": "Subaru_Asgard",
     "status": "Аукцион",
-    "x": 2594.5,
-    "y": -1229.22,
-    "price": 350000000,
+    "x": 1734.18,
+    "y": 2811.86,
+    "price": 299999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1710,
+    "server_id": 24,
+    "type": "house",
+    "name": "Brooks Empire",
+    "owner": "Subaru_Asgard",
+    "status": "Аукцион",
+    "x": 1717.14,
+    "y": 2831.91,
+    "price": 299999999,
     "district": "Сан-Андреас"
   },
   {
@@ -24976,7 +24976,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Lucky_Rampage",
+    "owner": "Pozivnoy_Dvesti",
     "status": "Занято",
     "x": 1143.17,
     "y": -1473.83,
