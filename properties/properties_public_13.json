@@ -1668,18 +1668,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 141,
-    "server_id": 13,
-    "type": "house",
-    "name": "borov",
-    "owner": "Pleasure_Day",
-    "status": "Занято",
-    "x": 1667.54,
-    "y": -2107.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 142,
     "server_id": 13,
     "type": "house",
@@ -11576,6 +11564,18 @@
     "status": "Занято",
     "x": -2472.46,
     "y": 2450.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 969,
+    "server_id": 13,
+    "type": "house",
+    "name": "Раутвиль Empire//Майк Раут|0lvl",
+    "owner": "Loki_Daymas",
+    "status": "Занято",
+    "x": -2424.9,
+    "y": 2448.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23136,6 +23136,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 141,
+    "server_id": 13,
+    "type": "house",
+    "name": "borov",
+    "owner": "Pleasure_Day",
+    "status": "Аукцион",
+    "x": 1667.54,
+    "y": -2107.17,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 170,
     "server_id": 13,
     "type": "house",
@@ -23157,18 +23169,6 @@
     "x": -36.0457,
     "y": 1115.65,
     "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 969,
-    "server_id": 13,
-    "type": "house",
-    "name": "Раутвиль Empire//Майк Раут|0lvl",
-    "owner": "Loki_Daymas",
-    "status": "Аукцион",
-    "x": -2424.9,
-    "y": 2448.35,
-    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23289,6 +23289,30 @@
     "x": 2647.11,
     "y": 2259.19,
     "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 434,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 2216.0,
+    "y": -1679.688,
+    "price": 1200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 435,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 532.7643,
+    "y": 874.9283,
+    "price": 1200000,
     "district": "Сан-Андреас"
   },
   {

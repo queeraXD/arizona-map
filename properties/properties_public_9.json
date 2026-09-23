@@ -6780,18 +6780,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 568,
-    "server_id": 9,
-    "type": "house",
-    "name": "фулл майнинг 1lvl",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 452.07,
-    "y": 1246.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 569,
     "server_id": 9,
     "type": "house",
@@ -9620,18 +9608,6 @@
     "status": "Занято",
     "x": -2723.93,
     "y": -105.541,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 807,
-    "server_id": 9,
-    "type": "house",
-    "name": "Home",
-    "owner": "Elya_Plug",
-    "status": "Занято",
-    "x": -2723.12,
-    "y": -112.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23892,6 +23868,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 568,
+    "server_id": 9,
+    "type": "house",
+    "name": "фулл майнинг 1lvl",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": 452.07,
+    "y": 1246.99,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 698,
     "server_id": 9,
     "type": "house",
@@ -23913,6 +23901,18 @@
     "x": -2652.27,
     "y": 841.7739,
     "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 807,
+    "server_id": 9,
+    "type": "house",
+    "name": "Home",
+    "owner": "Elya_Plug",
+    "status": "Аукцион",
+    "x": -2723.12,
+    "y": -112.97,
+    "price": 1550123321,
     "district": "Сан-Андреас"
   },
   {
@@ -25048,7 +25048,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Телефонные коммуникации",
-    "owner": "Samurai_Hakagawa",
+    "owner": "Evan_Watson",
     "status": "Занято",
     "x": -2226.19,
     "y": 259.338,

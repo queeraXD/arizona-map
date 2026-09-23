@@ -3568,7 +3568,7 @@
     "server_id": 29,
     "type": "house",
     "name": "МАЙНИНГ 10 ЛВЛ ",
-    "owner": "Arbuz_Arbuzik",
+    "owner": "Arbuznoe_Opg",
     "status": "Занято",
     "x": 2092.26,
     "y": -1067.44,
@@ -5156,6 +5156,18 @@
     "status": "Занято",
     "x": 253.3269,
     "y": -22.4484,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 432,
+    "server_id": 29,
+    "type": "house",
+    "name": "домик Матвея Бодяка ",
+    "owner": "Matwey_Bodyak",
+    "status": "Занято",
+    "x": 2279.2,
+    "y": -1076.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8868,18 +8880,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 742,
-    "server_id": 29,
-    "type": "house",
-    "name": "Основной дом",
-    "owner": "Anti_Son",
-    "status": "Занято",
-    "x": -2882.27,
-    "y": 779.971,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 743,
     "server_id": 29,
     "type": "house",
@@ -10616,18 +10616,6 @@
     "status": "Занято",
     "x": -2132.23,
     "y": -2511.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 889,
-    "server_id": 29,
-    "type": "house",
-    "name": "...::Western in Company::...",
-    "owner": "Alisher_Tagirovich",
-    "status": "Занято",
-    "x": -2101.45,
-    "y": -2532.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17220,18 +17208,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1442,
-    "server_id": 29,
-    "type": "house",
-    "name": "gangster lovit",
-    "owner": "Vladimir_Zelenskii",
-    "status": "Занято",
-    "x": 689.755,
-    "y": 1297.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1443,
     "server_id": 29,
     "type": "house",
@@ -21084,15 +21060,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 432,
+    "id": 742,
     "server_id": 29,
     "type": "house",
-    "name": "67 треп хата 67",
-    "owner": "Nox_Nostra",
+    "name": "Основной дом",
+    "owner": "Anti_Son",
     "status": "Аукцион",
-    "x": 2279.2,
-    "y": -1076.63,
-    "price": 250000000,
+    "x": -2882.27,
+    "y": 779.971,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21105,6 +21081,18 @@
     "x": -2340.03,
     "y": 820.0209,
     "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 889,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alisher_Tagirovich",
+    "status": "Аукцион",
+    "x": -2101.45,
+    "y": -2532.4,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -21129,6 +21117,18 @@
     "x": -2791.58,
     "y": -17.7355,
     "price": 20123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1442,
+    "server_id": 29,
+    "type": "house",
+    "name": "gangster lovit",
+    "owner": "Vladimir_Zelenskii",
+    "status": "Аукцион",
+    "x": 689.755,
+    "y": 1297.17,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

@@ -9720,18 +9720,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 810,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2723.08,
-    "y": -139.7019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 811,
     "server_id": 31,
     "type": "house",
@@ -9819,7 +9807,7 @@
     "id": 818,
     "server_id": 31,
     "type": "house",
-    "name": "Обмен",
+    "name": "наркопритон",
     "owner": "Fanky_Tape",
     "status": "Занято",
     "x": -2689.46,
@@ -11912,18 +11900,6 @@
     "status": "Занято",
     "x": -2551.78,
     "y": 2267.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 994,
-    "server_id": 31,
-    "type": "house",
-    "name": "домик ",
-    "owner": "Tadjik_Monopoly",
-    "status": "Занято",
-    "x": -2321.64,
-    "y": 797.465,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21144,6 +21120,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1774,
+    "server_id": 31,
+    "type": "house",
+    "name": "Graf Company",
+    "owner": "Donnie_Hudson",
+    "status": "Занято",
+    "x": -767.1699,
+    "y": 2765.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1775,
     "server_id": 31,
     "type": "house",
@@ -21620,6 +21608,18 @@
     "status": "Занято",
     "x": 2620.35,
     "y": 2139.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1815,
+    "server_id": 31,
+    "type": "house",
+    "name": "underbase",
+    "owner": "Satanic_Solitude",
+    "status": "Занято",
+    "x": 2620.36,
+    "y": 2148.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23232,6 +23232,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 810,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2723.08,
+    "y": -139.7019,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 994,
+    "server_id": 31,
+    "type": "house",
+    "name": "домик ",
+    "owner": "Tadjik_Monopoly",
+    "status": "Аукцион",
+    "x": -2321.64,
+    "y": 797.465,
+    "price": 1400000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1060,
     "server_id": 31,
     "type": "house",
@@ -23325,30 +23349,6 @@
     "x": 2541.53,
     "y": 1220.66,
     "price": 1300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1774,
-    "server_id": 31,
-    "type": "house",
-    "name": "Graf Company",
-    "owner": "Donnie_Hudson",
-    "status": "Аукцион",
-    "x": -767.1699,
-    "y": 2765.4,
-    "price": 12000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1815,
-    "server_id": 31,
-    "type": "house",
-    "name": "#DRAKE2026",
-    "owner": "Donnie_Hudson",
-    "status": "Аукцион",
-    "x": 2620.36,
-    "y": 2148.99,
-    "price": 12000,
     "district": "Сан-Андреас"
   },
   {
