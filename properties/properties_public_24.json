@@ -17484,18 +17484,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1465,
-    "server_id": 24,
-    "type": "house",
-    "name": "  12",
-    "owner": "Ilya_Grant",
-    "status": "Занято",
-    "x": 2532.24,
-    "y": 750.0969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1466,
     "server_id": 24,
     "type": "house",
@@ -22020,6 +22008,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1465,
+    "server_id": 24,
+    "type": "house",
+    "name": "  12",
+    "owner": "Ilya_Grant",
+    "status": "Аукцион",
+    "x": 2532.24,
+    "y": 750.0969,
+    "price": 320000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1709,
     "server_id": 24,
     "type": "house",
@@ -22041,18 +22041,6 @@
     "x": 1717.14,
     "y": 2831.91,
     "price": 299999999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 179,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Bandana_Theft",
-    "status": "Аукцион",
-    "x": 1521.99,
-    "y": -1025.07,
-    "price": 93000,
     "district": "Сан-Андреас"
   },
   {
@@ -23260,7 +23248,7 @@
     "server_id": 24,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Legenda_Deeplace",
+    "owner": "Bohdan_Deeplace",
     "status": "Занято",
     "x": -2032.76,
     "y": 161.471,
@@ -24268,7 +24256,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Legenda_Deeplace",
+    "owner": "Bohdan_Deeplace",
     "status": "Занято",
     "x": 1671.52,
     "y": 1814.33,
@@ -24836,6 +24824,18 @@
     "status": "Занято",
     "x": -172.597,
     "y": 1106.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 179,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Bandana_Theft",
+    "status": "Занято",
+    "x": 1521.99,
+    "y": -1025.07,
     "price": 0,
     "district": "Сан-Андреас"
   },

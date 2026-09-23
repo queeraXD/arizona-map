@@ -4128,6 +4128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 344,
+    "server_id": 23,
+    "type": "house",
+    "name": "Только для славян",
+    "owner": "Sinister_Holiday",
+    "status": "Занято",
+    "x": 746.4089,
+    "y": 304.946,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 345,
     "server_id": 23,
     "type": "house",
@@ -15384,18 +15396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1286,
-    "server_id": 23,
-    "type": "house",
-    "name": "VipKazahHouse",
-    "owner": "Daniil_Khaibullin",
-    "status": "Занято",
-    "x": -2619.75,
-    "y": -127.581,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1288,
     "server_id": 23,
     "type": "house",
@@ -15836,6 +15836,18 @@
     "status": "Занято",
     "x": 1447.38,
     "y": 361.768,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1325,
+    "server_id": 23,
+    "type": "house",
+    "name": "пен-хаус мажорки",
+    "owner": "Drovosek_Doberman",
+    "status": "Занято",
+    "x": 1461.16,
+    "y": 342.493,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17692,7 +17704,7 @@
     "server_id": 23,
     "type": "house",
     "name": "связь со мной /call 247",
-    "owner": "Maksim_Lenins",
+    "owner": "Laptopik",
     "status": "Занято",
     "x": 885.4249,
     "y": 2238.86,
@@ -17731,6 +17743,18 @@
     "owner": "Babka_BezZubov",
     "status": "Занято",
     "x": 927.994,
+    "y": 2414.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1484,
+    "server_id": 23,
+    "type": "house",
+    "name": "связь со мной /call 247",
+    "owner": "Laptopik",
+    "status": "Занято",
+    "x": 981.5859,
     "y": 2414.26,
     "price": 0,
     "district": "Сан-Андреас"
@@ -17852,18 +17876,6 @@
     "status": "Занято",
     "x": 957.505,
     "y": 2215.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1495,
-    "server_id": 23,
-    "type": "house",
-    "name": "связь со мной /call 247",
-    "owner": "Stu_Holiday",
-    "status": "Занято",
-    "x": 885.7429,
-    "y": 2267.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21060,18 +21072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 344,
-    "server_id": 23,
-    "type": "house",
-    "name": "Только для славян",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 746.4089,
-    "y": 304.946,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1281,
     "server_id": 23,
     "type": "house",
@@ -21096,6 +21096,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1286,
+    "server_id": 23,
+    "type": "house",
+    "name": "VipKazahHouse",
+    "owner": "Daniil_Khaibullin",
+    "status": "Аукцион",
+    "x": -2619.75,
+    "y": -127.581,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1287,
     "server_id": 23,
     "type": "house",
@@ -21108,39 +21120,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1325,
-    "server_id": 23,
-    "type": "house",
-    "name": "пен-хаус мажорки",
-    "owner": "Majorka_Infinitu",
-    "status": "Аукцион",
-    "x": 1461.16,
-    "y": 342.493,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1484,
+    "id": 1495,
     "server_id": 23,
     "type": "house",
     "name": "связь со мной /call 247",
-    "owner": "Bazaru_Chikago",
+    "owner": "Stu_Holiday",
     "status": "Аукцион",
-    "x": 981.5859,
-    "y": 2414.26,
-    "price": 100000000,
+    "x": 885.7429,
+    "y": 2267.83,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
     "id": 1601,
     "server_id": 23,
     "type": "house",
-    "name": "Sklim Monopoly ",
-    "owner": "Bazaru_Chikago",
+    "name": "Дом",
+    "owner": "Pasha_Stark",
     "status": "Аукцион",
     "x": 2540.69,
     "y": 1222.27,
-    "price": 100000000,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
