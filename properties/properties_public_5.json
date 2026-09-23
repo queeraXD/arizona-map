@@ -2211,7 +2211,7 @@
     "id": 185,
     "server_id": 5,
     "type": "house",
-    "name": "Дом",
+    "name": "CORLEOME APARTMENTS",
     "owner": "Bonnie_Corleone",
     "status": "Занято",
     "x": 697.288,
@@ -11216,18 +11216,6 @@
     "status": "Занято",
     "x": -2282.34,
     "y": 1046.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 937,
-    "server_id": 5,
-    "type": "house",
-    "name": "Тут живет Максон",
-    "owner": "Smuzi_Bolest",
-    "status": "Занято",
-    "x": -2066.49,
-    "y": 819.859,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25044,6 +25032,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 937,
+    "server_id": 5,
+    "type": "house",
+    "name": "Тут живет Максон",
+    "owner": "Smuzi_Bolest",
+    "status": "Аукцион",
+    "x": -2066.49,
+    "y": 819.859,
+    "price": 11000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 939,
     "server_id": 5,
     "type": "house",
@@ -26536,7 +26536,7 @@
     "server_id": 5,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Radion_Morrison",
+    "owner": "Billy_Min",
     "status": "Занято",
     "x": 111.076,
     "y": -1782.68,

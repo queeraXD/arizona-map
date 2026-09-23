@@ -3748,7 +3748,7 @@
     "server_id": 27,
     "type": "house",
     "name": "oxycodon",
-    "owner": "Dance_Cocacola",
+    "owner": "Sleep_Mode",
     "status": "Занято",
     "x": 1939.25,
     "y": -1066.56,
@@ -10368,18 +10368,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 865,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pretty_Girls",
-    "status": "Занято",
-    "x": -269.1889,
-    "y": 2504.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 866,
     "server_id": 27,
     "type": "house",
@@ -14568,18 +14556,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1215,
-    "server_id": 27,
-    "type": "house",
-    "name": "Основа",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2856.66,
-    "y": 841.9479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1216,
     "server_id": 27,
     "type": "house",
@@ -15067,6 +15043,18 @@
     "owner": "Tim_Vercetti",
     "status": "Занято",
     "x": -2303.4,
+    "y": 656.7349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1257,
+    "server_id": 27,
+    "type": "house",
+    "name": "Хата Ройса",
+    "owner": "Pla_Tina",
+    "status": "Занято",
+    "x": -2321.74,
     "y": 656.7349,
     "price": 0,
     "district": "Сан-Андреас"
@@ -16828,7 +16816,7 @@
     "server_id": 27,
     "type": "house",
     "name": "oxycodon",
-    "owner": "Dance_Cocacola",
+    "owner": "Sleep_Mode",
     "status": "Занято",
     "x": 1109.01,
     "y": -1575.2,
@@ -21856,7 +21844,7 @@
     "server_id": 27,
     "type": "house",
     "name": "oxycodon",
-    "owner": "Dance_Cocacola",
+    "owner": "Sleep_Mode",
     "status": "Занято",
     "x": 2492.21,
     "y": -1366.2,
@@ -24408,18 +24396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1257,
-    "server_id": 27,
-    "type": "house",
-    "name": "Хата Ройса",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2321.74,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 25,
     "server_id": 27,
     "type": "house",
@@ -24428,6 +24404,30 @@
     "status": "Аукцион",
     "x": 2250.11,
     "y": -1280.4,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 865,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pretty_Girls",
+    "status": "Аукцион",
+    "x": -269.1889,
+    "y": 2504.93,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1215,
+    "server_id": 27,
+    "type": "house",
+    "name": "Основа",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2856.66,
+    "y": 841.9479,
     "price": 500000000,
     "district": "Сан-Андреас"
   },

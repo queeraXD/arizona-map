@@ -15096,30 +15096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1259,
-    "server_id": 22,
-    "type": "house",
-    "name": "[$] Steven Monopoly [$]",
-    "owner": "Creepy_Paste",
-    "status": "Занято",
-    "x": -2358.62,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1260,
-    "server_id": 22,
-    "type": "house",
-    "name": "[$] Steven Monopoly [$]",
-    "owner": "Creepy_Paste",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 643.8189,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1261,
     "server_id": 22,
     "type": "house",
@@ -22004,7 +21980,31 @@
     "status": "Аукцион",
     "x": 467.118,
     "y": 1297.86,
-    "price": 750000000,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1259,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Creepy_Paste",
+    "status": "Аукцион",
+    "x": -2358.62,
+    "y": 656.7349,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1260,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Creepy_Paste",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 643.8189,
+    "price": 500123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22016,7 +22016,7 @@
     "status": "Аукцион",
     "x": 514.523,
     "y": 1340.71,
-    "price": 750000000,
+    "price": 650000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22028,7 +22028,7 @@
     "status": "Аукцион",
     "x": 412.1019,
     "y": 1385.15,
-    "price": 750000000,
+    "price": 650000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22040,19 +22040,19 @@
     "status": "Аукцион",
     "x": 2537.03,
     "y": 1235.3,
-    "price": 750000000,
+    "price": 650000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 55,
+    "id": 113,
     "server_id": 22,
     "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Nait_Diaz",
+    "name": "Закусочная",
+    "owner": "Ernestro_Cromov",
     "status": "Аукцион",
-    "x": 2262.75,
-    "y": 2036.09,
-    "price": 6500000000,
+    "x": -1808.68,
+    "y": 945.944,
+    "price": 4500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23928,18 +23928,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 113,
-    "server_id": 22,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ernestro_Cromov",
-    "status": "Занято",
-    "x": -1808.68,
-    "y": 945.944,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 114,
     "server_id": 22,
     "type": "business",
@@ -24248,6 +24236,18 @@
     "status": "Занято",
     "x": 2200.76,
     "y": 1394.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 55,
+    "server_id": 22,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Bounty_Millioner",
+    "status": "Занято",
+    "x": 2262.75,
+    "y": 2036.09,
     "price": 0,
     "district": "Сан-Андреас"
   },

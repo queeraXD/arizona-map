@@ -6732,18 +6732,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 563,
-    "server_id": 1,
-    "type": "house",
-    "name": "Домик Фармилы №9",
-    "owner": "Ben_Shvedov",
-    "status": "Занято",
-    "x": 263.622,
-    "y": 1171.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 564,
     "server_id": 1,
     "type": "house",
@@ -24156,6 +24144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 563,
+    "server_id": 1,
+    "type": "house",
+    "name": "Домик Фармилы №9",
+    "owner": "Ben_Shvedov",
+    "status": "Аукцион",
+    "x": 263.622,
+    "y": 1171.51,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1900,
     "server_id": 1,
     "type": "house",
@@ -27340,7 +27340,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Gospodin_Lubimov",
+    "owner": "Lucky_Capone",
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,

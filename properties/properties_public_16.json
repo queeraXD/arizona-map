@@ -1299,8 +1299,8 @@
     "id": 110,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
-    "owner": "Alex_Covalli",
+    "name": "кавале",
+    "owner": "Glebaryshnya",
     "status": "Занято",
     "x": 2296.54,
     "y": -1882.34,
@@ -5904,18 +5904,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 502,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jackson_Jey",
-    "status": "Занято",
-    "x": 1364.3,
-    "y": 1931.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 503,
     "server_id": 16,
     "type": "house",
@@ -6296,18 +6284,6 @@
     "status": "Занято",
     "x": 1969.86,
     "y": 2723.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 535,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jackson_Jey",
-    "status": "Занято",
-    "x": 2018.09,
-    "y": 2722.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8736,18 +8712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 740,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2840.23,
-    "y": 877.4359,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 741,
     "server_id": 16,
     "type": "house",
@@ -9920,18 +9884,6 @@
     "status": "Занято",
     "x": -2067.24,
     "y": 744.1749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 840,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2188.13,
-    "y": 1107.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11336,18 +11288,6 @@
     "status": "Занято",
     "x": -2229.52,
     "y": 934.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 959,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2158.75,
-    "y": 786.197,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22428,6 +22368,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 502,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jackson_Jey",
+    "status": "Аукцион",
+    "x": 1364.3,
+    "y": 1931.64,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 535,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jackson_Jey",
+    "status": "Аукцион",
+    "x": 2018.09,
+    "y": 2722.91,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 602,
     "server_id": 16,
     "type": "house",
@@ -22452,6 +22416,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 740,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2840.23,
+    "y": 877.4359,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 787,
     "server_id": 16,
     "type": "house",
@@ -22461,6 +22437,42 @@
     "x": -2543.58,
     "y": 922.2329,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 840,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2188.13,
+    "y": 1107.64,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 959,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2158.75,
+    "y": 786.197,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 103,
+    "server_id": 16,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Jackson_Jey",
+    "status": "Аукцион",
+    "x": -1686.44,
+    "y": 1325.38,
+    "price": 7000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23180,18 +23192,6 @@
     "status": "Занято",
     "x": -1735.96,
     "y": 897.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 103,
-    "server_id": 16,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Jackson_Jey",
-    "status": "Занято",
-    "x": -1686.44,
-    "y": 1325.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
