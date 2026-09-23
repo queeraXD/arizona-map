@@ -9576,18 +9576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 798,
-    "server_id": 27,
-    "type": "house",
-    "name": "Norgaard House №1",
-    "owner": "Alf_Norgaard",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 763.504,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 799,
     "server_id": 27,
     "type": "house",
@@ -23400,6 +23388,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1950,
+    "server_id": 27,
+    "type": "house",
+    "name": "BALVARO FAMILY",
+    "owner": "Jack_Adamson",
+    "status": "Занято",
+    "x": 2636.27,
+    "y": 2195.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1951,
     "server_id": 27,
     "type": "house",
@@ -23588,18 +23588,6 @@
     "status": "Занято",
     "x": 2591.62,
     "y": 2197.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1967,
-    "server_id": 27,
-    "type": "house",
-    "name": "Norgaard House №2",
-    "owner": "Alf_Norgaard",
-    "status": "Занято",
-    "x": -2187.05,
-    "y": 795.7009,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24444,15 +24432,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1950,
+    "id": 798,
     "server_id": 27,
     "type": "house",
-    "name": "BALVARO FAMILY",
-    "owner": "Danila_Burmaldancer",
+    "name": "Norgaard House №1",
+    "owner": "Alf_Norgaard",
     "status": "Аукцион",
-    "x": 2636.27,
-    "y": 2195.56,
-    "price": 200000000,
+    "x": -2368.82,
+    "y": 763.504,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1967,
+    "server_id": 27,
+    "type": "house",
+    "name": "Norgaard House №2",
+    "owner": "Alf_Norgaard",
+    "status": "Аукцион",
+    "x": -2187.05,
+    "y": 795.7009,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
