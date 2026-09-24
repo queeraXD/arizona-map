@@ -2496,18 +2496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 209,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pursuing_Peace",
-    "status": "Занято",
-    "x": 1093.81,
-    "y": -806.668,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 210,
     "server_id": 20,
     "type": "house",
@@ -19032,18 +19020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1589,
-    "server_id": 20,
-    "type": "house",
-    "name": "House",
-    "owner": "White_City",
-    "status": "Занято",
-    "x": 2824.04,
-    "y": 2268.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1590,
     "server_id": 20,
     "type": "house",
@@ -22320,6 +22296,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 209,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pursuing_Peace",
+    "status": "Аукцион",
+    "x": 1093.81,
+    "y": -806.668,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 434,
     "server_id": 20,
     "type": "house",
@@ -22340,6 +22328,18 @@
     "status": "Аукцион",
     "x": -1939.33,
     "y": 1227.54,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1589,
+    "server_id": 20,
+    "type": "house",
+    "name": "House",
+    "owner": "White_City",
+    "status": "Аукцион",
+    "x": 2824.04,
+    "y": 2268.71,
     "price": 500000000,
     "district": "Сан-Андреас"
   },

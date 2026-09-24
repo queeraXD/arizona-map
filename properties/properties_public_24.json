@@ -18748,7 +18748,7 @@
     "server_id": 24,
     "type": "house",
     "name": "ДОЧМИК БАЗИ(1) ",
-    "owner": "Andrew_Sedyhun",
+    "owner": "Abobka_Belov",
     "status": "Занято",
     "x": -2621.04,
     "y": 96.787,
@@ -19896,18 +19896,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1663,
-    "server_id": 24,
-    "type": "house",
-    "name": "Wednesday ",
-    "owner": "Iflexick_Doc",
-    "status": "Занято",
-    "x": 536.682,
-    "y": 1138.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1664,
     "server_id": 24,
     "type": "house",
@@ -20415,7 +20403,7 @@
     "id": 1709,
     "server_id": 24,
     "type": "house",
-    "name": "Brooks Empire",
+    "name": "10BTC(1/15)",
     "owner": "Wakanesx_Blackseeker",
     "status": "Занято",
     "x": 1734.18,
@@ -20624,30 +20612,6 @@
     "status": "Занято",
     "x": 1738.35,
     "y": 2861.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1727,
-    "server_id": 24,
-    "type": "house",
-    "name": "логово тяги флориста",
-    "owner": "Daniil_Kostalev",
-    "status": "Занято",
-    "x": 1775.02,
-    "y": 2870.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1728,
-    "server_id": 24,
-    "type": "house",
-    "name": "Sharager 10/14 майнинг ",
-    "owner": "Daniil_Kostalev",
-    "status": "Занято",
-    "x": 1760.16,
-    "y": 2870.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22020,6 +21984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1663,
+    "server_id": 24,
+    "type": "house",
+    "name": "poksqdd",
+    "owner": "Iflexick_Doc",
+    "status": "Аукцион",
+    "x": 536.682,
+    "y": 1138.82,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1668,
     "server_id": 24,
     "type": "house",
@@ -22044,15 +22020,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 179,
+    "id": 1727,
     "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Bandana_Theft",
+    "type": "house",
+    "name": "логово тяги флориста",
+    "owner": "Daniil_Kostalev",
     "status": "Аукцион",
-    "x": 1521.99,
-    "y": -1025.07,
-    "price": 89000,
+    "x": 1775.02,
+    "y": 2870.94,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1728,
+    "server_id": 24,
+    "type": "house",
+    "name": "Sharager 10/14 майнинг ",
+    "owner": "Daniil_Kostalev",
+    "status": "Аукцион",
+    "x": 1760.16,
+    "y": 2870.95,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24836,6 +24824,18 @@
     "status": "Занято",
     "x": -172.597,
     "y": 1106.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 179,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Bandana_Theft",
+    "status": "Занято",
+    "x": 1521.99,
+    "y": -1025.07,
     "price": 0,
     "district": "Сан-Андреас"
   },

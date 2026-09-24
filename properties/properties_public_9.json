@@ -1200,18 +1200,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 100,
-    "server_id": 9,
-    "type": "house",
-    "name": "Nnov",
-    "owner": "Sanya_Nnov",
-    "status": "Занято",
-    "x": 2636.44,
-    "y": -2012.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 101,
     "server_id": 9,
     "type": "house",
@@ -2972,18 +2960,6 @@
     "status": "Занято",
     "x": 2443.85,
     "y": 92.166,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 248,
-    "server_id": 9,
-    "type": "house",
-    "name": "Rossy corp.",
-    "owner": "Goddes_Rossy",
-    "status": "Занято",
-    "x": 2481.22,
-    "y": 64.3796,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8796,6 +8772,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 733,
+    "server_id": 9,
+    "type": "house",
+    "name": "Поместье Балагана",
+    "owner": "Balagan_Quartz",
+    "status": "Занято",
+    "x": -2904.9,
+    "y": 1178.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 734,
     "server_id": 9,
     "type": "house",
@@ -10888,7 +10876,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Хата вора v ZAKONE",
-    "owner": "Imbicible_SoundCloud",
+    "owner": "Nekich_Bossov",
     "status": "Занято",
     "x": -2168.8,
     "y": 796.5159,
@@ -15996,18 +15984,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1335,
-    "server_id": 9,
-    "type": "house",
-    "name": "Rossy corp.",
-    "owner": "Goddes_Rossy",
-    "status": "Занято",
-    "x": -2192.67,
-    "y": 902.6619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1336,
     "server_id": 9,
     "type": "house",
@@ -19804,7 +19780,7 @@
     "server_id": 9,
     "type": "house",
     "name": "LIch&Kosatka Union",
-    "owner": "Dobrinya_Blagorodov",
+    "owner": "Rayzer_Flint",
     "status": "Занято",
     "x": -2597.31,
     "y": 2364.7,
@@ -19816,7 +19792,7 @@
     "server_id": 9,
     "type": "house",
     "name": "LIch&Kosatka Union",
-    "owner": "Dobrinya_Blagorodov",
+    "owner": "Rayzer_Flint",
     "status": "Занято",
     "x": -2597.31,
     "y": 2357.06,
@@ -23892,15 +23868,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 733,
+    "id": 100,
     "server_id": 9,
     "type": "house",
-    "name": "UFC house 3",
-    "owner": "Sergio_Tohok",
+    "name": "Nnov",
+    "owner": "Sanya_Nnov",
     "status": "Аукцион",
-    "x": -2904.9,
-    "y": 1178.92,
-    "price": 1000000,
+    "x": 2636.44,
+    "y": -2012.26,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 248,
+    "server_id": 9,
+    "type": "house",
+    "name": "Rossy corp.",
+    "owner": "Goddes_Rossy",
+    "status": "Аукцион",
+    "x": 2481.22,
+    "y": 64.3796,
+    "price": 5700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1335,
+    "server_id": 9,
+    "type": "house",
+    "name": "Rossy corp.",
+    "owner": "Goddes_Rossy",
+    "status": "Аукцион",
+    "x": -2192.67,
+    "y": 902.6619,
+    "price": 2228000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23937,6 +23937,30 @@
     "x": -2165.77,
     "y": -2416.71,
     "price": 300001,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 40,
+    "server_id": 9,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "TrapRep_Sex",
+    "status": "Аукцион",
+    "x": 1393.84,
+    "y": 400.944,
+    "price": 275000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 183,
+    "server_id": 9,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "TrapRep_Sex",
+    "status": "Аукцион",
+    "x": 1575.5,
+    "y": 1844.07,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -26076,18 +26100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 40,
-    "server_id": 9,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "TrapRep_Sex",
-    "status": "Занято",
-    "x": 1393.84,
-    "y": 400.944,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 41,
     "server_id": 9,
     "type": "business",
@@ -26780,18 +26792,6 @@
     "status": "Занято",
     "x": 1104.78,
     "y": 1380.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 183,
-    "server_id": 9,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "TrapRep_Sex",
-    "status": "Занято",
-    "x": 1575.5,
-    "y": 1844.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
