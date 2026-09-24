@@ -2200,7 +2200,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Mike Torenos Ranch",
-    "owner": "Victoria_Ephemeral",
+    "owner": "Vakh_Ephemeral",
     "status": "Занято",
     "x": -692.327,
     "y": 939.5689,
@@ -3244,7 +3244,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Mike Torenos Ranch",
-    "owner": "Victoria_Ephemeral",
+    "owner": "Vakh_Ephemeral",
     "status": "Занято",
     "x": -683.929,
     "y": 939.5659,
@@ -11016,18 +11016,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 930,
-    "server_id": 4,
-    "type": "house",
-    "name": "лан не продаю",
-    "owner": "Aperol_Spritz",
-    "status": "Занято",
-    "x": -2358.66,
-    "y": 797.265,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 931,
     "server_id": 4,
     "type": "house",
@@ -11252,18 +11240,6 @@
     "status": "Занято",
     "x": -2301.75,
     "y": 579.817,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 950,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "dexey",
-    "status": "Занято",
-    "x": -2240.04,
-    "y": 1037.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22908,18 +22884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1926,
-    "server_id": 4,
-    "type": "house",
-    "name": "У ДЯДИ ДЖИЗЗИ",
-    "owner": "Aperol_Spritz",
-    "status": "Занято",
-    "x": 2818.53,
-    "y": 2140.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1927,
     "server_id": 4,
     "type": "house",
@@ -25200,6 +25164,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 930,
+    "server_id": 4,
+    "type": "house",
+    "name": "лан не продаю",
+    "owner": "Aperol_Spritz",
+    "status": "Аукцион",
+    "x": -2358.66,
+    "y": 797.265,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 950,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "dexey",
+    "status": "Аукцион",
+    "x": -2240.04,
+    "y": 1037.58,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1358,
     "server_id": 4,
     "type": "house",
@@ -25257,6 +25245,18 @@
     "x": -2082.03,
     "y": -2548.24,
     "price": 270000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1926,
+    "server_id": 4,
+    "type": "house",
+    "name": "У ДЯДИ ДЖИЗЗИ",
+    "owner": "Aperol_Spritz",
+    "status": "Аукцион",
+    "x": 2818.53,
+    "y": 2140.78,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -29248,7 +29248,7 @@
     "server_id": 4,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Victoria_Ephemeral",
+    "owner": "Vakh_Ephemeral",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
