@@ -6300,18 +6300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 525,
-    "server_id": 26,
-    "type": "house",
-    "name": "Maxor TrapHouse",
-    "owner": "Maxor_BigTape",
-    "status": "Занято",
-    "x": 1595.81,
-    "y": 2123.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 526,
     "server_id": 26,
     "type": "house",
@@ -6464,18 +6452,6 @@
     "status": "Занято",
     "x": 2056.57,
     "y": 2664.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 539,
-    "server_id": 26,
-    "type": "house",
-    "name": "Toni",
-    "owner": "Yuki_Ximura",
-    "status": "Занято",
-    "x": 2037.05,
-    "y": 2663.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6884,18 +6860,6 @@
     "status": "Занято",
     "x": -169.026,
     "y": 2707.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 574,
-    "server_id": 26,
-    "type": "house",
-    "name": "ДЕП УСЛОВИЯ",
-    "owner": "Yuki_Ximura",
-    "status": "Занято",
-    "x": -161.2409,
-    "y": 2727.94,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7868,18 +7832,6 @@
     "status": "Занято",
     "x": 2013.32,
     "y": 730.669,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 656,
-    "server_id": 26,
-    "type": "house",
-    "name": "cuerto squad",
-    "owner": "Yuki_Ximura",
-    "status": "Занято",
-    "x": 1978.35,
-    "y": 665.8079,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17616,18 +17568,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1469,
-    "server_id": 26,
-    "type": "house",
-    "name": "MaxorTrapHouse",
-    "owner": "Maxor_BigTape",
-    "status": "Занято",
-    "x": 531.333,
-    "y": 1336.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1470,
     "server_id": 26,
     "type": "house",
@@ -20016,18 +19956,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1669,
-    "server_id": 26,
-    "type": "house",
-    "name": "Империя Сыры Уина",
-    "owner": "Sosa_Cristopher",
-    "status": "Занято",
-    "x": 2537.03,
-    "y": 1209.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1670,
     "server_id": 26,
     "type": "house",
@@ -21848,18 +21776,6 @@
     "status": "Занято",
     "x": 2794.29,
     "y": 2229.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1824,
-    "server_id": 26,
-    "type": "house",
-    "name": "D.Carrington | House",
-    "owner": "Yuki_Ximura",
-    "status": "Занято",
-    "x": 2787.95,
-    "y": 2221.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25164,6 +25080,78 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 525,
+    "server_id": 26,
+    "type": "house",
+    "name": "Maxor TrapHouse",
+    "owner": "Maxor_BigTape",
+    "status": "Аукцион",
+    "x": 1595.81,
+    "y": 2123.15,
+    "price": 120000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 539,
+    "server_id": 26,
+    "type": "house",
+    "name": "Toni",
+    "owner": "Yuki_Ximura",
+    "status": "Аукцион",
+    "x": 2037.05,
+    "y": 2663.99,
+    "price": 120000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 574,
+    "server_id": 26,
+    "type": "house",
+    "name": "ДЕП УСЛОВИЯ",
+    "owner": "Yuki_Ximura",
+    "status": "Аукцион",
+    "x": -161.2409,
+    "y": 2727.94,
+    "price": 70000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 656,
+    "server_id": 26,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Yuki_Ximura",
+    "status": "Аукцион",
+    "x": 1978.35,
+    "y": 665.8079,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1469,
+    "server_id": 26,
+    "type": "house",
+    "name": "MaxorTrapHouse",
+    "owner": "Maxor_BigTape",
+    "status": "Аукцион",
+    "x": 531.333,
+    "y": 1336.2,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1669,
+    "server_id": 26,
+    "type": "house",
+    "name": "Империя Сыры Уина",
+    "owner": "Sosa_Cristopher",
+    "status": "Аукцион",
+    "x": 2537.03,
+    "y": 1209.96,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1735,
     "server_id": 26,
     "type": "house",
@@ -25185,6 +25173,18 @@
     "x": 2601.63,
     "y": 2211.3,
     "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1824,
+    "server_id": 26,
+    "type": "house",
+    "name": "D.Carrington | House",
+    "owner": "Yuki_Ximura",
+    "status": "Аукцион",
+    "x": 2787.95,
+    "y": 2221.92,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
