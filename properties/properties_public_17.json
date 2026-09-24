@@ -2520,18 +2520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 210,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Miracle_Kingdom",
-    "status": "Занято",
-    "x": 1112.41,
-    "y": -742.067,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 211,
     "server_id": 17,
     "type": "house",
@@ -2700,18 +2688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 225,
-    "server_id": 17,
-    "type": "house",
-    "name": "набор архитектора",
-    "owner": "Usdt_Bitcoin",
-    "status": "Занято",
-    "x": 946.0869,
-    "y": -710.3339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 226,
     "server_id": 17,
     "type": "house",
@@ -2720,18 +2696,6 @@
     "status": "Занято",
     "x": 980.2369,
     "y": -676.6939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 227,
-    "server_id": 17,
-    "type": "house",
-    "name": "набор архитектора",
-    "owner": "Usdt_Bitcoin",
-    "status": "Занято",
-    "x": 1045.07,
-    "y": -642.3309,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3620,6 +3584,18 @@
     "status": "Занято",
     "x": -2224.3,
     "y": -2482.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 302,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Leo_Absolute",
+    "status": "Занято",
+    "x": 2144.89,
+    "y": -1085.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22464,15 +22440,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 302,
+    "id": 210,
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Leo_Absolute",
+    "owner": "Miracle_Kingdom",
     "status": "Аукцион",
-    "x": 2144.89,
-    "y": -1085.5,
-    "price": 250000000,
+    "x": 1112.41,
+    "y": -742.067,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 225,
+    "server_id": 17,
+    "type": "house",
+    "name": "набор архитектора",
+    "owner": "Usdt_Bitcoin",
+    "status": "Аукцион",
+    "x": 946.0869,
+    "y": -710.3339,
+    "price": 60000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 227,
+    "server_id": 17,
+    "type": "house",
+    "name": "набор архитектора",
+    "owner": "Usdt_Bitcoin",
+    "status": "Аукцион",
+    "x": 1045.07,
+    "y": -642.3309,
+    "price": 60000,
     "district": "Сан-Андреас"
   },
   {
