@@ -216,18 +216,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 19,
-    "server_id": 33,
-    "type": "house",
-    "name": "Бункер дотера",
-    "owner": "Lanha_Apuna",
-    "status": "Занято",
-    "x": 2132.25,
-    "y": -1280.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 20,
     "server_id": 33,
     "type": "house",
@@ -2856,18 +2844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 239,
-    "server_id": 33,
-    "type": "house",
-    "name": "особа налдона",
-    "owner": "Mushkin_Pushkin",
-    "status": "Занято",
-    "x": 253.005,
-    "y": -1222.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 240,
     "server_id": 33,
     "type": "house",
@@ -3087,7 +3063,7 @@
     "id": 258,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "Гора гетто",
     "owner": "Evgeniy_Montello",
     "status": "Занято",
     "x": 2131.66,
@@ -4956,18 +4932,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 414,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bobik_Desolate",
-    "status": "Занято",
-    "x": 1469.66,
-    "y": 351.2609,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 415,
     "server_id": 33,
     "type": "house",
@@ -5600,6 +5564,18 @@
     "status": "Занято",
     "x": 2346.22,
     "y": 656.447,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 468,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Emily_Toregrossa",
+    "status": "Занято",
+    "x": 2368.36,
+    "y": 654.8389,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9423,7 +9399,7 @@
     "id": 791,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "СФБОЛЯ",
     "owner": "Evgeniy_Montello",
     "status": "Занято",
     "x": -2566.54,
@@ -9459,7 +9435,7 @@
     "id": 794,
     "server_id": 33,
     "type": "house",
-    "name": "myhouse",
+    "name": "СФ БОЛЯ 2",
     "owner": "Evgeniy_Montello",
     "status": "Занято",
     "x": -2538.73,
@@ -14175,7 +14151,7 @@
     "id": 1190,
     "server_id": 33,
     "type": "house",
-    "name": "Novokors StreetLife",
+    "name": "ДРАГ",
     "owner": "Evgeniy_Montello",
     "status": "Занято",
     "x": -2791.58,
@@ -14259,7 +14235,7 @@
     "id": 1197,
     "server_id": 33,
     "type": "house",
-    "name": "лучший дом",
+    "name": "ДРАГ 2 ",
     "owner": "Evgeniy_Montello",
     "status": "Занято",
     "x": -2791.59,
@@ -18288,18 +18264,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1563,
-    "server_id": 33,
-    "type": "house",
-    "name": "Arasaka Tower",
-    "owner": "Ban_Pon",
-    "status": "Занято",
-    "x": 2818.53,
-    "y": 2134.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1564,
     "server_id": 33,
     "type": "house",
@@ -18668,18 +18632,6 @@
     "status": "Занято",
     "x": 2441.54,
     "y": 1220.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1597,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bobik_Desolate",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1210.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20715,7 +20667,7 @@
     "id": 1768,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "ЛВ Угол",
     "owner": "Evgeniy_Montello",
     "status": "Занято",
     "x": 1796.87,
@@ -22428,15 +22380,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 468,
+    "id": 19,
+    "server_id": 33,
+    "type": "house",
+    "name": "Бункер дотера",
+    "owner": "Lanha_Apuna",
+    "status": "Аукцион",
+    "x": 2132.25,
+    "y": -1280.44,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 239,
+    "server_id": 33,
+    "type": "house",
+    "name": "особа налдона",
+    "owner": "Mushkin_Pushkin",
+    "status": "Аукцион",
+    "x": 253.005,
+    "y": -1222.47,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 414,
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Emily_Toregrossa",
+    "owner": "Bobik_Desolate",
     "status": "Аукцион",
-    "x": 2368.36,
-    "y": 654.8389,
-    "price": 750000000,
+    "x": 1469.66,
+    "y": 351.2609,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22476,6 +22452,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1563,
+    "server_id": 33,
+    "type": "house",
+    "name": "Arasaka Tower",
+    "owner": "Ban_Pon",
+    "status": "Аукцион",
+    "x": 2818.53,
+    "y": 2134.54,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1566,
     "server_id": 33,
     "type": "house",
@@ -22497,6 +22485,18 @@
     "x": 2788.02,
     "y": 2268.49,
     "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1597,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bobik_Desolate",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1210.04,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
