@@ -9963,8 +9963,8 @@
     "id": 846,
     "server_id": 32,
     "type": "house",
-    "name": "домище",
-    "owner": "Serhio_Detto",
+    "name": "домик альтера",
+    "owner": "Alter_Nativa",
     "status": "Занято",
     "x": -2191.59,
     "y": 1080.32,
@@ -10720,7 +10720,7 @@
     "server_id": 32,
     "type": "house",
     "name": "дом",
-    "owner": "Serhio_Detto",
+    "owner": "Fazzy_Deeps",
     "status": "Занято",
     "x": -2126.8,
     "y": 1032.62,
@@ -12368,18 +12368,6 @@
     "status": "Занято",
     "x": -1872.08,
     "y": 1125.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1048,
-    "server_id": 32,
-    "type": "house",
-    "name": "Сашок",
-    "owner": "Tim_Mikor",
-    "status": "Занято",
-    "x": -1915.56,
-    "y": 1190.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18615,8 +18603,8 @@
     "id": 1597,
     "server_id": 32,
     "type": "house",
-    "name": "Дом",
-    "owner": "Serhio_Detto",
+    "name": "Mercury House",
+    "owner": "Noah_Mercury",
     "status": "Занято",
     "x": 2437.04,
     "y": 1210.04,
@@ -20832,18 +20820,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1782,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Heiden_Holwes",
-    "status": "Занято",
-    "x": 2611.3,
-    "y": 2185.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1783,
     "server_id": 32,
     "type": "house",
@@ -22512,6 +22488,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1048,
+    "server_id": 32,
+    "type": "house",
+    "name": "Сашок",
+    "owner": "Tim_Mikor",
+    "status": "Аукцион",
+    "x": -1915.56,
+    "y": 1190.1,
+    "price": 1100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1782,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Heiden_Holwes",
+    "status": "Аукцион",
+    "x": 2611.3,
+    "y": 2185.54,
+    "price": 1100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 94,
     "server_id": 32,
     "type": "business",
@@ -22521,30 +22521,6 @@
     "x": 1966.2,
     "y": 1623.14,
     "price": 139999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 187,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "August_Horch",
-    "status": "Аукцион",
-    "x": 158.63,
-    "y": -1812.59,
-    "price": 120000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 320,
-    "server_id": 32,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Nicolas_Kato",
-    "status": "Аукцион",
-    "x": 776.731,
-    "y": 1871.36,
-    "price": 1200000,
     "district": "Сан-Андреас"
   },
   {
@@ -22724,6 +22700,18 @@
     "status": "Занято",
     "x": 2159.55,
     "y": 943.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 320,
+    "server_id": 32,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Nicolas_Kato",
+    "status": "Занято",
+    "x": 776.731,
+    "y": 1871.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25400,6 +25388,18 @@
     "status": "Занято",
     "x": 2268.78,
     "y": 624.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 187,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "August_Horch",
+    "status": "Занято",
+    "x": 158.63,
+    "y": -1812.59,
     "price": 0,
     "district": "Сан-Андреас"
   },

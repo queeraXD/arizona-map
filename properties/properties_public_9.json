@@ -5332,7 +5332,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Costa house",
-    "owner": "Levis_Costa",
+    "owner": "Egor_Shiron",
     "status": "Занято",
     "x": 2457.76,
     "y": -1054.57,
@@ -5400,6 +5400,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 453,
+    "server_id": 9,
+    "type": "house",
+    "name": "@Danill2607",
+    "owner": "Gregory_Tevzadze",
+    "status": "Занято",
+    "x": 2011.48,
+    "y": 694.596,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 454,
     "server_id": 9,
     "type": "house",
@@ -5432,6 +5444,18 @@
     "status": "Занято",
     "x": 2040.69,
     "y": 695.8619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 457,
+    "server_id": 9,
+    "type": "house",
+    "name": "***Betson Home***",
+    "owner": "Dashulik_Betson",
+    "status": "Занято",
+    "x": 2069.02,
+    "y": 696.2709,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21000,6 +21024,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1760,
+    "server_id": 9,
+    "type": "house",
+    "name": "***Betson Home***",
+    "owner": "Valera_Adolfij",
+    "status": "Занято",
+    "x": 885.424,
+    "y": 2180.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1761,
     "server_id": 9,
     "type": "house",
@@ -22644,18 +22680,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1900,
-    "server_id": 9,
-    "type": "house",
-    "name": "TG @Danill2607",
-    "owner": "Gregory_Tevzadze",
-    "status": "Занято",
-    "x": 2468.4,
-    "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1901,
     "server_id": 9,
     "type": "house",
@@ -22700,18 +22724,6 @@
     "status": "Занято",
     "x": 2476.34,
     "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1905,
-    "server_id": 9,
-    "type": "house",
-    "name": "ТГ @Danill2607",
-    "owner": "Gregory_Tevzadze",
-    "status": "Занято",
-    "x": 2468.24,
-    "y": -1417.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23856,30 +23868,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 453,
-    "server_id": 9,
-    "type": "house",
-    "name": "***Betson Home***",
-    "owner": "Dashulik_Betson",
-    "status": "Аукцион",
-    "x": 2011.48,
-    "y": 694.596,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 457,
-    "server_id": 9,
-    "type": "house",
-    "name": "***Betson Home***",
-    "owner": "Dashulik_Betson",
-    "status": "Аукцион",
-    "x": 2069.02,
-    "y": 696.2709,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 750,
     "server_id": 9,
     "type": "house",
@@ -23916,27 +23904,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1760,
+    "id": 1900,
     "server_id": 9,
     "type": "house",
-    "name": "***Betson Home***",
-    "owner": "Dashulik_Betson",
+    "name": "TG @Danill2607",
+    "owner": "Gregory_Tevzadze",
     "status": "Аукцион",
-    "x": 885.424,
-    "y": 2180.92,
-    "price": 1500000000,
+    "x": 2468.4,
+    "y": -1398.81,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 17,
+    "id": 1905,
     "server_id": 9,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Lovlya_Vip",
+    "type": "house",
+    "name": "ТГ @Danill2607",
+    "owner": "Gregory_Tevzadze",
     "status": "Аукцион",
-    "x": -2165.77,
-    "y": -2416.71,
-    "price": 10000000000,
+    "x": 2468.24,
+    "y": -1417.45,
+    "price": 20000,
     "district": "Сан-Андреас"
   },
   {
@@ -24452,6 +24440,18 @@
     "status": "Занято",
     "x": -87.234,
     "y": -1202.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 17,
+    "server_id": 9,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Breyn_Scoletti",
+    "status": "Занято",
+    "x": -2165.77,
+    "y": -2416.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
