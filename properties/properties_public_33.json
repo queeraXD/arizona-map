@@ -96,18 +96,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 9,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lapa_Happa",
-    "status": "Занято",
-    "x": 2036.07,
-    "y": -1059.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 10,
     "server_id": 33,
     "type": "house",
@@ -5128,7 +5116,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Boss_Lentini",
+    "owner": "Samuel_Syndicate",
     "status": "Занято",
     "x": 2279.2,
     "y": -1076.63,
@@ -6656,6 +6644,18 @@
     "status": "Занято",
     "x": 238.8159,
     "y": 1026.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 560,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Wannabe_Happy",
+    "status": "Занято",
+    "x": 227.699,
+    "y": 1070.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10484,18 +10484,6 @@
     "status": "Занято",
     "x": -2214.31,
     "y": -2451.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 887,
-    "server_id": 33,
-    "type": "house",
-    "name": "dank",
-    "owner": "Hood_Rich",
-    "status": "Занято",
-    "x": -2174.04,
-    "y": -2482.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19224,6 +19212,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1650,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kostik_Bursevich",
+    "status": "Занято",
+    "x": -2048.11,
+    "y": 820.6939,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1651,
     "server_id": 33,
     "type": "house",
@@ -22332,6 +22332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 9,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lapa_Happa",
+    "status": "Аукцион",
+    "x": 2036.07,
+    "y": -1059.32,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 386,
     "server_id": 33,
     "type": "house",
@@ -22380,18 +22392,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 560,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nick_Home",
-    "status": "Аукцион",
-    "x": 227.699,
-    "y": 1070.82,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 622,
     "server_id": 33,
     "type": "house",
@@ -22425,6 +22425,18 @@
     "x": -1289.37,
     "y": -2102.77,
     "price": 8888888888,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 887,
+    "server_id": 33,
+    "type": "house",
+    "name": "dank",
+    "owner": "Hood_Rich",
+    "status": "Аукцион",
+    "x": -2174.04,
+    "y": -2482.31,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22488,18 +22500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1650,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kostik_Bursevich",
-    "status": "Аукцион",
-    "x": -2048.11,
-    "y": 820.6939,
-    "price": 450123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1787,
     "server_id": 33,
     "type": "house",
@@ -22509,18 +22509,6 @@
     "x": 2625.1,
     "y": 2195.56,
     "price": 55000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 52,
-    "server_id": 33,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Gen_Ywoo",
-    "status": "Аукцион",
-    "x": -2257.68,
-    "y": 2278.02,
-    "price": 8000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22544,7 +22532,7 @@
     "status": "Аукцион",
     "x": 1976.18,
     "y": -1980.19,
-    "price": 4800000000,
+    "price": 4300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24692,6 +24680,18 @@
     "status": "Занято",
     "x": 1957.1,
     "y": -2183.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 52,
+    "server_id": 33,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Gen_Ywoo",
+    "status": "Занято",
+    "x": -2257.68,
+    "y": 2278.02,
     "price": 0,
     "district": "Сан-Андреас"
   },
