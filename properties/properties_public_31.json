@@ -7744,7 +7744,7 @@
     "server_id": 31,
     "type": "house",
     "name": "BAllegri",
-    "owner": "Braine_Mercy",
+    "owner": "Winnie_Puh",
     "status": "Занято",
     "x": 1978.33,
     "y": 715.1459,
@@ -9216,6 +9216,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 769,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bruda_Prototype",
+    "status": "Занято",
+    "x": -2594.19,
+    "y": 768.164,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 770,
     "server_id": 31,
     "type": "house",
@@ -9308,6 +9320,18 @@
     "status": "Занято",
     "x": -2548.71,
     "y": 819.799,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 778,
+    "server_id": 31,
+    "type": "house",
+    "name": "Nakajima GANG",
+    "owner": "Yamoto_Nakajima",
+    "status": "Занято",
+    "x": -2550.67,
+    "y": 794.174,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12004,7 +12028,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Хатка Линукса",
-    "owner": "Nysson_Drake",
+    "owner": "Rex_Deposit",
     "status": "Занято",
     "x": -2396.78,
     "y": 1132.47,
@@ -12604,7 +12628,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Shadow Company",
-    "owner": "Nysson_Drake",
+    "owner": "Rex_Deposit",
     "status": "Занято",
     "x": -1901.98,
     "y": 1239.8,
@@ -19320,18 +19344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1615,
-    "server_id": 31,
-    "type": "house",
-    "name": "Saber Family",
-    "owner": "Evgeniy_Saber",
-    "status": "Занято",
-    "x": 2537.03,
-    "y": 1235.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1616,
     "server_id": 31,
     "type": "house",
@@ -22359,8 +22371,8 @@
     "id": 1871,
     "server_id": 31,
     "type": "house",
-    "name": "Qualcom - лучшая фама",
-    "owner": "Sosuke_Wada",
+    "name": "ферма 2",
+    "owner": "Salvatore_Mercy",
     "status": "Занято",
     "x": -2413.06,
     "y": 921.4329,
@@ -23316,27 +23328,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 769,
+    "id": 1615,
     "server_id": 31,
     "type": "house",
-    "name": "Дом",
-    "owner": "Bruda_Prototype",
+    "name": "Saber Family",
+    "owner": "Evgeniy_Saber",
     "status": "Аукцион",
-    "x": -2594.19,
-    "y": 768.164,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 778,
-    "server_id": 31,
-    "type": "house",
-    "name": "ДЕП условия 2 подвала",
-    "owner": "Bruda_Prototype",
-    "status": "Аукцион",
-    "x": -2550.67,
-    "y": 794.174,
-    "price": 2000000000,
+    "x": 2537.03,
+    "y": 1235.31,
+    "price": 1300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23361,18 +23361,6 @@
     "x": 1879.19,
     "y": 2339.5,
     "price": 156000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 468,
-    "server_id": 31,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Marsel_Garcia",
-    "status": "Аукцион",
-    "x": -172.597,
-    "y": 1106.0,
-    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -26132,6 +26120,18 @@
     "status": "Занято",
     "x": -2015.06,
     "y": -2.1872,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 468,
+    "server_id": 31,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Marsel_Garcia",
+    "status": "Занято",
+    "x": -172.597,
+    "y": 1106.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
