@@ -3420,18 +3420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом дяди Патрика №1",
-    "owner": "Patrick_Taylor",
-    "status": "Занято",
-    "x": 2219.28,
-    "y": -1031.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 286,
     "server_id": 22,
     "type": "house",
@@ -11108,18 +11096,6 @@
     "status": "Занято",
     "x": -2307.24,
     "y": 944.2639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 927,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом дяди Патрика №2",
-    "owner": "Patrick_Taylor",
-    "status": "Занято",
-    "x": -1842.22,
-    "y": 1114.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21996,6 +21972,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 285,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом дяди Патрика №1",
+    "owner": "Patrick_Taylor",
+    "status": "Аукцион",
+    "x": 2219.28,
+    "y": -1031.06,
+    "price": 720000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 581,
     "server_id": 22,
     "type": "house",
@@ -22005,6 +21993,18 @@
     "x": -287.4519,
     "y": 2758.14,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 927,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом дяди Патрика №2",
+    "owner": "Patrick_Taylor",
+    "status": "Аукцион",
+    "x": -1842.22,
+    "y": 1114.76,
+    "price": 750000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23920,7 +23920,7 @@
     "server_id": 22,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Paradox_Ingannamorty",
+    "owner": "Nikityn_Quincy",
     "status": "Занято",
     "x": -1808.68,
     "y": 945.944,
