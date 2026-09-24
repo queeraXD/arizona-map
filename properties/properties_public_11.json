@@ -396,18 +396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 33,
-    "server_id": 11,
-    "type": "house",
-    "name": "Хабза",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 2434.8,
-    "y": -1289.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 34,
     "server_id": 11,
     "type": "house",
@@ -4076,18 +4064,6 @@
     "status": "Занято",
     "x": 2482.03,
     "y": 1526.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 340,
-    "server_id": 11,
-    "type": "house",
-    "name": "Roxwell",
-    "owner": "Buravchik_Monopoly",
-    "status": "Занято",
-    "x": 747.122,
-    "y": 278.2139,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24621,6 +24597,30 @@
     "x": 0.0,
     "y": -2133.38,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 33,
+    "server_id": 11,
+    "type": "house",
+    "name": "Хабза",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": 2434.8,
+    "y": -1289.38,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 340,
+    "server_id": 11,
+    "type": "house",
+    "name": "Roxwell",
+    "owner": "Buravchik_Monopoly",
+    "status": "Аукцион",
+    "x": 747.122,
+    "y": 278.2139,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
