@@ -9996,18 +9996,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 834,
-    "server_id": 25,
-    "type": "house",
-    "name": "-- VIZART --",
-    "owner": "Vizart_Wemp",
-    "status": "Занято",
-    "x": -2233.89,
-    "y": 849.1599,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 835,
     "server_id": 25,
     "type": "house",
@@ -22299,7 +22287,7 @@
     "id": 1868,
     "server_id": 25,
     "type": "house",
-    "name": "Майнинг 10LVL",
+    "name": "Майнинг",
     "owner": "David_Himik",
     "status": "Занято",
     "x": 2473.12,
@@ -23688,6 +23676,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 834,
+    "server_id": 25,
+    "type": "house",
+    "name": "-- VIZART --",
+    "owner": "Vizart_Wemp",
+    "status": "Аукцион",
+    "x": -2233.89,
+    "y": 849.1599,
+    "price": 5555,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1268,
     "server_id": 25,
     "type": "house",
@@ -23769,18 +23769,6 @@
     "x": 1754.5,
     "y": 2736.01,
     "price": 200123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 174,
-    "server_id": 25,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Cheez_Ward",
-    "status": "Аукцион",
-    "x": 2411.93,
-    "y": -1548.68,
-    "price": 235000,
     "district": "Сан-Андреас"
   },
   {
@@ -24560,6 +24548,18 @@
     "status": "Занято",
     "x": 1112.05,
     "y": -1370.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 174,
+    "server_id": 25,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Cheez_Ward",
+    "status": "Занято",
+    "x": 2411.93,
+    "y": -1548.68,
     "price": 0,
     "district": "Сан-Андреас"
   },

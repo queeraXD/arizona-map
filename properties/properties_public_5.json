@@ -10008,18 +10008,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 834,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2029.84,
-    "y": 745.572,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 835,
     "server_id": 5,
     "type": "house",
@@ -10520,6 +10508,18 @@
     "status": "Занято",
     "x": -216.479,
     "y": 2528.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 877,
+    "server_id": 5,
+    "type": "house",
+    "name": "тёплый домик",
+    "owner": "Evgeniy_Warden",
+    "status": "Занято",
+    "x": -197.4149,
+    "y": 2529.87,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11356,7 +11356,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Дом импульса",
-    "owner": "Impuls_Quiroz",
+    "owner": "Dostavka_Cuerto",
     "status": "Занято",
     "x": -2112.59,
     "y": 796.4169,
@@ -16183,6 +16183,18 @@
     "owner": "Maykl_Brutskiy",
     "status": "Занято",
     "x": -2576.5,
+    "y": -145.865,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1350,
+    "server_id": 5,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Winston_Shaild",
+    "status": "Занято",
+    "x": -2558.76,
     "y": -145.865,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23460,18 +23472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1958,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 2476.46,
-    "y": -1376.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1959,
     "server_id": 5,
     "type": "house",
@@ -25080,27 +25080,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 877,
+    "id": 834,
     "server_id": 5,
     "type": "house",
-    "name": "тёплый домик",
-    "owner": "Sos_Krutoy",
+    "name": "Без названия",
+    "owner": "Igoryan_Toretto",
     "status": "Аукцион",
-    "x": -197.4149,
-    "y": 2529.87,
-    "price": 450000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1350,
-    "server_id": 5,
-    "type": "house",
-    "name": "cuerto squad",
-    "owner": "Dostavka_Cuerto",
-    "status": "Аукцион",
-    "x": -2558.76,
-    "y": -145.865,
-    "price": 300123123,
+    "x": -2029.84,
+    "y": 745.572,
+    "price": 1300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25113,6 +25101,18 @@
     "x": 1110.53,
     "y": -1578.45,
     "price": 7000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1958,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": 2476.46,
+    "y": -1376.54,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
