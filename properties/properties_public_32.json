@@ -484,7 +484,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дианочки дом",
-    "owner": "Dasha_Kostukova",
+    "owner": "Monopoly_Navarro",
     "status": "Занято",
     "x": 2492.1,
     "y": -1239.01,
@@ -6116,6 +6116,18 @@
     "status": "Занято",
     "x": 1645.49,
     "y": 2127.9,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 523,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jonathan_Reid",
+    "status": "Занято",
+    "x": 1641.14,
+    "y": 2149.78,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17124,6 +17136,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1446,
+    "server_id": 32,
+    "type": "house",
+    "name": "Broski House",
+    "owner": "Pan_Tera",
+    "status": "Занято",
+    "x": 885.4719,
+    "y": 1895.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1447,
     "server_id": 32,
     "type": "house",
@@ -20808,6 +20832,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1782,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Heiden_Holwes",
+    "status": "Занято",
+    "x": 2611.3,
+    "y": 2185.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1783,
     "server_id": 32,
     "type": "house",
@@ -22476,42 +22512,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 523,
-    "server_id": 32,
-    "type": "house",
-    "name": "Пент Хаус",
-    "owner": "Nekich_Bossov",
-    "status": "Аукцион",
-    "x": 1641.14,
-    "y": 2149.78,
-    "price": 1001231230,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1446,
-    "server_id": 32,
-    "type": "house",
-    "name": "Broski House",
-    "owner": "Nekich_Bossov",
-    "status": "Аукцион",
-    "x": 885.4719,
-    "y": 1895.58,
-    "price": 800123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1782,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nekich_Bossov",
-    "status": "Аукцион",
-    "x": 2611.3,
-    "y": 2185.54,
-    "price": 800123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 94,
     "server_id": 32,
     "type": "business",
@@ -22533,18 +22533,6 @@
     "x": 158.63,
     "y": -1812.59,
     "price": 120000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 271,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Vadim_Fedulov",
-    "status": "Аукцион",
-    "x": -1912.17,
-    "y": 827.954,
-    "price": 137000,
     "district": "Сан-Андреас"
   },
   {
@@ -24560,6 +24548,18 @@
     "status": "Занято",
     "x": -53.8409,
     "y": 1189.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 271,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Vadim_Fedulov",
+    "status": "Занято",
+    "x": -1912.17,
+    "y": 827.954,
     "price": 0,
     "district": "Сан-Андреас"
   },

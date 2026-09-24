@@ -651,7 +651,7 @@
     "id": 54,
     "server_id": 30,
     "type": "house",
-    "name": "#banka",
+    "name": "Почему Почему",
     "owner": "Why_Why",
     "status": "Занято",
     "x": 2152.22,
@@ -7224,18 +7224,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 603,
-    "server_id": 30,
-    "type": "house",
-    "name": "Майнинг ферма 7-го лвл [8]",
-    "owner": "Vasya_Vasek",
-    "status": "Занято",
-    "x": -1562.54,
-    "y": 2650.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 604,
     "server_id": 30,
     "type": "house",
@@ -11420,6 +11408,18 @@
     "status": "Занято",
     "x": -2159.76,
     "y": 965.578,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 955,
+    "server_id": 30,
+    "type": "house",
+    "name": "Шалаш танкограда",
+    "owner": "Savva_Tankograd",
+    "status": "Занято",
+    "x": -2159.6,
+    "y": 946.984,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17368,7 +17368,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Майнинг 3",
-    "owner": "Victor_Accident",
+    "owner": "Rey_Blackwood",
     "status": "Занято",
     "x": 885.4249,
     "y": 2238.86,
@@ -18592,7 +18592,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Будка Стаффорда 4",
-    "owner": "Richy_Cashier",
+    "owner": "Melvin_Mackenzie",
     "status": "Занято",
     "x": 2587.4,
     "y": -1233.44,
@@ -22668,6 +22668,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 603,
+    "server_id": 30,
+    "type": "house",
+    "name": "Майнинг ферма 7-го лвл [8]",
+    "owner": "Vasya_Vasek",
+    "status": "Аукцион",
+    "x": -1562.54,
+    "y": 2650.98,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 662,
     "server_id": 30,
     "type": "house",
@@ -22689,18 +22701,6 @@
     "x": -2900.72,
     "y": 1067.02,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 955,
-    "server_id": 30,
-    "type": "house",
-    "name": "3 дом",
-    "owner": "Dark_Brilliant",
-    "status": "Аукцион",
-    "x": -2159.6,
-    "y": 946.984,
-    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {

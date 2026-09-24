@@ -2068,7 +2068,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Дом",
-    "owner": "Cano_Castillo",
+    "owner": "Piff_Puff",
     "status": "Занято",
     "x": 797.6589,
     "y": -1729.31,
@@ -2104,7 +2104,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Дом",
-    "owner": "Cano_Castillo",
+    "owner": "Piff_Puff",
     "status": "Занято",
     "x": 790.9739,
     "y": -1661.87,
@@ -2144,18 +2144,6 @@
     "status": "Занято",
     "x": 652.681,
     "y": -1619.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 179,
-    "server_id": 5,
-    "type": "house",
-    "name": "@bladeeee4 - sell",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": 656.023,
-    "y": -1636.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2272,7 +2260,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Дом",
-    "owner": "Cano_Castillo",
+    "owner": "Piff_Puff",
     "status": "Занято",
     "x": 769.056,
     "y": -1726.33,
@@ -12264,18 +12252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1023,
-    "server_id": 5,
-    "type": "house",
-    "name": " Дом Fresko",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": -2863.56,
-    "y": 829.7769,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1024,
     "server_id": 5,
     "type": "house",
@@ -17972,18 +17948,6 @@
     "status": "Занято",
     "x": 790.2039,
     "y": 1973.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1499,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 766.848,
-    "y": 1989.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23904,18 +23868,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1995,
-    "server_id": 5,
-    "type": "house",
-    "name": "@Visyal@",
-    "owner": "Jason_McDuck",
-    "status": "Занято",
-    "x": 2639.05,
-    "y": 2029.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1996,
     "server_id": 5,
     "type": "house",
@@ -25080,6 +25032,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 179,
+    "server_id": 5,
+    "type": "house",
+    "name": "@bladeeee4 - sell",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": 656.023,
+    "y": -1636.08,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 834,
     "server_id": 5,
     "type": "house",
@@ -25089,6 +25053,30 @@
     "x": -2029.84,
     "y": 745.572,
     "price": 1300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1023,
+    "server_id": 5,
+    "type": "house",
+    "name": " Дом Fresko",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": -2863.56,
+    "y": 829.7769,
+    "price": 900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1499,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 766.848,
+    "y": 1989.69,
+    "price": 650000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25113,6 +25101,18 @@
     "x": 2476.46,
     "y": -1376.54,
     "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1995,
+    "server_id": 5,
+    "type": "house",
+    "name": "@Visyal@",
+    "owner": "Jason_McDuck",
+    "status": "Аукцион",
+    "x": 2639.05,
+    "y": 2029.23,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25168,7 +25168,7 @@
     "server_id": 5,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Lil_Cyrex",
+    "owner": "Marco_Grava",
     "status": "Занято",
     "x": 2085.67,
     "y": 2054.97,

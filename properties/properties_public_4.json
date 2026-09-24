@@ -3351,7 +3351,7 @@
     "id": 280,
     "server_id": 4,
     "type": "house",
-    "name": "Продается Дом",
+    "name": "Дом",
     "owner": "Doctor_Infernales",
     "status": "Занято",
     "x": 2413.57,
@@ -12435,8 +12435,8 @@
     "id": 1052,
     "server_id": 4,
     "type": "house",
-    "name": "Kharkiv",
-    "owner": "Kyle_Dake",
+    "name": "Дом",
+    "owner": "Mentol_Brenson",
     "status": "Занято",
     "x": -2396.98,
     "y": 1132.72,
@@ -25076,7 +25076,7 @@
     "status": "Аукцион",
     "x": 2438.82,
     "y": -54.6911,
-    "price": 8000000000,
+    "price": 7500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25257,6 +25257,30 @@
     "x": 2473.16,
     "y": -1383.37,
     "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 63,
+    "server_id": 4,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": -1320.49,
+    "y": 2698.65,
+    "price": 297000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 4,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2351.41,
+    "y": 2405.59,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26624,18 +26648,6 @@
     "status": "Занято",
     "x": 2150.73,
     "y": 2733.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 63,
-    "server_id": 4,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": -1320.49,
-    "y": 2698.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28100,18 +28112,6 @@
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 184,
-    "server_id": 4,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2351.41,
-    "y": 2405.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
