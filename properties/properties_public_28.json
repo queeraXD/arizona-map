@@ -7428,18 +7428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 620,
-    "server_id": 28,
-    "type": "house",
-    "name": "куплен доп шкаф",
-    "owner": "Vitalya_Bob",
-    "status": "Занято",
-    "x": -886.291,
-    "y": 1514.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 621,
     "server_id": 28,
     "type": "house",
@@ -7688,18 +7676,6 @@
     "status": "Занято",
     "x": 1535.16,
     "y": 2609.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 642,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kosynoki_Rambery",
-    "status": "Занято",
-    "x": 1846.05,
-    "y": 661.2009,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22308,6 +22284,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 620,
+    "server_id": 28,
+    "type": "house",
+    "name": "куплен доп шкаф",
+    "owner": "Vitalya_Bob",
+    "status": "Аукцион",
+    "x": -886.291,
+    "y": 1514.59,
+    "price": 5000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 642,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kosynoki_Rambery",
+    "status": "Аукцион",
+    "x": 1846.05,
+    "y": 661.2009,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 916,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22365,18 @@
     "x": -115.554,
     "y": 1046.7,
     "price": 1200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 198,
+    "server_id": 28,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Anthony_Bosh",
+    "status": "Аукцион",
+    "x": -1826.43,
+    "y": -566.68,
+    "price": 6200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25376,18 +25388,6 @@
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 198,
-    "server_id": 28,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Anthony_Bosh",
-    "status": "Занято",
-    "x": -1826.43,
-    "y": -566.68,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -8376,18 +8376,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 708,
-    "server_id": 33,
-    "type": "house",
-    "name": "dank",
-    "owner": "Sax_Reyx",
-    "status": "Занято",
-    "x": -2180.58,
-    "y": -2519.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 709,
     "server_id": 33,
     "type": "house",
@@ -10904,18 +10892,6 @@
     "status": "Занято",
     "x": -2282.07,
     "y": 1089.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 922,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kostik_Bursevich",
-    "status": "Занято",
-    "x": -2280.46,
-    "y": 1130.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15208,7 +15184,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Edward_Puffton",
+    "owner": "Cristofor_Hayward",
     "status": "Занято",
     "x": -2620.77,
     "y": -185.8979,
@@ -21000,6 +20976,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1796,
+    "server_id": 33,
+    "type": "house",
+    "name": "фармилы тут",
+    "owner": "Sber_Brooks",
+    "status": "Занято",
+    "x": 2620.35,
+    "y": 2165.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1797,
     "server_id": 33,
     "type": "house",
@@ -22428,15 +22416,39 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 708,
+    "server_id": 33,
+    "type": "house",
+    "name": "dank",
+    "owner": "Sax_Reyx",
+    "status": "Аукцион",
+    "x": -2180.58,
+    "y": -2519.39,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 775,
     "server_id": 33,
     "type": "house",
     "name": "Mogg House",
-    "owner": "Mogg_Fraydlt",
+    "owner": "Kostik_Bursevich",
     "status": "Аукцион",
     "x": -2590.92,
     "y": 819.7999,
-    "price": 200000000,
+    "price": 450123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 922,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kostik_Bursevich",
+    "status": "Аукцион",
+    "x": -2280.46,
+    "y": 1130.83,
+    "price": 450123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22473,18 +22485,6 @@
     "x": 1749.14,
     "y": 2755.89,
     "price": 350000222,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1796,
-    "server_id": 33,
-    "type": "house",
-    "name": "App Store",
-    "owner": "Pharaoh_Markelovani",
-    "status": "Аукцион",
-    "x": 2620.35,
-    "y": 2165.58,
-    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25576,7 +25576,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Boris_Fermerov",
+    "owner": "Vladislav_Fermerov",
     "status": "Занято",
     "x": 1183.17,
     "y": -1315.1,

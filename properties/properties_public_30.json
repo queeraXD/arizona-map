@@ -19452,18 +19452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1629,
-    "server_id": 30,
-    "type": "house",
-    "name": "дом фармилы",
-    "owner": "Ivan_Burmaldancer",
-    "status": "Занято",
-    "x": 2540.32,
-    "y": 719.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1631,
     "server_id": 30,
     "type": "house",
@@ -22728,6 +22716,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1629,
+    "server_id": 30,
+    "type": "house",
+    "name": "дом фармилы",
+    "owner": "Ivan_Burmaldancer",
+    "status": "Аукцион",
+    "x": 2540.32,
+    "y": 719.32,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1758,
     "server_id": 30,
     "type": "house",
@@ -22749,18 +22749,6 @@
     "x": 2623.65,
     "y": 2056.21,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 39,
-    "server_id": 30,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Hopzy_Murphy",
-    "status": "Аукцион",
-    "x": 559.489,
-    "y": -1293.21,
-    "price": 225000,
     "district": "Сан-Андреас"
   },
   {
@@ -24872,6 +24860,18 @@
     "status": "Занято",
     "x": -2103.59,
     "y": -2342.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 39,
+    "server_id": 30,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Hopzy_Murphy",
+    "status": "Занято",
+    "x": 559.489,
+    "y": -1293.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
