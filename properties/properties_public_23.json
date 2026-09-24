@@ -15423,7 +15423,7 @@
     "id": 1287,
     "server_id": 23,
     "type": "house",
-    "name": "VipKazahHouse",
+    "name": "House Harder (СФ)",
     "owner": "Luke_Harder",
     "status": "Занято",
     "x": -2620.77,
@@ -15872,6 +15872,18 @@
     "status": "Занято",
     "x": 1447.38,
     "y": 361.768,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1325,
+    "server_id": 23,
+    "type": "house",
+    "name": "Притон дровосека",
+    "owner": "Drovosek_Doberman",
+    "status": "Занято",
+    "x": 1461.16,
+    "y": 342.493,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21144,18 +21156,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1325,
-    "server_id": 23,
-    "type": "house",
-    "name": "Притон дровосека",
-    "owner": "Drovosek_Doberman",
-    "status": "Аукцион",
-    "x": 1461.16,
-    "y": 342.493,
-    "price": 150123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1479,
     "server_id": 23,
     "type": "house",
@@ -21165,42 +21165,6 @@
     "x": 885.424,
     "y": 2180.92,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 61,
-    "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Donny_Doberman",
-    "status": "Аукцион",
-    "x": 663.131,
-    "y": 1716.35,
-    "price": 270000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 76,
-    "server_id": 23,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Donny_Doberman",
-    "status": "Аукцион",
-    "x": -179.189,
-    "y": 1133.15,
-    "price": 350000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 209,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Donny_Doberman",
-    "status": "Аукцион",
-    "x": 1976.18,
-    "y": -1980.19,
-    "price": 9700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21876,6 +21840,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 76,
+    "server_id": 23,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Donny_Doberman",
+    "status": "Занято",
+    "x": -179.189,
+    "y": 1133.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 77,
     "server_id": 23,
     "type": "business",
@@ -22532,6 +22508,18 @@
     "status": "Занято",
     "x": 1599.11,
     "y": 2221.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 61,
+    "server_id": 23,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Donny_Doberman",
+    "status": "Занято",
+    "x": 663.131,
+    "y": 1716.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24320,6 +24308,18 @@
     "status": "Занято",
     "x": 194.751,
     "y": -273.823,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 209,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Donny_Doberman",
+    "status": "Занято",
+    "x": 1976.18,
+    "y": -1980.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
