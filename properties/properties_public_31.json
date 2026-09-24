@@ -9204,18 +9204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 769,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bruda_Prototype",
-    "status": "Занято",
-    "x": -2594.19,
-    "y": 768.164,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 770,
     "server_id": 31,
     "type": "house",
@@ -9308,18 +9296,6 @@
     "status": "Занято",
     "x": -2548.71,
     "y": 819.799,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 778,
-    "server_id": 31,
-    "type": "house",
-    "name": "MINING 10 LVL (+15)",
-    "owner": "Bruda_Prototype",
-    "status": "Занято",
-    "x": -2550.67,
-    "y": 794.174,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9500,6 +9476,18 @@
     "status": "Занято",
     "x": -2540.68,
     "y": 855.103,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 794,
+    "server_id": 31,
+    "type": "house",
+    "name": "MINING 10 LVL (+15)",
+    "owner": "Stich_Nightingale",
+    "status": "Занято",
+    "x": -2538.73,
+    "y": 830.064,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9932,6 +9920,18 @@
     "status": "Занято",
     "x": -2234.38,
     "y": 888.869,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 833,
+    "server_id": 31,
+    "type": "house",
+    "name": "MINING 10 LVL (+15)",
+    "owner": "Bruda_Prototype",
+    "status": "Занято",
+    "x": -2234.63,
+    "y": 870.7579,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11840,6 +11840,18 @@
     "status": "Занято",
     "x": -2551.78,
     "y": 2267.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 994,
+    "server_id": 31,
+    "type": "house",
+    "name": "Притон",
+    "owner": "Travis_Wood",
+    "status": "Занято",
+    "x": -2321.64,
+    "y": 797.465,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19755,7 +19767,7 @@
     "id": 1656,
     "server_id": 31,
     "type": "house",
-    "name": "| Exodus Empire |",
+    "name": "Дом",
     "owner": "Eminem_Show",
     "status": "Занято",
     "x": 2357.05,
@@ -20607,7 +20619,7 @@
     "id": 1728,
     "server_id": 31,
     "type": "house",
-    "name": "Major?",
+    "name": "Hito - huito",
     "owner": "Hito_Mercy",
     "status": "Занято",
     "x": 1802.41,
@@ -23256,15 +23268,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 794,
+    "id": 769,
     "server_id": 31,
     "type": "house",
-    "name": "MINING 10 LVL (+15)",
-    "owner": "Stich_Nightingale",
+    "name": "Дом",
+    "owner": "Bruda_Prototype",
     "status": "Аукцион",
-    "x": -2538.73,
-    "y": 830.064,
-    "price": 1500000000,
+    "x": -2594.19,
+    "y": 768.164,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 778,
+    "server_id": 31,
+    "type": "house",
+    "name": "ДЕП условия 2 подвала",
+    "owner": "Bruda_Prototype",
+    "status": "Аукцион",
+    "x": -2550.67,
+    "y": 794.174,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23289,30 +23313,6 @@
     "x": -2689.39,
     "y": -152.796,
     "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 833,
-    "server_id": 31,
-    "type": "house",
-    "name": "MINING 10 LVL (+15)",
-    "owner": "Stich_Nightingale",
-    "status": "Аукцион",
-    "x": -2234.63,
-    "y": 870.7579,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 994,
-    "server_id": 31,
-    "type": "house",
-    "name": "Притон",
-    "owner": "Travis_Wood",
-    "status": "Аукцион",
-    "x": -2321.64,
-    "y": 797.465,
-    "price": 1450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23349,6 +23349,18 @@
     "x": -2511.76,
     "y": 1020.97,
     "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 468,
+    "server_id": 31,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Marsel_Garcia",
+    "status": "Аукцион",
+    "x": -172.597,
+    "y": 1106.0,
+    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -26120,18 +26132,6 @@
     "status": "Занято",
     "x": -2015.06,
     "y": -2.1872,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 468,
-    "server_id": 31,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Marsel_Garcia",
-    "status": "Занято",
-    "x": -172.597,
-    "y": 1106.0,
     "price": 0,
     "district": "Сан-Андреас"
   },

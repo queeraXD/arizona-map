@@ -2376,18 +2376,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 199,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "SERGEY_BAJLbIHA",
-    "status": "Занято",
-    "x": 1421.91,
-    "y": -885.8229,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 200,
     "server_id": 9,
     "type": "house",
@@ -17748,18 +17736,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1483,
-    "server_id": 9,
-    "type": "house",
-    "name": "Домик Харуки",
-    "owner": "Stu_Loving",
-    "status": "Занято",
-    "x": 1575.77,
-    "y": 2844.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1484,
     "server_id": 9,
     "type": "house",
@@ -18092,6 +18068,18 @@
     "status": "Занято",
     "x": 1068.42,
     "y": -1081.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1512,
+    "server_id": 9,
+    "type": "house",
+    "name": "Домик Покоё",
+    "owner": "Linar_Gambino",
+    "status": "Занято",
+    "x": -2558.57,
+    "y": -79.9776,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22812,6 +22800,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1909,
+    "server_id": 9,
+    "type": "house",
+    "name": ":uf219: exodus squad :uf219:",
+    "owner": "Sota_Takedji",
+    "status": "Занято",
+    "x": 2468.34,
+    "y": -1424.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1910,
     "server_id": 9,
     "type": "house",
@@ -23024,18 +23024,6 @@
     "status": "Занято",
     "x": 2492.12,
     "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1928,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jonathan_Korolevskiy",
-    "status": "Занято",
-    "x": 2495.38,
-    "y": -1366.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23880,6 +23868,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 199,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "SERGEY_BAJLbIHA",
+    "status": "Аукцион",
+    "x": 1421.91,
+    "y": -885.8229,
+    "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 248,
     "server_id": 9,
     "type": "house",
@@ -23904,27 +23904,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1512,
+    "id": 1483,
     "server_id": 9,
     "type": "house",
-    "name": "Домик Покоё",
-    "owner": "Linar_Gambino",
+    "name": "Домик Харуки",
+    "owner": "Stu_Loving",
     "status": "Аукцион",
-    "x": -2558.57,
-    "y": -79.9776,
-    "price": 1900000000,
+    "x": 1575.77,
+    "y": 2844.17,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1909,
+    "id": 1928,
     "server_id": 9,
     "type": "house",
-    "name": ":uf219: exodus squad :uf219:",
-    "owner": "Sota_Takedji",
+    "name": "Дом",
+    "owner": "West_Spirit",
     "status": "Аукцион",
-    "x": 2468.34,
-    "y": -1424.58,
-    "price": 2200000000,
+    "x": 2495.38,
+    "y": -1366.2,
+    "price": 1000123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23952,15 +23952,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 308,
+    "id": 312,
     "server_id": 9,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Kimmi_Toxiclame",
+    "owner": "Yami_Kenshi",
     "status": "Аукцион",
-    "x": -1992.936,
-    "y": 583.4068,
-    "price": 255000,
+    "x": 641.4393,
+    "y": -494.824,
+    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -27696,6 +27696,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 308,
+    "server_id": 9,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Kimmi_Toxiclame",
+    "status": "Занято",
+    "x": -1992.936,
+    "y": 583.4068,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 309,
     "server_id": 9,
     "type": "business",
@@ -27728,18 +27740,6 @@
     "status": "Занято",
     "x": -20.8111,
     "y": -1548.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 312,
-    "server_id": 9,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Yami_Kenshi",
-    "status": "Занято",
-    "x": 641.4393,
-    "y": -494.824,
     "price": 0,
     "district": "Сан-Андреас"
   },

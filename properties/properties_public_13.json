@@ -20220,6 +20220,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1687,
+    "server_id": 13,
+    "type": "house",
+    "name": "FAMILY UNDERWORLD",
+    "owner": "Anatoliy_Volk",
+    "status": "Занято",
+    "x": 2437.04,
+    "y": 1205.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1688,
     "server_id": 13,
     "type": "house",
@@ -20708,18 +20720,6 @@
     "status": "Занято",
     "x": -49.986,
     "y": -269.364,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1729,
-    "server_id": 13,
-    "type": "house",
-    "name": "помойка",
-    "owner": "brodyagathegod",
-    "status": "Занято",
-    "x": 263.6849,
-    "y": 2895.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21840,18 +21840,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1824,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дарова пацаны",
-    "owner": "Young_Scam",
-    "status": "Занято",
-    "x": 1784.49,
-    "y": 2758.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1825,
     "server_id": 13,
     "type": "house",
@@ -22108,7 +22096,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Choppa_Triada",
+    "owner": "Routine_Swarovski",
     "status": "Занято",
     "x": 2625.12,
     "y": 2195.56,
@@ -22372,7 +22360,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Choppa_Triada",
+    "owner": "Seventh_Sonata",
     "status": "Занято",
     "x": 2657.13,
     "y": 2235.83,
@@ -23280,15 +23268,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1687,
+    "id": 1729,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Hiroto_Kingman",
+    "name": "помойка",
+    "owner": "brodyagathegod",
     "status": "Аукцион",
-    "x": 2437.04,
-    "y": 1205.19,
-    "price": 100000000,
+    "x": 263.6849,
+    "y": 2895.52,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1824,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дарова пацаны",
+    "owner": "Young_Scam",
+    "status": "Аукцион",
+    "x": 1784.49,
+    "y": 2758.73,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 434,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 2216.0,
+    "y": -1679.688,
+    "price": 1200000,
     "district": "Сан-Андреас"
   },
   {
