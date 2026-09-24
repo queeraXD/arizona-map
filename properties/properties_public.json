@@ -2812,7 +2812,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Cripson Empire",
-    "owner": "Bee_Cripson",
+    "owner": "Jonni_Makaronina",
     "status": "Занято",
     "x": 416.519,
     "y": -1154.58,
@@ -2824,7 +2824,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Cripson Empire",
-    "owner": "Bee_Cripson",
+    "owner": "Jonni_Makaronina",
     "status": "Занято",
     "x": 497.6589,
     "y": -1094.61,
@@ -4637,10 +4637,10 @@
     "type": "house",
     "name": "TikTok-Youtube MIni Perekup",
     "owner": "Mini_Perekup",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2362.94,
     "y": 166.0709,
-    "price": 1650000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -4649,10 +4649,10 @@
     "type": "house",
     "name": "TikTok-Youtube MIni Perekup",
     "owner": "Mini_Perekup",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2363.25,
     "y": 142.009,
-    "price": 1650000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -4661,10 +4661,10 @@
     "type": "house",
     "name": "TikTok-Youtube Mini Perekup",
     "owner": "Mini_Perekup",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2363.33,
     "y": 116.068,
-    "price": 1650000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -5612,18 +5612,6 @@
     "status": "Занято",
     "x": 2346.22,
     "y": 656.447,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 468,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Emily_Toregrossa",
-    "status": "Занято",
-    "x": 2368.36,
-    "y": 654.8389,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7748,6 +7736,18 @@
     "status": "Занято",
     "x": 2450.15,
     "y": 742.632,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 648,
+    "server_id": 33,
+    "type": "house",
+    "name": "Youtube-TikTok: Mini Perekup",
+    "owner": "Mini_Perekup",
+    "status": "Занято",
+    "x": 2449.23,
+    "y": 689.8359,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18336,18 +18336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1566,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Damage_Net",
-    "status": "Занято",
-    "x": 2788.02,
-    "y": 2221.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1567,
     "server_id": 33,
     "type": "house",
@@ -18461,10 +18449,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Peredoz_Mefom",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 2788.02,
     "y": 2268.49,
-    "price": 200123123,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -21396,6 +21384,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1822,
+    "server_id": 33,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Naldon_Legenda",
+    "status": "Занято",
+    "x": 2636.42,
+    "y": 2019.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1823,
     "server_id": 33,
     "type": "house",
@@ -22440,6 +22440,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 468,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Emily_Toregrossa",
+    "status": "Аукцион",
+    "x": 2368.36,
+    "y": 654.8389,
+    "price": 750000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 527,
     "server_id": 33,
     "type": "house",
@@ -22452,27 +22464,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 648,
-    "server_id": 33,
-    "type": "house",
-    "name": "Youtube-TikTok: Mini Perekup",
-    "owner": "Mini_Perekup",
-    "status": "Аукцион",
-    "x": 2449.23,
-    "y": 689.8359,
-    "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 918,
     "server_id": 33,
     "type": "house",
     "name": "налдон ловит",
-    "owner": "Naldon_Legenda",
+    "owner": "Hugo_Oben",
     "status": "Аукцион",
     "x": -2282.05,
     "y": 1023.01,
-    "price": 200000000,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22488,6 +22488,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1566,
+    "server_id": 33,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Damage_Net",
+    "status": "Аукцион",
+    "x": 2788.02,
+    "y": 2221.93,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1640,
     "server_id": 33,
     "type": "house",
@@ -22497,18 +22509,6 @@
     "x": 1970.08,
     "y": -1671.19,
     "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1822,
-    "server_id": 33,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Naldon_Legenda",
-    "status": "Аукцион",
-    "x": 2636.42,
-    "y": 2019.21,
-    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24668,6 +24668,18 @@
     "status": "Занято",
     "x": 1957.1,
     "y": -2183.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 52,
+    "server_id": 33,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Gen_Ywoo",
+    "status": "Занято",
+    "x": -2257.68,
+    "y": 2278.02,
     "price": 0,
     "district": "Сан-Андреас"
   },

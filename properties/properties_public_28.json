@@ -6137,10 +6137,10 @@
     "type": "house",
     "name": "home 2",
     "owner": "Roderick_Kingsley",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1684.51,
     "y": 2046.57,
-    "price": 4000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -16152,18 +16152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1348,
-    "server_id": 28,
-    "type": "house",
-    "name": "LV Lorgars",
-    "owner": "Denis_Disitov",
-    "status": "Занято",
-    "x": 1515.98,
-    "y": 2610.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1349,
     "server_id": 28,
     "type": "house",
@@ -22328,6 +22316,18 @@
     "status": "Занято",
     "x": 7.3323,
     "y": 1012.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1348,
+    "server_id": 28,
+    "type": "house",
+    "name": "LV Lorgars",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1515.98,
+    "y": 2610.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
