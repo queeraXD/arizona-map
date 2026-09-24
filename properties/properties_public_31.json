@@ -520,7 +520,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Поместье Kitsune",
-    "owner": "Kitsune_Aoki",
+    "owner": "Angel_Underbase",
     "status": "Занято",
     "x": 2550.17,
     "y": -1197.12,
@@ -532,7 +532,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Поместье Kitsune",
-    "owner": "Kitsune_Aoki",
+    "owner": "Angel_Underbase",
     "status": "Занято",
     "x": 2520.72,
     "y": -1197.44,
@@ -544,7 +544,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Поместье Kitsune",
-    "owner": "Kitsune_Aoki",
+    "owner": "Angel_Underbase",
     "status": "Занято",
     "x": 2467.61,
     "y": -1200.41,
@@ -9504,18 +9504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 794,
-    "server_id": 31,
-    "type": "house",
-    "name": "MINING 10 LVL (+15)",
-    "owner": "Stich_Nightingale",
-    "status": "Занято",
-    "x": -2538.73,
-    "y": 830.064,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 795,
     "server_id": 31,
     "type": "house",
@@ -10004,18 +9992,6 @@
     "status": "Занято",
     "x": -2281.59,
     "y": 873.2329,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 836,
-    "server_id": 31,
-    "type": "house",
-    "name": "МАЙНИНГ №6",
-    "owner": "Stich_Nightingale",
-    "status": "Занято",
-    "x": -2284.87,
-    "y": 849.708,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12032,18 +12008,6 @@
     "status": "Занято",
     "x": -2461.79,
     "y": 1141.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1006,
-    "server_id": 31,
-    "type": "house",
-    "name": "MINING 10 LVL (+15)",
-    "owner": "Stich_Nightingale",
-    "status": "Занято",
-    "x": -2438.35,
-    "y": 1141.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18496,7 +18460,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Особняк Kitsune",
-    "owner": "Kitsune_Aoki",
+    "owner": "Angel_Underbase",
     "status": "Занято",
     "x": 2792.8,
     "y": -1087.59,
@@ -23340,6 +23304,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 794,
+    "server_id": 31,
+    "type": "house",
+    "name": "MINING 10 LVL (+15)",
+    "owner": "Stich_Nightingale",
+    "status": "Аукцион",
+    "x": -2538.73,
+    "y": 830.064,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 836,
+    "server_id": 31,
+    "type": "house",
+    "name": "МАЙНИНГ №6",
+    "owner": "Stich_Nightingale",
+    "status": "Аукцион",
+    "x": -2284.87,
+    "y": 849.708,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1006,
+    "server_id": 31,
+    "type": "house",
+    "name": "MINING 10 LVL (+15)",
+    "owner": "Stich_Nightingale",
+    "status": "Аукцион",
+    "x": -2438.35,
+    "y": 1141.01,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1615,
     "server_id": 31,
     "type": "house",
@@ -23352,15 +23352,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 82,
+    "id": 113,
     "server_id": 31,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Mlnato_Rostik",
+    "owner": "Patrik_Wilson",
     "status": "Аукцион",
-    "x": 1879.19,
-    "y": 2339.5,
-    "price": 156000,
+    "x": -1808.68,
+    "y": 945.944,
+    "price": 185000,
     "district": "Сан-Андреас"
   },
   {
@@ -25104,6 +25104,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 82,
+    "server_id": 31,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Mlnato_Rostik",
+    "status": "Занято",
+    "x": 1879.19,
+    "y": 2339.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 83,
     "server_id": 31,
     "type": "business",
@@ -25220,18 +25232,6 @@
     "status": "Занято",
     "x": -2672.26,
     "y": 258.431,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 113,
-    "server_id": 31,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Patrik_Wilson",
-    "status": "Занято",
-    "x": -1808.68,
-    "y": 945.944,
     "price": 0,
     "district": "Сан-Андреас"
   },
