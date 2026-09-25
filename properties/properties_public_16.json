@@ -2472,18 +2472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 207,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Add_Forever",
-    "status": "Занято",
-    "x": 1331.84,
-    "y": -632.729,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 208,
     "server_id": 16,
     "type": "house",
@@ -6356,18 +6344,6 @@
     "status": "Занято",
     "x": 1967.26,
     "y": 2766.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 531,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Krabs_Markelovani",
-    "status": "Занято",
-    "x": 1929.81,
-    "y": 2774.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17092,7 +17068,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Scandal_Belov",
+    "owner": "Krabs_Markelovani",
     "status": "Занято",
     "x": 928.616,
     "y": 2372.89,
@@ -17152,7 +17128,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Scandal_Belov",
+    "owner": "Witch_Blvde",
     "status": "Занято",
     "x": 928.6149,
     "y": 2319.31,
@@ -22461,6 +22437,30 @@
     "x": 1534.75,
     "y": -800.32,
     "price": 3200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 207,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Add_Forever",
+    "status": "Аукцион",
+    "x": 1331.84,
+    "y": -632.729,
+    "price": 999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 531,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Krabs_Markelovani",
+    "status": "Аукцион",
+    "x": 1929.81,
+    "y": 2774.34,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {

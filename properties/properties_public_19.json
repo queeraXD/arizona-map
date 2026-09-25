@@ -220,7 +220,7 @@
     "server_id": 19,
     "type": "house",
     "name": "бэм-бэм",
-    "owner": "Chester_Stelon",
+    "owner": "yes",
     "status": "Занято",
     "x": 2126.67,
     "y": -1320.71,
@@ -7308,6 +7308,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 613,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Brutto_Asylum",
+    "status": "Занято",
+    "x": -881.6329,
+    "y": 1562.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 614,
     "server_id": 19,
     "type": "house",
@@ -9360,18 +9372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 786,
-    "server_id": 19,
-    "type": "house",
-    "name": "Патриарх - Syndicate",
-    "owner": "Damager_Infermer",
-    "status": "Занято",
-    "x": -2513.51,
-    "y": 885.7399,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 787,
     "server_id": 19,
     "type": "house",
@@ -10172,18 +10172,6 @@
     "status": "Занято",
     "x": -2102.68,
     "y": 1160.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 854,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Turbo_Ww",
-    "status": "Занято",
-    "x": -2084.36,
-    "y": 1161.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19296,6 +19284,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1624,
+    "server_id": 19,
+    "type": "house",
+    "name": "HorseTownBandits",
+    "owner": "Pizdaliz_Svicov",
+    "status": "Занято",
+    "x": 1800.73,
+    "y": 2775.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1625,
     "server_id": 19,
     "type": "house",
@@ -21836,19 +21836,7 @@
     "status": "Аукцион",
     "x": -1450.71,
     "y": 2691.05,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 613,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~",
-    "owner": "Brutto_Asylum",
-    "status": "Аукцион",
-    "x": -881.6329,
-    "y": 1562.08,
-    "price": 100000000,
+    "price": 550000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21861,6 +21849,30 @@
     "x": -2622.35,
     "y": -198.1479,
     "price": 20123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 786,
+    "server_id": 19,
+    "type": "house",
+    "name": "Патриарх - Syndicate",
+    "owner": "Damager_Infermer",
+    "status": "Аукцион",
+    "x": -2513.51,
+    "y": 885.7399,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 854,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Turbo_Ww",
+    "status": "Аукцион",
+    "x": -2084.36,
+    "y": 1161.16,
+    "price": 10123123,
     "district": "Сан-Андреас"
   },
   {
@@ -21968,19 +21980,7 @@
     "status": "Аукцион",
     "x": 1787.59,
     "y": 2770.05,
-    "price": 80000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1624,
-    "server_id": 19,
-    "type": "house",
-    "name": "HorseTownBandits",
-    "owner": "Sanya_Suetolog",
-    "status": "Аукцион",
-    "x": 1800.73,
-    "y": 2775.69,
-    "price": 5000001,
+    "price": 75000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21992,7 +21992,7 @@
     "status": "Аукцион",
     "x": 1832.59,
     "y": 2742.84,
-    "price": 80000000,
+    "price": 75000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22004,7 +22004,7 @@
     "status": "Аукцион",
     "x": 1414.7,
     "y": 2026.98,
-    "price": 80000000,
+    "price": 75000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22056,18 +22056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 70,
-    "server_id": 19,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Brutto_Asylum",
-    "status": "Аукцион",
-    "x": 2515.7,
-    "y": 1088.17,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 182,
     "server_id": 19,
     "type": "business",
@@ -22076,7 +22064,7 @@
     "status": "Аукцион",
     "x": 1104.78,
     "y": 1380.93,
-    "price": 8000000000,
+    "price": 9000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22676,6 +22664,18 @@
     "status": "Занято",
     "x": 2856.2,
     "y": 1264.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 70,
+    "server_id": 19,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Brutto_Asylum",
+    "status": "Занято",
+    "x": 2515.7,
+    "y": 1088.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23932,7 +23932,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Coul_Price",
+    "owner": "Riko_Demorgan",
     "status": "Занято",
     "x": -2672.26,
     "y": 258.431,
@@ -24268,7 +24268,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Coul_Price",
+    "owner": "Riko_Demorgan",
     "status": "Занято",
     "x": 2262.75,
     "y": 2036.09,
