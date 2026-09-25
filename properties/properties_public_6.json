@@ -12540,18 +12540,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1048,
-    "server_id": 6,
-    "type": "house",
-    "name": "<A.Miro>",
-    "owner": "Kosynoki_Rambery",
-    "status": "Занято",
-    "x": -1997.28,
-    "y": 1272.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1049,
     "server_id": 6,
     "type": "house",
@@ -22920,18 +22908,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1916,
-    "server_id": 6,
-    "type": "house",
-    "name": "<A.Miro>",
-    "owner": "Dargin_Ec",
-    "status": "Занято",
-    "x": 2441.54,
-    "y": 1220.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1917,
     "server_id": 6,
     "type": "house",
@@ -23156,18 +23132,6 @@
     "status": "Занято",
     "x": 2615.04,
     "y": -1237.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1936,
-    "server_id": 6,
-    "type": "house",
-    "name": "<A.Miro>",
-    "owner": "Dargin_Ec",
-    "status": "Занято",
-    "x": 2615.33,
-    "y": -1207.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24480,6 +24444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1048,
+    "server_id": 6,
+    "type": "house",
+    "name": "<A.Miro>",
+    "owner": "Kosynoki_Rambery",
+    "status": "Аукцион",
+    "x": -1997.28,
+    "y": 1272.98,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1416,
     "server_id": 6,
     "type": "house",
@@ -24489,6 +24465,30 @@
     "x": 2552.01,
     "y": -958.1939,
     "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1916,
+    "server_id": 6,
+    "type": "house",
+    "name": "<A.Miro>",
+    "owner": "Dargin_Ec",
+    "status": "Аукцион",
+    "x": 2441.54,
+    "y": 1220.88,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1936,
+    "server_id": 6,
+    "type": "house",
+    "name": "<A.Miro>",
+    "owner": "Dargin_Ec",
+    "status": "Аукцион",
+    "x": 2615.33,
+    "y": -1207.79,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
