@@ -5760,18 +5760,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 483,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Osama_BenLaden",
-    "status": "Занято",
-    "x": 2177.57,
-    "y": 735.885,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 484,
     "server_id": 33,
     "type": "house",
@@ -6392,18 +6380,6 @@
     "status": "Занято",
     "x": 2018.09,
     "y": 2722.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 536,
-    "server_id": 33,
-    "type": "house",
-    "name": "Владение админчика Space",
-    "owner": "Osama_BenLaden",
-    "status": "Занято",
-    "x": 2037.32,
-    "y": 2721.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10719,7 +10695,7 @@
     "id": 900,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "McWoozie sqd x 30",
     "owner": "Chris_Young",
     "status": "Занято",
     "x": -2099.54,
@@ -10988,18 +10964,6 @@
     "status": "Занято",
     "x": -2280.46,
     "y": 1130.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 923,
-    "server_id": 33,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Love_Island",
-    "status": "Занято",
-    "x": -2239.14,
-    "y": 1154.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14211,8 +14175,8 @@
     "id": 1191,
     "server_id": 33,
     "type": "house",
-    "name": "Барбоскины",
-    "owner": "Otto_Holmberg",
+    "name": "Lynn House",
+    "owner": "Eric_Lynn",
     "status": "Занято",
     "x": -2791.87,
     "y": -24.3971,
@@ -17700,18 +17664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1484,
-    "server_id": 33,
-    "type": "house",
-    "name": "Лакост :crocodile:",
-    "owner": "Ruina_Hunter",
-    "status": "Занято",
-    "x": -2358.48,
-    "y": 244.4989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1485,
     "server_id": 33,
     "type": "house",
@@ -19484,18 +19436,6 @@
     "status": "Занято",
     "x": 2416.05,
     "y": 1063.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1661,
-    "server_id": 33,
-    "type": "house",
-    "name": "Домик Деда ",
-    "owner": "Deda_Hasan",
-    "status": "Занято",
-    "x": 2417.74,
-    "y": 1015.49,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22512,6 +22452,66 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 483,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Osama_BenLaden",
+    "status": "Аукцион",
+    "x": 2177.57,
+    "y": 735.885,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 536,
+    "server_id": 33,
+    "type": "house",
+    "name": "Владение админчика Space",
+    "owner": "Osama_BenLaden",
+    "status": "Аукцион",
+    "x": 2037.32,
+    "y": 2721.21,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 923,
+    "server_id": 33,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Love_Island",
+    "status": "Аукцион",
+    "x": -2239.14,
+    "y": 1154.01,
+    "price": 450228228,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1484,
+    "server_id": 33,
+    "type": "house",
+    "name": "Лакост :crocodile:",
+    "owner": "Ruina_Hunter",
+    "status": "Аукцион",
+    "x": -2358.48,
+    "y": 244.4989,
+    "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1661,
+    "server_id": 33,
+    "type": "house",
+    "name": "Домик Деда ",
+    "owner": "Deda_Hasan",
+    "status": "Аукцион",
+    "x": 2417.74,
+    "y": 1015.49,
+    "price": 200100100,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 88,
     "server_id": 33,
     "type": "business",
@@ -22533,6 +22533,18 @@
     "x": 2506.95,
     "y": 2120.28,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 309,
+    "server_id": 33,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Palaga_Novikov",
+    "status": "Аукцион",
+    "x": -1546.29,
+    "y": 591.994,
+    "price": 2222222222,
     "district": "Сан-Андреас"
   },
   {
@@ -26264,18 +26276,6 @@
     "status": "Занято",
     "x": -1992.94,
     "y": 583.407,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 309,
-    "server_id": 33,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Palaga_Novikov",
-    "status": "Занято",
-    "x": -1546.29,
-    "y": 591.994,
     "price": 0,
     "district": "Сан-Андреас"
   },

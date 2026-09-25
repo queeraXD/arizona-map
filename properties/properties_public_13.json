@@ -12672,6 +12672,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1056,
+    "server_id": 13,
+    "type": "house",
+    "name": "Pahan House",
+    "owner": "Denis_Savochkin",
+    "status": "Занято",
+    "x": -1927.71,
+    "y": 1252.78,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1057,
     "server_id": 13,
     "type": "house",
@@ -16844,30 +16856,6 @@
     "status": "Занято",
     "x": 1109.01,
     "y": -1575.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1405,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pleasure_Day",
-    "status": "Занято",
-    "x": 467.118,
-    "y": 1297.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1406,
-    "server_id": 13,
-    "type": "house",
-    "name": "Fredriksson Trap House",
-    "owner": "Pleasure_Day",
-    "status": "Занято",
-    "x": 532.2399,
-    "y": 1301.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23256,15 +23244,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1056,
+    "id": 1405,
     "server_id": 13,
     "type": "house",
-    "name": "Pahan House",
-    "owner": "Denis_Savochkin",
+    "name": "Дом",
+    "owner": "Pleasure_Day",
     "status": "Аукцион",
-    "x": -1927.71,
-    "y": 1252.78,
-    "price": 8000,
+    "x": 467.118,
+    "y": 1297.86,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1406,
+    "server_id": 13,
+    "type": "house",
+    "name": "Fredriksson Trap House",
+    "owner": "Pleasure_Day",
+    "status": "Аукцион",
+    "x": 532.2399,
+    "y": 1301.69,
+    "price": 100123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23301,6 +23301,18 @@
     "x": 928.254,
     "y": -1352.9,
     "price": 8000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 181,
+    "server_id": 13,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Seva_Gudini",
+    "status": "Аукцион",
+    "x": 2029.71,
+    "y": 986.64,
+    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -25672,7 +25684,7 @@
     "server_id": 13,
     "type": "business",
     "name": "Магазин аксессуаров",
-    "owner": "Jeremy_Howard",
+    "owner": "Archi_Himuro",
     "status": "Занято",
     "x": -2050.0,
     "y": -60.63,
@@ -26096,18 +26108,6 @@
     "status": "Занято",
     "x": -63.12,
     "y": 1208.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 181,
-    "server_id": 13,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Seva_Gudini",
-    "status": "Занято",
-    "x": 2029.71,
-    "y": 986.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
