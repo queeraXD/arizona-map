@@ -24,6 +24,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2,
+    "server_id": 33,
+    "type": "house",
+    "name": "Duestion(2)",
+    "owner": "Carlos_Duestion",
+    "status": "Занято",
+    "x": 1921.35,
+    "y": -1115.22,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 3,
     "server_id": 33,
     "type": "house",
@@ -1779,7 +1791,7 @@
     "id": 150,
     "server_id": 33,
     "type": "house",
-    "name": "BANKA SQUAD",
+    "name": "твари family",
     "owner": "Wraith_Band",
     "status": "Занято",
     "x": 1142.12,
@@ -1791,7 +1803,7 @@
     "id": 151,
     "server_id": 33,
     "type": "house",
-    "name": "BANKA SQUAD",
+    "name": "твари family",
     "owner": "Wraith_Band",
     "status": "Занято",
     "x": 1141.96,
@@ -1803,7 +1815,7 @@
     "id": 152,
     "server_id": 33,
     "type": "house",
-    "name": "BANKA SQUAD",
+    "name": "твари family",
     "owner": "Wraith_Band",
     "status": "Занято",
     "x": 1103.22,
@@ -1815,7 +1827,7 @@
     "id": 153,
     "server_id": 33,
     "type": "house",
-    "name": "BANKA SQUAD",
+    "name": "твари family",
     "owner": "Wraith_Band",
     "status": "Занято",
     "x": 1103.34,
@@ -1851,8 +1863,8 @@
     "id": 156,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
-    "owner": "Agent_SixSeven",
+    "name": "твари family",
+    "owner": "Wraith_Band",
     "status": "Занято",
     "x": 1118.12,
     "y": -1022.04,
@@ -4476,18 +4488,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 375,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Big_Smoke",
-    "status": "Занято",
-    "x": 2204.64,
-    "y": 106.164,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 376,
     "server_id": 33,
     "type": "house",
@@ -4508,18 +4508,6 @@
     "status": "Занято",
     "x": 2258.04,
     "y": 167.8099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 378,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Big_Smoke",
-    "status": "Занято",
-    "x": 2285.84,
-    "y": 160.977,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10188,6 +10176,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 857,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Theophrastus_Delux",
+    "status": "Занято",
+    "x": -1289.37,
+    "y": -2102.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 859,
     "server_id": 33,
     "type": "house",
@@ -12884,6 +12884,18 @@
     "status": "Занято",
     "x": 1780.95,
     "y": 2744.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1086,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Denzel_Sacra",
+    "status": "Занято",
+    "x": 1781.15,
+    "y": 2747.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18744,6 +18756,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1605,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Denzel_Sacra",
+    "status": "Занято",
+    "x": 1749.14,
+    "y": 2755.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1606,
     "server_id": 33,
     "type": "house",
@@ -22392,18 +22416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2,
-    "server_id": 33,
-    "type": "house",
-    "name": "Duestion(2)",
-    "owner": "Carlos_Duestion",
-    "status": "Аукцион",
-    "x": 1921.35,
-    "y": -1115.22,
-    "price": 900000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 9,
     "server_id": 33,
     "type": "house",
@@ -22413,6 +22425,30 @@
     "x": 2036.07,
     "y": -1059.32,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 375,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Big_Smoke",
+    "status": "Аукцион",
+    "x": 2204.64,
+    "y": 106.164,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 378,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Big_Smoke",
+    "status": "Аукцион",
+    "x": 2285.84,
+    "y": 160.977,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22452,18 +22488,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 857,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Theophrastus_Delux",
-    "status": "Аукцион",
-    "x": -1289.37,
-    "y": -2102.77,
-    "price": 8888888888,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 887,
     "server_id": 33,
     "type": "house",
@@ -22485,30 +22509,6 @@
     "x": -2904.45,
     "y": 1171.7,
     "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1086,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Denzel_Sacra",
-    "status": "Аукцион",
-    "x": 1781.15,
-    "y": 2747.27,
-    "price": 350000222,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1605,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Denzel_Sacra",
-    "status": "Аукцион",
-    "x": 1749.14,
-    "y": 2755.89,
-    "price": 350000222,
     "district": "Сан-Андреас"
   },
   {
