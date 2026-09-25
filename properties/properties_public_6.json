@@ -12600,6 +12600,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1054,
+    "server_id": 6,
+    "type": "house",
+    "name": "Здесь живет Димончик Порт",
+    "owner": "Jack_Mansoori",
+    "status": "Занято",
+    "x": -2239.01,
+    "y": 1154.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1055,
     "server_id": 6,
     "type": "house",
@@ -13868,18 +13880,6 @@
     "status": "Занято",
     "x": -481.1979,
     "y": -1447.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1162,
-    "server_id": 6,
-    "type": "house",
-    "name": "LaSakura Empire",
-    "owner": "Flawless_Lonely",
-    "status": "Занято",
-    "x": -2790.24,
-    "y": -168.2149,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15615,8 +15615,8 @@
     "id": 1308,
     "server_id": 6,
     "type": "house",
-    "name": "House",
-    "owner": "Danil_Siemens",
+    "name": "Сименсы крудые очень",
+    "owner": "Richard_Fyrenhall",
     "status": "Занято",
     "x": -2593.42,
     "y": 874.4949,
@@ -17388,18 +17388,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1456,
-    "server_id": 6,
-    "type": "house",
-    "name": "<A.Miro>",
-    "owner": "Maria_Borowa",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 614.1939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1457,
     "server_id": 6,
     "type": "house",
@@ -18128,6 +18116,18 @@
     "status": "Занято",
     "x": 1980.99,
     "y": -1682.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1518,
+    "server_id": 6,
+    "type": "house",
+    "name": "<A.Miro>",
+    "owner": "Berserk_Cannon",
+    "status": "Занято",
+    "x": 467.118,
+    "y": 1297.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22692,18 +22692,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1901,
-    "server_id": 6,
-    "type": "house",
-    "name": "Fullsize House [$] Mining 6 [$]",
-    "owner": "Flawless_Lonely",
-    "status": "Занято",
-    "x": 524.914,
-    "y": 1436.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1902,
     "server_id": 6,
     "type": "house",
@@ -23468,6 +23456,30 @@
     "status": "Занято",
     "x": 2647.11,
     "y": 2261.02,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1967,
+    "server_id": 6,
+    "type": "house",
+    "name": "шкаф риелторка 2",
+    "owner": "Holostyak_Lovec",
+    "status": "Занято",
+    "x": 2647.11,
+    "y": 2268.42,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1968,
+    "server_id": 6,
+    "type": "house",
+    "name": "Риелторка шкаф",
+    "owner": "Holostyak_Lovec",
+    "status": "Занято",
+    "x": 2647.11,
+    "y": 2260.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24432,18 +24444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1054,
-    "server_id": 6,
-    "type": "house",
-    "name": "Здесь живет Димончик Порт",
-    "owner": "Jack_Mansoori",
-    "status": "Аукцион",
-    "x": -2239.01,
-    "y": 1154.1,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1161,
     "server_id": 6,
     "type": "house",
@@ -24453,6 +24453,18 @@
     "x": -2789.17,
     "y": -181.3809,
     "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1162,
+    "server_id": 6,
+    "type": "house",
+    "name": "LaSakura Empire",
+    "owner": "Flawless_Lonely",
+    "status": "Аукцион",
+    "x": -2790.24,
+    "y": -168.2149,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24468,15 +24480,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1518,
+    "id": 1456,
     "server_id": 6,
     "type": "house",
     "name": "<A.Miro>",
-    "owner": "Viper_Darkness",
+    "owner": "Maria_Borowa",
     "status": "Аукцион",
-    "x": 467.118,
-    "y": 1297.86,
-    "price": 150123123,
+    "x": -2372.53,
+    "y": 614.1939,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1901,
+    "server_id": 6,
+    "type": "house",
+    "name": "Fullsize House [$] Mining 6 [$]",
+    "owner": "Flawless_Lonely",
+    "status": "Аукцион",
+    "x": 524.914,
+    "y": 1436.14,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24489,30 +24513,6 @@
     "x": 2615.33,
     "y": -1207.79,
     "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1967,
-    "server_id": 6,
-    "type": "house",
-    "name": "шкаф риелторка 2",
-    "owner": "Holostyak_Lovec",
-    "status": "Аукцион",
-    "x": 2647.11,
-    "y": 2268.42,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1968,
-    "server_id": 6,
-    "type": "house",
-    "name": "Риелторка шкаф",
-    "owner": "Holostyak_Lovec",
-    "status": "Аукцион",
-    "x": 2647.11,
-    "y": 2260.99,
-    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
