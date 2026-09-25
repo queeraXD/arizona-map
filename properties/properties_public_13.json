@@ -532,7 +532,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Обитель",
-    "owner": "Buska_Buska",
+    "owner": "Vito_Calpone",
     "status": "Занято",
     "x": 2520.72,
     "y": -1197.44,
@@ -2668,7 +2668,7 @@
     "server_id": 13,
     "type": "house",
     "name": "ЖИТЬКРАСИВО",
-    "owner": "Hugo_Mewell",
+    "owner": "Wased_Morgan",
     "status": "Занято",
     "x": 891.1149,
     "y": -782.806,
@@ -6924,18 +6924,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 577,
-    "server_id": 13,
-    "type": "house",
-    "name": "СексМастерская",
-    "owner": "PitBull_Germany",
-    "status": "Занято",
-    "x": -201.6629,
-    "y": 2772.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 578,
     "server_id": 13,
     "type": "house",
@@ -10448,18 +10436,6 @@
     "status": "Занято",
     "x": -339.7529,
     "y": 2553.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 871,
-    "server_id": 13,
-    "type": "house",
-    "name": "Landre Empire",
-    "owner": "Landre_Empire",
-    "status": "Занято",
-    "x": -302.976,
-    "y": 2552.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21772,7 +21748,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Landre Empire",
-    "owner": "Hugo_Mewell",
+    "owner": "Wased_Morgan",
     "status": "Занято",
     "x": 1745.5,
     "y": 2770.06,
@@ -21836,6 +21812,18 @@
     "status": "Занято",
     "x": 1780.82,
     "y": 2744.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1824,
+    "server_id": 13,
+    "type": "house",
+    "name": "Caramelion Empire",
+    "owner": "John_Caramelion",
+    "status": "Занято",
+    "x": 1784.49,
+    "y": 2758.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21944,6 +21932,18 @@
     "status": "Занято",
     "x": 1794.35,
     "y": 2863.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1834,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Joni_Romero",
+    "status": "Занято",
+    "x": 1763.11,
+    "y": 2871.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22340,18 +22340,6 @@
     "status": "Занято",
     "x": 2657.13,
     "y": 2235.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1868,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Seventh_Sonata",
-    "status": "Занято",
-    "x": 2657.13,
-    "y": 2235.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23232,6 +23220,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 871,
+    "server_id": 13,
+    "type": "house",
+    "name": "Landre Empire",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -302.976,
+    "y": 2552.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1478,
     "server_id": 13,
     "type": "house",
@@ -23241,6 +23241,18 @@
     "x": 2454.18,
     "y": -964.931,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 577,
+    "server_id": 13,
+    "type": "house",
+    "name": "СексМастерская",
+    "owner": "PitBull_Germany",
+    "status": "Аукцион",
+    "x": -201.6629,
+    "y": 2772.17,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23268,27 +23280,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1824,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дарова пацаны",
-    "owner": "Alexander_Hanma",
-    "status": "Аукцион",
-    "x": 1784.49,
-    "y": 2758.73,
-    "price": 90123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1834,
+    "id": 1868,
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Egorka_Miracle",
+    "owner": "Seventh_Sonata",
     "status": "Аукцион",
-    "x": 1763.11,
-    "y": 2871.21,
-    "price": 5000000,
+    "x": 2657.13,
+    "y": 2235.83,
+    "price": 80000000,
     "district": "Сан-Андреас"
   },
   {
