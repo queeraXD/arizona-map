@@ -6708,6 +6708,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 559,
+    "server_id": 21,
+    "type": "house",
+    "name": "12313",
+    "owner": "Satana_Forever",
+    "status": "Занято",
+    "x": 238.8159,
+    "y": 1026.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 560,
     "server_id": 21,
     "type": "house",
@@ -7796,18 +7808,6 @@
     "status": "Занято",
     "x": 2532.3,
     "y": 742.5419,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 651,
-    "server_id": 21,
-    "type": "house",
-    "name": "House",
-    "owner": "Alex_Venc",
-    "status": "Занято",
-    "x": 1939.93,
-    "y": 642.882,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11492,18 +11492,6 @@
     "status": "Занято",
     "x": -2158.75,
     "y": 786.197,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 960,
-    "server_id": 21,
-    "type": "house",
-    "name": "S.Naceri",
-    "owner": "Vadim_Lambo",
-    "status": "Занято",
-    "x": -2158.94,
-    "y": 769.9379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21924,15 +21912,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 559,
+    "id": 651,
     "server_id": 21,
     "type": "house",
-    "name": "12313",
-    "owner": "Secret_Padro",
-    "status": "Аукцион",
-    "x": 238.8159,
-    "y": 1026.24,
-    "price": 100000000,
+    "name": "House",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1939.93,
+    "y": 642.882,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 960,
+    "server_id": 21,
+    "type": "house",
+    "name": "S.Naceri",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2158.94,
+    "y": 769.9379,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
