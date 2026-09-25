@@ -7680,6 +7680,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 642,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bancarovz_Solitude",
+    "status": "Занято",
+    "x": 1846.05,
+    "y": 661.2009,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 643,
     "server_id": 28,
     "type": "house",
@@ -7756,7 +7768,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Evangelion Empire (аксы скины",
-    "owner": "Maestro_Nevermore",
+    "owner": "Phoenix_Quinfrize",
     "status": "Занято",
     "x": 2450.27,
     "y": 662.578,
@@ -8956,7 +8968,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Prince$ka Aquamarine$",
-    "owner": "Maestro_Nevermore",
+    "owner": "Phoenix_Quinfrize",
     "status": "Занято",
     "x": -2671.31,
     "y": 927.4249,
@@ -9884,18 +9896,6 @@
     "status": "Занято",
     "x": -2688.68,
     "y": -89.4464,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 827,
-    "server_id": 28,
-    "type": "house",
-    "name": "DOMDOM",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": -2724.29,
-    "y": -58.0475,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10940,18 +10940,6 @@
     "status": "Занято",
     "x": -2159.89,
     "y": 1048.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 916,
-    "server_id": 28,
-    "type": "house",
-    "name": "Moore Empire",
-    "owner": "Hiroto_Christmas",
-    "status": "Занято",
-    "x": -2159.79,
-    "y": 1030.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16444,7 +16432,7 @@
     "server_id": 28,
     "type": "house",
     "name": "D A R K S I D E",
-    "owner": "Maestro_Nevermore",
+    "owner": "Phoenix_Quinfrize",
     "status": "Занято",
     "x": 1112.2,
     "y": -1575.21,
@@ -17336,18 +17324,6 @@
     "status": "Занято",
     "x": 883.95,
     "y": 2104.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1450,
-    "server_id": 28,
-    "type": "house",
-    "name": "Cent??",
-    "owner": "Travis_Viper",
-    "status": "Занято",
-    "x": 883.95,
-    "y": 2131.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20076,18 +20052,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1679,
-    "server_id": 28,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Hiroto_Christmas",
-    "status": "Занято",
-    "x": -760.603,
-    "y": 2765.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1680,
     "server_id": 28,
     "type": "house",
@@ -21876,18 +21840,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1830,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kent_Sworowski",
-    "status": "Занято",
-    "x": -115.554,
-    "y": 1046.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1831,
     "server_id": 28,
     "type": "house",
@@ -22332,15 +22284,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 642,
+    "id": 827,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
-    "owner": "Kosynoki_Rambery",
+    "name": "DOMDOM",
+    "owner": "Travis_Viper",
     "status": "Аукцион",
-    "x": 1846.05,
-    "y": 661.2009,
-    "price": 100000000,
+    "x": -2724.29,
+    "y": -58.0475,
+    "price": 140000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 916,
+    "server_id": 28,
+    "type": "house",
+    "name": "Moore Empire",
+    "owner": "Hiroto_Christmas",
+    "status": "Аукцион",
+    "x": -2159.79,
+    "y": 1030.66,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22356,6 +22320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1450,
+    "server_id": 28,
+    "type": "house",
+    "name": "Cent??",
+    "owner": "Travis_Viper",
+    "status": "Аукцион",
+    "x": 883.95,
+    "y": 2131.46,
+    "price": 130000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1588,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22341,30 @@
     "x": 2437.04,
     "y": 1241.14,
     "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1679,
+    "server_id": 28,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Hiroto_Christmas",
+    "status": "Аукцион",
+    "x": -760.603,
+    "y": 2765.4,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1830,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kent_Sworowski",
+    "status": "Аукцион",
+    "x": -115.554,
+    "y": 1046.7,
+    "price": 1100000,
     "district": "Сан-Андреас"
   },
   {

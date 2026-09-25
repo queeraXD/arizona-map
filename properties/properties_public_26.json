@@ -1248,18 +1248,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 104,
-    "server_id": 26,
-    "type": "house",
-    "name": "ds lostuser0000",
-    "owner": "champagne",
-    "status": "Занято",
-    "x": 2508.21,
-    "y": -1998.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 105,
     "server_id": 26,
     "type": "house",
@@ -9512,6 +9500,18 @@
     "status": "Занято",
     "x": -2538.73,
     "y": 830.064,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 795,
+    "server_id": 26,
+    "type": "house",
+    "name": "sell 150kk",
+    "owner": "Arizona_Hot",
+    "status": "Занято",
+    "x": -2372.53,
+    "y": 692.763,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18372,6 +18372,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1537,
+    "server_id": 26,
+    "type": "house",
+    "name": "8из10 комнат",
+    "owner": "Ure_Tra",
+    "status": "Занято",
+    "x": -2355.59,
+    "y": 251.6069,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1538,
     "server_id": 26,
     "type": "house",
@@ -23976,6 +23988,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2006,
+    "server_id": 26,
+    "type": "house",
+    "name": "Kamishini No Yari",
+    "owner": "Samuel_Hokwaga",
+    "status": "Занято",
+    "x": 1794.47,
+    "y": 2863.45,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 2007,
     "server_id": 26,
     "type": "house",
@@ -25092,15 +25116,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2006,
+    "id": 104,
     "server_id": 26,
     "type": "house",
-    "name": "Kamishini No Yari",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1794.47,
-    "y": 2863.45,
-    "price": 0,
+    "name": "ds lostuser0000",
+    "owner": "champagne",
+    "status": "Аукцион",
+    "x": 2508.21,
+    "y": -1998.37,
+    "price": 2000123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25128,18 +25152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 795,
-    "server_id": 26,
-    "type": "house",
-    "name": "sell 150kk",
-    "owner": "Avoid_Freeze",
-    "status": "Аукцион",
-    "x": -2372.53,
-    "y": 692.763,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 965,
     "server_id": 26,
     "type": "house",
@@ -25161,18 +25173,6 @@
     "x": -2551.78,
     "y": 2267.08,
     "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1537,
-    "server_id": 26,
-    "type": "house",
-    "name": "8из10 комнат",
-    "owner": "Ure_Tra",
-    "status": "Аукцион",
-    "x": -2355.59,
-    "y": 251.6069,
-    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27292,7 +27292,7 @@
     "server_id": 26,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Nikolay_Suvorov",
+    "owner": "Toni_Lorenso",
     "status": "Занято",
     "x": -2103.59,
     "y": -2342.04,

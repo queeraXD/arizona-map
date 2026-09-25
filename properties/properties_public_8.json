@@ -3876,18 +3876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 323,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Idushchijkreke",
-    "status": "Занято",
-    "x": 776.6719,
-    "y": -503.492,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 324,
     "server_id": 8,
     "type": "house",
@@ -6164,6 +6152,18 @@
     "status": "Занято",
     "x": 1548.62,
     "y": 2125.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 514,
+    "server_id": 8,
+    "type": "house",
+    "name": "TITOVSKIY LA ELITE || 5 MONOPOL",
+    "owner": "Batonchik_Nesquik",
+    "status": "Занято",
+    "x": 1549.98,
+    "y": 2096.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13248,18 +13248,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1106,
-    "server_id": 8,
-    "type": "house",
-    "name": "Майнинг 1",
-    "owner": "Vova_Idushchijkreke",
-    "status": "Занято",
-    "x": 1739.68,
-    "y": 2792.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1107,
     "server_id": 8,
     "type": "house",
@@ -15903,7 +15891,7 @@
     "id": 1327,
     "server_id": 8,
     "type": "house",
-    "name": "Notem Slovil",
+    "name": "батончики",
     "owner": "Batonchik_Nesquik",
     "status": "Занято",
     "x": -2515.38,
@@ -19752,18 +19740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1648,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kodjio_Lemonte",
-    "status": "Занято",
-    "x": -2402.41,
-    "y": 886.083,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1649,
     "server_id": 8,
     "type": "house",
@@ -22524,18 +22500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1879,
-    "server_id": 8,
-    "type": "house",
-    "name": "Notem Slovil",
-    "owner": "Kosukecore_Simmons",
-    "status": "Занято",
-    "x": 2357.04,
-    "y": 1011.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1880,
     "server_id": 8,
     "type": "house",
@@ -23575,18 +23539,6 @@
     "owner": "Ryozo_Sakurai",
     "status": "Занято",
     "x": 2508.03,
-    "y": 1643.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1968,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kodjio_Lemonte",
-    "status": "Занято",
-    "x": 2516.33,
     "y": 1643.58,
     "price": 0,
     "district": "Сан-Андреас"
@@ -25764,15 +25716,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 514,
+    "id": 323,
     "server_id": 8,
     "type": "house",
-    "name": "TITOVSKIY LA ELITE || 5 MONOPOL",
-    "owner": "Mark_Golovanskiy",
+    "name": "Дом",
+    "owner": "Vova_Idushchijkreke",
     "status": "Аукцион",
-    "x": 1549.98,
-    "y": 2096.4,
-    "price": 720000000,
+    "x": 776.6719,
+    "y": -503.492,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1106,
+    "server_id": 8,
+    "type": "house",
+    "name": "Майнинг 1",
+    "owner": "Vova_Idushchijkreke",
+    "status": "Аукцион",
+    "x": 1739.68,
+    "y": 2792.03,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1648,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kodjio_Lemonte",
+    "status": "Аукцион",
+    "x": -2402.41,
+    "y": 886.083,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1879,
+    "server_id": 8,
+    "type": "house",
+    "name": "Notem Slovil",
+    "owner": "Kosukecore_Simmons",
+    "status": "Аукцион",
+    "x": 2357.04,
+    "y": 1011.07,
+    "price": 666100100,
     "district": "Сан-Андреас"
   },
   {
@@ -25785,6 +25773,18 @@
     "x": 2512.58,
     "y": 1643.58,
     "price": 375000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1968,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kodjio_Lemonte",
+    "status": "Аукцион",
+    "x": 2516.33,
+    "y": 1643.58,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {

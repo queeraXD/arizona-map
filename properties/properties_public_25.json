@@ -4384,7 +4384,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Meller_Juggmanee",
+    "owner": "Sergey_Knyazkov",
     "status": "Занято",
     "x": 254.0599,
     "y": -274.3049,
@@ -9656,18 +9656,6 @@
     "status": "Занято",
     "x": -2725.64,
     "y": -92.5289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 806,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом Стиви ",
-    "owner": "Stasic_Ward",
-    "status": "Занято",
-    "x": -2723.93,
-    "y": -105.541,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21144,18 +21132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1766,
-    "server_id": 25,
-    "type": "house",
-    "name": "Morgan",
-    "owner": "Vladimir_Saloedov",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2163.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1767,
     "server_id": 25,
     "type": "house",
@@ -21704,18 +21680,6 @@
     "status": "Занято",
     "x": 1495.69,
     "y": 2033.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1815,
-    "server_id": 25,
-    "type": "house",
-    "name": "Майнинг ферма корпорации Моделс",
-    "owner": "Stasic_Ward",
-    "status": "Занято",
-    "x": 1461.49,
-    "y": 2026.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23748,6 +23712,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 806,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом Стиви ",
+    "owner": "Stasic_Ward",
+    "status": "Аукцион",
+    "x": -2723.93,
+    "y": -105.541,
+    "price": 200500123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 896,
     "server_id": 25,
     "type": "house",
@@ -23769,6 +23745,30 @@
     "x": 2363.18,
     "y": 1006.67,
     "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1766,
+    "server_id": 25,
+    "type": "house",
+    "name": "Morgan",
+    "owner": "Vladimir_Saloedov",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2163.69,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1815,
+    "server_id": 25,
+    "type": "house",
+    "name": "Майнинг ферма корпорации Моделс",
+    "owner": "Stasic_Ward",
+    "status": "Аукцион",
+    "x": 1461.49,
+    "y": 2026.69,
+    "price": 150500123,
     "district": "Сан-Андреас"
   },
   {
