@@ -1080,18 +1080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 90,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Troy_FIoyd",
-    "status": "Занято",
-    "x": 2017.75,
-    "y": -1703.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 91,
     "server_id": 20,
     "type": "house",
@@ -12000,6 +11988,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1001,
+    "server_id": 20,
+    "type": "house",
+    "name": "дом 2",
+    "owner": "Noro_Knight",
+    "status": "Занято",
+    "x": -2369.51,
+    "y": 1121.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1002,
+    "server_id": 20,
+    "type": "house",
+    "name": "Мирни скуф",
+    "owner": "Niko_Serg",
+    "status": "Занято",
+    "x": -2413.55,
+    "y": 1137.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1003,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Noro_Knight",
+    "status": "Занято",
+    "x": -2406.97,
+    "y": 1135.41,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1004,
     "server_id": 20,
     "type": "house",
@@ -13012,7 +13036,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Дом Бряна №4",
-    "owner": "Artyr_Barinov",
+    "owner": "Matvey_Demure",
     "status": "Занято",
     "x": -2174.27,
     "y": 903.0449,
@@ -21975,8 +21999,8 @@
     "id": 1840,
     "server_id": 20,
     "type": "house",
-    "name": "Moretti lord",
-    "owner": "Zhab_Zabich",
+    "name": "Floyd Monopoly",
+    "owner": "Troy_FIoyd",
     "status": "Занято",
     "x": -76.7878,
     "y": 978.0369,
@@ -22248,6 +22272,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 90,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Troy_FIoyd",
+    "status": "Аукцион",
+    "x": 2017.75,
+    "y": -1703.38,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 727,
     "server_id": 20,
     "type": "house",
@@ -22257,42 +22293,6 @@
     "x": 1672.98,
     "y": 2801.06,
     "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1001,
-    "server_id": 20,
-    "type": "house",
-    "name": "дом 2",
-    "owner": "Bloody_Denim",
-    "status": "Аукцион",
-    "x": -2369.51,
-    "y": 1121.8,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1002,
-    "server_id": 20,
-    "type": "house",
-    "name": "дом 6",
-    "owner": "Bloody_Denim",
-    "status": "Аукцион",
-    "x": -2413.55,
-    "y": 1137.33,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1003,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bloody_Denim",
-    "status": "Аукцион",
-    "x": -2406.97,
-    "y": 1135.41,
-    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22353,30 +22353,6 @@
     "x": -2451.2,
     "y": 1141.77,
     "price": 600000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 200,
-    "server_id": 20,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Radovan_Karadzic",
-    "status": "Аукцион",
-    "x": -1983.44,
-    "y": 127.66,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 20,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Radovan_Karadzic",
-    "status": "Аукцион",
-    "x": -2373.8,
-    "y": 910.117,
-    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23396,6 +23372,18 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 20,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Radovan_Karadzic",
+    "status": "Занято",
+    "x": -2373.8,
+    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25400,6 +25388,18 @@
     "status": "Занято",
     "x": 1771.74,
     "y": -1903.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 200,
+    "server_id": 20,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Radovan_Karadzic",
+    "status": "Занято",
+    "x": -1983.44,
+    "y": 127.66,
     "price": 0,
     "district": "Сан-Андреас"
   },

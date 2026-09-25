@@ -3100,7 +3100,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Дом",
-    "owner": "Alverik_Tokado",
+    "owner": "Tear_Lopez",
     "status": "Занято",
     "x": 2131.66,
     "y": -973.916,
@@ -15312,18 +15312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1277,
-    "server_id": 15,
-    "type": "house",
-    "name": "ОПГ Троянівка",
-    "owner": "Milki_Flinger",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1281.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1278,
     "server_id": 15,
     "type": "house",
@@ -21288,6 +21276,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1277,
+    "server_id": 15,
+    "type": "house",
+    "name": "ОПГ Троянівка",
+    "owner": "Milki_Flinger",
+    "status": "Аукцион",
+    "x": -2383.14,
+    "y": 1281.33,
+    "price": 480000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1485,
     "server_id": 15,
     "type": "house",
@@ -21321,18 +21321,6 @@
     "x": 1120.06,
     "y": -2181.22,
     "price": 1100000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 60,
-    "server_id": 15,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Chips_Crips",
-    "status": "Аукцион",
-    "x": 1599.11,
-    "y": 2221.85,
-    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -21381,6 +21369,18 @@
     "x": -2718.47,
     "y": 50.452,
     "price": 120000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 251,
+    "server_id": 15,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "West_McCloud",
+    "status": "Аукцион",
+    "x": -930.703,
+    "y": 13.1137,
+    "price": 85000,
     "district": "Сан-Андреас"
   },
   {
@@ -22024,7 +22024,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "West_McCloud",
+    "owner": "Tommy_Wolf",
     "status": "Занято",
     "x": 2104.24,
     "y": 2678.92,
@@ -22680,6 +22680,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 60,
+    "server_id": 15,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "West_McCloud",
+    "status": "Занято",
+    "x": 1599.11,
+    "y": 2221.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 61,
     "server_id": 15,
     "type": "business",
@@ -22760,18 +22772,6 @@
     "status": "Занято",
     "x": 2170.48,
     "y": 542.934,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 251,
-    "server_id": 15,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "West_McCloud",
-    "status": "Занято",
-    "x": -930.703,
-    "y": 13.1137,
     "price": 0,
     "district": "Сан-Андреас"
   },

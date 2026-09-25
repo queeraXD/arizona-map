@@ -6636,18 +6636,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 554,
-    "server_id": 27,
-    "type": "house",
-    "name": "Деп.условия",
-    "owner": "Sasha_Ultimut",
-    "status": "Занято",
-    "x": 352.9729,
-    "y": 1099.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 555,
     "server_id": 27,
     "type": "house",
@@ -14940,6 +14928,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1247,
+    "server_id": 27,
+    "type": "house",
+    "name": "Шнюк/Майнинг",
+    "owner": "castle",
+    "status": "Занято",
+    "x": -2351.14,
+    "y": 1299.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1248,
     "server_id": 27,
     "type": "house",
@@ -19268,18 +19268,6 @@
     "status": "Занято",
     "x": -2225.96,
     "y": 980.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1609,
-    "server_id": 27,
-    "type": "house",
-    "name": "Кибитка Кивы 7",
-    "owner": "Kiva_Nomiss",
-    "status": "Занято",
-    "x": -2225.96,
-    "y": 1001.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24444,6 +24432,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 554,
+    "server_id": 27,
+    "type": "house",
+    "name": "Деп.условия",
+    "owner": "Sasha_Ultimut",
+    "status": "Аукцион",
+    "x": 352.9729,
+    "y": 1099.58,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 910,
     "server_id": 27,
     "type": "house",
@@ -24456,15 +24456,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1247,
+    "id": 1609,
     "server_id": 27,
     "type": "house",
-    "name": "Шнюк/Майнинг",
-    "owner": "castle",
+    "name": "Кибитка Кивы 7",
+    "owner": "Kiva_Nomiss",
     "status": "Аукцион",
-    "x": -2351.14,
-    "y": 1299.69,
-    "price": 500000000,
+    "x": -2225.96,
+    "y": 1001.36,
+    "price": 550000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27280,7 +27280,7 @@
     "server_id": 27,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Caleb_Chapman",
+    "owner": "Otto_Chapman",
     "status": "Занято",
     "x": 2029.71,
     "y": 986.64,
@@ -27652,7 +27652,7 @@
     "server_id": 27,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Caleb_Chapman",
+    "owner": "Otto_Chapman",
     "status": "Занято",
     "x": 1500.24,
     "y": -1628.79,
