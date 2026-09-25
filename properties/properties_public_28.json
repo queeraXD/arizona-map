@@ -3456,18 +3456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 289,
-    "server_id": 28,
-    "type": "house",
-    "name": "The Sparazza Family",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": 2534.44,
-    "y": -1063.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 290,
     "server_id": 28,
     "type": "house",
@@ -7620,18 +7608,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 637,
-    "server_id": 28,
-    "type": "house",
-    "name": "Flamingo",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": -362.6669,
-    "y": 1110.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 638,
     "server_id": 28,
     "type": "house",
@@ -9092,18 +9068,6 @@
     "status": "Занято",
     "x": -2726.67,
     "y": 822.992,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 761,
-    "server_id": 28,
-    "type": "house",
-    "name": "Кабаны и его лесная братва",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": -2700.33,
-    "y": 820.8649,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18972,18 +18936,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1586,
-    "server_id": 28,
-    "type": "house",
-    "name": "Бристоль и его команда ",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1205.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1587,
     "server_id": 28,
     "type": "house",
@@ -19712,18 +19664,6 @@
     "status": "Занято",
     "x": 2794.3,
     "y": 2260.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1648,
-    "server_id": 28,
-    "type": "house",
-    "name": "[LV-1648] South East",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": 2788.04,
-    "y": 2260.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22332,6 +22272,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 289,
+    "server_id": 28,
+    "type": "house",
+    "name": "The Sparazza Family",
+    "owner": "Aleksei_Saranskiy",
+    "status": "Аукцион",
+    "x": 2534.44,
+    "y": -1063.42,
+    "price": 115000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 493,
     "server_id": 28,
     "type": "house",
@@ -22341,6 +22293,18 @@
     "x": 2014.12,
     "y": 774.8829,
     "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 637,
+    "server_id": 28,
+    "type": "house",
+    "name": "Flamingo",
+    "owner": "Aleksei_Saranskiy",
+    "status": "Аукцион",
+    "x": -362.6669,
+    "y": 1110.63,
+    "price": 235000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22356,6 +22320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 761,
+    "server_id": 28,
+    "type": "house",
+    "name": "Кабаны и его лесная братва",
+    "owner": "Aleksei_Saranskiy",
+    "status": "Аукцион",
+    "x": -2700.33,
+    "y": 820.8649,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 827,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22341,30 @@
     "x": -2724.29,
     "y": -58.0475,
     "price": 135000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1586,
+    "server_id": 28,
+    "type": "house",
+    "name": "Бристоль и его команда ",
+    "owner": "Aleksei_Saranskiy",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1205.32,
+    "price": 215000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1648,
+    "server_id": 28,
+    "type": "house",
+    "name": "[LV-1648] South East",
+    "owner": "Aleksei_Saranskiy",
+    "status": "Аукцион",
+    "x": 2788.04,
+    "y": 2260.95,
+    "price": 195000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23500,7 +23500,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Рекламное агентство СФ",
-    "owner": "Abraham_Kentuki",
+    "owner": "Lorenso_Abudabi",
     "status": "Занято",
     "x": -2226.2,
     "y": 252.005,
@@ -26536,7 +26536,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Эликсир Мастер",
-    "owner": "Lorenso_Abudabi",
+    "owner": "Abraham_Kentuki",
     "status": "Занято",
     "x": 1277.03,
     "y": 370.883,

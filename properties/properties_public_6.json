@@ -3756,18 +3756,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 313,
-    "server_id": 6,
-    "type": "house",
-    "name": "dm, db, osk repeat",
-    "owner": "Desert_Eagle",
-    "status": "Занято",
-    "x": 1939.25,
-    "y": -1066.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 314,
     "server_id": 6,
     "type": "house",
@@ -10680,18 +10668,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 890,
-    "server_id": 6,
-    "type": "house",
-    "name": "owned by Casada Ackerman",
-    "owner": "Jack_Mansoori",
-    "status": "Занято",
-    "x": -2069.5,
-    "y": -2561.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 891,
     "server_id": 6,
     "type": "house",
@@ -12632,18 +12608,6 @@
     "status": "Занято",
     "x": -2152.76,
     "y": 1232.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1054,
-    "server_id": 6,
-    "type": "house",
-    "name": "Здесь живет Димончик Порт",
-    "owner": "Jack_Mansoori",
-    "status": "Занято",
-    "x": -2239.01,
-    "y": 1154.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23628,6 +23592,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1972,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Oxpana_Savkon",
+    "status": "Занято",
+    "x": 2657.13,
+    "y": 2245.13,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1973,
     "server_id": 6,
     "type": "house",
@@ -24504,6 +24480,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 313,
+    "server_id": 6,
+    "type": "house",
+    "name": "dm, db, osk repeat",
+    "owner": "Desert_Eagle",
+    "status": "Аукцион",
+    "x": 1939.25,
+    "y": -1066.56,
+    "price": 220123000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 890,
+    "server_id": 6,
+    "type": "house",
+    "name": "owned by Casada Ackerman",
+    "owner": "Jack_Mansoori",
+    "status": "Аукцион",
+    "x": -2069.5,
+    "y": -2561.02,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1048,
     "server_id": 6,
     "type": "house",
@@ -24516,14 +24516,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1972,
+    "id": 1054,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Zimbab_We",
+    "name": "Здесь живет Димончик Порт",
+    "owner": "Jack_Mansoori",
     "status": "Аукцион",
-    "x": 2657.13,
-    "y": 2245.13,
+    "x": -2239.01,
+    "y": 1154.1,
     "price": 100000000,
     "district": "Сан-Андреас"
   },

@@ -6940,7 +6940,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Хижина Жигуля [DeLorean Corp]",
-    "owner": "Ottone_DeLorean",
+    "owner": "Salavat_McLaren",
     "status": "Занято",
     "x": -2717.79,
     "y": -317.582,
@@ -16848,6 +16848,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1405,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Donatan_Bolt",
+    "status": "Занято",
+    "x": 467.118,
+    "y": 1297.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1406,
+    "server_id": 13,
+    "type": "house",
+    "name": "Fredriksson Trap House",
+    "owner": "Enzo_Favara",
+    "status": "Занято",
+    "x": 532.2399,
+    "y": 1301.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1407,
     "server_id": 13,
     "type": "house",
@@ -17703,7 +17727,7 @@
     "id": 1478,
     "server_id": 13,
     "type": "house",
-    "name": "Landre Empire",
+    "name": "Trappa2",
     "owner": "Gleb_Sacred",
     "status": "Занято",
     "x": 2454.18,
@@ -18507,8 +18531,8 @@
     "id": 1545,
     "server_id": 13,
     "type": "house",
-    "name": "Треп Хата",
-    "owner": "Salavat_McLaren",
+    "name": "Хижина Жигуля",
+    "owner": "Ottone_DeLorean",
     "status": "Занято",
     "x": 2063.18,
     "y": 2204.3,
@@ -23256,30 +23280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1405,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pleasure_Day",
-    "status": "Аукцион",
-    "x": 467.118,
-    "y": 1297.86,
-    "price": 100123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1406,
-    "server_id": 13,
-    "type": "house",
-    "name": "Fredriksson Trap House",
-    "owner": "Pleasure_Day",
-    "status": "Аукцион",
-    "x": 532.2399,
-    "y": 1301.69,
-    "price": 100123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1868,
     "server_id": 13,
     "type": "house",
@@ -23289,18 +23289,6 @@
     "x": 2657.13,
     "y": 2235.83,
     "price": 80000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 181,
-    "server_id": 13,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Seva_Gudini",
-    "status": "Аукцион",
-    "x": 2029.71,
-    "y": 986.64,
-    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -23716,7 +23704,7 @@
     "server_id": 13,
     "type": "business",
     "name": "Бар LUX",
-    "owner": "Salavat_McLaren",
+    "owner": "Ottone_DeLorean",
     "status": "Занято",
     "x": 914.2236,
     "y": -1004.631,
@@ -26108,6 +26096,18 @@
     "status": "Занято",
     "x": -63.12,
     "y": 1208.9,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 181,
+    "server_id": 13,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Seva_Gudini",
+    "status": "Занято",
+    "x": 2029.71,
+    "y": 986.64,
     "price": 0,
     "district": "Сан-Андреас"
   },

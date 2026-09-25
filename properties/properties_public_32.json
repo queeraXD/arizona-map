@@ -492,6 +492,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 41,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дианочки дом",
+    "owner": "Monopoly_Navarro",
+    "status": "Занято",
+    "x": 2492.1,
+    "y": -1239.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 42,
     "server_id": 32,
     "type": "house",
@@ -12759,7 +12771,7 @@
     "id": 1070,
     "server_id": 32,
     "type": "house",
-    "name": "Yamasaki",
+    "name": "Kumis",
     "owner": "Nurzhan_Rework",
     "status": "Занято",
     "x": -2905.16,
@@ -22464,18 +22476,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 41,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дианочки дом",
-    "owner": "Monopoly_Navarro",
-    "status": "Аукцион",
-    "x": 2492.1,
-    "y": -1239.01,
-    "price": 3900000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 786,
     "server_id": 32,
     "type": "house",
@@ -22509,18 +22509,6 @@
     "x": 2787.95,
     "y": 2260.95,
     "price": 950000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 94,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Soshi_Nakajima",
-    "status": "Аукцион",
-    "x": 1966.2,
-    "y": 1623.14,
-    "price": 139000,
     "district": "Сан-Андреас"
   },
   {
@@ -22832,6 +22820,18 @@
     "status": "Занято",
     "x": 2506.95,
     "y": 2120.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 94,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Soshi_Nakajima",
+    "status": "Занято",
+    "x": 1966.2,
+    "y": 1623.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24628,7 +24628,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Opel_Astralez",
+    "owner": "Volodya_Blatnoj",
     "status": "Занято",
     "x": 559.489,
     "y": -1293.21,
