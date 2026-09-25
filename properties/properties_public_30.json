@@ -7428,18 +7428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 620,
-    "server_id": 30,
-    "type": "house",
-    "name": "kaenjil :D",
-    "owner": "Otto_Crimsan",
-    "status": "Занято",
-    "x": -886.291,
-    "y": 1514.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 621,
     "server_id": 30,
     "type": "house",
@@ -11208,18 +11196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 935,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Otto_Crimsan",
-    "status": "Занято",
-    "x": -2126.66,
-    "y": 755.6099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 936,
     "server_id": 30,
     "type": "house",
@@ -11540,18 +11516,6 @@
     "status": "Занято",
     "x": -2168.74,
     "y": 743.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 963,
-    "server_id": 30,
-    "type": "house",
-    "name": "хата боса (Otto_Crimsan)",
-    "owner": "Otto_Crimsan",
-    "status": "Занято",
-    "x": -2187.12,
-    "y": 743.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18600,18 +18564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1551,
-    "server_id": 30,
-    "type": "house",
-    "name": "Депозитные+2 подвала",
-    "owner": "Otto_Crimsan",
-    "status": "Занято",
-    "x": 2587.4,
-    "y": -1199.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1552,
     "server_id": 30,
     "type": "house",
@@ -19812,18 +19764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1658,
-    "server_id": 30,
-    "type": "house",
-    "name": "Renaissance",
-    "owner": "Otto_Crimsan",
-    "status": "Занято",
-    "x": 2476.37,
-    "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1659,
     "server_id": 30,
     "type": "house",
@@ -21016,7 +20956,7 @@
     "server_id": 30,
     "type": "house",
     "name": "ДВОРЕЦ СЭНДИ",
-    "owner": "Six_Ninee",
+    "owner": "Rey_Blackwood",
     "status": "Занято",
     "x": -2737.28,
     "y": 822.994,
@@ -21212,18 +21152,6 @@
     "status": "Занято",
     "x": -789.7069,
     "y": 2749.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1775,
-    "server_id": 30,
-    "type": "house",
-    "name": "Майнинг [2/10]",
-    "owner": "Otto_Crimsan",
-    "status": "Занято",
-    "x": -776.5369,
-    "y": 2765.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22728,6 +22656,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 620,
+    "server_id": 30,
+    "type": "house",
+    "name": "kaenjil :D",
+    "owner": "Otto_Crimsan",
+    "status": "Аукцион",
+    "x": -886.291,
+    "y": 1514.59,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 935,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Otto_Crimsan",
+    "status": "Аукцион",
+    "x": -2126.66,
+    "y": 755.6099,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 963,
+    "server_id": 30,
+    "type": "house",
+    "name": "хата боса (Otto_Crimsan)",
+    "owner": "Otto_Crimsan",
+    "status": "Аукцион",
+    "x": -2187.12,
+    "y": 743.71,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1551,
+    "server_id": 30,
+    "type": "house",
+    "name": "Депозитные+2 подвала",
+    "owner": "Otto_Crimsan",
+    "status": "Аукцион",
+    "x": 2587.4,
+    "y": -1199.9,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1629,
     "server_id": 30,
     "type": "house",
@@ -22749,6 +22725,30 @@
     "x": 1115.72,
     "y": -1562.72,
     "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1658,
+    "server_id": 30,
+    "type": "house",
+    "name": "Renaissance",
+    "owner": "Otto_Crimsan",
+    "status": "Аукцион",
+    "x": 2476.37,
+    "y": -1366.2,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1775,
+    "server_id": 30,
+    "type": "house",
+    "name": "Майнинг [2/10]",
+    "owner": "Otto_Crimsan",
+    "status": "Аукцион",
+    "x": -776.5369,
+    "y": 2765.4,
+    "price": 1200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22792,7 +22792,7 @@
     "server_id": 30,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Elise_ViIlette",
+    "owner": "Jeff_Jones",
     "status": "Занято",
     "x": 2539.54,
     "y": 2083.93,
