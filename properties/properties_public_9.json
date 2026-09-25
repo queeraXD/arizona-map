@@ -3144,18 +3144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 262,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergio_Tohok",
-    "status": "Занято",
-    "x": 2373.85,
-    "y": -8.6736,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 263,
     "server_id": 9,
     "type": "house",
@@ -7184,18 +7172,6 @@
     "status": "Занято",
     "x": -1466.16,
     "y": 2693.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 599,
-    "server_id": 9,
-    "type": "house",
-    "name": "Треп хаус изи в бриджи",
-    "owner": "Kiril_Duga",
-    "status": "Занято",
-    "x": 161.5639,
-    "y": -1455.8,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11816,18 +11792,6 @@
     "status": "Занято",
     "x": 730.9769,
     "y": -1013.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 986,
-    "server_id": 9,
-    "type": "house",
-    "name": "Треп бед хаус ОООбнал",
-    "owner": "Kiril_Duga",
-    "status": "Занято",
-    "x": 2488.55,
-    "y": 11.4727,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23916,6 +23880,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 262,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergio_Tohok",
+    "status": "Аукцион",
+    "x": 2373.85,
+    "y": -8.6736,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 599,
+    "server_id": 9,
+    "type": "house",
+    "name": "Треп хаус изи в бриджи",
+    "owner": "Kiril_Duga",
+    "status": "Аукцион",
+    "x": 161.5639,
+    "y": -1455.8,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 986,
+    "server_id": 9,
+    "type": "house",
+    "name": "Треп бед хаус ОООбнал",
+    "owner": "Kiril_Duga",
+    "status": "Аукцион",
+    "x": 2488.55,
+    "y": 11.4727,
+    "price": 6200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1909,
     "server_id": 9,
     "type": "house",
@@ -23925,18 +23925,6 @@
     "x": 2468.34,
     "y": -1424.58,
     "price": 1950000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 27,
-    "server_id": 9,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Freez_Monopoly",
-    "status": "Аукцион",
-    "x": 31.576,
-    "y": -2638.06,
-    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -25208,6 +25196,18 @@
     "status": "Занято",
     "x": -1675.75,
     "y": 431.923,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 27,
+    "server_id": 9,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Freez_Monopoly",
+    "status": "Занято",
+    "x": 31.576,
+    "y": -2638.06,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -2064,30 +2064,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 172,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Piff_Puff",
-    "status": "Занято",
-    "x": 797.6589,
-    "y": -1729.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 173,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Piff_Puff",
-    "status": "Занято",
-    "x": 794.132,
-    "y": -1707.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 174,
     "server_id": 5,
     "type": "house",
@@ -2096,18 +2072,6 @@
     "status": "Занято",
     "x": 794.9689,
     "y": -1691.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 175,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Piff_Puff",
-    "status": "Занято",
-    "x": 790.9739,
-    "y": -1661.87,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2252,30 +2216,6 @@
     "status": "Занято",
     "x": 768.0759,
     "y": -1655.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 188,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Piff_Puff",
-    "status": "Занято",
-    "x": 769.1149,
-    "y": -1696.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 189,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Piff_Puff",
-    "status": "Занято",
-    "x": 769.056,
-    "y": -1726.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23916,18 +23856,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1995,
-    "server_id": 5,
-    "type": "house",
-    "name": "saints ",
-    "owner": "Sasha_Saint",
-    "status": "Занято",
-    "x": 2639.05,
-    "y": 2029.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1996,
     "server_id": 5,
     "type": "house",
@@ -25092,6 +25020,66 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 172,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Piff_Puff",
+    "status": "Аукцион",
+    "x": 797.6589,
+    "y": -1729.31,
+    "price": 1700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 173,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Piff_Puff",
+    "status": "Аукцион",
+    "x": 794.132,
+    "y": -1707.45,
+    "price": 1700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 175,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Piff_Puff",
+    "status": "Аукцион",
+    "x": 790.9739,
+    "y": -1661.87,
+    "price": 1700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 188,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Piff_Puff",
+    "status": "Аукцион",
+    "x": 769.1149,
+    "y": -1696.62,
+    "price": 1700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 189,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Piff_Puff",
+    "status": "Аукцион",
+    "x": 769.056,
+    "y": -1726.33,
+    "price": 1700000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1695,
     "server_id": 5,
     "type": "house",
@@ -25113,6 +25101,18 @@
     "x": 2468.46,
     "y": -1376.26,
     "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1995,
+    "server_id": 5,
+    "type": "house",
+    "name": "saints ",
+    "owner": "Sasha_Saint",
+    "status": "Аукцион",
+    "x": 2639.05,
+    "y": 2029.23,
+    "price": 520000000,
     "district": "Сан-Андреас"
   },
   {

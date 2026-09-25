@@ -948,18 +948,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 80,
-    "server_id": 13,
-    "type": "house",
-    "name": "ЦГшное убежище",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 2256.76,
-    "y": -1645.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 81,
     "server_id": 13,
     "type": "house",
@@ -2024,18 +2012,6 @@
     "status": "Занято",
     "x": 883.2899,
     "y": -1800.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 170,
-    "server_id": 13,
-    "type": "house",
-    "name": "личная взлётная полоса",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 866.827,
-    "y": -1798.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6908,18 +6884,6 @@
     "status": "Занято",
     "x": -165.173,
     "y": 2768.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 577,
-    "server_id": 13,
-    "type": "house",
-    "name": "СексМастерская",
-    "owner": "PitBull_Germany",
-    "status": "Занято",
-    "x": -201.6629,
-    "y": 2772.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17520,18 +17484,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1461,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 161.522,
-    "y": -1455.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1462,
     "server_id": 13,
     "type": "house",
@@ -17972,18 +17924,6 @@
     "status": "Занято",
     "x": 2044.64,
     "y": -991.325,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1500,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 2051.26,
-    "y": -954.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,6 +23220,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 80,
+    "server_id": 13,
+    "type": "house",
+    "name": "ЦГшное убежище",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 2256.76,
+    "y": -1645.11,
+    "price": 1400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 170,
+    "server_id": 13,
+    "type": "house",
+    "name": "личная взлётная полоса",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 866.827,
+    "y": -1798.91,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 577,
+    "server_id": 13,
+    "type": "house",
+    "name": "СексМастерская",
+    "owner": "PitBull_Germany",
+    "status": "Аукцион",
+    "x": -201.6629,
+    "y": 2772.17,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1461,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 161.522,
+    "y": -1455.86,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1476,
     "server_id": 13,
     "type": "house",
@@ -23289,6 +23277,18 @@
     "x": 2472.43,
     "y": -962.0449,
     "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1500,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 2051.26,
+    "y": -954.65,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
