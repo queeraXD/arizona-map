@@ -6660,6 +6660,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 555,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Immortalis",
+    "status": "Занято",
+    "x": 352.9729,
+    "y": 1099.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 556,
     "server_id": 6,
     "type": "house",
@@ -8816,18 +8828,6 @@
     "status": "Занято",
     "x": -2900.72,
     "y": 1067.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 736,
-    "server_id": 6,
-    "type": "house",
-    "name": "thanos forever",
-    "owner": "Stas_Refund",
-    "status": "Занято",
-    "x": -2622.35,
-    "y": -198.1479,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11552,18 +11552,6 @@
     "status": "Занято",
     "x": -2205.55,
     "y": 795.979,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 964,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом Бывшего Админа",
-    "owner": "Stas_Refund",
-    "status": "Занято",
-    "x": -2223.85,
-    "y": 795.8759,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16976,18 +16964,6 @@
     "status": "Занято",
     "x": 2517.86,
     "y": -965.4459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1416,
-    "server_id": 6,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Stas_Refund",
-    "status": "Занято",
-    "x": 2552.01,
-    "y": -958.1939,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24492,15 +24468,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 555,
+    "id": 736,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Immortalis",
+    "name": "thanos forever",
+    "owner": "Stas_Refund",
     "status": "Аукцион",
-    "x": 352.9729,
-    "y": 1099.58,
-    "price": 600123123,
+    "x": -2622.35,
+    "y": -198.1479,
+    "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 964,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом Бывшего Админа",
+    "owner": "Stas_Refund",
+    "status": "Аукцион",
+    "x": -2223.85,
+    "y": 795.8759,
+    "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1416,
+    "server_id": 6,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Stas_Refund",
+    "status": "Аукцион",
+    "x": 2552.01,
+    "y": -958.1939,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {
