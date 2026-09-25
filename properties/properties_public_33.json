@@ -816,18 +816,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 69,
-    "server_id": 33,
-    "type": "house",
-    "name": "Mercy",
-    "owner": "Fayst_Ernaev",
-    "status": "Занято",
-    "x": 2362.87,
-    "y": -1643.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 70,
     "server_id": 33,
     "type": "house",
@@ -4584,42 +4572,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 386,
-    "server_id": 33,
-    "type": "house",
-    "name": "TikTok-Youtube MIni Perekup",
-    "owner": "Mini_Perekup",
-    "status": "Занято",
-    "x": 2362.94,
-    "y": 166.0709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 387,
-    "server_id": 33,
-    "type": "house",
-    "name": "TikTok-Youtube MIni Perekup",
-    "owner": "Mini_Perekup",
-    "status": "Занято",
-    "x": 2363.25,
-    "y": 142.009,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 388,
-    "server_id": 33,
-    "type": "house",
-    "name": "TikTok-Youtube Mini Perekup",
-    "owner": "Mini_Perekup",
-    "status": "Занято",
-    "x": 2363.33,
-    "y": 116.068,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 389,
     "server_id": 33,
     "type": "house",
@@ -5288,18 +5240,6 @@
     "status": "Занято",
     "x": 2355.7,
     "y": -1039.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 445,
-    "server_id": 33,
-    "type": "house",
-    "name": "youtube house",
-    "owner": "Agent_SixSeven",
-    "status": "Занято",
-    "x": 2439.9,
-    "y": -1010.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6784,7 +6724,7 @@
     "server_id": 33,
     "type": "house",
     "name": "App Store",
-    "owner": "House_Kaspersky",
+    "owner": "Kostik_Bursevich",
     "status": "Занято",
     "x": 452.07,
     "y": 1246.99,
@@ -9232,7 +9172,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Yurnero_God",
+    "owner": "Sora_Mota",
     "status": "Занято",
     "x": -2568.95,
     "y": 794.1749,
@@ -11144,6 +11084,18 @@
     "status": "Занято",
     "x": -2018.45,
     "y": 784.7659,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 943,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом Перфоратора",
+    "owner": "Ban_Off",
+    "status": "Занято",
+    "x": -2018.3,
+    "y": 766.4459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18960,18 +18912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1629,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Rey_Zov",
-    "status": "Занято",
-    "x": 2707.31,
-    "y": -1207.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1630,
     "server_id": 33,
     "type": "house",
@@ -19527,7 +19467,7 @@
     "id": 1676,
     "server_id": 33,
     "type": "house",
-    "name": "бардель",
+    "name": "хата бетмана",
     "owner": "Dimon_Betman",
     "status": "Занято",
     "x": -2852.63,
@@ -22332,6 +22272,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 69,
+    "server_id": 33,
+    "type": "house",
+    "name": "Mercy",
+    "owner": "Fayst_Ernaev",
+    "status": "Аукцион",
+    "x": 2362.87,
+    "y": -1643.14,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 84,
     "server_id": 33,
     "type": "house",
@@ -22365,6 +22317,54 @@
     "x": 219.24,
     "y": -1249.8,
     "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 386,
+    "server_id": 33,
+    "type": "house",
+    "name": "TikTok-Youtube MIni Perekup",
+    "owner": "Mini_Perekup",
+    "status": "Аукцион",
+    "x": 2362.94,
+    "y": 166.0709,
+    "price": 500500500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 387,
+    "server_id": 33,
+    "type": "house",
+    "name": "TikTok-Youtube MIni Perekup",
+    "owner": "Mini_Perekup",
+    "status": "Аукцион",
+    "x": 2363.25,
+    "y": 142.009,
+    "price": 500500500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 388,
+    "server_id": 33,
+    "type": "house",
+    "name": "TikTok-Youtube Mini Perekup",
+    "owner": "Mini_Perekup",
+    "status": "Аукцион",
+    "x": 2363.33,
+    "y": 116.068,
+    "price": 500500500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 445,
+    "server_id": 33,
+    "type": "house",
+    "name": "youtube house",
+    "owner": "Agent_SixSeven",
+    "status": "Аукцион",
+    "x": 2439.9,
+    "y": -1010.88,
+    "price": 500123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22440,18 +22440,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 943,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mushkin_Pushkin",
-    "status": "Аукцион",
-    "x": -2018.3,
-    "y": 766.4459,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1090,
     "server_id": 33,
     "type": "house",
@@ -22497,6 +22485,18 @@
     "x": 2788.02,
     "y": 2268.49,
     "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1629,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Rey_Zov",
+    "status": "Аукцион",
+    "x": 2707.31,
+    "y": -1207.6,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
