@@ -240,6 +240,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 20,
+    "server_id": 13,
+    "type": "house",
+    "name": "гараж за домом",
+    "owner": "Ga_Tila",
+    "status": "Занято",
+    "x": 2150.17,
+    "y": -1286.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 21,
     "server_id": 13,
     "type": "house",
@@ -944,6 +956,18 @@
     "status": "Занято",
     "x": 2282.13,
     "y": -1641.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 80,
+    "server_id": 13,
+    "type": "house",
+    "name": "ЦГшное убежище",
+    "owner": "Ga_Tila",
+    "status": "Занято",
+    "x": 2256.76,
+    "y": -1645.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2012,6 +2036,18 @@
     "status": "Занято",
     "x": 883.2899,
     "y": -1800.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 170,
+    "server_id": 13,
+    "type": "house",
+    "name": "личная взлётная полоса",
+    "owner": "Ga_Tila",
+    "status": "Занято",
+    "x": 866.827,
+    "y": -1798.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12624,18 +12660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1056,
-    "server_id": 13,
-    "type": "house",
-    "name": "Pahan House",
-    "owner": "Pahan_Futurama",
-    "status": "Занято",
-    "x": -1927.71,
-    "y": 1252.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1057,
     "server_id": 13,
     "type": "house",
@@ -16816,7 +16840,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Leo_Mahonez",
+    "owner": "Pleasure_Day",
     "status": "Занято",
     "x": 467.118,
     "y": 1297.86,
@@ -17247,7 +17271,7 @@
     "id": 1441,
     "server_id": 13,
     "type": "house",
-    "name": "Хижина Ведьмака",
+    "name": "Усадьба Корво Бьянко",
     "owner": "Oscar_Blueberry",
     "status": "Занято",
     "x": 771.13,
@@ -17320,7 +17344,7 @@
     "server_id": 13,
     "type": "house",
     "name": "снимите чсНО сатоши",
-    "owner": "Illusion_Mirrors",
+    "owner": "Gothviolence_Ill",
     "status": "Занято",
     "x": 2781.95,
     "y": -1358.4,
@@ -23208,42 +23232,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 20,
-    "server_id": 13,
-    "type": "house",
-    "name": "гараж за домом",
-    "owner": "Ga_Tila",
-    "status": "Аукцион",
-    "x": 2150.17,
-    "y": -1286.35,
-    "price": 1400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 80,
-    "server_id": 13,
-    "type": "house",
-    "name": "ЦГшное убежище",
-    "owner": "Ga_Tila",
-    "status": "Аукцион",
-    "x": 2256.76,
-    "y": -1645.11,
-    "price": 1400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 170,
-    "server_id": 13,
-    "type": "house",
-    "name": "личная взлётная полоса",
-    "owner": "Ga_Tila",
-    "status": "Аукцион",
-    "x": 866.827,
-    "y": -1798.91,
-    "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 577,
     "server_id": 13,
     "type": "house",
@@ -23253,6 +23241,18 @@
     "x": -201.6629,
     "y": 2772.17,
     "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1056,
+    "server_id": 13,
+    "type": "house",
+    "name": "Pahan House",
+    "owner": "Denis_Savochkin",
+    "status": "Аукцион",
+    "x": -1927.71,
+    "y": 1252.78,
+    "price": 8000,
     "district": "Сан-Андреас"
   },
   {
