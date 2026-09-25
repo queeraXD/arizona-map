@@ -12600,18 +12600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1054,
-    "server_id": 6,
-    "type": "house",
-    "name": "Здесь живет Димончик Порт",
-    "owner": "Jack_Mansoori",
-    "status": "Занято",
-    "x": -2239.01,
-    "y": 1154.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1055,
     "server_id": 6,
     "type": "house",
@@ -17488,7 +17476,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Empirs~Nebrasko (142)",
-    "owner": "Farbeez_Nebrasko",
+    "owner": "Farbeez_Cannon",
     "status": "Занято",
     "x": 2334.79,
     "y": -1266.12,
@@ -18152,18 +18140,6 @@
     "status": "Занято",
     "x": 1980.99,
     "y": -1682.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1518,
-    "server_id": 6,
-    "type": "house",
-    "name": "<A.Miro>",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 467.118,
-    "y": 1297.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23496,30 +23472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1967,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом рядом 1",
-    "owner": "Holostyak_Lovec",
-    "status": "Занято",
-    "x": 2647.11,
-    "y": 2268.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1968,
-    "server_id": 6,
-    "type": "house",
-    "name": "Риелторка шкаф",
-    "owner": "Holostyak_Lovec",
-    "status": "Занято",
-    "x": 2647.11,
-    "y": 2260.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1970,
     "server_id": 6,
     "type": "house",
@@ -24456,6 +24408,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1054,
+    "server_id": 6,
+    "type": "house",
+    "name": "Здесь живет Димончик Порт",
+    "owner": "Jack_Mansoori",
+    "status": "Аукцион",
+    "x": -2239.01,
+    "y": 1154.1,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1416,
     "server_id": 6,
     "type": "house",
@@ -24465,6 +24429,18 @@
     "x": 2552.01,
     "y": -958.1939,
     "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1518,
+    "server_id": 6,
+    "type": "house",
+    "name": "<A.Miro>",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": 467.118,
+    "y": 1297.86,
+    "price": 150123123,
     "district": "Сан-Андреас"
   },
   {
@@ -24489,6 +24465,30 @@
     "x": 2615.33,
     "y": -1207.79,
     "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1967,
+    "server_id": 6,
+    "type": "house",
+    "name": "шкаф риелторка 2",
+    "owner": "Holostyak_Lovec",
+    "status": "Аукцион",
+    "x": 2647.11,
+    "y": 2268.42,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1968,
+    "server_id": 6,
+    "type": "house",
+    "name": "Риелторка шкаф",
+    "owner": "Holostyak_Lovec",
+    "status": "Аукцион",
+    "x": 2647.11,
+    "y": 2260.99,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {

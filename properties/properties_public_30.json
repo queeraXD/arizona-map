@@ -19464,18 +19464,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1629,
-    "server_id": 30,
-    "type": "house",
-    "name": "дом фармилы",
-    "owner": "Ivan_Burmaldancer",
-    "status": "Занято",
-    "x": 2540.32,
-    "y": 719.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1631,
     "server_id": 30,
     "type": "house",
@@ -20732,30 +20720,6 @@
     "status": "Занято",
     "x": 1796.74,
     "y": 2861.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1737,
-    "server_id": 30,
-    "type": "house",
-    "name": "pisya",
-    "owner": "Carl_Trimes",
-    "status": "Занято",
-    "x": 1803.48,
-    "y": 2855.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1738,
-    "server_id": 30,
-    "type": "house",
-    "name": "ПИСЯЯ",
-    "owner": "Rick_Trimes",
-    "status": "Занято",
-    "x": 1803.46,
-    "y": 2855.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22725,6 +22689,42 @@
     "x": -1872.44,
     "y": 1146.74,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1629,
+    "server_id": 30,
+    "type": "house",
+    "name": "дом фармилы",
+    "owner": "Ivan_Burmaldancer",
+    "status": "Аукцион",
+    "x": 2540.32,
+    "y": 719.32,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1737,
+    "server_id": 30,
+    "type": "house",
+    "name": "pisya",
+    "owner": "Carl_Trimes",
+    "status": "Аукцион",
+    "x": 1803.48,
+    "y": 2855.58,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1738,
+    "server_id": 30,
+    "type": "house",
+    "name": "майнинг",
+    "owner": "Rick_Trimes",
+    "status": "Аукцион",
+    "x": 1803.46,
+    "y": 2855.56,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {

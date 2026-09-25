@@ -292,7 +292,7 @@
     "server_id": 16,
     "type": "house",
     "name": "гетто хоум",
-    "owner": "Halik_Weeknd",
+    "owner": "Lil_Demon",
     "status": "Занято",
     "x": 2230.01,
     "y": -1281.05,
@@ -3896,6 +3896,18 @@
     "status": "Занято",
     "x": 309.5,
     "y": 43.8861,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 330,
+    "server_id": 16,
+    "type": "house",
+    "name": "meow",
+    "owner": "Kisa_Weeknd",
+    "status": "Занято",
+    "x": 286.1669,
+    "y": 41.1968,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9800,6 +9812,18 @@
     "status": "Занято",
     "x": -2688.28,
     "y": -118.0049,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 824,
+    "server_id": 16,
+    "type": "house",
+    "name": "дарк ку всем",
+    "owner": "Nikita_Yoshiro",
+    "status": "Занято",
+    "x": -2689.37,
+    "y": -114.261,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20340,18 +20364,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1704,
-    "server_id": 16,
-    "type": "house",
-    "name": "GARRY HOUSE №1",
-    "owner": "Garry_Blackwood",
-    "status": "Занято",
-    "x": 2787.91,
-    "y": 2229.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1705,
     "server_id": 16,
     "type": "house",
@@ -20712,23 +20724,11 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1735,
-    "server_id": 16,
-    "type": "house",
-    "name": "GARRY HOUSE №5",
-    "owner": "Garry_Blackwood",
-    "status": "Занято",
-    "x": 2440.7,
-    "y": 1225.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1736,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "HeBep_HeBepmope",
+    "owner": "Temik_Wilcox",
     "status": "Занято",
     "x": 2440.7,
     "y": 1221.87,
@@ -20744,30 +20744,6 @@
     "status": "Занято",
     "x": 2440.7,
     "y": 1214.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1738,
-    "server_id": 16,
-    "type": "house",
-    "name": "GARRY HOUSE №2",
-    "owner": "Garry_Blackwood",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1211.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1739,
-    "server_id": 16,
-    "type": "house",
-    "name": "GARRY HOUSE №1",
-    "owner": "Garry_Blackwood",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1205.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22428,18 +22404,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 330,
-    "server_id": 16,
-    "type": "house",
-    "name": "meow",
-    "owner": "Kisa_Weeknd",
-    "status": "Аукцион",
-    "x": 286.1669,
-    "y": 41.1968,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 602,
     "server_id": 16,
     "type": "house",
@@ -22452,15 +22416,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 824,
+    "id": 1704,
     "server_id": 16,
     "type": "house",
-    "name": "дарк ку всем",
-    "owner": "Kisa_Weeknd",
+    "name": "GARRY HOUSE №1",
+    "owner": "Garry_Blackwood",
     "status": "Аукцион",
-    "x": -2689.37,
-    "y": -114.261,
-    "price": 255000000,
+    "x": 2787.91,
+    "y": 2229.25,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1735,
+    "server_id": 16,
+    "type": "house",
+    "name": "GARRY HOUSE №5",
+    "owner": "Garry_Blackwood",
+    "status": "Аукцион",
+    "x": 2440.7,
+    "y": 1225.81,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1738,
+    "server_id": 16,
+    "type": "house",
+    "name": "GARRY HOUSE №2",
+    "owner": "Garry_Blackwood",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1211.12,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1739,
+    "server_id": 16,
+    "type": "house",
+    "name": "GARRY HOUSE №1",
+    "owner": "Garry_Blackwood",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1205.26,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
