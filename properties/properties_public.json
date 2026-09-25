@@ -2859,7 +2859,7 @@
     "id": 240,
     "server_id": 33,
     "type": "house",
-    "name": "Pakistan",
+    "name": "Дом",
     "owner": "Boleyu_Toboy",
     "status": "Занято",
     "x": 219.24,
@@ -3672,18 +3672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 309,
-    "server_id": 33,
-    "type": "house",
-    "name": "Деревня немца",
-    "owner": "Angel_Brain",
-    "status": "Занято",
-    "x": 260.441,
-    "y": -303.1679,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 310,
     "server_id": 33,
     "type": "house",
@@ -4464,6 +4452,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 375,
+    "server_id": 33,
+    "type": "house",
+    "name": "waldemarfam",
+    "owner": "Aron_Holm",
+    "status": "Занято",
+    "x": 2204.64,
+    "y": 106.164,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 376,
     "server_id": 33,
     "type": "house",
@@ -4484,6 +4484,18 @@
     "status": "Занято",
     "x": 2258.04,
     "y": 167.8099,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 378,
+    "server_id": 33,
+    "type": "house",
+    "name": "TEN NIGHTS UP NORTH",
+    "owner": "North_Posse",
+    "status": "Занято",
+    "x": 2285.84,
+    "y": 160.977,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5084,18 +5096,6 @@
     "status": "Занято",
     "x": 252.173,
     "y": -121.3349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 430,
-    "server_id": 33,
-    "type": "house",
-    "name": "Домик у ПВЗ",
-    "owner": "Angel_Brain",
-    "status": "Занято",
-    "x": 248.332,
-    "y": -33.1693,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9363,8 +9363,8 @@
     "id": 793,
     "server_id": 33,
     "type": "house",
-    "name": "СТРАХА НЕТ",
-    "owner": "Sergei_Babkin",
+    "name": "ВТОРОЙ ДОМИК",
+    "owner": "Lelouch_viBritannia",
     "status": "Занято",
     "x": -2540.68,
     "y": 855.103,
@@ -22260,27 +22260,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 375,
+    "id": 309,
     "server_id": 33,
     "type": "house",
-    "name": "waldemarfam",
-    "owner": "p2p",
+    "name": "Деревня немца",
+    "owner": "Angel_Brain",
     "status": "Аукцион",
-    "x": 2204.64,
-    "y": 106.164,
-    "price": 750000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 378,
-    "server_id": 33,
-    "type": "house",
-    "name": "waldemarfam",
-    "owner": "p2p",
-    "status": "Аукцион",
-    "x": 2285.84,
-    "y": 160.977,
-    "price": 750000000,
+    "x": 260.441,
+    "y": -303.1679,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22293,6 +22281,18 @@
     "x": 2324.66,
     "y": 162.2019,
     "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 430,
+    "server_id": 33,
+    "type": "house",
+    "name": "Домик у ПВЗ",
+    "owner": "Angel_Brain",
+    "status": "Аукцион",
+    "x": 248.332,
+    "y": -33.1693,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {

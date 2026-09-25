@@ -3084,18 +3084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 257,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Roman_Ethereal",
-    "status": "Занято",
-    "x": 2122.32,
-    "y": -970.3649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 258,
     "server_id": 3,
     "type": "house",
@@ -23952,6 +23940,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 257,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Roman_Ethereal",
+    "status": "Аукцион",
+    "x": 2122.32,
+    "y": -970.3649,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 285,
     "server_id": 3,
     "type": "house",
@@ -24009,18 +24009,6 @@
     "x": -2382.97,
     "y": 1299.76,
     "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 51,
-    "server_id": 3,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Borge_West",
-    "status": "Аукцион",
-    "x": 385.891,
-    "y": -1817.9,
-    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
@@ -24260,6 +24248,18 @@
     "status": "Занято",
     "x": 2309.79,
     "y": -1643.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 51,
+    "server_id": 3,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Borge_West",
+    "status": "Занято",
+    "x": 385.891,
+    "y": -1817.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26968,7 +26968,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Svin_Tuz",
+    "owner": "Jessie_Mccarty",
     "status": "Занято",
     "x": 2405.02,
     "y": -1933.97,
