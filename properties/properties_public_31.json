@@ -4696,7 +4696,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Kavkaz Stayl",
-    "owner": "Soda_Lykas",
+    "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": 2272.35,
     "y": -118.814,
@@ -23352,30 +23352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 113,
-    "server_id": 31,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Patrik_Wilson",
-    "status": "Аукцион",
-    "x": -1808.68,
-    "y": 945.944,
-    "price": 180000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 120,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Patrik_Wilson",
-    "status": "Аукцион",
-    "x": -2718.47,
-    "y": 50.452,
-    "price": 280000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 0,
     "server_id": 31,
     "type": "business",
@@ -24336,6 +24312,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 120,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Patrik_Wilson",
+    "status": "Занято",
+    "x": -2718.47,
+    "y": 50.452,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 121,
     "server_id": 31,
     "type": "business",
@@ -25232,6 +25220,18 @@
     "status": "Занято",
     "x": -2672.26,
     "y": 258.431,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 113,
+    "server_id": 31,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Patrik_Wilson",
+    "status": "Занято",
+    "x": -1808.68,
+    "y": 945.944,
     "price": 0,
     "district": "Сан-Андреас"
   },
