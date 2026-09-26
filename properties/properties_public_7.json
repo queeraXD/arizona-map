@@ -18204,18 +18204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1517,
-    "server_id": 7,
-    "type": "house",
-    "name": "Lombard",
-    "owner": "Arturro_Gaty",
-    "status": "Занято",
-    "x": -2285.31,
-    "y": 829.2849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1518,
     "server_id": 7,
     "type": "house",
@@ -23688,18 +23676,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1974,
-    "server_id": 7,
-    "type": "house",
-    "name": ":sad: Rockfeller House :sad:",
-    "owner": "Alonzo_Rockfeller",
-    "status": "Занято",
-    "x": 2750.39,
-    "y": -1205.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1975,
     "server_id": 7,
     "type": "house",
@@ -25545,6 +25521,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1517,
+    "server_id": 7,
+    "type": "house",
+    "name": "Lombard",
+    "owner": "Arturro_Gaty",
+    "status": "Аукцион",
+    "x": -2285.31,
+    "y": 829.2849,
+    "price": 99000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1974,
+    "server_id": 7,
+    "type": "house",
+    "name": "Набор архитектора ",
+    "owner": "Alonzo_Rockfeller",
+    "status": "Аукцион",
+    "x": 2750.39,
+    "y": -1205.72,
+    "price": 5500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27652,8 +27652,8 @@
     "server_id": 7,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Государство",
-    "status": "Свободно",
+    "owner": "Kigo_Hozyainov",
+    "status": "Занято",
     "x": -2103.59,
     "y": -2342.04,
     "price": 0,
@@ -28228,8 +28228,8 @@
     "server_id": 7,
     "type": "business",
     "name": "Отель",
-    "owner": "Государство",
-    "status": "Свободно",
+    "owner": "Stu_Loving",
+    "status": "Занято",
     "x": -2188.019,
     "y": -2264.83,
     "price": 0,
@@ -28804,8 +28804,8 @@
     "server_id": 7,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Государство",
-    "status": "Свободно",
+    "owner": "One_Lord",
+    "status": "Занято",
     "x": -2245.69,
     "y": 2282.04,
     "price": 0,
