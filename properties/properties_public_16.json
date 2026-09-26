@@ -156,6 +156,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 13,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Adrenaline_Push",
+    "status": "Занято",
+    "x": 2092.24,
+    "y": -1166.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 14,
     "server_id": 16,
     "type": "house",
@@ -888,18 +900,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 75,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": 2327.28,
-    "y": -1682.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 76,
     "server_id": 16,
     "type": "house",
@@ -1004,18 +1004,6 @@
     "status": "Занято",
     "x": 2068.13,
     "y": -1656.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 85,
-    "server_id": 16,
-    "type": "house",
-    "name": "big smoke house",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": 2065.77,
-    "y": -1703.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22380,15 +22368,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 13,
+    "id": 75,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Adrenaline_Push",
+    "owner": "Glebaryshnya",
     "status": "Аукцион",
-    "x": 2092.24,
-    "y": -1166.43,
-    "price": 800000000,
+    "x": 2327.28,
+    "y": -1682.06,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 85,
+    "server_id": 16,
+    "type": "house",
+    "name": "big smoke house",
+    "owner": "Glebaryshnya",
+    "status": "Аукцион",
+    "x": 2065.77,
+    "y": -1703.57,
+    "price": 7000000000,
     "district": "Сан-Андреас"
   },
   {
