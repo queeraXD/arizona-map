@@ -7512,30 +7512,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 626,
-    "server_id": 31,
-    "type": "house",
-    "name": "empty",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 4.1448,
-    "y": 1344.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 627,
-    "server_id": 31,
-    "type": "house",
-    "name": "empty",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 4.7234,
-    "y": 1381.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 628,
     "server_id": 31,
     "type": "house",
@@ -9032,6 +9008,18 @@
     "status": "Занято",
     "x": -2641.07,
     "y": 935.7189,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 753,
+    "server_id": 31,
+    "type": "house",
+    "name": "Набор Архитектора",
+    "owner": "Vlad_Filat",
+    "status": "Занято",
+    "x": -2642.31,
+    "y": 728.0339,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17508,6 +17496,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1461,
+    "server_id": 31,
+    "type": "house",
+    "name": "Набор Архитектора",
+    "owner": "Always_Alone",
+    "status": "Занято",
+    "x": 928.0239,
+    "y": 2214.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1462,
     "server_id": 31,
     "type": "house",
@@ -19544,30 +19544,6 @@
     "status": "Занято",
     "x": 26.7684,
     "y": 1361.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1633,
-    "server_id": 31,
-    "type": "house",
-    "name": "дроп с ларцов",
-    "owner": "Kaneki_Rimaru",
-    "status": "Занято",
-    "x": 25.5818,
-    "y": 1345.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1634,
-    "server_id": 31,
-    "type": "house",
-    "name": "empty",
-    "owner": "Kaneki_Rimaru",
-    "status": "Занято",
-    "x": 21.3752,
-    "y": 1344.13,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23328,27 +23304,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 753,
+    "id": 626,
     "server_id": 31,
     "type": "house",
-    "name": "Набор Архитектора",
-    "owner": "Vlad_Filat",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunov",
     "status": "Аукцион",
-    "x": -2642.31,
-    "y": 728.0339,
-    "price": 35000,
+    "x": 4.1448,
+    "y": 1344.59,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1461,
+    "id": 627,
     "server_id": 31,
     "type": "house",
-    "name": "Набор Архитектора",
-    "owner": "Vlad_Filat",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunov",
     "status": "Аукцион",
-    "x": 928.0239,
-    "y": 2214.39,
-    "price": 35000,
+    "x": 4.7234,
+    "y": 1381.21,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1633,
+    "server_id": 31,
+    "type": "house",
+    "name": "дроп с ларцов",
+    "owner": "Kaneki_Rimaru",
+    "status": "Аукцион",
+    "x": 25.5818,
+    "y": 1345.96,
+    "price": 30000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1634,
+    "server_id": 31,
+    "type": "house",
+    "name": "empty",
+    "owner": "Kaneki_Rimaru",
+    "status": "Аукцион",
+    "x": 21.3752,
+    "y": 1344.13,
+    "price": 30000,
     "district": "Сан-Андреас"
   },
   {
