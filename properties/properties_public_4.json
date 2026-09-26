@@ -3408,18 +3408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 284,
-    "server_id": 4,
-    "type": "house",
-    "name": "s0beit",
-    "owner": "Dima_Gerasimenko",
-    "status": "Занято",
-    "x": 2462.37,
-    "y": -1011.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 285,
     "server_id": 4,
     "type": "house",
@@ -11151,7 +11139,7 @@
     "id": 930,
     "server_id": 4,
     "type": "house",
-    "name": "Добрый дом",
+    "name": "Дом ткачівників",
     "owner": "Sanya_Dobryk",
     "status": "Занято",
     "x": -2358.66,
@@ -11384,18 +11372,6 @@
     "status": "Занято",
     "x": -2301.75,
     "y": 579.817,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 950,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Earl_Long",
-    "status": "Занято",
-    "x": -2240.04,
-    "y": 1037.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25245,6 +25221,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 284,
+    "server_id": 4,
+    "type": "house",
+    "name": "s0beit",
+    "owner": "Jonik_Masuda",
+    "status": "Аукцион",
+    "x": 2462.37,
+    "y": -1011.12,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 950,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Earl_Long",
+    "status": "Аукцион",
+    "x": -2240.04,
+    "y": 1037.58,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
