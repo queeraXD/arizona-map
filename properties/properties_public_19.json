@@ -8748,6 +8748,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 732,
+    "server_id": 19,
+    "type": "house",
+    "name": "moorefamq",
+    "owner": "Sanat_Tologonov",
+    "status": "Занято",
+    "x": -2622.35,
+    "y": -198.1479,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 733,
     "server_id": 19,
     "type": "house",
@@ -10272,18 +10284,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 861,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Cupsize_Ebet",
-    "status": "Занято",
-    "x": -218.123,
-    "y": 2481.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 862,
     "server_id": 19,
     "type": "house",
@@ -11428,7 +11428,7 @@
     "server_id": 19,
     "type": "house",
     "name": "marcel",
-    "owner": "Timofei_StaloneI",
+    "owner": "yes",
     "status": "Занято",
     "x": -2211.09,
     "y": 933.7139,
@@ -12848,18 +12848,6 @@
     "status": "Занято",
     "x": -2900.45,
     "y": 1056.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1076,
-    "server_id": 19,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Pari_Vision",
-    "status": "Занято",
-    "x": -2901.54,
-    "y": 1033.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16791,23 +16779,11 @@
     "id": 1405,
     "server_id": 19,
     "type": "house",
-    "name": "Хатредское владение.",
+    "name": "BlackRock Corporations",
     "owner": "Smeta_BlackRock",
     "status": "Занято",
     "x": 707.137,
     "y": 1284.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1406,
-    "server_id": 19,
-    "type": "house",
-    "name": "Хатредское владение.",
-    "owner": "Cupsize_Ebet",
-    "status": "Занято",
-    "x": 412.1019,
-    "y": 1385.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18624,13 +18600,13 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1558,
+    "id": 1559,
     "server_id": 19,
     "type": "house",
-    "name": "Дом",
-    "owner": "Dmitry_Shadrin",
+    "name": "lunixnapike",
+    "owner": "Jovanny_Dunlap",
     "status": "Занято",
-    "x": 1938.74,
+    "x": 1945.53,
     "y": 663.577,
     "price": 0,
     "district": "Сан-Андреас"
@@ -19332,6 +19308,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1619,
+    "server_id": 19,
+    "type": "house",
+    "name": "34123413",
+    "owner": "Xanax_XR",
+    "status": "Занято",
+    "x": 1792.42,
+    "y": 2744.45,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1620,
     "server_id": 19,
     "type": "house",
@@ -19532,18 +19520,6 @@
     "status": "Занято",
     "x": 1802.62,
     "y": 2826.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1637,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Cupsize_Ebet",
-    "status": "Занято",
-    "x": 1801.82,
-    "y": 2823.51,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21936,30 +21912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1559,
-    "server_id": 19,
-    "type": "house",
-    "name": "lunixnapike",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1945.53,
-    "y": 663.577,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1619,
-    "server_id": 19,
-    "type": "house",
-    "name": "34123413",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1792.42,
-    "y": 2744.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 351,
     "server_id": 19,
     "type": "house",
@@ -21996,15 +21948,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 732,
+    "id": 861,
     "server_id": 19,
     "type": "house",
-    "name": "moorefamq",
-    "owner": "ethan_moore",
+    "name": "Дом",
+    "owner": "Cupsize_Ebet",
     "status": "Аукцион",
-    "x": -2622.35,
-    "y": -198.1479,
-    "price": 70000000,
+    "x": -218.123,
+    "y": 2481.23,
+    "price": 10123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1076,
+    "server_id": 19,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Pari_Vision",
+    "status": "Аукцион",
+    "x": -2901.54,
+    "y": 1033.81,
+    "price": 20123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22020,6 +21984,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1406,
+    "server_id": 19,
+    "type": "house",
+    "name": "Хатредское владение.",
+    "owner": "Cupsize_Ebet",
+    "status": "Аукцион",
+    "x": 412.1019,
+    "y": 1385.15,
+    "price": 25123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1558,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dmitry_Shadrin",
+    "status": "Аукцион",
+    "x": 1938.74,
+    "y": 663.577,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1612,
     "server_id": 19,
     "type": "house",
@@ -22029,6 +22017,18 @@
     "x": 1787.59,
     "y": 2770.05,
     "price": 80000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1637,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Cupsize_Ebet",
+    "status": "Аукцион",
+    "x": 1801.82,
+    "y": 2823.51,
+    "price": 10123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23896,7 +23896,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Takumi_White",
+    "owner": "Shirin_Chernov",
     "status": "Занято",
     "x": -2356.45,
     "y": 1008.19,
