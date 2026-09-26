@@ -3420,18 +3420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hiroto_Buhoy",
-    "status": "Занято",
-    "x": 2219.28,
-    "y": -1031.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 286,
     "server_id": 17,
     "type": "house",
@@ -3572,18 +3560,6 @@
     "status": "Занято",
     "x": 2105.31,
     "y": -1056.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 298,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Korrigan_Morse",
-    "status": "Занято",
-    "x": 2092.26,
-    "y": -1067.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8748,18 +8724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 730,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Brian_Spillner",
-    "status": "Занято",
-    "x": 1618.29,
-    "y": 2801.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 731,
     "server_id": 17,
     "type": "house",
@@ -9632,18 +9596,6 @@
     "status": "Занято",
     "x": -2303.43,
     "y": 820.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 804,
-    "server_id": 17,
-    "type": "house",
-    "name": "Хата Донни#2",
-    "owner": "Makoto_Furukawa",
-    "status": "Занято",
-    "x": -2791.84,
-    "y": 218.639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11504,18 +11456,6 @@
     "status": "Занято",
     "x": -2158.75,
     "y": 786.197,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 960,
-    "server_id": 17,
-    "type": "house",
-    "name": "....:::Мой Домик:::....",
-    "owner": "Makoto_Furukawa",
-    "status": "Занято",
-    "x": -2158.94,
-    "y": 769.9379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22464,6 +22404,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 285,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2219.28,
+    "y": -1031.06,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 298,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Korrigan_Morse",
+    "status": "Аукцион",
+    "x": 2092.26,
+    "y": -1067.44,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 445,
     "server_id": 17,
     "type": "house",
@@ -22473,6 +22437,42 @@
     "x": 2439.9,
     "y": -1010.88,
     "price": 255000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 730,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1618.29,
+    "y": 2801.71,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 804,
+    "server_id": 17,
+    "type": "house",
+    "name": "Хата Донни#2",
+    "owner": "Makoto_Furukawa",
+    "status": "Аукцион",
+    "x": -2791.84,
+    "y": 218.639,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 960,
+    "server_id": 17,
+    "type": "house",
+    "name": "....:::Мой Домик:::....",
+    "owner": "Makoto_Furukawa",
+    "status": "Аукцион",
+    "x": -2158.94,
+    "y": 769.9379,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {

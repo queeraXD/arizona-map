@@ -9996,6 +9996,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 834,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия",
+    "owner": "Igoryan_Toretto",
+    "status": "Занято",
+    "x": -2029.84,
+    "y": 745.572,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 835,
     "server_id": 5,
     "type": "house",
@@ -10980,6 +10992,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 917,
+    "server_id": 5,
+    "type": "house",
+    "name": "Stromberg Inc.",
+    "owner": "Santal_Stromberg",
+    "status": "Занято",
+    "x": -2325.86,
+    "y": 944.7849,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 918,
     "server_id": 5,
     "type": "house",
@@ -11324,18 +11348,6 @@
     "status": "Занято",
     "x": -2066.61,
     "y": 796.3289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 947,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом импульса",
-    "owner": "Dostavka_Cuerto",
-    "status": "Занято",
-    "x": -2112.59,
-    "y": 796.4169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18456,18 +18468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1546,
-    "server_id": 5,
-    "type": "house",
-    "name": "2/6",
-    "owner": "Pie_Trooper",
-    "status": "Занято",
-    "x": 2532.24,
-    "y": 750.096,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1547,
     "server_id": 5,
     "type": "house",
@@ -22492,7 +22492,7 @@
     "server_id": 5,
     "type": "house",
     "name": "деп условия, подвал для майнинг",
-    "owner": "Dimon_Drakon",
+    "owner": "Sergio_Tohok",
     "status": "Занято",
     "x": 2440.71,
     "y": 1224.42,
@@ -23172,18 +23172,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1940,
-    "server_id": 5,
-    "type": "house",
-    "name": "LSMC * EMPIRE",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 2468.35,
-    "y": -1391.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1941,
     "server_id": 5,
     "type": "house",
@@ -23384,6 +23372,18 @@
     "status": "Занято",
     "x": 2492.21,
     "y": -1366.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1958,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igoryan_Toretto",
+    "status": "Занято",
+    "x": 2476.46,
+    "y": -1376.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25008,27 +25008,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 834,
+    "id": 947,
     "server_id": 5,
     "type": "house",
-    "name": "Без названия",
-    "owner": "Igoryan_Toretto",
+    "name": "cuerto squad",
+    "owner": "Dostavka_Cuerto",
     "status": "Аукцион",
-    "x": -2029.84,
-    "y": 745.572,
-    "price": 16000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 917,
-    "server_id": 5,
-    "type": "house",
-    "name": "Stromberg Inc.",
-    "owner": "Santal_Stromberg",
-    "status": "Аукцион",
-    "x": -2325.86,
-    "y": 944.7849,
-    "price": 900000000,
+    "x": -2112.59,
+    "y": 796.4169,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25092,6 +25080,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1546,
+    "server_id": 5,
+    "type": "house",
+    "name": "2/6",
+    "owner": "Pie_Trooper",
+    "status": "Аукцион",
+    "x": 2532.24,
+    "y": 750.096,
+    "price": 510000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1555,
     "server_id": 5,
     "type": "house",
@@ -25104,27 +25104,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1958,
+    "id": 1940,
     "server_id": 5,
     "type": "house",
-    "name": "Дом",
-    "owner": "Igoryan_Toretto",
+    "name": "LSMC * EMPIRE",
+    "owner": "Pasha_Caplya",
     "status": "Аукцион",
-    "x": 2476.46,
-    "y": -1376.54,
-    "price": 750000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 195,
-    "server_id": 5,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Radion_Morrison",
-    "status": "Аукцион",
-    "x": -1548.81,
-    "y": 673.91,
-    "price": 1000000,
+    "x": 2468.35,
+    "y": -1391.7,
+    "price": 666000123,
     "district": "Сан-Андреас"
   },
   {
@@ -27352,7 +27340,7 @@
     "server_id": 5,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Donatello_Donatov",
+    "owner": "Piter_Capone",
     "status": "Занято",
     "x": 2085.84,
     "y": 2486.25,
@@ -28100,6 +28088,18 @@
     "status": "Занято",
     "x": -2022.61,
     "y": 459.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 195,
+    "server_id": 5,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Jason_McDuck",
+    "status": "Занято",
+    "x": -1548.81,
+    "y": 673.91,
     "price": 0,
     "district": "Сан-Андреас"
   },

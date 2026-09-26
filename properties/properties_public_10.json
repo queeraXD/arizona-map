@@ -1119,8 +1119,8 @@
     "id": 93,
     "server_id": 10,
     "type": "house",
-    "name": "$ REVENANT FAMILY $",
-    "owner": "Schizo_Phrenia",
+    "name": "Perforator FAMILY",
+    "owner": "Dimas_Perforator",
     "status": "Занято",
     "x": 2016.54,
     "y": -1629.92,
@@ -2076,6 +2076,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 173,
+    "server_id": 10,
+    "type": "house",
+    "name": "Алінкін House",
+    "owner": "Jennie_Jackson",
+    "status": "Занято",
+    "x": 794.132,
+    "y": -1707.45,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 174,
     "server_id": 10,
     "type": "house",
@@ -2336,18 +2348,6 @@
     "status": "Занято",
     "x": 192.8079,
     "y": -1770.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 196,
-    "server_id": 10,
-    "type": "house",
-    "name": "Бар Желаний",
-    "owner": "Lankara_Nolia",
-    "status": "Занято",
-    "x": 167.158,
-    "y": -1758.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14220,18 +14220,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1188,
-    "server_id": 10,
-    "type": "house",
-    "name": "В шкафе куча рулеток и кейсов",
-    "owner": "Dustap_NeIgrok",
-    "status": "Занято",
-    "x": -2793.14,
-    "y": 21.3057,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1189,
     "server_id": 10,
     "type": "house",
@@ -21936,6 +21924,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1834,
+    "server_id": 10,
+    "type": "house",
+    "name": " < $ Karleone $ >",
+    "owner": "Dima_Kodov",
+    "status": "Занято",
+    "x": 2473.07,
+    "y": -1359.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1835,
     "server_id": 10,
     "type": "house",
@@ -22260,6 +22260,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1863,
+    "server_id": 10,
+    "type": "house",
+    "name": "travkaa",
+    "owner": "Dima_Topor",
+    "status": "Занято",
+    "x": 1796.76,
+    "y": 2861.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1864,
     "server_id": 10,
     "type": "house",
@@ -22380,18 +22392,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1874,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dustap_NeIgrok",
-    "status": "Занято",
-    "x": 2623.65,
-    "y": 2074.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1875,
     "server_id": 10,
     "type": "house",
@@ -22448,6 +22448,18 @@
     "status": "Занято",
     "x": 2623.65,
     "y": 2046.96,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1880,
+    "server_id": 10,
+    "type": "house",
+    "name": "Tolik",
+    "owner": "Vladimir_Mikhalych",
+    "status": "Занято",
+    "x": 2623.65,
+    "y": 2056.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23244,15 +23256,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 173,
+    "id": 196,
     "server_id": 10,
     "type": "house",
-    "name": "poksqd",
-    "owner": "Iflexick_Surprise",
+    "name": "Бар Желаний",
+    "owner": "Lankara_Nolia",
     "status": "Аукцион",
-    "x": 794.132,
-    "y": -1707.45,
-    "price": 200123123,
+    "x": 167.158,
+    "y": -1758.93,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23268,6 +23280,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1188,
+    "server_id": 10,
+    "type": "house",
+    "name": "В шкафе куча рулеток и кейсов",
+    "owner": "Dustap_NeIgrok",
+    "status": "Аукцион",
+    "x": -2793.14,
+    "y": 21.3057,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1266,
     "server_id": 10,
     "type": "house",
@@ -23276,7 +23300,7 @@
     "status": "Аукцион",
     "x": -2686.95,
     "y": 115.4,
-    "price": 200000000,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23296,23 +23320,11 @@
     "server_id": 10,
     "type": "house",
     "name": "VALINKA НУБ",
-    "owner": "Alexey_Grigor",
+    "owner": "Dustap_NeIgrok",
     "status": "Аукцион",
     "x": 2476.39,
     "y": -1410.34,
-    "price": 50123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1834,
-    "server_id": 10,
-    "type": "house",
-    "name": " < $ Karleone $ >",
-    "owner": "Alexey_Grigor",
-    "status": "Аукцион",
-    "x": 2473.07,
-    "y": -1359.1,
-    "price": 50123123,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23324,43 +23336,19 @@
     "status": "Аукцион",
     "x": 2487.54,
     "y": -1359.1,
-    "price": 200000000,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1863,
+    "id": 1874,
     "server_id": 10,
     "type": "house",
-    "name": "travkaa",
-    "owner": "Sinister_Surprise",
-    "status": "Аукцион",
-    "x": 1796.76,
-    "y": 2861.56,
-    "price": 5000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1880,
-    "server_id": 10,
-    "type": "house",
-    "name": "Tolik",
-    "owner": "Metka_Doma",
+    "name": "Ферма АСК 5лвла в подвале",
+    "owner": "Dustap_NeIgrok",
     "status": "Аукцион",
     "x": 2623.65,
-    "y": 2056.25,
-    "price": 30000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 218,
-    "server_id": 10,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Schizo_Phrenia",
-    "status": "Аукцион",
-    "x": 1500.24,
-    "y": -1628.79,
-    "price": 6300000000,
+    "y": 2074.79,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26540,6 +26528,18 @@
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 218,
+    "server_id": 10,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Schizo_Phrenia",
+    "status": "Занято",
+    "x": 1500.24,
+    "y": -1628.79,
     "price": 0,
     "district": "Сан-Андреас"
   },

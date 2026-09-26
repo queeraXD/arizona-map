@@ -1972,7 +1972,7 @@
     "server_id": 28,
     "type": "house",
     "name": "TopHouse",
-    "owner": "Archive_IzSna",
+    "owner": "Bancarovz_Solitude",
     "status": "Занято",
     "x": 969.789,
     "y": -1811.54,
@@ -5032,7 +5032,7 @@
     "server_id": 28,
     "type": "house",
     "name": "ДЕП УСЛОВИЯ",
-    "owner": "Archive_IzSna",
+    "owner": "Bancarovz_Solitude",
     "status": "Занято",
     "x": 1293.68,
     "y": 157.382,
@@ -5408,6 +5408,18 @@
     "status": "Занято",
     "x": 1845.81,
     "y": 741.2369,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 451,
+    "server_id": 28,
+    "type": "house",
+    "name": "Будка Слима",
+    "owner": "Slim_MasterCard",
+    "status": "Занято",
+    "x": 1844.78,
+    "y": 690.3439,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6620,6 +6632,18 @@
     "status": "Занято",
     "x": -262.811,
     "y": 966.9879,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 553,
+    "server_id": 28,
+    "type": "house",
+    "name": "НАЙТ МАЙН",
+    "owner": "Tornadikor_Nedilskyi",
+    "status": "Занято",
+    "x": 378.1589,
+    "y": 1123.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7868,6 +7892,18 @@
     "status": "Занято",
     "x": 1030.52,
     "y": 1928.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 658,
+    "server_id": 28,
+    "type": "house",
+    "name": "СТРАХА_НЕТ",
+    "owner": "Sinister_Christmas",
+    "status": "Занято",
+    "x": 1028.89,
+    "y": 1905.89,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10976,6 +11012,18 @@
     "status": "Занято",
     "x": -2282.39,
     "y": 1070.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 921,
+    "server_id": 28,
+    "type": "house",
+    "name": "Другие дороги)",
+    "owner": "Xanax_XR",
+    "status": "Занято",
+    "x": -2282.07,
+    "y": 1089.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21852,18 +21900,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1830,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kent_Sworowski",
-    "status": "Занято",
-    "x": -115.554,
-    "y": 1046.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1831,
     "server_id": 28,
     "type": "house",
@@ -22284,42 +22320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 451,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kodjo_Lemonte",
-    "status": "Аукцион",
-    "x": 1844.78,
-    "y": 690.3439,
-    "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 553,
-    "server_id": 28,
-    "type": "house",
-    "name": "НАЙТ МАЙН",
-    "owner": "Kodjo_Lemonte",
-    "status": "Аукцион",
-    "x": 378.1589,
-    "y": 1123.55,
-    "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 658,
-    "server_id": 28,
-    "type": "house",
-    "name": "СТРАХА_НЕТ",
-    "owner": "Sinister_Christmas",
-    "status": "Аукцион",
-    "x": 1028.89,
-    "y": 1905.89,
-    "price": 200123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 688,
     "server_id": 28,
     "type": "house",
@@ -22344,18 +22344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 921,
-    "server_id": 28,
-    "type": "house",
-    "name": "Другие дороги)",
-    "owner": "Xanax_XR",
-    "status": "Аукцион",
-    "x": -2282.07,
-    "y": 1089.04,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1679,
     "server_id": 28,
     "type": "house",
@@ -22365,6 +22353,18 @@
     "x": -760.603,
     "y": 2765.4,
     "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1830,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kent_Sworowski",
+    "status": "Аукцион",
+    "x": -115.554,
+    "y": 1046.7,
+    "price": 1100000,
     "district": "Сан-Андреас"
   },
   {
@@ -23500,7 +23500,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Рекламное агентство СФ",
-    "owner": "Lorenso_Abudabi",
+    "owner": "Yko_Ban",
     "status": "Занято",
     "x": -2226.2,
     "y": 252.005,
@@ -24520,7 +24520,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Marin_Kitagawa",
+    "owner": "Brian_Crozier",
     "status": "Занято",
     "x": 1957.1,
     "y": -2183.62,
@@ -26020,7 +26020,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Кинотеатр AZMAX",
-    "owner": "Yko_Ban",
+    "owner": "Lorenso_Abudabi",
     "status": "Занято",
     "x": -2591.49,
     "y": 170.493,

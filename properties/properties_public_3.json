@@ -324,6 +324,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 27,
+    "server_id": 3,
+    "type": "house",
+    "name": "Crazy House ",
+    "owner": "Crazy_Rich",
+    "status": "Занято",
+    "x": 2229.54,
+    "y": -1241.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 28,
     "server_id": 3,
     "type": "house",
@@ -8064,18 +8076,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 673,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом Утки",
-    "owner": "Chio_Rio",
-    "status": "Занято",
-    "x": 930.3229,
-    "y": 1928.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 674,
     "server_id": 3,
     "type": "house",
@@ -9596,6 +9596,18 @@
     "status": "Занято",
     "x": -2358.42,
     "y": 820.0349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 801,
+    "server_id": 3,
+    "type": "house",
+    "name": "pes family",
+    "owner": "In_Jury",
+    "status": "Занято",
+    "x": -2340.03,
+    "y": 820.0209,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12236,6 +12248,18 @@
     "status": "Занято",
     "x": -2075.1,
     "y": 899.195,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1023,
+    "server_id": 3,
+    "type": "house",
+    "name": "Особняк Маттео Инсайда",
+    "owner": "Nox_Nostra",
+    "status": "Занято",
+    "x": -2034.32,
+    "y": 901.6989,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16860,6 +16884,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1412,
+    "server_id": 3,
+    "type": "house",
+    "name": "Илья Заводчанин",
+    "owner": "Ilya_Zavodchanin",
+    "status": "Занято",
+    "x": 2816.49,
+    "y": 2268.73,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1413,
     "server_id": 3,
     "type": "house",
@@ -16900,7 +16936,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Будь как дома путник!",
-    "owner": "Angelina_Burma",
+    "owner": "Burman_Collantes",
     "status": "Занято",
     "x": 2536.31,
     "y": 128.985,
@@ -17168,18 +17204,6 @@
     "status": "Занято",
     "x": 1754.51,
     "y": 2736.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1439,
-    "server_id": 3,
-    "type": "house",
-    "name": "бурмалда",
-    "owner": "Akiro_Ken",
-    "status": "Занято",
-    "x": 1743.6,
-    "y": 2733.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19892,6 +19916,18 @@
     "status": "Занято",
     "x": 2608.15,
     "y": -1216.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1666,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Amateo_Immortal",
+    "status": "Занято",
+    "x": 2615.11,
+    "y": -1220.47,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23916,39 +23952,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
+    "id": 673,
     "server_id": 3,
     "type": "house",
-    "name": "Crazy House ",
-    "owner": "Crazy_Rich",
+    "name": "Набор архитектора+майнинг ферма",
+    "owner": "Chio_Rio",
     "status": "Аукцион",
-    "x": 2229.54,
-    "y": -1241.34,
-    "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 801,
-    "server_id": 3,
-    "type": "house",
-    "name": "pes family",
-    "owner": "In_Jury",
-    "status": "Аукцион",
-    "x": -2340.03,
-    "y": 820.0209,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1023,
-    "server_id": 3,
-    "type": "house",
-    "name": "Особняк Маттео Инсайда",
-    "owner": "Nox_Nostra",
-    "status": "Аукцион",
-    "x": -2034.32,
-    "y": 901.6989,
-    "price": 10000000000,
+    "x": 930.3229,
+    "y": 1928.11,
+    "price": 140000,
     "district": "Сан-Андреас"
   },
   {
@@ -23956,11 +23968,11 @@
     "server_id": 3,
     "type": "house",
     "name": "кладменчики",
-    "owner": "Postavshik_Snaryadov",
+    "owner": "Jesi_Pinkman",
     "status": "Аукцион",
     "x": -2792.15,
     "y": -145.9409,
-    "price": 500000000,
+    "price": 999100100,
     "district": "Сан-Андреас"
   },
   {
@@ -23984,31 +23996,19 @@
     "status": "Аукцион",
     "x": -2382.97,
     "y": 1299.76,
-    "price": 1000000000,
+    "price": 99999999,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1412,
+    "id": 1439,
     "server_id": 3,
     "type": "house",
-    "name": "Дом Венчика 3",
-    "owner": "Ignat_Sadovoy",
+    "name": "бурмалда",
+    "owner": "Akiro_Ken",
     "status": "Аукцион",
-    "x": 2816.49,
-    "y": 2268.73,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1666,
-    "server_id": 3,
-    "type": "house",
-    "name": "Private Property",
-    "owner": "John_Neapole",
-    "status": "Аукцион",
-    "x": 2615.11,
-    "y": -1220.47,
-    "price": 350000000,
+    "x": 1743.6,
+    "y": 2733.09,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
