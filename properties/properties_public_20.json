@@ -5784,18 +5784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 483,
-    "server_id": 20,
-    "type": "house",
-    "name": "Black Home",
-    "owner": "Nekich_Bossov",
-    "status": "Занято",
-    "x": 2177.57,
-    "y": 735.885,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 484,
     "server_id": 20,
     "type": "house",
@@ -6200,18 +6188,6 @@
     "status": "Занято",
     "x": 1641.34,
     "y": 2044.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 518,
-    "server_id": 20,
-    "type": "house",
-    "name": "Marvin Squart",
-    "owner": "Nekich_Bossov",
-    "status": "Занято",
-    "x": 1595.41,
-    "y": 2070.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19056,18 +19032,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1589,
-    "server_id": 20,
-    "type": "house",
-    "name": "House",
-    "owner": "White_City",
-    "status": "Занято",
-    "x": 2824.04,
-    "y": 2268.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1590,
     "server_id": 20,
     "type": "house",
@@ -20136,18 +20100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1679,
-    "server_id": 20,
-    "type": "house",
-    "name": "Paradox <3",
-    "owner": "Nekich_Bossov",
-    "status": "Занято",
-    "x": 1731.1,
-    "y": 2823.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1680,
     "server_id": 20,
     "type": "house",
@@ -20752,7 +20704,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Nights Monopoly",
-    "owner": "Jake_Kennett",
+    "owner": "Karlos_Nights",
     "status": "Занято",
     "x": 2468.32,
     "y": -1376.27,
@@ -21060,18 +21012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1760,
-    "server_id": 20,
-    "type": "house",
-    "name": "Пажилой HOUSE 1760",
-    "owner": "Nekich_Bossov",
-    "status": "Занято",
-    "x": 1739.45,
-    "y": 2792.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1761,
     "server_id": 20,
     "type": "house",
@@ -21372,18 +21312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1788,
-    "server_id": 20,
-    "type": "house",
-    "name": "Пажилой HOUSE 1788",
-    "owner": "Nekich_Bossov",
-    "status": "Занято",
-    "x": 2623.65,
-    "y": 2056.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1789,
     "server_id": 20,
     "type": "house",
@@ -21440,18 +21368,6 @@
     "status": "Занято",
     "x": 2623.66,
     "y": 2058.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1794,
-    "server_id": 20,
-    "type": "house",
-    "name": "Пажилой HOUSE 1794",
-    "owner": "Nekich_Bossov",
-    "status": "Занято",
-    "x": 2623.65,
-    "y": 2048.75,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22284,6 +22200,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 483,
+    "server_id": 20,
+    "type": "house",
+    "name": "Black Home",
+    "owner": "Nekich_Bossov",
+    "status": "Аукцион",
+    "x": 2177.57,
+    "y": 735.885,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 518,
+    "server_id": 20,
+    "type": "house",
+    "name": "Marvin Squart",
+    "owner": "Nekich_Bossov",
+    "status": "Аукцион",
+    "x": 1595.41,
+    "y": 2070.99,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1589,
+    "server_id": 20,
+    "type": "house",
+    "name": "House",
+    "owner": "White_City",
+    "status": "Аукцион",
+    "x": 2824.04,
+    "y": 2268.71,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1679,
+    "server_id": 20,
+    "type": "house",
+    "name": "Paradox <3",
+    "owner": "Nekich_Bossov",
+    "status": "Аукцион",
+    "x": 1731.1,
+    "y": 2823.49,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1712,
     "server_id": 20,
     "type": "house",
@@ -22332,6 +22296,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1760,
+    "server_id": 20,
+    "type": "house",
+    "name": "Пажилой HOUSE 1760",
+    "owner": "Nekich_Bossov",
+    "status": "Аукцион",
+    "x": 1739.45,
+    "y": 2792.26,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1770,
     "server_id": 20,
     "type": "house",
@@ -22353,6 +22329,30 @@
     "x": 1796.59,
     "y": 2803.59,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1788,
+    "server_id": 20,
+    "type": "house",
+    "name": "Пажилой HOUSE 1788",
+    "owner": "Nekich_Bossov",
+    "status": "Аукцион",
+    "x": 2623.65,
+    "y": 2056.32,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1794,
+    "server_id": 20,
+    "type": "house",
+    "name": "Пажилой HOUSE 1794",
+    "owner": "Nekich_Bossov",
+    "status": "Аукцион",
+    "x": 2623.65,
+    "y": 2048.75,
+    "price": 250123123,
     "district": "Сан-Андреас"
   },
   {

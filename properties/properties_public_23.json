@@ -4872,18 +4872,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 412,
-    "server_id": 23,
-    "type": "house",
-    "name": "Darkside",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 1435.43,
-    "y": 334.625,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 413,
     "server_id": 23,
     "type": "house",
@@ -6208,7 +6196,7 @@
     "server_id": 23,
     "type": "house",
     "name": "DYX",
-    "owner": "RasL_Dark",
+    "owner": "Ozi_Dark",
     "status": "Занято",
     "x": 1641.14,
     "y": 2149.78,
@@ -12148,7 +12136,7 @@
     "server_id": 23,
     "type": "house",
     "name": "С деп условием",
-    "owner": "RasL_Dark",
+    "owner": "Ozi_Dark",
     "status": "Занято",
     "x": -2511.04,
     "y": 942.551,
@@ -14540,6 +14528,18 @@
     "status": "Занято",
     "x": -2451.2,
     "y": 1141.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1222,
+    "server_id": 23,
+    "type": "house",
+    "name": "Blackwell House",
+    "owner": "Alina_Yamazaki",
+    "status": "Занято",
+    "x": -2477.25,
+    "y": 1244.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21108,6 +21108,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 412,
+    "server_id": 23,
+    "type": "house",
+    "name": "Darkside",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": 1435.43,
+    "y": 334.625,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 746,
     "server_id": 23,
     "type": "house",
@@ -21144,18 +21156,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1222,
-    "server_id": 23,
-    "type": "house",
-    "name": "Blackwell House",
-    "owner": "[30]Kimmi_Toxiclamee",
-    "status": "Аукцион",
-    "x": -2477.25,
-    "y": 1244.44,
-    "price": 300123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1709,
     "server_id": 23,
     "type": "house",
@@ -21165,6 +21165,42 @@
     "x": 793.4169,
     "y": 1991.83,
     "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 61,
+    "server_id": 23,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Donny_Doberman",
+    "status": "Аукцион",
+    "x": 663.131,
+    "y": 1716.35,
+    "price": 350000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 76,
+    "server_id": 23,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Donny_Doberman",
+    "status": "Аукцион",
+    "x": -179.189,
+    "y": 1133.15,
+    "price": 350000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 209,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Donny_Doberman",
+    "status": "Аукцион",
+    "x": 1976.18,
+    "y": -1980.19,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21840,18 +21876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 76,
-    "server_id": 23,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Donny_Doberman",
-    "status": "Занято",
-    "x": -179.189,
-    "y": 1133.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 77,
     "server_id": 23,
     "type": "business",
@@ -22508,18 +22532,6 @@
     "status": "Занято",
     "x": 1599.11,
     "y": 2221.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 61,
-    "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Donny_Doberman",
-    "status": "Занято",
-    "x": 663.131,
-    "y": 1716.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24308,18 +24320,6 @@
     "status": "Занято",
     "x": 194.751,
     "y": -273.823,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 209,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Donny_Doberman",
-    "status": "Занято",
-    "x": 1976.18,
-    "y": -1980.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -12624,18 +12624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1054,
-    "server_id": 12,
-    "type": "house",
-    "name": "Домик",
-    "owner": "Kvinki_Mirage",
-    "status": "Занято",
-    "x": -1901.98,
-    "y": 1239.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1055,
     "server_id": 12,
     "type": "house",
@@ -17124,18 +17112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1430,
-    "server_id": 12,
-    "type": "house",
-    "name": "Крутая халупа",
-    "owner": "Pes_Family",
-    "status": "Занято",
-    "x": 784.4,
-    "y": -1436.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1431,
     "server_id": 12,
     "type": "house",
@@ -17144,6 +17120,30 @@
     "status": "Занято",
     "x": 782.793,
     "y": -1464.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1432,
+    "server_id": 12,
+    "type": "house",
+    "name": "Крутая халупа",
+    "owner": "Sila_Repa",
+    "status": "Занято",
+    "x": 771.129,
+    "y": -1510.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1433,
+    "server_id": 12,
+    "type": "house",
+    "name": "Крутая халупа",
+    "owner": "Wiu_Wiu",
+    "status": "Занято",
+    "x": 761.057,
+    "y": -1564.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18320,18 +18320,6 @@
     "status": "Занято",
     "x": 718.695,
     "y": -1476.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1532,
-    "server_id": 12,
-    "type": "house",
-    "name": "YARIK HOUSE",
-    "owner": "Yarik_Papiros",
-    "status": "Занято",
-    "x": 761.2109,
-    "y": -1507.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23760,6 +23748,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1054,
+    "server_id": 12,
+    "type": "house",
+    "name": "Домик",
+    "owner": "Kvinki_Mirage",
+    "status": "Аукцион",
+    "x": -1901.98,
+    "y": 1239.8,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1078,
     "server_id": 12,
     "type": "house",
@@ -23772,27 +23772,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1432,
+    "id": 1430,
     "server_id": 12,
     "type": "house",
     "name": "Крутая халупа",
-    "owner": "Sila_Repa",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 771.129,
-    "y": -1510.68,
-    "price": 2000000000,
+    "x": 784.4,
+    "y": -1436.02,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1433,
+    "id": 1532,
     "server_id": 12,
     "type": "house",
-    "name": "Крутая халупа",
-    "owner": "Wiu_Wiu",
+    "name": "YARIK HOUSE",
+    "owner": "Yarik_Papiros",
     "status": "Аукцион",
-    "x": 761.057,
-    "y": -1564.18,
-    "price": 2000000000,
+    "x": 761.2109,
+    "y": -1507.95,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23829,6 +23829,18 @@
     "x": 2135.145,
     "y": 2379.054,
     "price": 360000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 206,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1381.1,
+    "y": -1805.03,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26924,18 +26936,6 @@
     "status": "Занято",
     "x": 1136.92,
     "y": -1750.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 206,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Savage_WhyNot",
-    "status": "Занято",
-    "x": 1381.1,
-    "y": -1805.03,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -9588,18 +9588,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 801,
-    "server_id": 3,
-    "type": "house",
-    "name": "pes family",
-    "owner": "In_Jury",
-    "status": "Занято",
-    "x": -2340.03,
-    "y": 820.0209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 802,
     "server_id": 3,
     "type": "house",
@@ -14708,18 +14696,6 @@
     "status": "Занято",
     "x": -2383.14,
     "y": 1281.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1229,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Sorochenko",
-    "status": "Занято",
-    "x": -2382.97,
-    "y": 1299.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19956,18 +19932,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1666,
-    "server_id": 3,
-    "type": "house",
-    "name": "Private Property",
-    "owner": "John_Neapole",
-    "status": "Занято",
-    "x": 2615.11,
-    "y": -1220.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1667,
     "server_id": 3,
     "type": "house",
@@ -24009,6 +23973,42 @@
     "x": 312.3569,
     "y": 1068.43,
     "price": 350123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 801,
+    "server_id": 3,
+    "type": "house",
+    "name": "pes family",
+    "owner": "In_Jury",
+    "status": "Аукцион",
+    "x": -2340.03,
+    "y": 820.0209,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1229,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Sorochenko",
+    "status": "Аукцион",
+    "x": -2382.97,
+    "y": 1299.76,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1666,
+    "server_id": 3,
+    "type": "house",
+    "name": "Private Property",
+    "owner": "John_Neapole",
+    "status": "Аукцион",
+    "x": 2615.11,
+    "y": -1220.47,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {

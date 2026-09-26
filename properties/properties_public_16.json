@@ -888,6 +888,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 75,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Glebaryshnya",
+    "status": "Занято",
+    "x": 2327.28,
+    "y": -1682.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 76,
     "server_id": 16,
     "type": "house",
@@ -992,6 +1004,18 @@
     "status": "Занято",
     "x": 2068.13,
     "y": -1656.52,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 85,
+    "server_id": 16,
+    "type": "house",
+    "name": "big smoke house",
+    "owner": "Glebaryshnya",
+    "status": "Занято",
+    "x": 2065.77,
+    "y": -1703.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2400,18 +2424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 204,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "analnayaprobka",
-    "status": "Занято",
-    "x": 1527.47,
-    "y": -772.895,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 205,
     "server_id": 16,
     "type": "house",
@@ -2688,18 +2700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 228,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "analnayaprobka",
-    "status": "Занято",
-    "x": 672.7119,
-    "y": -1019.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 229,
     "server_id": 16,
     "type": "house",
@@ -2708,18 +2708,6 @@
     "status": "Занято",
     "x": 699.8419,
     "y": -1059.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 230,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "analnayaprobka",
-    "status": "Занято",
-    "x": 648.1329,
-    "y": -1058.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2744,18 +2732,6 @@
     "status": "Занято",
     "x": 552.9169,
     "y": -1200.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 233,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "analnayaprobka",
-    "status": "Занято",
-    "x": 470.8739,
-    "y": -1164.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2888,18 +2864,6 @@
     "status": "Занято",
     "x": 354.445,
     "y": -1280.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 245,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "analnayaprobka",
-    "status": "Занято",
-    "x": 398.14,
-    "y": -1271.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12700,7 +12664,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Xros_Markelovani",
+    "owner": "Frost_Mourn",
     "status": "Занято",
     "x": 2256.61,
     "y": -1396.43,
@@ -22416,30 +22380,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 75,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Glebaryshnya",
-    "status": "Аукцион",
-    "x": 2327.28,
-    "y": -1682.06,
-    "price": 3500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 85,
-    "server_id": 16,
-    "type": "house",
-    "name": "big smoke house",
-    "owner": "Glebaryshnya",
-    "status": "Аукцион",
-    "x": 2065.77,
-    "y": -1703.57,
-    "price": 7000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 203,
     "server_id": 16,
     "type": "house",
@@ -22449,6 +22389,66 @@
     "x": 1534.75,
     "y": -800.32,
     "price": 3200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 204,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "analnayaprobka",
+    "status": "Аукцион",
+    "x": 1527.47,
+    "y": -772.895,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 228,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "analnayaprobka",
+    "status": "Аукцион",
+    "x": 672.7119,
+    "y": -1019.91,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 230,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "analnayaprobka",
+    "status": "Аукцион",
+    "x": 648.1329,
+    "y": -1058.27,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 233,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "analnayaprobka",
+    "status": "Аукцион",
+    "x": 470.8739,
+    "y": -1164.12,
+    "price": 2800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 245,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "analnayaprobka",
+    "status": "Аукцион",
+    "x": 398.14,
+    "y": -1271.38,
+    "price": 3300000000,
     "district": "Сан-Андреас"
   },
   {
