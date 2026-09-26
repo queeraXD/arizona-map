@@ -17448,18 +17448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1456,
-    "server_id": 6,
-    "type": "house",
-    "name": "<A.Miro>",
-    "owner": "Maria_Borowa",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 614.1939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1457,
     "server_id": 6,
     "type": "house",
@@ -21564,18 +21552,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1799,
-    "server_id": 6,
-    "type": "house",
-    "name": "typeshi house",
-    "owner": "Mauro_Mancini",
-    "status": "Занято",
-    "x": 2468.29,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1800,
     "server_id": 6,
     "type": "house",
@@ -21727,18 +21703,6 @@
     "owner": "Brain_McLovin",
     "status": "Занято",
     "x": 2468.32,
-    "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1813,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Flawless_Lonely",
-    "status": "Занято",
-    "x": 2476.24,
     "y": -1376.27,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23036,18 +23000,6 @@
     "status": "Занято",
     "x": 2608.15,
     "y": -1224.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1924,
-    "server_id": 6,
-    "type": "house",
-    "name": "Империя Раков",
-    "owner": "Mauro_Mancini",
-    "status": "Занято",
-    "x": 2608.15,
-    "y": -1216.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24525,6 +24477,54 @@
     "x": -2506.39,
     "y": 1142.16,
     "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1456,
+    "server_id": 6,
+    "type": "house",
+    "name": "<A.Miro>",
+    "owner": "Maria_Borowa",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 614.1939,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1799,
+    "server_id": 6,
+    "type": "house",
+    "name": "typeshi house",
+    "owner": "Mauro_Mancini",
+    "status": "Аукцион",
+    "x": 2468.29,
+    "y": -1391.71,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1813,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Flawless_Lonely",
+    "status": "Аукцион",
+    "x": 2476.24,
+    "y": -1376.27,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1924,
+    "server_id": 6,
+    "type": "house",
+    "name": "Империя Раков",
+    "owner": "Mauro_Mancini",
+    "status": "Аукцион",
+    "x": 2608.15,
+    "y": -1216.26,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
