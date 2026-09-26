@@ -3364,7 +3364,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Lauren",
-    "owner": "Michael_Kitsune",
+    "owner": "Michael_Lauren",
     "status": "Занято",
     "x": 2413.57,
     "y": 61.4468,
@@ -7744,7 +7744,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Lauren House",
-    "owner": "Michael_Kitsune",
+    "owner": "Michael_Lauren",
     "status": "Занято",
     "x": 1978.33,
     "y": 715.1459,
@@ -10136,18 +10136,6 @@
     "status": "Занято",
     "x": -2227.81,
     "y": 1080.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 845,
-    "server_id": 20,
-    "type": "house",
-    "name": "Патио АвтоХолдинг",
-    "owner": "White_City",
-    "status": "Занято",
-    "x": -2209.65,
-    "y": 1079.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14428,7 +14416,7 @@
     "server_id": 20,
     "type": "house",
     "name": "poksqd",
-    "owner": "Michael_Kitsune",
+    "owner": "Michael_Lauren",
     "status": "Занято",
     "x": -2789.18,
     "y": 183.798,
@@ -19068,18 +19056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1589,
-    "server_id": 20,
-    "type": "house",
-    "name": "House",
-    "owner": "White_City",
-    "status": "Занято",
-    "x": 2824.04,
-    "y": 2268.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1590,
     "server_id": 20,
     "type": "house",
@@ -22353,6 +22329,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 845,
+    "server_id": 20,
+    "type": "house",
+    "name": "Патио АвтоХолдинг",
+    "owner": "White_City",
+    "status": "Аукцион",
+    "x": -2209.65,
+    "y": 1079.99,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1589,
+    "server_id": 20,
+    "type": "house",
+    "name": "House",
+    "owner": "White_City",
+    "status": "Аукцион",
+    "x": 2824.04,
+    "y": 2268.71,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
