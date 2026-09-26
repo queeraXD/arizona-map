@@ -2331,7 +2331,7 @@
     "id": 194,
     "server_id": 25,
     "type": "house",
-    "name": "Господин",
+    "name": "Dream",
     "owner": "Sam_Dream",
     "status": "Занято",
     "x": 206.955,
@@ -7680,18 +7680,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 640,
-    "server_id": 25,
-    "type": "house",
-    "name": "Steiner corporation",
-    "owner": "Serega_Yudin",
-    "status": "Занято",
-    "x": -247.8639,
-    "y": 1001.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 641,
     "server_id": 25,
     "type": "house",
@@ -7952,18 +7940,6 @@
     "status": "Занято",
     "x": 985.838,
     "y": 1901.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 663,
-    "server_id": 25,
-    "type": "house",
-    "name": "Лас вентурас",
-    "owner": "Michael_Rapaport",
-    "status": "Занято",
-    "x": 985.0139,
-    "y": 1930.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15140,18 +15116,6 @@
     "status": "Занято",
     "x": -2356.74,
     "y": 580.0269,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1265,
-    "server_id": 25,
-    "type": "house",
-    "name": "SF house",
-    "owner": "Demon_Paypal",
-    "status": "Занято",
-    "x": -2338.49,
-    "y": 580.0319,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23748,6 +23712,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 640,
+    "server_id": 25,
+    "type": "house",
+    "name": "Steiner corporation",
+    "owner": "Serega_Yudin",
+    "status": "Аукцион",
+    "x": -247.8639,
+    "y": 1001.56,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 663,
+    "server_id": 25,
+    "type": "house",
+    "name": "Лас вентурас",
+    "owner": "Michael_Rapaport",
+    "status": "Аукцион",
+    "x": 985.0139,
+    "y": 1930.67,
+    "price": 5500,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 878,
     "server_id": 25,
     "type": "house",
@@ -23769,6 +23757,18 @@
     "x": -2476.94,
     "y": 1311.03,
     "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1265,
+    "server_id": 25,
+    "type": "house",
+    "name": "SF house",
+    "owner": "Demon_Paypal",
+    "status": "Аукцион",
+    "x": -2338.49,
+    "y": 580.0319,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {

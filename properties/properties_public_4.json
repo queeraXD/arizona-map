@@ -10776,30 +10776,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 900,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Meo_Wizard",
-    "status": "Занято",
-    "x": -2069.44,
-    "y": -2561.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 901,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Meo_Wizard",
-    "status": "Занято",
-    "x": -2043.43,
-    "y": -2559.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 902,
     "server_id": 4,
     "type": "house",
@@ -11140,7 +11116,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Дом ткачівників",
-    "owner": "Sanya_Dobryk",
+    "owner": "Sanek_Ferritto",
     "status": "Занято",
     "x": -2358.66,
     "y": 797.265,
@@ -11372,6 +11348,18 @@
     "status": "Занято",
     "x": -2301.75,
     "y": 579.817,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 950,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ilya_Prokoko",
+    "status": "Занято",
+    "x": -2240.04,
+    "y": 1037.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24000,18 +23988,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2004,
-    "server_id": 4,
-    "type": "house",
-    "name": "autohotkey fam",
-    "owner": "Meo_Wizard",
-    "status": "Занято",
-    "x": 2492.12,
-    "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2005,
     "server_id": 4,
     "type": "house",
@@ -25236,15 +25212,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 950,
+    "id": 900,
     "server_id": 4,
     "type": "house",
     "name": "Дом",
-    "owner": "Earl_Long",
+    "owner": "Meo_Wizard",
     "status": "Аукцион",
-    "x": -2240.04,
-    "y": 1037.58,
-    "price": 400000000,
+    "x": -2069.44,
+    "y": -2561.04,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 901,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Meo_Wizard",
+    "status": "Аукцион",
+    "x": -2043.43,
+    "y": -2559.45,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25257,6 +25245,18 @@
     "x": 217.819,
     "y": -1766.35,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2004,
+    "server_id": 4,
+    "type": "house",
+    "name": "autohotkey fam",
+    "owner": "Meo_Wizard",
+    "status": "Аукцион",
+    "x": 2492.12,
+    "y": -1376.27,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {

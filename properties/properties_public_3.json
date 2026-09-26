@@ -324,18 +324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
-    "server_id": 3,
-    "type": "house",
-    "name": "Pistachio House",
-    "owner": "Leso_Polosa",
-    "status": "Занято",
-    "x": 2229.54,
-    "y": -1241.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 28,
     "server_id": 3,
     "type": "house",
@@ -6692,18 +6680,6 @@
     "status": "Занято",
     "x": 707.2399,
     "y": 1284.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 558,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": 312.3569,
-    "y": 1068.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24009,6 +23985,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 27,
+    "server_id": 3,
+    "type": "house",
+    "name": "Pistachio House",
+    "owner": "Leso_Polosa",
+    "status": "Аукцион",
+    "x": 2229.54,
+    "y": -1241.34,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 558,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": 312.3569,
+    "y": 1068.43,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {
