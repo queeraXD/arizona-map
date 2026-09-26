@@ -3699,7 +3699,7 @@
     "id": 308,
     "server_id": 28,
     "type": "house",
-    "name": "деп условия, аксы в шкафу",
+    "name": "пидарабус",
     "owner": "Jeffy_Undertaker",
     "status": "Занято",
     "x": 1912.61,
@@ -5352,6 +5352,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 446,
+    "server_id": 28,
+    "type": "house",
+    "name": "НАЙТ МАЙН",
+    "owner": "Cody_Nishman",
+    "status": "Занято",
+    "x": 2440.64,
+    "y": -1057.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 447,
     "server_id": 28,
     "type": "house",
@@ -5396,18 +5408,6 @@
     "status": "Занято",
     "x": 1845.81,
     "y": 741.2369,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 451,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kodjo_Lemonte",
-    "status": "Занято",
-    "x": 1844.78,
-    "y": 690.3439,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6620,18 +6620,6 @@
     "status": "Занято",
     "x": -262.811,
     "y": 966.9879,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 553,
-    "server_id": 28,
-    "type": "house",
-    "name": "НАЙТ МАЙН",
-    "owner": "Kodjo_Lemonte",
-    "status": "Занято",
-    "x": 378.1589,
-    "y": 1123.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9888,6 +9876,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 827,
+    "server_id": 28,
+    "type": "house",
+    "name": "Nakamura Fam",
+    "owner": "Anthony_Bosh",
+    "status": "Занято",
+    "x": -2724.29,
+    "y": -58.0475,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 828,
     "server_id": 28,
     "type": "house",
@@ -10932,18 +10932,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 916,
-    "server_id": 28,
-    "type": "house",
-    "name": "Moore Empire",
-    "owner": "Hiroto_Christmas",
-    "status": "Занято",
-    "x": -2159.79,
-    "y": 1030.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 917,
     "server_id": 28,
     "type": "house",
@@ -11156,6 +11144,18 @@
     "status": "Занято",
     "x": -2126.66,
     "y": 755.6099,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 936,
+    "server_id": 28,
+    "type": "house",
+    "name": "тгк platoncha",
+    "owner": "Tornadikor_Nedilskyi",
+    "status": "Занято",
+    "x": -2127.05,
+    "y": 773.752,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20064,18 +20064,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1679,
-    "server_id": 28,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Hiroto_Christmas",
-    "status": "Занято",
-    "x": -760.603,
-    "y": 2765.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1680,
     "server_id": 28,
     "type": "house",
@@ -20428,7 +20416,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Академика Королева 7",
-    "owner": "Filipp_Kirillov",
+    "owner": "Sqwore_Rizza",
     "status": "Занято",
     "x": 2417.74,
     "y": 1015.55,
@@ -21864,6 +21852,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1830,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kent_Sworowski",
+    "status": "Занято",
+    "x": -115.554,
+    "y": 1046.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1831,
     "server_id": 28,
     "type": "house",
@@ -22284,15 +22284,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 446,
+    "id": 451,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kodjo_Lemonte",
+    "status": "Аукцион",
+    "x": 1844.78,
+    "y": 690.3439,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 553,
     "server_id": 28,
     "type": "house",
     "name": "НАЙТ МАЙН",
-    "owner": "Shane_Shane",
+    "owner": "Kodjo_Lemonte",
     "status": "Аукцион",
-    "x": 2440.64,
-    "y": -1057.33,
-    "price": 20000000,
+    "x": 378.1589,
+    "y": 1123.55,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22320,15 +22332,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 827,
+    "id": 916,
     "server_id": 28,
     "type": "house",
-    "name": "DOMDOM",
-    "owner": "Travis_Viper",
+    "name": "Moore Empire",
+    "owner": "Hiroto_Christmas",
     "status": "Аукцион",
-    "x": -2724.29,
-    "y": -58.0475,
-    "price": 130000000,
+    "x": -2159.79,
+    "y": 1030.66,
+    "price": 40000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22344,27 +22356,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 936,
+    "id": 1679,
     "server_id": 28,
     "type": "house",
-    "name": "тгк platoncha",
-    "owner": "Pierce_Sheppard",
+    "name": "налдон ловит",
+    "owner": "Hiroto_Christmas",
     "status": "Аукцион",
-    "x": -2127.05,
-    "y": 773.752,
-    "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1830,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kent_Sworowski",
-    "status": "Аукцион",
-    "x": -115.554,
-    "y": 1046.7,
-    "price": 1100000,
+    "x": -760.603,
+    "y": 2765.4,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24112,7 +24112,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Aleksey_Alabaev",
+    "owner": "Larry_Morry",
     "status": "Занято",
     "x": 1879.19,
     "y": 2339.5,
@@ -26260,7 +26260,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Рыболовный магазин",
-    "owner": "Aleksey_Alabaev",
+    "owner": "Larry_Morry",
     "status": "Занято",
     "x": -1354.1,
     "y": 2057.64,

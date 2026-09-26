@@ -519,7 +519,7 @@
     "id": 43,
     "server_id": 26,
     "type": "house",
-    "name": "minetov gang",
+    "name": "Кобра",
     "owner": "Rambo_Stallone",
     "status": "Занято",
     "x": 2550.17,
@@ -3332,18 +3332,6 @@
     "status": "Занято",
     "x": 2549.37,
     "y": -1032.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 278,
-    "server_id": 26,
-    "type": "house",
-    "name": "Kamishini No Yari",
-    "owner": "Gleb_Burmaldancer",
-    "status": "Занято",
-    "x": 2526.83,
-    "y": -1033.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6656,18 +6644,6 @@
     "status": "Занято",
     "x": 352.9729,
     "y": 1099.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 555,
-    "server_id": 26,
-    "type": "house",
-    "name": "Хатка блядка",
-    "owner": "Mellstroy_Burmalda",
-    "status": "Занято",
-    "x": 1801.86,
-    "y": 2823.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12504,18 +12480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1045,
-    "server_id": 26,
-    "type": "house",
-    "name": "EmoSchool",
-    "owner": "Qwerty_Lq",
-    "status": "Занято",
-    "x": -1831.83,
-    "y": 1166.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1046,
     "server_id": 26,
     "type": "house",
@@ -15848,18 +15812,6 @@
     "status": "Занято",
     "x": 1447.38,
     "y": 361.768,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1325,
-    "server_id": 26,
-    "type": "house",
-    "name": "долг мики",
-    "owner": "Lex_Fonc",
-    "status": "Занято",
-    "x": 1461.16,
-    "y": 342.493,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21192,6 +21144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1770,
+    "server_id": 26,
+    "type": "house",
+    "name": "trupoedov",
+    "owner": "Avoid_Freeze",
+    "status": "Занято",
+    "x": 1796.6,
+    "y": 2803.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1771,
     "server_id": 26,
     "type": "house",
@@ -21796,7 +21760,7 @@
     "server_id": 26,
     "type": "house",
     "name": "деп условия",
-    "owner": "Magic_Monopoly",
+    "owner": "Avoid_Freeze",
     "status": "Занято",
     "x": 2826.08,
     "y": 2134.39,
@@ -23432,6 +23396,30 @@
     "status": "Занято",
     "x": -2618.75,
     "y": 831.004,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1959,
+    "server_id": 26,
+    "type": "house",
+    "name": "rastaman",
+    "owner": "Roman_Rastaman",
+    "status": "Занято",
+    "x": -2619.74,
+    "y": 845.3449,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1960,
+    "server_id": 26,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Sosa_Cristopher",
+    "status": "Занято",
+    "x": -2620.24,
+    "y": 883.114,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25104,27 +25092,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1770,
+    "id": 278,
     "server_id": 26,
     "type": "house",
-    "name": "trupoedov",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1796.6,
-    "y": 2803.6,
-    "price": 0,
+    "name": "waldemar fam",
+    "owner": "Gleb_Burmaldancer",
+    "status": "Аукцион",
+    "x": 2526.83,
+    "y": -1033.53,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1960,
+    "id": 555,
     "server_id": 26,
     "type": "house",
-    "name": "cuerto squad",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2620.24,
-    "y": 883.114,
-    "price": 0,
+    "name": "waldemarfam",
+    "owner": "Mellstroy_Burmalda",
+    "status": "Аукцион",
+    "x": 1801.86,
+    "y": 2823.5,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25152,6 +25140,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1045,
+    "server_id": 26,
+    "type": "house",
+    "name": "EmoSchool",
+    "owner": "Qwerty_Lq",
+    "status": "Аукцион",
+    "x": -1831.83,
+    "y": 1166.06,
+    "price": 25123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1186,
     "server_id": 26,
     "type": "house",
@@ -25164,6 +25164,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1325,
+    "server_id": 26,
+    "type": "house",
+    "name": "долг мики",
+    "owner": "Lex_Fonc",
+    "status": "Аукцион",
+    "x": 1461.16,
+    "y": 342.493,
+    "price": 5000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1817,
     "server_id": 26,
     "type": "house",
@@ -25173,18 +25185,6 @@
     "x": 2397.77,
     "y": 962.8809,
     "price": 20000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1959,
-    "server_id": 26,
-    "type": "house",
-    "name": "rastaman",
-    "owner": "Roman_Rastaman",
-    "status": "Аукцион",
-    "x": -2619.74,
-    "y": 845.3449,
-    "price": 60000000,
     "district": "Сан-Андреас"
   },
   {

@@ -6684,6 +6684,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 558,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Занято",
+    "x": 312.3569,
+    "y": 1068.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 559,
     "server_id": 3,
     "type": "house",
@@ -9915,8 +9927,8 @@
     "id": 829,
     "server_id": 3,
     "type": "house",
-    "name": "Casio Family",
-    "owner": "Dmitry_Kizak",
+    "name": "Ферма 10 LVL Найтика",
+    "owner": "Night_Indestructible",
     "status": "Занято",
     "x": -2720.98,
     "y": -23.3173,
@@ -12228,18 +12240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1023,
-    "server_id": 3,
-    "type": "house",
-    "name": "Особняк Маттео Инсайда",
-    "owner": "Matteo_Inside",
-    "status": "Занято",
-    "x": -2034.32,
-    "y": 901.6989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1024,
     "server_id": 3,
     "type": "house",
@@ -13836,18 +13836,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1157,
-    "server_id": 3,
-    "type": "house",
-    "name": "кладменчики",
-    "owner": "Postavshik_Snaryadov",
-    "status": "Занято",
-    "x": -2792.15,
-    "y": -145.9409,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1158,
     "server_id": 3,
     "type": "house",
@@ -13988,18 +13976,6 @@
     "status": "Занято",
     "x": -2793.14,
     "y": 10.9987,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1170,
-    "server_id": 3,
-    "type": "house",
-    "name": "$DAGESTAN SQUAD$",
-    "owner": "Cease_Fire",
-    "status": "Занято",
-    "x": -2793.14,
-    "y": 21.2695,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16880,18 +16856,6 @@
     "status": "Занято",
     "x": 2824.04,
     "y": 2275.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1412,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом Венчика 3",
-    "owner": "Ignat_Sadovoy",
-    "status": "Занято",
-    "x": 2816.49,
-    "y": 2268.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23955,24 +23919,12 @@
     "id": 27,
     "server_id": 3,
     "type": "house",
-    "name": "Pistachio House",
-    "owner": "Leso_Polosa",
+    "name": "Crazy House ",
+    "owner": "Crazy_Rich",
     "status": "Аукцион",
     "x": 2229.54,
     "y": -1241.34,
-    "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 558,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
-    "status": "Аукцион",
-    "x": 312.3569,
-    "y": 1068.43,
-    "price": 350123123,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23988,6 +23940,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1023,
+    "server_id": 3,
+    "type": "house",
+    "name": "Особняк Маттео Инсайда",
+    "owner": "Nox_Nostra",
+    "status": "Аукцион",
+    "x": -2034.32,
+    "y": 901.6989,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1157,
+    "server_id": 3,
+    "type": "house",
+    "name": "кладменчики",
+    "owner": "Postavshik_Snaryadov",
+    "status": "Аукцион",
+    "x": -2792.15,
+    "y": -145.9409,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1170,
+    "server_id": 3,
+    "type": "house",
+    "name": "$DAGESTAN SQUAD$",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2793.14,
+    "y": 21.2695,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1229,
     "server_id": 3,
     "type": "house",
@@ -23997,6 +23985,18 @@
     "x": -2382.97,
     "y": 1299.76,
     "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1412,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом Венчика 3",
+    "owner": "Ignat_Sadovoy",
+    "status": "Аукцион",
+    "x": 2816.49,
+    "y": 2268.73,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {

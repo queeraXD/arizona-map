@@ -7944,18 +7944,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 662,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Siegmund_Komissarov",
-    "status": "Занято",
-    "x": 985.838,
-    "y": 1901.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 663,
     "server_id": 31,
     "type": "house",
@@ -9992,18 +9980,6 @@
     "status": "Занято",
     "x": -2234.38,
     "y": 888.869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 833,
-    "server_id": 31,
-    "type": "house",
-    "name": "MINING 10 LVL (+15)",
-    "owner": "Bruda_Prototype",
-    "status": "Занято",
-    "x": -2234.63,
-    "y": 870.7579,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19572,6 +19548,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1633,
+    "server_id": 31,
+    "type": "house",
+    "name": "дроп с ларцов",
+    "owner": "Kaneki_Rimaru",
+    "status": "Занято",
+    "x": 25.5818,
+    "y": 1345.96,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1634,
+    "server_id": 31,
+    "type": "house",
+    "name": "empty",
+    "owner": "Kaneki_Rimaru",
+    "status": "Занято",
+    "x": 21.3752,
+    "y": 1344.13,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1635,
     "server_id": 31,
     "type": "house",
@@ -20979,7 +20979,7 @@
     "id": 1753,
     "server_id": 31,
     "type": "house",
-    "name": "Мой второй дом!",
+    "name": "Prototype",
     "owner": "Angel_Prototype",
     "status": "Занято",
     "x": 1795.88,
@@ -23328,27 +23328,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1633,
+    "id": 662,
     "server_id": 31,
     "type": "house",
-    "name": "дроп с ларцов",
-    "owner": "Kaneki_Rimaru",
+    "name": "Дом",
+    "owner": "Siegmund_Komissarov",
     "status": "Аукцион",
-    "x": 25.5818,
-    "y": 1345.96,
+    "x": 985.838,
+    "y": 1901.11,
     "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1634,
+    "id": 833,
     "server_id": 31,
     "type": "house",
-    "name": "empty",
-    "owner": "Kaneki_Rimaru",
+    "name": "MINING 10 LVL (+15)",
+    "owner": "Bruda_Prototype",
     "status": "Аукцион",
-    "x": 21.3752,
-    "y": 1344.13,
-    "price": 2000000000,
+    "x": -2234.63,
+    "y": 870.7579,
+    "price": 1600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 82,
+    "server_id": 31,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Mlnato_Rostik",
+    "status": "Аукцион",
+    "x": 1879.19,
+    "y": 2339.5,
+    "price": 142858,
     "district": "Сан-Андреас"
   },
   {
@@ -25088,18 +25100,6 @@
     "status": "Занято",
     "x": 2101.89,
     "y": 2228.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 82,
-    "server_id": 31,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Mlnato_Rostik",
-    "status": "Занято",
-    "x": 1879.19,
-    "y": 2339.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
