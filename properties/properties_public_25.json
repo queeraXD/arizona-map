@@ -1,5 +1,17 @@
 [
   {
+    "id": 0,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом Сереги Пирата",
+    "owner": "Sergey_Pirate",
+    "status": "Занято",
+    "x": 1885.88,
+    "y": -1113.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1,
     "server_id": 25,
     "type": "house",
@@ -488,18 +500,6 @@
     "status": "Занято",
     "x": 2492.1,
     "y": -1239.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 42,
-    "server_id": 25,
-    "type": "house",
-    "name": "Деп условия/подвал для майнинга",
-    "owner": "Vladimir_Saloedov",
-    "status": "Занято",
-    "x": 2550.99,
-    "y": -1233.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2295,7 +2295,7 @@
     "id": 192,
     "server_id": 25,
     "type": "house",
-    "name": "Reqwezz Family",
+    "name": "refund",
     "owner": "Stas_Refund",
     "status": "Занято",
     "x": 295.3489,
@@ -5427,7 +5427,7 @@
     "id": 453,
     "server_id": 25,
     "type": "house",
-    "name": "Дом",
+    "name": "only love C.C",
     "owner": "[27]Cemen_Bop",
     "status": "Занято",
     "x": 2011.48,
@@ -6144,18 +6144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 513,
-    "server_id": 25,
-    "type": "house",
-    "name": "ЛВ, майнинг, подвал",
-    "owner": "ImLeaving_ToTokyo",
-    "status": "Занято",
-    "x": 1548.62,
-    "y": 2125.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 514,
     "server_id": 25,
     "type": "house",
@@ -6840,18 +6828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 571,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Muhammad_Sallallahu",
-    "status": "Занято",
-    "x": 532.2399,
-    "y": 1301.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 572,
     "server_id": 25,
     "type": "house",
@@ -6944,30 +6920,6 @@
     "status": "Занято",
     "x": -2791.87,
     "y": -160.4669,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 580,
-    "server_id": 25,
-    "type": "house",
-    "name": "// photo squad //",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": -268.992,
-    "y": 2769.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 581,
-    "server_id": 25,
-    "type": "house",
-    "name": "// photo squad //",
-    "owner": "Eugene_Macedonsky",
-    "status": "Занято",
-    "x": -287.4519,
-    "y": 2758.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7940,6 +7892,18 @@
     "status": "Занято",
     "x": 985.838,
     "y": 1901.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 663,
+    "server_id": 25,
+    "type": "house",
+    "name": "Лас вентурас",
+    "owner": "Michael_Rapaport",
+    "status": "Занято",
+    "x": 985.0139,
+    "y": 1930.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9096,18 +9060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 760,
-    "server_id": 25,
-    "type": "house",
-    "name": "waldemarfam",
-    "owner": "Mark_Burmaldancer",
-    "status": "Занято",
-    "x": -2726.67,
-    "y": 822.992,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 761,
     "server_id": 25,
     "type": "house",
@@ -9651,8 +9603,8 @@
     "id": 806,
     "server_id": 25,
     "type": "house",
-    "name": "Дом Стиви ",
-    "owner": "Stasic_Ward",
+    "name": "home Маги",
+    "owner": "Maga_Config",
     "status": "Занято",
     "x": -2723.93,
     "y": -105.541,
@@ -10672,7 +10624,7 @@
     "server_id": 25,
     "type": "house",
     "name": "2 дом",
-    "owner": "Daniil_Krimbo",
+    "owner": "Berlin_Vzaly",
     "status": "Занято",
     "x": -2058.54,
     "y": -2503.38,
@@ -10708,7 +10660,7 @@
     "server_id": 25,
     "type": "house",
     "name": "1 дом ",
-    "owner": "Daniil_Krimbo",
+    "owner": "Iflexick_Stark",
     "status": "Занято",
     "x": -2067.89,
     "y": -2537.53,
@@ -10748,18 +10700,6 @@
     "status": "Занято",
     "x": -2043.12,
     "y": -2559.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 899,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Muhammad_Sallallahu",
-    "status": "Занято",
-    "x": -2069.05,
-    "y": -2561.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11931,7 +11871,7 @@
     "id": 997,
     "server_id": 25,
     "type": "house",
-    "name": "есть майнинг ферма ",
+    "name": "Дом",
     "owner": "Stalker_Suetologist",
     "status": "Занято",
     "x": -2373.39,
@@ -12592,7 +12532,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Aokitake Monopoly",
-    "owner": "Sailent_Durov",
+    "owner": "Mirko_Evils",
     "status": "Занято",
     "x": -2793.14,
     "y": -127.0989,
@@ -13088,6 +13028,18 @@
     "status": "Занято",
     "x": -2192.58,
     "y": 903.109,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1094,
+    "server_id": 25,
+    "type": "house",
+    "name": "poksqdd",
+    "owner": "Uil_Smit",
+    "status": "Занято",
+    "x": -2210.98,
+    "y": 902.885,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15128,18 +15080,6 @@
     "status": "Занято",
     "x": -2356.74,
     "y": 580.0269,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1265,
-    "server_id": 25,
-    "type": "house",
-    "name": "SF house",
-    "owner": "Demon_Paypal",
-    "status": "Занято",
-    "x": -2338.49,
-    "y": 580.0319,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17736,18 +17676,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1483,
-    "server_id": 25,
-    "type": "house",
-    "name": "7lvl",
-    "owner": "Payper_Lovit",
-    "status": "Занято",
-    "x": 885.4249,
-    "y": 2238.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1484,
     "server_id": 25,
     "type": "house",
@@ -18648,18 +18576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1559,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Muhammad_Sallallahu",
-    "status": "Занято",
-    "x": -2187.12,
-    "y": 795.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1560,
     "server_id": 25,
     "type": "house",
@@ -19416,6 +19332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1623,
+    "server_id": 25,
+    "type": "house",
+    "name": ">>CROSS<<",
+    "owner": "Vova_Cer",
+    "status": "Занято",
+    "x": 99.2854,
+    "y": 1179.52,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1624,
     "server_id": 25,
     "type": "house",
@@ -20012,6 +19940,18 @@
     "status": "Занято",
     "x": 2357.05,
     "y": 1010.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1674,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Cer",
+    "status": "Занято",
+    "x": 2363.18,
+    "y": 1006.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21000,18 +20940,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1758,
-    "server_id": 25,
-    "type": "house",
-    "name": "love Medina",
-    "owner": "Sinister_Yava",
-    "status": "Занято",
-    "x": 2003.68,
-    "y": 2159.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1759,
     "server_id": 25,
     "type": "house",
@@ -21096,18 +21024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1766,
-    "server_id": 25,
-    "type": "house",
-    "name": "Morgan",
-    "owner": "Vladimir_Saloedov",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2163.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1767,
     "server_id": 25,
     "type": "house",
@@ -21140,18 +21056,6 @@
     "status": "Занято",
     "x": 2003.69,
     "y": 2150.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1770,
-    "server_id": 25,
-    "type": "house",
-    "name": "Криптоферма 2",
-    "owner": "Muhammad_Sallallahu",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2145.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22032,18 +21936,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1846,
-    "server_id": 25,
-    "type": "house",
-    "name": "OPG BUGROV",
-    "owner": "Leiber_Berminik",
-    "status": "Занято",
-    "x": 2468.44,
-    "y": -1417.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1847,
     "server_id": 25,
     "type": "house",
@@ -22363,18 +22255,6 @@
     "owner": "Solomon_Adamov",
     "status": "Занято",
     "x": 2476.34,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1874,
-    "server_id": 25,
-    "type": "house",
-    "name": ">>CROSS<<",
-    "owner": "Muhammad_Sallallahu",
-    "status": "Занято",
-    "x": 2468.42,
     "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22868,18 +22748,6 @@
     "status": "Занято",
     "x": 1786.5,
     "y": 2867.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1916,
-    "server_id": 25,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Leiber_Berminik",
-    "status": "Занято",
-    "x": 1760.15,
-    "y": 2871.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23688,39 +23556,99 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 0,
+    "id": 42,
     "server_id": 25,
     "type": "house",
-    "name": "poksqd",
-    "owner": "Iflexick_Stark",
+    "name": "Деп условия/подвал для майнинга",
+    "owner": "Vladimir_Saloedov",
     "status": "Аукцион",
-    "x": 1885.88,
-    "y": -1113.56,
-    "price": 300123123,
+    "x": 2550.99,
+    "y": -1233.79,
+    "price": 999999999,
     "district": "Сан-Андреас"
   },
   {
-    "id": 663,
+    "id": 513,
     "server_id": 25,
     "type": "house",
-    "name": "Лас вентурас",
-    "owner": "Michael_Rapaport",
+    "name": "ЛВ, майнинг, подвал",
+    "owner": "ImLeaving_ToTokyo",
     "status": "Аукцион",
-    "x": 985.0139,
-    "y": 1930.67,
-    "price": 5000,
+    "x": 1548.62,
+    "y": 2125.54,
+    "price": 100123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1094,
+    "id": 571,
     "server_id": 25,
     "type": "house",
-    "name": "poksqdd",
-    "owner": "Iflexick_Stark",
+    "name": "Дом",
+    "owner": "Muhammad_Sallallahu",
     "status": "Аукцион",
-    "x": -2210.98,
-    "y": 902.885,
-    "price": 150123123,
+    "x": 532.2399,
+    "y": 1301.69,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 580,
+    "server_id": 25,
+    "type": "house",
+    "name": "// photo squad //",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": -268.992,
+    "y": 2769.35,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 581,
+    "server_id": 25,
+    "type": "house",
+    "name": "// photo squad //",
+    "owner": "Eugene_Macedonsky",
+    "status": "Аукцион",
+    "x": -287.4519,
+    "y": 2758.14,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 760,
+    "server_id": 25,
+    "type": "house",
+    "name": "waldemarfam",
+    "owner": "Mark_Burmaldancer",
+    "status": "Аукцион",
+    "x": -2726.67,
+    "y": 822.992,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 899,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Muhammad_Sallallahu",
+    "status": "Аукцион",
+    "x": -2069.05,
+    "y": -2561.36,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1265,
+    "server_id": 25,
+    "type": "house",
+    "name": "SF house",
+    "owner": "Demon_Paypal",
+    "status": "Аукцион",
+    "x": -2338.49,
+    "y": 580.0319,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23736,27 +23664,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1623,
+    "id": 1483,
     "server_id": 25,
     "type": "house",
-    "name": ">>CROSS<<",
-    "owner": "Vova_Cer",
+    "name": "7lvl",
+    "owner": "Payper_Lovit",
     "status": "Аукцион",
-    "x": 99.2854,
-    "y": 1179.52,
-    "price": 350000000,
+    "x": 885.4249,
+    "y": 2238.86,
+    "price": 100123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1674,
+    "id": 1559,
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Vova_Cer",
+    "owner": "Muhammad_Sallallahu",
     "status": "Аукцион",
-    "x": 2363.18,
-    "y": 1006.67,
-    "price": 350000000,
+    "x": -2187.12,
+    "y": 795.703,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23769,6 +23697,78 @@
     "x": 2541.53,
     "y": 1212.77,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1758,
+    "server_id": 25,
+    "type": "house",
+    "name": "love Medina",
+    "owner": "Sinister_Yava",
+    "status": "Аукцион",
+    "x": 2003.68,
+    "y": 2159.12,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1766,
+    "server_id": 25,
+    "type": "house",
+    "name": "Morgan",
+    "owner": "Vladimir_Saloedov",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2163.69,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1770,
+    "server_id": 25,
+    "type": "house",
+    "name": "Криптоферма 2",
+    "owner": "Muhammad_Sallallahu",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2145.29,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1846,
+    "server_id": 25,
+    "type": "house",
+    "name": "OPG BUGROV",
+    "owner": "Leiber_Berminik",
+    "status": "Аукцион",
+    "x": 2468.44,
+    "y": -1417.44,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1874,
+    "server_id": 25,
+    "type": "house",
+    "name": ">>CROSS<<",
+    "owner": "Muhammad_Sallallahu",
+    "status": "Аукцион",
+    "x": 2468.42,
+    "y": -1391.71,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1916,
+    "server_id": 25,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Leiber_Berminik",
+    "status": "Аукцион",
+    "x": 1760.15,
+    "y": 2871.03,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {

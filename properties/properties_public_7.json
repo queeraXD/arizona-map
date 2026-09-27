@@ -4824,18 +4824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
-    "status": "Занято",
-    "x": 2448.44,
-    "y": -11.0635,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 403,
     "server_id": 7,
     "type": "house",
@@ -7300,7 +7288,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Banana Mafia",
-    "owner": "Pim_Pim",
+    "owner": "Pim_Pin",
     "status": "Занято",
     "x": -766.3779,
     "y": 1614.21,
@@ -9928,7 +9916,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Dollarsik Dynasty",
-    "owner": "Dmitry_Dollarsik",
+    "owner": "Stu_Loving",
     "status": "Занято",
     "x": -2724.29,
     "y": -58.0475,
@@ -10780,7 +10768,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Sladkiy Mining",
-    "owner": "Sladkiy_Gadkiy",
+    "owner": "Mother_Teresa",
     "status": "Занято",
     "x": -2472.49,
     "y": 2451.18,
@@ -18204,6 +18192,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1517,
+    "server_id": 7,
+    "type": "house",
+    "name": "Lombard",
+    "owner": "Arturro_Gaty",
+    "status": "Занято",
+    "x": -2285.31,
+    "y": 829.2849,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1518,
     "server_id": 7,
     "type": "house",
@@ -18644,18 +18644,6 @@
     "status": "Занято",
     "x": 2488.02,
     "y": -1135.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1555,
-    "server_id": 7,
-    "type": "house",
-    "name": "Backwoods fam",
-    "owner": "Brazilian_Phonk",
-    "status": "Занято",
-    "x": 2510.57,
-    "y": -1132.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25536,15 +25524,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1517,
+    "id": 402,
     "server_id": 7,
     "type": "house",
-    "name": "Lombard",
-    "owner": "Arturro_Gaty",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
     "status": "Аукцион",
-    "x": -2285.31,
-    "y": 829.2849,
-    "price": 99000,
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 9999999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1555,
+    "server_id": 7,
+    "type": "house",
+    "name": "Backwoods fam",
+    "owner": "Brazilian_Phonk",
+    "status": "Аукцион",
+    "x": 2510.57,
+    "y": -1132.53,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
