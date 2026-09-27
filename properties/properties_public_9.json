@@ -771,23 +771,11 @@
     "id": 64,
     "server_id": 9,
     "type": "house",
-    "name": "Курилка <<Ежик в тумане>>",
+    "name": "Курилка<<Последний Вздох>>",
     "owner": "Baron_Scandino",
     "status": "Занято",
     "x": 2459.5,
     "y": -1691.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 65,
-    "server_id": 9,
-    "type": "house",
-    "name": "Yasuko House",
-    "owner": "Yasuko_Okamoto",
-    "status": "Занято",
-    "x": 2469.52,
-    "y": -1646.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -1544,6 +1532,18 @@
     "status": "Занято",
     "x": 1804.13,
     "y": -2124.36,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 130,
+    "server_id": 9,
+    "type": "house",
+    "name": "***Betson Home***",
+    "owner": "Veyron_Visconti",
+    "status": "Занято",
+    "x": 1782.05,
+    "y": -2126.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3228,18 +3228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 271,
-    "server_id": 9,
-    "type": "house",
-    "name": "***Betson Home***",
-    "owner": "Dashulik_Betson",
-    "status": "Занято",
-    "x": 2627.84,
-    "y": -1085.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 272,
     "server_id": 9,
     "type": "house",
@@ -3384,18 +3372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 284,
-    "server_id": 9,
-    "type": "house",
-    "name": "***Betson Home***",
-    "owner": "Dashulik_Betson",
-    "status": "Занято",
-    "x": 2462.37,
-    "y": -1011.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 285,
     "server_id": 9,
     "type": "house",
@@ -3464,18 +3440,6 @@
     "status": "Занято",
     "x": 726.442,
     "y": -1276.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 291,
-    "server_id": 9,
-    "type": "house",
-    "name": "***Betson Home***",
-    "owner": "Dashulik_Betson",
-    "status": "Занято",
-    "x": 2498.96,
-    "y": -1065.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5091,8 +5055,8 @@
     "id": 426,
     "server_id": 9,
     "type": "house",
-    "name": "Таверна <<Ведьма и Орел>>",
-    "owner": "Baron_Scandino",
+    "name": "Yasuko House",
+    "owner": "Yasuko_Okamoto",
     "status": "Занято",
     "x": 295.144,
     "y": -54.6627,
@@ -5103,8 +5067,8 @@
     "id": 427,
     "server_id": 9,
     "type": "house",
-    "name": "Трактир <<Мёртвый Анархист>>",
-    "owner": "Baron_Scandino",
+    "name": "Yasuko House",
+    "owner": "Yasuko_Okamoto",
     "status": "Занято",
     "x": 271.57,
     "y": -48.9888,
@@ -5168,18 +5132,6 @@
     "status": "Занято",
     "x": 2279.2,
     "y": -1076.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 433,
-    "server_id": 9,
-    "type": "house",
-    "name": "***Betson Home***",
-    "owner": "Dashulik_Betson",
-    "status": "Занято",
-    "x": 2284.16,
-    "y": -1046.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5412,6 +5364,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 453,
+    "server_id": 9,
+    "type": "house",
+    "name": "@Danill2607",
+    "owner": "Gregory_Tevzadze",
+    "status": "Занято",
+    "x": 2011.48,
+    "y": 694.596,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 454,
     "server_id": 9,
     "type": "house",
@@ -5444,6 +5408,18 @@
     "status": "Занято",
     "x": 2040.69,
     "y": 695.8619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 457,
+    "server_id": 9,
+    "type": "house",
+    "name": "***Betson Home***",
+    "owner": "Egor_Shiron",
+    "status": "Занято",
+    "x": 2069.02,
+    "y": 696.2709,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8464,7 +8440,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Black Ace Residence",
-    "owner": "Another_World",
+    "owner": "Sanya_Nnov",
     "status": "Занято",
     "x": 1666.97,
     "y": 2610.19,
@@ -8948,6 +8924,18 @@
     "status": "Занято",
     "x": -2671.31,
     "y": 927.4249,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 750,
+    "server_id": 9,
+    "type": "house",
+    "name": "тг vovkaarz, наб. Архи",
+    "owner": "Soda_Pugovkin",
+    "status": "Занято",
+    "x": -2652.27,
+    "y": 841.7739,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16296,6 +16284,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1364,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом Димасика №4",
+    "owner": "Dmitry_Martinov",
+    "status": "Занято",
+    "x": -2678.16,
+    "y": 200.4909,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1365,
     "server_id": 9,
     "type": "house",
@@ -17860,7 +17860,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Yasuko House",
-    "owner": "Yasuko_Okamoto",
+    "owner": "Yas_Uko",
     "status": "Занято",
     "x": -884.289,
     "y": 1538.28,
@@ -18248,6 +18248,18 @@
     "status": "Занято",
     "x": 2433.93,
     "y": -1303.46,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1528,
+    "server_id": 9,
+    "type": "house",
+    "name": "***Betson Home***",
+    "owner": "Breyn_Scoletti",
+    "status": "Занято",
+    "x": 2433.93,
+    "y": -1320.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18836,6 +18848,18 @@
     "status": "Занято",
     "x": 2394.78,
     "y": -1133.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1578,
+    "server_id": 9,
+    "type": "house",
+    "name": "FLUX FAMILY",
+    "owner": "Ziko_Morton",
+    "status": "Занято",
+    "x": 2373.94,
+    "y": -1138.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19503,7 +19527,7 @@
     "id": 1634,
     "server_id": 9,
     "type": "house",
-    "name": "Дом",
+    "name": "vice-city",
     "owner": "[25]Freez_Reez",
     "status": "Занято",
     "x": 1287.53,
@@ -20124,6 +20148,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1686,
+    "server_id": 9,
+    "type": "house",
+    "name": "Grove Street ",
+    "owner": "Non_Patta",
+    "status": "Занято",
+    "x": 2136.08,
+    "y": -1592.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1687,
     "server_id": 9,
     "type": "house",
@@ -20336,6 +20372,18 @@
     "status": "Занято",
     "x": 2043.32,
     "y": 776.101,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1705,
+    "server_id": 9,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Oleg_Pivassik",
+    "status": "Занято",
+    "x": 2073.37,
+    "y": -1583.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22680,6 +22728,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1905,
+    "server_id": 9,
+    "type": "house",
+    "name": "ТГ @Danill2607",
+    "owner": "Yragane_Hokage",
+    "status": "Занято",
+    "x": 2468.24,
+    "y": -1417.45,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1906,
     "server_id": 9,
     "type": "house",
@@ -23784,6 +23844,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 65,
+    "server_id": 9,
+    "type": "house",
+    "name": "Yasuko House",
+    "owner": "Yas_Uko",
+    "status": "Аукцион",
+    "x": 2469.52,
+    "y": -1646.46,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 98,
     "server_id": 9,
     "type": "house",
@@ -23796,111 +23868,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 130,
+    "id": 271,
     "server_id": 9,
     "type": "house",
     "name": "***Betson Home***",
     "owner": "Dashulik_Betson",
     "status": "Аукцион",
-    "x": 1782.05,
-    "y": -2126.31,
-    "price": 1200000000,
+    "x": 2627.84,
+    "y": -1085.08,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 453,
-    "server_id": 9,
-    "type": "house",
-    "name": "@Danill2607",
-    "owner": "Gregory_Tevzadze",
-    "status": "Аукцион",
-    "x": 2011.48,
-    "y": 694.596,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 457,
+    "id": 284,
     "server_id": 9,
     "type": "house",
     "name": "***Betson Home***",
     "owner": "Dashulik_Betson",
     "status": "Аукцион",
-    "x": 2069.02,
-    "y": 696.2709,
-    "price": 1200000000,
+    "x": 2462.37,
+    "y": -1011.12,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 750,
-    "server_id": 9,
-    "type": "house",
-    "name": "тг vovkaarz, наб. Архи",
-    "owner": "Soda_Pugovkin",
-    "status": "Аукцион",
-    "x": -2652.27,
-    "y": 841.7739,
-    "price": 9000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1364,
-    "server_id": 9,
-    "type": "house",
-    "name": "С набором архитектора",
-    "owner": "Dmitry_Martinov",
-    "status": "Аукцион",
-    "x": -2678.16,
-    "y": 200.4909,
-    "price": 5000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1528,
+    "id": 291,
     "server_id": 9,
     "type": "house",
     "name": "***Betson Home***",
     "owner": "Dashulik_Betson",
     "status": "Аукцион",
-    "x": 2433.93,
-    "y": -1320.66,
-    "price": 1200000000,
+    "x": 2498.96,
+    "y": -1065.56,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1578,
+    "id": 433,
     "server_id": 9,
     "type": "house",
-    "name": "FLUX FAMILY",
-    "owner": "Ziko_Morton",
+    "name": "***Betson Home***",
+    "owner": "Dashulik_Betson",
     "status": "Аукцион",
-    "x": 2373.94,
-    "y": -1138.92,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1686,
-    "server_id": 9,
-    "type": "house",
-    "name": "Grove Street ",
-    "owner": "Nekich_Bossov",
-    "status": "Аукцион",
-    "x": 2136.08,
-    "y": -1592.01,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1705,
-    "server_id": 9,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Oleg_Pivassik",
-    "status": "Аукцион",
-    "x": 2073.37,
-    "y": -1583.09,
-    "price": 1000000000,
+    "x": 2284.16,
+    "y": -1046.07,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23916,27 +23928,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1905,
-    "server_id": 9,
-    "type": "house",
-    "name": "ТГ @Danill2607",
-    "owner": "Gregory_Tevzadze",
-    "status": "Аукцион",
-    "x": 2468.24,
-    "y": -1417.45,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 90,
+    "id": 106,
     "server_id": 9,
     "type": "business",
-    "name": "Магазин одежды",
+    "name": "Закусочная",
     "owner": "Ever_Dream",
     "status": "Аукцион",
-    "x": 2802.89,
-    "y": 2430.66,
-    "price": 176000,
+    "x": -2335.81,
+    "y": -166.667,
+    "price": 235000,
     "district": "Сан-Андреас"
   },
   {
@@ -23949,18 +23949,6 @@
     "x": 2327.86,
     "y": 2421.25,
     "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 305,
-    "server_id": 9,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Jos_Muutan",
-    "status": "Аукцион",
-    "x": 2837.842,
-    "y": 1392.9,
-    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -24912,6 +24900,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 90,
+    "server_id": 9,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Central_London",
+    "status": "Занято",
+    "x": 2802.89,
+    "y": 2430.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 119,
     "server_id": 9,
     "type": "business",
@@ -25748,18 +25748,6 @@
     "status": "Занято",
     "x": -1213.8,
     "y": 1830.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 106,
-    "server_id": 9,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ever_Dream",
-    "status": "Занято",
-    "x": -2335.81,
-    "y": -166.667,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27656,6 +27644,18 @@
     "status": "Занято",
     "x": 1842.817,
     "y": 824.9045,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 305,
+    "server_id": 9,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Jos_Muutan",
+    "status": "Занято",
+    "x": 2837.842,
+    "y": 1392.9,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -2004,6 +2004,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 167,
+    "server_id": 12,
+    "type": "house",
+    "name": "подвал с вентиляцией ",
+    "owner": "Fernando_Kleno",
+    "status": "Занято",
+    "x": 922.007,
+    "y": -1803.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 168,
+    "server_id": 12,
+    "type": "house",
+    "name": "Indulgence Squad",
+    "owner": "Fernando_Kleno",
+    "status": "Занято",
+    "x": 910.28,
+    "y": -1802.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 169,
     "server_id": 12,
     "type": "house",
@@ -9948,18 +9972,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 831,
-    "server_id": 12,
-    "type": "house",
-    "name": "пусто",
-    "owner": "Tomi_Warriors",
-    "status": "Занято",
-    "x": -2723.0,
-    "y": 4.0472,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 832,
     "server_id": 12,
     "type": "house",
@@ -15831,7 +15843,7 @@
     "id": 1324,
     "server_id": 12,
     "type": "house",
-    "name": "Dynasty",
+    "name": "Dynasty x2 house",
     "owner": "Asho_Tik",
     "status": "Занято",
     "x": -688.2239,
@@ -23736,27 +23748,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 167,
+    "id": 831,
     "server_id": 12,
     "type": "house",
-    "name": "подвал с вентиляцией ",
-    "owner": "Fernando_Kleno",
+    "name": "пусто",
+    "owner": "Tomi_Warriors",
     "status": "Аукцион",
-    "x": 922.007,
-    "y": -1803.89,
-    "price": 777777777,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 168,
-    "server_id": 12,
-    "type": "house",
-    "name": "Indulgence Squad",
-    "owner": "Fernando_Kleno",
-    "status": "Аукцион",
-    "x": 910.28,
-    "y": -1802.68,
-    "price": 777777777,
+    "x": -2723.0,
+    "y": 4.0472,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23780,7 +23780,7 @@
     "status": "Аукцион",
     "x": -2789.17,
     "y": -181.2749,
-    "price": 850000000,
+    "price": 750000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23820,50 +23820,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 74,
-    "server_id": 12,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Old_Seller",
-    "status": "Аукцион",
-    "x": 2104.24,
-    "y": 2678.92,
-    "price": 7500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 149,
-    "server_id": 12,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Normalnyi_Paren",
-    "status": "Аукцион",
-    "x": 2135.145,
-    "y": 2379.054,
-    "price": 350000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 181,
+    "id": 198,
     "server_id": 12,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Arslan_Ihsanov",
+    "owner": "Teddy_Macknife",
     "status": "Аукцион",
-    "x": 2029.71,
-    "y": 986.64,
-    "price": 8200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 193,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Old_Seller",
-    "status": "Аукцион",
-    "x": 2405.02,
-    "y": -1933.97,
+    "x": -1826.43,
+    "y": -566.68,
     "price": 7500000000,
     "district": "Сан-Андреас"
   },
@@ -24512,6 +24476,18 @@
     "status": "Занято",
     "x": 1657.04,
     "y": 1741.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 74,
+    "server_id": 12,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Brendi_Beaumont",
+    "status": "Занято",
+    "x": 2104.24,
+    "y": 2678.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26400,6 +26376,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 149,
+    "server_id": 12,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Normalnyi_Paren",
+    "status": "Занято",
+    "x": 2135.145,
+    "y": 2379.054,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 150,
     "server_id": 12,
     "type": "business",
@@ -26652,6 +26640,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 181,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Arslan_Ihsanov",
+    "status": "Занято",
+    "x": 2029.71,
+    "y": 986.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 182,
     "server_id": 12,
     "type": "business",
@@ -26784,6 +26784,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 193,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Old_Seller",
+    "status": "Занято",
+    "x": 2405.02,
+    "y": -1933.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 194,
     "server_id": 12,
     "type": "business",
@@ -26828,18 +26840,6 @@
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 198,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Teddy_Macknife",
-    "status": "Занято",
-    "x": -1826.43,
-    "y": -566.68,
     "price": 0,
     "district": "Сан-Андреас"
   },

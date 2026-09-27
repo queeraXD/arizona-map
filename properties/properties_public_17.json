@@ -3420,6 +3420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 285,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Verify_Maratovich",
+    "status": "Занято",
+    "x": 2219.28,
+    "y": -1031.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 286,
     "server_id": 17,
     "type": "house",
@@ -7164,18 +7176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 599,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": -1482.54,
-    "y": 2702.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 600,
     "server_id": 17,
     "type": "house",
@@ -8732,6 +8732,18 @@
     "status": "Занято",
     "x": 1637.76,
     "y": 2802.02,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 730,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Klim_Kutuzov",
+    "status": "Занято",
+    "x": 1618.29,
+    "y": 2801.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11284,7 +11296,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Luna_Veil",
+    "owner": "Agnes_Mills",
     "status": "Занято",
     "x": -2295.25,
     "y": 969.6619,
@@ -20412,18 +20424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1705,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dostavka_Cuerto",
-    "status": "Занято",
-    "x": 2468.27,
-    "y": -1410.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1706,
     "server_id": 17,
     "type": "house",
@@ -20932,7 +20932,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Luna_Veil",
+    "owner": "Agnes_Mills",
     "status": "Занято",
     "x": 2707.31,
     "y": -1233.47,
@@ -21231,7 +21231,7 @@
     "id": 1778,
     "server_id": 17,
     "type": "house",
-    "name": "Дом",
+    "name": "Подсел не даёться",
     "owner": "Matthew_McDuck",
     "status": "Занято",
     "x": -12.6295,
@@ -22428,18 +22428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 2219.28,
-    "y": -1031.06,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 513,
     "server_id": 17,
     "type": "house",
@@ -22452,15 +22440,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 730,
+    "id": 599,
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
+    "owner": "Viper_Darkness",
     "status": "Аукцион",
-    "x": 1618.29,
-    "y": 2801.71,
-    "price": 10000000,
+    "x": -1482.54,
+    "y": 2702.66,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22472,19 +22460,19 @@
     "status": "Аукцион",
     "x": -2094.08,
     "y": 796.2789,
-    "price": 150000000,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 350,
+    "id": 1705,
     "server_id": 17,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Richard_Fouz",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dostavka_Cuerto",
     "status": "Аукцион",
-    "x": -2373.8,
-    "y": 910.117,
-    "price": 155000,
+    "x": 2468.27,
+    "y": -1410.34,
+    "price": 50123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23504,6 +23492,18 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 17,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Richard_Fouz",
+    "status": "Занято",
+    "x": -2373.8,
+    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25276,7 +25276,7 @@
     "server_id": 17,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Luna_Veil",
+    "owner": "Agnes_Mills",
     "status": "Занято",
     "x": -63.12,
     "y": 1208.9,
