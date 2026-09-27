@@ -2124,30 +2124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 177,
-    "server_id": 1,
-    "type": "house",
-    "name": "Ферма 4",
-    "owner": "Happy_Jacob",
-    "status": "Занято",
-    "x": 660.3449,
-    "y": -1599.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 178,
-    "server_id": 1,
-    "type": "house",
-    "name": "Ферма 5",
-    "owner": "Happy_Jacob",
-    "status": "Занято",
-    "x": 652.681,
-    "y": -1619.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 179,
     "server_id": 1,
     "type": "house",
@@ -2540,18 +2516,6 @@
     "status": "Занято",
     "x": 1034.62,
     "y": -812.7239,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 212,
-    "server_id": 1,
-    "type": "house",
-    "name": "<3 VineWood <3",
-    "owner": "Sega_XxL",
-    "status": "Занято",
-    "x": 1017.07,
-    "y": -762.8809,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -4652,18 +4616,6 @@
     "status": "Занято",
     "x": 2363.25,
     "y": 142.009,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 388,
-    "server_id": 1,
-    "type": "house",
-    "name": "Ферма 1",
-    "owner": "Happy_Jacob",
-    "status": "Занято",
-    "x": 2363.33,
-    "y": 116.068,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16128,18 +16080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1345,
-    "server_id": 1,
-    "type": "house",
-    "name": "Petliura",
-    "owner": "Simon_Petliura",
-    "status": "Занято",
-    "x": -2233.82,
-    "y": 870.525,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1346,
     "server_id": 1,
     "type": "house",
@@ -17020,7 +16960,7 @@
     "server_id": 1,
     "type": "house",
     "name": "HarrisFarm",
-    "owner": "David_Harris",
+    "owner": "Michaell_Corleone",
     "status": "Занято",
     "x": -2307.48,
     "y": 944.2559,
@@ -20028,18 +19968,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1670,
-    "server_id": 1,
-    "type": "house",
-    "name": "Продам Монополию 8 домов 25ккк",
-    "owner": "Sega_XxL",
-    "status": "Занято",
-    "x": 531.9219,
-    "y": 1301.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1671,
     "server_id": 1,
     "type": "house",
@@ -21532,7 +21460,7 @@
     "server_id": 1,
     "type": "house",
     "name": "HarrisFarm",
-    "owner": "David_Harris",
+    "owner": "Michaell_Corleone",
     "status": "Занято",
     "x": 2476.35,
     "y": -1383.92,
@@ -22084,7 +22012,7 @@
     "server_id": 1,
     "type": "house",
     "name": "HarrisFarm",
-    "owner": "David_Harris",
+    "owner": "Michaell_Corleone",
     "status": "Занято",
     "x": 782.6599,
     "y": 1937.19,
@@ -22132,7 +22060,7 @@
     "server_id": 1,
     "type": "house",
     "name": "HarrisFarm",
-    "owner": "David_Harris",
+    "owner": "Michaell_Corleone",
     "status": "Занято",
     "x": 793.3859,
     "y": 1991.87,
@@ -23084,18 +23012,6 @@
     "status": "Занято",
     "x": 1727.92,
     "y": 2834.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1927,
-    "server_id": 1,
-    "type": "house",
-    "name": "bridge to depression",
-    "owner": "Fun_Eclipse",
-    "status": "Занято",
-    "x": 1775.03,
-    "y": 2870.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24165,6 +24081,90 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 177,
+    "server_id": 1,
+    "type": "house",
+    "name": "Ферма 4",
+    "owner": "Happy_Jacob",
+    "status": "Аукцион",
+    "x": 660.3449,
+    "y": -1599.13,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 178,
+    "server_id": 1,
+    "type": "house",
+    "name": "Ферма 5",
+    "owner": "Happy_Jacob",
+    "status": "Аукцион",
+    "x": 652.681,
+    "y": -1619.61,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 212,
+    "server_id": 1,
+    "type": "house",
+    "name": "<3 VineWood <3",
+    "owner": "Sega_XxL",
+    "status": "Аукцион",
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 236200,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 388,
+    "server_id": 1,
+    "type": "house",
+    "name": "Ферма 1",
+    "owner": "Happy_Jacob",
+    "status": "Аукцион",
+    "x": 2363.33,
+    "y": 116.068,
+    "price": 6000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1345,
+    "server_id": 1,
+    "type": "house",
+    "name": "Petliura",
+    "owner": "Simon_Petliura",
+    "status": "Аукцион",
+    "x": -2233.82,
+    "y": 870.525,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1670,
+    "server_id": 1,
+    "type": "house",
+    "name": "Продам Монополию 8 домов 25ккк",
+    "owner": "Sega_XxL",
+    "status": "Аукцион",
+    "x": 531.9219,
+    "y": 1301.6,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1927,
+    "server_id": 1,
+    "type": "house",
+    "name": "bridge to depression",
+    "owner": "Fun_Eclipse",
+    "status": "Аукцион",
+    "x": 1775.03,
+    "y": 2870.95,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {

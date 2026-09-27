@@ -684,18 +684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
-    "server_id": 13,
-    "type": "house",
-    "name": "авангард",
-    "owner": "Payper_Lovit",
-    "status": "Занято",
-    "x": 2150.0,
-    "y": -1400.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 58,
     "server_id": 13,
     "type": "house",
@@ -1480,7 +1468,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Домик Блейза;)",
-    "owner": "Blaze_Creepers",
+    "owner": "Blaze_Triada",
     "status": "Занято",
     "x": 1873.66,
     "y": -2070.49,
@@ -10452,6 +10440,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 871,
+    "server_id": 13,
+    "type": "house",
+    "name": "Landre Empire",
+    "owner": "Xanax_XR",
+    "status": "Занято",
+    "x": -302.976,
+    "y": 2552.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 872,
     "server_id": 13,
     "type": "house",
@@ -11704,7 +11704,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Nilsons",
-    "owner": "Prohor_Nilson",
+    "owner": "Prohor_Triada",
     "status": "Занято",
     "x": -2446.17,
     "y": 2491.81,
@@ -11727,7 +11727,7 @@
     "id": 978,
     "server_id": 13,
     "type": "house",
-    "name": "Borov Нефть",
+    "name": "Нефтевышечки",
     "owner": "Zaur_Pro",
     "status": "Занято",
     "x": 452.07,
@@ -13016,18 +13016,6 @@
     "status": "Занято",
     "x": 1780.95,
     "y": 2744.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1086,
-    "server_id": 13,
-    "type": "house",
-    "name": "Lux",
-    "owner": "Lux_Lennox",
-    "status": "Занято",
-    "x": 1781.15,
-    "y": 2747.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17748,18 +17736,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1480,
-    "server_id": 13,
-    "type": "house",
-    "name": "инкассатор",
-    "owner": "Pleasure_Day",
-    "status": "Занято",
-    "x": 2362.62,
-    "y": -1046.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1481,
     "server_id": 13,
     "type": "house",
@@ -20736,18 +20712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1729,
-    "server_id": 13,
-    "type": "house",
-    "name": "помойка",
-    "owner": "brodyagathegod",
-    "status": "Занято",
-    "x": 263.6849,
-    "y": 2895.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1730,
     "server_id": 13,
     "type": "house",
@@ -21480,6 +21444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1792,
+    "server_id": 13,
+    "type": "house",
+    "name": "Nisons",
+    "owner": "Lenar_Kaban",
+    "status": "Занято",
+    "x": 1743.17,
+    "y": 2778.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1793,
     "server_id": 13,
     "type": "house",
@@ -21932,18 +21908,6 @@
     "status": "Занято",
     "x": 1802.66,
     "y": 2826.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1831,
-    "server_id": 13,
-    "type": "house",
-    "name": "| Авангард Empire |",
-    "owner": "Nikolas_Raan",
-    "status": "Занято",
-    "x": 1804.92,
-    "y": 2834.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22479,7 +22443,7 @@
     "id": 1876,
     "server_id": 13,
     "type": "house",
-    "name": "Borov Нефть",
+    "name": "Нефтевышечки",
     "owner": "Zaur_Pro",
     "status": "Занято",
     "x": 471.8059,
@@ -23268,27 +23232,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 871,
+    "id": 57,
     "server_id": 13,
     "type": "house",
-    "name": "Landre Empire",
-    "owner": "Xanax_XR",
+    "name": "авангард",
+    "owner": "Payper_Lovit",
     "status": "Аукцион",
-    "x": -302.976,
-    "y": 2552.28,
+    "x": 2150.0,
+    "y": -1400.65,
+    "price": 300123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1086,
+    "server_id": 13,
+    "type": "house",
+    "name": "Lux",
+    "owner": "Lux_Lennox",
+    "status": "Аукцион",
+    "x": 1781.15,
+    "y": 2747.27,
+    "price": 250100100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1480,
+    "server_id": 13,
+    "type": "house",
+    "name": "инкассатор",
+    "owner": "Pleasure_Day",
+    "status": "Аукцион",
+    "x": 2362.62,
+    "y": -1046.45,
     "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1792,
+    "id": 1729,
     "server_id": 13,
     "type": "house",
-    "name": "Nisons",
-    "owner": "Государство",
+    "name": "помойка",
+    "owner": "brodyagathegod",
     "status": "Аукцион",
-    "x": 1743.17,
-    "y": 2778.59,
-    "price": 10000000,
+    "x": 263.6849,
+    "y": 2895.52,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1831,
+    "server_id": 13,
+    "type": "house",
+    "name": "| Авангард Empire |",
+    "owner": "Nikolas_Raan",
+    "status": "Аукцион",
+    "x": 1804.92,
+    "y": 2834.83,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {

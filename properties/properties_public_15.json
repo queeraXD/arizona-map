@@ -1152,6 +1152,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 96,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sam_McCloud",
+    "status": "Занято",
+    "x": 2673.33,
+    "y": -2020.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 97,
     "server_id": 15,
     "type": "house",
@@ -3476,18 +3488,6 @@
     "status": "Занято",
     "x": -2094.27,
     "y": 822.929,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 291,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Axma_McCloud",
-    "status": "Занято",
-    "x": 2498.96,
-    "y": -1065.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5900,18 +5900,6 @@
     "status": "Занято",
     "x": 2042.4,
     "y": 731.6829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 493,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Axma_McCloud",
-    "status": "Занято",
-    "x": 2014.12,
-    "y": 774.8829,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20460,18 +20448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1707,
-    "server_id": 15,
-    "type": "house",
-    "name": "10 комнат, набор архитектора",
-    "owner": "Stefan_Crips",
-    "status": "Занято",
-    "x": 1120.06,
-    "y": -2181.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1708,
     "server_id": 15,
     "type": "house",
@@ -21312,15 +21288,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 96,
+    "id": 291,
     "server_id": 15,
     "type": "house",
-    "name": "Hokage",
-    "owner": "Takeru_Somellier",
+    "name": "Дом",
+    "owner": "Axma_McCloud",
     "status": "Аукцион",
-    "x": 2673.33,
-    "y": -2020.14,
-    "price": 500123123,
+    "x": 2498.96,
+    "y": -1065.56,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 493,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Axma_McCloud",
+    "status": "Аукцион",
+    "x": 2014.12,
+    "y": 774.8829,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1707,
+    "server_id": 15,
+    "type": "house",
+    "name": "10 комнат, набор архитектора",
+    "owner": "Stefan_Crips",
+    "status": "Аукцион",
+    "x": 1120.06,
+    "y": -2181.22,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {

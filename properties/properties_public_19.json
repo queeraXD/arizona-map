@@ -10800,18 +10800,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 902,
-    "server_id": 19,
-    "type": "house",
-    "name": "Dizik_Team House",
-    "owner": "Noah_Ross",
-    "status": "Занято",
-    "x": -2065.95,
-    "y": 1160.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 903,
     "server_id": 19,
     "type": "house",
@@ -14484,18 +14472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1209,
-    "server_id": 19,
-    "type": "house",
-    "name": "home glebas",
-    "owner": "Yoshiro_Kalimov",
-    "status": "Занято",
-    "x": -2883.57,
-    "y": 736.702,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1210,
     "server_id": 19,
     "type": "house",
@@ -14512,7 +14488,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Owens Fam",
-    "owner": "Tra_Per",
+    "owner": "Hiroto_Page",
     "status": "Занято",
     "x": -2881.36,
     "y": 790.427,
@@ -14732,18 +14708,6 @@
     "status": "Занято",
     "x": -2477.89,
     "y": 1338.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1230,
-    "server_id": 19,
-    "type": "house",
-    "name": "богачи",
-    "owner": "Noah_Ross",
-    "status": "Занято",
-    "x": -2433.07,
-    "y": 1338.22,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15079,18 +15043,6 @@
     "owner": "Vova_Suxoi",
     "status": "Занято",
     "x": -2340.11,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1259,
-    "server_id": 19,
-    "type": "house",
-    "name": "ДОМИК LEO",
-    "owner": "Roy_Moretti",
-    "status": "Занято",
-    "x": -2358.62,
     "y": 656.7349,
     "price": 0,
     "district": "Сан-Андреас"
@@ -18732,18 +18684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1563,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": 1957.04,
-    "y": 678.018,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1564,
     "server_id": 19,
     "type": "house",
@@ -19460,18 +19400,6 @@
     "status": "Занято",
     "x": 1798.46,
     "y": 2767.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1624,
-    "server_id": 19,
-    "type": "house",
-    "name": "HorseTownBandits",
-    "owner": "Pizdaliz_Svicov",
-    "status": "Занято",
-    "x": 1800.73,
-    "y": 2775.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22040,7 +21968,79 @@
     "status": "Аукцион",
     "x": 1265.52,
     "y": 2609.7,
-    "price": 200000000,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 902,
+    "server_id": 19,
+    "type": "house",
+    "name": "Dizik_Team House",
+    "owner": "Noah_Ross",
+    "status": "Аукцион",
+    "x": -2065.95,
+    "y": 1160.62,
+    "price": 29000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1209,
+    "server_id": 19,
+    "type": "house",
+    "name": "home glebas",
+    "owner": "Yoshiro_Kalimov",
+    "status": "Аукцион",
+    "x": -2883.57,
+    "y": 736.702,
+    "price": 33333333,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1230,
+    "server_id": 19,
+    "type": "house",
+    "name": "богачи",
+    "owner": "Noah_Ross",
+    "status": "Аукцион",
+    "x": -2433.07,
+    "y": 1338.22,
+    "price": 29000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1259,
+    "server_id": 19,
+    "type": "house",
+    "name": "ДОМИК LEO",
+    "owner": "Roy_Moretti",
+    "status": "Аукцион",
+    "x": -2358.62,
+    "y": 656.7349,
+    "price": 15000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1563,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": 1957.04,
+    "y": 678.018,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1624,
+    "server_id": 19,
+    "type": "house",
+    "name": "HorseTownBandits",
+    "owner": "Pizdaliz_Svicov",
+    "status": "Аукцион",
+    "x": 1800.73,
+    "y": 2775.69,
+    "price": 8000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22053,6 +22053,18 @@
     "x": 2792.91,
     "y": -1087.65,
     "price": 180000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 205,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Tyler_Craig",
+    "status": "Аукцион",
+    "x": 1136.92,
+    "y": -1750.19,
+    "price": 9500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25148,18 +25160,6 @@
     "status": "Занято",
     "x": 1502.14,
     "y": -1278.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 205,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Tyler_Craig",
-    "status": "Занято",
-    "x": 1136.92,
-    "y": -1750.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

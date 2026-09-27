@@ -3468,18 +3468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 289,
-    "server_id": 23,
-    "type": "house",
-    "name": "Sklim Monopoly ",
-    "owner": "Bonga_Kams",
-    "status": "Занято",
-    "x": 2534.44,
-    "y": -1063.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 290,
     "server_id": 23,
     "type": "house",
@@ -3632,6 +3620,18 @@
     "status": "Занято",
     "x": 2144.89,
     "y": -1085.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 303,
+    "server_id": 23,
+    "type": "house",
+    "name": "MMM",
+    "owner": "Roy_Hook",
+    "status": "Занято",
+    "x": 2081.98,
+    "y": -1086.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6268,7 +6268,7 @@
     "server_id": 23,
     "type": "house",
     "name": "DYX",
-    "owner": "Nesquit_Dark",
+    "owner": "KratoS_Dark",
     "status": "Занято",
     "x": 1641.14,
     "y": 2149.78,
@@ -10072,7 +10072,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Маркеловани",
-    "owner": "Kage_Markelovani",
+    "owner": "Hiroto_Holiday",
     "status": "Занято",
     "x": -2188.13,
     "y": 1107.64,
@@ -12244,7 +12244,7 @@
     "server_id": 23,
     "type": "house",
     "name": "С деп условием",
-    "owner": "Nesquit_Dark",
+    "owner": "KratoS_Dark",
     "status": "Занято",
     "x": -2511.04,
     "y": 942.551,
@@ -15872,18 +15872,6 @@
     "status": "Занято",
     "x": 1447.38,
     "y": 361.768,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1325,
-    "server_id": 23,
-    "type": "house",
-    "name": "Притон дровосека",
-    "owner": "Drovosek_Doberman",
-    "status": "Занято",
-    "x": 1461.16,
-    "y": 342.493,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20448,18 +20436,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1709,
-    "server_id": 23,
-    "type": "house",
-    "name": "Треп хата свиззи",
-    "owner": "Vegmo_Osumi",
-    "status": "Занято",
-    "x": 793.4169,
-    "y": 1991.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1711,
     "server_id": 23,
     "type": "house",
@@ -21144,15 +21120,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 303,
+    "id": 289,
     "server_id": 23,
     "type": "house",
-    "name": "MMM",
-    "owner": "Roy_Hook",
+    "name": "Sklim Monopoly ",
+    "owner": "Bonga_Kams",
     "status": "Аукцион",
-    "x": 2081.98,
-    "y": -1086.5,
-    "price": 500000000,
+    "x": 2534.44,
+    "y": -1063.42,
+    "price": 600123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1325,
+    "server_id": 23,
+    "type": "house",
+    "name": "Притон дровосека",
+    "owner": "Drovosek_Doberman",
+    "status": "Аукцион",
+    "x": 1461.16,
+    "y": 342.493,
+    "price": 150123123,
     "district": "Сан-Андреас"
   },
   {
@@ -21168,6 +21156,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1709,
+    "server_id": 23,
+    "type": "house",
+    "name": "Треп хата свиззи",
+    "owner": "Vegmo_Osumi",
+    "status": "Аукцион",
+    "x": 793.4169,
+    "y": 1991.83,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 150,
     "server_id": 23,
     "type": "business",
@@ -21177,6 +21177,18 @@
     "x": 2386.539,
     "y": 2478.348,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 158,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Naldon_Legenda",
+    "status": "Аукцион",
+    "x": 2272.941,
+    "y": -1795.335,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -22708,7 +22720,7 @@
     "server_id": 23,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Georgij_Doberman",
+    "owner": "Florian_Playboy",
     "status": "Занято",
     "x": 1031.61,
     "y": 1354.3,
@@ -22768,7 +22780,7 @@
     "server_id": 23,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "[14]Www_Www",
+    "owner": "Ebal_Rakbtochika",
     "status": "Занято",
     "x": 1001.25,
     "y": 820.343,
@@ -23816,18 +23828,6 @@
     "status": "Занято",
     "x": 2230.115,
     "y": -1795.364,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 158,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 2272.941,
-    "y": -1795.335,
     "price": 0,
     "district": "Сан-Андреас"
   },

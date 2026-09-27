@@ -6984,18 +6984,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 582,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Inhilus_Zambidis",
-    "status": "Занято",
-    "x": -275.376,
-    "y": 2736.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 583,
     "server_id": 11,
     "type": "house",
@@ -8544,18 +8532,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 712,
-    "server_id": 11,
-    "type": "house",
-    "name": "ХАЛАБУДА №5",
-    "owner": "Jake_Sully",
-    "status": "Занято",
-    "x": 1573.09,
-    "y": 2658.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 713,
     "server_id": 11,
     "type": "house",
@@ -9412,7 +9388,7 @@
     "server_id": 11,
     "type": "house",
     "name": "ХАЛАБУДА №6",
-    "owner": "Barajas_Nakasukis",
+    "owner": "Bapenuk",
     "status": "Занято",
     "x": -2513.5,
     "y": 849.1569,
@@ -10132,7 +10108,7 @@
     "server_id": 11,
     "type": "house",
     "name": "grig chmo",
-    "owner": "Paul_Puzik",
+    "owner": "Nikita_Rafinov",
     "status": "Занято",
     "x": -2209.65,
     "y": 1079.99,
@@ -10880,18 +10856,6 @@
     "status": "Занято",
     "x": -2126.98,
     "y": 1014.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 909,
-    "server_id": 11,
-    "type": "house",
-    "name": "exlones home",
-    "owner": "Samson_Caballero",
-    "status": "Занято",
-    "x": -2168.8,
-    "y": 796.5159,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17292,18 +17256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1455,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Inhilus_Zambidis",
-    "status": "Занято",
-    "x": 2781.94,
-    "y": -1358.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1456,
     "server_id": 11,
     "type": "house",
@@ -21708,18 +21660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1823,
-    "server_id": 11,
-    "type": "house",
-    "name": "777 Триумф 777",
-    "owner": "Samson_Caballero",
-    "status": "Занято",
-    "x": 2517.04,
-    "y": 1659.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1824,
     "server_id": 11,
     "type": "house",
@@ -24612,6 +24552,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 582,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Inhilus_Zambidis",
+    "status": "Аукцион",
+    "x": -275.376,
+    "y": 2736.23,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 712,
+    "server_id": 11,
+    "type": "house",
+    "name": "ХАЛАБУДА №5",
+    "owner": "Jake_Sully",
+    "status": "Аукцион",
+    "x": 1573.09,
+    "y": 2658.39,
+    "price": 850000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 835,
     "server_id": 11,
     "type": "house",
@@ -24621,6 +24585,18 @@
     "x": -2281.59,
     "y": 873.2329,
     "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 909,
+    "server_id": 11,
+    "type": "house",
+    "name": "exlones home",
+    "owner": "Samson_Caballero",
+    "status": "Аукцион",
+    "x": -2168.8,
+    "y": 796.5159,
+    "price": 270000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24636,6 +24612,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1455,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Inhilus_Zambidis",
+    "status": "Аукцион",
+    "x": 2781.94,
+    "y": -1358.43,
+    "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1823,
+    "server_id": 11,
+    "type": "house",
+    "name": "777 Триумф 777",
+    "owner": "Samson_Caballero",
+    "status": "Аукцион",
+    "x": 2517.04,
+    "y": 1659.16,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1951,
     "server_id": 11,
     "type": "house",
@@ -24644,7 +24644,7 @@
     "status": "Аукцион",
     "x": -2280.84,
     "y": 1112.58,
-    "price": 300000000,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
