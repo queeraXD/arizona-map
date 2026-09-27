@@ -13044,18 +13044,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1088,
-    "server_id": 15,
-    "type": "house",
-    "name": "Стимовская библиотека:)",
-    "owner": "Nastya_Tkachuk",
-    "status": "Занято",
-    "x": -2158.98,
-    "y": 866.3289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1089,
     "server_id": 15,
     "type": "house",
@@ -13064,18 +13052,6 @@
     "status": "Занято",
     "x": -2158.92,
     "y": 830.585,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1090,
-    "server_id": 15,
-    "type": "house",
-    "name": "ферма 9 лвл",
-    "owner": "Shadow_Revenantsize",
-    "status": "Занято",
-    "x": -2126.75,
-    "y": 832.6989,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21324,6 +21300,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1088,
+    "server_id": 15,
+    "type": "house",
+    "name": "Стимовская библиотека:)",
+    "owner": "Nastya_Tkachuk",
+    "status": "Аукцион",
+    "x": -2158.98,
+    "y": 866.3289,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1090,
+    "server_id": 15,
+    "type": "house",
+    "name": "майнинг ",
+    "owner": "Shadow_Revenantsize",
+    "status": "Аукцион",
+    "x": -2126.75,
+    "y": 832.6989,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 251,
     "server_id": 15,
     "type": "business",
@@ -24304,7 +24304,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Ricki_Woodles",
+    "owner": "Jesse_Morgue",
     "status": "Занято",
     "x": -1548.81,
     "y": 673.91,

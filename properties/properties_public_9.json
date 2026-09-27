@@ -3456,18 +3456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 289,
-    "server_id": 9,
-    "type": "house",
-    "name": "Пряниковая Ферма",
-    "owner": "Yragane_Hokage",
-    "status": "Занято",
-    "x": 2534.44,
-    "y": -1063.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 290,
     "server_id": 9,
     "type": "house",
@@ -3608,6 +3596,18 @@
     "status": "Занято",
     "x": -2224.3,
     "y": -2482.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 302,
+    "server_id": 9,
+    "type": "house",
+    "name": "Халабуда вовчика",
+    "owner": "Stu_Loving",
+    "status": "Занято",
+    "x": 2144.89,
+    "y": -1085.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -4468,7 +4468,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Renato Revazz monopoly",
-    "owner": "Renato_Revazz",
+    "owner": "Egor_Shiron",
     "status": "Занято",
     "x": 2204.61,
     "y": 62.2279,
@@ -7796,6 +7796,18 @@
     "status": "Занято",
     "x": 1939.93,
     "y": 642.882,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 652,
+    "server_id": 9,
+    "type": "house",
+    "name": "dom",
+    "owner": "Shalyn_Sedoy",
+    "status": "Занято",
+    "x": 2169.36,
+    "y": 772.255,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15420,6 +15432,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1289,
+    "server_id": 9,
+    "type": "house",
+    "name": "Kleo Domination",
+    "owner": "Vanechka_Implored",
+    "status": "Занято",
+    "x": -2900.72,
+    "y": 1073.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1290,
     "server_id": 9,
     "type": "house",
@@ -20140,7 +20164,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Grove Street ",
-    "owner": "Jonson_Samurai",
+    "owner": "Nekich_Bossov",
     "status": "Занято",
     "x": 2136.08,
     "y": -1592.01,
@@ -23856,39 +23880,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 302,
+    "id": 289,
     "server_id": 9,
     "type": "house",
-    "name": "Халабуда вовчика",
-    "owner": "Stu_Loving",
+    "name": "Пряниковая Ферма",
+    "owner": "Yragane_Hokage",
     "status": "Аукцион",
-    "x": 2144.89,
-    "y": -1085.5,
-    "price": 1500123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 652,
-    "server_id": 9,
-    "type": "house",
-    "name": "dom",
-    "owner": "Shalyn_Sedoy",
-    "status": "Аукцион",
-    "x": 2169.36,
-    "y": 772.255,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1289,
-    "server_id": 9,
-    "type": "house",
-    "name": "Kleo Domination",
-    "owner": "Vanechka_Implored",
-    "status": "Аукцион",
-    "x": -2900.72,
-    "y": 1073.86,
-    "price": 2500000000,
+    "x": 2534.44,
+    "y": -1063.42,
+    "price": 1200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23928,27 +23928,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 199,
+    "id": 251,
     "server_id": 9,
     "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Balagan_Quartz",
+    "name": "АЗС/Магазин механики",
+    "owner": "Artur_Fujikawa",
     "status": "Аукцион",
-    "x": 1771.74,
-    "y": -1903.27,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 352,
-    "server_id": 9,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Flex_Carter",
-    "status": "Аукцион",
-    "x": 1256.55,
-    "y": 274.927,
-    "price": 215000,
+    "x": -930.703,
+    "y": 13.1137,
+    "price": 17000,
     "district": "Сан-Андреас"
   },
   {
@@ -25380,18 +25368,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 251,
-    "server_id": 9,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Artur_Fujikawa",
-    "status": "Занято",
-    "x": -930.703,
-    "y": 13.1137,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 252,
     "server_id": 9,
     "type": "business",
@@ -26352,6 +26328,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 352,
+    "server_id": 9,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Flex_Carter",
+    "status": "Занято",
+    "x": 1256.55,
+    "y": 274.927,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 138,
     "server_id": 9,
     "type": "business",
@@ -26960,6 +26948,18 @@
     "status": "Занято",
     "x": -1826.43,
     "y": -566.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 199,
+    "server_id": 9,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Balagan_Quartz",
+    "status": "Занято",
+    "x": 1771.74,
+    "y": -1903.27,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -4,7 +4,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Bishop",
-    "owner": "Carter_Bishop",
+    "owner": "Iflexick_Stark",
     "status": "Занято",
     "x": 1885.88,
     "y": -1113.56,
@@ -500,6 +500,18 @@
     "status": "Занято",
     "x": 2492.1,
     "y": -1239.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 42,
+    "server_id": 25,
+    "type": "house",
+    "name": "Деп условия/подвал для майнинга",
+    "owner": "Vladimir_Saloedov",
+    "status": "Занято",
+    "x": 2550.99,
+    "y": -1233.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5424,18 +5436,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 453,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": 2011.48,
-    "y": 694.596,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 454,
     "server_id": 25,
     "type": "house",
@@ -5912,18 +5912,6 @@
     "status": "Занято",
     "x": 2014.12,
     "y": 774.8829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 494,
-    "server_id": 25,
-    "type": "house",
-    "name": "Поместье Monolith",
-    "owner": "Dron_Monolith",
-    "status": "Занято",
-    "x": 1464.71,
-    "y": 1895.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13092,18 +13080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1094,
-    "server_id": 25,
-    "type": "house",
-    "name": "Fierce Home №5 деп",
-    "owner": "Iflexick_Stark",
-    "status": "Занято",
-    "x": -2210.98,
-    "y": 902.885,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1095,
     "server_id": 25,
     "type": "house",
@@ -19428,18 +19404,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1623,
-    "server_id": 25,
-    "type": "house",
-    "name": ">>CROSS<<",
-    "owner": "Vova_Cer",
-    "status": "Занято",
-    "x": 99.2854,
-    "y": 1179.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1624,
     "server_id": 25,
     "type": "house",
@@ -20040,18 +20004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1674,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Cer",
-    "status": "Занято",
-    "x": 2363.18,
-    "y": 1006.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1675,
     "server_id": 25,
     "type": "house",
@@ -20324,6 +20276,18 @@
     "status": "Занято",
     "x": 2537.04,
     "y": 1235.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1698,
+    "server_id": 25,
+    "type": "house",
+    "name": "House Style ",
+    "owner": "Wolf_Gromov",
+    "status": "Занято",
+    "x": 2541.53,
+    "y": 1232.89,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21128,6 +21092,18 @@
     "status": "Занято",
     "x": 2003.69,
     "y": 2168.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1766,
+    "server_id": 25,
+    "type": "house",
+    "name": "Morgan",
+    "owner": "Vladimir_Saloedov",
+    "status": "Занято",
+    "x": 2003.69,
+    "y": 2163.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23712,15 +23688,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 42,
+    "id": 453,
     "server_id": 25,
     "type": "house",
-    "name": "Деп условия/подвал для майнинга",
-    "owner": "Vladimir_Saloedov",
+    "name": "Дом",
+    "owner": "Grafi_Kus",
     "status": "Аукцион",
-    "x": 2550.99,
-    "y": -1233.79,
-    "price": 999999999,
+    "x": 2011.48,
+    "y": 694.596,
+    "price": 20213213,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 494,
+    "server_id": 25,
+    "type": "house",
+    "name": "Поместье Monolith",
+    "owner": "Dron_Monolith",
+    "status": "Аукцион",
+    "x": 1464.71,
+    "y": 1895.06,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23736,6 +23724,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1094,
+    "server_id": 25,
+    "type": "house",
+    "name": "poksqdd",
+    "owner": "Iflexick_Stark",
+    "status": "Аукцион",
+    "x": -2210.98,
+    "y": 902.885,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1302,
     "server_id": 25,
     "type": "house",
@@ -23748,27 +23748,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1698,
+    "id": 1623,
     "server_id": 25,
     "type": "house",
-    "name": "House Style ",
-    "owner": "Wolf_Gromov",
+    "name": ">>CROSS<<",
+    "owner": "Vova_Cer",
     "status": "Аукцион",
-    "x": 2541.53,
-    "y": 1232.89,
-    "price": 350000000,
+    "x": 99.2854,
+    "y": 1179.52,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1766,
+    "id": 1674,
     "server_id": 25,
     "type": "house",
-    "name": "Morgan",
-    "owner": "Vladimir_Saloedov",
+    "name": "Дом",
+    "owner": "Vova_Cer",
     "status": "Аукцион",
-    "x": 2003.69,
-    "y": 2163.69,
-    "price": 200000000,
+    "x": 2363.18,
+    "y": 1006.67,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25804,7 +25804,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Farma_Zone",
+    "owner": "Snegovik_Pricolist",
     "status": "Занято",
     "x": -1912.17,
     "y": 827.954,
@@ -25852,7 +25852,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Farma_Zone",
+    "owner": "Snegovik_Pricolist",
     "status": "Занято",
     "x": 2366.7,
     "y": 2071.11,

@@ -580,7 +580,7 @@
     "server_id": 3,
     "type": "house",
     "name": ":uf20d:sadisfaction:uf20d:",
-    "owner": "Chateau_Tranquillite",
+    "owner": "Shinra_Explosion",
     "status": "Занято",
     "x": 2192.94,
     "y": -1455.9,
@@ -592,7 +592,7 @@
     "server_id": 3,
     "type": "house",
     "name": ":uf20d:sad romantic:uf20d:",
-    "owner": "Chateau_Tranquillite",
+    "owner": "Shinra_Explosion",
     "status": "Занято",
     "x": 2190.44,
     "y": -1470.38,
@@ -1276,7 +1276,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Feel like a god:uf25b:",
-    "owner": "Chateau_Tranquillite",
+    "owner": "Shinra_Explosion",
     "status": "Занято",
     "x": 2465.28,
     "y": -2020.5,
@@ -1588,7 +1588,7 @@
     "server_id": 3,
     "type": "house",
     "name": ":uf20d:soul obstruction:uf20d:",
-    "owner": "Chateau_Tranquillite",
+    "owner": "Shinra_Explosion",
     "status": "Занято",
     "x": 1762.4,
     "y": -2102.1,
@@ -8064,6 +8064,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 673,
+    "server_id": 3,
+    "type": "house",
+    "name": "Набор архитектора+майнинг ферма",
+    "owner": "Chio_Rio",
+    "status": "Занято",
+    "x": 930.3229,
+    "y": 1928.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 674,
     "server_id": 3,
     "type": "house",
@@ -9884,18 +9896,6 @@
     "status": "Занято",
     "x": -2688.68,
     "y": -89.4464,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 827,
-    "server_id": 3,
-    "type": "house",
-    "name": "HardBass хата",
-    "owner": "Danil_Alblak",
-    "status": "Занято",
-    "x": -2724.29,
-    "y": -58.0475,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12399,7 +12399,7 @@
     "id": 1037,
     "server_id": 3,
     "type": "house",
-    "name": "Я скоро умру",
+    "name": "Фанат Noize MC",
     "owner": "Fuulm_Kask",
     "status": "Занято",
     "x": -2205.36,
@@ -13836,6 +13836,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1157,
+    "server_id": 3,
+    "type": "house",
+    "name": "кладменчики",
+    "owner": "Jesi_Pinkman",
+    "status": "Занято",
+    "x": -2792.15,
+    "y": -145.9409,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1158,
     "server_id": 3,
     "type": "house",
@@ -14672,6 +14684,18 @@
     "status": "Занято",
     "x": -2383.14,
     "y": 1281.37,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1229,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Moggdan_Outlaw",
+    "status": "Занято",
+    "x": -2382.97,
+    "y": 1299.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17180,6 +17204,18 @@
     "status": "Занято",
     "x": 1754.51,
     "y": 2736.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1439,
+    "server_id": 3,
+    "type": "house",
+    "name": "бурмалда",
+    "owner": "Akiro_Ken",
+    "status": "Занято",
+    "x": 1743.6,
+    "y": 2733.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23940,18 +23976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 673,
-    "server_id": 3,
-    "type": "house",
-    "name": "Набор архитектора+майнинг ферма",
-    "owner": "Chio_Rio",
-    "status": "Аукцион",
-    "x": 930.3229,
-    "y": 1928.11,
-    "price": 140000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 801,
     "server_id": 3,
     "type": "house",
@@ -23964,15 +23988,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1157,
+    "id": 827,
     "server_id": 3,
     "type": "house",
-    "name": "кладменчики",
-    "owner": "Jesi_Pinkman",
+    "name": "HardBass хата",
+    "owner": "Danil_Alblak",
     "status": "Аукцион",
-    "x": -2792.15,
-    "y": -145.9409,
-    "price": 999100100,
+    "x": -2724.29,
+    "y": -58.0475,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
@@ -23985,30 +24009,6 @@
     "x": -2793.14,
     "y": 21.2695,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1229,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Sorochenko",
-    "status": "Аукцион",
-    "x": -2382.97,
-    "y": 1299.76,
-    "price": 99999999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1439,
-    "server_id": 3,
-    "type": "house",
-    "name": "бурмалда",
-    "owner": "Akiro_Ken",
-    "status": "Аукцион",
-    "x": 1743.6,
-    "y": 2733.09,
-    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26968,7 +26968,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Jessie_Mccarty",
+    "owner": "Spoon_Indestructible",
     "status": "Занято",
     "x": 2405.02,
     "y": -1933.97,
