@@ -1656,18 +1656,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 138,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "divo",
-    "status": "Занято",
-    "x": 1695.52,
-    "y": -2125.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 139,
     "server_id": 21,
     "type": "house",
@@ -9784,7 +9772,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Ackerman Family",
-    "owner": "Mark_Smirnov",
+    "owner": "divo",
     "status": "Занято",
     "x": -2724.34,
     "y": -191.276,
@@ -11504,6 +11492,18 @@
     "status": "Занято",
     "x": -2158.75,
     "y": 786.197,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 960,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kirill_Akimov",
+    "status": "Занято",
+    "x": -2158.94,
+    "y": 769.9379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18636,6 +18636,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1555,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Konstantin_Vinnikov",
+    "status": "Занято",
+    "x": 559.8189,
+    "y": -1116.78,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1556,
     "server_id": 21,
     "type": "house",
@@ -20044,7 +20056,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Чердак бара ниже",
-    "owner": "Mark_Smirnov",
+    "owner": "Munuctep_Makapon",
     "status": "Занято",
     "x": 2517.04,
     "y": 1679.36,
@@ -20740,7 +20752,7 @@
     "server_id": 21,
     "type": "house",
     "name": "крепость",
-    "owner": "Leo_Euphoria",
+    "owner": "Lorenzo_Beer",
     "status": "Занято",
     "x": 2468.13,
     "y": -1391.39,
@@ -21912,27 +21924,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 960,
+    "id": 138,
     "server_id": 21,
     "type": "house",
     "name": "Дом",
-    "owner": "Jack_Chaltsev",
+    "owner": "divo",
     "status": "Аукцион",
-    "x": -2158.94,
-    "y": 769.9379,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1555,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Аукцион",
-    "x": 559.8189,
-    "y": -1116.78,
-    "price": 1000000000,
+    "x": 1695.52,
+    "y": -2125.65,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {

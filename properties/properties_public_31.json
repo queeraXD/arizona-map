@@ -10371,7 +10371,7 @@
     "id": 866,
     "server_id": 31,
     "type": "house",
-    "name": "Married camp",
+    "name": "AFK Village №13",
     "owner": "Harumi_Carbone",
     "status": "Занято",
     "x": -340.7749,
@@ -13084,7 +13084,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Concussion #1",
-    "owner": "Invoker_Concussion",
+    "owner": "Era_Haras",
     "status": "Занято",
     "x": -2174.27,
     "y": 903.0449,
@@ -19528,7 +19528,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Concussion #2",
-    "owner": "Invoker_Concussion",
+    "owner": "Unwritten_Reply",
     "status": "Занято",
     "x": 2707.31,
     "y": -1202.99,
@@ -19568,6 +19568,18 @@
     "status": "Занято",
     "x": 25.5818,
     "y": 1345.96,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1634,
+    "server_id": 31,
+    "type": "house",
+    "name": "empty",
+    "owner": "Kaneki_Rimaru",
+    "status": "Занято",
+    "x": 21.3752,
+    "y": 1344.13,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21720,18 +21732,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1817,
-    "server_id": 31,
-    "type": "house",
-    "name": "1211",
-    "owner": "Sea_Angels",
-    "status": "Занято",
-    "x": 2620.35,
-    "y": 2156.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1818,
     "server_id": 31,
     "type": "house",
@@ -23328,18 +23328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1634,
-    "server_id": 31,
-    "type": "house",
-    "name": "empty",
-    "owner": "Kaneki_Rimaru",
-    "status": "Аукцион",
-    "x": 21.3752,
-    "y": 1344.13,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1795,
     "server_id": 31,
     "type": "house",
@@ -23349,6 +23337,18 @@
     "x": 2591.62,
     "y": 2208.44,
     "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1817,
+    "server_id": 31,
+    "type": "house",
+    "name": "1211",
+    "owner": "Sea_Angels",
+    "status": "Аукцион",
+    "x": 2620.35,
+    "y": 2156.48,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23364,27 +23364,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 232,
+    "id": 301,
     "server_id": 31,
     "type": "business",
-    "name": "Магазин аксессуаров",
+    "name": "Лотерейная",
     "owner": "Boris_Brytva",
     "status": "Аукцион",
-    "x": 1071.66,
-    "y": -1438.98,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 249,
-    "server_id": 31,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Andrey_Burmaldancer",
-    "status": "Аукцион",
-    "x": 111.076,
-    "y": -1782.68,
-    "price": 5000000000,
+    "x": 1288.7,
+    "y": 271.232,
+    "price": 800000,
     "district": "Сан-Андреас"
   },
   {
@@ -24804,6 +24792,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 249,
+    "server_id": 31,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Nelly_Night",
+    "status": "Занято",
+    "x": 111.076,
+    "y": -1782.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 250,
     "server_id": 31,
     "type": "business",
@@ -25760,6 +25760,18 @@
     "status": "Занято",
     "x": -2050.0,
     "y": -60.63,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 232,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Bitcoin_Monopoly",
+    "status": "Занято",
+    "x": 1071.66,
+    "y": -1438.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27020,18 +27032,6 @@
     "status": "Занято",
     "x": -2591.49,
     "y": 170.493,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 301,
-    "server_id": 31,
-    "type": "business",
-    "name": "Лотерейная",
-    "owner": "Boris_Brytva",
-    "status": "Занято",
-    "x": 1288.7,
-    "y": 271.232,
     "price": 0,
     "district": "Сан-Андреас"
   },

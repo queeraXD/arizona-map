@@ -1176,18 +1176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 98,
-    "server_id": 9,
-    "type": "house",
-    "name": "Escobar",
-    "owner": "OGospodi_Savchenko",
-    "status": "Занято",
-    "x": 2652.88,
-    "y": -1989.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 99,
     "server_id": 9,
     "type": "house",
@@ -1556,18 +1544,6 @@
     "status": "Занято",
     "x": 1804.13,
     "y": -2124.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 130,
-    "server_id": 9,
-    "type": "house",
-    "name": "***Betson Home***",
-    "owner": "Dashulik_Betson",
-    "status": "Занято",
-    "x": 1782.05,
-    "y": -2126.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5472,18 +5448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 457,
-    "server_id": 9,
-    "type": "house",
-    "name": "***Betson Home***",
-    "owner": "Dashulik_Betson",
-    "status": "Занято",
-    "x": 2069.02,
-    "y": 696.2709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 458,
     "server_id": 9,
     "type": "house",
@@ -7148,6 +7112,18 @@
     "status": "Занято",
     "x": -1459.18,
     "y": 2653.51,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 597,
+    "server_id": 9,
+    "type": "house",
+    "name": "Для Бомжиков",
+    "owner": "Mihail_Filonov",
+    "status": "Занято",
+    "x": -1450.71,
+    "y": 2691.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18276,18 +18252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1528,
-    "server_id": 9,
-    "type": "house",
-    "name": "***Betson Home***",
-    "owner": "Dashulik_Betson",
-    "status": "Занято",
-    "x": 2433.93,
-    "y": -1320.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1529,
     "server_id": 9,
     "type": "house",
@@ -23820,6 +23784,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 98,
+    "server_id": 9,
+    "type": "house",
+    "name": "Escobar",
+    "owner": "OGospodi_Savchenko",
+    "status": "Аукцион",
+    "x": 2652.88,
+    "y": -1989.43,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 130,
+    "server_id": 9,
+    "type": "house",
+    "name": "***Betson Home***",
+    "owner": "Dashulik_Betson",
+    "status": "Аукцион",
+    "x": 1782.05,
+    "y": -2126.31,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 453,
     "server_id": 9,
     "type": "house",
@@ -23832,15 +23820,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 597,
+    "id": 457,
     "server_id": 9,
     "type": "house",
-    "name": "Для Бомжиков",
-    "owner": "Mihail_Filonov",
+    "name": "***Betson Home***",
+    "owner": "Dashulik_Betson",
     "status": "Аукцион",
-    "x": -1450.71,
-    "y": 2691.05,
-    "price": 35000,
+    "x": 2069.02,
+    "y": 696.2709,
+    "price": 1200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23865,6 +23853,18 @@
     "x": -2678.16,
     "y": 200.4909,
     "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1528,
+    "server_id": 9,
+    "type": "house",
+    "name": "***Betson Home***",
+    "owner": "Dashulik_Betson",
+    "status": "Аукцион",
+    "x": 2433.93,
+    "y": -1320.66,
+    "price": 1200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23937,6 +23937,42 @@
     "x": 2802.89,
     "y": 2430.66,
     "price": 176000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 216,
+    "server_id": 9,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Fernando_Raiden",
+    "status": "Аукцион",
+    "x": 2327.86,
+    "y": 2421.25,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 305,
+    "server_id": 9,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Jos_Muutan",
+    "status": "Аукцион",
+    "x": 2837.842,
+    "y": 1392.9,
+    "price": 400000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 9,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Routine_Swarovski",
+    "status": "Аукцион",
+    "x": 1050.871,
+    "y": -1803.655,
+    "price": 245000,
     "district": "Сан-Андреас"
   },
   {
@@ -25972,7 +26008,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Закусочная",
-    "owner": "White_Eclipse",
+    "owner": "Takumi_Watanabe",
     "status": "Занято",
     "x": -144.085,
     "y": 1224.66,
@@ -27084,18 +27120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 216,
-    "server_id": 9,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Fernando_Raiden",
-    "status": "Занято",
-    "x": 2327.86,
-    "y": 2421.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 217,
     "server_id": 9,
     "type": "business",
@@ -27184,7 +27208,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Lavrentiy_Beria",
+    "owner": "Bayonick_Vodniy",
     "status": "Занято",
     "x": -2245.69,
     "y": 2282.04,
@@ -27636,18 +27660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 305,
-    "server_id": 9,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Jos_Muutan",
-    "status": "Занято",
-    "x": 2837.842,
-    "y": 1392.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 306,
     "server_id": 9,
     "type": "business",
@@ -27752,18 +27764,6 @@
     "status": "Занято",
     "x": 1004.554,
     "y": -1356.182,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 315,
-    "server_id": 9,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Routine_Swarovski",
-    "status": "Занято",
-    "x": 1050.871,
-    "y": -1803.655,
     "price": 0,
     "district": "Сан-Андреас"
   },

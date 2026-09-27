@@ -432,6 +432,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 36,
+    "server_id": 20,
+    "type": "house",
+    "name": "Blonde Dynasty",
+    "owner": "Yee_Blonde",
+    "status": "Занято",
+    "x": 2383.53,
+    "y": -1366.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 37,
     "server_id": 20,
     "type": "house",
@@ -5400,30 +5412,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 451,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vito_Quintero",
-    "status": "Занято",
-    "x": 1844.78,
-    "y": 690.3439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 452,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vito_Quintero",
-    "status": "Занято",
-    "x": 1844.5,
-    "y": 718.656,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 453,
     "server_id": 20,
     "type": "house",
@@ -6207,8 +6195,8 @@
     "id": 518,
     "server_id": 20,
     "type": "house",
-    "name": "Marvin Squart",
-    "owner": "its_ledike",
+    "name": "Дом вадимки 2.0",
+    "owner": "Vadim_Knight",
     "status": "Занято",
     "x": 1595.41,
     "y": 2070.99,
@@ -11468,18 +11456,6 @@
     "status": "Занято",
     "x": -2192.67,
     "y": 934.1019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 957,
-    "server_id": 20,
-    "type": "house",
-    "name": "спалка",
-    "owner": "Tana_Lasuria",
-    "status": "Занято",
-    "x": -2211.09,
-    "y": 933.7139,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16971,8 +16947,8 @@
     "id": 1415,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
-    "owner": "Pepe_Pepov",
+    "name": ":uf259: Пикми Dynasty :uf259:",
+    "owner": "Pick_Me",
     "status": "Занято",
     "x": 1110.53,
     "y": -1578.45,
@@ -19312,7 +19288,7 @@
     "server_id": 20,
     "type": "house",
     "name": "House",
-    "owner": "Sebastian_Dealers",
+    "owner": "Rjey_Javelin",
     "status": "Занято",
     "x": 2003.69,
     "y": 2145.35,
@@ -21204,6 +21180,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1770,
+    "server_id": 20,
+    "type": "house",
+    "name": "// HASYGAWA //",
+    "owner": "Labuba_Hasygawa",
+    "status": "Занято",
+    "x": 1793.63,
+    "y": 2792.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1771,
     "server_id": 20,
     "type": "house",
@@ -21224,6 +21212,18 @@
     "status": "Занято",
     "x": 1799.69,
     "y": 2815.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1773,
+    "server_id": 20,
+    "type": "house",
+    "name": "// photo squad //",
+    "owner": "Zheka_Zhuk",
+    "status": "Занято",
+    "x": 1796.59,
+    "y": 2803.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22296,15 +22296,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 36,
+    "id": 451,
     "server_id": 20,
     "type": "house",
-    "name": "Тут обитает Драк Дракула",
-    "owner": "Lexa_Sekator",
+    "name": "Дом",
+    "owner": "Vito_Quintero",
     "status": "Аукцион",
-    "x": 2383.53,
-    "y": -1366.2,
-    "price": 600000000,
+    "x": 1844.78,
+    "y": 690.3439,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 452,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vito_Quintero",
+    "status": "Аукцион",
+    "x": 1844.5,
+    "y": 718.656,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 957,
+    "server_id": 20,
+    "type": "house",
+    "name": "спалка",
+    "owner": "Tana_Lasuria",
+    "status": "Аукцион",
+    "x": -2211.09,
+    "y": 933.7139,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22329,54 +22353,6 @@
     "x": 2487.38,
     "y": -1410.34,
     "price": 720000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1770,
-    "server_id": 20,
-    "type": "house",
-    "name": "// photo squad //",
-    "owner": "Zheka_Zhuk",
-    "status": "Аукцион",
-    "x": 1793.63,
-    "y": 2792.24,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1773,
-    "server_id": 20,
-    "type": "house",
-    "name": "// photo squad //",
-    "owner": "Zheka_Zhuk",
-    "status": "Аукцион",
-    "x": 1796.59,
-    "y": 2803.59,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 251,
-    "server_id": 20,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Shadow_Hunter",
-    "status": "Аукцион",
-    "x": -930.703,
-    "y": 13.1137,
-    "price": 175000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 303,
-    "server_id": 20,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Shadow_Hunter",
-    "status": "Аукцион",
-    "x": -833.1396,
-    "y": 1622.985,
-    "price": 175000,
     "district": "Сан-Андреас"
   },
   {
@@ -23804,6 +23780,18 @@
     "status": "Занято",
     "x": 2170.48,
     "y": 542.934,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 251,
+    "server_id": 20,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Shadow_Hunter",
+    "status": "Занято",
+    "x": -930.703,
+    "y": 13.1137,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26048,6 +26036,18 @@
     "status": "Занято",
     "x": 156.6065,
     "y": 1149.47,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 303,
+    "server_id": 20,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Shadow_Hunter",
+    "status": "Занято",
+    "x": -833.1396,
+    "y": 1622.985,
     "price": 0,
     "district": "Сан-Андреас"
   },
