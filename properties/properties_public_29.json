@@ -9600,18 +9600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 801,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": -2340.03,
-    "y": 820.0209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 802,
     "server_id": 29,
     "type": "house",
@@ -9951,8 +9939,8 @@
     "id": 830,
     "server_id": 29,
     "type": "house",
-    "name": "Резиденция Алого Хвоста",
-    "owner": "Infinity_Dollars",
+    "name": "earthMONOPOLY",
+    "owner": "Earth_Monopoly",
     "status": "Занято",
     "x": -2723.16,
     "y": -16.7231,
@@ -11184,30 +11172,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 933,
-    "server_id": 29,
-    "type": "house",
-    "name": "BM BM",
-    "owner": "Brandon_Morrow",
-    "status": "Занято",
-    "x": -2094.28,
-    "y": 745.752,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 934,
-    "server_id": 29,
-    "type": "house",
-    "name": "BM BM",
-    "owner": "Brandon_Morrow",
-    "status": "Занято",
-    "x": -2112.64,
-    "y": 745.564,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 935,
     "server_id": 29,
     "type": "house",
@@ -11288,30 +11252,6 @@
     "status": "Занято",
     "x": -2029.79,
     "y": 796.554,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 942,
-    "server_id": 29,
-    "type": "house",
-    "name": "BM BM",
-    "owner": "Brandon_Morrow",
-    "status": "Занято",
-    "x": -2018.45,
-    "y": 784.7659,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 943,
-    "server_id": 29,
-    "type": "house",
-    "name": "BM BM",
-    "owner": "Brandon_Morrow",
-    "status": "Занято",
-    "x": -2018.3,
-    "y": 766.4459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15332,6 +15272,18 @@
     "status": "Занято",
     "x": -2722.11,
     "y": 14.5172,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1280,
+    "server_id": 29,
+    "type": "house",
+    "name": "earthMONOPOLY",
+    "owner": "Earth_Monopoly",
+    "status": "Занято",
+    "x": -2725.79,
+    "y": -36.4976,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20160,18 +20112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1683,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": 2473.09,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1684,
     "server_id": 29,
     "type": "house",
@@ -21120,15 +21060,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1280,
+    "id": 801,
     "server_id": 29,
     "type": "house",
-    "name": "darkness ebt!",
-    "owner": "Tenko_Shimura",
+    "name": "Дом",
+    "owner": "Night_Sosiska",
     "status": "Аукцион",
-    "x": -2725.79,
-    "y": -36.4976,
-    "price": 400000000,
+    "x": -2340.03,
+    "y": 820.0209,
+    "price": 450123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 933,
+    "server_id": 29,
+    "type": "house",
+    "name": "BM BM",
+    "owner": "Brandon_Morrow",
+    "status": "Аукцион",
+    "x": -2094.28,
+    "y": 745.752,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 934,
+    "server_id": 29,
+    "type": "house",
+    "name": "BM BM",
+    "owner": "Brandon_Morrow",
+    "status": "Аукцион",
+    "x": -2112.64,
+    "y": 745.564,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 942,
+    "server_id": 29,
+    "type": "house",
+    "name": "BM BM",
+    "owner": "Brandon_Morrow",
+    "status": "Аукцион",
+    "x": -2018.45,
+    "y": 784.7659,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 943,
+    "server_id": 29,
+    "type": "house",
+    "name": "BM BM",
+    "owner": "Brandon_Morrow",
+    "status": "Аукцион",
+    "x": -2018.3,
+    "y": 766.4459,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1683,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Night_Sosiska",
+    "status": "Аукцион",
+    "x": 2473.09,
+    "y": -1391.71,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {

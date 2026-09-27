@@ -6652,7 +6652,7 @@
     "server_id": 31,
     "type": "house",
     "name": "kaytovich",
-    "owner": "Imenno_Tot",
+    "owner": "Tom_Nikollenko",
     "status": "Занято",
     "x": 1801.86,
     "y": 2823.5,
@@ -7484,6 +7484,18 @@
     "status": "Занято",
     "x": 1897.36,
     "y": 78.9496,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 625,
+    "server_id": 31,
+    "type": "house",
+    "name": "Night Mining 2/15",
+    "owner": "Nelly_Night",
+    "status": "Занято",
+    "x": -29.9144,
+    "y": 1364.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8667,7 +8679,7 @@
     "id": 724,
     "server_id": 31,
     "type": "house",
-    "name": "samosvalovv boys own",
+    "name": "люблю девочек в клешах",
     "owner": "Hukutoc_Samosvalovv",
     "status": "Занято",
     "x": 1678.36,
@@ -14728,7 +14740,7 @@
     "server_id": 31,
     "type": "house",
     "name": "гуль",
-    "owner": "Mellow_Bauer",
+    "owner": "Farmila_Vagos",
     "status": "Занято",
     "x": -2433.07,
     "y": 1338.22,
@@ -18972,18 +18984,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1585,
-    "server_id": 31,
-    "type": "house",
-    "name": "Saber Family ",
-    "owner": "Evgeniy_Saber",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1242.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1586,
     "server_id": 31,
     "type": "house",
@@ -19332,18 +19332,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1615,
-    "server_id": 31,
-    "type": "house",
-    "name": "Saber Family",
-    "owner": "Evgeniy_Saber",
-    "status": "Занято",
-    "x": 2537.03,
-    "y": 1235.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1616,
     "server_id": 31,
     "type": "house",
@@ -19548,30 +19536,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1633,
-    "server_id": 31,
-    "type": "house",
-    "name": "дроп с ларцов",
-    "owner": "Kaneki_Rimaru",
-    "status": "Занято",
-    "x": 25.5818,
-    "y": 1345.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1634,
-    "server_id": 31,
-    "type": "house",
-    "name": "empty",
-    "owner": "Kaneki_Rimaru",
-    "status": "Занято",
-    "x": 21.3752,
-    "y": 1344.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1635,
     "server_id": 31,
     "type": "house",
@@ -19604,6 +19568,18 @@
     "status": "Занято",
     "x": -20.7702,
     "y": 1388.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1638,
+    "server_id": 31,
+    "type": "house",
+    "name": "Night Mining 1/15",
+    "owner": "Nelly_Night",
+    "status": "Занято",
+    "x": -21.4918,
+    "y": 1348.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23328,39 +23304,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 625,
+    "id": 1585,
     "server_id": 31,
     "type": "house",
-    "name": "empty",
-    "owner": "Silent_Mercy",
+    "name": "Saber Family ",
+    "owner": "Evgeniy_Saber",
     "status": "Аукцион",
-    "x": -29.9144,
-    "y": 1364.0,
-    "price": 1100000001,
+    "x": 2437.04,
+    "y": 1242.43,
+    "price": 1300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1638,
+    "id": 1615,
     "server_id": 31,
     "type": "house",
-    "name": "empty",
-    "owner": "Tipsy_Umbrella",
+    "name": "Saber Family",
+    "owner": "Evgeniy_Saber",
     "status": "Аукцион",
-    "x": -21.4918,
-    "y": 1348.1,
-    "price": 1250123123,
+    "x": 2537.03,
+    "y": 1235.31,
+    "price": 1300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 82,
+    "id": 1633,
+    "server_id": 31,
+    "type": "house",
+    "name": "дроп с ларцов",
+    "owner": "Kaneki_Rimaru",
+    "status": "Аукцион",
+    "x": 25.5818,
+    "y": 1345.96,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1634,
+    "server_id": 31,
+    "type": "house",
+    "name": "empty",
+    "owner": "Kaneki_Rimaru",
+    "status": "Аукцион",
+    "x": 21.3752,
+    "y": 1344.13,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 468,
     "server_id": 31,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "Mlnato_Rostik",
+    "name": "Отель",
+    "owner": "Marsel_Garcia",
     "status": "Аукцион",
-    "x": 1879.19,
-    "y": 2339.5,
-    "price": 140000,
+    "x": -172.597,
+    "y": 1106.0,
+    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -25104,6 +25104,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 82,
+    "server_id": 31,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Mlnato_Rostik",
+    "status": "Занято",
+    "x": 1879.19,
+    "y": 2339.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 83,
     "server_id": 31,
     "type": "business",
@@ -26120,18 +26132,6 @@
     "status": "Занято",
     "x": -2015.06,
     "y": -2.1872,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 468,
-    "server_id": 31,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Marsel_Garcia",
-    "status": "Занято",
-    "x": -172.597,
-    "y": 1106.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
