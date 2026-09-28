@@ -828,18 +828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 69,
-    "server_id": 26,
-    "type": "house",
-    "name": "дом занят",
-    "owner": "Kolya_Medved",
-    "status": "Занято",
-    "x": 2362.87,
-    "y": -1643.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 70,
     "server_id": 26,
     "type": "house",
@@ -4680,6 +4668,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 390,
+    "server_id": 26,
+    "type": "house",
+    "name": "avoid freeze",
+    "owner": "Robert_Asakura",
+    "status": "Занято",
+    "x": 2293.78,
+    "y": -124.593,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 391,
     "server_id": 26,
     "type": "house",
@@ -5888,30 +5888,6 @@
     "status": "Занято",
     "x": 1756.79,
     "y": 66.9654,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 492,
-    "server_id": 26,
-    "type": "house",
-    "name": "MAJORKA HOUSE",
-    "owner": "Shit_Talking",
-    "status": "Занято",
-    "x": 2042.4,
-    "y": 731.6829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 493,
-    "server_id": 26,
-    "type": "house",
-    "name": "MAJORKA HOUSE",
-    "owner": "Shit_Talking",
-    "status": "Занято",
-    "x": 2014.12,
-    "y": 774.8829,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12060,18 +12036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1007,
-    "server_id": 26,
-    "type": "house",
-    "name": "Основа WAGA",
-    "owner": "crimsonpact",
-    "status": "Занято",
-    "x": -2383.84,
-    "y": 1127.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1008,
     "server_id": 26,
     "type": "house",
@@ -12440,18 +12404,6 @@
     "status": "Занято",
     "x": -1776.13,
     "y": 1115.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1039,
-    "server_id": 26,
-    "type": "house",
-    "name": "Номер 3",
-    "owner": "Mellstroy_Burmalda",
-    "status": "Занято",
-    "x": -1732.18,
-    "y": 1114.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16272,18 +16224,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1358,
-    "server_id": 26,
-    "type": "house",
-    "name": "MAJORKA HOUSE",
-    "owner": "Shit_Talking",
-    "status": "Занято",
-    "x": 2043.3,
-    "y": 776.101,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1359,
     "server_id": 26,
     "type": "house",
@@ -18680,18 +18620,6 @@
     "status": "Занято",
     "x": 2794.35,
     "y": 2260.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1559,
-    "server_id": 26,
-    "type": "house",
-    "name": "exchange squad",
-    "owner": "Sosa_Cristopher",
-    "status": "Занято",
-    "x": 2787.7,
-    "y": 2268.49,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21843,7 +21771,7 @@
     "id": 1822,
     "server_id": 26,
     "type": "house",
-    "name": "деп условия",
+    "name": "майнинг ",
     "owner": "Nazarr_Blum",
     "status": "Занято",
     "x": 2826.08,
@@ -24280,7 +24208,7 @@
     "server_id": 26,
     "type": "house",
     "name": "1337",
-    "owner": "Eto_Yamamoto",
+    "owner": "Hawick_Eclipse",
     "status": "Занято",
     "x": -1827.03,
     "y": 2042.3,
@@ -24640,7 +24568,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Montana tan tan tana ",
-    "owner": "Montana_McLarren",
+    "owner": "Henya_theGenius",
     "status": "Занято",
     "x": 74.7917,
     "y": 1065.96,
@@ -24844,7 +24772,7 @@
     "server_id": 26,
     "type": "house",
     "name": "karatel squad",
-    "owner": "Henya_theGenius",
+    "owner": "Montana_McLarren",
     "status": "Занято",
     "x": -85.6772,
     "y": 1006.36,
@@ -25176,15 +25104,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 390,
+    "id": 69,
     "server_id": 26,
     "type": "house",
-    "name": "avoid freeze",
-    "owner": "Avoid_Freeze",
+    "name": "дом занят",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 2293.78,
-    "y": -124.593,
-    "price": 20000000,
+    "x": 2362.87,
+    "y": -1643.14,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 492,
+    "server_id": 26,
+    "type": "house",
+    "name": "MAJORKA HOUSE",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2042.4,
+    "y": 731.6829,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 493,
+    "server_id": 26,
+    "type": "house",
+    "name": "MAJORKA HOUSE",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2014.12,
+    "y": 774.8829,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1007,
+    "server_id": 26,
+    "type": "house",
+    "name": "Основа WAGA",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2383.84,
+    "y": 1127.85,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1039,
+    "server_id": 26,
+    "type": "house",
+    "name": "Номер 3",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -1732.18,
+    "y": 1114.92,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1358,
+    "server_id": 26,
+    "type": "house",
+    "name": "MAJORKA HOUSE",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2043.3,
+    "y": 776.101,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1559,
+    "server_id": 26,
+    "type": "house",
+    "name": "exchange squad",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2787.7,
+    "y": 2268.49,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {

@@ -6963,8 +6963,8 @@
     "id": 581,
     "server_id": 28,
     "type": "house",
-    "name": "Из вращенец",
-    "owner": "Daniel_Salamanca",
+    "name": "Paradox",
+    "owner": "Paradox_Disney",
     "status": "Занято",
     "x": -287.4519,
     "y": 2758.14,
@@ -7112,18 +7112,6 @@
     "status": "Занято",
     "x": -1449.95,
     "y": 2562.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 594,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Xanax_XR",
-    "status": "Занято",
-    "x": -1446.67,
-    "y": 2636.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18348,18 +18336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1532,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Xanax_XR",
-    "status": "Занято",
-    "x": 739.0449,
-    "y": -1428.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1533,
     "server_id": 28,
     "type": "house",
@@ -20464,7 +20440,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Академика Королева 7",
-    "owner": "Winston_Kompakt",
+    "owner": "Kolyan_Haleva",
     "status": "Занято",
     "x": 2417.74,
     "y": 1015.55,
@@ -21076,7 +21052,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Гетто ресурсы",
-    "owner": "Ruslan_Ybivator",
+    "owner": "Neuveville_Pelletier",
     "status": "Занято",
     "x": 1907.28,
     "y": -1982.57,
@@ -21088,7 +21064,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Аксесуары",
-    "owner": "Ruslan_Ybivator",
+    "owner": "Neuveville_Pelletier",
     "status": "Занято",
     "x": 1913.92,
     "y": -1991.73,
@@ -21112,7 +21088,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Редкие материалы",
-    "owner": "Ruslan_Ybivator",
+    "owner": "Neuveville_Pelletier",
     "status": "Занято",
     "x": 1916.83,
     "y": -2000.38,
@@ -21208,7 +21184,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Сиропы/хлам",
-    "owner": "Ruslan_Ybivator",
+    "owner": "Neuveville_Pelletier",
     "status": "Занято",
     "x": 1898.99,
     "y": -2037.91,
@@ -22332,6 +22308,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1866,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2063.18,
+    "y": 2204.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 511,
     "server_id": 28,
     "type": "house",
@@ -22341,6 +22329,18 @@
     "x": 1684.51,
     "y": 2046.57,
     "price": 3500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 594,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Xanax_XR",
+    "status": "Аукцион",
+    "x": -1446.67,
+    "y": 2636.7,
+    "price": 130000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22356,6 +22356,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1532,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Xanax_XR",
+    "status": "Аукцион",
+    "x": 739.0449,
+    "y": -1428.77,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1588,
     "server_id": 28,
     "type": "house",
@@ -22364,7 +22376,7 @@
     "status": "Аукцион",
     "x": 2437.04,
     "y": 1241.14,
-    "price": 2000,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
@@ -24100,7 +24112,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Ruslan_Ybivator",
+    "owner": "Neuveville_Pelletier",
     "status": "Занято",
     "x": 2101.89,
     "y": 2228.81,
