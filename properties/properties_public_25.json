@@ -2164,7 +2164,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Reqwezz family",
-    "owner": "Maxim_Reqwezz",
+    "owner": "polkovodec",
     "status": "Занято",
     "x": 657.229,
     "y": -1652.59,
@@ -2332,7 +2332,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Dream",
-    "owner": "Sam_Dream",
+    "owner": "Steven_Dream",
     "status": "Занято",
     "x": 206.955,
     "y": -1769.83,
@@ -7692,18 +7692,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 641,
-    "server_id": 25,
-    "type": "house",
-    "name": "Uralsky |5| BTC",
-    "owner": "Keks_Uralsky",
-    "status": "Занято",
-    "x": 1535.16,
-    "y": 2609.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 642,
     "server_id": 25,
     "type": "house",
@@ -8032,7 +8020,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Enigma squad",
-    "owner": "Daniil_Stark",
+    "owner": "Vladimir_Saloedov",
     "status": "Занято",
     "x": 1030.09,
     "y": 2028.11,
@@ -8752,7 +8740,7 @@
     "server_id": 25,
     "type": "house",
     "name": "ЛКН 4  Объекты",
-    "owner": "Mamoru_Redfild",
+    "owner": "Aria_Stark",
     "status": "Занято",
     "x": 1637.76,
     "y": 2802.02,
@@ -15948,18 +15936,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1331,
-    "server_id": 25,
-    "type": "house",
-    "name": "URALSKY |1| BTC",
-    "owner": "Keks_Uralsky",
-    "status": "Занято",
-    "x": 1564.78,
-    "y": 2776.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1332,
     "server_id": 25,
     "type": "house",
@@ -16000,7 +15976,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Еах Край №1",
-    "owner": "Mamoru_Redfild",
+    "owner": "Aria_Stark",
     "status": "Занято",
     "x": 1601.87,
     "y": 2846.08,
@@ -16024,7 +16000,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Mamoru_Redfild",
+    "owner": "Aria_Stark",
     "status": "Занято",
     "x": 1632.8,
     "y": 2843.82,
@@ -16136,18 +16112,6 @@
     "status": "Занято",
     "x": 1551.52,
     "y": 2567.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1347,
-    "server_id": 25,
-    "type": "house",
-    "name": "Uralsky |6| BTC",
-    "owner": "Keks_Uralsky",
-    "status": "Занято",
-    "x": 1513.34,
-    "y": 2565.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23724,6 +23688,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 641,
+    "server_id": 25,
+    "type": "house",
+    "name": "Uralsky |5| BTC",
+    "owner": "Keks_Uralsky",
+    "status": "Аукцион",
+    "x": 1535.16,
+    "y": 2609.22,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1265,
     "server_id": 25,
     "type": "house",
@@ -23733,6 +23709,30 @@
     "x": -2338.49,
     "y": 580.0319,
     "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1331,
+    "server_id": 25,
+    "type": "house",
+    "name": "URALSKY |1| BTC",
+    "owner": "Keks_Uralsky",
+    "status": "Аукцион",
+    "x": 1564.78,
+    "y": 2776.57,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1347,
+    "server_id": 25,
+    "type": "house",
+    "name": "Uralsky |6| BTC",
+    "owner": "Keks_Uralsky",
+    "status": "Аукцион",
+    "x": 1513.34,
+    "y": 2565.43,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {

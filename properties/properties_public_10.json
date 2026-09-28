@@ -4272,18 +4272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 356,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом Менлауо 13",
-    "owner": "Menlayo_Pondedra",
-    "status": "Занято",
-    "x": 1280.86,
-    "y": -874.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 357,
     "server_id": 10,
     "type": "house",
@@ -7236,18 +7224,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 603,
-    "server_id": 10,
-    "type": "house",
-    "name": "MINING FARM 7LVL",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": -1562.54,
-    "y": 2650.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 604,
     "server_id": 10,
     "type": "house",
@@ -9348,6 +9324,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 779,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dustap_NeIgrok",
+    "status": "Занято",
+    "x": -2568.95,
+    "y": 794.1749,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 780,
     "server_id": 10,
     "type": "house",
@@ -11288,6 +11276,18 @@
     "status": "Занято",
     "x": -2018.45,
     "y": 784.7659,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 943,
+    "server_id": 10,
+    "type": "house",
+    "name": "Belfort House",
+    "owner": "Pasha_Pelss",
+    "status": "Занято",
+    "x": -2018.3,
+    "y": 766.4459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16796,6 +16796,18 @@
     "status": "Занято",
     "x": 558.734,
     "y": -1161.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1404,
+    "server_id": 10,
+    "type": "house",
+    "name": "kasp1ysky ",
+    "owner": "Viktor_Kaspysky",
+    "status": "Занято",
+    "x": -2205.38,
+    "y": 744.0059,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23292,27 +23304,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 779,
+    "id": 356,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
-    "owner": "Dustap_NeIgrok",
-    "status": "Аукцион",
-    "x": -2568.95,
-    "y": 794.1749,
-    "price": 75000123,
+    "name": "Дом Менлауо 13",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1280.86,
+    "y": -874.83,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 943,
+    "id": 603,
     "server_id": 10,
     "type": "house",
-    "name": "Belfort House",
-    "owner": "Dustap_NeIgrok",
+    "name": "MINING FARM 7LVL",
+    "owner": "Lovec_Pisunov",
     "status": "Аукцион",
-    "x": -2018.3,
-    "y": 766.4459,
-    "price": 1000000,
+    "x": -1562.54,
+    "y": 2650.98,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23328,18 +23340,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1404,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dustap_NeIgrok",
-    "status": "Аукцион",
-    "x": -2205.38,
-    "y": 744.0059,
-    "price": 50000123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1878,
     "server_id": 10,
     "type": "house",
@@ -23349,30 +23349,6 @@
     "x": 2623.65,
     "y": 2039.56,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 222,
-    "server_id": 10,
-    "type": "business",
-    "name": "Автосалон люкс",
-    "owner": "Leonardo_Elios",
-    "status": "Аукцион",
-    "x": -2669.62,
-    "y": 12.4184,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 263,
-    "server_id": 10,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Leonardo_Elios",
-    "status": "Аукцион",
-    "x": -2572.55,
-    "y": 2391.86,
-    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24860,6 +24836,18 @@
     "status": "Занято",
     "x": 58.9409,
     "y": 1221.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 263,
+    "server_id": 10,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Vulfi_Karleone",
+    "status": "Занято",
+    "x": -2572.55,
+    "y": 2391.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26648,6 +26636,18 @@
     "status": "Занято",
     "x": 959.632,
     "y": 2089.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 222,
+    "server_id": 10,
+    "type": "business",
+    "name": "Автосалон люкс",
+    "owner": "Armenak_Skyworth",
+    "status": "Занято",
+    "x": -2669.62,
+    "y": 12.4184,
     "price": 0,
     "district": "Сан-Андреас"
   },

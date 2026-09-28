@@ -3876,18 +3876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 323,
-    "server_id": 31,
-    "type": "house",
-    "name": "sell @chteeei",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 776.6719,
-    "y": -503.492,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 324,
     "server_id": 31,
     "type": "house",
@@ -4688,6 +4676,18 @@
     "status": "Занято",
     "x": 2293.78,
     "y": -124.593,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 391,
+    "server_id": 31,
+    "type": "house",
+    "name": "Kavkaz Stayl",
+    "owner": "Leo_Bianco",
+    "status": "Занято",
+    "x": 2272.35,
+    "y": -118.814,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7496,30 +7496,6 @@
     "status": "Занято",
     "x": -29.9144,
     "y": 1364.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 626,
-    "server_id": 31,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 4.1448,
-    "y": 1344.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 627,
-    "server_id": 31,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 4.7234,
-    "y": 1381.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19332,18 +19308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1615,
-    "server_id": 31,
-    "type": "house",
-    "name": "Saber Family",
-    "owner": "Evgeniy_Saber",
-    "status": "Занято",
-    "x": 2537.03,
-    "y": 1235.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1616,
     "server_id": 31,
     "type": "house",
@@ -19560,18 +19524,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1634,
-    "server_id": 31,
-    "type": "house",
-    "name": "empty",
-    "owner": "Kaneki_Rimaru",
-    "status": "Занято",
-    "x": 21.3752,
-    "y": 1344.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1635,
     "server_id": 31,
     "type": "house",
@@ -19580,18 +19532,6 @@
     "status": "Занято",
     "x": -1.2819,
     "y": 1394.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1636,
-    "server_id": 31,
-    "type": "house",
-    "name": "налдон ловит",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": -17.0489,
-    "y": 1391.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21732,6 +21672,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1817,
+    "server_id": 31,
+    "type": "house",
+    "name": "Prime 5 kv",
+    "owner": "Fredrin_Prime",
+    "status": "Занято",
+    "x": 2620.35,
+    "y": 2156.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1818,
     "server_id": 31,
     "type": "house",
@@ -23316,15 +23268,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 391,
+    "id": 323,
     "server_id": 31,
     "type": "house",
-    "name": "Kavkaz Stayl",
-    "owner": "Государство",
+    "name": "sell @chteeei",
+    "owner": "Lovec_Pisunov",
     "status": "Аукцион",
-    "x": 2272.35,
-    "y": -118.814,
-    "price": 10000000,
+    "x": 776.6719,
+    "y": -503.492,
+    "price": 6000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 626,
+    "server_id": 31,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": 4.1448,
+    "y": 1344.59,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 627,
+    "server_id": 31,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": 4.7234,
+    "y": 1381.21,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23340,39 +23316,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1817,
+    "id": 1615,
     "server_id": 31,
     "type": "house",
-    "name": "1211",
-    "owner": "Sea_Angels",
+    "name": "Saber Family",
+    "owner": "Evgeniy_Saber",
     "status": "Аукцион",
-    "x": 2620.35,
-    "y": 2156.48,
-    "price": 1000000,
+    "x": 2537.03,
+    "y": 1235.31,
+    "price": 1300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 301,
+    "id": 1634,
     "server_id": 31,
-    "type": "business",
-    "name": "Лотерейная",
-    "owner": "Boris_Brytva",
+    "type": "house",
+    "name": "empty",
+    "owner": "Kaneki_Rimaru",
     "status": "Аукцион",
-    "x": 1288.7,
-    "y": 271.232,
-    "price": 800000,
+    "x": 21.3752,
+    "y": 1344.13,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 463,
+    "id": 1636,
+    "server_id": 31,
+    "type": "house",
+    "name": "налдон ловит",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": -17.0489,
+    "y": 1391.23,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 82,
     "server_id": 31,
     "type": "business",
-    "name": "Авиабазар",
-    "owner": "Cargo_Craft",
+    "name": "Закусочная",
+    "owner": "Mlnato_Rostik",
     "status": "Аукцион",
-    "x": 234.368,
-    "y": 2531.03,
-    "price": 1500000,
+    "x": 1879.19,
+    "y": 2339.5,
+    "price": 140000,
     "district": "Сан-Андреас"
   },
   {
@@ -25112,18 +25100,6 @@
     "status": "Занято",
     "x": 2101.89,
     "y": 2228.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 82,
-    "server_id": 31,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Mlnato_Rostik",
-    "status": "Занято",
-    "x": 1879.19,
-    "y": 2339.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27032,6 +27008,18 @@
     "status": "Занято",
     "x": -2591.49,
     "y": 170.493,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 301,
+    "server_id": 31,
+    "type": "business",
+    "name": "Лотерейная",
+    "owner": "Boris_Brytva",
+    "status": "Занято",
+    "x": 1288.7,
+    "y": 271.232,
     "price": 0,
     "district": "Сан-Андреас"
   },

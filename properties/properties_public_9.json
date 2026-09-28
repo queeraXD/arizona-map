@@ -1164,6 +1164,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 98,
+    "server_id": 9,
+    "type": "house",
+    "name": "Flux Street",
+    "owner": "Bones_Flux",
+    "status": "Занято",
+    "x": 2652.88,
+    "y": -1989.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 99,
     "server_id": 9,
     "type": "house",
@@ -3560,18 +3572,6 @@
     "status": "Занято",
     "x": -2224.3,
     "y": -2482.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 302,
-    "server_id": 9,
-    "type": "house",
-    "name": "Халабуда вовчика",
-    "owner": "Stu_Loving",
-    "status": "Занято",
-    "x": 2144.89,
-    "y": -1085.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20151,8 +20151,8 @@
     "id": 1686,
     "server_id": 9,
     "type": "house",
-    "name": "Grove Street ",
-    "owner": "Non_Patta",
+    "name": "BebraSquad",
+    "owner": "Herbata_Lipton",
     "status": "Занято",
     "x": 2136.08,
     "y": -1592.01,
@@ -20372,18 +20372,6 @@
     "status": "Занято",
     "x": 2043.32,
     "y": 776.101,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1705,
-    "server_id": 9,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Oleg_Pivassik",
-    "status": "Занято",
-    "x": 2073.37,
-    "y": -1583.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23020,7 +23008,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Домик",
-    "owner": "Ben_Tix",
+    "owner": "Non_Patta",
     "status": "Занято",
     "x": 2487.29,
     "y": -1376.27,
@@ -23856,18 +23844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 98,
-    "server_id": 9,
-    "type": "house",
-    "name": "Escobar",
-    "owner": "OGospodi_Savchenko",
-    "status": "Аукцион",
-    "x": 2652.88,
-    "y": -1989.43,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 271,
     "server_id": 9,
     "type": "house",
@@ -23904,6 +23880,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 302,
+    "server_id": 9,
+    "type": "house",
+    "name": "Халабуда вовчика",
+    "owner": "Stu_Loving",
+    "status": "Аукцион",
+    "x": 2144.89,
+    "y": -1085.5,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 433,
     "server_id": 9,
     "type": "house",
@@ -23913,6 +23901,18 @@
     "x": 2284.16,
     "y": -1046.07,
     "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1705,
+    "server_id": 9,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Oleg_Pivassik",
+    "status": "Аукцион",
+    "x": 2073.37,
+    "y": -1583.09,
+    "price": 900000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23937,30 +23937,6 @@
     "x": -2335.81,
     "y": -166.667,
     "price": 235000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 216,
-    "server_id": 9,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Fernando_Raiden",
-    "status": "Аукцион",
-    "x": 2327.86,
-    "y": 2421.25,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 315,
-    "server_id": 9,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Routine_Swarovski",
-    "status": "Аукцион",
-    "x": 1050.871,
-    "y": -1803.655,
-    "price": 245000,
     "district": "Сан-Андреас"
   },
   {
@@ -27108,6 +27084,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 216,
+    "server_id": 9,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Fernando_Raiden",
+    "status": "Занято",
+    "x": 2327.86,
+    "y": 2421.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 217,
     "server_id": 9,
     "type": "business",
@@ -27764,6 +27752,18 @@
     "status": "Занято",
     "x": 1004.554,
     "y": -1356.182,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 9,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Emily_White",
+    "status": "Занято",
+    "x": 1050.871,
+    "y": -1803.655,
     "price": 0,
     "district": "Сан-Андреас"
   },
