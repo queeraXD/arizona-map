@@ -324,18 +324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
-    "server_id": 3,
-    "type": "house",
-    "name": "Crazy House ",
-    "owner": "Crazy_Rich",
-    "status": "Занято",
-    "x": 2229.54,
-    "y": -1241.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 28,
     "server_id": 3,
     "type": "house",
@@ -11664,18 +11652,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 973,
-    "server_id": 3,
-    "type": "house",
-    "name": "Crazy House ",
-    "owner": "Arseniy_Weiss",
-    "status": "Занято",
-    "x": 2851.85,
-    "y": -1365.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 974,
     "server_id": 3,
     "type": "house",
@@ -18075,7 +18051,7 @@
     "id": 1507,
     "server_id": 3,
     "type": "house",
-    "name": "Дом",
+    "name": "Ars House",
     "owner": "Arseniy_Weiss",
     "status": "Занято",
     "x": 865.3079,
@@ -21684,18 +21660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1808,
-    "server_id": 3,
-    "type": "house",
-    "name": "Империя Foxes",
-    "owner": "Angel_Foxes",
-    "status": "Занято",
-    "x": 985.283,
-    "y": 2367.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1809,
     "server_id": 3,
     "type": "house",
@@ -24009,6 +23973,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 27,
+    "server_id": 3,
+    "type": "house",
+    "name": "Crazy House ",
+    "owner": "Crazy_Rich",
+    "status": "Аукцион",
+    "x": 2229.54,
+    "y": -1241.34,
+    "price": 2300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 973,
+    "server_id": 3,
+    "type": "house",
+    "name": "Crazy House ",
+    "owner": "Arseniy_Weiss",
+    "status": "Аукцион",
+    "x": 2851.85,
+    "y": -1365.91,
+    "price": 1800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1808,
+    "server_id": 3,
+    "type": "house",
+    "name": "Империя Foxes",
+    "owner": "Angel_Foxes",
+    "status": "Аукцион",
+    "x": 985.283,
+    "y": 2367.75,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {

@@ -6708,18 +6708,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 560,
-    "server_id": 5,
-    "type": "house",
-    "name": "Домик Майкла Брутского",
-    "owner": "Maykl_Brutskiy",
-    "status": "Занято",
-    "x": 354.923,
-    "y": 1164.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 561,
     "server_id": 5,
     "type": "house",
@@ -16176,18 +16164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1349,
-    "server_id": 5,
-    "type": "house",
-    "name": "Домик Майкла Брутского",
-    "owner": "Maykl_Brutskiy",
-    "status": "Занято",
-    "x": -2576.5,
-    "y": -145.865,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1350,
     "server_id": 5,
     "type": "house",
@@ -23424,6 +23400,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1953,
+    "server_id": 5,
+    "type": "house",
+    "name": "Jason_McDuck",
+    "owner": "Jason_McDuck",
+    "status": "Занято",
+    "x": 2468.46,
+    "y": -1376.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1954,
     "server_id": 5,
     "type": "house",
@@ -25092,15 +25080,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1953,
+    "id": 560,
     "server_id": 5,
     "type": "house",
-    "name": "Jason_McDuck",
-    "owner": "Jason_McDuck",
+    "name": "Домик Майкла Брутского",
+    "owner": "Maykl_Brutskiy",
     "status": "Аукцион",
-    "x": 2468.46,
-    "y": -1376.26,
-    "price": 550000000,
+    "x": 354.923,
+    "y": 1164.67,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1349,
+    "server_id": 5,
+    "type": "house",
+    "name": "Домик Майкла Брутского",
+    "owner": "Maykl_Brutskiy",
+    "status": "Аукцион",
+    "x": -2576.5,
+    "y": -145.865,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25112,7 +25112,19 @@
     "status": "Аукцион",
     "x": 2642.43,
     "y": 1978.84,
-    "price": 600000000,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 183,
+    "server_id": 5,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Kachan_Jonson",
+    "status": "Аукцион",
+    "x": 1575.5,
+    "y": 1844.07,
+    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -27944,18 +27956,6 @@
     "status": "Занято",
     "x": 1104.78,
     "y": 1380.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 183,
-    "server_id": 5,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Kachan_Jonson",
-    "status": "Занято",
-    "x": 1575.5,
-    "y": 1844.07,
     "price": 0,
     "district": "Сан-Андреас"
   },

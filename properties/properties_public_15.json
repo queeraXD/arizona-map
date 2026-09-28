@@ -3303,7 +3303,7 @@
     "id": 275,
     "server_id": 15,
     "type": "house",
-    "name": "дом для skill",
+    "name": "ДОМ 1",
     "owner": "Gennady_Bolotin",
     "status": "Занято",
     "x": 2579.67,
@@ -6636,18 +6636,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 553,
-    "server_id": 15,
-    "type": "house",
-    "name": "Axma_McCloud  3 Ферма",
-    "owner": "Axma_McCloud",
-    "status": "Занято",
-    "x": 378.1589,
-    "y": 1123.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 554,
     "server_id": 15,
     "type": "house",
@@ -9924,18 +9912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 827,
-    "server_id": 15,
-    "type": "house",
-    "name": "Халупка",
-    "owner": "NeDenis_Markelovani",
-    "status": "Занято",
-    "x": -2724.29,
-    "y": -58.0475,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 828,
     "server_id": 15,
     "type": "house",
@@ -13064,18 +13040,6 @@
     "status": "Занято",
     "x": -2158.92,
     "y": 830.585,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1090,
-    "server_id": 15,
-    "type": "house",
-    "name": "майнинг ",
-    "owner": "Shadow_Revenantsize",
-    "status": "Занято",
-    "x": -2126.75,
-    "y": 832.6989,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21321,6 +21285,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 553,
+    "server_id": 15,
+    "type": "house",
+    "name": "Axma_McCloud  3 Ферма",
+    "owner": "Axma_McCloud",
+    "status": "Аукцион",
+    "x": 378.1589,
+    "y": 1123.55,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 827,
+    "server_id": 15,
+    "type": "house",
+    "name": "В подвале есть видяхи",
+    "owner": "NeDenis_Markelovani",
+    "status": "Аукцион",
+    "x": -2724.29,
+    "y": -58.0475,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1090,
+    "server_id": 15,
+    "type": "house",
+    "name": "майнинг ",
+    "owner": "Shadow_Revenantsize",
+    "status": "Аукцион",
+    "x": -2126.75,
+    "y": 832.6989,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
