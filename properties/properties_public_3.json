@@ -324,6 +324,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 27,
+    "server_id": 3,
+    "type": "house",
+    "name": "Crazy House ",
+    "owner": "Crazy_Rich",
+    "status": "Занято",
+    "x": 2229.54,
+    "y": -1241.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 28,
     "server_id": 3,
     "type": "house",
@@ -1904,18 +1916,6 @@
     "status": "Занято",
     "x": 1196.02,
     "y": -1017.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 160,
-    "server_id": 3,
-    "type": "house",
-    "name": "kakashka",
-    "owner": "Bob_Three",
-    "status": "Занято",
-    "x": 1227.42,
-    "y": -1017.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8571,7 +8571,7 @@
     "id": 715,
     "server_id": 3,
     "type": "house",
-    "name": "Fruktoviy Empire",
+    "name": "The Dragon Empire",
     "owner": "Dragon_War",
     "status": "Занято",
     "x": 1580.14,
@@ -11652,6 +11652,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 973,
+    "server_id": 3,
+    "type": "house",
+    "name": "Crazy House ",
+    "owner": "Arseniy_Weiss",
+    "status": "Занято",
+    "x": 2851.85,
+    "y": -1365.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 974,
     "server_id": 3,
     "type": "house",
@@ -14356,7 +14368,7 @@
     "server_id": 3,
     "type": "house",
     "name": "The Explosion House",
-    "owner": "Haunt_Explosion",
+    "owner": "Nemesis_Explosion",
     "status": "Занято",
     "x": -2900.47,
     "y": 1056.82,
@@ -20344,7 +20356,7 @@
     "server_id": 3,
     "type": "house",
     "name": "explosion squad<3",
-    "owner": "Haunt_Explosion",
+    "owner": "Nemesis_Explosion",
     "status": "Занято",
     "x": 2073.37,
     "y": -1582.99,
@@ -21660,6 +21672,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1808,
+    "server_id": 3,
+    "type": "house",
+    "name": "халупа",
+    "owner": "Rayzen_Miers",
+    "status": "Занято",
+    "x": 985.283,
+    "y": 2367.75,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1809,
     "server_id": 3,
     "type": "house",
@@ -21760,7 +21784,7 @@
     "server_id": 3,
     "type": "house",
     "name": "The Explosion House",
-    "owner": "Haunt_Explosion",
+    "owner": "Nemesis_Explosion",
     "status": "Занято",
     "x": 957.505,
     "y": 2215.29,
@@ -23976,39 +24000,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
+    "id": 160,
     "server_id": 3,
     "type": "house",
-    "name": "Crazy House ",
-    "owner": "Crazy_Rich",
+    "name": "kakashka",
+    "owner": "Bob_Three",
     "status": "Аукцион",
-    "x": 2229.54,
-    "y": -1241.34,
-    "price": 2300000000,
+    "x": 1227.42,
+    "y": -1017.05,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 973,
+    "id": 260,
     "server_id": 3,
-    "type": "house",
-    "name": "Crazy House ",
-    "owner": "Arseniy_Weiss",
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Sak_Noel",
     "status": "Аукцион",
-    "x": 2851.85,
-    "y": -1365.91,
-    "price": 1800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1808,
-    "server_id": 3,
-    "type": "house",
-    "name": "Империя Foxes",
-    "owner": "Angel_Foxes",
-    "status": "Аукцион",
-    "x": 985.283,
-    "y": 2367.75,
-    "price": 10000,
+    "x": 1020.4,
+    "y": -1844.78,
+    "price": 300000,
     "district": "Сан-Андреас"
   },
   {
@@ -26012,18 +26024,6 @@
     "status": "Занято",
     "x": 1404.09,
     "y": 51.2512,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 260,
-    "server_id": 3,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Sak_Noel",
-    "status": "Занято",
-    "x": 1020.4,
-    "y": -1844.78,
     "price": 0,
     "district": "Сан-Андреас"
   },
