@@ -15748,7 +15748,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Matthew_Rose",
+    "owner": "Routine_Swarovski",
     "status": "Занято",
     "x": -663.1149,
     "y": 1286.13,
@@ -18820,7 +18820,7 @@
     "server_id": 19,
     "type": "house",
     "name": "droppi",
-    "owner": "Sijey_Markov",
+    "owner": "crimson",
     "status": "Занято",
     "x": 1955.89,
     "y": 742.875,
@@ -21360,18 +21360,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1781,
-    "server_id": 19,
-    "type": "house",
-    "name": "COMMISSION",
-    "owner": "Smena_Pola",
-    "status": "Занято",
-    "x": 2792.91,
-    "y": -1087.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1782,
     "server_id": 19,
     "type": "house",
@@ -22056,15 +22044,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 46,
+    "id": 1781,
     "server_id": 19,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Stas_Refaund",
+    "type": "house",
+    "name": "COMMISSION",
+    "owner": "Smena_Pola",
     "status": "Аукцион",
-    "x": 1445.11,
-    "y": -1418.56,
-    "price": 300000,
+    "x": 2792.91,
+    "y": -1087.65,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -22616,6 +22604,18 @@
     "status": "Занято",
     "x": 2493.12,
     "y": -1958.75,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 46,
+    "server_id": 19,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Stas_Refaund",
+    "status": "Занято",
+    "x": 1445.11,
+    "y": -1418.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
