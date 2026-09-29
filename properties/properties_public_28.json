@@ -7000,7 +7000,7 @@
     "server_id": 28,
     "type": "house",
     "name": "antirat squad",
-    "owner": "Jinatsu_Mode",
+    "owner": "Lovec_Pisunov",
     "status": "Занято",
     "x": -306.5914,
     "y": 2739.557,
@@ -7100,18 +7100,6 @@
     "status": "Занято",
     "x": -1449.95,
     "y": 2562.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 594,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Xanax_XR",
-    "status": "Занято",
-    "x": -1446.67,
-    "y": 2636.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9776,6 +9764,18 @@
     "status": "Занято",
     "x": -2688.33,
     "y": -175.0939,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 817,
+    "server_id": 28,
+    "type": "house",
+    "name": "Homik",
+    "owner": "Danyok_Kolbasenko",
+    "status": "Занято",
+    "x": -2621.01,
+    "y": -173.2859,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13056,18 +13056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1092,
-    "server_id": 28,
-    "type": "house",
-    "name": "Настюшкинс&KtoYa<3",
-    "owner": "Stu_Qarabas",
-    "status": "Занято",
-    "x": -2174.27,
-    "y": 903.0449,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1093,
     "server_id": 28,
     "type": "house",
@@ -13088,18 +13076,6 @@
     "status": "Занято",
     "x": -2210.98,
     "y": 902.885,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1095,
-    "server_id": 28,
-    "type": "house",
-    "name": "KtoYa&Настюшкинс<3",
-    "owner": "Stu_Qarabas",
-    "status": "Занято",
-    "x": -2224.84,
-    "y": 902.7009,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15236,18 +15212,6 @@
     "status": "Занято",
     "x": -2690.78,
     "y": 102.2819,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1274,
-    "server_id": 28,
-    "type": "house",
-    "name": "СТРАХА_НЕТ",
-    "owner": "Chester_Supreme",
-    "status": "Занято",
-    "x": -2689.51,
-    "y": 96.3162,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21795,7 +21759,7 @@
     "id": 1822,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
+    "name": "-_-",
     "owner": "Piw_Paw",
     "status": "Занято",
     "x": 129.024,
@@ -22320,6 +22284,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1274,
+    "server_id": 28,
+    "type": "house",
+    "name": "СТРАХА_НЕТ",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2689.51,
+    "y": 96.3162,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1866,
     "server_id": 28,
     "type": "house",
@@ -22356,15 +22332,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 817,
+    "id": 594,
     "server_id": 28,
     "type": "house",
-    "name": "Mobile 1",
-    "owner": "Kedroviy_Oreh",
+    "name": "Дом",
+    "owner": "Xanax_XR",
     "status": "Аукцион",
-    "x": -2621.01,
-    "y": -173.2859,
-    "price": 1123123,
+    "x": -1446.67,
+    "y": 2636.7,
+    "price": 90000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1092,
+    "server_id": 28,
+    "type": "house",
+    "name": "Настюшкинс&KtoYa<3",
+    "owner": "Stu_Qarabas",
+    "status": "Аукцион",
+    "x": -2174.27,
+    "y": 903.0449,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1095,
+    "server_id": 28,
+    "type": "house",
+    "name": "KtoYa&Настюшкинс<3",
+    "owner": "Stu_Qarabas",
+    "status": "Аукцион",
+    "x": -2224.84,
+    "y": 902.7009,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {

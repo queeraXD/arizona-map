@@ -12108,18 +12108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1010,
-    "server_id": 18,
-    "type": "house",
-    "name": "Домик Муна",
-    "owner": "Jerry_Burberry",
-    "status": "Занято",
-    "x": -2468.65,
-    "y": 1141.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1011,
     "server_id": 18,
     "type": "house",
@@ -22212,15 +22200,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 184,
+    "id": 1010,
     "server_id": 18,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Lawrence_Ilich",
+    "type": "house",
+    "name": "Домик Муна",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 2351.41,
-    "y": 2405.59,
-    "price": 10000000000,
+    "x": -2468.65,
+    "y": 1141.54,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25064,6 +25052,18 @@
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 18,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Lawrence_Ilich",
+    "status": "Занято",
+    "x": 2351.41,
+    "y": 2405.59,
     "price": 0,
     "district": "Сан-Андреас"
   },

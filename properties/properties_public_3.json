@@ -240,18 +240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 20,
-    "server_id": 3,
-    "type": "house",
-    "name": "Street Ravenscroft ",
-    "owner": "Sterling_Ravenscroft",
-    "status": "Занято",
-    "x": 2150.17,
-    "y": -1286.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 21,
     "server_id": 3,
     "type": "house",
@@ -320,6 +308,18 @@
     "status": "Занято",
     "x": 2247.91,
     "y": -1238.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 27,
+    "server_id": 3,
+    "type": "house",
+    "name": "white power",
+    "owner": "Ben_Shermann",
+    "status": "Занято",
+    "x": 2229.54,
+    "y": -1241.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17604,30 +17604,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1470,
-    "server_id": 3,
-    "type": "house",
-    "name": "SEA",
-    "owner": "Stu_Loving",
-    "status": "Занято",
-    "x": 1849.21,
-    "y": 2759.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1471,
-    "server_id": 3,
-    "type": "house",
-    "name": "SEA",
-    "owner": "Stu_Loving",
-    "status": "Занято",
-    "x": 1855.43,
-    "y": 2765.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1472,
     "server_id": 3,
     "type": "house",
@@ -23976,15 +23952,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
+    "id": 20,
     "server_id": 3,
     "type": "house",
-    "name": "Crazy House ",
-    "owner": "Crazy_Rich",
+    "name": "Street Ravenscroft ",
+    "owner": "Sterling_Ravenscroft",
     "status": "Аукцион",
-    "x": 2229.54,
-    "y": -1241.34,
-    "price": 2300000000,
+    "x": 2150.17,
+    "y": -1286.35,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24000,6 +23976,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1470,
+    "server_id": 3,
+    "type": "house",
+    "name": "SEA",
+    "owner": "Stu_Loving",
+    "status": "Аукцион",
+    "x": 1849.21,
+    "y": 2759.41,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1471,
+    "server_id": 3,
+    "type": "house",
+    "name": "SEA",
+    "owner": "Stu_Loving",
+    "status": "Аукцион",
+    "x": 1855.43,
+    "y": 2765.71,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1475,
     "server_id": 3,
     "type": "house",
@@ -24012,15 +24012,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 107,
+    "id": 129,
     "server_id": 3,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "Borge_West",
+    "name": "Рекламное агентство ЛС",
+    "owner": "naldon",
     "status": "Аукцион",
-    "x": -1816.68,
-    "y": 617.577,
-    "price": 350000,
+    "x": 1475.8,
+    "y": -1368.05,
+    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -25116,18 +25116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 129,
-    "server_id": 3,
-    "type": "business",
-    "name": "Рекламное агентство ЛС",
-    "owner": "naldon",
-    "status": "Занято",
-    "x": 1475.8,
-    "y": -1368.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 130,
     "server_id": 3,
     "type": "business",
@@ -25832,6 +25820,18 @@
     "status": "Занято",
     "x": -2335.81,
     "y": -166.667,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 107,
+    "server_id": 3,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Borge_West",
+    "status": "Занято",
+    "x": -1816.68,
+    "y": 617.577,
     "price": 0,
     "district": "Сан-Андреас"
   },

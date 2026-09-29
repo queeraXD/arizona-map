@@ -9348,18 +9348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 779,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Psycho_Delica",
-    "status": "Занято",
-    "x": -2568.95,
-    "y": 794.1749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 780,
     "server_id": 10,
     "type": "house",
@@ -23316,6 +23304,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 779,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Psycho_Delica",
+    "status": "Аукцион",
+    "x": -2568.95,
+    "y": 794.1749,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1432,
     "server_id": 10,
     "type": "house",
@@ -25552,8 +25552,8 @@
     "server_id": 10,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
+    "owner": "Государство",
+    "status": "Свободно",
     "x": 2262.75,
     "y": 2036.09,
     "price": 0,

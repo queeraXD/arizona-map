@@ -3579,7 +3579,7 @@
     "id": 298,
     "server_id": 15,
     "type": "house",
-    "name": "гности фэмели",
+    "name": "Glock_Gnosti and Lotemzi_Gnosti",
     "owner": "Glock_Gnosti",
     "status": "Занято",
     "x": 2092.26,
@@ -5972,6 +5972,18 @@
     "status": "Занято",
     "x": 1439.79,
     "y": 1951.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 498,
+    "server_id": 15,
+    "type": "house",
+    "name": "Love Moonlight",
+    "owner": "Nikita_Piskovot",
+    "status": "Занято",
+    "x": 1412.66,
+    "y": 1951.6,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11352,18 +11364,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 948,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Splintersi_Donaldson",
-    "status": "Занято",
-    "x": -2239.31,
-    "y": 962.374,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 949,
     "server_id": 15,
     "type": "house",
@@ -13036,7 +13036,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Стимовская библиотека:)",
-    "owner": "Nastya_Tkachuk",
+    "owner": "Splintersi_Donaldson",
     "status": "Занято",
     "x": -2158.98,
     "y": 866.3289,
@@ -15200,6 +15200,18 @@
     "status": "Занято",
     "x": -2434.01,
     "y": 1311.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1270,
+    "server_id": 15,
+    "type": "house",
+    "name": "жилище",
+    "owner": "Vladislav_Toyota",
+    "status": "Занято",
+    "x": -2433.05,
+    "y": 1301.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17780,6 +17792,18 @@
     "status": "Занято",
     "x": 2469.18,
     "y": -1278.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1486,
+    "server_id": 15,
+    "type": "house",
+    "name": "НГ инта Деп условия",
+    "owner": "Dior_Bluberry",
+    "status": "Занято",
+    "x": 2470.37,
+    "y": -1295.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21276,15 +21300,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 498,
+    "id": 948,
     "server_id": 15,
     "type": "house",
-    "name": "Love Moonlight",
-    "owner": "Sergio_McCloud",
+    "name": "Дом",
+    "owner": "Splintersi_Donaldson",
     "status": "Аукцион",
-    "x": 1412.66,
-    "y": 1951.6,
-    "price": 1000000,
+    "x": -2239.31,
+    "y": 962.374,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21300,42 +21324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1270,
-    "server_id": 15,
-    "type": "house",
-    "name": "жилище",
-    "owner": "Sonic_Ochida",
-    "status": "Аукцион",
-    "x": -2433.05,
-    "y": 1301.27,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1486,
-    "server_id": 15,
-    "type": "house",
-    "name": "НГ инта Деп условия",
-    "owner": "Dior_Bluberry",
-    "status": "Аукцион",
-    "x": 2470.37,
-    "y": -1295.55,
-    "price": 850100111,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 81,
-    "server_id": 15,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Sake_Fantasy",
-    "status": "Аукцион",
-    "x": 2101.89,
-    "y": 2228.81,
-    "price": 210000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 102,
     "server_id": 15,
     "type": "business",
@@ -21345,18 +21333,6 @@
     "x": -1735.96,
     "y": 897.68,
     "price": 9000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 15,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Sake_Fantasy",
-    "status": "Аукцион",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 210000,
     "district": "Сан-Андреас"
   },
   {
@@ -23076,6 +23052,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 81,
+    "server_id": 15,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Sake_Fantasy",
+    "status": "Занято",
+    "x": 2101.89,
+    "y": 2228.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 82,
     "server_id": 15,
     "type": "business",
@@ -23432,6 +23420,18 @@
     "status": "Занято",
     "x": 693.619,
     "y": 1967.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 15,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Sake_Fantasy",
+    "status": "Занято",
+    "x": -2103.59,
+    "y": -2342.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
