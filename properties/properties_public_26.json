@@ -819,7 +819,7 @@
     "id": 68,
     "server_id": 26,
     "type": "house",
-    "name": "О К А К",
+    "name": "Yosida house",
     "owner": "Ahmed_Yosida",
     "status": "Занято",
     "x": 2393.19,
@@ -848,18 +848,6 @@
     "status": "Занято",
     "x": 2384.62,
     "y": -1675.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 72,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hiroto_Faraway",
-    "status": "Занято",
-    "x": 2408.95,
-    "y": -1674.94,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8808,18 +8796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 737,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": -2881.09,
-    "y": 989.736,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 738,
     "server_id": 26,
     "type": "house",
@@ -10179,7 +10155,7 @@
     "id": 851,
     "server_id": 26,
     "type": "house",
-    "name": "мой первый домик",
+    "name": "майнинг",
     "owner": "Roman_Grezz",
     "status": "Занято",
     "x": -2189.26,
@@ -11244,18 +11220,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 941,
-    "server_id": 26,
-    "type": "house",
-    "name": "Mavrodev",
-    "owner": "Krug_Taniravan",
-    "status": "Занято",
-    "x": -2029.79,
-    "y": 796.554,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 942,
     "server_id": 26,
     "type": "house",
@@ -11864,18 +11828,6 @@
     "status": "Занято",
     "x": -2048.11,
     "y": 745.749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 993,
-    "server_id": 26,
-    "type": "house",
-    "name": "3kkk @hvhvho",
-    "owner": "Igor_Schwarz",
-    "status": "Занято",
-    "x": -2551.78,
-    "y": 2267.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23220,18 +23172,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1943,
-    "server_id": 26,
-    "type": "house",
-    "name": "Jesus Loves you",
-    "owner": "Jared_Padalecki",
-    "status": "Занято",
-    "x": 2633.01,
-    "y": 1978.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1944,
     "server_id": 26,
     "type": "house",
@@ -25116,6 +25056,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 72,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hiroto_Faraway",
+    "status": "Аукцион",
+    "x": 2408.95,
+    "y": -1674.94,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 492,
     "server_id": 26,
     "type": "house",
@@ -25137,6 +25089,42 @@
     "x": 2014.12,
     "y": 774.8829,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 737,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": -2881.09,
+    "y": 989.736,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 941,
+    "server_id": 26,
+    "type": "house",
+    "name": "Mavrodev",
+    "owner": "Calvin_Clein",
+    "status": "Аукцион",
+    "x": -2029.79,
+    "y": 796.554,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 993,
+    "server_id": 26,
+    "type": "house",
+    "name": "3kkk @hvhvho",
+    "owner": "Igor_Schwarz",
+    "status": "Аукцион",
+    "x": -2551.78,
+    "y": 2267.08,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25185,6 +25173,18 @@
     "x": 2787.7,
     "y": 2268.49,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1943,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dissatoro_Lawliet",
+    "status": "Аукцион",
+    "x": 2633.01,
+    "y": 1978.84,
+    "price": 2500,
     "district": "Сан-Андреас"
   },
   {
@@ -28816,7 +28816,7 @@
     "server_id": 26,
     "type": "business",
     "name": "Секонд хенд",
-    "owner": "Maksim_Kyousuke",
+    "owner": "Lovec_Pisunov",
     "status": "Занято",
     "x": 2194.6,
     "y": 1991.05,

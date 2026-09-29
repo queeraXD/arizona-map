@@ -8524,7 +8524,7 @@
     "server_id": 18,
     "type": "house",
     "name": "мой дом",
-    "owner": "Bodya_Heavenly",
+    "owner": "Game_Set",
     "status": "Занято",
     "x": 1610.94,
     "y": 2648.2,
@@ -20280,18 +20280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1691,
-    "server_id": 18,
-    "type": "house",
-    "name": "халупа бушика",
-    "owner": "Giavanni_Covalli",
-    "status": "Занято",
-    "x": 2468.34,
-    "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1692,
     "server_id": 18,
     "type": "house",
@@ -22209,6 +22197,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1691,
+    "server_id": 18,
+    "type": "house",
+    "name": "халупа бушика",
+    "owner": "Giavanni_Covalli",
+    "status": "Аукцион",
+    "x": 2468.34,
+    "y": -1398.81,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24208,7 +24208,7 @@
     "server_id": 18,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Sim_Carta",
+    "owner": "Ivan_Troshin",
     "status": "Занято",
     "x": 1404.09,
     "y": 51.2512,

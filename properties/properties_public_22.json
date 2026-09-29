@@ -3504,6 +3504,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 292,
+    "server_id": 22,
+    "type": "house",
+    "name": "Yuto House #1",
+    "owner": "martinerose",
+    "status": "Занято",
+    "x": 2479.2,
+    "y": -1063.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 293,
     "server_id": 22,
     "type": "house",
@@ -6956,18 +6968,6 @@
     "status": "Занято",
     "x": -268.992,
     "y": 2769.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 581,
-    "server_id": 22,
-    "type": "house",
-    "name": "склад 5",
-    "owner": "Rab_Alony",
-    "status": "Занято",
-    "x": -287.4519,
-    "y": 2758.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15564,18 +15564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1298,
-    "server_id": 22,
-    "type": "house",
-    "name": "СПОРТИК",
-    "owner": "Erick_Martins",
-    "status": "Занято",
-    "x": -2524.31,
-    "y": -145.865,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1299,
     "server_id": 22,
     "type": "house",
@@ -19860,18 +19848,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1656,
-    "server_id": 22,
-    "type": "house",
-    "name": "Хата продается",
-    "owner": "Xolod_Winston",
-    "status": "Занято",
-    "x": 2540.69,
-    "y": 1231.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1657,
     "server_id": 22,
     "type": "house",
@@ -20631,7 +20607,7 @@
     "id": 1720,
     "server_id": 22,
     "type": "house",
-    "name": "home",
+    "name": "ООО|James_Freenge|Хата",
     "owner": "James_Freenge",
     "status": "Занято",
     "x": 2487.26,
@@ -22032,15 +22008,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 292,
+    "id": 581,
     "server_id": 22,
     "type": "house",
-    "name": "Yuto House #1",
-    "owner": "martinerose",
+    "name": "склад 5",
+    "owner": "Rab_Alony",
     "status": "Аукцион",
-    "x": 2479.2,
-    "y": -1063.87,
-    "price": 1000000000,
+    "x": -287.4519,
+    "y": 2758.14,
+    "price": 845000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1298,
+    "server_id": 22,
+    "type": "house",
+    "name": "СПОРТИК",
+    "owner": "Erick_Martins",
+    "status": "Аукцион",
+    "x": -2524.31,
+    "y": -145.865,
+    "price": 600123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1656,
+    "server_id": 22,
+    "type": "house",
+    "name": "Хата продается",
+    "owner": "Xolod_Winston",
+    "status": "Аукцион",
+    "x": 2540.69,
+    "y": 1231.57,
+    "price": 8000,
     "district": "Сан-Андреас"
   },
   {

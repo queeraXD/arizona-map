@@ -360,6 +360,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 30,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Rayan_Teterov",
+    "status": "Занято",
+    "x": 2153.86,
+    "y": -1243.36,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 31,
     "server_id": 16,
     "type": "house",
@@ -2420,18 +2432,6 @@
     "status": "Занято",
     "x": 1540.17,
     "y": -851.502,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 203,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mike_Salvator",
-    "status": "Занято",
-    "x": 1534.75,
-    "y": -800.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13020,18 +13020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1087,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Steven_Emigrino",
-    "status": "Занято",
-    "x": -2158.02,
-    "y": 889.281,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1088,
     "server_id": 16,
     "type": "house",
@@ -17048,18 +17036,6 @@
     "status": "Занято",
     "x": 885.4229,
     "y": 2153.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1423,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Steven_Emigrino",
-    "status": "Занято",
-    "x": 885.424,
-    "y": 2180.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22452,15 +22428,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 30,
+    "id": 203,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Krabs_Markelovani",
+    "owner": "Mike_Salvator",
     "status": "Аукцион",
-    "x": 2153.86,
-    "y": -1243.36,
-    "price": 400000000,
+    "x": 1534.75,
+    "y": -800.32,
+    "price": 3200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1087,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Steven_Emigrino",
+    "status": "Аукцион",
+    "x": -2158.02,
+    "y": 889.281,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1423,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Steven_Emigrino",
+    "status": "Аукцион",
+    "x": 885.424,
+    "y": 2180.92,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {

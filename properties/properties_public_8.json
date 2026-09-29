@@ -12360,6 +12360,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1032,
+    "server_id": 8,
+    "type": "house",
+    "name": "EMPIRE STATE",
+    "owner": "Mark_Golovanskiy",
+    "status": "Занято",
+    "x": -2433.77,
+    "y": 1318.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1033,
     "server_id": 8,
     "type": "house",
@@ -15884,18 +15896,6 @@
     "status": "Занято",
     "x": -2515.38,
     "y": -189.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1327,
-    "server_id": 8,
-    "type": "house",
-    "name": "батончики",
-    "owner": "Saint_Akakiy",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -171.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22260,18 +22260,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1858,
-    "server_id": 8,
-    "type": "house",
-    "name": "Monopoly LS || Night Empery",
-    "owner": "Cupsize_Ebet",
-    "status": "Занято",
-    "x": 2492.15,
-    "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1859,
     "server_id": 8,
     "type": "house",
@@ -22760,18 +22748,6 @@
     "status": "Занято",
     "x": 2826.08,
     "y": 2140.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1900,
-    "server_id": 8,
-    "type": "house",
-    "name": "Angel Blood",
-    "owner": "Cupsize_Ebet",
-    "status": "Занято",
-    "x": 2818.53,
-    "y": 2134.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24456,18 +24432,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2041,
-    "server_id": 8,
-    "type": "house",
-    "name": "спасибо друг",
-    "owner": "Svyat_Nightik",
-    "status": "Занято",
-    "x": 2601.05,
-    "y": -1238.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2042,
     "server_id": 8,
     "type": "house",
@@ -25772,19 +25736,55 @@
     "status": "Аукцион",
     "x": 1554.44,
     "y": 2610.42,
-    "price": 900000000,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1032,
+    "id": 1327,
     "server_id": 8,
     "type": "house",
-    "name": "EMPIRE STATE",
-    "owner": "Mark_Golovanskiy",
+    "name": "батончики",
+    "owner": "Saint_Akakiy",
     "status": "Аукцион",
-    "x": -2433.77,
-    "y": 1318.95,
-    "price": 415000000,
+    "x": -2515.38,
+    "y": -171.05,
+    "price": 700123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1858,
+    "server_id": 8,
+    "type": "house",
+    "name": "Monopoly LS || Night Empery",
+    "owner": "Cupsize_Ebet",
+    "status": "Аукцион",
+    "x": 2492.15,
+    "y": -1398.81,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1900,
+    "server_id": 8,
+    "type": "house",
+    "name": "Angel Blood",
+    "owner": "Cupsize_Ebet",
+    "status": "Аукцион",
+    "x": 2818.53,
+    "y": 2134.41,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2041,
+    "server_id": 8,
+    "type": "house",
+    "name": "спасибо друг",
+    "owner": "Cupsize_Ebet",
+    "status": "Аукцион",
+    "x": 2601.05,
+    "y": -1238.08,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {
