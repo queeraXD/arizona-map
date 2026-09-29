@@ -4824,18 +4824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
-    "status": "Занято",
-    "x": 2448.44,
-    "y": -11.0635,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 403,
     "server_id": 7,
     "type": "house",
@@ -18192,18 +18180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1517,
-    "server_id": 7,
-    "type": "house",
-    "name": "Lombard",
-    "owner": "Arturro_Gaty",
-    "status": "Занято",
-    "x": -2285.31,
-    "y": 829.2849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1518,
     "server_id": 7,
     "type": "house",
@@ -21832,7 +21808,7 @@
     "server_id": 7,
     "type": "house",
     "name": "тик токерский дом Спукса",
-    "owner": "Lorenzo_Fuentes",
+    "owner": "Nekich_Bossov",
     "status": "Занято",
     "x": 2788.07,
     "y": 2229.48,
@@ -22300,7 +22276,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Mining by Guretto",
-    "owner": "Lorenzo_Fuentes",
+    "owner": "Gatila_Sebekov",
     "status": "Занято",
     "x": 2003.68,
     "y": 2163.5,
@@ -22772,18 +22748,6 @@
     "status": "Занято",
     "x": 2652.53,
     "y": 713.3469,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1899,
-    "server_id": 7,
-    "type": "house",
-    "name": "asd/die",
-    "owner": "Kigo_Hozyainov",
-    "status": "Занято",
-    "x": 2666.5,
-    "y": 742.5449,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25536,6 +25500,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 402,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
+    "status": "Аукцион",
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 617,
     "server_id": 7,
     "type": "house",
@@ -25544,7 +25520,31 @@
     "status": "Аукцион",
     "x": -881.726,
     "y": 1532.36,
-    "price": 25000,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1517,
+    "server_id": 7,
+    "type": "house",
+    "name": "Lombard",
+    "owner": "Arturro_Gaty",
+    "status": "Аукцион",
+    "x": -2285.31,
+    "y": 829.2849,
+    "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1899,
+    "server_id": 7,
+    "type": "house",
+    "name": "asd/die",
+    "owner": "Kigo_Hozyainov",
+    "status": "Аукцион",
+    "x": 2666.5,
+    "y": 742.5449,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {

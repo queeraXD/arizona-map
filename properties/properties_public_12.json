@@ -6972,18 +6972,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 581,
-    "server_id": 12,
-    "type": "house",
-    "name": "///",
-    "owner": "Pavel_Buhankin",
-    "status": "Занято",
-    "x": -287.4519,
-    "y": 2758.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 582,
     "server_id": 12,
     "type": "house",
@@ -7016,18 +7004,6 @@
     "status": "Занято",
     "x": -219.5899,
     "y": 2767.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 585,
-    "server_id": 12,
-    "type": "house",
-    "name": "///",
-    "owner": "Pavel_Buhankin",
-    "status": "Занято",
-    "x": -306.5914,
-    "y": 2739.557,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9928,7 +9904,7 @@
     "server_id": 12,
     "type": "house",
     "name": "FIBYS",
-    "owner": "Sakura_Miki",
+    "owner": "Misha_Pacik",
     "status": "Занято",
     "x": -2721.08,
     "y": -44.7512,
@@ -10380,6 +10356,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 866,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 6",
+    "owner": "Dylan_Broker",
+    "status": "Занято",
+    "x": -340.7749,
+    "y": 2565.41,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 867,
     "server_id": 12,
     "type": "house",
@@ -10400,6 +10388,18 @@
     "status": "Занято",
     "x": -313.3299,
     "y": 2567.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 869,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 5",
+    "owner": "Dylan_Broker",
+    "status": "Занято",
+    "x": -322.6199,
+    "y": 2554.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10556,18 +10556,6 @@
     "status": "Занято",
     "x": 2847.13,
     "y": -1309.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 883,
-    "server_id": 12,
-    "type": "house",
-    "name": "Берлога Купера",
-    "owner": "Fernando_Kleno",
-    "status": "Занято",
-    "x": 2852.5,
-    "y": -1365.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13972,7 +13960,7 @@
     "server_id": 12,
     "type": "house",
     "name": "DAGESTAN DOMINATION",
-    "owner": "Maga_Umarov",
+    "owner": "Kirill_Traksov",
     "status": "Занято",
     "x": -2293.67,
     "y": 730.94,
@@ -22176,18 +22164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1851,
-    "server_id": 12,
-    "type": "house",
-    "name": "///",
-    "owner": "Pavel_Buhankin",
-    "status": "Занято",
-    "x": 1789.88,
-    "y": 2778.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1852,
     "server_id": 12,
     "type": "house",
@@ -23784,6 +23760,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 581,
+    "server_id": 12,
+    "type": "house",
+    "name": "///",
+    "owner": "Pavel_Buhankin",
+    "status": "Аукцион",
+    "x": -287.4519,
+    "y": 2758.14,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 585,
+    "server_id": 12,
+    "type": "house",
+    "name": "///",
+    "owner": "Pavel_Buhankin",
+    "status": "Аукцион",
+    "x": -306.5914,
+    "y": 2739.557,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 626,
     "server_id": 12,
     "type": "house",
@@ -23796,27 +23796,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 866,
+    "id": 883,
     "server_id": 12,
     "type": "house",
-    "name": "Broker 6",
-    "owner": "Dylan_Broker",
+    "name": "Берлога Купера",
+    "owner": "Fernando_Kleno",
     "status": "Аукцион",
-    "x": -340.7749,
-    "y": 2565.41,
-    "price": 15000,
+    "x": 2852.5,
+    "y": -1365.96,
+    "price": 1500123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 869,
+    "id": 1851,
     "server_id": 12,
     "type": "house",
-    "name": "Broker 5",
-    "owner": "Dylan_Broker",
+    "name": "///",
+    "owner": "Pavel_Buhankin",
     "status": "Аукцион",
-    "x": -322.6199,
-    "y": 2554.17,
-    "price": 15000,
+    "x": 1789.88,
+    "y": 2778.6,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 149,
+    "server_id": 12,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Normalnyi_Paren",
+    "status": "Аукцион",
+    "x": 2135.145,
+    "y": 2379.054,
+    "price": 333333,
     "district": "Сан-Андреас"
   },
   {
@@ -26360,18 +26372,6 @@
     "status": "Занято",
     "x": -2013.727,
     "y": -1012.418,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 149,
-    "server_id": 12,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Normalnyi_Paren",
-    "status": "Занято",
-    "x": 2135.145,
-    "y": 2379.054,
     "price": 0,
     "district": "Сан-Андреас"
   },

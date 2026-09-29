@@ -2128,7 +2128,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Ферма 4",
-    "owner": "Happy_Jacob",
+    "owner": "Lucke_Hobbs",
     "status": "Занято",
     "x": 660.3449,
     "y": -1599.13,
@@ -2140,7 +2140,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Ферма 5",
-    "owner": "Happy_Jacob",
+    "owner": "Lucke_Hobbs",
     "status": "Занято",
     "x": 652.681,
     "y": -1619.61,
@@ -2540,18 +2540,6 @@
     "status": "Занято",
     "x": 1034.62,
     "y": -812.7239,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 212,
-    "server_id": 1,
-    "type": "house",
-    "name": "<3 VineWood <3",
-    "owner": "Sega_XxL",
-    "status": "Занято",
-    "x": 1017.07,
-    "y": -762.8809,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -4648,22 +4636,10 @@
     "server_id": 1,
     "type": "house",
     "name": "Набор Творчества стоит",
-    "owner": "Samuell_Blood",
+    "owner": "Chanel_Coco",
     "status": "Занято",
     "x": 2363.25,
     "y": 142.009,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 388,
-    "server_id": 1,
-    "type": "house",
-    "name": "Ферма 1",
-    "owner": "Happy_Jacob",
-    "status": "Занято",
-    "x": 2363.33,
-    "y": 116.068,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16560,6 +16536,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1381,
+    "server_id": 1,
+    "type": "house",
+    "name": "Grek",
+    "owner": "Grek_Hoopset",
+    "status": "Занято",
+    "x": 2700.21,
+    "y": -1220.46,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1382,
     "server_id": 1,
     "type": "house",
@@ -22128,18 +22116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1847,
-    "server_id": 1,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Chanel_Coco",
-    "status": "Занято",
-    "x": 784.3179,
-    "y": 1954.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1848,
     "server_id": 1,
     "type": "house",
@@ -24156,15 +24132,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1381,
+    "id": 212,
     "server_id": 1,
     "type": "house",
-    "name": "Grek",
-    "owner": "Grek_Hoopset",
+    "name": "<3 VineWood <3",
+    "owner": "Sega_XxL",
     "status": "Аукцион",
-    "x": 2700.21,
-    "y": -1220.46,
-    "price": 4000000000,
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 206000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 388,
+    "server_id": 1,
+    "type": "house",
+    "name": "Ферма 1",
+    "owner": "Happy_Jacob",
+    "status": "Аукцион",
+    "x": 2363.33,
+    "y": 116.068,
+    "price": 6000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1847,
+    "server_id": 1,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Chanel_Coco",
+    "status": "Аукцион",
+    "x": 784.3179,
+    "y": 1954.31,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
