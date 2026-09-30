@@ -3411,7 +3411,7 @@
     "id": 284,
     "server_id": 9,
     "type": "house",
-    "name": "Майнинг хата",
+    "name": "Фулл подвал в видеокартах!",
     "owner": "Lucas_Andreasson",
     "status": "Занято",
     "x": 2462.37,
@@ -4868,6 +4868,18 @@
     "status": "Занято",
     "x": 1451.08,
     "y": 374.286,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 406,
+    "server_id": 9,
+    "type": "house",
+    "name": "Sociophob mining",
+    "owner": "Ars_Dagestan",
+    "status": "Занято",
+    "x": 1419.97,
+    "y": 390.411,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7784,18 +7796,6 @@
     "status": "Занято",
     "x": 2532.3,
     "y": 742.5419,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 651,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом на продаже ТГBabidjon22824",
-    "owner": "Babidjon_Monopoly",
-    "status": "Занято",
-    "x": 1939.93,
-    "y": 642.882,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17908,7 +17908,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Yasuko House",
-    "owner": "Yas_Uko",
+    "owner": "Oleg_Maingardt",
     "status": "Занято",
     "x": -884.289,
     "y": 1538.28,
@@ -19339,18 +19339,6 @@
     "owner": "Aleksey_Grizzly",
     "status": "Занято",
     "x": -1955.67,
-    "y": 1190.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1615,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом на продаже ТГBabidjon22824",
-    "owner": "Babidjon_Monopoly",
-    "status": "Занято",
-    "x": -1997.53,
     "y": 1190.55,
     "price": 0,
     "district": "Сан-Андреас"
@@ -20964,6 +20952,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1751,
+    "server_id": 9,
+    "type": "house",
+    "name": "Хата Марселя",
+    "owner": "Marsel_Ayalla",
+    "status": "Занято",
+    "x": 412.1019,
+    "y": 1385.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1752,
     "server_id": 9,
     "type": "house",
@@ -21032,18 +21032,6 @@
     "status": "Занято",
     "x": 883.95,
     "y": 2104.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1758,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом на продаже ТГBabidjon22824",
-    "owner": "Babidjon_Monopoly",
-    "status": "Занято",
-    "x": 883.95,
-    "y": 2131.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22800,6 +22788,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1908,
+    "server_id": 9,
+    "type": "house",
+    "name": "Жуковск",
+    "owner": "Kevin_Zhukoff",
+    "status": "Занято",
+    "x": 2476.31,
+    "y": -1417.45,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1909,
     "server_id": 9,
     "type": "house",
@@ -23216,18 +23216,6 @@
     "status": "Занято",
     "x": 1749.07,
     "y": 2755.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1944,
-    "server_id": 9,
-    "type": "house",
-    "name": "House Kirill",
-    "owner": "Kirill_Nermrkob",
-    "status": "Занято",
-    "x": 1752.07,
-    "y": 2744.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23868,18 +23856,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 406,
-    "server_id": 9,
-    "type": "house",
-    "name": "Sociophob mining",
-    "owner": "Ars_Dagestan",
-    "status": "Аукцион",
-    "x": 1419.97,
-    "y": 390.411,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 639,
     "server_id": 9,
     "type": "house",
@@ -23892,15 +23868,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1751,
+    "id": 651,
     "server_id": 9,
     "type": "house",
-    "name": "Хата Марселя",
-    "owner": "Marsel_Ayalla",
+    "name": "Дом на продаже ТГBabidjon22824",
+    "owner": "Babidjon_Monopoly",
     "status": "Аукцион",
-    "x": 412.1019,
-    "y": 1385.15,
-    "price": 1200000000,
+    "x": 1939.93,
+    "y": 642.882,
+    "price": 2800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1615,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом на продаже ТГBabidjon22824",
+    "owner": "Babidjon_Monopoly",
+    "status": "Аукцион",
+    "x": -1997.53,
+    "y": 1190.55,
+    "price": 2800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1758,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом на продаже ТГBabidjon22824",
+    "owner": "Babidjon_Monopoly",
+    "status": "Аукцион",
+    "x": 883.95,
+    "y": 2131.46,
+    "price": 2700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23912,19 +23912,31 @@
     "status": "Аукцион",
     "x": 2492.14,
     "y": -1410.34,
-    "price": 20000,
+    "price": 18000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1908,
+    "id": 1944,
     "server_id": 9,
     "type": "house",
-    "name": "конура",
-    "owner": "Государство",
+    "name": "House Kirill",
+    "owner": "Kirill_Nermrkob",
     "status": "Аукцион",
-    "x": 2476.31,
-    "y": -1417.45,
-    "price": 10000000,
+    "x": 1752.07,
+    "y": 2744.52,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 77,
+    "server_id": 9,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Routine_Swarovski",
+    "status": "Аукцион",
+    "x": -227.385,
+    "y": 2711.95,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23936,7 +23948,7 @@
     "status": "Аукцион",
     "x": -1213.8,
     "y": 1830.33,
-    "price": 8000000000,
+    "price": 7000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24620,18 +24632,6 @@
     "status": "Занято",
     "x": -179.189,
     "y": 1133.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 77,
-    "server_id": 9,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Routine_Swarovski",
-    "status": "Занято",
-    "x": -227.385,
-    "y": 2711.95,
     "price": 0,
     "district": "Сан-Андреас"
   },

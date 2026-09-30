@@ -8152,7 +8152,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Moroz",
-    "owner": "Morozov_XP",
+    "owner": "[25]Alex_Twixy",
     "status": "Занято",
     "x": 986.426,
     "y": 2271.81,
@@ -16692,18 +16692,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1392,
-    "server_id": 23,
-    "type": "house",
-    "name": "Liquid House",
-    "owner": "Nisa_Liquid",
-    "status": "Занято",
-    "x": 1112.2,
-    "y": -1575.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1393,
     "server_id": 23,
     "type": "house",
@@ -18016,7 +18004,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Vince_Darkside",
+    "owner": "Gricha_Biznes",
     "status": "Занято",
     "x": -982.2169,
     "y": -1679.947,
@@ -19612,7 +19600,7 @@
     "server_id": 23,
     "type": "house",
     "name": "ИНФА НА ТАБЛИЧКЕ",
-    "owner": "Tatsuki_Markelovani",
+    "owner": "WinLine_Maney",
     "status": "Занято",
     "x": 2487.39,
     "y": -1398.81,
@@ -21168,15 +21156,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 315,
+    "id": 1392,
+    "server_id": 23,
+    "type": "house",
+    "name": "Liquid House",
+    "owner": "Nisa_Liquid",
+    "status": "Аукцион",
+    "x": 1112.2,
+    "y": -1575.21,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 22,
     "server_id": 23,
     "type": "business",
-    "name": "Body Shop",
-    "owner": "Bruno_McDaniel",
+    "name": "АЗС/Магазин механики",
+    "owner": "Vanek_Miller",
     "status": "Аукцион",
-    "x": 1050.871,
-    "y": -1803.655,
-    "price": 235000,
+    "x": -1623.67,
+    "y": -2693.49,
+    "price": 270000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 147,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Vanek_Miller",
+    "status": "Аукцион",
+    "x": -2174.971,
+    "y": -29.964,
+    "price": 270000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 149,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Vanek_Miller",
+    "status": "Аукцион",
+    "x": 2135.145,
+    "y": 2379.054,
+    "price": 270000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 321,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Vanek_Miller",
+    "status": "Аукцион",
+    "x": -2412.909,
+    "y": 350.0828,
+    "price": 330000,
     "district": "Сан-Андреас"
   },
   {
@@ -22364,18 +22400,6 @@
     "status": "Занято",
     "x": -78.68,
     "y": -1169.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 22,
-    "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Vanek_Miller",
-    "status": "Занято",
-    "x": -1623.67,
-    "y": -2693.49,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23700,18 +23724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 147,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Vanek_Miller",
-    "status": "Занято",
-    "x": -2174.971,
-    "y": -29.964,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 148,
     "server_id": 23,
     "type": "business",
@@ -23720,18 +23732,6 @@
     "status": "Занято",
     "x": -2013.727,
     "y": -1012.418,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 149,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Vanek_Miller",
-    "status": "Занято",
-    "x": 2135.145,
-    "y": 2379.054,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23888,18 +23888,6 @@
     "status": "Занято",
     "x": 1858.639,
     "y": 2159.243,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 321,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Vanek_Miller",
-    "status": "Занято",
-    "x": -2412.909,
-    "y": 350.0828,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25004,6 +24992,18 @@
     "status": "Занято",
     "x": 1004.554,
     "y": -1356.182,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 23,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Bruno_McDaniel",
+    "status": "Занято",
+    "x": 1050.871,
+    "y": -1803.655,
     "price": 0,
     "district": "Сан-Андреас"
   },

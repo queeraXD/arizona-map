@@ -336,18 +336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 28,
-    "server_id": 8,
-    "type": "house",
-    "name": "Relax House",
-    "owner": "Dirty_Stu",
-    "status": "Занято",
-    "x": 2209.72,
-    "y": -1238.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 29,
     "server_id": 8,
     "type": "house",
@@ -3876,18 +3864,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 323,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Idushchijkreke",
-    "status": "Занято",
-    "x": 776.6719,
-    "y": -503.492,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 324,
     "server_id": 8,
     "type": "house",
@@ -6112,7 +6088,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Дом",
-    "owner": "Hayashi_Blood",
+    "owner": "Hayashi_BIood",
     "status": "Занято",
     "x": -2219.84,
     "y": -2400.34,
@@ -8988,18 +8964,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 749,
-    "server_id": 8,
-    "type": "house",
-    "name": " Vance Manor",
-    "owner": "Vova_Idushchijkreke",
-    "status": "Занято",
-    "x": -2671.31,
-    "y": 927.4249,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 750,
     "server_id": 8,
     "type": "house",
@@ -10324,7 +10288,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Дом",
-    "owner": "Hayashi_Blood",
+    "owner": "Hayashi_BIood",
     "status": "Занято",
     "x": -218.123,
     "y": 2481.23,
@@ -18156,18 +18120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1515,
-    "server_id": 8,
-    "type": "house",
-    "name": "ДЕП УСлОВИЯ,ПОДВАл, МАЙНИНГ",
-    "owner": "Dirty_Stu",
-    "status": "Занято",
-    "x": 2670.3,
-    "y": -1203.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1516,
     "server_id": 8,
     "type": "house",
@@ -19224,18 +19176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1604,
-    "server_id": 8,
-    "type": "house",
-    "name": "Letychi_Galandec - top",
-    "owner": "Freddy_Nesquik",
-    "status": "Занято",
-    "x": 2613.51,
-    "y": 713.252,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1605,
     "server_id": 8,
     "type": "house",
@@ -19336,7 +19276,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Дом",
-    "owner": "Hayashi_Blood",
+    "owner": "Hayashi_BIood",
     "status": "Занято",
     "x": 2540.06,
     "y": 719.562,
@@ -22195,6 +22135,18 @@
     "owner": "Zahar_Valker",
     "status": "Занято",
     "x": 2476.4,
+    "y": -1410.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1852,
+    "server_id": 8,
+    "type": "house",
+    "name": "It is Demon",
+    "owner": "Roma_Zhivchyk",
+    "status": "Занято",
+    "x": 2473.17,
     "y": -1410.34,
     "price": 0,
     "district": "Сан-Андреас"
@@ -25072,7 +25024,7 @@
     "server_id": 8,
     "type": "house",
     "name": "есть видюхи 1 лвл",
-    "owner": "Vitaliy_Utilizator",
+    "owner": "Batonchik_Nesquik",
     "status": "Занято",
     "x": 2622.0,
     "y": -1220.61,
@@ -25764,6 +25716,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 28,
+    "server_id": 8,
+    "type": "house",
+    "name": "Relax House",
+    "owner": "Dirty_Stu",
+    "status": "Аукцион",
+    "x": 2209.72,
+    "y": -1238.99,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 323,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Idushchijkreke",
+    "status": "Аукцион",
+    "x": 776.6719,
+    "y": -503.492,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 749,
+    "server_id": 8,
+    "type": "house",
+    "name": " Vance Manor",
+    "owner": "Vova_Idushchijkreke",
+    "status": "Аукцион",
+    "x": -2671.31,
+    "y": 927.4249,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1327,
     "server_id": 8,
     "type": "house",
@@ -25772,19 +25760,31 @@
     "status": "Аукцион",
     "x": -2515.38,
     "y": -171.05,
-    "price": 500123123,
+    "price": 450123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1852,
+    "id": 1515,
     "server_id": 8,
     "type": "house",
-    "name": "It is Demon",
-    "owner": "Baron_Night",
+    "name": "ДЕП УСлОВИЯ,ПОДВАл, МАЙНИНГ",
+    "owner": "Dirty_Stu",
     "status": "Аукцион",
-    "x": 2473.17,
-    "y": -1410.34,
-    "price": 250000000,
+    "x": 2670.3,
+    "y": -1203.04,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1604,
+    "server_id": 8,
+    "type": "house",
+    "name": "Letychi_Galandec - top",
+    "owner": "Freddy_Nesquik",
+    "status": "Аукцион",
+    "x": 2613.51,
+    "y": 713.252,
+    "price": 225123123,
     "district": "Сан-Андреас"
   },
   {

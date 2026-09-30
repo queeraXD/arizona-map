@@ -240,18 +240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 20,
-    "server_id": 13,
-    "type": "house",
-    "name": "гараж за домом",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 2150.17,
-    "y": -1286.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 21,
     "server_id": 13,
     "type": "house",
@@ -956,18 +944,6 @@
     "status": "Занято",
     "x": 2282.13,
     "y": -1641.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 80,
-    "server_id": 13,
-    "type": "house",
-    "name": "ЦГшное убежище",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 2256.76,
-    "y": -1645.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2036,18 +2012,6 @@
     "status": "Занято",
     "x": 883.2899,
     "y": -1800.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 170,
-    "server_id": 13,
-    "type": "house",
-    "name": "личная взлётная полоса",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 866.827,
-    "y": -1798.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11148,18 +11112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 929,
-    "server_id": 13,
-    "type": "house",
-    "name": "...",
-    "owner": "Winston_Nilson",
-    "status": "Занято",
-    "x": -2017.64,
-    "y": 1017.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 930,
     "server_id": 13,
     "type": "house",
@@ -11692,7 +11644,7 @@
     "server_id": 13,
     "type": "house",
     "name": "KAVKAZ ",
-    "owner": "Lovec_Dakses",
+    "owner": "German_Kuruma",
     "status": "Занято",
     "x": -2479.06,
     "y": 2509.42,
@@ -12220,7 +12172,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Kavkaz House",
-    "owner": "Damir_Bugrov",
+    "owner": "Artem_Kazantsev",
     "status": "Занято",
     "x": -2541.3,
     "y": 987.9089,
@@ -14884,7 +14836,7 @@
     "server_id": 13,
     "type": "house",
     "name": "HeupoceTb_BoctalLa LEGENDA",
-    "owner": "Lovec_Pisunovv",
+    "owner": "Andres_Iniesta",
     "status": "Занято",
     "x": -2433.73,
     "y": 1281.51,
@@ -17368,7 +17320,7 @@
     "server_id": 13,
     "type": "house",
     "name": "снимите чсНО сатоши",
-    "owner": "Sunshine_Enemy",
+    "owner": "Cry_Satoshii",
     "status": "Занято",
     "x": 2781.95,
     "y": -1358.4,
@@ -17528,18 +17480,6 @@
     "status": "Занято",
     "x": -2625.85,
     "y": -105.316,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1461,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 161.522,
-    "y": -1455.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17808,18 +17748,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1484,
-    "server_id": 13,
-    "type": "house",
-    "name": "ЧилХаус",
-    "owner": "Lovec_Dakses",
-    "status": "Занято",
-    "x": 2319.76,
-    "y": -1053.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1485,
     "server_id": 13,
     "type": "house",
@@ -17996,18 +17924,6 @@
     "status": "Занято",
     "x": 2044.64,
     "y": -991.325,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1500,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 2051.26,
-    "y": -954.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23289,6 +23205,90 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 20,
+    "server_id": 13,
+    "type": "house",
+    "name": "гараж за домом",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 2150.17,
+    "y": -1286.35,
+    "price": 1400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 80,
+    "server_id": 13,
+    "type": "house",
+    "name": "ЦГшное убежище",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 2256.76,
+    "y": -1645.11,
+    "price": 1400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 170,
+    "server_id": 13,
+    "type": "house",
+    "name": "личная взлётная полоса",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 866.827,
+    "y": -1798.91,
+    "price": 2400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 929,
+    "server_id": 13,
+    "type": "house",
+    "name": "...",
+    "owner": "Winston_Nilson",
+    "status": "Аукцион",
+    "x": -2017.64,
+    "y": 1017.06,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1461,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 161.522,
+    "y": -1455.86,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1484,
+    "server_id": 13,
+    "type": "house",
+    "name": "ЧилХаус",
+    "owner": "Lovec_Dakses",
+    "status": "Аукцион",
+    "x": 2319.76,
+    "y": -1053.26,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1500,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 2051.26,
+    "y": -954.65,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {

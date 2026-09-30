@@ -9688,7 +9688,7 @@
     "server_id": 5,
     "type": "house",
     "name": "битки 1",
-    "owner": "Nig_Aday",
+    "owner": "London_Elchin",
     "status": "Занято",
     "x": -2723.12,
     "y": -112.97,
@@ -11595,7 +11595,7 @@
     "id": 966,
     "server_id": 5,
     "type": "house",
-    "name": "хата хамуса",
+    "name": "хамус абсос",
     "owner": "Kyle_Batler",
     "status": "Занято",
     "x": -2234.15,
@@ -12164,18 +12164,6 @@
     "status": "Занято",
     "x": -1732.33,
     "y": 1115.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1014,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом мечты",
-    "owner": "Satoshi_Gasay",
-    "status": "Занято",
-    "x": -2904.76,
-    "y": 1112.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17592,18 +17580,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1466,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sila_Repa",
-    "status": "Занято",
-    "x": -2593.7,
-    "y": 845.276,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1467,
     "server_id": 5,
     "type": "house",
@@ -20340,6 +20316,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1695,
+    "server_id": 5,
+    "type": "house",
+    "name": "LaFlare Corporation",
+    "owner": "Tony_Ja",
+    "status": "Занято",
+    "x": 1110.53,
+    "y": -1578.45,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1696,
     "server_id": 5,
     "type": "house",
@@ -21808,7 +21796,7 @@
     "server_id": 5,
     "type": "house",
     "name": "битки 2 ",
-    "owner": "Nig_Aday",
+    "owner": "London_Elchin",
     "status": "Занято",
     "x": 2818.61,
     "y": 2140.76,
@@ -25092,15 +25080,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1695,
+    "id": 1014,
     "server_id": 5,
     "type": "house",
-    "name": "LaFlare Corporation",
-    "owner": "Tony_Ja",
+    "name": "Дом мечты",
+    "owner": "Satoshi_Gasay",
     "status": "Аукцион",
-    "x": 1110.53,
-    "y": -1578.45,
-    "price": 6000000000,
+    "x": -2904.76,
+    "y": 1112.11,
+    "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1466,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sila_Repa",
+    "status": "Аукцион",
+    "x": -2593.7,
+    "y": 845.276,
+    "price": 500123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25112,7 +25112,7 @@
     "status": "Аукцион",
     "x": 2441.54,
     "y": 1213.67,
-    "price": 800000000,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -28336,7 +28336,7 @@
     "server_id": 5,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Sos_Krutoy",
+    "owner": "Jason_McDuck",
     "status": "Занято",
     "x": 1460.33,
     "y": 2784.8,
