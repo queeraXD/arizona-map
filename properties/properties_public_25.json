@@ -504,6 +504,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 42,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Saloedov",
+    "status": "Занято",
+    "x": 2550.99,
+    "y": -1233.79,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 43,
     "server_id": 25,
     "type": "house",
@@ -2688,18 +2700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 225,
-    "server_id": 25,
-    "type": "house",
-    "name": "Кибитка",
-    "owner": "Stepan_Kristov",
-    "status": "Занято",
-    "x": 946.0869,
-    "y": -710.3339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 226,
     "server_id": 25,
     "type": "house",
@@ -4800,18 +4800,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 401,
-    "server_id": 25,
-    "type": "house",
-    "name": "Кибитка",
-    "owner": "Stepan_Kristov",
-    "status": "Занято",
-    "x": 2438.82,
-    "y": -54.6911,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 402,
     "server_id": 25,
     "type": "house",
@@ -6900,18 +6888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 576,
-    "server_id": 25,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "[08]Oleg_Pivassik",
-    "status": "Занято",
-    "x": -165.173,
-    "y": 2768.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 577,
     "server_id": 25,
     "type": "house",
@@ -7940,18 +7916,6 @@
     "status": "Занято",
     "x": 985.838,
     "y": 1901.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 663,
-    "server_id": 25,
-    "type": "house",
-    "name": "Лас вентурас",
-    "owner": "Michael_Rapaport",
-    "status": "Занято",
-    "x": 985.0139,
-    "y": 1930.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10764,18 +10728,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 899,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "John_Durden",
-    "status": "Занято",
-    "x": -2069.05,
-    "y": -2561.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 900,
     "server_id": 25,
     "type": "house",
@@ -11044,7 +10996,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "[05]Yota_Werside",
+    "owner": "[14]Www_Www",
     "status": "Занято",
     "x": -2280.46,
     "y": 1130.83,
@@ -15300,18 +15252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1277,
-    "server_id": 25,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "[08]Oleg_Pivassik",
-    "status": "Занято",
-    "x": -2689.47,
-    "y": 57.0872,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1278,
     "server_id": 25,
     "type": "house",
@@ -17480,6 +17420,18 @@
     "status": "Занято",
     "x": 1115.72,
     "y": -1562.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1459,
+    "server_id": 25,
+    "type": "house",
+    "name": "Резиденция LCN",
+    "owner": "Keks_Uralsky",
+    "status": "Занято",
+    "x": 1115.72,
+    "y": -1570.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20392,7 +20344,7 @@
     "server_id": 25,
     "type": "house",
     "name": "ASER",
-    "owner": "Aser_RedField",
+    "owner": "[08]Oleg_Pivassik",
     "status": "Занято",
     "x": 2541.53,
     "y": 1222.04,
@@ -20404,7 +20356,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Swayzer_Naperedoze",
+    "owner": "Icy_Rednapp",
     "status": "Занято",
     "x": 2541.53,
     "y": 1220.78,
@@ -23748,27 +23700,99 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 42,
+    "id": 225,
     "server_id": 25,
     "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Saloedov",
+    "name": "Кибитка",
+    "owner": "Stepan_Kristov",
     "status": "Аукцион",
-    "x": 2550.99,
-    "y": -1233.79,
-    "price": 999999999,
+    "x": 946.0869,
+    "y": -710.3339,
+    "price": 3700000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1459,
+    "id": 401,
     "server_id": 25,
     "type": "house",
-    "name": "Резиденция LCN",
-    "owner": "Keks_Uralsky",
+    "name": "Кибитка",
+    "owner": "Stepan_Kristov",
     "status": "Аукцион",
-    "x": 1115.72,
-    "y": -1570.0,
-    "price": 2000000000,
+    "x": 2438.82,
+    "y": -54.6911,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 576,
+    "server_id": 25,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "[08]Oleg_Pivassik",
+    "status": "Аукцион",
+    "x": -165.173,
+    "y": 2768.39,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 663,
+    "server_id": 25,
+    "type": "house",
+    "name": "Лас вентурас",
+    "owner": "Michael_Rapaport",
+    "status": "Аукцион",
+    "x": 985.0139,
+    "y": 1930.67,
+    "price": 7005,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 899,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "John_Durden",
+    "status": "Аукцион",
+    "x": -2069.05,
+    "y": -2561.36,
+    "price": 360000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1277,
+    "server_id": 25,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "[08]Oleg_Pivassik",
+    "status": "Аукцион",
+    "x": -2689.47,
+    "y": 57.0872,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 266,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Routine_Swarovski",
+    "status": "Аукцион",
+    "x": 947.921,
+    "y": 1719.16,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 298,
+    "server_id": 25,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Endless_Summer",
+    "status": "Аукцион",
+    "x": 2452.42,
+    "y": 2065.05,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24620,18 +24644,6 @@
     "status": "Занято",
     "x": 2097.67,
     "y": 2224.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 298,
-    "server_id": 25,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Endless_Summer",
-    "status": "Занято",
-    "x": 2452.42,
-    "y": 2065.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26972,18 +26984,6 @@
     "status": "Занято",
     "x": 2824.77,
     "y": 1290.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 266,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Routine_Swarovski",
-    "status": "Занято",
-    "x": 947.921,
-    "y": 1719.16,
     "price": 0,
     "district": "Сан-Андреас"
   },

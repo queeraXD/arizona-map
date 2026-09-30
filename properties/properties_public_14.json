@@ -4272,18 +4272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 356,
-    "server_id": 14,
-    "type": "house",
-    "name": "деп условия | ферма 1",
-    "owner": "Bot_Calder",
-    "status": "Занято",
-    "x": 1280.86,
-    "y": -874.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 357,
     "server_id": 14,
     "type": "house",
@@ -6716,18 +6704,6 @@
     "status": "Занято",
     "x": 238.8159,
     "y": 1026.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 560,
-    "server_id": 14,
-    "type": "house",
-    "name": "домик Нечитайликов",
-    "owner": "Larry_Holmes",
-    "status": "Занято",
-    "x": 227.699,
-    "y": 1070.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20652,18 +20628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1721,
-    "server_id": 14,
-    "type": "house",
-    "name": "берлога фармилы",
-    "owner": "Glavniy_Narushitel",
-    "status": "Занято",
-    "x": 1826.44,
-    "y": -1980.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1722,
     "server_id": 14,
     "type": "house",
@@ -22572,18 +22536,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1886,
-    "server_id": 14,
-    "type": "house",
-    "name": "Хата",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 2476.46,
-    "y": -1359.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1887,
     "server_id": 14,
     "type": "house",
@@ -22956,18 +22908,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1918,
-    "server_id": 14,
-    "type": "house",
-    "name": "FreakHeads dominates",
-    "owner": "Lizzard_Calder",
-    "status": "Занято",
-    "x": 1763.11,
-    "y": 2871.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1919,
     "server_id": 14,
     "type": "house",
@@ -23120,18 +23060,6 @@
     "status": "Занято",
     "x": 1763.13,
     "y": 2871.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1932,
-    "server_id": 14,
-    "type": "house",
-    "name": "FreakHeads dominates",
-    "owner": "Lizzard_Calder",
-    "status": "Занято",
-    "x": 1783.74,
-    "y": 2868.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23697,6 +23625,78 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1721,
+    "server_id": 14,
+    "type": "house",
+    "name": "берлога фармилы",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1826.44,
+    "y": -1980.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 356,
+    "server_id": 14,
+    "type": "house",
+    "name": "деп условия | ферма 1",
+    "owner": "Bot_Calder",
+    "status": "Аукцион",
+    "x": 1280.86,
+    "y": -874.83,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 560,
+    "server_id": 14,
+    "type": "house",
+    "name": "домик Нечитайликов",
+    "owner": "Larry_Holmes",
+    "status": "Аукцион",
+    "x": 227.699,
+    "y": 1070.82,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1886,
+    "server_id": 14,
+    "type": "house",
+    "name": "Хата",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": 2476.46,
+    "y": -1359.1,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1918,
+    "server_id": 14,
+    "type": "house",
+    "name": "FreakHeads dominates",
+    "owner": "Lizzard_Calder",
+    "status": "Аукцион",
+    "x": 1763.11,
+    "y": 2871.28,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1932,
+    "server_id": 14,
+    "type": "house",
+    "name": "FreakHeads dominates",
+    "owner": "Lizzard_Calder",
+    "status": "Аукцион",
+    "x": 1783.74,
+    "y": 2868.73,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {

@@ -528,18 +528,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 44,
-    "server_id": 22,
-    "type": "house",
-    "name": "ОБЛА HOUSE",
-    "owner": "Bizya_Corporation",
-    "status": "Занято",
-    "x": 2520.72,
-    "y": -1197.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 45,
     "server_id": 22,
     "type": "house",
@@ -3420,6 +3408,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 285,
+    "server_id": 22,
+    "type": "house",
+    "name": "Realiston Family",
+    "owner": "Leonardo_Adams",
+    "status": "Занято",
+    "x": 2219.28,
+    "y": -1031.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 286,
     "server_id": 22,
     "type": "house",
@@ -3495,8 +3495,8 @@
     "id": 292,
     "server_id": 22,
     "type": "house",
-    "name": "Yuto House #1",
-    "owner": "martinerose",
+    "name": "$$ Cartier Monopoly $$",
+    "owner": "Alex_Cartier",
     "status": "Занято",
     "x": 2479.2,
     "y": -1063.87,
@@ -6848,18 +6848,6 @@
     "status": "Занято",
     "x": -2789.17,
     "y": -181.2929,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 573,
-    "server_id": 22,
-    "type": "house",
-    "name": "| Берлога Отто |",
-    "owner": "Denis_Way",
-    "status": "Занято",
-    "x": -169.026,
-    "y": 2707.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11096,18 +11084,6 @@
     "status": "Занято",
     "x": -2307.24,
     "y": 944.2639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 927,
-    "server_id": 22,
-    "type": "house",
-    "name": "statham",
-    "owner": "Jason_Statam",
-    "status": "Занято",
-    "x": -1842.22,
-    "y": 1114.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17460,6 +17436,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1457,
+    "server_id": 22,
+    "type": "house",
+    "name": "Фиолетовые арбузы",
+    "owner": "Rey_Hindray",
+    "status": "Занято",
+    "x": 981.5859,
+    "y": 2414.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1458,
     "server_id": 22,
     "type": "house",
@@ -19260,6 +19248,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1608,
+    "server_id": 22,
+    "type": "house",
+    "name": "revival ",
+    "owner": "Sinister_Sedona",
+    "status": "Занято",
+    "x": 2816.49,
+    "y": 2268.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1609,
     "server_id": 22,
     "type": "house",
@@ -19564,7 +19564,7 @@
     "server_id": 22,
     "type": "house",
     "name": " Сладкий",
-    "owner": "Ford_Murtaza",
+    "owner": "Awarjir_Yunkee",
     "status": "Занято",
     "x": 2433.93,
     "y": -1320.71,
@@ -21996,27 +21996,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1608,
+    "id": 44,
     "server_id": 22,
     "type": "house",
-    "name": "revival ",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2816.49,
-    "y": 2268.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 285,
-    "server_id": 22,
-    "type": "house",
-    "name": "Realiston Family",
-    "owner": "Leonardo_Adams",
+    "name": "ОБЛА HOUSE",
+    "owner": "Bizya_Corporation",
     "status": "Аукцион",
-    "x": 2219.28,
-    "y": -1031.06,
-    "price": 700000000,
+    "x": 2520.72,
+    "y": -1197.44,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22028,19 +22016,31 @@
     "status": "Аукцион",
     "x": 2256.91,
     "y": 690.51,
-    "price": 1200000000,
+    "price": 860000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1457,
+    "id": 573,
     "server_id": 22,
     "type": "house",
-    "name": "Дом",
-    "owner": "Mishka_Gummy",
+    "name": "| Берлога Отто |",
+    "owner": "Denis_Way",
     "status": "Аукцион",
-    "x": 981.5859,
-    "y": 2414.26,
-    "price": 400000000,
+    "x": -169.026,
+    "y": 2707.24,
+    "price": 470111000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 927,
+    "server_id": 22,
+    "type": "house",
+    "name": "statham",
+    "owner": "Jason_Statam",
+    "status": "Аукцион",
+    "x": -1842.22,
+    "y": 1114.76,
+    "price": 750000000,
     "district": "Сан-Андреас"
   },
   {
