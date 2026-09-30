@@ -2736,6 +2736,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 228,
+    "server_id": 32,
+    "type": "house",
+    "name": "Домик пажилова",
+    "owner": "Geni_Comostia",
+    "status": "Занято",
+    "x": 672.7119,
+    "y": -1019.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 229,
     "server_id": 32,
     "type": "house",
@@ -7892,6 +7904,18 @@
     "status": "Занято",
     "x": 1030.21,
     "y": 1848.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 661,
+    "server_id": 32,
+    "type": "house",
+    "name": "Пустой",
+    "owner": "Maryan_Vetmo",
+    "status": "Занято",
+    "x": 984.2689,
+    "y": 1878.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16504,7 +16528,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Gama_Morris",
+    "owner": "Soji_McCloud",
     "status": "Занято",
     "x": 1115.72,
     "y": -1570.0,
@@ -19080,6 +19104,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1626,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Implored_Space",
+    "status": "Занято",
+    "x": 2707.3,
+    "y": -1220.51,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1627,
     "server_id": 32,
     "type": "house",
@@ -19088,6 +19124,18 @@
     "status": "Занято",
     "x": 2707.31,
     "y": -1216.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1628,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Chapman_Delorian",
+    "status": "Занято",
+    "x": 2707.31,
+    "y": -1211.78,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21348,13 +21396,13 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1820,
+    "id": 1821,
     "server_id": 32,
     "type": "house",
-    "name": "Князь",
-    "owner": "Egor_Kniazev",
+    "name": "1821",
+    "owner": "Implored_Space",
     "status": "Занято",
-    "x": 2645.53,
+    "x": 2645.55,
     "y": 2019.21,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22416,30 +22464,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 228,
-    "server_id": 32,
-    "type": "house",
-    "name": "Домик Молодого",
-    "owner": "Bara_Vozdyx",
-    "status": "Аукцион",
-    "x": 672.7119,
-    "y": -1019.91,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 661,
-    "server_id": 32,
-    "type": "house",
-    "name": "Пустой",
-    "owner": "Danka_Sosal",
-    "status": "Аукцион",
-    "x": 984.2689,
-    "y": 1878.91,
-    "price": 800123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 838,
     "server_id": 32,
     "type": "house",
@@ -22449,30 +22473,6 @@
     "x": -2168.28,
     "y": 1107.37,
     "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1626,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Implored_Space",
-    "status": "Аукцион",
-    "x": 2707.3,
-    "y": -1220.51,
-    "price": 1100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1628,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Danka_Sosal",
-    "status": "Аукцион",
-    "x": 2707.31,
-    "y": -1211.78,
-    "price": 800123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22512,15 +22512,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1821,
+    "id": 1820,
     "server_id": 32,
     "type": "house",
-    "name": "1821",
-    "owner": "Implored_Space",
+    "name": "Князь",
+    "owner": "Egor_Kniazev",
     "status": "Аукцион",
-    "x": 2645.55,
+    "x": 2645.53,
     "y": 2019.21,
-    "price": 1100000000,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 112,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Colly_Hawk",
+    "status": "Аукцион",
+    "x": -2672.26,
+    "y": 258.431,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 179,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Colly_Hawk",
+    "status": "Аукцион",
+    "x": 1521.99,
+    "y": -1025.07,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 285,
+    "server_id": 32,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Jonny_Bravo",
+    "status": "Аукцион",
+    "x": 1031.61,
+    "y": 1354.3,
+    "price": 600000,
     "district": "Сан-Андреас"
   },
   {
@@ -24048,18 +24084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
-    "server_id": 32,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Jonny_Bravo",
-    "status": "Занято",
-    "x": 1031.61,
-    "y": 1354.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 286,
     "server_id": 32,
     "type": "business",
@@ -24380,18 +24404,6 @@
     "status": "Занято",
     "x": -2767.51,
     "y": 788.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 112,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Colly_Hawk",
-    "status": "Занято",
-    "x": -2672.26,
-    "y": 258.431,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25304,18 +25316,6 @@
     "status": "Занято",
     "x": -172.597,
     "y": 1106.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 179,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Colly_Hawk",
-    "status": "Занято",
-    "x": 1521.99,
-    "y": -1025.07,
     "price": 0,
     "district": "Сан-Андреас"
   },

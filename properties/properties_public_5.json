@@ -555,8 +555,8 @@
     "id": 46,
     "server_id": 5,
     "type": "house",
-    "name": ":uf21d: SEKTA",
-    "owner": "Asenktertu_Almsee",
+    "name": "Tomka Shooter",
+    "owner": "Tom_Shooter",
     "status": "Занято",
     "x": 2197.44,
     "y": -1404.08,
@@ -567,8 +567,8 @@
     "id": 47,
     "server_id": 5,
     "type": "house",
-    "name": ":uf21d: SEKTA",
-    "owner": "Asenktertu_Almsee",
+    "name": "Tomka Shooter",
+    "owner": "Tom_Shooter",
     "status": "Занято",
     "x": 2188.55,
     "y": -1419.21,
@@ -2144,6 +2144,18 @@
     "status": "Занято",
     "x": 652.681,
     "y": -1619.61,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 179,
+    "server_id": 5,
+    "type": "house",
+    "name": "Domination Fam",
+    "owner": "Christopher_Phillips",
+    "status": "Занято",
+    "x": 656.023,
+    "y": -1636.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11228,18 +11240,6 @@
     "status": "Занято",
     "x": -2066.49,
     "y": 819.859,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 938,
-    "server_id": 5,
-    "type": "house",
-    "name": "House Min",
-    "owner": "Sanya_McCoy",
-    "status": "Занято",
-    "x": -2048.05,
-    "y": 820.2609,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22540,7 +22540,7 @@
     "server_id": 5,
     "type": "house",
     "name": "лв ",
-    "owner": "Anger_Archangel",
+    "owner": "Mike_Metall",
     "status": "Занято",
     "x": 2440.71,
     "y": 1224.42,
@@ -25044,18 +25044,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 179,
-    "server_id": 5,
-    "type": "house",
-    "name": "Domination Fam",
-    "owner": "Christopher_Phillips",
-    "status": "Аукцион",
-    "x": 656.023,
-    "y": -1636.08,
-    "price": 2222222222,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 834,
     "server_id": 5,
     "type": "house",
@@ -25065,6 +25053,18 @@
     "x": -2029.84,
     "y": 745.572,
     "price": 1350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 938,
+    "server_id": 5,
+    "type": "house",
+    "name": "House Min",
+    "owner": "Sanya_McCoy",
+    "status": "Аукцион",
+    "x": -2048.05,
+    "y": 820.2609,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {
