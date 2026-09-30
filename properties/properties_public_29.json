@@ -4920,6 +4920,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 410,
+    "server_id": 29,
+    "type": "house",
+    "name": "#2016",
+    "owner": "Macar_Killazovich",
+    "status": "Занято",
+    "x": 1402.4,
+    "y": 333.4599,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 411,
     "server_id": 29,
     "type": "house",
@@ -7364,18 +7376,6 @@
     "status": "Занято",
     "x": -884.163,
     "y": 1553.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 615,
-    "server_id": 29,
-    "type": "house",
-    "name": "monobank",
-    "owner": "Stu_Mirage",
-    "status": "Занято",
-    "x": -905.638,
-    "y": 1543.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11400,18 +11400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 951,
-    "server_id": 29,
-    "type": "house",
-    "name": "Luxe House",
-    "owner": "Kimmi_Toxiclamee",
-    "status": "Занято",
-    "x": -2230.74,
-    "y": 1027.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 952,
     "server_id": 29,
     "type": "house",
@@ -13052,18 +13040,6 @@
     "status": "Занято",
     "x": -2158.98,
     "y": 866.3289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1089,
-    "server_id": 29,
-    "type": "house",
-    "name": "Четрвертый",
-    "owner": "Kimmi_Toxiclamee",
-    "status": "Занято",
-    "x": -2158.92,
-    "y": 830.585,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15252,6 +15228,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1275,
+    "server_id": 29,
+    "type": "house",
+    "name": "poroshok",
+    "owner": "Katsu_Alien",
+    "status": "Занято",
+    "x": -2689.53,
+    "y": 74.5092,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1276,
     "server_id": 29,
     "type": "house",
@@ -15304,7 +15292,7 @@
     "server_id": 29,
     "type": "house",
     "name": "earthMONOPOLY",
-    "owner": "Earth_Monopoly",
+    "owner": "Alex_Gromov",
     "status": "Занято",
     "x": -2725.79,
     "y": -36.4976,
@@ -19872,18 +19860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1661,
-    "server_id": 29,
-    "type": "house",
-    "name": "Blue House",
-    "owner": "Denki_Blue",
-    "status": "Занято",
-    "x": 2468.27,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1662,
     "server_id": 29,
     "type": "house",
@@ -21096,15 +21072,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 410,
+    "id": 615,
     "server_id": 29,
     "type": "house",
-    "name": "#2016",
-    "owner": "Fuzze_Qq",
+    "name": "monobank",
+    "owner": "Stu_Mirage",
     "status": "Аукцион",
-    "x": 1402.4,
-    "y": 333.4599,
-    "price": 400000000,
+    "x": -905.638,
+    "y": 1543.5,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 951,
+    "server_id": 29,
+    "type": "house",
+    "name": "Luxe House",
+    "owner": "Kimmi_Toxiclamee",
+    "status": "Аукцион",
+    "x": -2230.74,
+    "y": 1027.64,
+    "price": 333333333,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1089,
+    "server_id": 29,
+    "type": "house",
+    "name": "Четрвертый",
+    "owner": "Kimmi_Toxiclamee",
+    "status": "Аукцион",
+    "x": -2158.92,
+    "y": 830.585,
+    "price": 333333333,
     "district": "Сан-Андреас"
   },
   {
@@ -21116,7 +21116,7 @@
     "status": "Аукцион",
     "x": -2621.98,
     "y": 168.636,
-    "price": 350000000,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21128,19 +21128,19 @@
     "status": "Аукцион",
     "x": -2639.4,
     "y": 168.569,
-    "price": 350000000,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1275,
+    "id": 1661,
     "server_id": 29,
     "type": "house",
-    "name": "тот самый JOE",
-    "owner": "Bop_Begemotov",
+    "name": "Blue House",
+    "owner": "Denki_Blue",
     "status": "Аукцион",
-    "x": -2689.53,
-    "y": 74.5092,
-    "price": 20000000,
+    "x": 2468.27,
+    "y": -1391.71,
+    "price": 30000000,
     "district": "Сан-Андреас"
   },
   {

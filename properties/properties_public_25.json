@@ -5064,18 +5064,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 422,
-    "server_id": 25,
-    "type": "house",
-    "name": "дом",
-    "owner": "Neko_Farmlove",
-    "status": "Занято",
-    "x": 1312.43,
-    "y": 170.811,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 423,
     "server_id": 25,
     "type": "house",
@@ -10692,18 +10680,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 892,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Marat_Jumaliev",
-    "status": "Занято",
-    "x": -2058.54,
-    "y": -2503.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 893,
     "server_id": 25,
     "type": "house",
@@ -10772,18 +10748,6 @@
     "status": "Занято",
     "x": -2043.12,
     "y": -2559.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 899,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Marat_Jumaliev",
-    "status": "Занято",
-    "x": -2069.05,
-    "y": -2561.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17496,18 +17460,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1459,
-    "server_id": 25,
-    "type": "house",
-    "name": "Резиденция LCN",
-    "owner": "Keks_Uralsky",
-    "status": "Занято",
-    "x": 1115.72,
-    "y": -1570.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1460,
     "server_id": 25,
     "type": "house",
@@ -21156,18 +21108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1766,
-    "server_id": 25,
-    "type": "house",
-    "name": "Morgan",
-    "owner": "Dron_Monolith",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2163.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1767,
     "server_id": 25,
     "type": "house",
@@ -23748,6 +23688,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 422,
+    "server_id": 25,
+    "type": "house",
+    "name": "дом",
+    "owner": "Neko_Farmlove",
+    "status": "Аукцион",
+    "x": 1312.43,
+    "y": 170.811,
+    "price": 4000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 892,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Marat_Jumaliev",
+    "status": "Аукцион",
+    "x": -2058.54,
+    "y": -2503.38,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 899,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Marat_Jumaliev",
+    "status": "Аукцион",
+    "x": -2069.05,
+    "y": -2561.36,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1459,
+    "server_id": 25,
+    "type": "house",
+    "name": "Резиденция LCN",
+    "owner": "Keks_Uralsky",
+    "status": "Аукцион",
+    "x": 1115.72,
+    "y": -1570.0,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1674,
     "server_id": 25,
     "type": "house",
@@ -23769,6 +23757,18 @@
     "x": 2541.53,
     "y": 1212.77,
     "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1766,
+    "server_id": 25,
+    "type": "house",
+    "name": "Morgan",
+    "owner": "Dron_Monolith",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2163.69,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {

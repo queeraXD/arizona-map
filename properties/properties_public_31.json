@@ -76,7 +76,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Ballas house",
-    "owner": "Shaqil_Shakur",
+    "owner": "Down_Crew",
     "status": "Занято",
     "x": 1997.48,
     "y": -1116.92,
@@ -2559,8 +2559,8 @@
     "id": 213,
     "server_id": 31,
     "type": "house",
-    "name": "Хата Канчика",
-    "owner": "Said_Yager",
+    "name": "Ugway_Home",
+    "owner": "Lionele_Ugway",
     "status": "Занято",
     "x": 989.614,
     "y": -828.484,
@@ -2667,7 +2667,7 @@
     "id": 222,
     "server_id": 31,
     "type": "house",
-    "name": " :lion: Министерство Обороны РФ",
+    "name": "Kazakh Corparation",
     "owner": "Sterlo_White",
     "status": "Занято",
     "x": 891.1149,
@@ -7664,18 +7664,6 @@
     "status": "Занято",
     "x": -328.5119,
     "y": 1118.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 639,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "crimson",
-    "status": "Занято",
-    "x": -278.9989,
-    "y": 1003.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17544,18 +17532,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1464,
-    "server_id": 31,
-    "type": "house",
-    "name": "Pritono - 2corno",
-    "owner": "crimson",
-    "status": "Занято",
-    "x": 885.9019,
-    "y": 2014.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1465,
     "server_id": 31,
     "type": "house",
@@ -23352,6 +23328,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 639,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -278.9989,
+    "y": 1003.39,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1092,
     "server_id": 31,
     "type": "house",
@@ -23364,27 +23352,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 113,
+    "id": 1464,
     "server_id": 31,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Patrik_Wilson",
+    "type": "house",
+    "name": "Pritono - 2corno",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": -1808.68,
-    "y": 945.944,
-    "price": 170000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 120,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Patrik_Wilson",
-    "status": "Аукцион",
-    "x": -2718.47,
-    "y": 50.452,
-    "price": 230000,
+    "x": 885.9019,
+    "y": 2014.87,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24348,6 +24324,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 120,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Patrik_Wilson",
+    "status": "Занято",
+    "x": -2718.47,
+    "y": 50.452,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 121,
     "server_id": 31,
     "type": "business",
@@ -25244,6 +25232,18 @@
     "status": "Занято",
     "x": -2672.26,
     "y": 258.431,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 113,
+    "server_id": 31,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Patrik_Wilson",
+    "status": "Занято",
+    "x": -1808.68,
+    "y": 945.944,
     "price": 0,
     "district": "Сан-Андреас"
   },

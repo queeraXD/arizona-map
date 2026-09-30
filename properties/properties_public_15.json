@@ -5976,18 +5976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 498,
-    "server_id": 15,
-    "type": "house",
-    "name": "Love Moonlight",
-    "owner": "Nikita_Piskovot",
-    "status": "Занято",
-    "x": 1412.66,
-    "y": 1951.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 499,
     "server_id": 15,
     "type": "house",
@@ -11360,6 +11348,18 @@
     "status": "Занято",
     "x": -2239.15,
     "y": 943.854,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 948,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Splintersi_Donaldson",
+    "status": "Занято",
+    "x": -2239.31,
+    "y": 962.374,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20460,18 +20460,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1707,
-    "server_id": 15,
-    "type": "house",
-    "name": "10 комнат, набор архитектора",
-    "owner": "Stefan_Crips",
-    "status": "Занято",
-    "x": 1120.06,
-    "y": -2181.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1708,
     "server_id": 15,
     "type": "house",
@@ -21312,15 +21300,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 948,
+    "id": 498,
     "server_id": 15,
     "type": "house",
-    "name": "Дом",
-    "owner": "Splintersi_Donaldson",
+    "name": "Love Moonlight",
+    "owner": "Nikita_Piskovot",
     "status": "Аукцион",
-    "x": -2239.31,
-    "y": 962.374,
-    "price": 500000000,
+    "x": 1412.66,
+    "y": 1951.6,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1707,
+    "server_id": 15,
+    "type": "house",
+    "name": "10 комнат, набор архитектора",
+    "owner": "Stefan_Crips",
+    "status": "Аукцион",
+    "x": 1120.06,
+    "y": -2181.22,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {

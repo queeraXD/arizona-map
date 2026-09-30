@@ -375,7 +375,7 @@
     "id": 31,
     "server_id": 3,
     "type": "house",
-    "name": "SEX SHOP JDM PARK",
+    "name": "Stechkinas House",
     "owner": "Anna_Stechkina",
     "status": "Занято",
     "x": 2110.99,
@@ -17628,18 +17628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1473,
-    "server_id": 3,
-    "type": "house",
-    "name": "SEA",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": 1873.55,
-    "y": 2784.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1474,
     "server_id": 3,
     "type": "house",
@@ -23996,7 +23984,7 @@
     "status": "Аукцион",
     "x": 1849.21,
     "y": 2759.41,
-    "price": 250000000,
+    "price": 250123123,
     "district": "Сан-Андреас"
   },
   {
@@ -24008,19 +23996,19 @@
     "status": "Аукцион",
     "x": 1855.43,
     "y": 2765.71,
-    "price": 250000000,
+    "price": 250123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 129,
+    "id": 1473,
     "server_id": 3,
-    "type": "business",
-    "name": "Рекламное агентство ЛС",
-    "owner": "naldon",
+    "type": "house",
+    "name": "SEA",
+    "owner": "Michail_Shtyh",
     "status": "Аукцион",
-    "x": 1475.8,
-    "y": -1368.05,
-    "price": 400000,
+    "x": 1873.55,
+    "y": 2784.2,
+    "price": 300123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25104,6 +25092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 129,
+    "server_id": 3,
+    "type": "business",
+    "name": "Рекламное агентство ЛС",
+    "owner": "naldon",
+    "status": "Занято",
+    "x": 1475.8,
+    "y": -1368.05,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 130,
     "server_id": 3,
     "type": "business",
@@ -25480,7 +25480,7 @@
     "server_id": 3,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Chudo_Funduk",
+    "owner": "Jonathan_Nightmare",
     "status": "Занято",
     "x": 1381.58,
     "y": 40.6967,
