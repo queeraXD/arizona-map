@@ -3088,7 +3088,7 @@
     "server_id": 32,
     "type": "house",
     "name": "@Kaifat@",
-    "owner": "Kirsan_Kaifat",
+    "owner": "Igor_Sokolov",
     "status": "Занято",
     "x": 2122.32,
     "y": -970.3649,
@@ -4083,7 +4083,7 @@
     "id": 340,
     "server_id": 32,
     "type": "house",
-    "name": ":u1f4b2: Price House :u1f4b2:",
+    "name": "куплю дома рядом tg@pay32price",
     "owner": "Pay_Price",
     "status": "Занято",
     "x": 747.122,
@@ -4107,7 +4107,7 @@
     "id": 342,
     "server_id": 32,
     "type": "house",
-    "name": ":u1f4b2: Price House :u1f4b2:",
+    "name": "куплю дома рядом tg@pay32price",
     "owner": "Pay_Price",
     "status": "Занято",
     "x": 705.4279,
@@ -15639,8 +15639,8 @@
     "id": 1307,
     "server_id": 32,
     "type": "house",
-    "name": "Шлюпкин Дом",
-    "owner": "Pudge_Sniper",
+    "name": "fail",
+    "owner": "Viktor_Korneplod",
     "status": "Занято",
     "x": -2524.33,
     "y": -198.7969,
@@ -15828,6 +15828,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1323,
+    "server_id": 32,
+    "type": "house",
+    "name": "Ледяной Человек",
+    "owner": "Ice_Man",
+    "status": "Занято",
+    "x": 1465.76,
+    "y": 364.191,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1324,
     "server_id": 32,
     "type": "house",
@@ -15980,6 +15992,18 @@
     "status": "Занято",
     "x": 1622.72,
     "y": 2846.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1337,
+    "server_id": 32,
+    "type": "house",
+    "name": "fail",
+    "owner": "Viktor_Korneplod",
+    "status": "Занято",
+    "x": 1632.8,
+    "y": 2843.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22476,30 +22500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1323,
-    "server_id": 32,
-    "type": "house",
-    "name": "dream corp.",
-    "owner": "Danka_Sosal",
-    "status": "Аукцион",
-    "x": 1465.76,
-    "y": 364.191,
-    "price": 600123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1337,
-    "server_id": 32,
-    "type": "house",
-    "name": "House 1",
-    "owner": "Crypto_Bot",
-    "status": "Аукцион",
-    "x": 1632.8,
-    "y": 2843.82,
-    "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1812,
     "server_id": 32,
     "type": "house",
@@ -22521,18 +22521,6 @@
     "x": 2651.65,
     "y": 1978.84,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 91,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Kostya_Freedom",
-    "status": "Аукцион",
-    "x": 2186.91,
-    "y": 1113.35,
-    "price": 145000,
     "district": "Сан-Андреас"
   },
   {
@@ -22808,6 +22796,18 @@
     "status": "Занято",
     "x": -36.098,
     "y": 2349.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 91,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Kostya_Freedom",
+    "status": "Занято",
+    "x": 2186.91,
+    "y": 1113.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
