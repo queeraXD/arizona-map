@@ -2391,7 +2391,7 @@
     "id": 199,
     "server_id": 24,
     "type": "house",
-    "name": "Дом",
+    "name": "$StasHouse3$",
     "owner": "Stas_Mraz",
     "status": "Занято",
     "x": 1421.91,
@@ -2403,7 +2403,7 @@
     "id": 200,
     "server_id": 24,
     "type": "house",
-    "name": "Дом",
+    "name": "$StasHouse2$",
     "owner": "Stas_Mraz",
     "status": "Занято",
     "x": 1468.62,
@@ -10632,18 +10632,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 887,
-    "server_id": 24,
-    "type": "house",
-    "name": "CHAPMAN HOUSE",
-    "owner": "Ilya_Grant",
-    "status": "Занято",
-    "x": -2174.04,
-    "y": -2482.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 888,
     "server_id": 24,
     "type": "house",
@@ -11180,6 +11168,18 @@
     "status": "Занято",
     "x": -2017.94,
     "y": 970.2399,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 933,
+    "server_id": 24,
+    "type": "house",
+    "name": "шкаф просперо",
+    "owner": "Prospero_Deeplace",
+    "status": "Занято",
+    "x": -2094.28,
+    "y": 745.752,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19972,7 +19972,7 @@
     "server_id": 24,
     "type": "house",
     "name": "synd1cate?",
-    "owner": "Jon_Kiper",
+    "owner": "Molly_Revenge",
     "status": "Занято",
     "x": 412.117,
     "y": 1385.14,
@@ -20664,6 +20664,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1727,
+    "server_id": 24,
+    "type": "house",
+    "name": "в шкафе дроп ставте ставку",
+    "owner": "Maksim_Animeshnik",
+    "status": "Занято",
+    "x": 1775.02,
+    "y": 2870.94,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1728,
     "server_id": 24,
     "type": "house",
@@ -20796,6 +20808,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1739,
+    "server_id": 24,
+    "type": "house",
+    "name": "Zoldik",
+    "owner": "Killua_Zoldik",
+    "status": "Занято",
+    "x": -594.822,
+    "y": -1056.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1740,
     "server_id": 24,
     "type": "house",
@@ -20816,6 +20840,18 @@
     "status": "Занято",
     "x": -582.557,
     "y": -1040.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1742,
+    "server_id": 24,
+    "type": "house",
+    "name": "Zoldik",
+    "owner": "Killua_Zoldik",
+    "status": "Занято",
+    "x": -576.806,
+    "y": -1031.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21972,15 +22008,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 933,
+    "id": 887,
     "server_id": 24,
     "type": "house",
-    "name": "шкаф просперо",
-    "owner": "Prospero_Deeplace",
+    "name": "CHAPMAN HOUSE",
+    "owner": "Ilya_Grant",
     "status": "Аукцион",
-    "x": -2094.28,
-    "y": 745.752,
-    "price": 551231238,
+    "x": -2174.04,
+    "y": -2482.31,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22004,43 +22040,7 @@
     "status": "Аукцион",
     "x": 1105.59,
     "y": -1569.98,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1727,
-    "server_id": 24,
-    "type": "house",
-    "name": "в шкафе дроп ставте ставку",
-    "owner": "Maksim_Animeshnik",
-    "status": "Аукцион",
-    "x": 1775.02,
-    "y": 2870.94,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1739,
-    "server_id": 24,
-    "type": "house",
-    "name": "Zoldik",
-    "owner": "Killua_Zoldik",
-    "status": "Аукцион",
-    "x": -594.822,
-    "y": -1056.87,
-    "price": 10000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1742,
-    "server_id": 24,
-    "type": "house",
-    "name": "Zoldik",
-    "owner": "Killua_Zoldik",
-    "status": "Аукцион",
-    "x": -576.806,
-    "y": -1031.86,
-    "price": 10000,
+    "price": 25000,
     "district": "Сан-Андреас"
   },
   {
