@@ -77,10 +77,10 @@
     "type": "house",
     "name": "Ballas house",
     "owner": "Down_Crew",
-    "status": "Занято",
+    "status": "Аукцион",
     "x": 1997.48,
     "y": -1116.92,
-    "price": 0,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -7668,6 +7668,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 639,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Prosto_Zhorik",
+    "status": "Занято",
+    "x": -278.9989,
+    "y": 1003.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 640,
     "server_id": 31,
     "type": "house",
@@ -9136,7 +9148,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Himmler Corp. #1",
-    "owner": "Markus_Himmler",
+    "owner": "Object_Mode",
     "status": "Занято",
     "x": -2667.07,
     "y": 820.3189,
@@ -9483,8 +9495,8 @@
     "id": 791,
     "server_id": 31,
     "type": "house",
-    "name": "Lovely LaFamilia",
-    "owner": "Mikhail_Maybach",
+    "name": "Maybach House",
+    "owner": "Billy_Sweizy",
     "status": "Занято",
     "x": -2566.54,
     "y": 896.6409,
@@ -17544,6 +17556,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1464,
+    "server_id": 31,
+    "type": "house",
+    "name": "Sure Servant House",
+    "owner": "Benimaru_Servant",
+    "status": "Занято",
+    "x": 885.9019,
+    "y": 2014.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1465,
     "server_id": 31,
     "type": "house",
@@ -18972,6 +18996,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1585,
+    "server_id": 31,
+    "type": "house",
+    "name": "Saber Family ",
+    "owner": "Evgeniy_Saber",
+    "status": "Занято",
+    "x": 2437.04,
+    "y": 1242.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1586,
     "server_id": 31,
     "type": "house",
@@ -19500,18 +19536,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1630,
-    "server_id": 31,
-    "type": "house",
-    "name": "Concussion #2",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": 2707.31,
-    "y": -1202.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1631,
     "server_id": 31,
     "type": "house",
@@ -19540,7 +19564,7 @@
     "server_id": 31,
     "type": "house",
     "name": "дроп с ларцов",
-    "owner": "Gordon_Hontson",
+    "owner": "Object_Mode",
     "status": "Занято",
     "x": 25.5818,
     "y": 1345.96,
@@ -23328,51 +23352,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 639,
+    "id": 1630,
     "server_id": 31,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
+    "name": "Concussion #2",
+    "owner": "Unwritten_Reply",
     "status": "Аукцион",
-    "x": -278.9989,
-    "y": 1003.39,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1464,
-    "server_id": 31,
-    "type": "house",
-    "name": "Pritono - 2corno",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 885.9019,
-    "y": 2014.87,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1585,
-    "server_id": 31,
-    "type": "house",
-    "name": "Saber Family ",
-    "owner": "Evgeniy_Saber",
-    "status": "Аукцион",
-    "x": 2437.04,
-    "y": 1242.43,
-    "price": 1300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 82,
-    "server_id": 31,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Mlnato_Rostik",
-    "status": "Аукцион",
-    "x": 1879.19,
-    "y": 2339.5,
-    "price": 140000,
+    "x": 2707.31,
+    "y": -1202.99,
+    "price": 800123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25112,6 +25100,18 @@
     "status": "Занято",
     "x": 2101.89,
     "y": 2228.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 82,
+    "server_id": 31,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Mlnato_Rostik",
+    "status": "Занято",
+    "x": 1879.19,
+    "y": 2339.5,
     "price": 0,
     "district": "Сан-Андреас"
   },

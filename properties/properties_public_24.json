@@ -2628,18 +2628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 219,
-    "server_id": 24,
-    "type": "house",
-    "name": "[$] Jameli Monopoly [$]",
-    "owner": "Jameli_Tolipova",
-    "status": "Занято",
-    "x": 785.828,
-    "y": -828.3469,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 220,
     "server_id": 24,
     "type": "house",
@@ -3016,7 +3004,7 @@
     "server_id": 24,
     "type": "house",
     "name": "мосли",
-    "owner": "Adam_Mosley",
+    "owner": "Twink_Mosley",
     "status": "Занято",
     "x": 2480.55,
     "y": 126.995,
@@ -10632,18 +10620,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 887,
-    "server_id": 24,
-    "type": "house",
-    "name": "CHAPMAN HOUSE",
-    "owner": "Ilya_Grant",
-    "status": "Занято",
-    "x": -2174.04,
-    "y": -2482.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 888,
     "server_id": 24,
     "type": "house",
@@ -17268,18 +17244,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1440,
-    "server_id": 24,
-    "type": "house",
-    "name": "mangekyou",
-    "owner": "Mangekyou_Masonov",
-    "status": "Занято",
-    "x": 1105.59,
-    "y": -1569.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1441,
     "server_id": 24,
     "type": "house",
@@ -20416,7 +20380,7 @@
     "server_id": 24,
     "type": "house",
     "name": "мой house",
-    "owner": "Judy_Hopps",
+    "owner": "Lynn_Skezz",
     "status": "Занято",
     "x": 2468.34,
     "y": -1376.27,
@@ -20700,18 +20664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1727,
-    "server_id": 24,
-    "type": "house",
-    "name": "логово тяги флориста",
-    "owner": "Nikita_Ykobson",
-    "status": "Занято",
-    "x": 1775.02,
-    "y": 2870.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1728,
     "server_id": 24,
     "type": "house",
@@ -20844,18 +20796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1739,
-    "server_id": 24,
-    "type": "house",
-    "name": "Zoldik",
-    "owner": "Killua_Zoldik",
-    "status": "Занято",
-    "x": -594.822,
-    "y": -1056.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1740,
     "server_id": 24,
     "type": "house",
@@ -20876,18 +20816,6 @@
     "status": "Занято",
     "x": -582.557,
     "y": -1040.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1742,
-    "server_id": 24,
-    "type": "house",
-    "name": "Zoldik",
-    "owner": "Killua_Zoldik",
-    "status": "Занято",
-    "x": -576.806,
-    "y": -1031.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22041,6 +21969,78 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 219,
+    "server_id": 24,
+    "type": "house",
+    "name": "[$] Jameli Monopoly [$]",
+    "owner": "Jameli_Tolipova",
+    "status": "Аукцион",
+    "x": 785.828,
+    "y": -828.3469,
+    "price": 7000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 887,
+    "server_id": 24,
+    "type": "house",
+    "name": "CHAPMAN HOUSE",
+    "owner": "Ilya_Grant",
+    "status": "Аукцион",
+    "x": -2174.04,
+    "y": -2482.31,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1440,
+    "server_id": 24,
+    "type": "house",
+    "name": "mangekyou",
+    "owner": "Psychopath_Withdrawn",
+    "status": "Аукцион",
+    "x": 1105.59,
+    "y": -1569.98,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1727,
+    "server_id": 24,
+    "type": "house",
+    "name": "логово тяги флориста",
+    "owner": "Nikita_Ykobson",
+    "status": "Аукцион",
+    "x": 1775.02,
+    "y": 2870.94,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1739,
+    "server_id": 24,
+    "type": "house",
+    "name": "Zoldik",
+    "owner": "Killua_Zoldik",
+    "status": "Аукцион",
+    "x": -594.822,
+    "y": -1056.87,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1742,
+    "server_id": 24,
+    "type": "house",
+    "name": "Zoldik",
+    "owner": "Killua_Zoldik",
+    "status": "Аукцион",
+    "x": -576.806,
+    "y": -1031.86,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {

@@ -3144,6 +3144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 262,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zaza_Cult",
+    "status": "Занято",
+    "x": 2373.85,
+    "y": -8.6736,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 263,
     "server_id": 4,
     "type": "house",
@@ -4640,6 +4652,18 @@
     "status": "Занято",
     "x": 2363.25,
     "y": 142.009,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 388,
+    "server_id": 4,
+    "type": "house",
+    "name": "zaza",
+    "owner": "Zaza_Cult",
+    "status": "Занято",
+    "x": 2363.33,
+    "y": 116.068,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10848,6 +10872,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 907,
+    "server_id": 4,
+    "type": "house",
+    "name": "autohotkey fam",
+    "owner": "Swag_User",
+    "status": "Занято",
+    "x": -2101.64,
+    "y": -2532.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 908,
     "server_id": 4,
     "type": "house",
@@ -12164,6 +12200,18 @@
     "status": "Занято",
     "x": 1748.78,
     "y": 2758.47,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1018,
+    "server_id": 4,
+    "type": "house",
+    "name": "Mining House <3",
+    "owner": "Kate_Dizel",
+    "status": "Занято",
+    "x": 1749.24,
+    "y": 2756.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14384,18 +14432,6 @@
     "status": "Занято",
     "x": -2904.47,
     "y": 1101.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1204,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Chester_Haynes",
-    "status": "Занято",
-    "x": -2904.81,
-    "y": 1111.61,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20496,6 +20532,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1713,
+    "server_id": 4,
+    "type": "house",
+    "name": "Поместье GALLAGHERS",
+    "owner": "Gleb_Carboni",
+    "status": "Занято",
+    "x": 2288.19,
+    "y": -1104.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1714,
     "server_id": 4,
     "type": "house",
@@ -24280,7 +24328,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Династия Колхозников",
-    "owner": "Kirill_Toyota",
+    "owner": "Gnoy_Shakur",
     "status": "Занято",
     "x": 2403.83,
     "y": 1063.58,
@@ -25200,63 +25248,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 262,
+    "id": 1204,
     "server_id": 4,
     "type": "house",
     "name": "Дом",
-    "owner": "Zaza_Cult",
+    "owner": "Chester_Haynes",
     "status": "Аукцион",
-    "x": 2373.85,
-    "y": -8.6736,
-    "price": 3500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 388,
-    "server_id": 4,
-    "type": "house",
-    "name": "zaza",
-    "owner": "Zaza_Cult",
-    "status": "Аукцион",
-    "x": 2363.33,
-    "y": 116.068,
-    "price": 3500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 907,
-    "server_id": 4,
-    "type": "house",
-    "name": "autohotkey fam",
-    "owner": "Swag_User",
-    "status": "Аукцион",
-    "x": -2101.64,
-    "y": -2532.11,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1018,
-    "server_id": 4,
-    "type": "house",
-    "name": "Mining House <3",
-    "owner": "Kate_Dizel",
-    "status": "Аукцион",
-    "x": 1749.24,
-    "y": 2756.52,
-    "price": 460000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1713,
-    "server_id": 4,
-    "type": "house",
-    "name": "Поместье GALLAGHERS",
-    "owner": "Gleb_Carboni",
-    "status": "Аукцион",
-    "x": 2288.19,
-    "y": -1104.65,
-    "price": 3600000000,
+    "x": -2904.81,
+    "y": 1111.61,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -28288,7 +28288,7 @@
     "server_id": 4,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Empirically_Possible",
+    "owner": "Henry_Destruction",
     "status": "Занято",
     "x": 1771.74,
     "y": -1903.27,

@@ -4068,18 +4068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 339,
-    "server_id": 28,
-    "type": "house",
-    "name": "Dark Montana",
-    "owner": "Slishu_Forbs",
-    "status": "Занято",
-    "x": -2402.42,
-    "y": 869.166,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 340,
     "server_id": 28,
     "type": "house",
@@ -7121,9 +7109,21 @@
     "type": "house",
     "name": "уютное желье :3 с деп условиями",
     "owner": "Stu_Qarabas",
-    "status": "Занято",
+    "status": "Аукцион",
     "x": -1449.95,
     "y": 2562.85,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 594,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Xanax_XR",
+    "status": "Занято",
+    "x": -1446.67,
+    "y": 2636.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13085,10 +13085,10 @@
     "type": "house",
     "name": "Настюшкинс&KtoYa<3",
     "owner": "Stu_Qarabas",
-    "status": "Занято",
+    "status": "Аукцион",
     "x": -2174.27,
     "y": 903.0449,
-    "price": 0,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -13121,10 +13121,10 @@
     "type": "house",
     "name": "KtoYa&Настюшкинс<3",
     "owner": "Stu_Qarabas",
-    "status": "Занято",
+    "status": "Аукцион",
     "x": -2224.84,
     "y": 902.7009,
-    "price": 0,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -19980,30 +19980,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1667,
-    "server_id": 28,
-    "type": "house",
-    "name": "Kentuki Village №3",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": -789.7039,
-    "y": 2763.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1668,
-    "server_id": 28,
-    "type": "house",
-    "name": "Kentuki Village №2",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": -789.7039,
-    "y": 2765.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1669,
     "server_id": 28,
     "type": "house",
@@ -22368,15 +22344,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 594,
+    "id": 339,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
-    "owner": "Xanax_XR",
+    "name": "Dark Montana",
+    "owner": "Slishu_Forbs",
     "status": "Аукцион",
-    "x": -1446.67,
-    "y": 2636.7,
-    "price": 80000000,
+    "x": -2402.42,
+    "y": 869.166,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1667,
+    "server_id": 28,
+    "type": "house",
+    "name": "Kentuki Village №3",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": -789.7039,
+    "y": 2763.76,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1668,
+    "server_id": 28,
+    "type": "house",
+    "name": "Kentuki Village №2",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": -789.7039,
+    "y": 2765.13,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26488,7 +26488,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Wer_Yuzaki",
+    "owner": "Carlos_Gallardo",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
@@ -26524,7 +26524,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Wer_Yuzaki",
+    "owner": "Carlos_Gallardo",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

@@ -6292,7 +6292,7 @@
     "server_id": 25,
     "type": "house",
     "name": "ЛВ, майнинг",
-    "owner": "[30]Black_Maddy",
+    "owner": "Dimas_Owner",
     "status": "Занято",
     "x": 1596.98,
     "y": 2147.31,
@@ -10776,18 +10776,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 899,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "John_Durden",
-    "status": "Занято",
-    "x": -2069.05,
-    "y": -2561.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 900,
     "server_id": 25,
     "type": "house",
@@ -11849,10 +11837,10 @@
     "type": "house",
     "name": "//by Blood",
     "owner": "Serega_Yudin",
-    "status": "Занято",
+    "status": "Аукцион",
     "x": 2446.82,
     "y": 18.8796,
-    "price": 0,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -16608,18 +16596,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1385,
-    "server_id": 25,
-    "type": "house",
-    "name": "..::!Durden!::..",
-    "owner": "John_Durden",
-    "status": "Занято",
-    "x": 1110.55,
-    "y": -1554.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1386,
     "server_id": 25,
     "type": "house",
@@ -17492,18 +17468,6 @@
     "status": "Занято",
     "x": 1115.72,
     "y": -1562.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1459,
-    "server_id": 25,
-    "type": "house",
-    "name": "Резиденция LCN",
-    "owner": "Keks_Uralsky",
-    "status": "Занято",
-    "x": 1115.72,
-    "y": -1570.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19504,7 +19468,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Wiggins 7 lvl btc",
-    "owner": "[31]Amadei_Takizawa",
+    "owner": "Routine_Swarovski",
     "status": "Занято",
     "x": 99.2854,
     "y": 1170.15,
@@ -19803,8 +19767,8 @@
     "id": 1651,
     "server_id": 25,
     "type": "house",
-    "name": "прр",
-    "owner": "Austhen_Lawrence",
+    "name": "lassers house",
+    "owner": "Eugeny_Must",
     "status": "Занято",
     "x": 2601.05,
     "y": -1233.6,
@@ -20073,6 +20037,18 @@
     "x": 2357.05,
     "y": 1010.86,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1674,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Cer",
+    "status": "Аукцион",
+    "x": 2363.18,
+    "y": 1006.67,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
@@ -20433,6 +20409,18 @@
     "x": 2541.53,
     "y": 1214.94,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1705,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Cer",
+    "status": "Аукцион",
+    "x": 2541.53,
+    "y": 1212.77,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21124,7 +21112,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Wiggins 7 lvl btc",
-    "owner": "Serega_Wiggins",
+    "owner": "Routine_Swarovski",
     "status": "Занято",
     "x": 2011.01,
     "y": 2168.81,
@@ -21152,18 +21140,6 @@
     "status": "Занято",
     "x": 2003.69,
     "y": 2168.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1766,
-    "server_id": 25,
-    "type": "house",
-    "name": "Morgan",
-    "owner": "Dron_Monolith",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2163.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23736,27 +23712,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1674,
+    "id": 899,
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Vova_Cer",
+    "owner": "John_Durden",
     "status": "Аукцион",
-    "x": 2363.18,
-    "y": 1006.67,
+    "x": -2069.05,
+    "y": -2561.36,
     "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1705,
+    "id": 1385,
     "server_id": 25,
     "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Cer",
+    "name": "..::!Durden!::..",
+    "owner": "John_Durden",
     "status": "Аукцион",
-    "x": 2541.53,
-    "y": 1212.77,
-    "price": 350000000,
+    "x": 1110.55,
+    "y": -1554.05,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1459,
+    "server_id": 25,
+    "type": "house",
+    "name": "Резиденция LCN",
+    "owner": "Keks_Uralsky",
+    "status": "Аукцион",
+    "x": 1115.72,
+    "y": -1570.0,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1766,
+    "server_id": 25,
+    "type": "house",
+    "name": "Morgan",
+    "owner": "Dron_Monolith",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2163.69,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23768,7 +23768,7 @@
     "status": "Аукцион",
     "x": 2473.12,
     "y": -1383.12,
-    "price": 400000000,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {

@@ -4096,7 +4096,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Daddy_Here",
+    "owner": "Only_Monster",
     "status": "Занято",
     "x": 723.6119,
     "y": 269.678,
@@ -6628,7 +6628,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Начало",
-    "owner": "Joni_Jan",
+    "owner": "Seat_NaOttolinger",
     "status": "Занято",
     "x": 465.75,
     "y": 1147.6,
@@ -10157,10 +10157,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Torpeda_Rose",
-    "status": "Занято",
+    "status": "Аукцион",
     "x": -2158.05,
     "y": 1148.62,
-    "price": 0,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -11032,7 +11032,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Conor_Freedom",
+    "owner": "Farmila",
     "status": "Занято",
     "x": -2239.14,
     "y": 1154.01,
@@ -12464,18 +12464,6 @@
     "status": "Занято",
     "x": -1742.51,
     "y": 1174.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1043,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dark_Fantasy",
-    "status": "Занято",
-    "x": -1761.0,
-    "y": 1174.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17296,7 +17284,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Broski House",
-    "owner": "Pan_Tera",
+    "owner": "Ilya_Dunec",
     "status": "Занято",
     "x": 885.4719,
     "y": 1895.58,
@@ -18832,7 +18820,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Халупка Джулиана",
-    "owner": "Julian_Mitchell",
+    "owner": "Only_Monster",
     "status": "Занято",
     "x": -2737.84,
     "y": 836.7949,
@@ -19121,10 +19109,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Implored_Space",
-    "status": "Занято",
+    "status": "Аукцион",
     "x": 2707.3,
     "y": -1220.51,
-    "price": 0,
+    "price": 1100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21329,10 +21317,10 @@
     "type": "house",
     "name": "Дом",
     "owner": "Peredoz_Mefom",
-    "status": "Занято",
+    "status": "Аукцион",
     "x": 2642.4,
     "y": 1978.84,
-    "price": 0,
+    "price": 900000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21449,10 +21437,10 @@
     "type": "house",
     "name": "1821",
     "owner": "Implored_Space",
-    "status": "Занято",
+    "status": "Аукцион",
     "x": 2645.55,
     "y": 2019.21,
-    "price": 0,
+    "price": 1100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22512,6 +22500,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1043,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dark_Fantasy",
+    "status": "Аукцион",
+    "x": -1761.0,
+    "y": 1174.23,
+    "price": 1000123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1820,
     "server_id": 32,
     "type": "house",
@@ -22521,30 +22521,6 @@
     "x": 2645.53,
     "y": 2019.21,
     "price": 800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 112,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Colly_Hawk",
-    "status": "Аукцион",
-    "x": -2672.26,
-    "y": 258.431,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 179,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Colly_Hawk",
-    "status": "Аукцион",
-    "x": 1521.99,
-    "y": -1025.07,
-    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24408,6 +24384,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 112,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Colly_Hawk",
+    "status": "Занято",
+    "x": -2672.26,
+    "y": 258.431,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 113,
     "server_id": 32,
     "type": "business",
@@ -25316,6 +25304,18 @@
     "status": "Занято",
     "x": -172.597,
     "y": 1106.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 179,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Colly_Hawk",
+    "status": "Занято",
+    "x": 1521.99,
+    "y": -1025.07,
     "price": 0,
     "district": "Сан-Андреас"
   },

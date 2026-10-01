@@ -1080,6 +1080,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 90,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Troy_FIoyd",
+    "status": "Занято",
+    "x": 2017.75,
+    "y": -1703.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 91,
     "server_id": 20,
     "type": "house",
@@ -5412,18 +5424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 452,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "dakol",
-    "status": "Занято",
-    "x": 1844.5,
-    "y": 718.656,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 453,
     "server_id": 20,
     "type": "house",
@@ -9644,18 +9644,6 @@
     "status": "Занято",
     "x": -2791.84,
     "y": 218.639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 805,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": -2725.64,
-    "y": -92.5289,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15684,18 +15672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1308,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pam_Param",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -189.2209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1309,
     "server_id": 20,
     "type": "house",
@@ -19128,18 +19104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1595,
-    "server_id": 20,
-    "type": "house",
-    "name": "Kioshitt House",
-    "owner": "Moon_Miracle",
-    "status": "Занято",
-    "x": 2816.49,
-    "y": 2268.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1596,
     "server_id": 20,
     "type": "house",
@@ -20028,18 +19992,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1670,
-    "server_id": 20,
-    "type": "house",
-    "name": "poksqd",
-    "owner": "Iflexick_Doc",
-    "status": "Занято",
-    "x": 2476.39,
-    "y": -1391.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1671,
     "server_id": 20,
     "type": "house",
@@ -20660,18 +20612,6 @@
     "status": "Занято",
     "x": 2472.87,
     "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1723,
-    "server_id": 20,
-    "type": "house",
-    "name": "Dexter_House",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 2492.01,
-    "y": -1383.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22344,15 +22284,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 90,
+    "id": 452,
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "Troy_FIoyd",
+    "owner": "dakol",
     "status": "Аукцион",
-    "x": 2017.75,
-    "y": -1703.38,
-    "price": 3000000000,
+    "x": 1844.5,
+    "y": 718.656,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 805,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": -2725.64,
+    "y": -92.5289,
+    "price": 350000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1308,
+    "server_id": 20,
+    "type": "house",
+    "name": "OMG шкаф",
+    "owner": "Pam_Param",
+    "status": "Аукцион",
+    "x": -2515.38,
+    "y": -189.2209,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1595,
+    "server_id": 20,
+    "type": "house",
+    "name": "Kioshitt House",
+    "owner": "Moon_Miracle",
+    "status": "Аукцион",
+    "x": 2816.49,
+    "y": 2268.78,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1670,
+    "server_id": 20,
+    "type": "house",
+    "name": "poksqd",
+    "owner": "Iflexick_Doc",
+    "status": "Аукцион",
+    "x": 2476.39,
+    "y": -1391.43,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1723,
+    "server_id": 20,
+    "type": "house",
+    "name": "Dexter_House",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": 2492.01,
+    "y": -1383.37,
+    "price": 350000123,
     "district": "Сан-Андреас"
   },
   {

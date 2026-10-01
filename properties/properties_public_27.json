@@ -7132,7 +7132,7 @@
     "server_id": 27,
     "type": "house",
     "name": "треп хата",
-    "owner": "Maksim_Weaver",
+    "owner": "Kiri_Vagon",
     "status": "Занято",
     "x": -1446.67,
     "y": 2636.7,
@@ -7856,6 +7856,18 @@
     "status": "Занято",
     "x": 2065.71,
     "y": 650.2559,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 655,
+    "server_id": 27,
+    "type": "house",
+    "name": "Культурный уголок",
+    "owner": "Kevin_Muretti",
+    "status": "Занято",
+    "x": 2013.32,
+    "y": 730.669,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9792,6 +9804,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 818,
+    "server_id": 27,
+    "type": "house",
+    "name": "123123",
+    "owner": "Harmful_Perception",
+    "status": "Занято",
+    "x": -2689.46,
+    "y": -167.298,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 819,
     "server_id": 27,
     "type": "house",
@@ -10349,10 +10373,10 @@
     "type": "house",
     "name": "Груша",
     "owner": "Evgeniy_Grusha",
-    "status": "Занято",
+    "status": "Аукцион",
     "x": -269.1889,
     "y": 2504.93,
-    "price": 0,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -12428,6 +12452,18 @@
     "status": "Занято",
     "x": -1776.13,
     "y": 1115.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1039,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Xanax_XR",
+    "status": "Занято",
+    "x": -1732.18,
+    "y": 1114.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16480,22 +16516,10 @@
     "server_id": 27,
     "type": "house",
     "name": ":uf21d: ginsparg <3 :uf21d:",
-    "owner": "Toukazzy_Heferson",
+    "owner": "Sterridel_Aqdave",
     "status": "Занято",
     "x": 1976.21,
     "y": -1634.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1378,
-    "server_id": 27,
-    "type": "house",
-    "name": "Pirats",
-    "owner": "Black_Pilll",
-    "status": "Занято",
-    "x": 1972.24,
-    "y": -1633.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17896,7 +17920,7 @@
     "server_id": 27,
     "type": "house",
     "name": "poksqd",
-    "owner": "Pharaoh_Hiopsovich",
+    "owner": "Dante_Doc",
     "status": "Занято",
     "x": 884.517,
     "y": 2076.63,
@@ -22505,10 +22529,10 @@
     "type": "house",
     "name": "Дом Леончика",
     "owner": "Slishu_Forbs",
-    "status": "Занято",
+    "status": "Аукцион",
     "x": -2205.92,
     "y": 1163.75,
-    "price": 0,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24420,18 +24444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 655,
-    "server_id": 27,
-    "type": "house",
-    "name": "Культурный уголок",
-    "owner": "Kevin_Muretti",
-    "status": "Аукцион",
-    "x": 2013.32,
-    "y": 730.669,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 769,
     "server_id": 27,
     "type": "house",
@@ -24444,27 +24456,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 818,
+    "id": 1378,
     "server_id": 27,
     "type": "house",
-    "name": "123123",
-    "owner": "Harmful_Perception",
+    "name": "Pirats",
+    "owner": "Black_Pilll",
     "status": "Аукцион",
-    "x": -2689.46,
-    "y": -167.298,
-    "price": 400123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1039,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Xanax_XR",
-    "status": "Аукцион",
-    "x": -1732.18,
-    "y": 1114.92,
-    "price": 450000000,
+    "x": 1972.24,
+    "y": -1633.71,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {

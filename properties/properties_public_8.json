@@ -341,10 +341,10 @@
     "type": "house",
     "name": "Relax House",
     "owner": "Dirty_Stu",
-    "status": "Занято",
+    "status": "Аукцион",
     "x": 2209.72,
     "y": -1238.99,
-    "price": 0,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -2184,18 +2184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 183,
-    "server_id": 8,
-    "type": "house",
-    "name": "Улица Morphine Corporation",
-    "owner": "Carllo_Safari",
-    "status": "Занято",
-    "x": 694.833,
-    "y": -1690.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 184,
     "server_id": 8,
     "type": "house",
@@ -2208,30 +2196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 185,
-    "server_id": 8,
-    "type": "house",
-    "name": "Улица Morphine Corporation",
-    "owner": "Carllo_Safari",
-    "status": "Занято",
-    "x": 697.288,
-    "y": -1626.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 186,
-    "server_id": 8,
-    "type": "house",
-    "name": "Домик Дедушки Носферату ",
-    "owner": "Carllo_Safari",
-    "status": "Занято",
-    "x": 766.921,
-    "y": -1605.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 187,
     "server_id": 8,
     "type": "house",
@@ -2240,30 +2204,6 @@
     "status": "Занято",
     "x": 768.0759,
     "y": -1655.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 188,
-    "server_id": 8,
-    "type": "house",
-    "name": "Домик Дедушки Носферату ",
-    "owner": "Carllo_Safari",
-    "status": "Занято",
-    "x": 769.1149,
-    "y": -1696.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 189,
-    "server_id": 8,
-    "type": "house",
-    "name": "Домик Дедушки Носферату ",
-    "owner": "Carllo_Safari",
-    "status": "Занято",
-    "x": 769.056,
-    "y": -1726.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3556,7 +3496,7 @@
     "server_id": 8,
     "type": "house",
     "name": "for sell",
-    "owner": "Benjamin_Cappuchino",
+    "owner": "Titus_Rivendare",
     "status": "Занято",
     "x": 2105.31,
     "y": -1056.48,
@@ -15084,18 +15024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1259,
-    "server_id": 8,
-    "type": "house",
-    "name": "Crimminal",
-    "owner": "kuruma",
-    "status": "Занято",
-    "x": -2883.58,
-    "y": 736.781,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1260,
     "server_id": 8,
     "type": "house",
@@ -15976,7 +15904,7 @@
     "server_id": 8,
     "type": "house",
     "name": "pes family",
-    "owner": "Benjamin_Cappuchino",
+    "owner": "Titus_Rivendare",
     "status": "Занято",
     "x": -2620.8,
     "y": 103.3899,
@@ -22780,7 +22708,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Angel Blood",
-    "owner": "Benjamin_Cappuchino",
+    "owner": "Titus_Rivendare",
     "status": "Занято",
     "x": 2818.53,
     "y": 2134.41,
@@ -25785,6 +25713,78 @@
     "x": 1872.44,
     "y": -2133.14,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 183,
+    "server_id": 8,
+    "type": "house",
+    "name": "Улица Morphine Corporation",
+    "owner": "Carllo_Safari",
+    "status": "Аукцион",
+    "x": 694.833,
+    "y": -1690.29,
+    "price": 1900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 185,
+    "server_id": 8,
+    "type": "house",
+    "name": "Улица Morphine Corporation",
+    "owner": "Carllo_Safari",
+    "status": "Аукцион",
+    "x": 697.288,
+    "y": -1626.93,
+    "price": 1900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 186,
+    "server_id": 8,
+    "type": "house",
+    "name": "Домик Дедушки Носферату ",
+    "owner": "Carllo_Safari",
+    "status": "Аукцион",
+    "x": 766.921,
+    "y": -1605.89,
+    "price": 1900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 188,
+    "server_id": 8,
+    "type": "house",
+    "name": "Домик Дедушки Носферату ",
+    "owner": "Carllo_Safari",
+    "status": "Аукцион",
+    "x": 769.1149,
+    "y": -1696.62,
+    "price": 1900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 189,
+    "server_id": 8,
+    "type": "house",
+    "name": "Домик Дедушки Носферату ",
+    "owner": "Carllo_Safari",
+    "status": "Аукцион",
+    "x": 769.056,
+    "y": -1726.33,
+    "price": 1900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1259,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "kuruma",
+    "status": "Аукцион",
+    "x": -2883.58,
+    "y": 736.781,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
