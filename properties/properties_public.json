@@ -112,7 +112,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Lapa_Happa",
+    "owner": "Jude_Murphy",
     "status": "Занято",
     "x": 2036.07,
     "y": -1059.32,
@@ -2552,6 +2552,18 @@
     "status": "Занято",
     "x": 989.614,
     "y": -828.484,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 214,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Uucyc_Xpuctoc",
+    "status": "Занято",
+    "x": 937.3889,
+    "y": -847.7479,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5228,18 +5240,6 @@
     "status": "Занято",
     "x": 2801.93,
     "y": -1936.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 438,
-    "server_id": 33,
-    "type": "house",
-    "name": "happa",
-    "owner": "Pappa_Happa",
-    "status": "Занято",
-    "x": 228.067,
-    "y": -1405.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14784,18 +14784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1238,
-    "server_id": 33,
-    "type": "house",
-    "name": "подвал обыч + майнинг",
-    "owner": "Love_Island",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1226.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1239,
     "server_id": 33,
     "type": "house",
@@ -18324,6 +18312,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1564,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Oleg_Mart",
+    "status": "Занято",
+    "x": 2794.24,
+    "y": 2221.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1565,
     "server_id": 33,
     "type": "house",
@@ -21468,18 +21468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1829,
-    "server_id": 33,
-    "type": "house",
-    "name": "mar!domination",
-    "owner": "Vlad_Britva",
-    "status": "Занято",
-    "x": 2623.66,
-    "y": 2067.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1830,
     "server_id": 33,
     "type": "house",
@@ -22452,15 +22440,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 214,
+    "id": 438,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
-    "owner": "Uucyc_Xpuctoc",
+    "name": "happa",
+    "owner": "Pappa_Happa",
     "status": "Аукцион",
-    "x": 937.3889,
-    "y": -847.7479,
-    "price": 3500000000,
+    "x": 228.067,
+    "y": -1405.5,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1238,
+    "server_id": 33,
+    "type": "house",
+    "name": "подвал обыч + майнинг",
+    "owner": "Love_Island",
+    "status": "Аукцион",
+    "x": -2383.14,
+    "y": 1226.37,
+    "price": 700228228,
     "district": "Сан-Андреас"
   },
   {
@@ -22473,18 +22473,6 @@
     "x": -2723.06,
     "y": 21.9043,
     "price": 700000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1564,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Uucyc_Xpuctoc",
-    "status": "Аукцион",
-    "x": 2794.24,
-    "y": 2221.93,
-    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22508,7 +22496,19 @@
     "status": "Аукцион",
     "x": 2636.42,
     "y": 2019.21,
-    "price": 25000000,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1829,
+    "server_id": 33,
+    "type": "house",
+    "name": "mar!domination",
+    "owner": "Vlad_Britva",
+    "status": "Аукцион",
+    "x": 2623.66,
+    "y": 2067.39,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {

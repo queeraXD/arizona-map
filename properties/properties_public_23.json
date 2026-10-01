@@ -14568,18 +14568,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1217,
-    "server_id": 23,
-    "type": "house",
-    "name": "Фармилка.",
-    "owner": "Ayzek_Vazilayn",
-    "status": "Занято",
-    "x": -2840.23,
-    "y": 884.5809,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1218,
     "server_id": 23,
     "type": "house",
@@ -16064,6 +16052,18 @@
     "status": "Занято",
     "x": 2470.37,
     "y": -1295.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1342,
+    "server_id": 23,
+    "type": "house",
+    "name": "Silent Hole",
+    "owner": "Deep_Dark",
+    "status": "Занято",
+    "x": 1665.6,
+    "y": 2569.42,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17755,18 +17755,6 @@
     "owner": "Babka_BezZubov",
     "status": "Занято",
     "x": 927.994,
-    "y": 2414.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1484,
-    "server_id": 23,
-    "type": "house",
-    "name": "связь со мной /call 247",
-    "owner": "Laptopik",
-    "status": "Занято",
-    "x": 981.5859,
     "y": 2414.26,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21156,15 +21144,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1342,
+    "id": 1217,
     "server_id": 23,
     "type": "house",
-    "name": "Притон дровосека",
-    "owner": "Drovosek_Doberman",
+    "name": "Фармилка.",
+    "owner": "Ayzek_Vazilayn",
     "status": "Аукцион",
-    "x": 1665.6,
-    "y": 2569.42,
-    "price": 300123123,
+    "x": -2840.23,
+    "y": 884.5809,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1484,
+    "server_id": 23,
+    "type": "house",
+    "name": "связь со мной /call 247",
+    "owner": "Laptopik",
+    "status": "Аукцион",
+    "x": 981.5859,
+    "y": 2414.26,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {

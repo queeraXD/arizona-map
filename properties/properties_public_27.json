@@ -5583,7 +5583,7 @@
     "id": 465,
     "server_id": 27,
     "type": "house",
-    "name": "хата мистера",
+    "name": "хата мистера 1",
     "owner": "Mister_Schweppes",
     "status": "Занято",
     "x": 2258.07,
@@ -5756,6 +5756,18 @@
     "status": "Занято",
     "x": 2228.61,
     "y": 690.2319,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 480,
+    "server_id": 27,
+    "type": "house",
+    "name": "хата мистера 3",
+    "owner": "Mister_Schweppes",
+    "status": "Занято",
+    "x": 2256.91,
+    "y": 690.51,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15972,6 +15984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1336,
+    "server_id": 27,
+    "type": "house",
+    "name": "тт muretti11",
+    "owner": "Kevin_Muretti",
+    "status": "Занято",
+    "x": 1622.72,
+    "y": 2846.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1337,
     "server_id": 27,
     "type": "house",
@@ -24396,27 +24420,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 480,
-    "server_id": 27,
-    "type": "house",
-    "name": "domik2",
-    "owner": "Slishu_Forbs",
-    "status": "Аукцион",
-    "x": 2256.91,
-    "y": 690.51,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 655,
     "server_id": 27,
     "type": "house",
     "name": "Культурный уголок",
-    "owner": "Sos_Krutoy",
+    "owner": "Kevin_Muretti",
     "status": "Аукцион",
     "x": 2013.32,
     "y": 730.669,
-    "price": 450000000,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24435,12 +24447,12 @@
     "id": 818,
     "server_id": 27,
     "type": "house",
-    "name": "Фармилка №2",
+    "name": "123123",
     "owner": "Harmful_Perception",
     "status": "Аукцион",
     "x": -2689.46,
     "y": -167.298,
-    "price": 700000000,
+    "price": 400123123,
     "district": "Сан-Андреас"
   },
   {
@@ -24453,42 +24465,6 @@
     "x": -1732.18,
     "y": 1114.92,
     "price": 450000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1336,
-    "server_id": 27,
-    "type": "house",
-    "name": "molla house",
-    "owner": "Klak_Lakla",
-    "status": "Аукцион",
-    "x": 1622.72,
-    "y": 2846.08,
-    "price": 1200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 295,
-    "server_id": 27,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Den_Paul",
-    "status": "Аукцион",
-    "x": 2392.56,
-    "y": 2042.21,
-    "price": 180000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 27,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Den_Paul",
-    "status": "Аукцион",
-    "x": 2366.7,
-    "y": 2071.11,
-    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -26552,6 +26528,30 @@
     "status": "Занято",
     "x": 2472.77,
     "y": 2034.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 295,
+    "server_id": 27,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Den_Paul",
+    "status": "Занято",
+    "x": 2392.56,
+    "y": 2042.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 27,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Den_Paul",
+    "status": "Занято",
+    "x": 2366.7,
+    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
