@@ -3024,18 +3024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 252,
-    "server_id": 21,
-    "type": "house",
-    "name": "Kuvalda",
-    "owner": "Timur_Kuvalda",
-    "status": "Занято",
-    "x": 2518.4,
-    "y": 128.988,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 253,
     "server_id": 21,
     "type": "house",
@@ -3284,18 +3272,6 @@
     "status": "Занято",
     "x": 2626.07,
     "y": -1112.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 274,
-    "server_id": 21,
-    "type": "house",
-    "name": "Kuvalda House",
-    "owner": "Timur_Kuvalda",
-    "status": "Занято",
-    "x": 2576.59,
-    "y": -1070.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3656,18 +3632,6 @@
     "status": "Занято",
     "x": 2074.85,
     "y": -1083.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 305,
-    "server_id": 21,
-    "type": "house",
-    "name": "logica",
-    "owner": "Logica_Nevermore",
-    "status": "Занято",
-    "x": 2060.47,
-    "y": -1076.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8704,7 +8668,7 @@
     "server_id": 21,
     "type": "house",
     "name": "дарк ку всем",
-    "owner": "Danil_Gromila",
+    "owner": "Knyaz_Freedom",
     "status": "Занято",
     "x": 1703.7,
     "y": 2689.52,
@@ -8924,18 +8888,6 @@
     "status": "Занято",
     "x": -2884.17,
     "y": 743.6279,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 744,
-    "server_id": 21,
-    "type": "house",
-    "name": "logica",
-    "owner": "Logica_Nevermore",
-    "status": "Занято",
-    "x": -2869.38,
-    "y": 690.9039,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10314,8 +10266,8 @@
     "name": "Treepside x Pixie squad",
     "owner": "Kazu_Ember",
     "status": "Занято",
-    "x": -1432.72,
-    "y": -953.82,
+    "x": -1432.143,
+    "y": -952.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14460,18 +14412,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1206,
-    "server_id": 21,
-    "type": "house",
-    "name": "СЕВА КАКЕН И ИЮХА АКУАМАРИН",
-    "owner": "Aquamarine_Dominguez",
-    "status": "Занято",
-    "x": -2864.95,
-    "y": 681.4379,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1207,
     "server_id": 21,
     "type": "house",
@@ -14540,18 +14480,6 @@
     "status": "Занято",
     "x": -2880.74,
     "y": 797.6329,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1213,
-    "server_id": 21,
-    "type": "house",
-    "name": "logica",
-    "owner": "Logica_Nevermore",
-    "status": "Занято",
-    "x": -2868.75,
-    "y": 820.994,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21933,6 +21861,78 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 252,
+    "server_id": 21,
+    "type": "house",
+    "name": "Kuvalda",
+    "owner": "Timur_Kuvalda",
+    "status": "Аукцион",
+    "x": 2518.4,
+    "y": 128.988,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 274,
+    "server_id": 21,
+    "type": "house",
+    "name": "Kuvalda House",
+    "owner": "Timur_Kuvalda",
+    "status": "Аукцион",
+    "x": 2576.59,
+    "y": -1070.64,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 305,
+    "server_id": 21,
+    "type": "house",
+    "name": "logica",
+    "owner": "Logica_Nevermore",
+    "status": "Аукцион",
+    "x": 2060.47,
+    "y": -1076.7,
+    "price": 900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 744,
+    "server_id": 21,
+    "type": "house",
+    "name": "logica",
+    "owner": "Logica_Nevermore",
+    "status": "Аукцион",
+    "x": -2869.38,
+    "y": 690.9039,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1206,
+    "server_id": 21,
+    "type": "house",
+    "name": "СЕВА КАКЕН И ИЮХА АКУАМАРИН",
+    "owner": "Aquamarine_Dominguez",
+    "status": "Аукцион",
+    "x": -2864.95,
+    "y": 681.4379,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1213,
+    "server_id": 21,
+    "type": "house",
+    "name": "logica",
+    "owner": "Logica_Nevermore",
+    "status": "Аукцион",
+    "x": -2868.75,
+    "y": 820.994,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

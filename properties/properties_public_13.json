@@ -228,6 +228,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 19,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Want_Blood",
+    "status": "Занято",
+    "x": 2132.25,
+    "y": -1280.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 20,
     "server_id": 13,
     "type": "house",
@@ -6060,18 +6072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 506,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом Yang Trap",
-    "owner": "William_Myskat",
-    "status": "Занято",
-    "x": 1364.57,
-    "y": 2003.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 507,
     "server_id": 13,
     "type": "house",
@@ -8440,7 +8440,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Бордель",
-    "owner": "Iartellll_Illllllll",
+    "owner": "Xaaf_Xaaf",
     "status": "Занято",
     "x": -2192.57,
     "y": -2509.96,
@@ -10168,7 +10168,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Minato Empire",
-    "owner": "Yura_Octavia",
+    "owner": "Minato_Ogawa",
     "status": "Занято",
     "x": -2157.62,
     "y": 1117.52,
@@ -12416,18 +12416,6 @@
     "status": "Занято",
     "x": 1947.2,
     "y": -371.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1036,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "brodyagathegod",
-    "status": "Занято",
-    "x": 1952.56,
-    "y": -419.6719,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15916,7 +15904,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Coco_Lie",
+    "owner": "Jeremy_Rayne",
     "status": "Занято",
     "x": 1112.2,
     "y": -1557.42,
@@ -18543,8 +18531,8 @@
     "id": 1546,
     "server_id": 13,
     "type": "house",
-    "name": "Берлога Медведя Балу ",
-    "owner": "Bear_Baloo",
+    "name": "Шрек Октавия",
+    "owner": "Yura_Octavia",
     "status": "Занято",
     "x": -982.2169,
     "y": -1679.947,
@@ -19764,18 +19752,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1648,
-    "server_id": 13,
-    "type": "house",
-    "name": "майнинг",
-    "owner": "Yuto_Mifune",
-    "status": "Занято",
-    "x": 2788.14,
-    "y": 2260.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1649,
     "server_id": 13,
     "type": "house",
@@ -20736,18 +20712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1729,
-    "server_id": 13,
-    "type": "house",
-    "name": "помойка",
-    "owner": "brodyagathegod",
-    "status": "Занято",
-    "x": 263.6849,
-    "y": 2895.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1730,
     "server_id": 13,
     "type": "house",
@@ -21028,7 +20992,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Shelo_Adolf",
+    "owner": "Did_Inside",
     "status": "Занято",
     "x": 2495.42,
     "y": -1383.38,
@@ -23280,15 +23244,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 19,
+    "id": 506,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом Yang Trap",
+    "owner": "William_Myskat",
+    "status": "Аукцион",
+    "x": 1364.57,
+    "y": 2003.7,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1036,
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Ken_Brooklyn",
+    "owner": "brodyagathegod",
     "status": "Аукцион",
-    "x": 2132.25,
-    "y": -1280.44,
-    "price": 500000000,
+    "x": 1952.56,
+    "y": -419.6719,
+    "price": 500000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1648,
+    "server_id": 13,
+    "type": "house",
+    "name": "майнинг",
+    "owner": "Yuto_Mifune",
+    "status": "Аукцион",
+    "x": 2788.14,
+    "y": 2260.94,
+    "price": 20123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1729,
+    "server_id": 13,
+    "type": "house",
+    "name": "помойка",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 263.6849,
+    "y": 2895.52,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 434,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 2216.0,
+    "y": -1679.688,
+    "price": 1200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 435,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 532.7643,
+    "y": 874.9283,
+    "price": 1200000,
     "district": "Сан-Андреас"
   },
   {

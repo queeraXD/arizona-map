@@ -6996,18 +6996,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 583,
-    "server_id": 30,
-    "type": "house",
-    "name": "Sadness//House",
-    "owner": "Garik_Sadness",
-    "status": "Занято",
-    "x": -279.3829,
-    "y": 2722.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 584,
     "server_id": 30,
     "type": "house",
@@ -7755,7 +7743,7 @@
     "id": 646,
     "server_id": 30,
     "type": "house",
-    "name": "виртики в чайнике",
+    "name": "House McWoozie #2",
     "owner": "Patrick_McWoozie",
     "status": "Занято",
     "x": 2450.36,
@@ -8816,6 +8804,18 @@
     "status": "Занято",
     "x": -2904.37,
     "y": 1118.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 735,
+    "server_id": 30,
+    "type": "house",
+    "name": "morawski",
+    "owner": "Alice_Bailey",
+    "status": "Занято",
+    "x": -2900.72,
+    "y": 1067.02,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12524,18 +12524,6 @@
     "status": "Занято",
     "x": -1780.35,
     "y": 1138.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1045,
-    "server_id": 30,
-    "type": "house",
-    "name": "Dark",
-    "owner": "Ly_Dick",
-    "status": "Занято",
-    "x": -1831.83,
-    "y": 1166.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18651,7 +18639,7 @@
     "id": 1555,
     "server_id": 30,
     "type": "house",
-    "name": "Будка Стаффорда 4",
+    "name": ":sell: call 402",
     "owner": "Al_Pacino",
     "status": "Занято",
     "x": 2587.4,
@@ -20676,18 +20664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1728,
-    "server_id": 30,
-    "type": "house",
-    "name": "Кристи лвшка",
-    "owner": "Why_Why",
-    "status": "Занято",
-    "x": 1738.38,
-    "y": 2861.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1729,
     "server_id": 30,
     "type": "house",
@@ -21520,7 +21496,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Interpool",
-    "owner": "Kevin_Kitsune",
+    "owner": "Markys_Monopoly",
     "status": "Занято",
     "x": 2629.87,
     "y": 2185.54,
@@ -22752,15 +22728,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 735,
+    "id": 583,
     "server_id": 30,
     "type": "house",
-    "name": "morawski",
-    "owner": "Makoto_Furukawa",
+    "name": "Sadness//House",
+    "owner": "Garik_Sadness",
     "status": "Аукцион",
-    "x": -2900.72,
-    "y": 1067.02,
-    "price": 500000000,
+    "x": -279.3829,
+    "y": 2722.05,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1045,
+    "server_id": 30,
+    "type": "house",
+    "name": "Dark",
+    "owner": "Ly_Dick",
+    "status": "Аукцион",
+    "x": -1831.83,
+    "y": 1166.06,
+    "price": 1111111111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1728,
+    "server_id": 30,
+    "type": "house",
+    "name": "Кристи лвшка",
+    "owner": "Why_Why",
+    "status": "Аукцион",
+    "x": 1738.38,
+    "y": 2861.64,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 74,
+    "server_id": 30,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Albert_Jeezly",
+    "status": "Аукцион",
+    "x": 2104.24,
+    "y": 2678.92,
+    "price": 135000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 110,
+    "server_id": 30,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Albert_Jeezly",
+    "status": "Аукцион",
+    "x": -2443.85,
+    "y": 755.418,
+    "price": 140000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 120,
+    "server_id": 30,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Albert_Jeezly",
+    "status": "Аукцион",
+    "x": -2718.47,
+    "y": 50.452,
+    "price": 140000,
     "district": "Сан-Андреас"
   },
   {
@@ -23412,18 +23448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 74,
-    "server_id": 30,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Albert_Jeezly",
-    "status": "Занято",
-    "x": 2104.24,
-    "y": 2678.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 75,
     "server_id": 30,
     "type": "business",
@@ -23720,18 +23744,6 @@
     "status": "Занято",
     "x": -1694.58,
     "y": 951.914,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 120,
-    "server_id": 30,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Albert_Jeezly",
-    "status": "Занято",
-    "x": -2718.47,
-    "y": 50.452,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24596,18 +24608,6 @@
     "status": "Занято",
     "x": -2356.45,
     "y": 1008.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 110,
-    "server_id": 30,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Albert_Jeezly",
-    "status": "Занято",
-    "x": -2443.85,
-    "y": 755.418,
     "price": 0,
     "district": "Сан-Андреас"
   },
