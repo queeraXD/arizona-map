@@ -3204,18 +3204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 267,
-    "server_id": 11,
-    "type": "house",
-    "name": "ALONG",
-    "owner": "Navalil_Djazy",
-    "status": "Занято",
-    "x": 1226.88,
-    "y": -1010.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 268,
     "server_id": 11,
     "type": "house",
@@ -3308,6 +3296,18 @@
     "status": "Занято",
     "x": 2579.67,
     "y": -1033.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 276,
+    "server_id": 11,
+    "type": "house",
+    "name": "Dolmatov Family",
+    "owner": "Stepa_Turbocharger",
+    "status": "Занято",
+    "x": 2561.86,
+    "y": -1034.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3764,6 +3764,18 @@
     "status": "Занято",
     "x": 1954.5,
     "y": -1074.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 11,
+    "type": "house",
+    "name": "Punisher Guard",
+    "owner": "Pepsi_Fultor",
+    "status": "Занято",
+    "x": 1959.61,
+    "y": -1069.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7620,6 +7632,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 637,
+    "server_id": 11,
+    "type": "house",
+    "name": "GOTOSQUAD DEATHBRIGADE",
+    "owner": "Foe_Goto",
+    "status": "Занято",
+    "x": -362.6669,
+    "y": 1110.63,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 638,
     "server_id": 11,
     "type": "house",
@@ -10784,18 +10808,6 @@
     "status": "Занято",
     "x": -2065.95,
     "y": 1160.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 903,
-    "server_id": 11,
-    "type": "house",
-    "name": "RnBclub Forever",
-    "owner": "Gas_Station",
-    "status": "Занято",
-    "x": -2034.26,
-    "y": 902.5109,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18048,18 +18060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1520,
-    "server_id": 11,
-    "type": "house",
-    "name": "Luxury home",
-    "owner": "Night_Dealer",
-    "status": "Занято",
-    "x": -2625.48,
-    "y": 733.164,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1521,
     "server_id": 11,
     "type": "house",
@@ -22044,6 +22044,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1853,
+    "server_id": 11,
+    "type": "house",
+    "name": "tg: @d3athAngell",
+    "owner": "Jdflag_Monopoly",
+    "status": "Занято",
+    "x": 471.8059,
+    "y": 1414.51,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1854,
     "server_id": 11,
     "type": "house",
@@ -24588,39 +24600,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 276,
+    "id": 267,
     "server_id": 11,
     "type": "house",
-    "name": "Dolmatov Family",
-    "owner": "Stepa_Turbocharger",
+    "name": "ALONG",
+    "owner": "Navalil_Djazy",
     "status": "Аукцион",
-    "x": 2561.86,
-    "y": -1034.31,
+    "x": 1226.88,
+    "y": -1010.94,
     "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 315,
+    "id": 903,
     "server_id": 11,
     "type": "house",
-    "name": "Punisher Guard",
-    "owner": "Strax_Tsr",
+    "name": "RnBclub Forever",
+    "owner": "Gas_Station",
     "status": "Аукцион",
-    "x": 1959.61,
-    "y": -1069.92,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 637,
-    "server_id": 11,
-    "type": "house",
-    "name": "GOTOSQUAD DEATHBRIGADE",
-    "owner": "Foe_Goto",
-    "status": "Аукцион",
-    "x": -362.6669,
-    "y": 1110.63,
-    "price": 2000000000,
+    "x": -2034.26,
+    "y": 902.5109,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24636,15 +24636,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1853,
+    "id": 1520,
     "server_id": 11,
     "type": "house",
-    "name": "tg: @d3athAngell",
-    "owner": "Jdflag_Monopoly",
+    "name": "Luxury home",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 471.8059,
-    "y": 1414.51,
-    "price": 1100000000,
+    "x": -2625.48,
+    "y": 733.164,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
