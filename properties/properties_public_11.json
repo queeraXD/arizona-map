@@ -2100,18 +2100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 175,
-    "server_id": 11,
-    "type": "house",
-    "name": "GOTOSQUAD DEATHBRIGADE",
-    "owner": "Foe_Goto",
-    "status": "Занято",
-    "x": 790.9739,
-    "y": -1661.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 176,
     "server_id": 11,
     "type": "house",
@@ -3200,18 +3188,6 @@
     "status": "Занято",
     "x": 1233.88,
     "y": -1009.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 267,
-    "server_id": 11,
-    "type": "house",
-    "name": "ALONG",
-    "owner": "Navalil_Djazy",
-    "status": "Занято",
-    "x": 1226.88,
-    "y": -1010.94,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6928,7 +6904,7 @@
     "server_id": 11,
     "type": "house",
     "name": "revo",
-    "owner": "Deed_Moriarty",
+    "owner": "Deed_Monopoly",
     "status": "Занято",
     "x": -201.6629,
     "y": 2772.17,
@@ -7876,7 +7852,7 @@
     "server_id": 11,
     "type": "house",
     "name": "SberBank",
-    "owner": "John_Sterling",
+    "owner": "Alexx_Monopoly",
     "status": "Занято",
     "x": 1978.35,
     "y": 665.8079,
@@ -10824,6 +10800,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 903,
+    "server_id": 11,
+    "type": "house",
+    "name": "RnBclub Forever",
+    "owner": "Gas_Station",
+    "status": "Занято",
+    "x": -2034.26,
+    "y": 902.5109,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 904,
     "server_id": 11,
     "type": "house",
@@ -11332,7 +11320,7 @@
     "server_id": 11,
     "type": "house",
     "name": "PuzatikSquad TOP",
-    "owner": "Paul_Puzik",
+    "owner": "Dias_King",
     "status": "Занято",
     "x": -2282.42,
     "y": 999.619,
@@ -22600,7 +22588,7 @@
     "server_id": 11,
     "type": "house",
     "name": "Дом",
-    "owner": "Ishikawa_Monopoly",
+    "owner": "Tuber_Kulez",
     "status": "Занято",
     "x": 2492.07,
     "y": -1410.03,
@@ -24612,15 +24600,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 903,
+    "id": 175,
     "server_id": 11,
     "type": "house",
-    "name": "RnBclub Forever",
-    "owner": "Gas_Station",
+    "name": "GOTOSQUAD DEATHBRIGADE",
+    "owner": "Foe_Goto",
     "status": "Аукцион",
-    "x": -2034.26,
-    "y": 902.5109,
-    "price": 1500000000,
+    "x": 790.9739,
+    "y": -1661.87,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 267,
+    "server_id": 11,
+    "type": "house",
+    "name": "ALONG",
+    "owner": "Navalil_Djazy",
+    "status": "Аукцион",
+    "x": 1226.88,
+    "y": -1010.94,
+    "price": 210000000,
     "district": "Сан-Андреас"
   },
   {

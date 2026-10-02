@@ -3496,7 +3496,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Vitalik_Quinn",
+    "owner": "Patrik_Wilson",
     "status": "Занято",
     "x": 2498.96,
     "y": -1065.56,
@@ -12136,7 +12136,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Young House",
-    "owner": "Lovec_Pisunov",
+    "owner": "Lovlya_Vlp",
     "status": "Занято",
     "x": -2506.37,
     "y": 1141.87,
@@ -18720,18 +18720,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1563,
-    "server_id": 31,
-    "type": "house",
-    "name": "by satirin",
-    "owner": "Sasha_Saburov",
-    "status": "Занято",
-    "x": 2818.53,
-    "y": 2134.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1564,
     "server_id": 31,
     "type": "house",
@@ -19520,18 +19508,6 @@
     "status": "Занято",
     "x": 2707.31,
     "y": -1207.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1630,
-    "server_id": 31,
-    "type": "house",
-    "name": "Concussion #2",
-    "owner": "Patrik_Wilson",
-    "status": "Занято",
-    "x": 2707.31,
-    "y": -1202.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20420,18 +20396,6 @@
     "status": "Занято",
     "x": 2476.16,
     "y": -1424.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1706,
-    "server_id": 31,
-    "type": "house",
-    "name": "набор творчества+деп условия",
-    "owner": "Vladimir_Adoms",
-    "status": "Занято",
-    "x": 2492.16,
-    "y": -1424.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21436,7 +21400,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Robert_Padalecki",
+    "owner": "Spydon_Mercy",
     "status": "Занято",
     "x": 524.914,
     "y": 1436.14,
@@ -22304,30 +22268,6 @@
     "status": "Занято",
     "x": -216.6309,
     "y": 930.1619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1865,
-    "server_id": 31,
-    "type": "house",
-    "name": "Adoms Monopoly",
-    "owner": "Vladimir_Adoms",
-    "status": "Занято",
-    "x": -2413.01,
-    "y": 895.2269,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1866,
-    "server_id": 31,
-    "type": "house",
-    "name": "Агентство,деп условия,фулл шкаф",
-    "owner": "Feldan_Lizalov",
-    "status": "Занято",
-    "x": -2431.4,
-    "y": 895.234,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23348,7 +23288,43 @@
     "status": "Аукцион",
     "x": -278.9989,
     "y": 1003.39,
-    "price": 1000000000,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1563,
+    "server_id": 31,
+    "type": "house",
+    "name": "by satirin",
+    "owner": "Sasha_Saburov",
+    "status": "Аукцион",
+    "x": 2818.53,
+    "y": 2134.54,
+    "price": 1250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1630,
+    "server_id": 31,
+    "type": "house",
+    "name": "Concussion #2",
+    "owner": "Patrik_Wilson",
+    "status": "Аукцион",
+    "x": 2707.31,
+    "y": -1202.99,
+    "price": 1350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1706,
+    "server_id": 31,
+    "type": "house",
+    "name": "набор творчества+деп условия",
+    "owner": "Vladimir_Adoms",
+    "status": "Аукцион",
+    "x": 2492.16,
+    "y": -1424.57,
+    "price": 4500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23361,6 +23337,30 @@
     "x": -2790.24,
     "y": -168.2279,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1865,
+    "server_id": 31,
+    "type": "house",
+    "name": "Adoms Monopoly",
+    "owner": "Vladimir_Adoms",
+    "status": "Аукцион",
+    "x": -2413.01,
+    "y": 895.2269,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1866,
+    "server_id": 31,
+    "type": "house",
+    "name": "Агентство,деп условия,фулл шкаф",
+    "owner": "Feldan_Lizalov",
+    "status": "Аукцион",
+    "x": -2431.4,
+    "y": 895.234,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {

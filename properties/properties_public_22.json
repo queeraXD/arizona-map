@@ -3420,6 +3420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 285,
+    "server_id": 22,
+    "type": "house",
+    "name": "Хата Капибары",
+    "owner": "Tako_Hojer",
+    "status": "Занято",
+    "x": 2219.28,
+    "y": -1031.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 286,
     "server_id": 22,
     "type": "house",
@@ -5744,6 +5756,18 @@
     "status": "Занято",
     "x": 2228.61,
     "y": 690.2319,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 480,
+    "server_id": 22,
+    "type": "house",
+    "name": "BIGG BOSS",
+    "owner": "Yuki_Rosen",
+    "status": "Занято",
+    "x": 2256.91,
+    "y": 690.51,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12464,30 +12488,6 @@
     "status": "Занято",
     "x": -1727.98,
     "y": 1138.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1041,
-    "server_id": 22,
-    "type": "house",
-    "name": "Himura SF2",
-    "owner": "Set_Himura",
-    "status": "Занято",
-    "x": -1728.11,
-    "y": 1158.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1042,
-    "server_id": 22,
-    "type": "house",
-    "name": "Himura SF1",
-    "owner": "Set_Himura",
-    "status": "Занято",
-    "x": -1742.51,
-    "y": 1174.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19272,18 +19272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1608,
-    "server_id": 22,
-    "type": "house",
-    "name": "revival ",
-    "owner": "Sinister_Sedona",
-    "status": "Занято",
-    "x": 2816.49,
-    "y": 2268.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1609,
     "server_id": 22,
     "type": "house",
@@ -22020,27 +22008,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
+    "id": 1041,
     "server_id": 22,
     "type": "house",
-    "name": "Realiston Family",
-    "owner": "Leonardo_Adams",
+    "name": "Himura SF2",
+    "owner": "Set_Himura",
     "status": "Аукцион",
-    "x": 2219.28,
-    "y": -1031.06,
-    "price": 700000000,
+    "x": -1728.11,
+    "y": 1158.95,
+    "price": 700000123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 480,
+    "id": 1042,
     "server_id": 22,
     "type": "house",
-    "name": "BIGG BOSS",
-    "owner": "Aleks_Alekseev",
+    "name": "Himura SF1",
+    "owner": "Set_Himura",
     "status": "Аукцион",
-    "x": 2256.91,
-    "y": 690.51,
-    "price": 700000000,
+    "x": -1742.51,
+    "y": 1174.37,
+    "price": 700000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1608,
+    "server_id": 22,
+    "type": "house",
+    "name": "revival ",
+    "owner": "Sinister_Sedona",
+    "status": "Аукцион",
+    "x": 2816.49,
+    "y": 2268.83,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 357,
+    "server_id": 22,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Yuto_Kawasaki",
+    "status": "Аукцион",
+    "x": 693.619,
+    "y": 1967.68,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24128,18 +24140,6 @@
     "status": "Занято",
     "x": 2366.7,
     "y": 2071.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 357,
-    "server_id": 22,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Yuto_Kawasaki",
-    "status": "Занято",
-    "x": 693.619,
-    "y": 1967.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
