@@ -1683,7 +1683,7 @@
     "id": 140,
     "server_id": 14,
     "type": "house",
-    "name": "Exclusive Dynasty",
+    "name": "Дом Жонсона ",
     "owner": "Axaxa_Axaxaxa",
     "status": "Занято",
     "x": 1674.01,
@@ -1784,6 +1784,18 @@
     "status": "Занято",
     "x": 1183.28,
     "y": -1076.05,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 149,
+    "server_id": 14,
+    "type": "house",
+    "name": "Skinhead",
+    "owner": "Mirco_Diamond",
+    "status": "Занято",
+    "x": 1183.15,
+    "y": -1099.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9956,18 +9968,6 @@
     "status": "Занято",
     "x": -2723.16,
     "y": -16.7231,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 831,
-    "server_id": 14,
-    "type": "house",
-    "name": "Продается",
-    "owner": "Daniel_Grace",
-    "status": "Занято",
-    "x": -2723.0,
-    "y": 4.0472,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20364,18 +20364,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1698,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дома нет не кого ",
-    "owner": "Kevin_Pablo",
-    "status": "Занято",
-    "x": 2787.96,
-    "y": 2221.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1699,
     "server_id": 14,
     "type": "house",
@@ -20920,7 +20908,7 @@
     "server_id": 14,
     "type": "house",
     "name": "ХАТА",
-    "owner": "Macro_Montana",
+    "owner": "[30]Shuyali_Yato",
     "status": "Занято",
     "x": 2594.5,
     "y": -1216.39,
@@ -23688,15 +23676,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 149,
+    "id": 831,
     "server_id": 14,
     "type": "house",
-    "name": "Skinhead",
-    "owner": "Mirco_Diamond",
+    "name": "Продается",
+    "owner": "Daniel_Grace",
     "status": "Аукцион",
-    "x": 1183.15,
-    "y": -1099.11,
-    "price": 2600000000,
+    "x": -2723.0,
+    "y": 4.0472,
+    "price": 850000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1698,
+    "server_id": 14,
+    "type": "house",
+    "name": "ПОСМОТРИ ШКАФ ",
+    "owner": "Tro_Pic",
+    "status": "Аукцион",
+    "x": 2787.96,
+    "y": 2221.93,
+    "price": 300123000,
     "district": "Сан-Андреас"
   },
   {

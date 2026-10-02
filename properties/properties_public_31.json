@@ -2547,8 +2547,8 @@
     "id": 212,
     "server_id": 31,
     "type": "house",
-    "name": "Poqyour_Moscow <3",
-    "owner": "Shaqil_Shakur",
+    "name": "WarhammLimit",
+    "owner": "Warhamm_Nightmare",
     "status": "Занято",
     "x": 1017.07,
     "y": -762.8809,
@@ -7668,18 +7668,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 639,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Prosto_Zhorik",
-    "status": "Занято",
-    "x": -278.9989,
-    "y": 1003.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 640,
     "server_id": 31,
     "type": "house",
@@ -12564,6 +12552,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1048,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ice_Ghost",
+    "status": "Занято",
+    "x": -1915.56,
+    "y": 1190.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1049,
     "server_id": 31,
     "type": "house",
@@ -12784,7 +12784,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Bratva_Rvetsya",
+    "owner": "Yanis_Lulisse",
     "status": "Занято",
     "x": 2247.5,
     "y": -1470.24,
@@ -18724,7 +18724,7 @@
     "server_id": 31,
     "type": "house",
     "name": "by satirin",
-    "owner": "Mark_Rockefeller",
+    "owner": "Sasha_Saburov",
     "status": "Занято",
     "x": 2818.53,
     "y": 2134.54,
@@ -22236,18 +22236,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1858,
-    "server_id": 31,
-    "type": "house",
-    "name": "Farm #3",
-    "owner": "Marsel_Deleontex",
-    "status": "Занято",
-    "x": -2790.24,
-    "y": -168.2279,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1859,
     "server_id": 31,
     "type": "house",
@@ -23352,15 +23340,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1048,
+    "id": 639,
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Ice_Ghost",
+    "owner": "Prosto_Zhorik",
     "status": "Аукцион",
-    "x": -1915.56,
-    "y": 1190.1,
-    "price": 2000000000,
+    "x": -278.9989,
+    "y": 1003.39,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1858,
+    "server_id": 31,
+    "type": "house",
+    "name": "Farm #3",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2790.24,
+    "y": -168.2279,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {

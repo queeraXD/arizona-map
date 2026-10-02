@@ -6480,6 +6480,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 540,
+    "server_id": 12,
+    "type": "house",
+    "name": "Резиденция Мелконян",
+    "owner": "Artyomich_Perez",
+    "status": "Занято",
+    "x": 2017.82,
+    "y": 2663.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 541,
     "server_id": 12,
     "type": "house",
@@ -9748,7 +9760,7 @@
     "server_id": 12,
     "type": "house",
     "name": "temlarez famq",
-    "owner": "Bankai_Doxbin",
+    "owner": "Fernando_Kleno",
     "status": "Занято",
     "x": -2723.28,
     "y": -166.408,
@@ -10380,18 +10392,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 866,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 6",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -340.7749,
-    "y": 2565.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 867,
     "server_id": 12,
     "type": "house",
@@ -10412,18 +10412,6 @@
     "status": "Занято",
     "x": -313.3299,
     "y": 2567.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 869,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 5",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -322.6199,
-    "y": 2554.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12208,7 +12196,7 @@
     "server_id": 12,
     "type": "house",
     "name": "коч братан",
-    "owner": "Illarion_Turin",
+    "owner": "Fullstreet_Vendetta",
     "status": "Занято",
     "x": -2541.3,
     "y": 987.9089,
@@ -23808,15 +23796,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 540,
+    "id": 866,
     "server_id": 12,
     "type": "house",
-    "name": "Резиденция Мелконян",
-    "owner": "Artyomich_Perez",
+    "name": "Broker 6",
+    "owner": "Dylan_Broker",
     "status": "Аукцион",
-    "x": 2017.82,
-    "y": 2663.33,
-    "price": 10000000000,
+    "x": -340.7749,
+    "y": 2565.41,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 869,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 5",
+    "owner": "Dylan_Broker",
+    "status": "Аукцион",
+    "x": -322.6199,
+    "y": 2554.17,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {
