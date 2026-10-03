@@ -408,18 +408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 34,
-    "server_id": 22,
-    "type": "house",
-    "name": "майнинг 5",
-    "owner": "Hypogean_Gaol",
-    "status": "Занято",
-    "x": 2439.65,
-    "y": -1338.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 35,
     "server_id": 22,
     "type": "house",
@@ -560,18 +548,6 @@
     "status": "Занято",
     "x": 2196.22,
     "y": -1404.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 47,
-    "server_id": 22,
-    "type": "house",
-    "name": "vovlun",
-    "owner": "Hypogean_Gaol",
-    "status": "Занято",
-    "x": 2188.55,
-    "y": -1419.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2420,18 +2396,6 @@
     "status": "Занято",
     "x": 1536.32,
     "y": -884.789,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 202,
-    "server_id": 22,
-    "type": "house",
-    "name": "oxygen",
-    "owner": "Hypogean_Gaol",
-    "status": "Занято",
-    "x": 1540.17,
-    "y": -851.502,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6960,6 +6924,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 581,
+    "server_id": 22,
+    "type": "house",
+    "name": "склад 5",
+    "owner": "Lady_Luck",
+    "status": "Занято",
+    "x": -287.4519,
+    "y": 2758.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 582,
     "server_id": 22,
     "type": "house",
@@ -9416,18 +9392,6 @@
     "status": "Занято",
     "x": -2513.51,
     "y": 885.7399,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 787,
-    "server_id": 22,
-    "type": "house",
-    "name": "vova lunov worldwide web",
-    "owner": "Hypogean_Gaol",
-    "status": "Занято",
-    "x": -2543.58,
-    "y": 922.2329,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12483,8 +12447,8 @@
     "id": 1042,
     "server_id": 22,
     "type": "house",
-    "name": "Himura SF1",
-    "owner": "Batyok_Heavenly",
+    "name": "дом попы",
+    "owner": "Samuel_Lamba",
     "status": "Занято",
     "x": -1742.51,
     "y": 1174.37,
@@ -13072,7 +13036,7 @@
     "server_id": 22,
     "type": "house",
     "name": "PIKMI HOUSE",
-    "owner": "Pikmi_Karma",
+    "owner": "Karma_Hicks",
     "status": "Занято",
     "x": -2129.67,
     "y": 894.8569,
@@ -13659,7 +13623,7 @@
     "id": 1140,
     "server_id": 22,
     "type": "house",
-    "name": "квартирка Лаурексса(",
+    "name": "Дом",
     "owner": "Hypogean_Gaol",
     "status": "Занято",
     "x": 289.6849,
@@ -18444,18 +18408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1539,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hypogean_Gaol",
-    "status": "Занято",
-    "x": -12.2384,
-    "y": 2346.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1540,
     "server_id": 22,
     "type": "house",
@@ -19456,7 +19408,7 @@
     "server_id": 22,
     "type": "house",
     "name": "КИСИКИСИ BTC N1",
-    "owner": "Pikmi_Sisya",
+    "owner": "Sisya_Hicks",
     "status": "Занято",
     "x": 2788.14,
     "y": 2229.48,
@@ -21996,6 +21948,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 34,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hypogean_Gaol",
+    "status": "Аукцион",
+    "x": 2439.65,
+    "y": -1338.73,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 47,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hypogean_Gaol",
+    "status": "Аукцион",
+    "x": 2188.55,
+    "y": -1419.21,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 202,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hypogean_Gaol",
+    "status": "Аукцион",
+    "x": 1540.17,
+    "y": -851.502,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 219,
     "server_id": 22,
     "type": "house",
@@ -22008,15 +21996,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 581,
+    "id": 787,
     "server_id": 22,
     "type": "house",
-    "name": "склад 5",
-    "owner": "Rab_Alony",
+    "name": "vova lunov worldwide web",
+    "owner": "Hypogean_Gaol",
     "status": "Аукцион",
-    "x": -287.4519,
-    "y": 2758.14,
-    "price": 650000000,
+    "x": -2543.58,
+    "y": 922.2329,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1539,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hypogean_Gaol",
+    "status": "Аукцион",
+    "x": -12.2384,
+    "y": 2346.35,
+    "price": 6000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22041,18 +22041,6 @@
     "x": 2433.93,
     "y": -1320.71,
     "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 268,
-    "server_id": 22,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Balthazar_Castro",
-    "status": "Аукцион",
-    "x": 8.3996,
-    "y": 1212.035,
-    "price": 330000,
     "district": "Сан-Андреас"
   },
   {
@@ -24616,7 +24604,7 @@
     "server_id": 22,
     "type": "business",
     "name": "Отель",
-    "owner": "Sergei_Grandov",
+    "owner": "Ithnik_Forevers",
     "status": "Занято",
     "x": 2386.539,
     "y": 2478.348,
@@ -24716,6 +24704,18 @@
     "status": "Занято",
     "x": 2272.941,
     "y": -1795.335,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 268,
+    "server_id": 22,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Balthazar_Castro",
+    "status": "Занято",
+    "x": 8.3996,
+    "y": 1212.035,
     "price": 0,
     "district": "Сан-Андреас"
   },

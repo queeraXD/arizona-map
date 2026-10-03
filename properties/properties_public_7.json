@@ -4788,18 +4788,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 399,
-    "server_id": 7,
-    "type": "house",
-    "name": "tg: @Vanya228zxc",
-    "owner": "Fill_Puma",
-    "status": "Занято",
-    "x": 2392.35,
-    "y": -54.2308,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 400,
     "server_id": 7,
     "type": "house",
@@ -4820,18 +4808,6 @@
     "status": "Занято",
     "x": 2438.82,
     "y": -54.6911,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
-    "status": "Занято",
-    "x": 2448.44,
-    "y": -11.0635,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7036,7 +7012,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Дом",
-    "owner": "Nord_West",
+    "owner": "Nekich_Bossov",
     "status": "Занято",
     "x": -604.3229,
     "y": 2716.72,
@@ -15084,18 +15060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1258,
-    "server_id": 7,
-    "type": "house",
-    "name": "PadlaMerc House ( чё? )",
-    "owner": "Nekich_Bossov",
-    "status": "Занято",
-    "x": -2321.64,
-    "y": 796.755,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1259,
     "server_id": 7,
     "type": "house",
@@ -16528,7 +16492,7 @@
     "server_id": 7,
     "type": "house",
     "name": ":alien:",
-    "owner": "Elza_First",
+    "owner": "Elza_Frozen",
     "status": "Занято",
     "x": 1109.01,
     "y": -1575.2,
@@ -21324,18 +21288,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1779,
-    "server_id": 7,
-    "type": "house",
-    "name": "TUHKA HOUSE",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 2441.54,
-    "y": 1213.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1780,
     "server_id": 7,
     "type": "house",
@@ -21819,8 +21771,8 @@
     "id": 1820,
     "server_id": 7,
     "type": "house",
-    "name": "тик токерский дом Спукса",
-    "owner": "Parker_Wesley",
+    "name": "Castel 3",
+    "owner": "Jack_Castel",
     "status": "Занято",
     "x": 2788.07,
     "y": 2229.48,
@@ -23223,8 +23175,8 @@
     "id": 1937,
     "server_id": 7,
     "type": "house",
-    "name": "Дом легенды Паркера ",
-    "owner": "Parker_Wesley",
+    "name": "Castel 2",
+    "owner": "Jack_Castel",
     "status": "Занято",
     "x": -283.9819,
     "y": 907.0859,
@@ -23772,18 +23724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1983,
-    "server_id": 7,
-    "type": "house",
-    "name": "Домик) ",
-    "owner": "Nekich_Bossov",
-    "status": "Занято",
-    "x": 2492.25,
-    "y": -1366.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1984,
     "server_id": 7,
     "type": "house",
@@ -24068,18 +24008,6 @@
     "status": "Занято",
     "x": 2476.26,
     "y": -1424.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2008,
-    "server_id": 7,
-    "type": "house",
-    "name": "Фарм хата",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 2473.59,
-    "y": -1424.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25524,6 +25452,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 399,
+    "server_id": 7,
+    "type": "house",
+    "name": "tg: @Vanya228zxc",
+    "owner": "Fill_Puma",
+    "status": "Аукцион",
+    "x": 2392.35,
+    "y": -54.2308,
+    "price": 8000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 402,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
+    "status": "Аукцион",
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 7999999999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 527,
     "server_id": 7,
     "type": "house",
@@ -25536,15 +25488,63 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1258,
+    "server_id": 7,
+    "type": "house",
+    "name": "PadlaMerc House ( чё? )",
+    "owner": "Nekich_Bossov",
+    "status": "Аукцион",
+    "x": -2321.64,
+    "y": 796.755,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1517,
     "server_id": 7,
     "type": "house",
-    "name": "Lombard",
+    "name": "АСК ВД",
     "owner": "Arturro_Gaty",
     "status": "Аукцион",
     "x": -2285.31,
     "y": 829.2849,
-    "price": 8500000000,
+    "price": 8200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1779,
+    "server_id": 7,
+    "type": "house",
+    "name": "TUHKA HOUSE",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": 2441.54,
+    "y": 1213.45,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1983,
+    "server_id": 7,
+    "type": "house",
+    "name": "Домик) ",
+    "owner": "Nekich_Bossov",
+    "status": "Аукцион",
+    "x": 2492.25,
+    "y": -1366.49,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2008,
+    "server_id": 7,
+    "type": "house",
+    "name": "Фарм хата",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": 2473.59,
+    "y": -1424.54,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {

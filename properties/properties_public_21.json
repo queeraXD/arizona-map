@@ -3024,6 +3024,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 252,
+    "server_id": 21,
+    "type": "house",
+    "name": "Kuvalda",
+    "owner": "Timur_Kuvalda",
+    "status": "Занято",
+    "x": 2518.4,
+    "y": 128.988,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 253,
     "server_id": 21,
     "type": "house",
@@ -3272,6 +3284,18 @@
     "status": "Занято",
     "x": 2626.07,
     "y": -1112.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 274,
+    "server_id": 21,
+    "type": "house",
+    "name": "Kuvalda House",
+    "owner": "Timur_Kuvalda",
+    "status": "Занято",
+    "x": 2576.59,
+    "y": -1070.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3543,7 +3567,7 @@
     "id": 297,
     "server_id": 21,
     "type": "house",
-    "name": "Tekila Legenda",
+    "name": "стрипуха в нутри",
     "owner": "Yura_Grigorev",
     "status": "Занято",
     "x": 2105.31,
@@ -3872,18 +3896,6 @@
     "status": "Занято",
     "x": 743.247,
     "y": -509.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 326,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Taliban",
-    "status": "Занято",
-    "x": 340.0769,
-    "y": 33.6021,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6636,18 +6648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 556,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Heilig_Pfeil",
-    "status": "Занято",
-    "x": 346.957,
-    "y": 1127.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 557,
     "server_id": 21,
     "type": "house",
@@ -6712,7 +6712,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Берлога Franka",
-    "owner": "Frank_Freaks",
+    "owner": "Sos_Krutoy",
     "status": "Занято",
     "x": 227.792,
     "y": 1167.82,
@@ -6800,18 +6800,6 @@
     "status": "Занято",
     "x": 452.07,
     "y": 1246.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 570,
-    "server_id": 21,
-    "type": "house",
-    "name": "Лачуга фк",
-    "owner": "Heilig_Pfeil",
-    "status": "Занято",
-    "x": 467.118,
-    "y": 1297.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8660,18 +8648,6 @@
     "status": "Занято",
     "x": 1678.36,
     "y": 2691.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 725,
-    "server_id": 21,
-    "type": "house",
-    "name": "дарк ку всем",
-    "owner": "Knyaz_Freedom",
-    "status": "Занято",
-    "x": 1703.7,
-    "y": 2689.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18712,7 +18688,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Ресурсы",
-    "owner": "Carl_Johnson",
+    "owner": "Carlikus_Johnson",
     "status": "Занято",
     "x": 2594.5,
     "y": -1211.73,
@@ -19240,7 +19216,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Майнинг",
-    "owner": "Vlad_Ruban",
+    "owner": "Pavel_Shihanov",
     "status": "Занято",
     "x": 2357.05,
     "y": 1051.35,
@@ -21900,30 +21876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 252,
-    "server_id": 21,
-    "type": "house",
-    "name": "Kuvalda",
-    "owner": "Timur_Kuvalda",
-    "status": "Аукцион",
-    "x": 2518.4,
-    "y": 128.988,
-    "price": 1300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 274,
-    "server_id": 21,
-    "type": "house",
-    "name": "Kuvalda House",
-    "owner": "Timur_Kuvalda",
-    "status": "Аукцион",
-    "x": 2576.59,
-    "y": -1070.64,
-    "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 305,
     "server_id": 21,
     "type": "house",
@@ -21933,6 +21885,54 @@
     "x": 2060.47,
     "y": -1076.7,
     "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 326,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Taliban",
+    "status": "Аукцион",
+    "x": 340.0769,
+    "y": 33.6021,
+    "price": 999999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 556,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Heilig_Pfeil",
+    "status": "Аукцион",
+    "x": 346.957,
+    "y": 1127.69,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 570,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Heilig_Pfeil",
+    "status": "Аукцион",
+    "x": 467.118,
+    "y": 1297.86,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 725,
+    "server_id": 21,
+    "type": "house",
+    "name": "дарк ку всем",
+    "owner": "Knyaz_Freedom",
+    "status": "Аукцион",
+    "x": 1703.7,
+    "y": 2689.52,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
