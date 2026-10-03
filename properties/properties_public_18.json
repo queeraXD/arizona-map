@@ -9672,18 +9672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 806,
-    "server_id": 18,
-    "type": "house",
-    "name": "набор архитектора",
-    "owner": "Morgan_Branigor",
-    "status": "Занято",
-    "x": -2723.93,
-    "y": -105.541,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 807,
     "server_id": 18,
     "type": "house",
@@ -22212,15 +22200,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 217,
+    "id": 806,
     "server_id": 18,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Lelouch_Lamperouge",
+    "type": "house",
+    "name": "набор архитектора",
+    "owner": "Morgan_Branigor",
     "status": "Аукцион",
-    "x": 2537.82,
-    "y": 2137.12,
-    "price": 450000,
+    "x": -2723.93,
+    "y": -105.541,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25132,7 +25120,7 @@
     "server_id": 18,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Mike_Helm",
+    "owner": "Oliver_Simpson",
     "status": "Занято",
     "x": -1981.62,
     "y": 174.636,
@@ -25388,6 +25376,18 @@
     "status": "Занято",
     "x": 2327.86,
     "y": 2421.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 217,
+    "server_id": 18,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Lelouch_Lamperouge",
+    "status": "Занято",
+    "x": 2537.82,
+    "y": 2137.12,
     "price": 0,
     "district": "Сан-Андреас"
   },

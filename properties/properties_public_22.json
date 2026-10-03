@@ -552,6 +552,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 47,
+    "server_id": 22,
+    "type": "house",
+    "name": "HICKS",
+    "owner": "Pia_Hicks",
+    "status": "Занято",
+    "x": 2188.55,
+    "y": -1419.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 48,
     "server_id": 22,
     "type": "house",
@@ -2396,6 +2408,18 @@
     "status": "Занято",
     "x": 1536.32,
     "y": -884.789,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 202,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hypogean_Gaol",
+    "status": "Занято",
+    "x": 1540.17,
+    "y": -851.502,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5127,8 +5151,8 @@
     "id": 430,
     "server_id": 22,
     "type": "house",
-    "name": "ЮТСУКИ ",
-    "owner": "Yota_Revival",
+    "name": "ПВЗ ( убежище лорда )",
+    "owner": "Lord_Gustav",
     "status": "Занято",
     "x": 248.332,
     "y": -33.1693,
@@ -18420,6 +18444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1539,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tony_Dick",
+    "status": "Занято",
+    "x": -12.2384,
+    "y": 2346.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1540,
     "server_id": 22,
     "type": "house",
@@ -19532,6 +19568,18 @@
     "status": "Занято",
     "x": 2433.93,
     "y": -1303.47,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1634,
+    "server_id": 22,
+    "type": "house",
+    "name": " Сладкий",
+    "owner": "Akela_Ghoul",
+    "status": "Занято",
+    "x": 2433.93,
+    "y": -1320.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21951,60 +21999,24 @@
     "id": 34,
     "server_id": 22,
     "type": "house",
-    "name": "Дом",
-    "owner": "Hypogean_Gaol",
+    "name": "СПОРТИК",
+    "owner": "Erick_Martins",
     "status": "Аукцион",
     "x": 2439.65,
     "y": -1338.73,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 47,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hypogean_Gaol",
-    "status": "Аукцион",
-    "x": 2188.55,
-    "y": -1419.21,
-    "price": 3500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 202,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hypogean_Gaol",
-    "status": "Аукцион",
-    "x": 1540.17,
-    "y": -851.502,
-    "price": 4000000000,
+    "price": 800123123,
     "district": "Сан-Андреас"
   },
   {
     "id": 787,
     "server_id": 22,
     "type": "house",
-    "name": "vova lunov worldwide web",
-    "owner": "Hypogean_Gaol",
+    "name": "hoodrich",
+    "owner": "Anubis_Homie",
     "status": "Аукцион",
     "x": -2543.58,
     "y": 922.2329,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1539,
-    "server_id": 22,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hypogean_Gaol",
-    "status": "Аукцион",
-    "x": -12.2384,
-    "y": 2346.35,
-    "price": 6000000000,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22017,18 +22029,6 @@
     "x": 1548.85,
     "y": 2003.91,
     "price": 600000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1634,
-    "server_id": 22,
-    "type": "house",
-    "name": " Сладкий",
-    "owner": "Awarjir_Yunkee",
-    "status": "Аукцион",
-    "x": 2433.93,
-    "y": -1320.71,
-    "price": 750000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22708,7 +22708,7 @@
     "server_id": 22,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Damon_Ross",
+    "owner": "Jack_Ross",
     "status": "Занято",
     "x": 2556.26,
     "y": 1872.19,

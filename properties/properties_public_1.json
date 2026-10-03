@@ -3528,6 +3528,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 294,
+    "server_id": 1,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Inj_Ury",
+    "status": "Занято",
+    "x": 2347.94,
+    "y": -1202.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 295,
     "server_id": 1,
     "type": "house",
@@ -4604,18 +4616,6 @@
     "status": "Занято",
     "x": 2324.37,
     "y": 191.1929,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 385,
-    "server_id": 1,
-    "type": "house",
-    "name": "pes family",
-    "owner": "Inj_Ury",
-    "status": "Занято",
-    "x": 2363.19,
-    "y": 187.2169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6315,7 +6315,7 @@
     "id": 528,
     "server_id": 1,
     "type": "house",
-    "name": "The Forte Family",
+    "name": "Home Kord Company",
     "owner": "Din_Wintory",
     "status": "Занято",
     "x": 2018.48,
@@ -8652,6 +8652,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 723,
+    "server_id": 1,
+    "type": "house",
+    "name": "Forte Inc",
+    "owner": "Akira_Forte",
+    "status": "Занято",
+    "x": 1652.34,
+    "y": 2709.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 724,
     "server_id": 1,
     "type": "house",
@@ -8852,6 +8864,18 @@
     "status": "Занято",
     "x": -2840.23,
     "y": 877.4359,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 741,
+    "server_id": 1,
+    "type": "house",
+    "name": "Fun_Eclipse aka yukiwave",
+    "owner": "Michael_Crom",
+    "status": "Занято",
+    "x": -2860.27,
+    "y": 835.6959,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9884,6 +9908,18 @@
     "status": "Занято",
     "x": -2724.29,
     "y": -58.0475,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 828,
+    "server_id": 1,
+    "type": "house",
+    "name": "База в SF",
+    "owner": "Sega_XxL",
+    "status": "Занято",
+    "x": -2721.08,
+    "y": -44.7512,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20292,30 +20328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1697,
-    "server_id": 1,
-    "type": "house",
-    "name": "LV - 1",
-    "owner": "Sega_XxL",
-    "status": "Занято",
-    "x": 884.517,
-    "y": 2295.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1698,
-    "server_id": 1,
-    "type": "house",
-    "name": "LV - 2",
-    "owner": "Sega_XxL",
-    "status": "Занято",
-    "x": 884.517,
-    "y": 2321.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1699,
     "server_id": 1,
     "type": "house",
@@ -24108,15 +24120,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 294,
+    "id": 385,
     "server_id": 1,
     "type": "house",
     "name": "pes family",
     "owner": "Inj_Ury",
     "status": "Аукцион",
-    "x": 2347.94,
-    "y": -1202.84,
-    "price": 2500000000,
+    "x": 2363.19,
+    "y": 187.2169,
+    "price": 6000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24132,51 +24144,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 723,
+    "id": 1697,
     "server_id": 1,
     "type": "house",
-    "name": "Forte Inc",
-    "owner": "Akira_Forte",
+    "name": "LV - 1",
+    "owner": "Sega_XxL",
     "status": "Аукцион",
-    "x": 1652.34,
-    "y": 2709.34,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 741,
-    "server_id": 1,
-    "type": "house",
-    "name": "Fun_Eclipse aka yukiwave",
-    "owner": "Fun_Eclipse",
-    "status": "Аукцион",
-    "x": -2860.27,
-    "y": 835.6959,
+    "x": 884.517,
+    "y": 2295.31,
     "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 828,
+    "id": 1698,
     "server_id": 1,
     "type": "house",
-    "name": "Fun_Eclipse aka yukiwave",
-    "owner": "Fun_Eclipse",
+    "name": "LV - 2",
+    "owner": "Sega_XxL",
     "status": "Аукцион",
-    "x": -2721.08,
-    "y": -44.7512,
+    "x": 884.517,
+    "y": 2321.9,
     "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 171,
-    "server_id": 1,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Nikita_Okonor",
-    "status": "Аукцион",
-    "x": 2169.41,
-    "y": 2795.77,
-    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -26144,6 +26132,18 @@
     "status": "Занято",
     "x": 1157.92,
     "y": 2072.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 171,
+    "server_id": 1,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Nikita_Okonor",
+    "status": "Занято",
+    "x": 2169.41,
+    "y": 2795.77,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -2463,7 +2463,7 @@
     "id": 205,
     "server_id": 29,
     "type": "house",
-    "name": "Виджюи фулл",
+    "name": "дом моей любимой",
     "owner": "John_McKenly",
     "status": "Занято",
     "x": 1497.01,
@@ -4296,6 +4296,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 358,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Qual_Kreis",
+    "status": "Занято",
+    "x": 1059.29,
+    "y": -1105.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 359,
     "server_id": 29,
     "type": "house",
@@ -4892,6 +4904,18 @@
     "status": "Занято",
     "x": 1402.4,
     "y": 333.4599,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 411,
+    "server_id": 29,
+    "type": "house",
+    "name": "мипарио_О",
+    "owner": "Trofim_Morozov",
+    "status": "Занято",
+    "x": 1415.14,
+    "y": 324.105,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10896,18 +10920,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 914,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Turbo_Ashot",
-    "status": "Занято",
-    "x": -2159.76,
-    "y": 1066.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 915,
     "server_id": 29,
     "type": "house",
@@ -12152,18 +12164,6 @@
     "status": "Занято",
     "x": -2541.3,
     "y": 987.9089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1019,
-    "server_id": 29,
-    "type": "house",
-    "name": "TG:qxssxp1",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": -2542.09,
-    "y": 967.7059,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18660,6 +18660,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1566,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Qual_Kreis",
+    "status": "Занято",
+    "x": 510.7539,
+    "y": 1115.67,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1567,
     "server_id": 29,
     "type": "house",
@@ -19707,10 +19719,22 @@
     "id": 1654,
     "server_id": 29,
     "type": "house",
-    "name": "Rafael house",
-    "owner": "Rafael_Brunelle",
+    "name": "nefar house",
+    "owner": "Ito_HIroshi",
     "status": "Занято",
     "x": 2492.21,
+    "y": -1431.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1655,
+    "server_id": 29,
+    "type": "house",
+    "name": ":arz::cat:Берлога №3:cat::arz:",
+    "owner": "Lonny_Liberty",
+    "status": "Занято",
+    "x": 2487.42,
     "y": -1431.68,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21000,18 +21024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 358,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Qual_Kreis",
-    "status": "Аукцион",
-    "x": 1059.29,
-    "y": -1105.3,
-    "price": 4000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 405,
     "server_id": 29,
     "type": "house",
@@ -21032,19 +21044,7 @@
     "status": "Аукцион",
     "x": 1428.29,
     "y": 355.7619,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 411,
-    "server_id": 29,
-    "type": "house",
-    "name": "мипарио_О",
-    "owner": "Hiroto_Mirage",
-    "status": "Аукцион",
-    "x": 1415.14,
-    "y": 324.105,
-    "price": 500000000,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21068,7 +21068,31 @@
     "status": "Аукцион",
     "x": 1978.35,
     "y": 665.8079,
-    "price": 500000000,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 914,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Turbo_Ashot",
+    "status": "Аукцион",
+    "x": -2159.76,
+    "y": 1066.95,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1019,
+    "server_id": 29,
+    "type": "house",
+    "name": "TG:qxssxp1",
+    "owner": "Night_Sosiska",
+    "status": "Аукцион",
+    "x": -2542.09,
+    "y": 967.7059,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {
@@ -21104,7 +21128,7 @@
     "status": "Аукцион",
     "x": -2881.36,
     "y": 790.427,
-    "price": 500000000,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21120,30 +21144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1566,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Qual_Kreis",
-    "status": "Аукцион",
-    "x": 510.7539,
-    "y": 1115.67,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1655,
-    "server_id": 29,
-    "type": "house",
-    "name": ":arz::cat:Берлога №3:cat::arz:",
-    "owner": "Hiroto_Mirage",
-    "status": "Аукцион",
-    "x": 2487.42,
-    "y": -1431.68,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 189,
     "server_id": 29,
     "type": "business",
@@ -21153,18 +21153,6 @@
     "x": -1981.62,
     "y": 174.636,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 217,
-    "server_id": 29,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Qual_Kreis",
-    "status": "Аукцион",
-    "x": 2537.82,
-    "y": 2137.12,
-    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -24320,6 +24308,18 @@
     "status": "Занято",
     "x": 2327.86,
     "y": 2421.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 217,
+    "server_id": 29,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Qual_Kreis",
+    "status": "Занято",
+    "x": 2537.82,
+    "y": 2137.12,
     "price": 0,
     "district": "Сан-Андреас"
   },

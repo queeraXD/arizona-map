@@ -3468,18 +3468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 289,
-    "server_id": 27,
-    "type": "house",
-    "name": "Temshchik818",
-    "owner": "Bull_Null",
-    "status": "Занято",
-    "x": 2534.44,
-    "y": -1063.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 290,
     "server_id": 27,
     "type": "house",
@@ -6080,6 +6068,18 @@
     "status": "Занято",
     "x": 1320.53,
     "y": 2028.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 509,
+    "server_id": 27,
+    "type": "house",
+    "name": "Momo House",
+    "owner": "Nelda_BumbleBee",
+    "status": "Занято",
+    "x": -2219.84,
+    "y": -2400.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10888,7 +10888,7 @@
     "server_id": 27,
     "type": "house",
     "name": "SAITO ГЕЮГА",
-    "owner": "Kirya_Saito",
+    "owner": "Scuff_Dog",
     "status": "Занято",
     "x": -2126.8,
     "y": 1032.62,
@@ -10952,18 +10952,6 @@
     "status": "Занято",
     "x": -2159.89,
     "y": 1048.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 916,
-    "server_id": 27,
-    "type": "house",
-    "name": "Dodger  fam",
-    "owner": "Matwey_Kuznetsov",
-    "status": "Занято",
-    "x": -2159.79,
-    "y": 1030.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22836,18 +22824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1909,
-    "server_id": 27,
-    "type": "house",
-    "name": "Шнюк/Майнинг ",
-    "owner": "Bull_Null",
-    "status": "Занято",
-    "x": 1775.03,
-    "y": 2870.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1910,
     "server_id": 27,
     "type": "house",
@@ -23552,6 +23528,18 @@
     "status": "Занято",
     "x": -2018.55,
     "y": 849.3389,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1969,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом милый дом",
+    "owner": "Angel_Wodpeker",
+    "status": "Занято",
+    "x": 1857.17,
+    "y": -2040.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24384,6 +24372,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 289,
+    "server_id": 27,
+    "type": "house",
+    "name": "Temshchik818",
+    "owner": "Bull_Null",
+    "status": "Аукцион",
+    "x": 2534.44,
+    "y": -1063.42,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 407,
     "server_id": 27,
     "type": "house",
@@ -24408,15 +24408,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 509,
+    "id": 916,
     "server_id": 27,
     "type": "house",
-    "name": "Momo House",
-    "owner": "Nelda_BumbleBee",
+    "name": "Dodger  fam",
+    "owner": "Vito_Antonio",
     "status": "Аукцион",
-    "x": -2219.84,
-    "y": -2400.34,
-    "price": 18000,
+    "x": -2159.79,
+    "y": 1030.66,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24428,7 +24428,7 @@
     "status": "Аукцион",
     "x": -2018.45,
     "y": 784.7659,
-    "price": 1,
+    "price": 5050,
     "district": "Сан-Андреас"
   },
   {
@@ -24456,15 +24456,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1969,
+    "id": 1909,
     "server_id": 27,
     "type": "house",
-    "name": "Дом милый дом",
-    "owner": "Morph_LIng",
+    "name": "Шнюк/Майнинг ",
+    "owner": "Bull_Null",
     "status": "Аукцион",
-    "x": 1857.17,
-    "y": -2040.85,
-    "price": 111111111,
+    "x": 1775.03,
+    "y": 2870.96,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 295,
+    "server_id": 27,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Den_Paul",
+    "status": "Аукцион",
+    "x": 2392.56,
+    "y": 2042.21,
+    "price": 170000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 27,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Den_Paul",
+    "status": "Аукцион",
+    "x": 2366.7,
+    "y": 2071.11,
+    "price": 170000,
     "district": "Сан-Андреас"
   },
   {
@@ -26528,30 +26552,6 @@
     "status": "Занято",
     "x": 2472.77,
     "y": 2034.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 295,
-    "server_id": 27,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Den_Paul",
-    "status": "Занято",
-    "x": 2392.56,
-    "y": 2042.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 27,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Den_Paul",
-    "status": "Занято",
-    "x": 2366.7,
-    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },

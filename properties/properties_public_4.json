@@ -3144,18 +3144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 262,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zaza_Cult",
-    "status": "Занято",
-    "x": 2373.85,
-    "y": -8.6736,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 263,
     "server_id": 4,
     "type": "house",
@@ -4652,18 +4640,6 @@
     "status": "Занято",
     "x": 2363.25,
     "y": 142.009,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 388,
-    "server_id": 4,
-    "type": "house",
-    "name": "zaza",
-    "owner": "Zaza_Cult",
-    "status": "Занято",
-    "x": 2363.33,
-    "y": 116.068,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9784,7 +9760,7 @@
     "server_id": 4,
     "type": "house",
     "name": "треп хата ",
-    "owner": "Naomi_Syndicate",
+    "owner": "Raymond_Woodrow",
     "status": "Занято",
     "x": -2724.34,
     "y": -191.276,
@@ -10788,18 +10764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 900,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Meo_Wizard",
-    "status": "Занято",
-    "x": -2069.44,
-    "y": -2561.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 901,
     "server_id": 4,
     "type": "house",
@@ -11156,6 +11120,18 @@
     "status": "Занято",
     "x": -2358.66,
     "y": 797.265,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 931,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Powder_Schnider",
+    "status": "Занято",
+    "x": -2277.93,
+    "y": 767.867,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15736,7 +15712,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Raven Home 1",
-    "owner": "Naomi_Syndicate",
+    "owner": "Raymond_Woodrow",
     "status": "Занято",
     "x": -2372.53,
     "y": 614.062,
@@ -19716,6 +19692,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1647,
+    "server_id": 4,
+    "type": "house",
+    "name": "Dominators HUB#3",
+    "owner": "Sukko_Dominators",
+    "status": "Занято",
+    "x": -2576.47,
+    "y": -118.7259,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1648,
     "server_id": 4,
     "type": "house",
@@ -20224,7 +20212,7 @@
     "server_id": 4,
     "type": "house",
     "name": "дом",
-    "owner": "Naomi_Syndicate",
+    "owner": "Raymond_Woodrow",
     "status": "Занято",
     "x": 2683.44,
     "y": -1224.87,
@@ -21316,7 +21304,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Confidents^_^",
-    "owner": "Henry_Destruction",
+    "owner": "Edul_Abgaryan",
     "status": "Занято",
     "x": 1112.2,
     "y": -1557.42,
@@ -24348,18 +24336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2034,
-    "server_id": 4,
-    "type": "house",
-    "name": "Scandal_house",
-    "owner": "Scandal_White",
-    "status": "Занято",
-    "x": 2417.74,
-    "y": 997.1989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2035,
     "server_id": 4,
     "type": "house",
@@ -25212,15 +25188,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 931,
+    "id": 262,
     "server_id": 4,
     "type": "house",
     "name": "Дом",
-    "owner": "Down_Town",
+    "owner": "Zaza_Cult",
     "status": "Аукцион",
-    "x": -2277.93,
-    "y": 767.867,
-    "price": 100000000,
+    "x": 2373.85,
+    "y": -8.6736,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 388,
+    "server_id": 4,
+    "type": "house",
+    "name": "zaza",
+    "owner": "Zaza_Cult",
+    "status": "Аукцион",
+    "x": 2363.33,
+    "y": 116.068,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 900,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Meo_Wizard",
+    "status": "Аукцион",
+    "x": -2069.44,
+    "y": -2561.04,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25248,15 +25248,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1647,
+    "id": 2034,
     "server_id": 4,
     "type": "house",
-    "name": "home",
-    "owner": "Sharon_Slayer",
+    "name": "Scandal_house",
+    "owner": "Scandal_White",
     "status": "Аукцион",
-    "x": -2576.47,
-    "y": -118.7259,
-    "price": 10000000,
+    "x": 2417.74,
+    "y": 997.1989,
+    "price": 220000000,
     "district": "Сан-Андреас"
   },
   {
@@ -28288,7 +28288,7 @@
     "server_id": 4,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Henry_Destruction",
+    "owner": "Jeff_Cremer",
     "status": "Занято",
     "x": 1771.74,
     "y": -1903.27,
