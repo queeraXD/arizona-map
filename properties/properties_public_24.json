@@ -876,18 +876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 73,
-    "server_id": 24,
-    "type": "house",
-    "name": "budka",
-    "owner": "Pharmacy_Throat",
-    "status": "Занято",
-    "x": 2402.54,
-    "y": -1714.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 74,
     "server_id": 24,
     "type": "house",
@@ -5180,18 +5168,6 @@
     "status": "Занято",
     "x": 2279.2,
     "y": -1076.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 433,
-    "server_id": 24,
-    "type": "house",
-    "name": "Kenj1 Home",
-    "owner": "Troll_Deeplace",
-    "status": "Занято",
-    "x": 2284.16,
-    "y": -1046.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14712,18 +14688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1228,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Troll_Deeplace",
-    "status": "Занято",
-    "x": -2477.21,
-    "y": 1318.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1229,
     "server_id": 24,
     "type": "house",
@@ -20208,6 +20172,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1686,
+    "server_id": 24,
+    "type": "house",
+    "name": "Barrosa LV BTC",
+    "owner": "Marar_Farma",
+    "status": "Занято",
+    "x": 2441.54,
+    "y": 1220.67,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1687,
     "server_id": 24,
     "type": "house",
@@ -20820,18 +20796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1739,
-    "server_id": 24,
-    "type": "house",
-    "name": "Zoldik",
-    "owner": "Killua_Zoldik",
-    "status": "Занято",
-    "x": -594.822,
-    "y": -1056.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1740,
     "server_id": 24,
     "type": "house",
@@ -20852,18 +20816,6 @@
     "status": "Занято",
     "x": -582.557,
     "y": -1040.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1742,
-    "server_id": 24,
-    "type": "house",
-    "name": "Zoldik",
-    "owner": "Killua_Zoldik",
-    "status": "Занято",
-    "x": -576.806,
-    "y": -1031.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22020,6 +21972,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 73,
+    "server_id": 24,
+    "type": "house",
+    "name": "budka",
+    "owner": "Pharmacy_Throat",
+    "status": "Аукцион",
+    "x": 2402.54,
+    "y": -1714.82,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 276,
     "server_id": 24,
     "type": "house",
@@ -22032,15 +21996,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1686,
+    "id": 433,
     "server_id": 24,
     "type": "house",
-    "name": "Barrosa LV BTC",
-    "owner": "Marar_Farma",
+    "name": "Kenj1 Home",
+    "owner": "Troll_Deeplace",
     "status": "Аукцион",
-    "x": 2441.54,
-    "y": 1220.67,
-    "price": 400000000,
+    "x": 2284.16,
+    "y": -1046.07,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1228,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Troll_Deeplace",
+    "status": "Аукцион",
+    "x": -2477.21,
+    "y": 1318.55,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1739,
+    "server_id": 24,
+    "type": "house",
+    "name": "Zoldik",
+    "owner": "Killua_Zoldik",
+    "status": "Аукцион",
+    "x": -594.822,
+    "y": -1056.87,
+    "price": 10000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1742,
+    "server_id": 24,
+    "type": "house",
+    "name": "Zoldik",
+    "owner": "Killua_Zoldik",
+    "status": "Аукцион",
+    "x": -576.806,
+    "y": -1031.86,
+    "price": 10000,
     "district": "Сан-Андреас"
   },
   {

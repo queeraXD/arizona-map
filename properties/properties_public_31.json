@@ -12564,18 +12564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1048,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ice_Ghost",
-    "status": "Занято",
-    "x": -1915.56,
-    "y": 1190.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1049,
     "server_id": 31,
     "type": "house",
@@ -20908,7 +20896,7 @@
     "server_id": 31,
     "type": "house",
     "name": "тик токерский дом Спукса",
-    "owner": "Nekich_Bossov",
+    "owner": "Farmila_Vagos",
     "status": "Занято",
     "x": 1789.8,
     "y": 2778.62,
@@ -22248,6 +22236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1858,
+    "server_id": 31,
+    "type": "house",
+    "name": "Farm #3",
+    "owner": "Serega_Samosval",
+    "status": "Занято",
+    "x": -2790.24,
+    "y": -168.2279,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1859,
     "server_id": 31,
     "type": "house",
@@ -22840,7 +22840,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Wright",
-    "owner": "Wright_Shakur",
+    "owner": "Maras_Shakur",
     "status": "Занято",
     "x": 122.9499,
     "y": 948.955,
@@ -22936,7 +22936,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Wright",
-    "owner": "Wright_Shakur",
+    "owner": "Maras_Shakur",
     "status": "Занято",
     "x": -115.093,
     "y": 972.0419,
@@ -22972,7 +22972,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Wright",
-    "owner": "Wright_Shakur",
+    "owner": "Maras_Shakur",
     "status": "Занято",
     "x": -103.942,
     "y": 860.46,
@@ -23352,27 +23352,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1858,
+    "id": 1048,
     "server_id": 31,
     "type": "house",
-    "name": "Farm #3",
-    "owner": "Государство",
+    "name": "Дом",
+    "owner": "Ice_Ghost",
     "status": "Аукцион",
-    "x": -2790.24,
-    "y": -168.2279,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 82,
-    "server_id": 31,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Mlnato_Rostik",
-    "status": "Аукцион",
-    "x": 1879.19,
-    "y": 2339.5,
-    "price": 140000,
+    "x": -1915.56,
+    "y": 1190.1,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25112,6 +25100,18 @@
     "status": "Занято",
     "x": 2101.89,
     "y": 2228.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 82,
+    "server_id": 31,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Trump_Nightingale",
+    "status": "Занято",
+    "x": 1879.19,
+    "y": 2339.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
