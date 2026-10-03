@@ -10008,18 +10008,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 834,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2029.84,
-    "y": 745.572,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 835,
     "server_id": 5,
     "type": "house",
@@ -11364,18 +11352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 947,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия 947",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2112.59,
-    "y": 796.4169,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 948,
     "server_id": 5,
     "type": "house",
@@ -12276,18 +12252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1023,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия 1023",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2863.56,
-    "y": 829.7769,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1024,
     "server_id": 5,
     "type": "house",
@@ -12596,18 +12560,6 @@
     "status": "Занято",
     "x": 2230.5,
     "y": -1396.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1050,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия 1050",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2789.17,
-    "y": -181.2189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17748,18 +17700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1479,
-    "server_id": 5,
-    "type": "house",
-    "name": "Домик Майкла Брутского",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 1786.44,
-    "y": 2867.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1480,
     "server_id": 5,
     "type": "house",
@@ -17984,18 +17924,6 @@
     "status": "Занято",
     "x": 790.2039,
     "y": 1973.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1499,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 766.848,
-    "y": 1989.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25116,15 +25044,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 338,
+    "id": 834,
     "server_id": 5,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Bonnie_Corleone",
+    "type": "house",
+    "name": "Без названия",
+    "owner": "Igoryan_Toretto",
     "status": "Аукцион",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 1183000,
+    "x": -2029.84,
+    "y": 745.572,
+    "price": 1350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 947,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия 947",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": -2112.59,
+    "y": 796.4169,
+    "price": 1350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1023,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия 1023",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": -2863.56,
+    "y": 829.7769,
+    "price": 1400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1050,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия 1050",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": -2789.17,
+    "y": -181.2189,
+    "price": 1400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1479,
+    "server_id": 5,
+    "type": "house",
+    "name": "Домик Майкла Брутского",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": 1786.44,
+    "y": 2867.53,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1499,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 766.848,
+    "y": 1989.69,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -29165,6 +29153,18 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "Adrian_KoIiri",
+    "status": "Занято",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 338,
+    "server_id": 5,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Bonnie_Corleone",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

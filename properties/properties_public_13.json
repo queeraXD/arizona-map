@@ -11676,18 +11676,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 973,
-    "server_id": 13,
-    "type": "house",
-    "name": "майнинг ферма , 4 лвл + шкаф",
-    "owner": "Toma_Hunter",
-    "status": "Занято",
-    "x": -2478.74,
-    "y": 2488.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 974,
     "server_id": 13,
     "type": "house",
@@ -12656,18 +12644,6 @@
     "status": "Занято",
     "x": -1901.98,
     "y": 1239.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1055,
-    "server_id": 13,
-    "type": "house",
-    "name": "деп условия + вент и об подвалы",
-    "owner": "Nett_Spend",
-    "status": "Занято",
-    "x": -1901.0,
-    "y": 1203.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17811,8 +17787,8 @@
     "id": 1484,
     "server_id": 13,
     "type": "house",
-    "name": "Lorenso EMPIRE",
-    "owner": "Old_Lorenso",
+    "name": "Caramelion Empire",
+    "owner": "John_Caramelion",
     "status": "Занято",
     "x": 2319.76,
     "y": -1053.26,
@@ -21924,18 +21900,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1828,
-    "server_id": 13,
-    "type": "house",
-    "name": "фармилка",
-    "owner": "Lovec_Dakses",
-    "status": "Занято",
-    "x": 1795.77,
-    "y": 2800.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1829,
     "server_id": 13,
     "type": "house",
@@ -23289,6 +23253,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 973,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Toma_Hunter",
+    "status": "Аукцион",
+    "x": -2478.74,
+    "y": 2488.76,
+    "price": 230123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1055,
+    "server_id": 13,
+    "type": "house",
+    "name": "деп условия + вент и об подвалы",
+    "owner": "Nett_Spend",
+    "status": "Аукцион",
+    "x": -1901.0,
+    "y": 1203.07,
+    "price": 3400,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1828,
+    "server_id": 13,
+    "type": "house",
+    "name": "фармилка",
+    "owner": "Lovec_Dakses",
+    "status": "Аукцион",
+    "x": 1795.77,
+    "y": 2800.82,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26248,7 +26248,7 @@
     "server_id": 13,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Jayden_Ostergaard",
+    "owner": "Yamato_Hayashi",
     "status": "Занято",
     "x": 2405.02,
     "y": -1933.97,
