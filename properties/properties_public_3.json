@@ -2907,7 +2907,7 @@
     "id": 242,
     "server_id": 3,
     "type": "house",
-    "name": "Majorka | House",
+    "name": "Majorka",
     "owner": "Majorka_Osobov",
     "status": "Занято",
     "x": 255.1679,
@@ -10932,18 +10932,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 912,
-    "server_id": 3,
-    "type": "house",
-    "name": "( . )( . )",
-    "owner": "Chudo_Funduk",
-    "status": "Занято",
-    "x": -2446.25,
-    "y": 2491.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 913,
     "server_id": 3,
     "type": "house",
@@ -12320,18 +12308,6 @@
     "status": "Занято",
     "x": -2286.49,
     "y": 796.9429,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1028,
-    "server_id": 3,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Chudo_Funduk",
-    "status": "Занято",
-    "x": -2303.33,
-    "y": 797.0219,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15447,8 +15423,8 @@
     "id": 1288,
     "server_id": 3,
     "type": "house",
-    "name": "flex nalom na uebka",
-    "owner": "Sophia_Slynavaja",
+    "name": "Elloy Empire Gangsters",
+    "owner": "Jim_Elloy",
     "status": "Занято",
     "x": -2358.54,
     "y": 656.7349,
@@ -15812,18 +15788,6 @@
     "status": "Занято",
     "x": -2511.77,
     "y": 992.439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1319,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом милый дом",
-    "owner": "Chudo_Funduk",
-    "status": "Занято",
-    "x": -2511.77,
-    "y": 987.7979,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19768,7 +19732,7 @@
     "server_id": 3,
     "type": "house",
     "name": "ДЕП УСЛОВИЯ",
-    "owner": "Vex_West",
+    "owner": "Ccg_Employee",
     "status": "Занято",
     "x": 2587.4,
     "y": -1233.66,
@@ -21996,18 +21960,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1836,
-    "server_id": 3,
-    "type": "house",
-    "name": "Private Property",
-    "owner": "Stu_Loving",
-    "status": "Занято",
-    "x": 2690.54,
-    "y": -1207.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1837,
     "server_id": 3,
     "type": "house",
@@ -22784,18 +22736,6 @@
     "status": "Занято",
     "x": 793.3829,
     "y": 1991.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1902,
-    "server_id": 3,
-    "type": "house",
-    "name": "Home ",
-    "owner": "Chudo_Funduk",
-    "status": "Занято",
-    "x": 767.7059,
-    "y": 2007.61,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23988,6 +23928,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 912,
+    "server_id": 3,
+    "type": "house",
+    "name": "( . )( . )",
+    "owner": "Chudo_Funduk",
+    "status": "Аукцион",
+    "x": -2446.25,
+    "y": 2491.72,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1028,
+    "server_id": 3,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Chudo_Funduk",
+    "status": "Аукцион",
+    "x": -2303.33,
+    "y": 797.0219,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1319,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом милый дом",
+    "owner": "Chudo_Funduk",
+    "status": "Аукцион",
+    "x": -2511.77,
+    "y": 987.7979,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1367,
     "server_id": 3,
     "type": "house",
@@ -24009,6 +23985,30 @@
     "x": 1832.62,
     "y": 2742.8,
     "price": 190000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1836,
+    "server_id": 3,
+    "type": "house",
+    "name": "Private Property",
+    "owner": "Stu_Loving",
+    "status": "Аукцион",
+    "x": 2690.54,
+    "y": -1207.75,
+    "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1902,
+    "server_id": 3,
+    "type": "house",
+    "name": "Home ",
+    "owner": "Chudo_Funduk",
+    "status": "Аукцион",
+    "x": 767.7059,
+    "y": 2007.61,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {

@@ -112,7 +112,7 @@
     "server_id": 33,
     "type": "house",
     "name": "happa",
-    "owner": "Nika_Chernika",
+    "owner": "Dmitry_Shubin",
     "status": "Занято",
     "x": 2036.07,
     "y": -1059.32,
@@ -5484,6 +5484,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 458,
+    "server_id": 33,
+    "type": "house",
+    "name": "Берлога Перекупа",
+    "owner": "Sax_Reyx",
+    "status": "Занято",
+    "x": 2094.12,
+    "y": 650.4459,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 459,
     "server_id": 33,
     "type": "house",
@@ -5588,6 +5600,18 @@
     "status": "Занято",
     "x": 2346.22,
     "y": 656.447,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 468,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Thugger_Trill",
+    "status": "Занято",
+    "x": 2368.36,
+    "y": 654.8389,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5880,18 +5904,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 493,
-    "server_id": 33,
-    "type": "house",
-    "name": "Тут живет Aidana Jan",
-    "owner": "Pavel_Bloods",
-    "status": "Занято",
-    "x": 2014.12,
-    "y": 774.8829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 494,
     "server_id": 33,
     "type": "house",
@@ -6040,7 +6052,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Cripson Empire",
-    "owner": "UwU_Wehmeyer",
+    "owner": "Marcus_Williams",
     "status": "Занято",
     "x": 1364.57,
     "y": 2003.7,
@@ -11460,18 +11472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 967,
-    "server_id": 33,
-    "type": "house",
-    "name": "Infernales",
-    "owner": "Abbadon_Infernales",
-    "status": "Занято",
-    "x": -2626.71,
-    "y": 2318.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 968,
     "server_id": 33,
     "type": "house",
@@ -15136,7 +15136,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Water_Valentine",
+    "owner": "Arima_Kishou",
     "status": "Занято",
     "x": -2689.53,
     "y": 74.5092,
@@ -18204,18 +18204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1564,
-    "server_id": 33,
-    "type": "house",
-    "name": "деп ,подвал",
-    "owner": "Oleg_Mart",
-    "status": "Занято",
-    "x": 2794.24,
-    "y": 2221.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1565,
     "server_id": 33,
     "type": "house",
@@ -19179,7 +19167,7 @@
     "id": 1645,
     "server_id": 33,
     "type": "house",
-    "name": "GHETTO SKIFF SQUAD",
+    "name": "waldemarfam",
     "owner": "p2p",
     "status": "Занято",
     "x": 1972.2,
@@ -22368,27 +22356,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 458,
+    "id": 493,
     "server_id": 33,
     "type": "house",
-    "name": "Берлога Перекупа",
-    "owner": "Sax_Reyx",
+    "name": "Тут живет Aidana Jan",
+    "owner": "Pavel_Bloods",
     "status": "Аукцион",
-    "x": 2094.12,
-    "y": 650.4459,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 468,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Emily_Toregrossa",
-    "status": "Аукцион",
-    "x": 2368.36,
-    "y": 654.8389,
-    "price": 550000000,
+    "x": 2014.12,
+    "y": 774.8829,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22452,6 +22428,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 967,
+    "server_id": 33,
+    "type": "house",
+    "name": "Infernales",
+    "owner": "Abbadon_Infernales",
+    "status": "Аукцион",
+    "x": -2626.71,
+    "y": 2318.8,
+    "price": 520000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 996,
     "server_id": 33,
     "type": "house",
@@ -22508,31 +22496,19 @@
     "status": "Аукцион",
     "x": -2515.38,
     "y": -189.2209,
-    "price": 750000000,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 44,
+    "id": 1564,
     "server_id": 33,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Dimon_Betman",
+    "type": "house",
+    "name": "деп ,подвал",
+    "owner": "Oleg_Mart",
     "status": "Аукцион",
-    "x": 1224.56,
-    "y": 249.852,
-    "price": 200000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 434,
-    "server_id": 33,
-    "type": "business",
-    "name": "Аренда сетов",
-    "owner": "Kris_Vips",
-    "status": "Аукцион",
-    "x": 2216.0,
-    "y": -1679.69,
-    "price": 600000,
+    "x": 2794.24,
+    "y": 2221.93,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23060,6 +23036,18 @@
     "status": "Занято",
     "x": 2273.62,
     "y": 82.047,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 44,
+    "server_id": 33,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Dimon_Betman",
+    "status": "Занято",
+    "x": 1224.56,
+    "y": 249.852,
     "price": 0,
     "district": "Сан-Андреас"
   },

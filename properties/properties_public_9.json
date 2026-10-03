@@ -3108,18 +3108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 259,
-    "server_id": 9,
-    "type": "house",
-    "name": "Collins fam",
-    "owner": "Roofer_Collins",
-    "status": "Занято",
-    "x": 2089.57,
-    "y": -995.971,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 260,
     "server_id": 9,
     "type": "house",
@@ -7188,6 +7176,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 599,
+    "server_id": 9,
+    "type": "house",
+    "name": "Spirit House №3",
+    "owner": "West_Spirit",
+    "status": "Занято",
+    "x": 161.5639,
+    "y": -1455.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 600,
     "server_id": 9,
     "type": "house",
@@ -8984,18 +8984,6 @@
     "status": "Занято",
     "x": -2671.31,
     "y": 927.4249,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 750,
-    "server_id": 9,
-    "type": "house",
-    "name": "тг vovkaarz, наб. Архи",
-    "owner": "Soda_Pugovkin",
-    "status": "Занято",
-    "x": -2652.27,
-    "y": 841.7739,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10976,6 +10964,18 @@
     "status": "Занято",
     "x": -2159.79,
     "y": 1030.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 917,
+    "server_id": 9,
+    "type": "house",
+    "name": "***Betson Home***",
+    "owner": "Dashulik_Betson",
+    "status": "Занято",
+    "x": -2169.66,
+    "y": 1027.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22671,7 +22671,7 @@
     "id": 1895,
     "server_id": 9,
     "type": "house",
-    "name": "Питерский Щит",
+    "name": "Jostko",
     "owner": "Zack_Savaro",
     "status": "Занято",
     "x": 2495.37,
@@ -23904,39 +23904,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 599,
+    "id": 259,
     "server_id": 9,
     "type": "house",
-    "name": "Spirit House №3",
-    "owner": "West_Spirit",
+    "name": "Collins fam",
+    "owner": "Roofer_Collins",
     "status": "Аукцион",
-    "x": 161.5639,
-    "y": -1455.8,
-    "price": 5123123123,
+    "x": 2089.57,
+    "y": -995.971,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 917,
+    "id": 750,
     "server_id": 9,
     "type": "house",
-    "name": "***Betson Home***",
-    "owner": "Dashulik_Betson",
+    "name": "тг vovkaarz, наб. Архи",
+    "owner": "Soda_Pugovkin",
     "status": "Аукцион",
-    "x": -2169.66,
-    "y": 1027.11,
-    "price": 1700000000,
+    "x": -2652.27,
+    "y": 841.7739,
+    "price": 9000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 216,
+    "id": 40,
     "server_id": 9,
     "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Fernando_Raiden",
+    "name": "Аренда транспорта",
+    "owner": "Bayonick_Vodniy",
     "status": "Аукцион",
-    "x": 2327.86,
-    "y": 2421.25,
-    "price": 10000000000,
+    "x": 1393.84,
+    "y": 400.944,
+    "price": 133000,
     "district": "Сан-Андреас"
   },
   {
@@ -26064,18 +26064,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 40,
-    "server_id": 9,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Bayonick_Vodniy",
-    "status": "Занято",
-    "x": 1393.84,
-    "y": 400.944,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 41,
     "server_id": 9,
     "type": "business",
@@ -27092,6 +27080,18 @@
     "status": "Занято",
     "x": 1976.18,
     "y": -1980.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 216,
+    "server_id": 9,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Fernando_Raiden",
+    "status": "Занято",
+    "x": 2327.86,
+    "y": 2421.25,
     "price": 0,
     "district": "Сан-Андреас"
   },

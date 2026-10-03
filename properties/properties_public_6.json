@@ -8176,7 +8176,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Jetski",
-    "owner": "Kerry_Molodoy",
+    "owner": "Zheka_Zhuk",
     "status": "Занято",
     "x": 1032.54,
     "y": 2316.12,
@@ -14512,7 +14512,7 @@
     "server_id": 6,
     "type": "house",
     "name": "thanos forever",
-    "owner": "Zheka_Zhuk",
+    "owner": "Wizard_Tekashi",
     "status": "Занято",
     "x": -2620.72,
     "y": -120.2129,
@@ -14976,18 +14976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1250,
-    "server_id": 6,
-    "type": "house",
-    "name": "kenzo",
-    "owner": "Chester_Krueger",
-    "status": "Занято",
-    "x": -2477.91,
-    "y": 1301.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1251,
     "server_id": 6,
     "type": "house",
@@ -15420,18 +15408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1287,
-    "server_id": 6,
-    "type": "house",
-    "name": "Thomsons House",
-    "owner": "Adyvan_Hiik",
-    "status": "Занято",
-    "x": -2510.89,
-    "y": 950.8779,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1288,
     "server_id": 6,
     "type": "house",
@@ -15676,7 +15652,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Дом сф",
-    "owner": "Jonson_Smit",
+    "owner": "Viper_Darkness",
     "status": "Занято",
     "x": -2593.42,
     "y": 874.4949,
@@ -22572,6 +22548,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1886,
+    "server_id": 6,
+    "type": "house",
+    "name": "доминико",
+    "owner": "Danil_Kosenkov",
+    "status": "Занято",
+    "x": 1807.64,
+    "y": 2800.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1887,
     "server_id": 6,
     "type": "house",
@@ -23592,6 +23580,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1974,
+    "server_id": 6,
+    "type": "house",
+    "name": "дом путина 2",
+    "owner": "Hiroto_SaintRose",
+    "status": "Занято",
+    "x": 2657.13,
+    "y": 2263.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1975,
     "server_id": 6,
     "type": "house",
@@ -24444,6 +24444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1250,
+    "server_id": 6,
+    "type": "house",
+    "name": "kenzo",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2477.91,
+    "y": 1301.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 588,
     "server_id": 6,
     "type": "house",
@@ -24468,6 +24480,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1287,
+    "server_id": 6,
+    "type": "house",
+    "name": "Thomsons House",
+    "owner": "Adyvan_Hiik",
+    "status": "Аукцион",
+    "x": -2510.89,
+    "y": 950.8779,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1881,
     "server_id": 6,
     "type": "house",
@@ -24477,18 +24501,6 @@
     "x": 1786.53,
     "y": 2867.71,
     "price": 600000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1886,
-    "server_id": 6,
-    "type": "house",
-    "name": "доминико",
-    "owner": "Hiroto_SaintRose",
-    "status": "Аукцион",
-    "x": 1807.64,
-    "y": 2800.64,
-    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24513,42 +24525,6 @@
     "x": 1751.44,
     "y": 2868.73,
     "price": 600000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1974,
-    "server_id": 6,
-    "type": "house",
-    "name": "дом путина 2",
-    "owner": "Hiroto_SaintRose",
-    "status": "Аукцион",
-    "x": 2657.13,
-    "y": 2263.85,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 142,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -2713.194,
-    "y": 120.4582,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 322,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Mario_Dack",
-    "status": "Аукцион",
-    "x": 995.8817,
-    "y": -1156.47,
-    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
@@ -27012,6 +26988,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 142,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Benzo_Hokage",
+    "status": "Занято",
+    "x": -2713.194,
+    "y": 120.4582,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 143,
     "server_id": 6,
     "type": "business",
@@ -27260,6 +27248,18 @@
     "status": "Занято",
     "x": -2412.909,
     "y": 350.0828,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 322,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Mario_Dack",
+    "status": "Занято",
+    "x": 995.8817,
+    "y": -1156.47,
     "price": 0,
     "district": "Сан-Андреас"
   },
