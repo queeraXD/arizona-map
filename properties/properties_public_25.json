@@ -504,6 +504,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 42,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Saloedov",
+    "status": "Занято",
+    "x": 2550.99,
+    "y": -1233.79,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 43,
     "server_id": 25,
     "type": "house",
@@ -6084,18 +6096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 509,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Feldan_Lizalov",
-    "status": "Занято",
-    "x": -2219.84,
-    "y": -2400.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 510,
     "server_id": 25,
     "type": "house",
@@ -9152,18 +9152,6 @@
     "status": "Занято",
     "x": -2645.56,
     "y": 803.083,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 765,
-    "server_id": 25,
-    "type": "house",
-    "name": "hiscock property",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": -2660.11,
-    "y": 803.0839,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14676,6 +14664,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1227,
+    "server_id": 25,
+    "type": "house",
+    "name": "MARCHEBALD HOUSE",
+    "owner": "VladoQi_Marchebald",
+    "status": "Занято",
+    "x": -2476.94,
+    "y": 1311.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1228,
     "server_id": 25,
     "type": "house",
@@ -18884,18 +18884,6 @@
     "status": "Занято",
     "x": 1726.99,
     "y": -1637.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1582,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Routine_Swarovski",
-    "status": "Занято",
-    "x": 857.473,
-    "y": -978.8699,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23676,18 +23664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 42,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Saloedov",
-    "status": "Аукцион",
-    "x": 2550.99,
-    "y": -1233.79,
-    "price": 999999999,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 168,
     "server_id": 25,
     "type": "house",
@@ -23700,6 +23676,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 509,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Feldan_Lizalov",
+    "status": "Аукцион",
+    "x": -2219.84,
+    "y": -2400.34,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 765,
+    "server_id": 25,
+    "type": "house",
+    "name": "hiscock property",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": -2660.11,
+    "y": 803.0839,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 780,
     "server_id": 25,
     "type": "house",
@@ -23709,18 +23709,6 @@
     "x": -2541.29,
     "y": 733.153,
     "price": 20213213,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1227,
-    "server_id": 25,
-    "type": "house",
-    "name": "Церковь Александа",
-    "owner": "Vaneq_Dieseleq",
-    "status": "Аукцион",
-    "x": -2476.94,
-    "y": 1311.03,
-    "price": 175000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23760,6 +23748,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1582,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Routine_Swarovski",
+    "status": "Аукцион",
+    "x": 857.473,
+    "y": -978.8699,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1623,
     "server_id": 25,
     "type": "house",
@@ -23769,30 +23769,6 @@
     "x": 99.2854,
     "y": 1179.52,
     "price": 20213213,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 85,
-    "server_id": 25,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Jack_Steiner",
-    "status": "Аукцион",
-    "x": -1213.8,
-    "y": 1830.33,
-    "price": 115000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 266,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Michael_Rapaport",
-    "status": "Аукцион",
-    "x": 947.921,
-    "y": 1719.16,
-    "price": 95000,
     "district": "Сан-Андреас"
   },
   {
@@ -25572,6 +25548,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 85,
+    "server_id": 25,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Jack_Steiner",
+    "status": "Занято",
+    "x": -1213.8,
+    "y": 1830.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 106,
     "server_id": 25,
     "type": "business",
@@ -26984,6 +26972,18 @@
     "status": "Занято",
     "x": 2824.77,
     "y": 1290.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 266,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Michael_Rapaport",
+    "status": "Занято",
+    "x": 947.921,
+    "y": 1719.16,
     "price": 0,
     "district": "Сан-Андреас"
   },

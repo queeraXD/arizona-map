@@ -7888,7 +7888,7 @@
     "server_id": 28,
     "type": "house",
     "name": "СТРАХА_НЕТ",
-    "owner": "Chester_McQueen",
+    "owner": "Zenx_Uchiha",
     "status": "Занято",
     "x": 1028.89,
     "y": 1905.89,
@@ -7928,6 +7928,18 @@
     "status": "Занято",
     "x": 984.2689,
     "y": 1878.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 662,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Padre_Soprano",
+    "status": "Занято",
+    "x": 985.838,
+    "y": 1901.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8564,6 +8576,18 @@
     "status": "Занято",
     "x": 1580.14,
     "y": 2708.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 716,
+    "server_id": 28,
+    "type": "house",
+    "name": "Soprano Mafia",
+    "owner": "Encode_Soprano",
+    "status": "Занято",
+    "x": 1601.14,
+    "y": 2709.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10731,8 +10755,8 @@
     "id": 899,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
-    "owner": "Amm_Am",
+    "name": "Starichok",
+    "owner": "Ilyukha_Starichkov",
     "status": "Занято",
     "x": -2069.05,
     "y": -2561.36,
@@ -12464,6 +12488,18 @@
     "status": "Занято",
     "x": -1831.83,
     "y": 1166.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1046,
+    "server_id": 28,
+    "type": "house",
+    "name": "яйца",
+    "owner": "Angel_Qwinside",
+    "status": "Занято",
+    "x": -1872.44,
+    "y": 1146.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18684,18 +18720,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1567,
-    "server_id": 28,
-    "type": "house",
-    "name": "Santaghajo(4/12)",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1204.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1568,
     "server_id": 28,
     "type": "house",
@@ -18860,18 +18884,6 @@
     "status": "Занято",
     "x": 2440.7,
     "y": 1232.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1582,
-    "server_id": 28,
-    "type": "house",
-    "name": "Santaghajo(5/12)",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 2440.7,
-    "y": 1231.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22284,30 +22296,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 662,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kedroviy_Oreh",
-    "status": "Аукцион",
-    "x": 985.838,
-    "y": 1901.11,
-    "price": 1123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 716,
-    "server_id": 28,
-    "type": "house",
-    "name": "Trap Models",
-    "owner": "Xanax_XR",
-    "status": "Аукцион",
-    "x": 1601.14,
-    "y": 2709.39,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 787,
     "server_id": 28,
     "type": "house",
@@ -22344,18 +22332,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1046,
-    "server_id": 28,
-    "type": "house",
-    "name": "яйца",
-    "owner": "Feldan_Lizalov",
-    "status": "Аукцион",
-    "x": -1872.44,
-    "y": 1146.74,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1088,
     "server_id": 28,
     "type": "house",
@@ -22380,15 +22356,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 33,
+    "id": 1567,
     "server_id": 28,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Glass_Sepulcher",
+    "type": "house",
+    "name": "Santaghajo(4/12)",
+    "owner": "Sirius_Cybernetik",
     "status": "Аукцион",
-    "x": 1199.32,
-    "y": -918.586,
-    "price": 5000000000,
+    "x": 2437.04,
+    "y": 1204.02,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1582,
+    "server_id": 28,
+    "type": "house",
+    "name": "Santaghajo(5/12)",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": 2440.7,
+    "y": 1231.52,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22413,30 +22401,6 @@
     "x": -2672.26,
     "y": 258.431,
     "price": 5000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 172,
-    "server_id": 28,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Whiter_Christmas",
-    "status": "Аукцион",
-    "x": 2330.59,
-    "y": 2533.61,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 180,
-    "server_id": 28,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Arte_Fact",
-    "status": "Аукцион",
-    "x": -63.12,
-    "y": 1208.9,
-    "price": 7000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23464,7 +23428,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Aleksandr_Chekushka",
+    "owner": "Mikki_Rememberzz",
     "status": "Занято",
     "x": -2373.8,
     "y": 910.117,
@@ -24036,6 +24000,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 33,
+    "server_id": 28,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Jony_Abudabi",
+    "status": "Занято",
+    "x": 1199.32,
+    "y": -918.586,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 34,
     "server_id": 28,
     "type": "business",
@@ -24392,6 +24368,18 @@
     "status": "Занято",
     "x": 2169.41,
     "y": 2795.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 172,
+    "server_id": 28,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Whiter_Christmas",
+    "status": "Занято",
+    "x": 2330.59,
+    "y": 2533.61,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25196,6 +25184,18 @@
     "status": "Занято",
     "x": 1521.99,
     "y": -1025.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 180,
+    "server_id": 28,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Vector_Evans",
+    "status": "Занято",
+    "x": -63.12,
+    "y": 1208.9,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -2592,6 +2592,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 219,
+    "server_id": 22,
+    "type": "house",
+    "name": "фулл шкаф тек9",
+    "owner": "Kashemir_NaBlock",
+    "status": "Занято",
+    "x": 785.828,
+    "y": -828.3469,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 220,
     "server_id": 22,
     "type": "house",
@@ -6927,7 +6939,7 @@
     "id": 581,
     "server_id": 22,
     "type": "house",
-    "name": "склад 5",
+    "name": "Luck",
     "owner": "Lady_Luck",
     "status": "Занято",
     "x": -287.4519,
@@ -7852,7 +7864,7 @@
     "server_id": 22,
     "type": "house",
     "name": "forev2ers squad",
-    "owner": "Ithnik_Forevers",
+    "owner": "Aitihnik_Clips",
     "status": "Занято",
     "x": 1028.89,
     "y": 1905.89,
@@ -7888,7 +7900,7 @@
     "server_id": 22,
     "type": "house",
     "name": "Ютсуки",
-    "owner": "Ithnik_Forevers",
+    "owner": "Aitihnik_Clips",
     "status": "Занято",
     "x": 984.2689,
     "y": 1878.91,
@@ -7900,7 +7912,7 @@
     "server_id": 22,
     "type": "house",
     "name": "Ютсуки",
-    "owner": "Ithnik_Forevers",
+    "owner": "Aitihnik_Clips",
     "status": "Занято",
     "x": 985.838,
     "y": 1901.11,
@@ -12412,7 +12424,7 @@
     "server_id": 22,
     "type": "house",
     "name": "Himura SF3",
-    "owner": "Set_Himura",
+    "owner": "Harry_Benson",
     "status": "Занято",
     "x": -1732.18,
     "y": 1114.92,
@@ -19116,18 +19128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1599,
-    "server_id": 22,
-    "type": "house",
-    "name": "для майнинга 3",
-    "owner": "Kitana_Slay",
-    "status": "Занято",
-    "x": 1548.85,
-    "y": 2003.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1600,
     "server_id": 22,
     "type": "house",
@@ -19508,6 +19508,18 @@
     "status": "Занято",
     "x": 2818.53,
     "y": 2140.74,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1632,
+    "server_id": 22,
+    "type": "house",
+    "name": "molla house",
+    "owner": "Awarjir_Yunkee",
+    "status": "Занято",
+    "x": 2826.08,
+    "y": 2140.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21276,18 +21288,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1781,
-    "server_id": 22,
-    "type": "house",
-    "name": "Подвал для Крафта и Майнинга ",
-    "owner": "Kitana_Slay",
-    "status": "Занято",
-    "x": -775.414,
-    "y": 2765.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1782,
     "server_id": 22,
     "type": "house",
@@ -21984,18 +21984,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 219,
-    "server_id": 22,
-    "type": "house",
-    "name": "фулл шкаф тек9",
-    "owner": "Kashemir_NaBlock",
-    "status": "Аукцион",
-    "x": 785.828,
-    "y": -828.3469,
-    "price": 4000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 787,
     "server_id": 22,
     "type": "house",
@@ -22020,15 +22008,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1632,
+    "id": 1599,
     "server_id": 22,
     "type": "house",
-    "name": "molla house",
-    "owner": "Awarjir_Yunkee",
+    "name": "для майнинга 3",
+    "owner": "Kitana_Slay",
     "status": "Аукцион",
-    "x": 2826.08,
-    "y": 2140.77,
-    "price": 500000000,
+    "x": 1548.85,
+    "y": 2003.91,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22040,7 +22028,19 @@
     "status": "Аукцион",
     "x": 2433.93,
     "y": -1320.71,
-    "price": 1000000000,
+    "price": 750000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1781,
+    "server_id": 22,
+    "type": "house",
+    "name": "Подвал для Крафта и Майнинга ",
+    "owner": "Kitana_Slay",
+    "status": "Аукцион",
+    "x": -775.414,
+    "y": 2765.34,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24604,7 +24604,7 @@
     "server_id": 22,
     "type": "business",
     "name": "Отель",
-    "owner": "Ithnik_Forevers",
+    "owner": "Aitihnik_Clips",
     "status": "Занято",
     "x": 2386.539,
     "y": 2478.348,

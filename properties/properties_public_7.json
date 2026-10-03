@@ -4236,18 +4236,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 353,
-    "server_id": 7,
-    "type": "house",
-    "name": "Infinity house",
-    "owner": "Lee_Kingside",
-    "status": "Занято",
-    "x": 1283.53,
-    "y": -897.827,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 354,
     "server_id": 7,
     "type": "house",
@@ -4808,6 +4796,18 @@
     "status": "Занято",
     "x": 2438.82,
     "y": -54.6911,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 402,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
+    "status": "Занято",
+    "x": 2448.44,
+    "y": -11.0635,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7008,18 +7008,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 587,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nekich_Bossov",
-    "status": "Занято",
-    "x": -604.3229,
-    "y": 2716.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 588,
     "server_id": 7,
     "type": "house",
@@ -9171,8 +9159,8 @@
     "id": 767,
     "server_id": 7,
     "type": "house",
-    "name": "Изба",
-    "owner": "Gabriel_Night",
+    "name": "дом кайфа",
+    "owner": "Daniel_Naikov",
     "status": "Занято",
     "x": -2709.77,
     "y": 803.08,
@@ -10976,18 +10964,6 @@
     "status": "Занято",
     "x": -2159.7,
     "y": 965.458,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 918,
-    "server_id": 7,
-    "type": "house",
-    "name": "Каменоломня",
-    "owner": "Jony_Farm",
-    "status": "Занято",
-    "x": -2159.51,
-    "y": 983.945,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19948,7 +19924,7 @@
     "server_id": 7,
     "type": "house",
     "name": "First Club(^_^)",
-    "owner": "Ragon_Prix",
+    "owner": "Jerrard_Arjent",
     "status": "Занято",
     "x": 928.616,
     "y": 2372.89,
@@ -21452,18 +21428,6 @@
     "status": "Занято",
     "x": 2366.54,
     "y": 1063.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1794,
-    "server_id": 7,
-    "type": "house",
-    "name": "HUNTER",
-    "owner": "Valentine_Warren",
-    "status": "Занято",
-    "x": 2357.05,
-    "y": 1061.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23619,8 +23583,8 @@
     "id": 1974,
     "server_id": 7,
     "type": "house",
-    "name": "Набор архитектора ",
-    "owner": "Alonzo_Rockfeller",
+    "name": "ферма самогона",
+    "owner": "Memphis_Dredd",
     "status": "Занято",
     "x": 2750.39,
     "y": -1205.72,
@@ -24999,7 +24963,7 @@
     "id": 2094,
     "server_id": 7,
     "type": "house",
-    "name": "C.B. Legacy: <Innardril Castle>",
+    "name": "Дом",
     "owner": "Chase_Verwest",
     "status": "Занято",
     "x": 55.3927,
@@ -25452,6 +25416,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 353,
+    "server_id": 7,
+    "type": "house",
+    "name": "Infinity house",
+    "owner": "Lee_Kingside",
+    "status": "Аукцион",
+    "x": 1283.53,
+    "y": -897.827,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 399,
     "server_id": 7,
     "type": "house",
@@ -25464,18 +25440,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
-    "status": "Аукцион",
-    "x": 2448.44,
-    "y": -11.0635,
-    "price": 7999999999,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 527,
     "server_id": 7,
     "type": "house",
@@ -25485,6 +25449,30 @@
     "x": 2039.57,
     "y": 2766.53,
     "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 587,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nekich_Bossov",
+    "status": "Аукцион",
+    "x": -604.3229,
+    "y": 2716.72,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 918,
+    "server_id": 7,
+    "type": "house",
+    "name": "Каменоломня",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2159.51,
+    "y": 983.945,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25521,6 +25509,18 @@
     "x": 2441.54,
     "y": 1213.45,
     "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1794,
+    "server_id": 7,
+    "type": "house",
+    "name": "HUNTER",
+    "owner": "Valentine_Warren",
+    "status": "Аукцион",
+    "x": 2357.05,
+    "y": 1061.93,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {
