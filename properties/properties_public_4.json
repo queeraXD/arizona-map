@@ -3144,6 +3144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 262,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zaza_Cult",
+    "status": "Занято",
+    "x": 2373.85,
+    "y": -8.6736,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 263,
     "server_id": 4,
     "type": "house",
@@ -4640,6 +4652,18 @@
     "status": "Занято",
     "x": 2363.25,
     "y": 142.009,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 388,
+    "server_id": 4,
+    "type": "house",
+    "name": "zaza",
+    "owner": "Zaza_Cult",
+    "status": "Занято",
+    "x": 2363.33,
+    "y": 116.068,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9080,18 +9104,6 @@
     "status": "Занято",
     "x": -2738.31,
     "y": 771.5869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 759,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом Dimasa",
-    "owner": "Hxspital_Playa",
-    "status": "Занято",
-    "x": -2738.32,
-    "y": 801.5289,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25224,39 +25236,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 262,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zaza_Cult",
-    "status": "Аукцион",
-    "x": 2373.85,
-    "y": -8.6736,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 388,
-    "server_id": 4,
-    "type": "house",
-    "name": "zaza",
-    "owner": "Zaza_Cult",
-    "status": "Аукцион",
-    "x": 2363.33,
-    "y": 116.068,
-    "price": 3500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2034,
     "server_id": 4,
     "type": "house",
     "name": "Scandal_house",
-    "owner": "Scandal_White",
-    "status": "Аукцион",
+    "owner": "Государство",
+    "status": "Свободно",
     "x": 2417.74,
     "y": 997.1989,
-    "price": 220000000,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 759,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом Dimasa",
+    "owner": "Hxspital_Playa",
+    "status": "Аукцион",
+    "x": -2738.32,
+    "y": 801.5289,
+    "price": 100123123,
     "district": "Сан-Андреас"
   },
   {

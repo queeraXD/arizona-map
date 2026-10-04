@@ -5844,18 +5844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 487,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bul_Dak",
-    "status": "Занято",
-    "x": 2094.08,
-    "y": 774.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 488,
     "server_id": 26,
     "type": "house",
@@ -10152,18 +10140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 846,
-    "server_id": 26,
-    "type": "house",
-    "name": "no :sell:",
-    "owner": "Flin_Ger",
-    "status": "Занято",
-    "x": -2191.59,
-    "y": 1080.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 847,
     "server_id": 26,
     "type": "house",
@@ -14380,7 +14356,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Дом",
-    "owner": "Johnny_Soprano",
+    "owner": "Andrey_HokageJunk",
     "status": "Занято",
     "x": -2793.14,
     "y": 110.911,
@@ -14595,7 +14571,7 @@
     "id": 1217,
     "server_id": 26,
     "type": "house",
-    "name": "Stalkerski",
+    "name": "N.Diaz",
     "owner": "Name_Diaz",
     "status": "Занято",
     "x": -2840.23,
@@ -15056,18 +15032,6 @@
     "status": "Занято",
     "x": -2303.41,
     "y": 679.963,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1256,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом Pavel_Darkens",
-    "owner": "Starry_Horse",
-    "status": "Занято",
-    "x": -2303.4,
-    "y": 656.7349,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25185,6 +25149,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 487,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2094.08,
+    "y": 774.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 846,
+    "server_id": 26,
+    "type": "house",
+    "name": "Крутой дом",
+    "owner": "Flin_Ger",
+    "status": "Аукцион",
+    "x": -2191.59,
+    "y": 1080.32,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1256,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом Pavel_Darkens",
+    "owner": "Starry_Horse",
+    "status": "Аукцион",
+    "x": -2303.4,
+    "y": 656.7349,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
