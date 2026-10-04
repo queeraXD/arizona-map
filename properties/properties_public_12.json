@@ -9720,6 +9720,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 811,
+    "server_id": 12,
+    "type": "house",
+    "name": "хай хай",
+    "owner": "Dmitry_Komarik",
+    "status": "Занято",
+    "x": -2721.11,
+    "y": -146.664,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 812,
     "server_id": 12,
     "type": "house",
@@ -9736,7 +9748,7 @@
     "server_id": 12,
     "type": "house",
     "name": "поместье комариков",
-    "owner": "Joe_Komarik",
+    "owner": "Dmitry_Komarik",
     "status": "Занято",
     "x": -2723.28,
     "y": -166.408,
@@ -16875,8 +16887,8 @@
     "id": 1408,
     "server_id": 12,
     "type": "house",
-    "name": "Владение крутого Руси ",
-    "owner": "Rusya_Zenin",
+    "name": "MIROSLAVA EMPIRE ",
+    "owner": "Miroslava_Monopoly",
     "status": "Занято",
     "x": 142.6499,
     "y": -1470.39,
@@ -22164,6 +22176,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1849,
+    "server_id": 12,
+    "type": "house",
+    "name": "Lonely House",
+    "owner": "Dosa_NasWay",
+    "status": "Занято",
+    "x": 1784.51,
+    "y": 2758.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1850,
     "server_id": 12,
     "type": "house",
@@ -22680,18 +22704,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1893,
-    "server_id": 12,
-    "type": "house",
-    "name": "///",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": 1803.46,
-    "y": 2855.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1894,
     "server_id": 12,
     "type": "house",
@@ -22844,18 +22856,6 @@
     "status": "Занято",
     "x": -879.1989,
     "y": 2747.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1907,
-    "server_id": 12,
-    "type": "house",
-    "name": "High",
-    "owner": "Jonu_Ton",
-    "status": "Занято",
-    "x": 2608.36,
-    "y": 2195.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23796,39 +23796,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 811,
+    "id": 1893,
     "server_id": 12,
     "type": "house",
-    "name": "хай хай",
-    "owner": "Fernando_Kleno",
+    "name": "///",
+    "owner": "Zheka_Zhuk",
     "status": "Аукцион",
-    "x": -2721.11,
-    "y": -146.664,
-    "price": 50000000,
+    "x": 1803.46,
+    "y": 2855.55,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1849,
+    "id": 1907,
     "server_id": 12,
     "type": "house",
-    "name": "Lonely House",
-    "owner": "Abdurahman_Salam",
+    "name": "High",
+    "owner": "Jonu_Ton",
     "status": "Аукцион",
-    "x": 1784.51,
-    "y": 2758.72,
-    "price": 50000000,
+    "x": 2608.36,
+    "y": 2195.56,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 111,
+    "id": 181,
     "server_id": 12,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "John_Ralf",
+    "name": "Ларек с уличной едой",
+    "owner": "Arslan_Ihsanov",
     "status": "Аукцион",
-    "x": -2767.51,
-    "y": 788.72,
-    "price": 165000,
+    "x": 2029.71,
+    "y": 986.64,
+    "price": 7500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 185,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Night_Mortan",
+    "status": "Аукцион",
+    "x": 2599.42,
+    "y": 1060.38,
+    "price": 7500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 187,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Night_Mortan",
+    "status": "Аукцион",
+    "x": 158.63,
+    "y": -1812.59,
+    "price": 7500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25680,6 +25704,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 111,
+    "server_id": 12,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "John_Ralf",
+    "status": "Занято",
+    "x": -2767.51,
+    "y": 788.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 112,
     "server_id": 12,
     "type": "business",
@@ -26628,18 +26664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 181,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Arslan_Ihsanov",
-    "status": "Занято",
-    "x": 2029.71,
-    "y": 986.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 182,
     "server_id": 12,
     "type": "business",
@@ -26676,18 +26700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 185,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Night_Mortan",
-    "status": "Занято",
-    "x": 2599.42,
-    "y": 1060.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 186,
     "server_id": 12,
     "type": "business",
@@ -26696,18 +26708,6 @@
     "status": "Занято",
     "x": 2268.78,
     "y": 624.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 187,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Night_Mortan",
-    "status": "Занято",
-    "x": 158.63,
-    "y": -1812.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26740,7 +26740,7 @@
     "server_id": 12,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Old_Seller",
+    "owner": "Serchig_Twelves",
     "status": "Занято",
     "x": 1123.41,
     "y": -1466.6,
@@ -26752,7 +26752,7 @@
     "server_id": 12,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Old_Seller",
+    "owner": "Serchig_Twelves",
     "status": "Занято",
     "x": 1143.17,
     "y": -1473.83,
@@ -26764,7 +26764,7 @@
     "server_id": 12,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Old_Seller",
+    "owner": "Serchig_Twelves",
     "status": "Занято",
     "x": 1136.97,
     "y": -1456.62,

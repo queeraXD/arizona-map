@@ -5871,7 +5871,7 @@
     "id": 489,
     "server_id": 10,
     "type": "house",
-    "name": "QUANTUM HOME",
+    "name": "QUANTUM MINING",
     "owner": "Quantum_Kot",
     "status": "Занято",
     "x": 2071.46,
@@ -8664,6 +8664,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 723,
+    "server_id": 10,
+    "type": "house",
+    "name": "$Investor Empire$",
+    "owner": "Ivan_Back",
+    "status": "Занято",
+    "x": 1652.34,
+    "y": 2709.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 724,
     "server_id": 10,
     "type": "house",
@@ -9320,6 +9332,18 @@
     "status": "Занято",
     "x": -2550.67,
     "y": 794.174,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 779,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "martinerose",
+    "status": "Занято",
+    "x": -2568.95,
+    "y": 794.1749,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9992,18 +10016,6 @@
     "status": "Занято",
     "x": -2281.59,
     "y": 873.2329,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 836,
-    "server_id": 10,
-    "type": "house",
-    "name": "Бордель",
-    "owner": "Alik_Kim",
-    "status": "Занято",
-    "x": -2284.87,
-    "y": 849.708,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11384,18 +11396,6 @@
     "status": "Занято",
     "x": -2159.84,
     "y": 1001.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 953,
-    "server_id": 10,
-    "type": "house",
-    "name": "Уютненький дом",
-    "owner": "Flipi_Parliament",
-    "status": "Занято",
-    "x": -2160.15,
-    "y": 983.676,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13863,7 +13863,7 @@
     "id": 1159,
     "server_id": 10,
     "type": "house",
-    "name": "WinCHesteRs Empire",
+    "name": "INVESTOR",
     "owner": "Yozas_Investor",
     "status": "Занято",
     "x": -957.2579,
@@ -16728,18 +16728,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1398,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "CarI_Underground",
-    "status": "Занято",
-    "x": 1550.52,
-    "y": 2846.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1399,
     "server_id": 10,
     "type": "house",
@@ -16940,18 +16928,6 @@
     "status": "Занято",
     "x": 1515.91,
     "y": 2610.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1416,
-    "server_id": 10,
-    "type": "house",
-    "name": "Lazzarelli Empire",
-    "owner": "Alik_Klm",
-    "status": "Занято",
-    "x": 1513.3,
-    "y": 2565.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19172,18 +19148,6 @@
     "status": "Занято",
     "x": -2790.25,
     "y": -111.105,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1602,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Metka_Doma",
-    "status": "Занято",
-    "x": -2786.76,
-    "y": -118.1129,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22479,8 +22443,8 @@
     "id": 1878,
     "server_id": 10,
     "type": "house",
-    "name": "тубзик",
-    "owner": "Leo_Kasper",
+    "name": "Домик шахтера",
+    "owner": "Ivan_Zuy",
     "status": "Занято",
     "x": 2623.65,
     "y": 2039.56,
@@ -23316,27 +23280,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 723,
+    "id": 836,
     "server_id": 10,
     "type": "house",
-    "name": "$Investor Empire$",
-    "owner": "Crypto_Skamers",
+    "name": "Бордель",
+    "owner": "Alik_Kim",
     "status": "Аукцион",
-    "x": 1652.34,
-    "y": 2709.34,
-    "price": 89999999,
+    "x": -2284.87,
+    "y": 849.708,
+    "price": 120000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 779,
+    "id": 953,
+    "server_id": 10,
+    "type": "house",
+    "name": "Уютненький дом",
+    "owner": "Flipi_Parliament",
+    "status": "Аукцион",
+    "x": -2160.15,
+    "y": 983.676,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1398,
     "server_id": 10,
     "type": "house",
     "name": "Дом",
-    "owner": "martinerose",
+    "owner": "CarI_Underground",
     "status": "Аукцион",
-    "x": -2568.95,
-    "y": 794.1749,
-    "price": 75000000,
+    "x": 1550.52,
+    "y": 2846.08,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1416,
+    "server_id": 10,
+    "type": "house",
+    "name": "Lazzarelli Empire",
+    "owner": "Alik_Klm",
+    "status": "Аукцион",
+    "x": 1513.3,
+    "y": 2565.43,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1602,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Metka_Doma",
+    "status": "Аукцион",
+    "x": -2786.76,
+    "y": -118.1129,
+    "price": 80000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23349,6 +23349,18 @@
     "x": 1749.12,
     "y": 2755.89,
     "price": 5000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 10,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": 2366.7,
+    "y": 2071.11,
+    "price": 8000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25424,18 +25436,6 @@
     "status": "Занято",
     "x": 2392.56,
     "y": 2042.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 10,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": 2366.7,
-    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },

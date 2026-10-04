@@ -1908,18 +1908,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 159,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_McTaxi",
-    "status": "Занято",
-    "x": 1196.02,
-    "y": -1017.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 160,
     "server_id": 4,
     "type": "house",
@@ -5156,18 +5144,6 @@
     "status": "Занято",
     "x": 2284.16,
     "y": -1046.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 434,
-    "server_id": 4,
-    "type": "house",
-    "name": "fifteen squad",
-    "owner": "Kia_Xorte",
-    "status": "Занято",
-    "x": 2297.67,
-    "y": -1053.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25152,6 +25128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 159,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_McTaxi",
+    "status": "Аукцион",
+    "x": 1196.02,
+    "y": -1017.04,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 377,
     "server_id": 4,
     "type": "house",
@@ -25197,6 +25185,18 @@
     "x": 2438.82,
     "y": -54.6911,
     "price": 6500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 434,
+    "server_id": 4,
+    "type": "house",
+    "name": "fifteen squad",
+    "owner": "Kia_Xorte",
+    "status": "Аукцион",
+    "x": 2297.67,
+    "y": -1053.05,
+    "price": 3200,
     "district": "Сан-Андреас"
   },
   {
@@ -29380,7 +29380,7 @@
     "server_id": 4,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Jonik_Carmone",
+    "owner": "AutostopomPo_FazeSna",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

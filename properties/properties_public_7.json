@@ -3360,18 +3360,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 280,
-    "server_id": 7,
-    "type": "house",
-    "name": "Cool Guys №14",
-    "owner": "Unskill_Smesharic",
-    "status": "Занято",
-    "x": 2413.57,
-    "y": 61.4468,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 281,
     "server_id": 7,
     "type": "house",
@@ -4820,18 +4808,6 @@
     "status": "Занято",
     "x": 2438.82,
     "y": -54.6911,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
-    "status": "Занято",
-    "x": 2448.44,
-    "y": -11.0635,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13620,6 +13596,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1137,
+    "server_id": 7,
+    "type": "house",
+    "name": "Офис Гринча",
+    "owner": "Paul_Namuro",
+    "status": "Занято",
+    "x": -2660.73,
+    "y": 200.6309,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1138,
     "server_id": 7,
     "type": "house",
@@ -18168,18 +18156,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1517,
-    "server_id": 7,
-    "type": "house",
-    "name": "АСК ВД",
-    "owner": "Arturro_Gaty",
-    "status": "Занято",
-    "x": -2285.31,
-    "y": 829.2849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1518,
     "server_id": 7,
     "type": "house",
@@ -21312,18 +21288,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1779,
-    "server_id": 7,
-    "type": "house",
-    "name": "TUHKA HOUSE",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 2441.54,
-    "y": 1213.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1780,
     "server_id": 7,
     "type": "house",
@@ -22800,18 +22764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1903,
-    "server_id": 7,
-    "type": "house",
-    "name": "Каменщик2",
-    "owner": "Pavlos_Kavliaris",
-    "status": "Занято",
-    "x": 2613.53,
-    "y": 719.507,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1904,
     "server_id": 7,
     "type": "house",
@@ -24056,18 +24008,6 @@
     "status": "Занято",
     "x": 2476.26,
     "y": -1424.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2008,
-    "server_id": 7,
-    "type": "house",
-    "name": "Фарм хата",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 2473.59,
-    "y": -1424.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25512,6 +25452,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 280,
+    "server_id": 7,
+    "type": "house",
+    "name": "Сарай Анскилла",
+    "owner": "Unskill_Smesharic",
+    "status": "Аукцион",
+    "x": 2413.57,
+    "y": 61.4468,
+    "price": 6500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 402,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
+    "status": "Аукцион",
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 7999999999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 729,
     "server_id": 7,
     "type": "house",
@@ -25520,7 +25484,7 @@
     "status": "Аукцион",
     "x": 1637.76,
     "y": 2802.02,
-    "price": 3250123123,
+    "price": 3123123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25536,15 +25500,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1137,
+    "id": 1517,
     "server_id": 7,
     "type": "house",
-    "name": "Офис Гринча",
-    "owner": "Paul_Namuro",
+    "name": "АСК ВД",
+    "owner": "Arturro_Gaty",
     "status": "Аукцион",
-    "x": -2660.73,
-    "y": 200.6309,
-    "price": 4000000000,
+    "x": -2285.31,
+    "y": 829.2849,
+    "price": 99000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1779,
+    "server_id": 7,
+    "type": "house",
+    "name": "TUHKA HOUSE",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": 2441.54,
+    "y": 1213.45,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1903,
+    "server_id": 7,
+    "type": "house",
+    "name": "Волосатый дом",
+    "owner": "Kanji_Naroko",
+    "status": "Аукцион",
+    "x": 2613.53,
+    "y": 719.507,
+    "price": 2400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2008,
+    "server_id": 7,
+    "type": "house",
+    "name": "Фарм хата",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": 2473.59,
+    "y": -1424.54,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {
