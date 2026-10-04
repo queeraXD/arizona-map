@@ -1308,18 +1308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 110,
-    "server_id": 20,
-    "type": "house",
-    "name": "poksqd",
-    "owner": "Iflexick_Doc",
-    "status": "Занято",
-    "x": 2296.54,
-    "y": -1882.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 111,
     "server_id": 20,
     "type": "house",
@@ -9024,6 +9012,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 754,
+    "server_id": 20,
+    "type": "house",
+    "name": "retribution",
+    "owner": "Zheka_Zhuk",
+    "status": "Занято",
+    "x": -2678.18,
+    "y": 722.1619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 755,
     "server_id": 20,
     "type": "house",
@@ -15540,18 +15540,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1298,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Goga_Fujiwara",
-    "status": "Занято",
-    "x": -2524.31,
-    "y": -145.865,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1299,
     "server_id": 20,
     "type": "house",
@@ -17907,8 +17895,8 @@
     "id": 1495,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
-    "owner": "GodBlesss_Recorti",
+    "name": "Recorti Dynasty",
+    "owner": "Trippie_Sweetness",
     "status": "Занято",
     "x": -2361.44,
     "y": 251.6199,
@@ -18516,6 +18504,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1546,
+    "server_id": 20,
+    "type": "house",
+    "name": "Blonde Dynasty",
+    "owner": "Yee_Blonde",
+    "status": "Занято",
+    "x": 2417.75,
+    "y": 1004.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1547,
     "server_id": 20,
     "type": "house",
@@ -18836,18 +18836,6 @@
     "status": "Занято",
     "x": 2437.04,
     "y": 1241.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1574,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом Ширончика :)",
-    "owner": "Dmitry_Chuma",
-    "status": "Занято",
-    "x": 2787.97,
-    "y": 2229.48,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19580,6 +19568,18 @@
     "status": "Занято",
     "x": 2781.94,
     "y": -1358.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1636,
+    "server_id": 20,
+    "type": "house",
+    "name": "retribution",
+    "owner": "Kutuzov_Knight",
+    "status": "Занято",
+    "x": 2781.94,
+    "y": -1333.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20348,6 +20348,18 @@
     "status": "Занято",
     "x": 1915.93,
     "y": 742.875,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1701,
+    "server_id": 20,
+    "type": "house",
+    "name": "retribution",
+    "owner": "Blake_Shadow",
+    "status": "Занято",
+    "x": 1957.04,
+    "y": 724.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21612,18 +21624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1809,
-    "server_id": 20,
-    "type": "house",
-    "name": "Snickers",
-    "owner": "Sanchez_Borov",
-    "status": "Занято",
-    "x": 2643.69,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1810,
     "server_id": 20,
     "type": "house",
@@ -22280,7 +22280,19 @@
     "status": "Аукцион",
     "x": 1906.0,
     "y": -1113.0,
-    "price": 4250000000,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 110,
+    "server_id": 20,
+    "type": "house",
+    "name": "poksqd",
+    "owner": "Iflexick_Doc",
+    "status": "Аукцион",
+    "x": 2296.54,
+    "y": -1882.34,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22296,51 +22308,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 754,
+    "id": 1298,
     "server_id": 20,
     "type": "house",
-    "name": "retribution",
-    "owner": "Zheka_Zhuk",
+    "name": "Дом",
+    "owner": "Goga_Fujiwara",
     "status": "Аукцион",
-    "x": -2678.18,
-    "y": 722.1619,
-    "price": 500000000,
+    "x": -2524.31,
+    "y": -145.865,
+    "price": 475000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1546,
+    "id": 1574,
     "server_id": 20,
     "type": "house",
-    "name": "Автогонки",
-    "owner": "Jackson_Sparks",
+    "name": "Дом Ширончика :)",
+    "owner": "Dmitry_Chuma",
     "status": "Аукцион",
-    "x": 2417.75,
-    "y": 1004.62,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1636,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "Kutuzov_Knight",
-    "status": "Аукцион",
-    "x": 2781.94,
-    "y": -1333.44,
-    "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1701,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "Blake_Shadow",
-    "status": "Аукцион",
-    "x": 1957.04,
-    "y": 724.57,
-    "price": 750000000,
+    "x": 2787.97,
+    "y": 2229.48,
+    "price": 555000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22368,15 +22356,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 73,
+    "id": 1809,
     "server_id": 20,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Konstantin_Pinko",
+    "type": "house",
+    "name": "Snickers",
+    "owner": "Sanchez_Borov",
     "status": "Аукцион",
-    "x": 1657.04,
-    "y": 1741.65,
-    "price": 150000,
+    "x": 2643.69,
+    "y": 2019.21,
+    "price": 20123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23012,6 +23000,18 @@
     "status": "Занято",
     "x": 1998.29,
     "y": 2302.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 73,
+    "server_id": 20,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Konstantin_Pinko",
+    "status": "Занято",
+    "x": 1657.04,
+    "y": 1741.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23764,7 +23764,7 @@
     "server_id": 20,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Laksem_Fidler",
+    "owner": "[21]Crozz_Miretky",
     "status": "Занято",
     "x": 2637.25,
     "y": 1129.68,
@@ -24640,7 +24640,7 @@
     "server_id": 20,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Morty_Knight",
+    "owner": "Noro_Knight",
     "status": "Занято",
     "x": -2455.77,
     "y": 799.522,
@@ -25732,7 +25732,7 @@
     "server_id": 20,
     "type": "business",
     "name": "Школа танцев",
-    "owner": "Domovenok_Kuzya",
+    "owner": "Laksem_Fidler",
     "status": "Занято",
     "x": 602.322,
     "y": -1572.9,

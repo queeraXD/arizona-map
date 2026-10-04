@@ -108,18 +108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 9,
-    "server_id": 2,
-    "type": "house",
-    "name": "Whitty house",
-    "owner": "Whitty_Ballistic",
-    "status": "Занято",
-    "x": 2036.07,
-    "y": -1059.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 10,
     "server_id": 2,
     "type": "house",
@@ -6516,18 +6504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 544,
-    "server_id": 2,
-    "type": "house",
-    "name": "Дом(видях 1",
-    "owner": "Daniil_Maer",
-    "status": "Занято",
-    "x": 1921.69,
-    "y": 2664.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 545,
     "server_id": 2,
     "type": "house",
@@ -9620,18 +9596,6 @@
     "status": "Занято",
     "x": -2303.43,
     "y": 820.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 804,
-    "server_id": 2,
-    "type": "house",
-    "name": "greenhome",
-    "owner": "Whitty_Ballistic",
-    "status": "Занято",
-    "x": -2791.84,
-    "y": 218.639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14448,18 +14412,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1207,
-    "server_id": 2,
-    "type": "house",
-    "name": "Домик",
-    "owner": "Ris_Rais",
-    "status": "Занято",
-    "x": -2433.99,
-    "y": 1274.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1208,
     "server_id": 2,
     "type": "house",
@@ -14624,18 +14576,6 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1263.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1222,
-    "server_id": 2,
-    "type": "house",
-    "name": "Sinister House",
-    "owner": "Ris_Rais",
-    "status": "Занято",
-    "x": -2351.14,
-    "y": 1244.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15183,8 +15123,8 @@
     "id": 1268,
     "server_id": 2,
     "type": "house",
-    "name": "Stics",
-    "owner": "Sherlock_Stics",
+    "name": "Аляска",
+    "owner": "Alaska_Himura",
     "status": "Занято",
     "x": -2018.55,
     "y": 766.471,
@@ -16520,18 +16460,6 @@
     "status": "Занято",
     "x": 2608.15,
     "y": -1238.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1380,
-    "server_id": 2,
-    "type": "house",
-    "name": "memoryze empire",
-    "owner": "Whitty_Ballistic",
-    "status": "Занято",
-    "x": 2594.5,
-    "y": -1238.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18392,18 +18320,6 @@
     "status": "Занято",
     "x": -2280.84,
     "y": 1130.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1536,
-    "server_id": 2,
-    "type": "house",
-    "name": "Light House",
-    "owner": "Ris_Rais",
-    "status": "Занято",
-    "x": -2238.31,
-    "y": 1135.87,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23940,6 +23856,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 9,
+    "server_id": 2,
+    "type": "house",
+    "name": "Whitty Sale Home (П)",
+    "owner": "Whitty_Ballistic",
+    "status": "Аукцион",
+    "x": 2036.07,
+    "y": -1059.32,
+    "price": 4250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 379,
     "server_id": 2,
     "type": "house",
@@ -23952,6 +23880,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 544,
+    "server_id": 2,
+    "type": "house",
+    "name": "Дом(видях 1",
+    "owner": "Daniil_Maer",
+    "status": "Аукцион",
+    "x": 1921.69,
+    "y": 2664.64,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 763,
     "server_id": 2,
     "type": "house",
@@ -23960,31 +23900,67 @@
     "status": "Аукцион",
     "x": -2652.52,
     "y": 820.32,
-    "price": 2600000000,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 92,
+    "id": 804,
     "server_id": 2,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Rozov_Nescam",
+    "type": "house",
+    "name": "Whitty Sale home (Г П)",
+    "owner": "Whitty_Ballistic",
     "status": "Аукцион",
-    "x": 1951.44,
-    "y": 1342.93,
-    "price": 250000,
+    "x": -2791.84,
+    "y": 218.639,
+    "price": 1800000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 250,
+    "id": 1207,
     "server_id": 2,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Gorila_Frank",
+    "type": "house",
+    "name": "Домик",
+    "owner": "Ris_Rais",
     "status": "Аукцион",
-    "x": 2170.48,
-    "y": 542.934,
-    "price": 200001,
+    "x": -2433.99,
+    "y": 1274.03,
+    "price": 1700123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1222,
+    "server_id": 2,
+    "type": "house",
+    "name": "Sinister House",
+    "owner": "Ris_Rais",
+    "status": "Аукцион",
+    "x": -2351.14,
+    "y": 1244.74,
+    "price": 1700123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1380,
+    "server_id": 2,
+    "type": "house",
+    "name": "Whitty Sale home (П ПВ)",
+    "owner": "Whitty_Ballistic",
+    "status": "Аукцион",
+    "x": 2594.5,
+    "y": -1238.11,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1536,
+    "server_id": 2,
+    "type": "house",
+    "name": "Light House",
+    "owner": "Ris_Rais",
+    "status": "Аукцион",
+    "x": -2238.31,
+    "y": 1135.87,
+    "price": 1700123123,
     "district": "Сан-Андреас"
   },
   {
@@ -24272,6 +24248,18 @@
     "status": "Занято",
     "x": 2186.91,
     "y": 1113.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 92,
+    "server_id": 2,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Rozov_Nescam",
+    "status": "Занято",
+    "x": 1951.44,
+    "y": 1342.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25388,6 +25376,18 @@
     "status": "Занято",
     "x": 111.076,
     "y": -1782.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 250,
+    "server_id": 2,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Gorila_Frank",
+    "status": "Занято",
+    "x": 2170.48,
+    "y": 542.934,
     "price": 0,
     "district": "Сан-Андреас"
   },

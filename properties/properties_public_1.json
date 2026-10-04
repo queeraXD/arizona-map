@@ -372,18 +372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 31,
-    "server_id": 1,
-    "type": "house",
-    "name": "hoodrich bratva",
-    "owner": "Hoodrich_Jora",
-    "status": "Занято",
-    "x": 2110.99,
-    "y": -1244.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 32,
     "server_id": 1,
     "type": "house",
@@ -3524,6 +3512,18 @@
     "status": "Занято",
     "x": 2346.83,
     "y": -1250.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 294,
+    "server_id": 1,
+    "type": "house",
+    "name": "movart.",
+    "owner": "Pobochka_Astigmatizm",
+    "status": "Занято",
+    "x": 2347.94,
+    "y": -1202.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7392,18 +7392,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 617,
-    "server_id": 1,
-    "type": "house",
-    "name": "Хата Гонни",
-    "owner": "Gonny_Montana",
-    "status": "Занято",
-    "x": -881.726,
-    "y": 1532.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 618,
     "server_id": 1,
     "type": "house",
@@ -8104,7 +8092,7 @@
     "server_id": 1,
     "type": "house",
     "name": ":arz:ivankasqad?:arz:",
-    "owner": "Artem_Vasilkov",
+    "owner": "Agent_Cardenac",
     "status": "Занято",
     "x": 885.9299,
     "y": 1980.43,
@@ -10336,7 +10324,7 @@
     "server_id": 1,
     "type": "house",
     "name": ":arz:ivankasqad?:arz:",
-    "owner": "Artem_Vasilkov",
+    "owner": "Agent_Cardenac",
     "status": "Занято",
     "x": -236.8439,
     "y": 2491.76,
@@ -18232,7 +18220,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Наша хуйня",
-    "owner": "Dima_Korleon",
+    "owner": "Indianich_Richmond",
     "status": "Занято",
     "x": 2206.09,
     "y": 736.638,
@@ -18976,7 +18964,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Semqso Squad",
-    "owner": "Cameron_Wright",
+    "owner": "Fentoms_Tempest",
     "status": "Занято",
     "x": -1511.73,
     "y": 2695.88,
@@ -24156,15 +24144,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 294,
+    "id": 31,
     "server_id": 1,
     "type": "house",
-    "name": "pes family",
-    "owner": "Inj_Ury",
+    "name": "hoodrich bratva",
+    "owner": "Hoodrich_Jora",
     "status": "Аукцион",
-    "x": 2347.94,
-    "y": -1202.84,
-    "price": 2500000000,
+    "x": 2110.99,
+    "y": -1244.14,
+    "price": 50000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 617,
+    "server_id": 1,
+    "type": "house",
+    "name": "Хата Гонни",
+    "owner": "Gonny_Montana",
+    "status": "Аукцион",
+    "x": -881.726,
+    "y": 1532.36,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {

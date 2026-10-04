@@ -6444,18 +6444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 541,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Oedon_Chapel",
-    "status": "Занято",
-    "x": 1518.73,
-    "y": -92.9521,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 542,
     "server_id": 8,
     "type": "house",
@@ -12724,7 +12712,7 @@
     "server_id": 8,
     "type": "house",
     "name": "templarez",
-    "owner": "Hitoshi_Yamazaki",
+    "owner": "India_Eisley",
     "status": "Занято",
     "x": 1752.46,
     "y": 2744.98,
@@ -15100,7 +15088,7 @@
     "server_id": 8,
     "type": "house",
     "name": "hawk",
-    "owner": "Abdurahmanazamat_Li",
+    "owner": "Kreo_Kamera",
     "status": "Занято",
     "x": -2840.23,
     "y": 866.8679,
@@ -16948,7 +16936,7 @@
     "server_id": 8,
     "type": "house",
     "name": "+ Diablo Brotherhood +",
-    "owner": "Akio_Washington",
+    "owner": "Carllo_Safari",
     "status": "Занято",
     "x": -396.2359,
     "y": -425.087,
@@ -17751,8 +17739,8 @@
     "id": 1486,
     "server_id": 8,
     "type": "house",
-    "name": "во владении пол года",
-    "owner": "Mark_Golovanskiy",
+    "name": "TOP DOM",
+    "owner": "Solomon_Splash",
     "status": "Занято",
     "x": 566.083,
     "y": -1113.16,
@@ -18224,18 +18212,6 @@
     "status": "Занято",
     "x": 2690.54,
     "y": -1203.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1526,
-    "server_id": 8,
-    "type": "house",
-    "name": "бесовесные",
-    "owner": "Dirty_Stu",
-    "status": "Занято",
-    "x": 2700.2,
-    "y": -1200.02,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22836,18 +22812,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1910,
-    "server_id": 8,
-    "type": "house",
-    "name": "XXX",
-    "owner": "Vlad_Cachan",
-    "status": "Занято",
-    "x": 2787.96,
-    "y": 2221.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1911,
     "server_id": 8,
     "type": "house",
@@ -23083,6 +23047,18 @@
     "owner": "Alonso_Capello",
     "status": "Занято",
     "x": 2022.9,
+    "y": 2132.9,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1931,
+    "server_id": 8,
+    "type": "house",
+    "name": "templarez mafia",
+    "owner": "Sematary_DdF",
+    "status": "Занято",
+    "x": 2017.53,
     "y": 2132.9,
     "price": 0,
     "district": "Сан-Андреас"
@@ -25712,7 +25688,7 @@
     "status": "Аукцион",
     "x": 2362.86,
     "y": -1644.65,
-    "price": 3000000000,
+    "price": 3500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25724,7 +25700,19 @@
     "status": "Аукцион",
     "x": 2327.28,
     "y": -1682.06,
-    "price": 3000000000,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 541,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Oedon_Chapel",
+    "status": "Аукцион",
+    "x": 1518.73,
+    "y": -92.9521,
+    "price": 300000,
     "district": "Сан-Андреас"
   },
   {
@@ -25752,15 +25740,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1931,
+    "id": 1526,
     "server_id": 8,
     "type": "house",
-    "name": "templarez mafia",
-    "owner": "Sematary_DdF",
+    "name": "бесовесные",
+    "owner": "Dirty_Stu",
     "status": "Аукцион",
-    "x": 2017.53,
-    "y": 2132.9,
-    "price": 250000000,
+    "x": 2700.2,
+    "y": -1200.02,
+    "price": 300123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1910,
+    "server_id": 8,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Vlad_Cachan",
+    "status": "Аукцион",
+    "x": 2787.96,
+    "y": 2221.93,
+    "price": 150123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25785,6 +25785,18 @@
     "x": 2601.05,
     "y": -1211.75,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 218,
+    "server_id": 8,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Freim_Norton",
+    "status": "Аукцион",
+    "x": 1500.24,
+    "y": -1628.79,
+    "price": 120123,
     "district": "Сан-Андреас"
   },
   {
@@ -28964,18 +28976,6 @@
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 218,
-    "server_id": 8,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Freim_Norton",
-    "status": "Занято",
-    "x": 1500.24,
-    "y": -1628.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
