@@ -9336,18 +9336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 779,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "martinerose",
-    "status": "Занято",
-    "x": -2568.95,
-    "y": 794.1749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 780,
     "server_id": 10,
     "type": "house",
@@ -14424,18 +14412,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1206,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом Бобра",
-    "owner": "Stu_Loving",
-    "status": "Занято",
-    "x": -2880.75,
-    "y": 797.5679,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1207,
     "server_id": 10,
     "type": "house",
@@ -15040,7 +15016,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Уголок Uta",
-    "owner": "Vrednyi_Investor",
+    "owner": "Vrednyi_Vredinki",
     "status": "Занято",
     "x": -2372.53,
     "y": 595.8339,
@@ -15547,18 +15523,6 @@
     "owner": "Giorgio_Ferrari",
     "status": "Занято",
     "x": -2558.65,
-    "y": -198.798,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1300,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом бывшего Ли Эвереста",
-    "owner": "Stu_Loving",
-    "status": "Занято",
-    "x": -2541.46,
     "y": -198.798,
     "price": 0,
     "district": "Сан-Андреас"
@@ -16868,18 +16832,6 @@
     "status": "Занято",
     "x": 1638.25,
     "y": 2610.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1411,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом бобра",
-    "owner": "Stu_Loving",
-    "status": "Занято",
-    "x": 1618.7,
-    "y": 2610.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19148,6 +19100,18 @@
     "status": "Занято",
     "x": -2790.25,
     "y": -111.105,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1602,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Baby_Teenager",
+    "status": "Занято",
+    "x": -2786.76,
+    "y": -118.1129,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22032,6 +21996,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1843,
+    "server_id": 10,
+    "type": "house",
+    "name": "HOUSE RTG",
+    "owner": "Vit_Sheikh",
+    "status": "Занято",
+    "x": 1749.12,
+    "y": 2755.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1844,
     "server_id": 10,
     "type": "house",
@@ -23276,7 +23252,19 @@
     "status": "Аукцион",
     "x": 1950.82,
     "y": 2722.4,
-    "price": 100123123,
+    "price": 45000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 779,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "martinerose",
+    "status": "Аукцион",
+    "x": -2568.95,
+    "y": 794.1749,
+    "price": 75000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23304,6 +23292,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1206,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом Бобра",
+    "owner": "Stu_Loving",
+    "status": "Аукцион",
+    "x": -2880.75,
+    "y": 797.5679,
+    "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1300,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом бывшего Ли Эвереста",
+    "owner": "Stu_Loving",
+    "status": "Аукцион",
+    "x": -2541.46,
+    "y": -198.798,
+    "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1398,
     "server_id": 10,
     "type": "house",
@@ -23316,6 +23328,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1411,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом бобра",
+    "owner": "Stu_Loving",
+    "status": "Аукцион",
+    "x": 1618.7,
+    "y": 2610.03,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1416,
     "server_id": 10,
     "type": "house",
@@ -23325,30 +23349,6 @@
     "x": 1513.3,
     "y": 2565.43,
     "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1602,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Metka_Doma",
-    "status": "Аукцион",
-    "x": -2786.76,
-    "y": -118.1129,
-    "price": 80000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1843,
-    "server_id": 10,
-    "type": "house",
-    "name": "HOUSE RTG",
-    "owner": "Sinister_Surprise",
-    "status": "Аукцион",
-    "x": 1749.12,
-    "y": 2755.89,
-    "price": 5000000,
     "district": "Сан-Андреас"
   },
   {

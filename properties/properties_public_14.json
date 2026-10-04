@@ -11076,18 +11076,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 923,
-    "server_id": 14,
-    "type": "house",
-    "name": "Холостятская берлога",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": -2239.14,
-    "y": 1154.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 924,
     "server_id": 14,
     "type": "house",
@@ -11768,18 +11756,6 @@
     "status": "Занято",
     "x": -2278.21,
     "y": 768.1019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 981,
-    "server_id": 14,
-    "type": "house",
-    "name": "Dias",
-    "owner": "Hiroto_Winslow",
-    "status": "Занято",
-    "x": -2278.81,
-    "y": 787.749,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13100,6 +13076,18 @@
     "status": "Занято",
     "x": -2174.27,
     "y": 903.0449,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1093,
+    "server_id": 14,
+    "type": "house",
+    "name": "Overdose",
+    "owner": "Osman_Voorhees",
+    "status": "Занято",
+    "x": -2192.58,
+    "y": 903.109,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17708,18 +17696,6 @@
     "status": "Занято",
     "x": 2433.93,
     "y": -1320.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1478,
-    "server_id": 14,
-    "type": "house",
-    "name": "MoonLight",
-    "owner": "Did_Inside",
-    "status": "Занято",
-    "x": 2147.67,
-    "y": -1366.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23676,6 +23652,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 923,
+    "server_id": 14,
+    "type": "house",
+    "name": "Холостятская берлога",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": -2239.14,
+    "y": 1154.01,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 981,
+    "server_id": 14,
+    "type": "house",
+    "name": "Dias",
+    "owner": "Hiroto_Winslow",
+    "status": "Аукцион",
+    "x": -2278.81,
+    "y": 787.749,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1086,
     "server_id": 14,
     "type": "house",
@@ -23688,15 +23688,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1093,
+    "id": 1478,
     "server_id": 14,
     "type": "house",
-    "name": "Overdose",
-    "owner": "Www_Www",
+    "name": "MoonLight",
+    "owner": "Did_Inside",
     "status": "Аукцион",
-    "x": -2192.58,
-    "y": 903.109,
-    "price": 10000000,
+    "x": 2147.67,
+    "y": -1366.12,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {

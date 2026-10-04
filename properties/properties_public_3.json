@@ -12624,18 +12624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1056,
-    "server_id": 3,
-    "type": "house",
-    "name": "Veritas Familly ",
-    "owner": "Aleksander_Hpen",
-    "status": "Занято",
-    "x": -2126.44,
-    "y": 978.4769,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1057,
     "server_id": 3,
     "type": "house",
@@ -16971,8 +16959,8 @@
     "id": 1418,
     "server_id": 3,
     "type": "house",
-    "name": "Дом",
-    "owner": "Domo_Kyn",
+    "name": "Топовая фама WestINC",
+    "owner": "Borge_West",
     "status": "Занято",
     "x": 2480.54,
     "y": 126.995,
@@ -17552,6 +17540,18 @@
     "status": "Занято",
     "x": 1719.44,
     "y": 2823.36,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1468,
+    "server_id": 3,
+    "type": "house",
+    "name": "общага",
+    "owner": "Dima_Shmakov",
+    "status": "Занято",
+    "x": 1832.62,
+    "y": 2742.8,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21396,18 +21396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1790,
-    "server_id": 3,
-    "type": "house",
-    "name": "slovil",
-    "owner": "Tinka_Kristoffer",
-    "status": "Занято",
-    "x": 2700.21,
-    "y": -1233.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1791,
     "server_id": 3,
     "type": "house",
@@ -23976,6 +23964,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1056,
+    "server_id": 3,
+    "type": "house",
+    "name": "Veritas Familly ",
+    "owner": "Aleksander_Hpen",
+    "status": "Аукцион",
+    "x": -2126.44,
+    "y": 978.4769,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1435,
     "server_id": 3,
     "type": "house",
@@ -23984,18 +23984,6 @@
     "status": "Аукцион",
     "x": 1824.31,
     "y": 2734.52,
-    "price": 450000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1468,
-    "server_id": 3,
-    "type": "house",
-    "name": "общага",
-    "owner": "Arseniy_Bizness",
-    "status": "Аукцион",
-    "x": 1832.62,
-    "y": 2742.8,
     "price": 400000000,
     "district": "Сан-Андреас"
   },
@@ -24009,6 +23997,42 @@
     "x": -1728.34,
     "y": 1139.04,
     "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1790,
+    "server_id": 3,
+    "type": "house",
+    "name": "slovil",
+    "owner": "Tinka_Kristoffer",
+    "status": "Аукцион",
+    "x": 2700.21,
+    "y": -1233.66,
+    "price": 25000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 51,
+    "server_id": 3,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Borge_West",
+    "status": "Аукцион",
+    "x": 385.891,
+    "y": -1817.9,
+    "price": 500000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 107,
+    "server_id": 3,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Borge_West",
+    "status": "Аукцион",
+    "x": -1816.68,
+    "y": 617.577,
+    "price": 300000,
     "district": "Сан-Андреас"
   },
   {
@@ -24236,18 +24260,6 @@
     "status": "Занято",
     "x": 2309.79,
     "y": -1643.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 51,
-    "server_id": 3,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Borge_West",
-    "status": "Занято",
-    "x": 385.891,
-    "y": -1817.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25808,18 +25820,6 @@
     "status": "Занято",
     "x": -2335.81,
     "y": -166.667,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 107,
-    "server_id": 3,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Borge_West",
-    "status": "Занято",
-    "x": -1816.68,
-    "y": 617.577,
     "price": 0,
     "district": "Сан-Андреас"
   },

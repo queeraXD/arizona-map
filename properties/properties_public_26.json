@@ -852,6 +852,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 71,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Maga_Smotra",
+    "status": "Занято",
+    "x": 2384.62,
+    "y": -1675.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 72,
     "server_id": 26,
     "type": "house",
@@ -5640,18 +5652,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 471,
-    "server_id": 26,
-    "type": "house",
-    "name": "Kazuto",
-    "owner": "Hiroto_Faraway",
-    "status": "Занято",
-    "x": 2398.27,
-    "y": 736.0989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 472,
     "server_id": 26,
     "type": "house",
@@ -8556,18 +8556,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 714,
-    "server_id": 26,
-    "type": "house",
-    "name": "Кенты Leonardo",
-    "owner": "Leonardo_Bosh",
-    "status": "Занято",
-    "x": 1570.38,
-    "y": 2711.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 715,
     "server_id": 26,
     "type": "house",
@@ -10539,8 +10527,8 @@
     "id": 882,
     "server_id": 26,
     "type": "house",
-    "name": "excommunicado",
-    "owner": "Jardani_Jovonovich",
+    "name": "Family-Kyoto x2 <3",
+    "owner": "Takeshi_Kyoto",
     "status": "Занято",
     "x": 2847.13,
     "y": -1309.75,
@@ -12476,18 +12464,6 @@
     "status": "Занято",
     "x": -1761.0,
     "y": 1174.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1044,
-    "server_id": 26,
-    "type": "house",
-    "name": "Lovely | House",
-    "owner": "Starry_Horse",
-    "status": "Занято",
-    "x": -1780.35,
-    "y": 1138.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19512,18 +19488,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1631,
-    "server_id": 26,
-    "type": "house",
-    "name": "Morphin",
-    "owner": "Hiroto_Faraway",
-    "status": "Занято",
-    "x": -2449.76,
-    "y": 921.426,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1632,
     "server_id": 26,
     "type": "house",
@@ -20348,6 +20312,18 @@
     "status": "Занято",
     "x": 2660.39,
     "y": 750.0989,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1701,
+    "server_id": 26,
+    "type": "house",
+    "name": "Булочкина контора",
+    "owner": "Zheka_Zhuk",
+    "status": "Занято",
+    "x": 2660.31,
+    "y": 742.544,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25128,15 +25104,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 71,
+    "id": 471,
     "server_id": 26,
     "type": "house",
-    "name": "Дом",
-    "owner": "Maga_Smotra",
+    "name": "Kazuto",
+    "owner": "Hiroto_Faraway",
     "status": "Аукцион",
-    "x": 2384.62,
-    "y": -1675.84,
-    "price": 500000000,
+    "x": 2398.27,
+    "y": 736.0989,
+    "price": 30000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 714,
+    "server_id": 26,
+    "type": "house",
+    "name": "Деп условия есть",
+    "owner": "Leonardo_Bosh",
+    "status": "Аукцион",
+    "x": 1570.38,
+    "y": 2711.11,
+    "price": 195000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25164,6 +25152,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1044,
+    "server_id": 26,
+    "type": "house",
+    "name": "Lovely | House",
+    "owner": "Starry_Horse",
+    "status": "Аукцион",
+    "x": -1780.35,
+    "y": 1138.77,
+    "price": 50000123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1048,
     "server_id": 26,
     "type": "house",
@@ -25176,15 +25176,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1701,
+    "id": 1631,
     "server_id": 26,
     "type": "house",
-    "name": "Булочкина контора",
-    "owner": "Zheka_Zhuk",
+    "name": "Morphin",
+    "owner": "Hiroto_Faraway",
     "status": "Аукцион",
-    "x": 2660.31,
-    "y": 742.544,
-    "price": 100000000,
+    "x": -2449.76,
+    "y": 921.426,
+    "price": 30000000,
     "district": "Сан-Андреас"
   },
   {

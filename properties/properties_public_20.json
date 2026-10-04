@@ -5200,7 +5200,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Аполлон",
-    "owner": "Tapsord_Rangers",
+    "owner": "Athena_Kitsune",
     "status": "Занято",
     "x": 2297.67,
     "y": -1053.05,
@@ -5384,18 +5384,6 @@
     "status": "Занято",
     "x": 2330.09,
     "y": -1060.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 450,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Just_Nasvai",
-    "status": "Занято",
-    "x": 1845.81,
-    "y": 741.2369,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8656,7 +8644,7 @@
     "server_id": 20,
     "type": "house",
     "name": "монополия ферма 8 LVL",
-    "owner": "Tapsord_Rangers",
+    "owner": "Athena_Kitsune",
     "status": "Занято",
     "x": 1663.37,
     "y": 2753.72,
@@ -9032,18 +9020,6 @@
     "status": "Занято",
     "x": -2642.31,
     "y": 728.0339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 754,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": -2678.18,
-    "y": 722.1619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10488,6 +10464,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 875,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zmey_Gorinich",
+    "status": "Занято",
+    "x": -236.106,
+    "y": 2540.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 876,
     "server_id": 20,
     "type": "house",
@@ -10940,6 +10928,18 @@
     "status": "Занято",
     "x": -2126.81,
     "y": 1087.49,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 914,
+    "server_id": 20,
+    "type": "house",
+    "name": "shelby",
+    "owner": "Zheka_Zhuk",
+    "status": "Занято",
+    "x": -2159.76,
+    "y": 1066.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18516,18 +18516,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1546,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "Jackson_Sparks",
-    "status": "Занято",
-    "x": 2417.75,
-    "y": 1004.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1547,
     "server_id": 20,
     "type": "house",
@@ -19348,7 +19336,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Barrington Home",
-    "owner": "Samurai_Barrington",
+    "owner": "Sergio_Tohok",
     "status": "Занято",
     "x": 2003.68,
     "y": 2163.69,
@@ -20724,18 +20712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1732,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "Shuyali_Yato",
-    "status": "Занято",
-    "x": 2468.31,
-    "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1733,
     "server_id": 20,
     "type": "house",
@@ -20768,18 +20744,6 @@
     "status": "Занято",
     "x": 2473.15,
     "y": -1366.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1736,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "Shuyali_Yato",
-    "status": "Занято",
-    "x": 2473.14,
-    "y": -1376.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21672,6 +21636,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1811,
+    "server_id": 20,
+    "type": "house",
+    "name": "Логово",
+    "owner": "Zheka_Zhuk",
+    "status": "Занято",
+    "x": 2659.24,
+    "y": 1978.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1812,
     "server_id": 20,
     "type": "house",
@@ -22308,27 +22284,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 875,
+    "id": 450,
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "Zmey_Gorinich",
+    "owner": "Just_Nasvai",
     "status": "Аукцион",
-    "x": -236.106,
-    "y": 2540.2,
-    "price": 450100100,
+    "x": 1845.81,
+    "y": 741.2369,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 914,
+    "id": 754,
     "server_id": 20,
     "type": "house",
-    "name": "shelby",
+    "name": "retribution",
     "owner": "Zheka_Zhuk",
     "status": "Аукцион",
-    "x": -2159.76,
-    "y": 1066.95,
+    "x": -2678.18,
+    "y": 722.1619,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1546,
+    "server_id": 20,
+    "type": "house",
+    "name": "Автогонки",
+    "owner": "Jackson_Sparks",
+    "status": "Аукцион",
+    "x": 2417.75,
+    "y": 1004.62,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22356,27 +22344,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1811,
+    "id": 1732,
     "server_id": 20,
     "type": "house",
-    "name": "Логово",
-    "owner": "Zheka_Zhuk",
+    "name": "retribution",
+    "owner": "Shuyali_Yato",
     "status": "Аукцион",
-    "x": 2659.24,
-    "y": 1978.84,
-    "price": 400000000,
+    "x": 2468.31,
+    "y": -1366.2,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 7,
+    "id": 1736,
     "server_id": 20,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Domovenok_Kuzya",
+    "type": "house",
+    "name": "retribution",
+    "owner": "Shuyali_Yato",
     "status": "Аукцион",
-    "x": 1315.5,
-    "y": -898.048,
-    "price": 325000,
+    "x": 2473.14,
+    "y": -1376.27,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22389,18 +22377,6 @@
     "x": 1657.04,
     "y": 1741.65,
     "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 234,
-    "server_id": 20,
-    "type": "business",
-    "name": "Школа танцев",
-    "owner": "Domovenok_Kuzya",
-    "status": "Аукцион",
-    "x": 602.322,
-    "y": -1572.9,
-    "price": 320000,
     "district": "Сан-Андреас"
   },
   {
@@ -22832,6 +22808,18 @@
     "status": "Занято",
     "x": 1352.4,
     "y": -1758.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 7,
+    "server_id": 20,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Domingo_Castellanos",
+    "status": "Занято",
+    "x": 1315.5,
+    "y": -898.048,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25736,6 +25724,18 @@
     "status": "Занято",
     "x": 674.577,
     "y": -1864.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 234,
+    "server_id": 20,
+    "type": "business",
+    "name": "Школа танцев",
+    "owner": "Domovenok_Kuzya",
+    "status": "Занято",
+    "x": 602.322,
+    "y": -1572.9,
     "price": 0,
     "district": "Сан-Андреас"
   },

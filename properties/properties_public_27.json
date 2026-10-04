@@ -399,8 +399,8 @@
     "id": 33,
     "server_id": 27,
     "type": "house",
-    "name": "Degerev House",
-    "owner": "Bull_Null",
+    "name": "Дом",
+    "owner": "Rusik_Gazel",
     "status": "Занято",
     "x": 2434.8,
     "y": -1289.38,
@@ -6112,7 +6112,7 @@
     "server_id": 27,
     "type": "house",
     "name": "VispCorp",
-    "owner": "Oliver_Visenti",
+    "owner": "Only_Visenti",
     "status": "Занято",
     "x": -2219.84,
     "y": -2400.34,
@@ -7672,7 +7672,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Дом",
-    "owner": "Gargamel_Borz",
+    "owner": "Tonny_Johnson",
     "status": "Занято",
     "x": -278.9989,
     "y": 1003.39,
@@ -8144,18 +8144,6 @@
     "status": "Занято",
     "x": 956.921,
     "y": 2270.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 679,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Rusik_Gazel",
-    "status": "Занято",
-    "x": 986.426,
-    "y": 2271.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11972,18 +11960,6 @@
     "status": "Занято",
     "x": -2373.18,
     "y": 851.663,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 999,
-    "server_id": 27,
-    "type": "house",
-    "name": "Unser Deutsches Hause",
-    "owner": "dejure",
-    "status": "Занято",
-    "x": -2373.26,
-    "y": 872.018,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18219,7 +18195,7 @@
     "id": 1519,
     "server_id": 27,
     "type": "house",
-    "name": "Haruki Empire",
+    "name": "Нефтяная дыра",
     "owner": "IQ_BOB",
     "status": "Занято",
     "x": -2358.48,
@@ -21111,7 +21087,7 @@
     "id": 1761,
     "server_id": 27,
     "type": "house",
-    "name": "meow <3",
+    "name": "ange1 lovec",
     "owner": "Tonny_Johnson",
     "status": "Занято",
     "x": 469.9899,
@@ -23592,6 +23568,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1969,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом милый дом",
+    "owner": "Angel_Wodpeker",
+    "status": "Занято",
+    "x": 1857.17,
+    "y": -2040.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1970,
     "server_id": 27,
     "type": "house",
@@ -24420,6 +24408,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 679,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pavlik_Priton",
+    "status": "Аукцион",
+    "x": 986.426,
+    "y": 2271.81,
+    "price": 390000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 916,
     "server_id": 27,
     "type": "house",
@@ -24429,6 +24429,18 @@
     "x": -2159.79,
     "y": 1030.66,
     "price": 370000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 999,
+    "server_id": 27,
+    "type": "house",
+    "name": "Unser Deutsches Hause",
+    "owner": "dejure",
+    "status": "Аукцион",
+    "x": -2373.26,
+    "y": 872.018,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24453,18 +24465,6 @@
     "x": 2636.27,
     "y": 2195.56,
     "price": 370000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1969,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом милый дом",
-    "owner": "Angel_Wodpeker",
-    "status": "Аукцион",
-    "x": 1857.17,
-    "y": -2040.85,
-    "price": 444444444,
     "district": "Сан-Андреас"
   },
   {
@@ -25828,7 +25828,7 @@
     "server_id": 27,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Den_Paul",
+    "owner": "Citrus_Company",
     "status": "Занято",
     "x": 2150.73,
     "y": 2733.87,
