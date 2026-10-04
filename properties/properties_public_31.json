@@ -147,7 +147,7 @@
     "id": 12,
     "server_id": 31,
     "type": "house",
-    "name": "BLACKROCK",
+    "name": "тут мафен живет",
     "owner": "Mafen_Werbon",
     "status": "Занято",
     "x": 2095.36,
@@ -3780,6 +3780,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 315,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lock_Shakur",
+    "status": "Занято",
+    "x": 1959.61,
+    "y": -1069.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 316,
     "server_id": 31,
     "type": "house",
@@ -3855,7 +3867,7 @@
     "id": 322,
     "server_id": 31,
     "type": "house",
-    "name": "Yabuki",
+    "name": "Продается 322 и 321 дома",
     "owner": "Joe_Yabuki",
     "status": "Занято",
     "x": 795.195,
@@ -6200,18 +6212,6 @@
     "status": "Занято",
     "x": 1641.34,
     "y": 2044.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 518,
-    "server_id": 31,
-    "type": "house",
-    "name": "хатко",
-    "owner": "Nkwachukwu_Mgbeahuru",
-    "status": "Занято",
-    "x": 1595.41,
-    "y": 2070.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14568,6 +14568,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1217,
+    "server_id": 31,
+    "type": "house",
+    "name": "Graf",
+    "owner": "Kenji_Honda",
+    "status": "Занято",
+    "x": -2840.23,
+    "y": 884.5809,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1218,
     "server_id": 31,
     "type": "house",
@@ -15015,7 +15027,7 @@
     "id": 1255,
     "server_id": 31,
     "type": "house",
-    "name": "demidOFF",
+    "name": "Rockefeller",
     "owner": "Mark_Rockefeller",
     "status": "Занято",
     "x": -2303.41,
@@ -22164,6 +22176,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1854,
+    "server_id": 31,
+    "type": "house",
+    "name": "Dipcool",
+    "owner": "Force_Mercy",
+    "status": "Занято",
+    "x": 2626.54,
+    "y": 1968.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1855,
     "server_id": 31,
     "type": "house",
@@ -22756,7 +22780,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Кролик Хаус №1",
-    "owner": "William_Nottaday",
+    "owner": "Maras_Shakur",
     "status": "Занято",
     "x": 125.634,
     "y": 1126.58,
@@ -23316,15 +23340,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 315,
+    "id": 518,
     "server_id": 31,
     "type": "house",
-    "name": "Дом",
-    "owner": "Mark_Madness",
-    "status": "Аукцион",
-    "x": 1959.61,
-    "y": -1069.92,
-    "price": 1000000000,
+    "name": "хатко",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1595.41,
+    "y": 2070.99,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23337,30 +23361,6 @@
     "x": -2687.81,
     "y": 803.0819,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1217,
-    "server_id": 31,
-    "type": "house",
-    "name": "Graf",
-    "owner": "Kenji_Honda",
-    "status": "Аукцион",
-    "x": -2840.23,
-    "y": 884.5809,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1854,
-    "server_id": 31,
-    "type": "house",
-    "name": "Видюхи",
-    "owner": "Cerberus_Colletti",
-    "status": "Аукцион",
-    "x": 2626.54,
-    "y": 1968.82,
-    "price": 950000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23764,7 +23764,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Бар",
-    "owner": "Torino_Shakur",
+    "owner": "Trump_Nightingale",
     "status": "Занято",
     "x": 2348.53,
     "y": -1372.68,

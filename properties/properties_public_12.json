@@ -9456,18 +9456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 789,
-    "server_id": 12,
-    "type": "house",
-    "name": "Берлога ПГАТК",
-    "owner": "Creeper_Fam",
-    "status": "Занято",
-    "x": -2580.91,
-    "y": 920.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 790,
     "server_id": 12,
     "type": "house",
@@ -12636,6 +12624,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1056,
+    "server_id": 12,
+    "type": "house",
+    "name": "ПРОДАЖА ",
+    "owner": "Harry_Kingsman",
+    "status": "Занято",
+    "x": -1927.71,
+    "y": 1252.78,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1057,
     "server_id": 12,
     "type": "house",
@@ -14352,10 +14352,34 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1200,
+    "server_id": 12,
+    "type": "house",
+    "name": "Never stop shine",
+    "owner": "Artem_Malinovskii",
+    "status": "Занято",
+    "x": -2791.58,
+    "y": -17.7035,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1201,
+    "server_id": 12,
+    "type": "house",
+    "name": "13Squad",
+    "owner": "Takura_Kirillov",
+    "status": "Занято",
+    "x": -2793.14,
+    "y": 11.067,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1202,
     "server_id": 12,
     "type": "house",
-    "name": "Дом",
+    "name": "HINAMI",
     "owner": "Takura_Kirillov",
     "status": "Занято",
     "x": -2793.14,
@@ -22116,6 +22140,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1849,
+    "server_id": 12,
+    "type": "house",
+    "name": "Lonely House",
+    "owner": "Abdurahman_Salam",
+    "status": "Занято",
+    "x": 1784.51,
+    "y": 2758.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1850,
     "server_id": 12,
     "type": "house",
@@ -23748,6 +23784,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 789,
+    "server_id": 12,
+    "type": "house",
+    "name": "Берлога ПГАТК",
+    "owner": "Creeper_Fam",
+    "status": "Аукцион",
+    "x": -2580.91,
+    "y": 920.38,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 866,
     "server_id": 12,
     "type": "house",
@@ -23769,54 +23817,6 @@
     "x": -322.6199,
     "y": 2554.17,
     "price": 15000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1056,
-    "server_id": 12,
-    "type": "house",
-    "name": "akrapovic empire",
-    "owner": "Fernando_Kleno",
-    "status": "Аукцион",
-    "x": -1927.71,
-    "y": 1252.78,
-    "price": 50000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1200,
-    "server_id": 12,
-    "type": "house",
-    "name": "Never stop shine",
-    "owner": "California_Deluxe",
-    "status": "Аукцион",
-    "x": -2791.58,
-    "y": -17.7035,
-    "price": 2000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1201,
-    "server_id": 12,
-    "type": "house",
-    "name": "13Squad",
-    "owner": "Fernando_Kleno",
-    "status": "Аукцион",
-    "x": -2793.14,
-    "y": 11.067,
-    "price": 50000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1849,
-    "server_id": 12,
-    "type": "house",
-    "name": "Lonely House",
-    "owner": "Abdurahman_Salam",
-    "status": "Аукцион",
-    "x": 1784.51,
-    "y": 2758.72,
-    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24256,7 +24256,7 @@
     "server_id": 12,
     "type": "business",
     "name": "Бар",
-    "owner": "Brian_King",
+    "owner": "Fernando_Kleno",
     "status": "Занято",
     "x": 2348.53,
     "y": -1372.68,
@@ -25684,7 +25684,7 @@
     "server_id": 12,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Brian_King",
+    "owner": "Misha_Pacik",
     "status": "Занято",
     "x": -2356.45,
     "y": 1008.19,
@@ -26080,8 +26080,8 @@
     "server_id": 12,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Sam_Hayer",
-    "status": "Занято",
+    "owner": "Государство",
+    "status": "Свободно",
     "x": 2085.84,
     "y": 2486.25,
     "price": 0,

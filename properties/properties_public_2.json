@@ -4548,18 +4548,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 379,
-    "server_id": 2,
-    "type": "house",
-    "name": "Rus75 ",
-    "owner": "Ris_Rais",
-    "status": "Занято",
-    "x": 2269.37,
-    "y": 110.9479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 380,
     "server_id": 2,
     "type": "house",
@@ -9404,6 +9392,18 @@
     "status": "Занято",
     "x": -2513.5,
     "y": 849.1569,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 785,
+    "server_id": 2,
+    "type": "house",
+    "name": "Light House",
+    "owner": "Aventurine_Windarius",
+    "status": "Занято",
+    "x": -2513.5,
+    "y": 867.418,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23892,6 +23892,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 379,
+    "server_id": 2,
+    "type": "house",
+    "name": "Rus75 ",
+    "owner": "Ris_Rais",
+    "status": "Аукцион",
+    "x": 2269.37,
+    "y": 110.9479,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 544,
     "server_id": 2,
     "type": "house",
@@ -23901,18 +23913,6 @@
     "x": 1921.69,
     "y": 2664.64,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 785,
-    "server_id": 2,
-    "type": "house",
-    "name": "Light House",
-    "owner": "Alexander_Kabanov",
-    "status": "Аукцион",
-    "x": -2513.5,
-    "y": 867.418,
-    "price": 777888999,
     "district": "Сан-Андреас"
   },
   {
@@ -23961,30 +23961,6 @@
     "x": 1601.94,
     "y": 2846.08,
     "price": 999999998,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 33,
-    "server_id": 2,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Tony_Revals",
-    "status": "Аукцион",
-    "x": 1199.32,
-    "y": -918.586,
-    "price": 350000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 2,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Tony_Revals",
-    "status": "Аукцион",
-    "x": -2373.8,
-    "y": 910.117,
-    "price": 280000,
     "district": "Сан-Андреас"
   },
   {
@@ -25008,6 +24984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 350,
+    "server_id": 2,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Tony_Revals",
+    "status": "Занято",
+    "x": -2373.8,
+    "y": 910.117,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 438,
     "server_id": 2,
     "type": "business",
@@ -25568,6 +25556,18 @@
     "status": "Занято",
     "x": 1001.25,
     "y": 820.343,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 33,
+    "server_id": 2,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Tony_Revals",
+    "status": "Занято",
+    "x": 1199.32,
+    "y": -918.586,
     "price": 0,
     "district": "Сан-Андреас"
   },
