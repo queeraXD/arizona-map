@@ -3780,18 +3780,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 315,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lock_Shakur",
-    "status": "Занято",
-    "x": 1959.61,
-    "y": -1069.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 316,
     "server_id": 31,
     "type": "house",
@@ -9140,18 +9128,6 @@
     "status": "Занято",
     "x": -2700.33,
     "y": 820.8649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 762,
-    "server_id": 31,
-    "type": "house",
-    "name": "БлатХата",
-    "owner": "Dex_Ter",
-    "status": "Занято",
-    "x": -2667.07,
-    "y": 820.3189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20895,8 +20871,8 @@
     "id": 1745,
     "server_id": 31,
     "type": "house",
-    "name": "тик токерский дом Спукса",
-    "owner": "Farmila_Vagos",
+    "name": "synexide",
+    "owner": "Codex_Synexide",
     "status": "Занято",
     "x": 1789.8,
     "y": 2778.62,
@@ -21928,7 +21904,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Taisei_Kioshimo",
+    "owner": "Always_Alone",
     "status": "Занято",
     "x": 2613.64,
     "y": 2062.74,
@@ -23349,6 +23325,30 @@
     "x": 2063.18,
     "y": 2204.3,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lock_Shakur",
+    "status": "Аукцион",
+    "x": 1959.61,
+    "y": -1069.92,
+    "price": 1100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 762,
+    "server_id": 31,
+    "type": "house",
+    "name": "БлатХата",
+    "owner": "Dex_Ter",
+    "status": "Аукцион",
+    "x": -2667.07,
+    "y": 820.3189,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {

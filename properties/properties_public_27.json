@@ -6096,18 +6096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 509,
-    "server_id": 27,
-    "type": "house",
-    "name": "Momo House",
-    "owner": "Nelda_BumbleBee",
-    "status": "Занято",
-    "x": -2219.84,
-    "y": -2400.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 510,
     "server_id": 27,
     "type": "house",
@@ -8223,7 +8211,7 @@
     "id": 686,
     "server_id": 27,
     "type": "house",
-    "name": "Дом",
+    "name": "майнинг 7 лвл",
     "owner": "South_Lifestyle",
     "status": "Занято",
     "x": 1223.02,
@@ -8667,7 +8655,7 @@
     "id": 723,
     "server_id": 27,
     "type": "house",
-    "name": "БАРАХОЛКА CASSINI",
+    "name": "ДРОП С ОТКР CASSINI",
     "owner": "Maximiliano_Cassini",
     "status": "Занято",
     "x": 1652.34,
@@ -9236,18 +9224,6 @@
     "status": "Занято",
     "x": -2594.19,
     "y": 785.1649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 771,
-    "server_id": 27,
-    "type": "house",
-    "name": "Хата Пинчера",
-    "owner": "Xanax_XR",
-    "status": "Занято",
-    "x": -2622.52,
-    "y": 749.754,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10143,7 +10119,7 @@
     "id": 846,
     "server_id": 27,
     "type": "house",
-    "name": "ВСЕ УЛУЧШЕНИЯ КУПЛЕНЫЫ",
+    "name": "майнинг 7 лвл",
     "owner": "South_Lifestyle",
     "status": "Занято",
     "x": -2191.59,
@@ -11288,18 +11264,6 @@
     "status": "Занято",
     "x": -2029.79,
     "y": 796.554,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 942,
-    "server_id": 27,
-    "type": "house",
-    "name": "Dodger  fam",
-    "owner": "Artur_Xamam",
-    "status": "Занято",
-    "x": -2018.45,
-    "y": 784.7659,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12596,18 +12560,6 @@
     "status": "Занято",
     "x": -1939.33,
     "y": 1227.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1051,
-    "server_id": 27,
-    "type": "house",
-    "name": "poksqd",
-    "owner": "hypnotic",
-    "status": "Занято",
-    "x": -1955.43,
-    "y": 1222.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15916,7 +15868,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Momo House",
-    "owner": "Sharawar_BumBlebee",
+    "owner": "South_Lifestyle",
     "status": "Занято",
     "x": 1618.71,
     "y": 2610.03,
@@ -17740,7 +17692,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Monopoly",
-    "owner": "Moor_Island",
+    "owner": "Akira_San",
     "status": "Занято",
     "x": 883.95,
     "y": 2131.46,
@@ -22740,18 +22692,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1897,
-    "server_id": 27,
-    "type": "house",
-    "name": "Primat",
-    "owner": "Andy_Durex",
-    "status": "Занято",
-    "x": 1746.05,
-    "y": 2767.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1898,
     "server_id": 27,
     "type": "house",
@@ -24456,6 +24396,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 509,
+    "server_id": 27,
+    "type": "house",
+    "name": "Momo House",
+    "owner": "Nelda_BumbleBee",
+    "status": "Аукцион",
+    "x": -2219.84,
+    "y": -2400.34,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 771,
+    "server_id": 27,
+    "type": "house",
+    "name": "Хата Пинчера",
+    "owner": "Xanax_XR",
+    "status": "Аукцион",
+    "x": -2622.52,
+    "y": 749.754,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 942,
+    "server_id": 27,
+    "type": "house",
+    "name": "Dodger  fam",
+    "owner": "Artur_Xamam",
+    "status": "Аукцион",
+    "x": -2018.45,
+    "y": 784.7659,
+    "price": 1,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1051,
+    "server_id": 27,
+    "type": "house",
+    "name": "poksqd",
+    "owner": "hypnotic",
+    "status": "Аукцион",
+    "x": -1955.43,
+    "y": 1222.45,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1347,
     "server_id": 27,
     "type": "house",
@@ -24464,7 +24452,55 @@
     "status": "Аукцион",
     "x": 1513.34,
     "y": 2565.43,
-    "price": 1200000000,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1897,
+    "server_id": 27,
+    "type": "house",
+    "name": "Primat",
+    "owner": "Andy_Durex",
+    "status": "Аукцион",
+    "x": 1746.05,
+    "y": 2767.21,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 62,
+    "server_id": 27,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Den_Paul",
+    "status": "Аукцион",
+    "x": 2150.73,
+    "y": 2733.87,
+    "price": 200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 295,
+    "server_id": 27,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Den_Paul",
+    "status": "Аукцион",
+    "x": 2392.56,
+    "y": 2042.21,
+    "price": 165000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 27,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Den_Paul",
+    "status": "Аукцион",
+    "x": 2366.7,
+    "y": 2071.11,
+    "price": 165000,
     "district": "Сан-Андреас"
   },
   {
@@ -25824,18 +25860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 62,
-    "server_id": 27,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Den_Paul",
-    "status": "Занято",
-    "x": 2150.73,
-    "y": 2733.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 63,
     "server_id": 27,
     "type": "business",
@@ -26528,30 +26552,6 @@
     "status": "Занято",
     "x": 2472.77,
     "y": 2034.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 295,
-    "server_id": 27,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Den_Paul",
-    "status": "Занято",
-    "x": 2392.56,
-    "y": 2042.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 27,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Den_Paul",
-    "status": "Занято",
-    "x": 2366.7,
-    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },

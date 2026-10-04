@@ -2043,7 +2043,7 @@
     "id": 170,
     "server_id": 7,
     "type": "house",
-    "name": "ловля на АТшках",
+    "name": "Самый крутой дом на этом районе",
     "owner": "Gabrielle_Venzo",
     "status": "Занято",
     "x": 866.827,
@@ -8748,18 +8748,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 729,
-    "server_id": 7,
-    "type": "house",
-    "name": "Изба Колясика",
-    "owner": "Kolya_Kuvalda",
-    "status": "Занято",
-    "x": 1637.76,
-    "y": 2802.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 730,
     "server_id": 7,
     "type": "house",
@@ -13632,18 +13620,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1137,
-    "server_id": 7,
-    "type": "house",
-    "name": "Офис Гринча",
-    "owner": "Paul_Namuro",
-    "status": "Занято",
-    "x": -2660.73,
-    "y": 200.6309,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1138,
     "server_id": 7,
     "type": "house",
@@ -18188,6 +18164,18 @@
     "status": "Занято",
     "x": -2285.08,
     "y": 849.6699,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1517,
+    "server_id": 7,
+    "type": "house",
+    "name": "АСК ВД",
+    "owner": "Arturro_Gaty",
+    "status": "Занято",
+    "x": -2285.31,
+    "y": 829.2849,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25524,6 +25512,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 729,
+    "server_id": 7,
+    "type": "house",
+    "name": "Изба Колясика",
+    "owner": "Kolya_Kuvalda",
+    "status": "Аукцион",
+    "x": 1637.76,
+    "y": 2802.02,
+    "price": 3250123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 918,
     "server_id": 7,
     "type": "house",
@@ -25536,15 +25536,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1517,
+    "id": 1137,
     "server_id": 7,
     "type": "house",
-    "name": "АСК ВД",
-    "owner": "Arturro_Gaty",
+    "name": "Офис Гринча",
+    "owner": "Paul_Namuro",
     "status": "Аукцион",
-    "x": -2285.31,
-    "y": 829.2849,
-    "price": 7500000000,
+    "x": -2660.73,
+    "y": 200.6309,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {

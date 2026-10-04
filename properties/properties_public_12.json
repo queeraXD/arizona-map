@@ -9720,18 +9720,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 811,
-    "server_id": 12,
-    "type": "house",
-    "name": "хай хай",
-    "owner": "Fernando_Kleno",
-    "status": "Занято",
-    "x": -2721.11,
-    "y": -146.664,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 812,
     "server_id": 12,
     "type": "house",
@@ -9747,7 +9735,7 @@
     "id": 813,
     "server_id": 12,
     "type": "house",
-    "name": "Дом",
+    "name": "поместье комариков",
     "owner": "Joe_Komarik",
     "status": "Занято",
     "x": -2723.28,
@@ -16275,7 +16263,7 @@
     "id": 1357,
     "server_id": 12,
     "type": "house",
-    "name": "Собственность Боба.",
+    "name": "Дом",
     "owner": "Rajesh_Koothrappali",
     "status": "Занято",
     "x": 1112.2,
@@ -22176,18 +22164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1849,
-    "server_id": 12,
-    "type": "house",
-    "name": "Lonely House",
-    "owner": "Abdurahman_Salam",
-    "status": "Занято",
-    "x": 1784.51,
-    "y": 2758.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1850,
     "server_id": 12,
     "type": "house",
@@ -23820,27 +23796,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 185,
+    "id": 811,
     "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Night_Mortan",
+    "type": "house",
+    "name": "хай хай",
+    "owner": "Fernando_Kleno",
     "status": "Аукцион",
-    "x": 2599.42,
-    "y": 1060.38,
-    "price": 7500000000,
+    "x": -2721.11,
+    "y": -146.664,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 187,
+    "id": 1849,
+    "server_id": 12,
+    "type": "house",
+    "name": "Lonely House",
+    "owner": "Abdurahman_Salam",
+    "status": "Аукцион",
+    "x": 1784.51,
+    "y": 2758.72,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 111,
     "server_id": 12,
     "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Night_Mortan",
+    "name": "Закусочная",
+    "owner": "John_Ralf",
     "status": "Аукцион",
-    "x": 158.63,
-    "y": -1812.59,
-    "price": 7500000000,
+    "x": -2767.51,
+    "y": 788.72,
+    "price": 165000,
     "district": "Сан-Андреас"
   },
   {
@@ -25692,18 +25680,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 111,
-    "server_id": 12,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "John_Ralf",
-    "status": "Занято",
-    "x": -2767.51,
-    "y": 788.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 112,
     "server_id": 12,
     "type": "business",
@@ -26700,6 +26676,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 185,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Night_Mortan",
+    "status": "Занято",
+    "x": 2599.42,
+    "y": 1060.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 186,
     "server_id": 12,
     "type": "business",
@@ -26708,6 +26696,18 @@
     "status": "Занято",
     "x": 2268.78,
     "y": 624.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 187,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Night_Mortan",
+    "status": "Занято",
+    "x": 158.63,
+    "y": -1812.59,
     "price": 0,
     "district": "Сан-Андреас"
   },

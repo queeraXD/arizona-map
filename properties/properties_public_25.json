@@ -2700,18 +2700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 225,
-    "server_id": 25,
-    "type": "house",
-    "name": "Кибитка",
-    "owner": "Stepan_Kristov",
-    "status": "Занято",
-    "x": 946.0869,
-    "y": -710.3339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 226,
     "server_id": 25,
     "type": "house",
@@ -3376,7 +3364,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Хазилка",
-    "owner": "Xary_Miamyra",
+    "owner": "Lovlya_Vipka",
     "status": "Занято",
     "x": 2551.22,
     "y": 57.2303,
@@ -12036,18 +12024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1004,
-    "server_id": 25,
-    "type": "house",
-    "name": "платинки",
-    "owner": "Lovlya_Vipka",
-    "status": "Занято",
-    "x": -2396.78,
-    "y": 1132.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1005,
     "server_id": 25,
     "type": "house",
@@ -13156,7 +13132,7 @@
     "server_id": 25,
     "type": "house",
     "name": "дом",
-    "owner": "Adolf_Lorenso",
+    "owner": "Lovlya_Vipka",
     "status": "Занято",
     "x": -2223.62,
     "y": 820.458,
@@ -23772,6 +23748,78 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 225,
+    "server_id": 25,
+    "type": "house",
+    "name": "Кибитка",
+    "owner": "Stepan_Kristov",
+    "status": "Аукцион",
+    "x": 946.0869,
+    "y": -710.3339,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1004,
+    "server_id": 25,
+    "type": "house",
+    "name": "платинки",
+    "owner": "Lovlya_Vipka",
+    "status": "Аукцион",
+    "x": -2396.78,
+    "y": 1132.47,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 191,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Young_Samogon",
+    "status": "Аукцион",
+    "x": 1143.17,
+    "y": -1473.83,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 192,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Young_Samogon",
+    "status": "Аукцион",
+    "x": 1136.97,
+    "y": -1456.62,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 266,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Michael_Rapaport",
+    "status": "Аукцион",
+    "x": 947.921,
+    "y": 1719.16,
+    "price": 93000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 306,
+    "server_id": 25,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Young_Samogon",
+    "status": "Аукцион",
+    "x": 2042.819,
+    "y": 2633.449,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 25,
     "type": "business",
@@ -25000,7 +25048,7 @@
     "server_id": 25,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Papa_Uggly",
+    "owner": "David_Kawaii",
     "status": "Занято",
     "x": -2231.89,
     "y": -2558.11,
@@ -25552,7 +25600,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Jack_Steiner",
+    "owner": "Snegovik_Pricolist",
     "status": "Занято",
     "x": -1213.8,
     "y": 1830.33,
@@ -26700,30 +26748,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 191,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Young_Samogon",
-    "status": "Занято",
-    "x": 1143.17,
-    "y": -1473.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 192,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Young_Samogon",
-    "status": "Занято",
-    "x": 1136.97,
-    "y": -1456.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 193,
     "server_id": 25,
     "type": "business",
@@ -26972,18 +26996,6 @@
     "status": "Занято",
     "x": 2824.77,
     "y": 1290.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 266,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Michael_Rapaport",
-    "status": "Занято",
-    "x": 947.921,
-    "y": 1719.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27488,18 +27500,6 @@
     "status": "Занято",
     "x": 2837.842,
     "y": 1392.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 306,
-    "server_id": 25,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Young_Samogon",
-    "status": "Занято",
-    "x": 2042.819,
-    "y": 2633.449,
     "price": 0,
     "district": "Сан-Андреас"
   },

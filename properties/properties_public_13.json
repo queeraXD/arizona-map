@@ -183,7 +183,7 @@
     "id": 15,
     "server_id": 13,
     "type": "house",
-    "name": "Продам тг @ahdqwq",
+    "name": "Поместье Николасовича",
     "owner": "Nikolas_Prokofev",
     "status": "Занято",
     "x": 2090.93,
@@ -4743,8 +4743,8 @@
     "id": 395,
     "server_id": 13,
     "type": "house",
-    "name": "Дом Encore",
-    "owner": "Roma_Encore",
+    "name": "Daymas",
+    "owner": "Loki_Daymas",
     "status": "Занято",
     "x": 2200.47,
     "y": -37.3367,
@@ -7612,7 +7612,7 @@
     "server_id": 13,
     "type": "house",
     "name": "tik tok spuxx samp",
-    "owner": "Nikolas_Rain",
+    "owner": "Dimka_Vjopekartinka",
     "status": "Занято",
     "x": -324.3099,
     "y": 1165.32,
@@ -11140,7 +11140,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Домик",
-    "owner": "Holy_Skit",
+    "owner": "Artemy_Young",
     "status": "Занято",
     "x": -1860.83,
     "y": 1114.77,
@@ -12216,18 +12216,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1018,
-    "server_id": 13,
-    "type": "house",
-    "name": "KorolHouse",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": -2541.3,
-    "y": 987.9089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1019,
     "server_id": 13,
     "type": "house",
@@ -12428,18 +12416,6 @@
     "status": "Занято",
     "x": 1947.2,
     "y": -371.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1036,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "brodyagathegod",
-    "status": "Занято",
-    "x": 1952.56,
-    "y": -419.6719,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19320,18 +19296,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1610,
-    "server_id": 13,
-    "type": "house",
-    "name": "мяу",
-    "owner": "Crime_Department",
-    "status": "Занято",
-    "x": 2406.11,
-    "y": 1063.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1611,
     "server_id": 13,
     "type": "house",
@@ -20732,18 +20696,6 @@
     "status": "Занято",
     "x": -49.986,
     "y": -269.364,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1729,
-    "server_id": 13,
-    "type": "house",
-    "name": "помойка",
-    "owner": "brodyagathegod",
-    "status": "Занято",
-    "x": 263.6849,
-    "y": 2895.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,6 +23232,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1018,
+    "server_id": 13,
+    "type": "house",
+    "name": "KorolHouse",
+    "owner": "Zheka_Zhuk",
+    "status": "Аукцион",
+    "x": -2541.3,
+    "y": 987.9089,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1036,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 1952.56,
+    "y": -419.6719,
+    "price": 500000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1610,
+    "server_id": 13,
+    "type": "house",
+    "name": "мяу",
+    "owner": "Crime_Department",
+    "status": "Аукцион",
+    "x": 2406.11,
+    "y": 1063.58,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1717,
     "server_id": 13,
     "type": "house",
@@ -23289,6 +23277,42 @@
     "x": 1110.5,
     "y": -1578.45,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1729,
+    "server_id": 13,
+    "type": "house",
+    "name": "помойка",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 263.6849,
+    "y": 2895.52,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 434,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 2216.0,
+    "y": -1679.688,
+    "price": 1055000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 435,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 532.7643,
+    "y": 874.9283,
+    "price": 1055000,
     "district": "Сан-Андреас"
   },
   {
