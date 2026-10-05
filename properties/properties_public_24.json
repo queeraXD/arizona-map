@@ -5559,8 +5559,8 @@
     "id": 463,
     "server_id": 24,
     "type": "house",
-    "name": "socotor",
-    "owner": "Samuel_Selfharmov",
+    "name": "Dark | House",
+    "owner": "Dark_Wood",
     "status": "Занято",
     "x": 2206.36,
     "y": 656.3729,
@@ -11176,7 +11176,7 @@
     "server_id": 24,
     "type": "house",
     "name": "шкаф просперо",
-    "owner": "Prospero_Deeplace",
+    "owner": "Vodyanoy_Samurai",
     "status": "Занято",
     "x": -2094.28,
     "y": 745.752,
@@ -17548,7 +17548,7 @@
     "server_id": 24,
     "type": "house",
     "name": "  12",
-    "owner": "Prospero_Deeplace",
+    "owner": "Vodyanoy_Samurai",
     "status": "Занято",
     "x": 2532.24,
     "y": 750.0969,
@@ -20340,18 +20340,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1699,
-    "server_id": 24,
-    "type": "house",
-    "name": "дом около притона за дешево",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 2495.44,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1700,
     "server_id": 24,
     "type": "house",
@@ -20451,7 +20439,7 @@
     "id": 1709,
     "server_id": 24,
     "type": "house",
-    "name": "10BTC(1/15)",
+    "name": "Woody",
     "owner": "Woody_Winston",
     "status": "Занято",
     "x": 1734.18,
@@ -22004,7 +21992,7 @@
     "status": "Аукцион",
     "x": -2234.38,
     "y": 888.869,
-    "price": 400000000,
+    "price": 400123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22016,7 +22004,19 @@
     "status": "Аукцион",
     "x": -2619.75,
     "y": -127.581,
-    "price": 400000000,
+    "price": 400123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1699,
+    "server_id": 24,
+    "type": "house",
+    "name": "дом около притона за дешево",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": 2495.44,
+    "y": -1383.37,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22028,7 +22028,7 @@
     "status": "Аукцион",
     "x": 2468.34,
     "y": -1376.27,
-    "price": 300123123,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22040,7 +22040,55 @@
     "status": "Аукцион",
     "x": 1794.37,
     "y": 2863.29,
-    "price": 250000000,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 22,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Mefi_Milton",
+    "status": "Аукцион",
+    "x": -1623.67,
+    "y": -2693.49,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 31,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Big_Husler",
+    "status": "Аукцион",
+    "x": 604.441,
+    "y": -1513.29,
+    "price": 577120,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 265,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Big_Husler",
+    "status": "Аукцион",
+    "x": 1019.18,
+    "y": -1871.74,
+    "price": 577120,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 24,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Four_Rings",
+    "status": "Аукцион",
+    "x": -2103.59,
+    "y": -2342.04,
+    "price": 6000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23232,18 +23280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 22,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Mefi_Milton",
-    "status": "Занято",
-    "x": -1623.67,
-    "y": -2693.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 23,
     "server_id": 24,
     "type": "business",
@@ -23336,18 +23372,6 @@
     "status": "Занято",
     "x": 661.359,
     "y": -573.569,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 31,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Big_Husler",
-    "status": "Занято",
-    "x": 604.441,
-    "y": -1513.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23552,18 +23576,6 @@
     "status": "Занято",
     "x": -109.1,
     "y": -1521.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 265,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Big_Husler",
-    "status": "Занято",
-    "x": 1019.18,
-    "y": -1871.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24140,18 +24152,6 @@
     "status": "Занято",
     "x": 693.619,
     "y": 1967.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 24,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Four_Rings",
-    "status": "Занято",
-    "x": -2103.59,
-    "y": -2342.04,
     "price": 0,
     "district": "Сан-Андреас"
   },

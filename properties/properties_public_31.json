@@ -3348,6 +3348,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 279,
+    "server_id": 31,
+    "type": "house",
+    "name": "...::ENZO::...",
+    "owner": "Sam_October",
+    "status": "Занято",
+    "x": 2194.16,
+    "y": -1000.94,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 280,
     "server_id": 31,
     "type": "house",
@@ -9980,18 +9992,6 @@
     "status": "Занято",
     "x": -2234.38,
     "y": 888.869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 833,
-    "server_id": 31,
-    "type": "house",
-    "name": "MINING 10 LVL (+15)",
-    "owner": "Nord_Divizion",
-    "status": "Занято",
-    "x": -2234.63,
-    "y": 870.7579,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23352,15 +23352,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 279,
+    "id": 833,
     "server_id": 31,
     "type": "house",
-    "name": "Задаются комнотки",
-    "owner": "Feldan_Lizalov",
+    "name": "MINING 10 LVL (+15)",
+    "owner": "Nord_Divizion",
     "status": "Аукцион",
-    "x": 2194.16,
-    "y": -1000.94,
-    "price": 1300000000,
+    "x": -2234.63,
+    "y": 870.7579,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 220,
+    "server_id": 31,
+    "type": "business",
+    "name": "Автосалон эконом",
+    "owner": "Sterlo_White",
+    "status": "Аукцион",
+    "x": -479.773,
+    "y": -542.696,
+    "price": 1395000,
     "district": "Сан-Андреас"
   },
   {
@@ -26624,18 +26636,6 @@
     "status": "Занято",
     "x": -2245.69,
     "y": 2282.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 220,
-    "server_id": 31,
-    "type": "business",
-    "name": "Автосалон эконом",
-    "owner": "Sterlo_White",
-    "status": "Занято",
-    "x": -479.773,
-    "y": -542.696,
     "price": 0,
     "district": "Сан-Андреас"
   },

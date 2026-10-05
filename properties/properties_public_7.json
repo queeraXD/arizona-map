@@ -3804,6 +3804,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 317,
+    "server_id": 7,
+    "type": "house",
+    "name": "Eight ^_^",
+    "owner": "Fronzan_Mason",
+    "status": "Занято",
+    "x": 1252.78,
+    "y": -901.866,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 318,
     "server_id": 7,
     "type": "house",
@@ -4779,8 +4791,8 @@
     "id": 399,
     "server_id": 7,
     "type": "house",
-    "name": "tg: @Vanya228zxc",
-    "owner": "Fill_Puma",
+    "name": "Хата в кредит",
+    "owner": "Emily_Biggs",
     "status": "Занято",
     "x": 2392.35,
     "y": -54.2308,
@@ -4808,18 +4820,6 @@
     "status": "Занято",
     "x": 2438.82,
     "y": -54.6911,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
-    "status": "Занято",
-    "x": 2448.44,
-    "y": -11.0635,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6308,18 +6308,6 @@
     "status": "Занято",
     "x": 2049.55,
     "y": 2763.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 527,
-    "server_id": 7,
-    "type": "house",
-    "name": "Dream House",
-    "owner": "Milana_MacLeod",
-    "status": "Занято",
-    "x": 2039.57,
-    "y": 2766.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10228,7 +10216,7 @@
     "server_id": 7,
     "type": "house",
     "name": "ХАТА КЕНТАФАРИКА",
-    "owner": "Guccio_Vaprosi",
+    "owner": "Enlight_Coins",
     "status": "Занято",
     "x": -2169.8,
     "y": 1027.44,
@@ -13628,18 +13616,6 @@
     "status": "Занято",
     "x": -2672.07,
     "y": 200.2319,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1137,
-    "server_id": 7,
-    "type": "house",
-    "name": "Офис Гринча",
-    "owner": "Paul_Namuro",
-    "status": "Занято",
-    "x": -2660.73,
-    "y": 200.6309,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21324,18 +21300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1779,
-    "server_id": 7,
-    "type": "house",
-    "name": "TUHKA HOUSE",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 2441.54,
-    "y": 1213.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1780,
     "server_id": 7,
     "type": "house",
@@ -25524,15 +25488,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 317,
+    "id": 402,
     "server_id": 7,
     "type": "house",
-    "name": "Eight ^_^",
-    "owner": "Tigr_Fokusnik",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
     "status": "Аукцион",
-    "x": 1252.78,
-    "y": -901.866,
-    "price": 20000000,
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 6999999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 527,
+    "server_id": 7,
+    "type": "house",
+    "name": "Dream House",
+    "owner": "Milana_MacLeod",
+    "status": "Аукцион",
+    "x": 2039.57,
+    "y": 2766.53,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1137,
+    "server_id": 7,
+    "type": "house",
+    "name": "Офис Гринча",
+    "owner": "Paul_Namuro",
+    "status": "Аукцион",
+    "x": -2660.73,
+    "y": 200.6309,
+    "price": 3800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25544,7 +25532,19 @@
     "status": "Аукцион",
     "x": -2285.31,
     "y": 829.2849,
-    "price": 7000000000,
+    "price": 7500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1779,
+    "server_id": 7,
+    "type": "house",
+    "name": "TUHKA HOUSE",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": 2441.54,
+    "y": 1213.45,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {
