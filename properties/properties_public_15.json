@@ -160,7 +160,7 @@
     "server_id": 15,
     "type": "house",
     "name": "$ Tatarin $",
-    "owner": "Sbln_Ptica",
+    "owner": "InoAgent_Player",
     "status": "Занято",
     "x": 2092.24,
     "y": -1166.43,
@@ -352,7 +352,7 @@
     "server_id": 15,
     "type": "house",
     "name": "[$] Mebius Monopoly [$]",
-    "owner": "Sbln_Ptica",
+    "owner": "InoAgent_Player",
     "status": "Занято",
     "x": 2191.87,
     "y": -1236.89,
@@ -1324,7 +1324,7 @@
     "server_id": 15,
     "type": "house",
     "name": "[$] Mebius [$]",
-    "owner": "Sbln_Ptica",
+    "owner": "InoAgent_Player",
     "status": "Занято",
     "x": 2296.54,
     "y": -1882.34,
@@ -4224,6 +4224,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 352,
+    "server_id": 15,
+    "type": "house",
+    "name": "<3 reizusobased <3",
+    "owner": "Reizu_SoBased",
+    "status": "Занято",
+    "x": 1290.98,
+    "y": -896.9199,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 353,
     "server_id": 15,
     "type": "house",
@@ -5176,7 +5188,7 @@
     "server_id": 15,
     "type": "house",
     "name": "$ Tatarin $",
-    "owner": "Sbln_Ptica",
+    "owner": "InoAgent_Player",
     "status": "Занято",
     "x": 2279.2,
     "y": -1076.63,
@@ -8132,6 +8144,18 @@
     "status": "Занято",
     "x": 956.921,
     "y": 2270.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 679,
+    "server_id": 15,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Cambino_FeiKov",
+    "status": "Занято",
+    "x": 986.426,
+    "y": 2271.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15184,7 +15208,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Деп условия :)",
-    "owner": "Yukion_Tokado",
+    "owner": "Monar_Rich",
     "status": "Занято",
     "x": -2433.75,
     "y": 1318.51,
@@ -21264,30 +21288,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 352,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Luminisent_London",
-    "status": "Аукцион",
-    "x": 1290.98,
-    "y": -896.9199,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 679,
-    "server_id": 15,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Cambino_FeiKov",
-    "status": "Аукцион",
-    "x": 986.426,
-    "y": 2271.81,
-    "price": 555000123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1490,
     "server_id": 15,
     "type": "house",
@@ -21296,7 +21296,7 @@
     "status": "Аукцион",
     "x": 2756.29,
     "y": -1302.62,
-    "price": 800000000,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21308,7 +21308,7 @@
     "status": "Аукцион",
     "x": 2000.29,
     "y": -991.567,
-    "price": 800000000,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21320,7 +21320,31 @@
     "status": "Аукцион",
     "x": 2473.15,
     "y": -1391.4,
-    "price": 800000000,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 75,
+    "server_id": 15,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Astolfo_Morgan",
+    "status": "Аукцион",
+    "x": 2556.26,
+    "y": 1872.19,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 15,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Astolfo_Morgan",
+    "status": "Аукцион",
+    "x": 2351.41,
+    "y": 2405.59,
+    "price": 6500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21980,18 +22004,6 @@
     "status": "Занято",
     "x": 2104.24,
     "y": 2678.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 75,
-    "server_id": 15,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Astolfo_Morgan",
-    "status": "Занято",
-    "x": 2556.26,
-    "y": 1872.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24164,18 +24176,6 @@
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 184,
-    "server_id": 15,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Astolfo_Morgan",
-    "status": "Занято",
-    "x": 2351.41,
-    "y": 2405.59,
     "price": 0,
     "district": "Сан-Андреас"
   },

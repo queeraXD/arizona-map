@@ -7780,7 +7780,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Evangelion Empire (аксы скины",
-    "owner": "Kane_Reverie",
+    "owner": "Kane_Quinfrize",
     "status": "Занято",
     "x": 2450.27,
     "y": 662.578,
@@ -8120,6 +8120,18 @@
     "status": "Занято",
     "x": 886.143,
     "y": 2047.18,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 678,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом ",
+    "owner": "Denis_Napoli",
+    "status": "Занято",
+    "x": 956.921,
+    "y": 2270.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8968,7 +8980,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Prince$ka Aquamarine$",
-    "owner": "Kane_Reverie",
+    "owner": "Kane_Quinfrize",
     "status": "Занято",
     "x": -2671.31,
     "y": 927.4249,
@@ -11284,7 +11296,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Sentimental",
-    "owner": "Hanzo_Hiroshima",
+    "owner": "Hanzo_Kurogane",
     "status": "Занято",
     "x": -2018.3,
     "y": 766.4459,
@@ -11324,18 +11336,6 @@
     "status": "Занято",
     "x": -2282.42,
     "y": 999.619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 947,
-    "server_id": 28,
-    "type": "house",
-    "name": "[SF-947] North",
-    "owner": "Bogdan_Sokolov",
-    "status": "Занято",
-    "x": -2239.15,
-    "y": 943.854,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12424,7 +12424,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Deluxe",
-    "owner": "Yuudai_Disney",
+    "owner": "Ali_Asik",
     "status": "Занято",
     "x": -1776.13,
     "y": 1115.2,
@@ -15252,6 +15252,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1274,
+    "server_id": 28,
+    "type": "house",
+    "name": "СТРАХА_НЕТ",
+    "owner": "Sinister_Christmas",
+    "status": "Занято",
+    "x": -2689.51,
+    "y": 96.3162,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1275,
     "server_id": 28,
     "type": "house",
@@ -16456,7 +16468,7 @@
     "server_id": 28,
     "type": "house",
     "name": "D A R K S I D E",
-    "owner": "Kane_Reverie",
+    "owner": "Kane_Quinfrize",
     "status": "Занято",
     "x": 1112.2,
     "y": -1575.21,
@@ -21876,18 +21888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1830,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kent_Sworowski",
-    "status": "Занято",
-    "x": -115.554,
-    "y": 1046.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1831,
     "server_id": 28,
     "type": "house",
@@ -22332,26 +22332,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 678,
+    "id": 947,
     "server_id": 28,
     "type": "house",
-    "name": "Дом ",
-    "owner": "Kostik_Avtorazborka",
+    "name": "[SF-947] North",
+    "owner": "Bogdan_Sokolov",
     "status": "Аукцион",
-    "x": 956.921,
-    "y": 2270.92,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1274,
-    "server_id": 28,
-    "type": "house",
-    "name": "СТРАХА_НЕТ",
-    "owner": "Sinister_Christmas",
-    "status": "Аукцион",
-    "x": -2689.51,
-    "y": 96.3162,
+    "x": -2239.15,
+    "y": 943.854,
     "price": 100000000,
     "district": "Сан-Андреас"
   },
@@ -22364,7 +22352,7 @@
     "status": "Аукцион",
     "x": 2437.04,
     "y": 1204.02,
-    "price": 170000000,
+    "price": 160000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22376,7 +22364,19 @@
     "status": "Аукцион",
     "x": 2615.11,
     "y": -1216.33,
-    "price": 190000000,
+    "price": 160000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1830,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kent_Sworowski",
+    "status": "Аукцион",
+    "x": -115.554,
+    "y": 1046.7,
+    "price": 1100000,
     "district": "Сан-Андреас"
   },
   {
@@ -24028,7 +24028,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Закусочная",
-    "owner": "John_Simmons",
+    "owner": "Jony_Abudabi",
     "status": "Занято",
     "x": 2105.21,
     "y": -1806.49,
