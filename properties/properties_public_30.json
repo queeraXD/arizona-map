@@ -5428,7 +5428,7 @@
     "server_id": 30,
     "type": "house",
     "name": "HOME",
-    "owner": "Zavod",
+    "owner": "Danil_Drova",
     "status": "Занято",
     "x": 1844.5,
     "y": 718.656,
@@ -18720,6 +18720,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1560,
+    "server_id": 30,
+    "type": "house",
+    "name": "house",
+    "owner": "Danya_Patanin",
+    "status": "Занято",
+    "x": 755.7199,
+    "y": 1958.78,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1561,
     "server_id": 30,
     "type": "house",
@@ -20736,18 +20748,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1733,
-    "server_id": 30,
-    "type": "house",
-    "name": "LENTINI DYNASTY",
-    "owner": "Marco_McCartney",
-    "status": "Занято",
-    "x": 1786.49,
-    "y": 2867.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1734,
     "server_id": 30,
     "type": "house",
@@ -21480,18 +21480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1801,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Marco_McCartney",
-    "status": "Занято",
-    "x": 2608.58,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1802,
     "server_id": 30,
     "type": "house",
@@ -21500,18 +21488,6 @@
     "status": "Занято",
     "x": 2601.64,
     "y": 2185.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1803,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Marco_McCartney",
-    "status": "Занято",
-    "x": 2613.22,
-    "y": 2185.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21684,18 +21660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1818,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Marco_McCartney",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2188.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1819,
     "server_id": 30,
     "type": "house",
@@ -21812,18 +21776,6 @@
     "status": "Занято",
     "x": 2591.62,
     "y": 2216.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1829,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Marco_McCartney",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2189.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22752,15 +22704,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1560,
+    "id": 1733,
     "server_id": 30,
     "type": "house",
-    "name": "house",
-    "owner": "Danya_Patanin",
+    "name": "LENTINI DYNASTY",
+    "owner": "Marco_McCartney",
     "status": "Аукцион",
-    "x": 755.7199,
-    "y": 1958.78,
-    "price": 1200000000,
+    "x": 1786.49,
+    "y": 2867.63,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1801,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Marco_McCartney",
+    "status": "Аукцион",
+    "x": 2608.58,
+    "y": 2195.56,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1803,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Marco_McCartney",
+    "status": "Аукцион",
+    "x": 2613.22,
+    "y": 2185.54,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1818,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Marco_McCartney",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2188.04,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1829,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Marco_McCartney",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2189.99,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {

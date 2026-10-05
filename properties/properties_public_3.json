@@ -1,17 +1,5 @@
 [
   {
-    "id": 0,
-    "server_id": 3,
-    "type": "house",
-    "name": "Masker #1",
-    "owner": "[30]Stu_Love",
-    "status": "Занято",
-    "x": 1885.88,
-    "y": -1113.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1,
     "server_id": 3,
     "type": "house",
@@ -15900,18 +15888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1330,
-    "server_id": 3,
-    "type": "house",
-    "name": "Shadow Monarch",
-    "owner": "Chudo_Funduk",
-    "status": "Занято",
-    "x": -2553.69,
-    "y": 992.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1331,
     "server_id": 3,
     "type": "house",
@@ -23964,6 +23940,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 0,
+    "server_id": 3,
+    "type": "house",
+    "name": "Masker #1",
+    "owner": "[30]Stu_Love",
+    "status": "Аукцион",
+    "x": 1885.88,
+    "y": -1113.56,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 287,
     "server_id": 3,
     "type": "house",
@@ -23984,7 +23972,7 @@
     "status": "Аукцион",
     "x": 2279.2,
     "y": -1076.63,
-    "price": 800000000,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23996,7 +23984,7 @@
     "status": "Аукцион",
     "x": -2446.25,
     "y": 2491.72,
-    "price": 800000000,
+    "price": 550000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24008,7 +23996,19 @@
     "status": "Аукцион",
     "x": -2303.33,
     "y": 797.0219,
-    "price": 800000000,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1330,
+    "server_id": 3,
+    "type": "house",
+    "name": "Shadow Monarch",
+    "owner": "Chudo_Funduk",
+    "status": "Аукцион",
+    "x": -2553.69,
+    "y": 992.25,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
