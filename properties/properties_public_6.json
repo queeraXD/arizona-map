@@ -8184,18 +8184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 682,
-    "server_id": 6,
-    "type": "house",
-    "name": "Jetski",
-    "owner": "Maria_Borowa",
-    "status": "Занято",
-    "x": 1032.54,
-    "y": 2316.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 683,
     "server_id": 6,
     "type": "house",
@@ -15399,7 +15387,7 @@
     "id": 1284,
     "server_id": 6,
     "type": "house",
-    "name": "Monopoly Snarex",
+    "name": "Бурмалда",
     "owner": "Neil_Melendez",
     "status": "Занято",
     "x": -2511.74,
@@ -21504,18 +21492,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1793,
-    "server_id": 6,
-    "type": "house",
-    "name": "Майнинг ферма 1",
-    "owner": "Arsen_Steel",
-    "status": "Занято",
-    "x": 2476.44,
-    "y": -1383.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1794,
     "server_id": 6,
     "type": "house",
@@ -23824,7 +23800,7 @@
     "server_id": 6,
     "type": "house",
     "name": "ЦариЛудоманы",
-    "owner": "Tor_Steinar",
+    "owner": "Rifmabes_IzDagestana",
     "status": "Занято",
     "x": 2591.62,
     "y": 2180.71,
@@ -24504,6 +24480,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 682,
+    "server_id": 6,
+    "type": "house",
+    "name": "Jetski",
+    "owner": "Maria_Borowa",
+    "status": "Аукцион",
+    "x": 1032.54,
+    "y": 2316.12,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1250,
     "server_id": 6,
     "type": "house",
@@ -24516,6 +24504,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1793,
+    "server_id": 6,
+    "type": "house",
+    "name": "Майнинг ферма 1",
+    "owner": "Arsen_Steel",
+    "status": "Аукцион",
+    "x": 2476.44,
+    "y": -1383.12,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1810,
     "server_id": 6,
     "type": "house",
@@ -24525,18 +24525,6 @@
     "x": 2473.11,
     "y": -1366.21,
     "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 307,
-    "server_id": 6,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Hemwick_Charnellane",
-    "status": "Аукцион",
-    "x": -1996.361,
-    "y": -50.6903,
-    "price": 555555,
     "district": "Сан-Андреас"
   },
   {
@@ -28268,6 +28256,18 @@
     "status": "Занято",
     "x": 2042.819,
     "y": 2633.449,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 307,
+    "server_id": 6,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Hemwick_Charnellane",
+    "status": "Занято",
+    "x": -1996.361,
+    "y": -50.6903,
     "price": 0,
     "district": "Сан-Андреас"
   },

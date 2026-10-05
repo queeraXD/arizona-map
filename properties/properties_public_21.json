@@ -5655,7 +5655,7 @@
     "id": 471,
     "server_id": 21,
     "type": "house",
-    "name": "Scald",
+    "name": "Крипта",
     "owner": "Madoka_Kaname",
     "status": "Занято",
     "x": 2398.27,
@@ -21936,18 +21936,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 83,
-    "server_id": 21,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Amar_Venteda",
-    "status": "Аукцион",
-    "x": 1872.26,
-    "y": 2071.74,
-    "price": 135000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 0,
     "server_id": 21,
     "type": "business",
@@ -23696,6 +23684,18 @@
     "status": "Занято",
     "x": 1879.19,
     "y": 2339.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 83,
+    "server_id": 21,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Amar_Venteda",
+    "status": "Занято",
+    "x": 1872.26,
+    "y": 2071.74,
     "price": 0,
     "district": "Сан-Андреас"
   },

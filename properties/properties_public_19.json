@@ -384,6 +384,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 32,
+    "server_id": 19,
+    "type": "house",
+    "name": "WALDEMARFAM",
+    "owner": "Felix_Moore",
+    "status": "Занято",
+    "x": 2433.6,
+    "y": -1275.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 33,
     "server_id": 19,
     "type": "house",
@@ -5084,6 +5096,18 @@
     "status": "Занято",
     "x": 313.208,
     "y": -92.4095,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 425,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Scott_Litvinenko",
+    "status": "Занято",
+    "x": 313.3909,
+    "y": -121.1949,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12124,7 +12148,7 @@
     "server_id": 19,
     "type": "house",
     "name": "priton",
-    "owner": "Soshi_Lacoste",
+    "owner": "Vasilisa_Duenina",
     "status": "Занято",
     "x": -2423.81,
     "y": 1138.93,
@@ -18756,18 +18780,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1571,
-    "server_id": 19,
-    "type": "house",
-    "name": "Патриах - Sindycate",
-    "owner": "Sanat_Tologonov",
-    "status": "Занято",
-    "x": 1942.7,
-    "y": 742.875,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1572,
     "server_id": 19,
     "type": "house",
@@ -19328,18 +19340,6 @@
     "status": "Занято",
     "x": 1791.69,
     "y": 2741.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1619,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sanat_Tologonov",
-    "status": "Занято",
-    "x": 1792.42,
-    "y": 2744.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21960,27 +21960,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 32,
+    "id": 1571,
     "server_id": 19,
     "type": "house",
-    "name": "WALDEMARFAM",
-    "owner": "Petr_Burmaldancer",
-    "status": "Аукцион",
-    "x": 2433.6,
-    "y": -1275.03,
-    "price": 200000000,
+    "name": "Патриах - Sindycate",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1942.7,
+    "y": 742.875,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 425,
+    "id": 1619,
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "3ABUC_HA_6A3E",
-    "status": "Аукцион",
-    "x": 313.3909,
-    "y": -121.1949,
-    "price": 200000000,
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1792.42,
+    "y": 2744.45,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -22065,18 +22065,6 @@
     "x": 1445.11,
     "y": -1418.56,
     "price": 200000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 199,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Andrew_Thelpriader",
-    "status": "Аукцион",
-    "x": 1771.74,
-    "y": -1903.27,
-    "price": 6700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25088,6 +25076,18 @@
     "status": "Занято",
     "x": -1826.43,
     "y": -566.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 199,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Andrew_Thelpriader",
+    "status": "Занято",
+    "x": 1771.74,
+    "y": -1903.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
