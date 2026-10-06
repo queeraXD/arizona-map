@@ -3292,7 +3292,7 @@
     "server_id": 24,
     "type": "house",
     "name": "деп",
-    "owner": "Tizzo_Plugg",
+    "owner": "Stepan_Bilinson",
     "status": "Занято",
     "x": 2561.86,
     "y": -1034.31,
@@ -8276,6 +8276,18 @@
     "status": "Занято",
     "x": 1316.23,
     "y": 2524.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 694,
+    "server_id": 24,
+    "type": "house",
+    "name": "Gymhouse2",
+    "owner": "Metan_Solo",
+    "status": "Занято",
+    "x": 1325.5,
+    "y": 2567.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20140,7 +20152,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Barrosa LV BTC",
-    "owner": "Tizzo_Plugg",
+    "owner": "Tomas_Wentore",
     "status": "Занято",
     "x": 2441.54,
     "y": 1220.67,
@@ -20324,6 +20336,18 @@
     "status": "Занято",
     "x": 2487.38,
     "y": -1366.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1703,
+    "server_id": 24,
+    "type": "house",
+    "name": "мой house",
+    "owner": "Ryota_Kun",
+    "status": "Занято",
+    "x": 2468.34,
+    "y": -1376.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21968,7 +21992,7 @@
     "status": "Аукцион",
     "x": 351.729,
     "y": -1197.13,
-    "price": 7000000000,
+    "price": 6000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21996,18 +22020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 694,
-    "server_id": 24,
-    "type": "house",
-    "name": "Gymhouse2",
-    "owner": "Metan_Solo",
-    "status": "Аукцион",
-    "x": 1325.5,
-    "y": 2567.57,
-    "price": 700000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 980,
     "server_id": 24,
     "type": "house",
@@ -22029,30 +22041,6 @@
     "x": 2556.37,
     "y": 87.7666,
     "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1703,
-    "server_id": 24,
-    "type": "house",
-    "name": "мой house",
-    "owner": "Kedroviy_Oreh",
-    "status": "Аукцион",
-    "x": 2468.34,
-    "y": -1376.27,
-    "price": 1123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 98,
-    "server_id": 24,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Toru_Davenport",
-    "status": "Аукцион",
-    "x": 2016.15,
-    "y": 1149.97,
-    "price": 114995,
     "district": "Сан-Андреас"
   },
   {
@@ -24408,6 +24396,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 98,
+    "server_id": 24,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Toru_Davenport",
+    "status": "Занято",
+    "x": 2016.15,
+    "y": 1149.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 99,
     "server_id": 24,
     "type": "business",
@@ -26236,7 +26236,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Электрокомпания",
-    "owner": "Black_Lotus",
+    "owner": "Lucky_May",
     "status": "Занято",
     "x": -1679.37,
     "y": -27.955,

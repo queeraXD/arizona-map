@@ -8676,18 +8676,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 723,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Abdurhan_Ahmedov",
-    "status": "Занято",
-    "x": 1652.34,
-    "y": 2709.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 724,
     "server_id": 17,
     "type": "house",
@@ -11516,18 +11504,6 @@
     "status": "Занято",
     "x": -2158.75,
     "y": 786.197,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 960,
-    "server_id": 17,
-    "type": "house",
-    "name": "....:::Мой Домик:::....",
-    "owner": "Gennadiy_Shrek",
-    "status": "Занято",
-    "x": -2158.94,
-    "y": 769.9379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15192,18 +15168,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1266,
-    "server_id": 17,
-    "type": "house",
-    "name": "гараж+подвал будет",
-    "owner": "Gennadiy_Shrek",
-    "status": "Занято",
-    "x": -2477.93,
-    "y": 1264.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1267,
     "server_id": 17,
     "type": "house",
@@ -18784,7 +18748,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Diego_Krox",
+    "owner": "Xanax_XR",
     "status": "Занято",
     "x": 1849.39,
     "y": -2028.42,
@@ -22476,15 +22440,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 219,
+    "id": 723,
     "server_id": 17,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Matthew_McDuck",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Abdurhan_Ahmedov",
     "status": "Аукцион",
-    "x": 2824.77,
-    "y": 1290.68,
-    "price": 8000000000,
+    "x": 1652.34,
+    "y": 2709.34,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 960,
+    "server_id": 17,
+    "type": "house",
+    "name": "....:::Мой Домик:::....",
+    "owner": "Gennadiy_Shrek",
+    "status": "Аукцион",
+    "x": -2158.94,
+    "y": 769.9379,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1266,
+    "server_id": 17,
+    "type": "house",
+    "name": "подвал+гараж+5комнат",
+    "owner": "Gennadiy_Shrek",
+    "status": "Аукцион",
+    "x": -2477.93,
+    "y": 1264.12,
+    "price": 420123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25676,6 +25664,18 @@
     "status": "Занято",
     "x": 1500.24,
     "y": -1628.79,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 219,
+    "server_id": 17,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Enfants_Deprimes",
+    "status": "Занято",
+    "x": 2824.77,
+    "y": 1290.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
