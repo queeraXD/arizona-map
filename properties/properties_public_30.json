@@ -5424,18 +5424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 452,
-    "server_id": 30,
-    "type": "house",
-    "name": "HOME",
-    "owner": "Danil_Drova",
-    "status": "Занято",
-    "x": 1844.5,
-    "y": 718.656,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 453,
     "server_id": 30,
     "type": "house",
@@ -5576,6 +5564,18 @@
     "status": "Занято",
     "x": 2228.91,
     "y": 654.7739,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 465,
+    "server_id": 30,
+    "type": "house",
+    "name": "Халупа Yuki",
+    "owner": "Yuki_Fud",
+    "status": "Занято",
+    "x": 2258.07,
+    "y": 655.861,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10648,7 +10648,7 @@
     "server_id": 30,
     "type": "house",
     "name": "звуки поцелуев",
-    "owner": "Per_Fik",
+    "owner": "Per_Sik",
     "status": "Занято",
     "x": -2132.23,
     "y": -2511.13,
@@ -11452,7 +11452,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Шалаш танкограда",
-    "owner": "Savva_Tankograd",
+    "owner": "Takeru_Segawa",
     "status": "Занято",
     "x": -2159.6,
     "y": 946.984,
@@ -14696,18 +14696,6 @@
     "status": "Занято",
     "x": -2477.23,
     "y": 1281.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1226,
-    "server_id": 30,
-    "type": "house",
-    "name": "набор арх,крипто",
-    "owner": "Kik_Men",
-    "status": "Занято",
-    "x": -2477.91,
-    "y": 1301.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20703,7 +20691,7 @@
     "id": 1730,
     "server_id": 30,
     "type": "house",
-    "name": "Woods",
+    "name": "Woods мойtik tok-@maksonchuk.ex",
     "owner": "Maks_Woods",
     "status": "Занято",
     "x": 1760.17,
@@ -22752,15 +22740,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 465,
+    "id": 452,
     "server_id": 30,
     "type": "house",
-    "name": "Халупа Yuki",
-    "owner": "Yuki_Fud",
+    "name": "HOME",
+    "owner": "Danil_Drova",
     "status": "Аукцион",
-    "x": 2258.07,
-    "y": 655.861,
+    "x": 1844.5,
+    "y": 718.656,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1226,
+    "server_id": 30,
+    "type": "house",
+    "name": "набор арх,крипто",
+    "owner": "Kik_Men",
+    "status": "Аукцион",
+    "x": -2477.91,
+    "y": 1301.16,
     "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 253,
+    "server_id": 30,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Walter_Brayen",
+    "status": "Аукцион",
+    "x": 441.766,
+    "y": 313.07,
+    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -24212,18 +24224,6 @@
     "status": "Занято",
     "x": -2975.86,
     "y": 623.271,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 253,
-    "server_id": 30,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Walter_Brayen",
-    "status": "Занято",
-    "x": 441.766,
-    "y": 313.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
