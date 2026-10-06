@@ -12180,18 +12180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1019,
-    "server_id": 32,
-    "type": "house",
-    "name": "crack house",
-    "owner": "Blake_Garcia",
-    "status": "Занято",
-    "x": -2542.09,
-    "y": 967.7059,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1020,
     "server_id": 32,
     "type": "house",
@@ -13072,7 +13060,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Bergstrom Life",
-    "owner": "Daryll_Dixon",
+    "owner": "Apathy_Jan",
     "status": "Занято",
     "x": -2192.58,
     "y": 903.109,
@@ -16532,18 +16520,6 @@
     "status": "Занято",
     "x": 1115.72,
     "y": -1562.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1382,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Soji_McCloud",
-    "status": "Занято",
-    "x": 1115.72,
-    "y": -1570.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22488,6 +22464,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1019,
+    "server_id": 32,
+    "type": "house",
+    "name": "crack house",
+    "owner": "Blake_Garcia",
+    "status": "Аукцион",
+    "x": -2542.09,
+    "y": 967.7059,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1382,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Soji_McCloud",
+    "status": "Аукцион",
+    "x": 1115.72,
+    "y": -1570.0,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1622,
     "server_id": 32,
     "type": "house",
@@ -22521,66 +22521,6 @@
     "x": 2626.59,
     "y": 1968.83,
     "price": 800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 70,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Winter_Arc",
-    "status": "Аукцион",
-    "x": 2515.7,
-    "y": 1088.17,
-    "price": 140000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 77,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Anton_Mas",
-    "status": "Аукцион",
-    "x": -227.385,
-    "y": 2711.95,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 105,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Anton_Mas",
-    "status": "Аукцион",
-    "x": -2588.35,
-    "y": 59.904,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 200,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Anton_Mas",
-    "status": "Аукцион",
-    "x": -1983.44,
-    "y": 127.66,
-    "price": 165000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 208,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Anton_Mas",
-    "status": "Аукцион",
-    "x": 194.751,
-    "y": -273.823,
-    "price": 170000,
     "district": "Сан-Андреас"
   },
   {
@@ -23184,6 +23124,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 70,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Winter_Arc",
+    "status": "Занято",
+    "x": 2515.7,
+    "y": 1088.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 71,
     "server_id": 32,
     "type": "business",
@@ -23256,6 +23208,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 77,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Anton_Mas",
+    "status": "Занято",
+    "x": -227.385,
+    "y": 2711.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 101,
     "server_id": 32,
     "type": "business",
@@ -23300,6 +23264,18 @@
     "status": "Занято",
     "x": -1990.88,
     "y": 807.549,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 105,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Anton_Mas",
+    "status": "Занято",
+    "x": -2588.35,
+    "y": 59.904,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25584,6 +25560,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 200,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Anton_Mas",
+    "status": "Занято",
+    "x": -1983.44,
+    "y": 127.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 201,
     "server_id": 32,
     "type": "business",
@@ -25664,6 +25652,18 @@
     "status": "Занято",
     "x": 196.119,
     "y": -116.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 208,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Anton_Mas",
+    "status": "Занято",
+    "x": 194.751,
+    "y": -273.823,
     "price": 0,
     "district": "Сан-Андреас"
   },

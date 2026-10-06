@@ -10776,18 +10776,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 900,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Meo_Wizard",
-    "status": "Занято",
-    "x": -2069.44,
-    "y": -2561.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 901,
     "server_id": 4,
     "type": "house",
@@ -12488,6 +12476,18 @@
     "status": "Занято",
     "x": 1781.78,
     "y": 2746.96,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1043,
+    "server_id": 4,
+    "type": "house",
+    "name": "farmila element",
+    "owner": "Vasya_Panr",
+    "status": "Занято",
+    "x": 1789.35,
+    "y": 2732.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23868,6 +23868,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1992,
+    "server_id": 4,
+    "type": "house",
+    "name": "Хата Сутенёра ",
+    "owner": "Vasya_Panr",
+    "status": "Занято",
+    "x": 2473.16,
+    "y": -1383.37,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1993,
     "server_id": 4,
     "type": "house",
@@ -25236,51 +25248,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1043,
+    "id": 900,
     "server_id": 4,
     "type": "house",
-    "name": "farmila element",
-    "owner": "Vasya_Panr",
-    "status": "Аукцион",
-    "x": 1789.35,
-    "y": 2732.96,
-    "price": 320000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1992,
-    "server_id": 4,
-    "type": "house",
-    "name": "Хата Сутенёра ",
-    "owner": "Vasya_Panr",
-    "status": "Аукцион",
-    "x": 2473.16,
-    "y": -1383.37,
-    "price": 320000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 218,
-    "server_id": 4,
-    "type": "business",
-    "name": "Ларек с уличной едой",
+    "name": "Дом",
     "owner": "Meo_Wizard",
     "status": "Аукцион",
-    "x": 1500.24,
-    "y": -1628.79,
-    "price": 160000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 308,
-    "server_id": 4,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Gnoy_Shakur",
-    "status": "Аукцион",
-    "x": -1992.936,
-    "y": 583.4068,
-    "price": 280000,
+    "x": -2069.44,
+    "y": -2561.04,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -28464,6 +28440,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 218,
+    "server_id": 4,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Meo_Wizard",
+    "status": "Занято",
+    "x": 1500.24,
+    "y": -1628.79,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 219,
     "server_id": 4,
     "type": "business",
@@ -29012,6 +29000,18 @@
     "status": "Занято",
     "x": -1996.361,
     "y": -50.6903,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 308,
+    "server_id": 4,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Gnoy_Shakur",
+    "status": "Занято",
+    "x": -1992.936,
+    "y": 583.4068,
     "price": 0,
     "district": "Сан-Андреас"
   },

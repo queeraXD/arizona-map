@@ -7404,6 +7404,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 617,
+    "server_id": 1,
+    "type": "house",
+    "name": "Хата Гонни",
+    "owner": "Gonny_Montana",
+    "status": "Занято",
+    "x": -881.726,
+    "y": 1532.36,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 618,
     "server_id": 1,
     "type": "house",
@@ -8036,18 +8048,6 @@
     "status": "Занято",
     "x": 1084.33,
     "y": 2031.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 671,
-    "server_id": 1,
-    "type": "house",
-    "name": "For Free 3 Улучшение депозита",
-    "owner": "Morg_Feber",
-    "status": "Занято",
-    "x": 1085.88,
-    "y": 2000.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12060,18 +12060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1007,
-    "server_id": 1,
-    "type": "house",
-    "name": "*-| F.Shumer |-*",
-    "owner": "Morg_Feber",
-    "status": "Занято",
-    "x": -2017.81,
-    "y": 849.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1008,
     "server_id": 1,
     "type": "house",
@@ -14744,18 +14732,6 @@
     "status": "Занято",
     "x": -2630.92,
     "y": 252.751,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1232,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Morg_Feber",
-    "status": "Занято",
-    "x": -2632.1,
-    "y": 274.587,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24144,15 +24120,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 617,
+    "id": 671,
     "server_id": 1,
     "type": "house",
-    "name": "Хата Гонни",
-    "owner": "Gonny_Montana",
+    "name": "For Free 3 Улучшение депозита",
+    "owner": "Morg_Feber",
     "status": "Аукцион",
-    "x": -881.726,
-    "y": 1532.36,
-    "price": 1700000000,
+    "x": 1085.88,
+    "y": 2000.85,
+    "price": 2000000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1007,
+    "server_id": 1,
+    "type": "house",
+    "name": "*-| F.Shumer |-*",
+    "owner": "Morg_Feber",
+    "status": "Аукцион",
+    "x": -2017.81,
+    "y": 849.32,
+    "price": 2000000123,
     "district": "Сан-Андреас"
   },
   {
@@ -24165,6 +24153,18 @@
     "x": -2887.55,
     "y": 1002.02,
     "price": 1800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1232,
+    "server_id": 1,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Morg_Feber",
+    "status": "Аукцион",
+    "x": -2632.1,
+    "y": 274.587,
+    "price": 2000000123,
     "district": "Сан-Андреас"
   },
   {

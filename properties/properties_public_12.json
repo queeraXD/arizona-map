@@ -928,7 +928,7 @@
     "server_id": 12,
     "type": "house",
     "name": "#attwood",
-    "owner": "Rinat_Attwood",
+    "owner": "Yarik_Papiros",
     "status": "Занято",
     "x": 2308.85,
     "y": -1715.36,
@@ -6444,6 +6444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 537,
+    "server_id": 12,
+    "type": "house",
+    "name": "333",
+    "owner": "Fernando_Kleno",
+    "status": "Занято",
+    "x": 2066.1,
+    "y": 2721.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 538,
     "server_id": 12,
     "type": "house",
@@ -9060,18 +9072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 756,
-    "server_id": 12,
-    "type": "house",
-    "name": "lixac",
-    "owner": "Bodya_Tik",
-    "status": "Занято",
-    "x": -2731.47,
-    "y": 723.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 757,
     "server_id": 12,
     "type": "house",
@@ -10376,18 +10376,6 @@
     "status": "Занято",
     "x": -269.1889,
     "y": 2504.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 866,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 6",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -340.7749,
-    "y": 2565.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12656,18 +12644,6 @@
     "status": "Занято",
     "x": -1901.0,
     "y": 1203.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1056,
-    "server_id": 12,
-    "type": "house",
-    "name": "ПРОДАЖА ",
-    "owner": "Fullstreet_Vendetta",
-    "status": "Занято",
-    "x": -1927.71,
-    "y": 1252.78,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23796,15 +23772,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 537,
+    "id": 756,
     "server_id": 12,
     "type": "house",
-    "name": "333",
-    "owner": "Fernando_Kleno",
+    "name": "lixac",
+    "owner": "Bodya_Tik",
     "status": "Аукцион",
-    "x": 2066.1,
-    "y": 2721.71,
-    "price": 150000000,
+    "x": -2731.47,
+    "y": 723.703,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 866,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 6",
+    "owner": "Dylan_Broker",
+    "status": "Аукцион",
+    "x": -340.7749,
+    "y": 2565.41,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1056,
+    "server_id": 12,
+    "type": "house",
+    "name": "ПРОДАЖА ",
+    "owner": "Fullstreet_Vendetta",
+    "status": "Аукцион",
+    "x": -1927.71,
+    "y": 1252.78,
+    "price": 250000123,
     "district": "Сан-Андреас"
   },
   {
