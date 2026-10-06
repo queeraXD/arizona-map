@@ -4824,18 +4824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
-    "status": "Занято",
-    "x": 2448.44,
-    "y": -11.0635,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 403,
     "server_id": 7,
     "type": "house",
@@ -6320,18 +6308,6 @@
     "status": "Занято",
     "x": 2049.55,
     "y": 2763.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 527,
-    "server_id": 7,
-    "type": "house",
-    "name": "Dream House",
-    "owner": "Milana_MacLeod",
-    "status": "Занято",
-    "x": 2039.57,
-    "y": 2766.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10236,18 +10212,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 853,
-    "server_id": 7,
-    "type": "house",
-    "name": "ХАТА КЕНТАФАРИКА",
-    "owner": "Linginian_Thorn",
-    "status": "Занято",
-    "x": -2169.8,
-    "y": 1027.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 854,
     "server_id": 7,
     "type": "house",
@@ -11012,6 +10976,18 @@
     "status": "Занято",
     "x": -2159.7,
     "y": 965.458,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 918,
+    "server_id": 7,
+    "type": "house",
+    "name": "Каменоломня",
+    "owner": "Absolute_Solver",
+    "status": "Занято",
+    "x": -2159.51,
+    "y": 983.945,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12632,6 +12608,18 @@
     "status": "Занято",
     "x": 1816.28,
     "y": -1292.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1054,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dmitriy_Namuro",
+    "status": "Занято",
+    "x": 1809.42,
+    "y": -1299.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15012,18 +15000,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1253,
-    "server_id": 7,
-    "type": "house",
-    "name": "PadlaMerc House ( чё? )",
-    "owner": "Gatila_Sebekov",
-    "status": "Занято",
-    "x": -2372.56,
-    "y": 834.367,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1254,
     "server_id": 7,
     "type": "house",
@@ -15320,18 +15296,6 @@
     "status": "Занято",
     "x": -2884.51,
     "y": 995.6619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1279,
-    "server_id": 7,
-    "type": "house",
-    "name": "перекупчино",
-    "owner": "Gatila_Sebekov",
-    "status": "Занято",
-    "x": -2901.63,
-    "y": 1033.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16900,7 +16864,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Дом",
-    "owner": "Buyno_Golova",
+    "owner": "RazvaI_Kabin",
     "status": "Занято",
     "x": 977.5079,
     "y": -771.7169,
@@ -22284,18 +22248,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1859,
-    "server_id": 7,
-    "type": "house",
-    "name": "Mining by Guretto",
-    "owner": "Gatila_Sebekov",
-    "status": "Занято",
-    "x": 2003.68,
-    "y": 2163.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1860,
     "server_id": 7,
     "type": "house",
@@ -25524,27 +25476,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 918,
-    "server_id": 7,
-    "type": "house",
-    "name": "Каменоломня",
-    "owner": "Absolute_Solver",
-    "status": "Аукцион",
-    "x": -2159.51,
-    "y": 983.945,
-    "price": 4800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1054,
+    "id": 402,
     "server_id": 7,
     "type": "house",
     "name": "Дом",
-    "owner": "Dmitriy_Namuro",
+    "owner": "Vladimir_Kolyaka",
     "status": "Аукцион",
-    "x": 1809.42,
-    "y": -1299.34,
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 5999999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 527,
+    "server_id": 7,
+    "type": "house",
+    "name": "Dream House",
+    "owner": "Milana_MacLeod",
+    "status": "Аукцион",
+    "x": 2039.57,
+    "y": 2766.53,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 853,
+    "server_id": 7,
+    "type": "house",
+    "name": "ХАТА КЕНТАФАРИКА",
+    "owner": "Linginian_Thorn",
+    "status": "Аукцион",
+    "x": -2169.8,
+    "y": 1027.44,
     "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1253,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gatila_Sebekov",
+    "status": "Аукцион",
+    "x": -2372.56,
+    "y": 834.367,
+    "price": 3700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1279,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gatila_Sebekov",
+    "status": "Аукцион",
+    "x": -2901.63,
+    "y": 1033.53,
+    "price": 3800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1859,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gatila_Sebekov",
+    "status": "Аукцион",
+    "x": 2003.68,
+    "y": 2163.5,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {

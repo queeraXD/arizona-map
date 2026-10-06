@@ -2148,18 +2148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 179,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом Йоу :uf259:",
-    "owner": "Santiago_Fearless",
-    "status": "Занято",
-    "x": 656.023,
-    "y": -1636.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 180,
     "server_id": 9,
     "type": "house",
@@ -7184,18 +7172,6 @@
     "status": "Занято",
     "x": -1466.16,
     "y": 2693.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 599,
-    "server_id": 9,
-    "type": "house",
-    "name": "Spirit House №3",
-    "owner": "West_Spirit",
-    "status": "Занято",
-    "x": 161.5639,
-    "y": -1455.8,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14976,30 +14952,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1249,
-    "server_id": 9,
-    "type": "house",
-    "name": "The Expendables Domination",
-    "owner": "Benjamin_Scorseze",
-    "status": "Занято",
-    "x": -2791.76,
-    "y": -41.8148,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1250,
-    "server_id": 9,
-    "type": "house",
-    "name": "The Expendables Domination",
-    "owner": "Benjamin_Scorseze",
-    "status": "Занято",
-    "x": -2791.59,
-    "y": -35.8053,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1251,
     "server_id": 9,
     "type": "house",
@@ -22500,18 +22452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1879,
-    "server_id": 9,
-    "type": "house",
-    "name": "Persgang",
-    "owner": "Unwritten_Reply",
-    "status": "Занято",
-    "x": 469.9899,
-    "y": 1437.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1880,
     "server_id": 9,
     "type": "house",
@@ -23916,6 +23856,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 179,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом Йоу :uf259:",
+    "owner": "Santiago_Fearless",
+    "status": "Аукцион",
+    "x": 656.023,
+    "y": -1636.08,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 599,
+    "server_id": 9,
+    "type": "house",
+    "name": "Spirit House №3",
+    "owner": "West_Spirit",
+    "status": "Аукцион",
+    "x": 161.5639,
+    "y": -1455.8,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1249,
+    "server_id": 9,
+    "type": "house",
+    "name": "The Expendables Domination",
+    "owner": "Benjamin_Scorseze",
+    "status": "Аукцион",
+    "x": -2791.76,
+    "y": -41.8148,
+    "price": 2950000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1250,
+    "server_id": 9,
+    "type": "house",
+    "name": "The Expendables Domination",
+    "owner": "Benjamin_Scorseze",
+    "status": "Аукцион",
+    "x": -2791.59,
+    "y": -35.8053,
+    "price": 2950000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1447,
     "server_id": 9,
     "type": "house",
@@ -23924,7 +23912,19 @@
     "status": "Аукцион",
     "x": 1646.35,
     "y": 2569.59,
-    "price": 2000000000,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1879,
+    "server_id": 9,
+    "type": "house",
+    "name": "Persgang",
+    "owner": "Unwritten_Reply",
+    "status": "Аукцион",
+    "x": 469.9899,
+    "y": 1437.44,
+    "price": 800123123,
     "district": "Сан-Андреас"
   },
   {
@@ -24568,7 +24568,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Artem_Cuerto",
+    "owner": "Normalnyi_Paren",
     "status": "Занято",
     "x": 1657.04,
     "y": 1741.65,
@@ -27208,7 +27208,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Автосалон средний",
-    "owner": "Frid_Lovelly",
+    "owner": "Dota_Richy",
     "status": "Занято",
     "x": 959.632,
     "y": 2089.59,
