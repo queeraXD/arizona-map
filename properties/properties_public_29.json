@@ -11500,7 +11500,7 @@
     "server_id": 29,
     "type": "house",
     "name": "marenno and belvkha",
-    "owner": "Farmilla_Forbes",
+    "owner": "Vitalya_Bob",
     "status": "Занято",
     "x": -2229.52,
     "y": 934.32,
@@ -12140,18 +12140,6 @@
     "status": "Занято",
     "x": -2523.81,
     "y": 1141.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1012,
-    "server_id": 29,
-    "type": "house",
-    "name": "Ушел до 15.10.26",
-    "owner": "Slishu_Forbs",
-    "status": "Занято",
-    "x": -2534.64,
-    "y": 1143.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12968,6 +12956,18 @@
     "status": "Занято",
     "x": -2876.04,
     "y": 980.9829,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1081,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dean_Glock",
+    "status": "Занято",
+    "x": -2853.21,
+    "y": 947.4849,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18804,18 +18804,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1569,
-    "server_id": 29,
-    "type": "house",
-    "name": "AltaHouse",
-    "owner": "More_Alta",
-    "status": "Занято",
-    "x": 2147.79,
-    "y": -1366.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1570,
     "server_id": 29,
     "type": "house",
@@ -20760,18 +20748,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1738,
-    "server_id": 29,
-    "type": "house",
-    "name": "AltaHouse",
-    "owner": "More_Alta",
-    "status": "Занято",
-    "x": -77.3582,
-    "y": 991.973,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1739,
     "server_id": 29,
     "type": "house",
@@ -21132,15 +21108,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1081,
+    "id": 1012,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
-    "owner": "Zefir_Trouble",
+    "name": "Ушел до 15.10.26",
+    "owner": "Slishu_Forbs",
     "status": "Аукцион",
-    "x": -2853.21,
-    "y": 947.4849,
-    "price": 500000000,
+    "x": -2534.64,
+    "y": 1143.39,
+    "price": 400123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1569,
+    "server_id": 29,
+    "type": "house",
+    "name": "AltaHouse",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2147.79,
+    "y": -1366.12,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1738,
+    "server_id": 29,
+    "type": "house",
+    "name": "AltaHouse",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -77.3582,
+    "y": 991.973,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 155,
+    "server_id": 29,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Trap_Meff",
+    "status": "Аукцион",
+    "x": -2166.173,
+    "y": 243.5013,
+    "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 467,
+    "server_id": 29,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Trap_Meff",
+    "status": "Аукцион",
+    "x": -2015.06,
+    "y": -2.1872,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -23760,18 +23784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 155,
-    "server_id": 29,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Trap_Meff",
-    "status": "Занято",
-    "x": -2166.173,
-    "y": 243.5013,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 156,
     "server_id": 29,
     "type": "business",
@@ -23900,18 +23912,6 @@
     "status": "Занято",
     "x": 1365.16,
     "y": -1859.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 467,
-    "server_id": 29,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Trap_Meff",
-    "status": "Занято",
-    "x": -2015.06,
-    "y": -2.1872,
     "price": 0,
     "district": "Сан-Андреас"
   },

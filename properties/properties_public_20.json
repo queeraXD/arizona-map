@@ -1084,7 +1084,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "Troy_FIoyd",
+    "owner": "Prince_Moretti",
     "status": "Занято",
     "x": 2017.75,
     "y": -1703.38,
@@ -8796,18 +8796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 733,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "Rjey_Javelin",
-    "status": "Занято",
-    "x": -2904.9,
-    "y": 1178.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 734,
     "server_id": 20,
     "type": "house",
@@ -9876,18 +9864,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 823,
-    "server_id": 20,
-    "type": "house",
-    "name": "wind ranger ebt",
-    "owner": "Rjey_Javelin",
-    "status": "Занято",
-    "x": -2688.28,
-    "y": -118.0049,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 824,
     "server_id": 20,
     "type": "house",
@@ -10496,18 +10472,6 @@
     "status": "Занято",
     "x": -279.2569,
     "y": 2554.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 875,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zmey_Gorinich",
-    "status": "Занято",
-    "x": -236.106,
-    "y": 2540.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19072,7 +19036,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Продам ",
-    "owner": "Sakura_Awersense",
+    "owner": "Rjey_Javelin",
     "status": "Занято",
     "x": 2824.04,
     "y": 2268.71,
@@ -20784,18 +20748,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1732,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "Shuyali_Yato",
-    "status": "Занято",
-    "x": 2468.31,
-    "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1733,
     "server_id": 20,
     "type": "house",
@@ -20828,18 +20780,6 @@
     "status": "Занято",
     "x": 2473.15,
     "y": -1366.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1736,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "Shuyali_Yato",
-    "status": "Занято",
-    "x": 2473.14,
-    "y": -1376.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21284,6 +21224,18 @@
     "status": "Занято",
     "x": 1796.59,
     "y": 2803.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1774,
+    "server_id": 20,
+    "type": "house",
+    "name": "NIko",
+    "owner": "Niko_Jetty",
+    "status": "Занято",
+    "x": 1786.74,
+    "y": 2767.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22356,15 +22308,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1774,
+    "id": 733,
     "server_id": 20,
     "type": "house",
-    "name": ":uf259: broodskie :uf259:",
-    "owner": "Moto_Vladik",
+    "name": "retribution",
+    "owner": "Rjey_Javelin",
     "status": "Аукцион",
-    "x": 1786.74,
-    "y": 2767.29,
-    "price": 130000000,
+    "x": -2904.9,
+    "y": 1178.92,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 823,
+    "server_id": 20,
+    "type": "house",
+    "name": "wind ranger ebt",
+    "owner": "Rjey_Javelin",
+    "status": "Аукцион",
+    "x": -2688.28,
+    "y": -118.0049,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 875,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zmey_Gorinich",
+    "status": "Аукцион",
+    "x": -236.106,
+    "y": 2540.2,
+    "price": 400100100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1732,
+    "server_id": 20,
+    "type": "house",
+    "name": "retribution",
+    "owner": "Shuyali_Yato",
+    "status": "Аукцион",
+    "x": 2468.31,
+    "y": -1366.2,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1736,
+    "server_id": 20,
+    "type": "house",
+    "name": "retribution",
+    "owner": "Shuyali_Yato",
+    "status": "Аукцион",
+    "x": 2473.14,
+    "y": -1376.27,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {

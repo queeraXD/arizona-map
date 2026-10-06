@@ -9468,6 +9468,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 789,
+    "server_id": 12,
+    "type": "house",
+    "name": "Берлога ПГАТК",
+    "owner": "Creeper_Fam",
+    "status": "Занято",
+    "x": -2580.91,
+    "y": 920.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 790,
     "server_id": 12,
     "type": "house",
@@ -10380,18 +10392,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 866,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 6",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -340.7749,
-    "y": 2565.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 867,
     "server_id": 12,
     "type": "house",
@@ -10412,18 +10412,6 @@
     "status": "Занято",
     "x": -313.3299,
     "y": 2567.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 869,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 5",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -322.6199,
-    "y": 2554.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11400,18 +11388,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 951,
-    "server_id": 12,
-    "type": "house",
-    "name": "деп условия шкаф 3ккк",
-    "owner": "Abdurahman_Salam",
-    "status": "Занято",
-    "x": -2230.74,
-    "y": 1027.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 952,
     "server_id": 12,
     "type": "house",
@@ -12044,18 +12020,6 @@
     "status": "Занято",
     "x": -2396.78,
     "y": 1132.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1005,
-    "server_id": 12,
-    "type": "house",
-    "name": "Dead House",
-    "owner": "Abdurahman_Salam",
-    "status": "Занято",
-    "x": -2461.79,
-    "y": 1141.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23808,15 +23772,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 789,
+    "id": 866,
     "server_id": 12,
     "type": "house",
-    "name": "Берлога ПГАТК",
-    "owner": "Creeper_Fam",
+    "name": "Broker 6",
+    "owner": "Dylan_Broker",
     "status": "Аукцион",
-    "x": -2580.91,
-    "y": 920.38,
-    "price": 2000,
+    "x": -340.7749,
+    "y": 2565.41,
+    "price": 1285000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 869,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 5",
+    "owner": "Dylan_Broker",
+    "status": "Аукцион",
+    "x": -322.6199,
+    "y": 2554.17,
+    "price": 1285000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 951,
+    "server_id": 12,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Abdurahman_Salam",
+    "status": "Аукцион",
+    "x": -2230.74,
+    "y": 1027.64,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1005,
+    "server_id": 12,
+    "type": "house",
+    "name": "Dead House",
+    "owner": "Abdurahman_Salam",
+    "status": "Аукцион",
+    "x": -2461.79,
+    "y": 1141.31,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {

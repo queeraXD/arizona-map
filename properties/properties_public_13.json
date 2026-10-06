@@ -9324,6 +9324,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 777,
+    "server_id": 13,
+    "type": "house",
+    "name": "ревиндэл",
+    "owner": "method",
+    "status": "Занято",
+    "x": -2548.71,
+    "y": 819.799,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 778,
     "server_id": 13,
     "type": "house",
@@ -12656,18 +12668,6 @@
     "status": "Занято",
     "x": -1901.0,
     "y": 1203.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1056,
-    "server_id": 13,
-    "type": "house",
-    "name": "Pahan House",
-    "owner": "Denis_Savochkin",
-    "status": "Занято",
-    "x": -1927.71,
-    "y": 1252.78,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20592,18 +20592,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1717,
-    "server_id": 13,
-    "type": "house",
-    "name": "Арз Тавер",
-    "owner": "Aiden_Venum",
-    "status": "Занято",
-    "x": 1110.5,
-    "y": -1578.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1718,
     "server_id": 13,
     "type": "house",
@@ -22152,18 +22140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1848,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Atlantic_Runner",
-    "status": "Занято",
-    "x": 2608.51,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1849,
     "server_id": 13,
     "type": "house",
@@ -23280,15 +23256,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 777,
+    "id": 1056,
     "server_id": 13,
     "type": "house",
-    "name": "ревиндэл",
-    "owner": "method",
+    "name": "Pahan House",
+    "owner": "Denis_Savochkin",
     "status": "Аукцион",
-    "x": -2548.71,
-    "y": 819.799,
-    "price": 250123123,
+    "x": -1927.71,
+    "y": 1252.78,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1717,
+    "server_id": 13,
+    "type": "house",
+    "name": "Арз Тавер",
+    "owner": "Aiden_Venum",
+    "status": "Аукцион",
+    "x": 1110.5,
+    "y": -1578.45,
+    "price": 25001,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1848,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Atlantic_Runner",
+    "status": "Аукцион",
+    "x": 2608.51,
+    "y": 2195.56,
+    "price": 30000000,
     "district": "Сан-Андреас"
   },
   {

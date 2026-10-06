@@ -3648,6 +3648,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 305,
+    "server_id": 23,
+    "type": "house",
+    "name": "MMM",
+    "owner": "Kawasaki_Ninja",
+    "status": "Занято",
+    "x": 2060.47,
+    "y": -1076.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 306,
     "server_id": 23,
     "type": "house",
@@ -9948,6 +9960,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 832,
+    "server_id": 23,
+    "type": "house",
+    "name": "Shady House",
+    "owner": "Sasha_Samosvalov",
+    "status": "Занято",
+    "x": -2234.38,
+    "y": 888.869,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 833,
     "server_id": 23,
     "type": "house",
@@ -10124,18 +10148,6 @@
     "status": "Занято",
     "x": -2172.91,
     "y": 1080.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 848,
-    "server_id": 23,
-    "type": "house",
-    "name": "Притон дровосека",
-    "owner": "Drovosek_Doberman",
-    "status": "Занято",
-    "x": -2157.62,
-    "y": 1117.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17712,18 +17724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1484,
-    "server_id": 23,
-    "type": "house",
-    "name": "связь со мной /call 247",
-    "owner": "Laptopik_Tuzikss",
-    "status": "Занято",
-    "x": 981.5859,
-    "y": 2414.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1485,
     "server_id": 23,
     "type": "house",
@@ -19196,18 +19196,6 @@
     "status": "Занято",
     "x": 2537.03,
     "y": 1236.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1608,
-    "server_id": 23,
-    "type": "house",
-    "name": "Притон дровосека",
-    "owner": "Drovosek_Doberman",
-    "status": "Занято",
-    "x": 2541.52,
-    "y": 1232.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21096,18 +21084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 305,
-    "server_id": 23,
-    "type": "house",
-    "name": "MMM",
-    "owner": "Kawasaki_Ninja",
-    "status": "Аукцион",
-    "x": 2060.47,
-    "y": -1076.7,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 412,
     "server_id": 23,
     "type": "house",
@@ -21116,19 +21092,19 @@
     "status": "Аукцион",
     "x": 1435.43,
     "y": 334.625,
-    "price": 250000000,
+    "price": 220000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 832,
+    "id": 848,
     "server_id": 23,
     "type": "house",
-    "name": "Shady House",
-    "owner": "Kawasaki_Ninja",
+    "name": "Притон дровосека",
+    "owner": "Drovosek_Doberman",
     "status": "Аукцион",
-    "x": -2234.38,
-    "y": 888.869,
-    "price": 150000000,
+    "x": -2157.62,
+    "y": 1117.52,
+    "price": 250123123,
     "district": "Сан-Андреас"
   },
   {
@@ -21136,11 +21112,11 @@
     "server_id": 23,
     "type": "house",
     "name": "// photo squad // ",
-    "owner": "Kawasaki_Ninja",
+    "owner": "Desp_Palladin",
     "status": "Аукцион",
     "x": -2102.68,
     "y": 1160.96,
-    "price": 170000000,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -21164,7 +21140,67 @@
     "status": "Аукцион",
     "x": -2590.53,
     "y": -186.0579,
-    "price": 11000,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1484,
+    "server_id": 23,
+    "type": "house",
+    "name": "связь со мной /call 247",
+    "owner": "Laptopik_Tuzikss",
+    "status": "Аукцион",
+    "x": 981.5859,
+    "y": 2414.26,
+    "price": 320000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1608,
+    "server_id": 23,
+    "type": "house",
+    "name": "Притон дровосека",
+    "owner": "Drovosek_Doberman",
+    "status": "Аукцион",
+    "x": 2541.52,
+    "y": 1232.98,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 13,
+    "server_id": 23,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Billy_Miligan",
+    "status": "Аукцион",
+    "x": 2244.42,
+    "y": -1665.12,
+    "price": 190000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 214,
+    "server_id": 23,
+    "type": "business",
+    "name": "Концертный зал",
+    "owner": "Billy_Miligan",
+    "status": "Аукцион",
+    "x": 648.438,
+    "y": -1357.41,
+    "price": 190000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 311,
+    "server_id": 23,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Billy_Miligan",
+    "status": "Аукцион",
+    "x": -20.8111,
+    "y": -1548.59,
+    "price": 190000,
     "district": "Сан-Андреас"
   },
   {
@@ -22064,18 +22100,6 @@
     "status": "Занято",
     "x": 695.01,
     "y": -500.134,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 13,
-    "server_id": 23,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Billy_Miligan",
-    "status": "Занято",
-    "x": 2244.42,
-    "y": -1665.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24944,18 +24968,6 @@
     "status": "Занято",
     "x": -1784.542,
     "y": -594.7703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 311,
-    "server_id": 23,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Billy_Miligan",
-    "status": "Занято",
-    "x": -20.8111,
-    "y": -1548.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
