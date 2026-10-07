@@ -424,7 +424,7 @@
     "server_id": 3,
     "type": "house",
     "name": "легендарный дом",
-    "owner": "Ice_Creek",
+    "owner": "Moggnij_Outlaw",
     "status": "Занято",
     "x": 2439.59,
     "y": -1357.21,
@@ -9556,7 +9556,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Дом",
-    "owner": "Piacla_Onda",
+    "owner": "Arseniy_Bizness",
     "status": "Занято",
     "x": -2368.82,
     "y": 711.7169,
@@ -14196,18 +14196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1184,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Geralt_Rivs",
-    "status": "Занято",
-    "x": -2880.75,
-    "y": 797.5689,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1185,
     "server_id": 3,
     "type": "house",
@@ -17664,18 +17652,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1473,
-    "server_id": 3,
-    "type": "house",
-    "name": "SEA",
-    "owner": "Dante_Doc",
-    "status": "Занято",
-    "x": 1873.55,
-    "y": 2784.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1474,
     "server_id": 3,
     "type": "house",
@@ -17888,18 +17864,6 @@
     "status": "Занято",
     "x": 1564.57,
     "y": 2565.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1492,
-    "server_id": 3,
-    "type": "house",
-    "name": "[NightAngel]",
-    "owner": "Ivan_Capelle",
-    "status": "Занято",
-    "x": 1623.4,
-    "y": 2567.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19792,7 +19756,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Pretty Hate Machine",
-    "owner": "Molly_Slynjavaja",
+    "owner": "Cassie_Machine",
     "status": "Занято",
     "x": 2587.4,
     "y": -1233.66,
@@ -21468,6 +21432,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1790,
+    "server_id": 3,
+    "type": "house",
+    "name": "берлога Kide",
+    "owner": "Ron_Kide",
+    "status": "Занято",
+    "x": 2700.21,
+    "y": -1233.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1791,
     "server_id": 3,
     "type": "house",
@@ -21788,18 +21764,6 @@
     "status": "Занято",
     "x": 957.505,
     "y": 2215.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1818,
-    "server_id": 3,
-    "type": "house",
-    "name": "ДОМ-Dima",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": 885.7429,
-    "y": 2267.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24000,15 +23964,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1790,
+    "id": 1184,
     "server_id": 3,
     "type": "house",
-    "name": "берлога Kide",
-    "owner": "Ron_Kide",
+    "name": "Дом",
+    "owner": "Geralt_Rivs",
     "status": "Аукцион",
-    "x": 2700.21,
-    "y": -1233.66,
-    "price": 700000000,
+    "x": -2880.75,
+    "y": 797.5689,
+    "price": 15000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1473,
+    "server_id": 3,
+    "type": "house",
+    "name": "SEA",
+    "owner": "Dante_Doc",
+    "status": "Аукцион",
+    "x": 1873.55,
+    "y": 2784.2,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1492,
+    "server_id": 3,
+    "type": "house",
+    "name": "[NightAngel]",
+    "owner": "Ivan_Capelle",
+    "status": "Аукцион",
+    "x": 1623.4,
+    "y": 2567.34,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1818,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Grafi_Kus",
+    "status": "Аукцион",
+    "x": 885.7429,
+    "y": 2267.83,
+    "price": 20123123,
     "district": "Сан-Андреас"
   },
   {

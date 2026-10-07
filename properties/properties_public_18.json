@@ -3228,18 +3228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 269,
-    "server_id": 18,
-    "type": "house",
-    "name": "Chase Person:house:",
-    "owner": "Chase_Mercy",
-    "status": "Занято",
-    "x": 1195.57,
-    "y": -1010.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 270,
     "server_id": 18,
     "type": "house",
@@ -4424,6 +4412,18 @@
     "status": "Занято",
     "x": 1187.44,
     "y": -1260.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 369,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dead_Lockk",
+    "status": "Занято",
+    "x": 1179.89,
+    "y": -1261.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9660,18 +9660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 806,
-    "server_id": 18,
-    "type": "house",
-    "name": "набор архитектора",
-    "owner": "Morgan_Branigor",
-    "status": "Занято",
-    "x": -2723.93,
-    "y": -105.541,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 807,
     "server_id": 18,
     "type": "house",
@@ -13636,7 +13624,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Zaslon Domination",
-    "owner": "Ethereal_Ocean",
+    "owner": "Vliyanie_Moscow",
     "status": "Занято",
     "x": 276.2399,
     "y": -1620.39,
@@ -22200,27 +22188,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 369,
+    "id": 269,
     "server_id": 18,
     "type": "house",
-    "name": "Дом",
-    "owner": "Dead_Lockk",
+    "name": "Chase Person:house:",
+    "owner": "Chase_Mercy",
     "status": "Аукцион",
-    "x": 1179.89,
-    "y": -1261.01,
-    "price": 6000000000,
+    "x": 1195.57,
+    "y": -1010.89,
+    "price": 3490000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 264,
+    "id": 806,
     "server_id": 18,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Государство",
+    "type": "house",
+    "name": "набор архитектора",
+    "owner": "Morgan_Branigor",
     "status": "Аукцион",
-    "x": -109.1,
-    "y": -1521.69,
-    "price": 10000000,
+    "x": -2723.93,
+    "y": -105.541,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23732,6 +23720,18 @@
     "status": "Занято",
     "x": -2572.55,
     "y": 2391.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 264,
+    "server_id": 18,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Mercedes_Mangushcar",
+    "status": "Занято",
+    "x": -109.1,
+    "y": -1521.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
