@@ -7611,8 +7611,8 @@
     "id": 634,
     "server_id": 31,
     "type": "house",
-    "name": "Дом",
-    "owner": "Robert_Padalecki",
+    "name": "Vjoletta Home",
+    "owner": "Vjoletta_Kioshimo",
     "status": "Занято",
     "x": -324.3099,
     "y": 1165.32,
@@ -9276,6 +9276,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 773,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Brian_Shakur",
+    "status": "Занято",
+    "x": -2622.52,
+    "y": 782.702,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 774,
     "server_id": 31,
     "type": "house",
@@ -9332,6 +9344,18 @@
     "status": "Занято",
     "x": -2550.67,
     "y": 794.174,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 779,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Steller_Mercy",
+    "status": "Занято",
+    "x": -2568.95,
+    "y": 794.1749,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11220,18 +11244,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 939,
-    "server_id": 31,
-    "type": "house",
-    "name": "HESOYAM CO",
-    "owner": "Murlax_Hesoyam",
-    "status": "Занято",
-    "x": -2066.59,
-    "y": 796.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 940,
     "server_id": 31,
     "type": "house",
@@ -12495,8 +12507,8 @@
     "id": 1045,
     "server_id": 31,
     "type": "house",
-    "name": "Travis 8/15",
-    "owner": "Trap_Shizik",
+    "name": "Neiron Korp",
+    "owner": "Cris_Neironov",
     "status": "Занято",
     "x": -1831.83,
     "y": 1166.06,
@@ -22132,7 +22144,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Мой пятый дом!",
-    "owner": "Wright_Shakur",
+    "owner": "Spydon_Mercy",
     "status": "Занято",
     "x": 2652.98,
     "y": 2019.21,
@@ -23328,30 +23340,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 773,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Brian_Shakur",
-    "status": "Аукцион",
-    "x": -2622.52,
-    "y": 782.702,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 779,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Brian_Shakur",
-    "status": "Аукцион",
-    "x": -2568.95,
-    "y": 794.1749,
-    "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 918,
     "server_id": 31,
     "type": "house",
@@ -23360,67 +23348,19 @@
     "status": "Аукцион",
     "x": -2282.05,
     "y": 1023.01,
-    "price": 1200000000,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 8,
+    "id": 939,
     "server_id": 31,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Kazutora_Monetti",
+    "type": "house",
+    "name": "HESOYAM CO",
+    "owner": "Murlax_Hesoyam",
     "status": "Аукцион",
-    "x": 2095.76,
-    "y": -1211.73,
-    "price": 600300,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 17,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Kazutora_Monetti",
-    "status": "Аукцион",
-    "x": -2165.77,
-    "y": -2416.71,
-    "price": 600300,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 76,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Kazutora_Monetti",
-    "status": "Аукцион",
-    "x": -179.189,
-    "y": 1133.15,
-    "price": 600300,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 98,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Kazutora_Monetti",
-    "status": "Аукцион",
-    "x": 2016.15,
-    "y": 1149.97,
-    "price": 300000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 231,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Kazutora_Monetti",
-    "status": "Аукцион",
-    "x": 1186.48,
-    "y": -1512.85,
-    "price": 600300,
+    "x": -2066.59,
+    "y": 796.82,
+    "price": 1500500500,
     "district": "Сан-Андреас"
   },
   {
@@ -23868,6 +23808,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 8,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Kazutora_Monetti",
+    "status": "Занято",
+    "x": 2095.76,
+    "y": -1211.73,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 9,
     "server_id": 31,
     "type": "business",
@@ -23912,6 +23864,18 @@
     "status": "Занято",
     "x": -87.234,
     "y": -1202.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 17,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Kazutora_Monetti",
+    "status": "Занято",
+    "x": -2165.77,
+    "y": -2416.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24072,6 +24036,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 76,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Kazutora_Monetti",
+    "status": "Занято",
+    "x": -179.189,
+    "y": 1133.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 77,
     "server_id": 31,
     "type": "business",
@@ -24188,6 +24164,18 @@
     "status": "Занято",
     "x": -2016.84,
     "y": -29.087,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 231,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Kazutora_Monetti",
+    "status": "Занято",
+    "x": 1186.48,
+    "y": -1512.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25724,6 +25712,18 @@
     "status": "Занято",
     "x": 208.11,
     "y": -62.718,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 98,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Kazutora_Monetti",
+    "status": "Занято",
+    "x": 2016.15,
+    "y": 1149.97,
     "price": 0,
     "district": "Сан-Андреас"
   },

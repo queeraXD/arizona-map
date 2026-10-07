@@ -9420,6 +9420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 785,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия",
+    "owner": "Mickey_Hurrington",
+    "status": "Занято",
+    "x": -2513.5,
+    "y": 867.418,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 786,
     "server_id": 5,
     "type": "house",
@@ -9992,18 +10004,6 @@
     "status": "Занято",
     "x": -2048.18,
     "y": 745.752,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 834,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2029.84,
-    "y": 745.572,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10640,18 +10640,6 @@
     "status": "Занято",
     "x": -2087.66,
     "y": -2510.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 888,
-    "server_id": 5,
-    "type": "house",
-    "name": "ПРОДАМ Тел.519",
-    "owner": "Miller_Comaro",
-    "status": "Занято",
-    "x": 731.307,
-    "y": -1012.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11348,18 +11336,6 @@
     "status": "Занято",
     "x": -2066.61,
     "y": 796.3289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 947,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия 947",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2112.59,
-    "y": 796.4169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16131,7 +16107,7 @@
     "id": 1346,
     "server_id": 5,
     "type": "house",
-    "name": "Хата Конора",
+    "name": "Берлога",
     "owner": "Vladimir_Babakhin",
     "status": "Занято",
     "x": -2622.18,
@@ -19188,18 +19164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1601,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2280.84,
-    "y": 1112.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1602,
     "server_id": 5,
     "type": "house",
@@ -20312,18 +20276,6 @@
     "status": "Занято",
     "x": 1112.2,
     "y": -1575.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1695,
-    "server_id": 5,
-    "type": "house",
-    "name": "LaFlare Corporation",
-    "owner": "Tony_Ja",
-    "status": "Занято",
-    "x": 1110.53,
-    "y": -1578.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24064,7 +24016,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Майнинг",
-    "owner": "Alexey_Konovalov",
+    "owner": "Mori_Diavel",
     "status": "Занято",
     "x": 2613.64,
     "y": 2062.92,
@@ -25092,15 +25044,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 785,
+    "id": 834,
     "server_id": 5,
     "type": "house",
     "name": "Без названия",
-    "owner": "Castom_Bind",
+    "owner": "Igoryan_Toretto",
     "status": "Аукцион",
-    "x": -2513.5,
-    "y": 867.418,
-    "price": 1500,
+    "x": -2029.84,
+    "y": 745.572,
+    "price": 1400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 888,
+    "server_id": 5,
+    "type": "house",
+    "name": "ПРОДАМ Тел.519",
+    "owner": "Miller_Comaro",
+    "status": "Аукцион",
+    "x": 731.307,
+    "y": -1012.86,
+    "price": 333333,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 947,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия 947",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": -2112.59,
+    "y": 796.4169,
+    "price": 1400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25113,6 +25089,30 @@
     "x": -2879.97,
     "y": 797.51,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1601,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": -2280.84,
+    "y": 1112.62,
+    "price": 1400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1695,
+    "server_id": 5,
+    "type": "house",
+    "name": "LaFlare Corporation",
+    "owner": "Tony_Ja",
+    "status": "Аукцион",
+    "x": 1110.53,
+    "y": -1578.45,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {

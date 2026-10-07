@@ -1,17 +1,5 @@
 [
   {
-    "id": 0,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Brander_Screamer",
-    "status": "Занято",
-    "x": 1885.88,
-    "y": -1113.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1,
     "server_id": 3,
     "type": "house",
@@ -9552,18 +9540,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 796,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Arseniy_Bizness",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 711.7169,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 797,
     "server_id": 3,
     "type": "house",
@@ -10928,18 +10904,6 @@
     "status": "Занято",
     "x": -2464.37,
     "y": 2485.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 912,
-    "server_id": 3,
-    "type": "house",
-    "name": "вайб хата",
-    "owner": "Free_Trappa",
-    "status": "Занято",
-    "x": -2446.25,
-    "y": 2491.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14196,6 +14160,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1184,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Geralt_Rivs",
+    "status": "Занято",
+    "x": -2880.75,
+    "y": 797.5689,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1185,
     "server_id": 3,
     "type": "house",
@@ -15627,7 +15603,7 @@
     "id": 1304,
     "server_id": 3,
     "type": "house",
-    "name": "Catafalque",
+    "name": "абаюнда",
     "owner": "Versace_Rozenbaun",
     "status": "Занято",
     "x": -2524.38,
@@ -17652,14 +17628,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1474,
+    "id": 1473,
     "server_id": 3,
     "type": "house",
-    "name": "DIT",
-    "owner": "Orno_Dit",
+    "name": "SEA",
+    "owner": "Dante_Doc",
     "status": "Занято",
-    "x": 1881.94,
-    "y": 2792.4,
+    "x": 1873.55,
+    "y": 2784.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17864,6 +17840,18 @@
     "status": "Занято",
     "x": 1564.57,
     "y": 2565.45,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1492,
+    "server_id": 3,
+    "type": "house",
+    "name": "[NightAngel]",
+    "owner": "Free_Trappa",
+    "status": "Занято",
+    "x": 1623.4,
+    "y": 2567.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23964,51 +23952,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1184,
+    "id": 0,
     "server_id": 3,
     "type": "house",
     "name": "Дом",
-    "owner": "Geralt_Rivs",
+    "owner": "Brander_Screamer",
     "status": "Аукцион",
-    "x": -2880.75,
-    "y": 797.5689,
-    "price": 15000,
+    "x": 1885.88,
+    "y": -1113.56,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1473,
+    "id": 796,
     "server_id": 3,
     "type": "house",
-    "name": "SEA",
-    "owner": "Dante_Doc",
+    "name": "Дом",
+    "owner": "Arseniy_Bizness",
     "status": "Аукцион",
-    "x": 1873.55,
-    "y": 2784.2,
-    "price": 500000000,
+    "x": -2368.82,
+    "y": 711.7169,
+    "price": 450123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1492,
+    "id": 912,
     "server_id": 3,
     "type": "house",
-    "name": "[NightAngel]",
-    "owner": "Ivan_Capelle",
+    "name": "вайб хата",
+    "owner": "Free_Trappa",
     "status": "Аукцион",
-    "x": 1623.4,
-    "y": 2567.34,
-    "price": 650000000,
+    "x": -2446.25,
+    "y": 2491.72,
+    "price": 250228228,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1474,
+    "server_id": 3,
+    "type": "house",
+    "name": "DIT",
+    "owner": "Orno_Dit",
+    "status": "Аукцион",
+    "x": 1881.94,
+    "y": 2792.4,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
     "id": 1818,
     "server_id": 3,
     "type": "house",
-    "name": "Дом",
-    "owner": "Grafi_Kus",
+    "name": "RODION.FOOD",
+    "owner": "Rodion_Johnson",
     "status": "Аукцион",
     "x": 885.7429,
     "y": 2267.83,
-    "price": 20123123,
+    "price": 1100000000,
     "district": "Сан-Андреас"
   },
   {
