@@ -4236,18 +4236,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 353,
-    "server_id": 7,
-    "type": "house",
-    "name": "Infinity house",
-    "owner": "Lee_Kingside",
-    "status": "Занято",
-    "x": 1283.53,
-    "y": -897.827,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 354,
     "server_id": 7,
     "type": "house",
@@ -6320,18 +6308,6 @@
     "status": "Занято",
     "x": 2049.55,
     "y": 2763.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 527,
-    "server_id": 7,
-    "type": "house",
-    "name": "Dream House",
-    "owner": "Milana_MacLeod",
-    "status": "Занято",
-    "x": 2039.57,
-    "y": 2766.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15036,18 +15012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1253,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gatila_Sebekov",
-    "status": "Занято",
-    "x": -2372.56,
-    "y": 834.367,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1254,
     "server_id": 7,
     "type": "house",
@@ -15344,18 +15308,6 @@
     "status": "Занято",
     "x": -2884.51,
     "y": 995.6619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1279,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gatila_Sebekov",
-    "status": "Занято",
-    "x": -2901.63,
-    "y": 1033.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18200,6 +18152,18 @@
     "status": "Занято",
     "x": -2285.08,
     "y": 849.6699,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1517,
+    "server_id": 7,
+    "type": "house",
+    "name": "АСК ВД",
+    "owner": "Arturro_Gaty",
+    "status": "Занято",
+    "x": -2285.31,
+    "y": 829.2849,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22296,18 +22260,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1859,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gatila_Sebekov",
-    "status": "Занято",
-    "x": 2003.68,
-    "y": 2163.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1860,
     "server_id": 7,
     "type": "house",
@@ -23247,7 +23199,7 @@
     "id": 1938,
     "server_id": 7,
     "type": "house",
-    "name": "** Six Seven **",
+    "name": "*Witchblade*house",
     "owner": "Extra_Witchblade",
     "status": "Занято",
     "x": -317.8989,
@@ -25536,15 +25488,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1517,
+    "id": 353,
     "server_id": 7,
     "type": "house",
-    "name": "АСК ВД",
-    "owner": "Arturro_Gaty",
+    "name": "Infinity house",
+    "owner": "Lee_Kingside",
     "status": "Аукцион",
-    "x": -2285.31,
-    "y": 829.2849,
-    "price": 7500000000,
+    "x": 1283.53,
+    "y": -897.827,
+    "price": 1999000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 527,
+    "server_id": 7,
+    "type": "house",
+    "name": "Dream House",
+    "owner": "Milana_MacLeod",
+    "status": "Аукцион",
+    "x": 2039.57,
+    "y": 2766.53,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1253,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gatila_Sebekov",
+    "status": "Аукцион",
+    "x": -2372.56,
+    "y": 834.367,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1279,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gatila_Sebekov",
+    "status": "Аукцион",
+    "x": -2901.63,
+    "y": 1033.53,
+    "price": 3600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1859,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gatila_Sebekov",
+    "status": "Аукцион",
+    "x": 2003.68,
+    "y": 2163.5,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {

@@ -1623,8 +1623,8 @@
     "id": 135,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "method",
+    "name": "царь",
+    "owner": "NeSam_Bredberry",
     "status": "Занято",
     "x": 1734.64,
     "y": -2130.21,
@@ -4224,18 +4224,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 352,
-    "server_id": 13,
-    "type": "house",
-    "name": "zombak",
-    "owner": "Aiden_Venum",
-    "status": "Занято",
-    "x": 1290.98,
-    "y": -896.9199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 353,
     "server_id": 13,
     "type": "house",
@@ -5768,18 +5756,6 @@
     "status": "Занято",
     "x": 2256.91,
     "y": 690.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 481,
-    "server_id": 13,
-    "type": "house",
-    "name": "краснодарский",
-    "owner": "Homme_Blanc",
-    "status": "Занято",
-    "x": 2228.36,
-    "y": 734.7039,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11256,6 +11232,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 938,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nikolas_Raan",
+    "status": "Занято",
+    "x": -2094.08,
+    "y": 796.2789,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 939,
     "server_id": 13,
     "type": "house",
@@ -11417,10 +11405,10 @@
     "type": "house",
     "name": "хата фейкмутина",
     "owner": "Yasha_Sumo",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -2159.84,
     "y": 1001.99,
-    "price": 250000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -20592,18 +20580,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1717,
-    "server_id": 13,
-    "type": "house",
-    "name": "Арз Тавер",
-    "owner": "Aiden_Venum",
-    "status": "Занято",
-    "x": 1110.5,
-    "y": -1578.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1718,
     "server_id": 13,
     "type": "house",
@@ -21432,18 +21408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1788,
-    "server_id": 13,
-    "type": "house",
-    "name": "Maloriks Monopoly",
-    "owner": "Invisible_Kstick",
-    "status": "Занято",
-    "x": 1754.53,
-    "y": 2736.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1789,
     "server_id": 13,
     "type": "house",
@@ -21500,18 +21464,6 @@
     "status": "Занято",
     "x": 1739.45,
     "y": 2792.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1794,
-    "server_id": 13,
-    "type": "house",
-    "name": "Maloriks Monopoly",
-    "owner": "Invisible_Kstick",
-    "status": "Занято",
-    "x": 1730.36,
-    "y": 2826.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21680,18 +21632,6 @@
     "status": "Занято",
     "x": 1801.68,
     "y": 2823.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1809,
-    "server_id": 13,
-    "type": "house",
-    "name": "Maloriks Monopoly",
-    "owner": "Invisible_Kstick",
-    "status": "Занято",
-    "x": 1799.54,
-    "y": 2814.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22147,18 +22087,6 @@
     "owner": "Henry_Triada",
     "status": "Занято",
     "x": 2617.69,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1848,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Aiden_Venum",
-    "status": "Занято",
-    "x": 2608.51,
     "y": 2195.56,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23280,15 +23208,99 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 938,
+    "id": 352,
+    "server_id": 13,
+    "type": "house",
+    "name": "zombak",
+    "owner": "Aiden_Venum",
+    "status": "Аукцион",
+    "x": 1290.98,
+    "y": -896.9199,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 481,
+    "server_id": 13,
+    "type": "house",
+    "name": "краснодарский",
+    "owner": "Xanax_XR",
+    "status": "Аукцион",
+    "x": 2228.36,
+    "y": 734.7039,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1717,
+    "server_id": 13,
+    "type": "house",
+    "name": "Арз Тавер",
+    "owner": "Aiden_Venum",
+    "status": "Аукцион",
+    "x": 1110.5,
+    "y": -1578.45,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1788,
+    "server_id": 13,
+    "type": "house",
+    "name": "Maloriks Monopoly",
+    "owner": "Invisible_Kstick",
+    "status": "Аукцион",
+    "x": 1754.53,
+    "y": 2736.02,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1794,
+    "server_id": 13,
+    "type": "house",
+    "name": "Maloriks Monopoly",
+    "owner": "Invisible_Kstick",
+    "status": "Аукцион",
+    "x": 1730.36,
+    "y": 2826.29,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1809,
+    "server_id": 13,
+    "type": "house",
+    "name": "Maloriks Monopoly",
+    "owner": "Invisible_Kstick",
+    "status": "Аукцион",
+    "x": 1799.54,
+    "y": 2814.96,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1848,
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Xanax_XR",
+    "owner": "Aiden_Venum",
     "status": "Аукцион",
-    "x": -2094.08,
-    "y": 796.2789,
-    "price": 250000000,
+    "x": 2608.51,
+    "y": 2195.56,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 215,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Invisible_Kstick",
+    "status": "Аукцион",
+    "x": 1864.59,
+    "y": -1393.39,
+    "price": 90000,
     "district": "Сан-Андреас"
   },
   {
@@ -25580,18 +25592,6 @@
     "status": "Занято",
     "x": -1757.81,
     "y": 964.127,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 215,
-    "server_id": 13,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Invisible_Kstick",
-    "status": "Занято",
-    "x": 1864.59,
-    "y": -1393.39,
     "price": 0,
     "district": "Сан-Андреас"
   },

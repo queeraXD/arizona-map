@@ -4936,7 +4936,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Darkside",
-    "owner": "Vlados_Neadekvat",
+    "owner": "Michael_Shtyh",
     "status": "Занято",
     "x": 1415.14,
     "y": 324.105,
@@ -11724,18 +11724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 979,
-    "server_id": 23,
-    "type": "house",
-    "name": "покой",
-    "owner": "Xanax_XR",
-    "status": "Занято",
-    "x": -2278.66,
-    "y": 747.7299,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 980,
     "server_id": 23,
     "type": "house",
@@ -11876,6 +11864,18 @@
     "status": "Занято",
     "x": 977.3939,
     "y": -771.3049,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 992,
+    "server_id": 23,
+    "type": "house",
+    "name": "Убежище для фарма",
+    "owner": "Cvetonka_Tuzikss",
+    "status": "Занято",
+    "x": -2048.11,
+    "y": 745.749,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15600,18 +15600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1303,
-    "server_id": 23,
-    "type": "house",
-    "name": "GawGawBank Mining",
-    "owner": "Laptopik_Tuzikss",
-    "status": "Занято",
-    "x": -2590.53,
-    "y": -186.0579,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1304,
     "server_id": 23,
     "type": "house",
@@ -19260,18 +19248,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1608,
-    "server_id": 23,
-    "type": "house",
-    "name": "Притон дровосека",
-    "owner": "Drovosek_Doberman",
-    "status": "Занято",
-    "x": 2541.52,
-    "y": 1232.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1609,
     "server_id": 23,
     "type": "house",
@@ -21152,19 +21128,43 @@
     "status": "Аукцион",
     "x": -2208.08,
     "y": 1108.05,
-    "price": 300000000,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 992,
+    "id": 979,
     "server_id": 23,
     "type": "house",
-    "name": "Убежище для фарма",
-    "owner": "Cvetonka_Tuzikss",
+    "name": "покой",
+    "owner": "Xanax_XR",
     "status": "Аукцион",
-    "x": -2048.11,
-    "y": 745.749,
-    "price": 450000000,
+    "x": -2278.66,
+    "y": 747.7299,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1303,
+    "server_id": 23,
+    "type": "house",
+    "name": "GawGawBank Mining",
+    "owner": "Laptopik_Tuzikss",
+    "status": "Аукцион",
+    "x": -2590.53,
+    "y": -186.0579,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1608,
+    "server_id": 23,
+    "type": "house",
+    "name": "Притон дровосека",
+    "owner": "Drovosek_Doberman",
+    "status": "Аукцион",
+    "x": 2541.52,
+    "y": 1232.98,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {
