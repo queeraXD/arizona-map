@@ -975,7 +975,7 @@
     "id": 81,
     "server_id": 18,
     "type": "house",
-    "name": "hydrosphere",
+    "name": "Дом Рагулика",
     "owner": "Pacific_Ocean",
     "status": "Занято",
     "x": 2244.2,
@@ -5889,6 +5889,18 @@
     "x": 2065.03,
     "y": 730.408,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 491,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Victor_Gideon",
+    "status": "Аукцион",
+    "x": 1756.79,
+    "y": 66.9654,
+    "price": 600000,
     "district": "Сан-Андреас"
   },
   {
@@ -10924,7 +10936,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Mikhail_Rayz",
+    "owner": "Interfere_With",
     "status": "Занято",
     "x": -2126.87,
     "y": 1069.24,
@@ -22200,18 +22212,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 491,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Victor_Gideon",
-    "status": "Аукцион",
-    "x": 1756.79,
-    "y": 66.9654,
-    "price": 600000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 264,
     "server_id": 18,
     "type": "business",
@@ -22220,6 +22220,18 @@
     "status": "Аукцион",
     "x": -109.1,
     "y": -1521.69,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 457,
+    "server_id": 18,
+    "type": "business",
+    "name": "Админская палатка",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 39.3903,
+    "y": 33.6569,
     "price": 10000000,
     "district": "Сан-Андреас"
   },
