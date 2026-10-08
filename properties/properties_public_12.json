@@ -6324,18 +6324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 527,
-    "server_id": 12,
-    "type": "house",
-    "name": "Фармила)))",
-    "owner": "Solitude_Monopoly",
-    "status": "Занято",
-    "x": 2039.57,
-    "y": 2766.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 528,
     "server_id": 12,
     "type": "house",
@@ -8368,7 +8356,7 @@
     "server_id": 12,
     "type": "house",
     "name": "<3 Miracle <3 Brotherhood",
-    "owner": "Reggie_Miracle",
+    "owner": "Kedroviy_Oreh",
     "status": "Занято",
     "x": 1362.71,
     "y": 2525.57,
@@ -9463,6 +9451,18 @@
     "owner": "Mark_Bellic",
     "status": "Занято",
     "x": -2551.89,
+    "y": 920.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 789,
+    "server_id": 12,
+    "type": "house",
+    "name": "Берлога ПГАТК",
+    "owner": "Creeper_Fam",
+    "status": "Занято",
+    "x": -2580.91,
     "y": 920.38,
     "price": 0,
     "district": "Сан-Андреас"
@@ -11444,18 +11444,6 @@
     "status": "Занято",
     "x": -2159.76,
     "y": 965.578,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 955,
-    "server_id": 12,
-    "type": "house",
-    "name": "чупеп",
-    "owner": "Ton_Keeper",
-    "status": "Занято",
-    "x": -2159.6,
-    "y": 946.984,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14592,18 +14580,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1217,
-    "server_id": 12,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ton_Keeper",
-    "status": "Занято",
-    "x": -2883.57,
-    "y": 736.726,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1218,
     "server_id": 12,
     "type": "house",
@@ -16424,6 +16400,18 @@
     "status": "Занято",
     "x": 1115.72,
     "y": -1570.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1370,
+    "server_id": 12,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Beer_Moore",
+    "status": "Занято",
+    "x": 1105.59,
+    "y": -1569.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23796,27 +23784,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 789,
+    "id": 527,
     "server_id": 12,
     "type": "house",
-    "name": "Берлога ПГАТК",
-    "owner": "Creeper_Fam",
+    "name": "С деп условием",
+    "owner": "Solitude_Monopoly",
     "status": "Аукцион",
-    "x": -2580.91,
-    "y": 920.38,
-    "price": 1500,
+    "x": 2039.57,
+    "y": 2766.53,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1370,
+    "id": 955,
+    "server_id": 12,
+    "type": "house",
+    "name": "чупеп",
+    "owner": "Ton_Keeper",
+    "status": "Аукцион",
+    "x": -2159.6,
+    "y": 946.984,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1217,
     "server_id": 12,
     "type": "house",
     "name": "Дом",
-    "owner": "Beer_Moore",
+    "owner": "Ton_Keeper",
     "status": "Аукцион",
-    "x": 1105.59,
-    "y": -1569.98,
-    "price": 2000000000,
+    "x": -2883.57,
+    "y": 736.726,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {

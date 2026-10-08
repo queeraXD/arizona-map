@@ -372,18 +372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 31,
-    "server_id": 1,
-    "type": "house",
-    "name": "hoodrich bratva",
-    "owner": "Headshot_Aimbot",
-    "status": "Занято",
-    "x": 2110.99,
-    "y": -1244.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 32,
     "server_id": 1,
     "type": "house",
@@ -6652,7 +6640,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Дом Jekson",
-    "owner": "James_Fekson",
+    "owner": "Aleksandr_Blake",
     "status": "Занято",
     "x": 352.9729,
     "y": 1099.58,
@@ -7356,18 +7344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 613,
-    "server_id": 1,
-    "type": "house",
-    "name": "pes family",
-    "owner": "Inj_Ury",
-    "status": "Занято",
-    "x": -881.6329,
-    "y": 1562.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 614,
     "server_id": 1,
     "type": "house",
@@ -7400,18 +7376,6 @@
     "status": "Занято",
     "x": -684.244,
     "y": 939.393,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 617,
-    "server_id": 1,
-    "type": "house",
-    "name": "Хата Гонни",
-    "owner": "Gonny_Montana",
-    "status": "Занято",
-    "x": -881.726,
-    "y": 1532.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10148,6 +10112,18 @@
     "status": "Занято",
     "x": -2159.53,
     "y": 983.763,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 846,
+    "server_id": 1,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Kult_VechnostI",
+    "status": "Занято",
+    "x": -2159.82,
+    "y": 965.3159,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16120,7 +16096,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Ehoo Mining 1",
-    "owner": "Ehoo_Teroo",
+    "owner": "Vanya_Gonjubas",
     "status": "Занято",
     "x": -2233.82,
     "y": 870.525,
@@ -22692,6 +22668,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1895,
+    "server_id": 1,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Leha_Bunker",
+    "status": "Занято",
+    "x": 1795.64,
+    "y": 2800.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1896,
     "server_id": 1,
     "type": "house",
@@ -22904,6 +22892,18 @@
     "status": "Занято",
     "x": 1783.7,
     "y": 2868.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1914,
+    "server_id": 1,
+    "type": "house",
+    "name": "BUNKER Corp.",
+    "owner": "Leha_Bunker",
+    "status": "Занято",
+    "x": 1798.96,
+    "y": 2812.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24132,39 +24132,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 846,
+    "id": 31,
+    "server_id": 1,
+    "type": "house",
+    "name": "hoodrich bratva",
+    "owner": "Headshot_Aimbot",
+    "status": "Аукцион",
+    "x": 2110.99,
+    "y": -1244.14,
+    "price": 32000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 613,
     "server_id": 1,
     "type": "house",
     "name": "pes family",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2159.82,
-    "y": 965.3159,
-    "price": 0,
+    "owner": "Inj_Ury",
+    "status": "Аукцион",
+    "x": -881.6329,
+    "y": 1562.08,
+    "price": 1800000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1895,
+    "id": 617,
     "server_id": 1,
     "type": "house",
-    "name": "Дом",
-    "owner": "Leha_Bunker",
+    "name": "Хата Гонни",
+    "owner": "Gonny_Montana",
     "status": "Аукцион",
-    "x": 1795.64,
-    "y": 2800.77,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1914,
-    "server_id": 1,
-    "type": "house",
-    "name": "BUNKER Corp.",
-    "owner": "Leha_Bunker",
-    "status": "Аукцион",
-    "x": 1798.96,
-    "y": 2812.12,
-    "price": 2000000000,
+    "x": -881.726,
+    "y": 1532.36,
+    "price": 1800000000,
     "district": "Сан-Андреас"
   },
   {

@@ -6516,18 +6516,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 543,
-    "server_id": 25,
-    "type": "house",
-    "name": "Vazquez",
-    "owner": "Stu_Love",
-    "status": "Занято",
-    "x": 1950.41,
-    "y": 2663.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 544,
     "server_id": 25,
     "type": "house",
@@ -8408,18 +8396,6 @@
     "status": "Занято",
     "x": 1451.27,
     "y": 2565.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 702,
-    "server_id": 25,
-    "type": "house",
-    "name": "Fyl-7(5)",
-    "owner": "Stu_Love",
-    "status": "Занято",
-    "x": 1454.23,
-    "y": 2525.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10860,18 +10836,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 907,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": -2126.89,
-    "y": 996.109,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 908,
     "server_id": 25,
     "type": "house",
@@ -10964,18 +10928,6 @@
     "status": "Занято",
     "x": -2159.89,
     "y": 1048.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 916,
-    "server_id": 25,
-    "type": "house",
-    "name": "...",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": -2159.79,
-    "y": 1030.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12180,18 +12132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1017,
-    "server_id": 25,
-    "type": "house",
-    "name": "треп хата",
-    "owner": "Papa_Uggly",
-    "status": "Занято",
-    "x": -2563.4,
-    "y": 1148.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1018,
     "server_id": 25,
     "type": "house",
@@ -13144,7 +13084,7 @@
     "server_id": 25,
     "type": "house",
     "name": "дом",
-    "owner": "Tati_Wiggins",
+    "owner": "Alesha_Reez",
     "status": "Занято",
     "x": -2223.62,
     "y": 820.458,
@@ -14523,7 +14463,7 @@
     "id": 1212,
     "server_id": 25,
     "type": "house",
-    "name": "67SAINT67",
+    "name": "эли спит",
     "owner": "Eli_Ward",
     "status": "Занято",
     "x": -2880.74,
@@ -19848,6 +19788,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1656,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alen_Cameron",
+    "status": "Занято",
+    "x": 2601.05,
+    "y": -1220.63,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1657,
     "server_id": 25,
     "type": "house",
@@ -23748,6 +23700,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 543,
+    "server_id": 25,
+    "type": "house",
+    "name": "Vazquez",
+    "owner": "Stu_Love",
+    "status": "Аукцион",
+    "x": 1950.41,
+    "y": 2663.21,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 633,
     "server_id": 25,
     "type": "house",
@@ -23760,15 +23724,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1656,
+    "id": 702,
+    "server_id": 25,
+    "type": "house",
+    "name": "Fyl-7(5)",
+    "owner": "Stu_Love",
+    "status": "Аукцион",
+    "x": 1454.23,
+    "y": 2525.59,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 907,
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Alen_Cameron",
+    "owner": "Sos_Krutoy",
     "status": "Аукцион",
-    "x": 2601.05,
-    "y": -1220.63,
-    "price": 210000000,
+    "x": -2126.89,
+    "y": 996.109,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 916,
+    "server_id": 25,
+    "type": "house",
+    "name": "...",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": -2159.79,
+    "y": 1030.66,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1017,
+    "server_id": 25,
+    "type": "house",
+    "name": "треп хата",
+    "owner": "Papa_Uggly",
+    "status": "Аукцион",
+    "x": -2563.4,
+    "y": 1148.33,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {

@@ -7668,18 +7668,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 639,
-    "server_id": 2,
-    "type": "house",
-    "name": "Stics",
-    "owner": "Sherlock_Stics",
-    "status": "Занято",
-    "x": -278.9989,
-    "y": 1003.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 640,
     "server_id": 2,
     "type": "house",
@@ -14420,6 +14408,18 @@
     "status": "Занято",
     "x": -2433.07,
     "y": 1338.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1203,
+    "server_id": 2,
+    "type": "house",
+    "name": "Warriors",
+    "owner": "Ares_Corvex",
+    "status": "Занято",
+    "x": -2433.75,
+    "y": 1318.48,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22528,7 +22528,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Дом майнера",
-    "owner": "Jastin_Geitji",
+    "owner": "Miyabi_Hoshimi",
     "status": "Занято",
     "x": 1803.35,
     "y": 2855.46,
@@ -23952,15 +23952,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1203,
+    "id": 639,
     "server_id": 2,
     "type": "house",
-    "name": "Warriors",
-    "owner": "Ares_Corvex",
+    "name": "Stics",
+    "owner": "Sherlock_Stics",
     "status": "Аукцион",
-    "x": -2433.75,
-    "y": 1318.48,
-    "price": 5000000000,
+    "x": -278.9989,
+    "y": 1003.39,
+    "price": 8000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 33,
+    "server_id": 2,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Tony_Revals",
+    "status": "Аукцион",
+    "x": 1199.32,
+    "y": -918.586,
+    "price": 240000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 2,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Tony_Revals",
+    "status": "Аукцион",
+    "x": -2373.8,
+    "y": 910.117,
+    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -24984,18 +25008,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 350,
-    "server_id": 2,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Tony_Revals",
-    "status": "Занято",
-    "x": -2373.8,
-    "y": 910.117,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 438,
     "server_id": 2,
     "type": "business",
@@ -25556,18 +25568,6 @@
     "status": "Занято",
     "x": 1001.25,
     "y": 820.343,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 33,
-    "server_id": 2,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Tony_Revals",
-    "status": "Занято",
-    "x": 1199.32,
-    "y": -918.586,
     "price": 0,
     "district": "Сан-Андреас"
   },

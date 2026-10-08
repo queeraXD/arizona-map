@@ -424,7 +424,7 @@
     "server_id": 32,
     "type": "house",
     "name": "тут живет сисян",
-    "owner": "Dryno_Stanec",
+    "owner": "AegisForce_VapeBoost",
     "status": "Занято",
     "x": 2439.59,
     "y": -1357.21,
@@ -3100,7 +3100,7 @@
     "server_id": 32,
     "type": "house",
     "name": "майнинг салдера",
-    "owner": "Dryno_Stanec",
+    "owner": "EbaChotkuy_Pacan",
     "status": "Занято",
     "x": 2131.66,
     "y": -973.916,
@@ -10395,7 +10395,7 @@
     "id": 871,
     "server_id": 32,
     "type": "house",
-    "name": "sovhoz",
+    "name": "sovhoz 7lvl",
     "owner": "Akzhan_Sovhoz",
     "status": "Занято",
     "x": -302.976,
@@ -10407,7 +10407,7 @@
     "id": 872,
     "server_id": 32,
     "type": "house",
-    "name": "Sovohoz3 5lvl ",
+    "name": "sovhoz 5lvl",
     "owner": "Akzhan_Sovhoz",
     "status": "Занято",
     "x": -298.635,
@@ -10431,7 +10431,7 @@
     "id": 874,
     "server_id": 32,
     "type": "house",
-    "name": "Sovhoz9 nety",
+    "name": "sovhoz 7lvl",
     "owner": "Akzhan_Sovhoz",
     "status": "Занято",
     "x": -279.2569,
@@ -10760,18 +10760,6 @@
     "status": "Занято",
     "x": -2075.14,
     "y": 899.366,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 902,
-    "server_id": 32,
-    "type": "house",
-    "name": "У Мамонта",
-    "owner": "Pudge_Sniper",
-    "status": "Занято",
-    "x": -2065.95,
-    "y": 1160.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11624,18 +11612,6 @@
     "status": "Занято",
     "x": -2479.06,
     "y": 2509.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 975,
-    "server_id": 32,
-    "type": "house",
-    "name": "деп.условия",
-    "owner": "Alter_Nativa",
-    "status": "Занято",
-    "x": -2464.03,
-    "y": 2486.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18948,18 +18924,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1615,
-    "server_id": 32,
-    "type": "house",
-    "name": "Lood",
-    "owner": "Jan_Jan",
-    "status": "Занято",
-    "x": 2537.03,
-    "y": 1235.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1616,
     "server_id": 32,
     "type": "house",
@@ -22500,6 +22464,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 902,
+    "server_id": 32,
+    "type": "house",
+    "name": "У Мамонта",
+    "owner": "Pudge_Sniper",
+    "status": "Аукцион",
+    "x": -2065.95,
+    "y": 1160.62,
+    "price": 2123123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 921,
     "server_id": 32,
     "type": "house",
@@ -22508,7 +22484,19 @@
     "status": "Аукцион",
     "x": -2282.07,
     "y": 1089.04,
-    "price": 1200000000,
+    "price": 1111111111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 975,
+    "server_id": 32,
+    "type": "house",
+    "name": "деп.условия",
+    "owner": "Alter_Nativa",
+    "status": "Аукцион",
+    "x": -2464.03,
+    "y": 2486.08,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22520,7 +22508,19 @@
     "status": "Аукцион",
     "x": -2690.78,
     "y": 102.2819,
-    "price": 2500000000,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1615,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп.условия,Подвал и Майнинг",
+    "owner": "Green_Cannabis",
+    "status": "Аукцион",
+    "x": 2537.03,
+    "y": 1235.31,
+    "price": 1400000000,
     "district": "Сан-Андреас"
   },
   {

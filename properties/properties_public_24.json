@@ -3375,8 +3375,8 @@
     "id": 281,
     "server_id": 24,
     "type": "house",
-    "name": " Sosuke House",
-    "owner": "Tema_Knyazev",
+    "name": "Owen House",
+    "owner": "Owen_Knight",
     "status": "Занято",
     "x": 2551.22,
     "y": 57.2303,
@@ -11352,6 +11352,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 947,
+    "server_id": 24,
+    "type": "house",
+    "name": "Top Home",
+    "owner": "Sirius_Cybernetik",
+    "status": "Занято",
+    "x": -2239.15,
+    "y": 943.854,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 948,
     "server_id": 24,
     "type": "house",
@@ -11859,7 +11871,7 @@
     "id": 990,
     "server_id": 24,
     "type": "house",
-    "name": "Social Slayer",
+    "name": "Дом",
     "owner": "Lil_Nakamura",
     "status": "Занято",
     "x": 2556.37,
@@ -14724,6 +14736,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1229,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом Грозова",
+    "owner": "Vasiua_Zhuk",
+    "status": "Занято",
+    "x": -2477.89,
+    "y": 1338.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1230,
     "server_id": 24,
     "type": "house",
@@ -15724,7 +15748,7 @@
     "server_id": 24,
     "type": "house",
     "name": "<3 Visconti and Sovhoz <3",
-    "owner": "Ilya_Grant",
+    "owner": "Tramp_Houmiex",
     "status": "Занято",
     "x": -76.1399,
     "y": -1581.11,
@@ -20340,18 +20364,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1699,
-    "server_id": 24,
-    "type": "house",
-    "name": "дом около притона за дешево",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 2495.44,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1700,
     "server_id": 24,
     "type": "house",
@@ -20636,18 +20648,6 @@
     "status": "Занято",
     "x": 1804.92,
     "y": 2834.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1724,
-    "server_id": 24,
-    "type": "house",
-    "name": "майнинг",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 1794.37,
-    "y": 2863.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22020,27 +22020,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1229,
+    "id": 1699,
     "server_id": 24,
     "type": "house",
-    "name": "Дом Грозова",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2477.89,
-    "y": 1338.21,
-    "price": 0,
+    "name": "дом около притона за дешево",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": 2495.44,
+    "y": -1383.37,
+    "price": 150000123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 947,
+    "id": 1724,
     "server_id": 24,
     "type": "house",
-    "name": "Top Home",
-    "owner": "Sirius_Cybernetik",
+    "name": "майнинг",
+    "owner": "Pasha_Caplya",
     "status": "Аукцион",
-    "x": -2239.15,
-    "y": 943.854,
-    "price": 300000000,
+    "x": 1794.37,
+    "y": 2863.29,
+    "price": 150000123,
     "district": "Сан-Андреас"
   },
   {
