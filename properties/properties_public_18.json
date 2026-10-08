@@ -3496,7 +3496,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Коморка Кенжи",
-    "owner": "Kenji_Sato",
+    "owner": "Roberto_Capone",
     "status": "Занято",
     "x": 2498.96,
     "y": -1065.56,
@@ -9720,6 +9720,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 810,
+    "server_id": 18,
+    "type": "house",
+    "name": "WALDEMARFAM",
+    "owner": "Mish_Gold",
+    "status": "Занято",
+    "x": -2723.08,
+    "y": -139.7019,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 811,
     "server_id": 18,
     "type": "house",
@@ -10332,18 +10344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 863,
-    "server_id": 18,
-    "type": "house",
-    "name": "Есть подвал для майнинга",
-    "owner": "Maks_Statov",
-    "status": "Занято",
-    "x": -236.8439,
-    "y": 2491.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 864,
     "server_id": 18,
     "type": "house",
@@ -10924,7 +10924,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Interfere_With",
+    "owner": "Leo_Ford",
     "status": "Занято",
     "x": -2126.87,
     "y": 1069.24,
@@ -15711,7 +15711,7 @@
     "id": 1312,
     "server_id": 18,
     "type": "house",
-    "name": "X2 PAYDAY HOUSE",
+    "name": "Дом",
     "owner": "Skmime_Skaver",
     "status": "Занято",
     "x": -663.1149,
@@ -16304,6 +16304,18 @@
     "status": "Занято",
     "x": 1112.2,
     "y": -1557.42,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1362,
+    "server_id": 18,
+    "type": "house",
+    "name": "Kaer Morhen",
+    "owner": "Francis_Wolf",
+    "status": "Занято",
+    "x": 1115.72,
+    "y": -1562.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22164,15 +22176,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 810,
+    "id": 863,
     "server_id": 18,
     "type": "house",
-    "name": "WALDEMARFAM",
-    "owner": "Mikhail_Burmaldancer",
+    "name": "Есть подвал для майнинга",
+    "owner": "Maks_Statov",
     "status": "Аукцион",
-    "x": -2723.08,
-    "y": -139.7019,
-    "price": 3000000000,
+    "x": -236.8439,
+    "y": 2491.76,
+    "price": 3700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22184,31 +22196,31 @@
     "status": "Аукцион",
     "x": -2223.62,
     "y": 820.458,
-    "price": 44444,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1362,
-    "server_id": 18,
-    "type": "house",
-    "name": "Kaer Morhen",
-    "owner": "Francis_Wolf",
-    "status": "Аукцион",
-    "x": 1115.72,
-    "y": -1562.69,
-    "price": 45000,
+    "price": 3500000000,
     "district": "Сан-Андреас"
   },
   {
     "id": 1684,
     "server_id": 18,
     "type": "house",
-    "name": "ambient occlusion",
-    "owner": "Faceit_Premium",
+    "name": "Chase Person:house:",
+    "owner": "Chase_Mercy",
     "status": "Аукцион",
     "x": -767.192,
     "y": 2765.4,
-    "price": 500228228,
+    "price": 3990000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 189,
+    "server_id": 18,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Legendary_Nope",
+    "status": "Аукцион",
+    "x": -1981.62,
+    "y": 174.636,
+    "price": 230000,
     "district": "Сан-Андреас"
   },
   {
@@ -23164,7 +23176,7 @@
     "server_id": 18,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Alexander_Benedict",
+    "owner": "Denzi_Morenno",
     "status": "Занято",
     "x": 2802.89,
     "y": 2430.66,
@@ -25128,18 +25140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 189,
-    "server_id": 18,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Legendary_Nope",
-    "status": "Занято",
-    "x": -1981.62,
-    "y": 174.636,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 190,
     "server_id": 18,
     "type": "business",
@@ -25948,7 +25948,7 @@
     "server_id": 18,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Artem_Cuerto",
+    "owner": "bobrdobr",
     "status": "Занято",
     "x": 2042.819,
     "y": 2633.449,
