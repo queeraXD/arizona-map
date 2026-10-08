@@ -1,17 +1,5 @@
 [
   {
-    "id": 0,
-    "server_id": 3,
-    "type": "house",
-    "name": "rodion.food",
-    "owner": "Rodion_Johnson",
-    "status": "Занято",
-    "x": 1885.88,
-    "y": -1113.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1,
     "server_id": 3,
     "type": "house",
@@ -159,7 +147,7 @@
     "id": 13,
     "server_id": 3,
     "type": "house",
-    "name": "Дом Drakonez",
+    "name": "Дом Drakonez Forever",
     "owner": "Hikan_Drakonez",
     "status": "Занято",
     "x": 2092.24,
@@ -795,7 +783,7 @@
     "id": 66,
     "server_id": 3,
     "type": "house",
-    "name": "Дом Drakonez",
+    "name": "Дом Drakonez Forever",
     "owner": "Hikan_Drakonez",
     "status": "Занято",
     "x": 2451.9,
@@ -891,7 +879,7 @@
     "id": 74,
     "server_id": 3,
     "type": "house",
-    "name": "Дом Drakonez",
+    "name": "Дом Drakonez Forever",
     "owner": "Hikan_Drakonez",
     "status": "Занято",
     "x": 2385.46,
@@ -5184,18 +5172,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 432,
-    "server_id": 3,
-    "type": "house",
-    "name": "Masker #3",
-    "owner": "Chudo_Funduk",
-    "status": "Занято",
-    "x": 2279.2,
-    "y": -1076.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 433,
     "server_id": 3,
     "type": "house",
@@ -7252,7 +7228,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Деп условия",
-    "owner": "Alexandr_Trackhawk",
+    "owner": "Pape_Miers",
     "status": "Занято",
     "x": -1568.17,
     "y": 2629.75,
@@ -11799,7 +11775,7 @@
     "id": 984,
     "server_id": 3,
     "type": "house",
-    "name": "Дом Drakonez",
+    "name": "Дом Drakonez Forever",
     "owner": "Hikan_Drakonez",
     "status": "Занято",
     "x": 2756.35,
@@ -12320,18 +12296,6 @@
     "status": "Занято",
     "x": -2286.49,
     "y": 796.9429,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1028,
-    "server_id": 3,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Chudo_Funduk",
-    "status": "Занято",
-    "x": -2303.33,
-    "y": 797.0219,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13179,7 +13143,7 @@
     "id": 1099,
     "server_id": 3,
     "type": "house",
-    "name": "• Логово Бэдди Диллинджера •",
+    "name": "Дом",
     "owner": "Eddie_Di",
     "status": "Занято",
     "x": 1046.06,
@@ -15948,18 +15912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1330,
-    "server_id": 3,
-    "type": "house",
-    "name": "Shadow Monarch",
-    "owner": "Chudo_Funduk",
-    "status": "Занято",
-    "x": -2553.69,
-    "y": 992.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1331,
     "server_id": 3,
     "type": "house",
@@ -17888,18 +17840,6 @@
     "status": "Занято",
     "x": 1564.57,
     "y": 2565.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1492,
-    "server_id": 3,
-    "type": "house",
-    "name": "[NightAngel]",
-    "owner": "Free_Trappa",
-    "status": "Занято",
-    "x": 1623.4,
-    "y": 2567.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21468,18 +21408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1790,
-    "server_id": 3,
-    "type": "house",
-    "name": "берлога Kide",
-    "owner": "Ron_Kide",
-    "status": "Занято",
-    "x": 2700.21,
-    "y": -1233.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1791,
     "server_id": 3,
     "type": "house",
@@ -24009,6 +23937,78 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 0,
+    "server_id": 3,
+    "type": "house",
+    "name": "rodion.food",
+    "owner": "Rodion_Johnson",
+    "status": "Аукцион",
+    "x": 1885.88,
+    "y": -1113.56,
+    "price": 1900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 432,
+    "server_id": 3,
+    "type": "house",
+    "name": "Masker #3",
+    "owner": "Chudo_Funduk",
+    "status": "Аукцион",
+    "x": 2279.2,
+    "y": -1076.63,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1028,
+    "server_id": 3,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Chudo_Funduk",
+    "status": "Аукцион",
+    "x": -2303.33,
+    "y": 797.0219,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1330,
+    "server_id": 3,
+    "type": "house",
+    "name": "Shadow Monarch",
+    "owner": "Chudo_Funduk",
+    "status": "Аукцион",
+    "x": -2553.69,
+    "y": 992.25,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1492,
+    "server_id": 3,
+    "type": "house",
+    "name": "[NightAngel]",
+    "owner": "Free_Trappa",
+    "status": "Аукцион",
+    "x": 1623.4,
+    "y": 2567.34,
+    "price": 1228228228,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1790,
+    "server_id": 3,
+    "type": "house",
+    "name": "берлога Kide",
+    "owner": "Ron_Kide",
+    "status": "Аукцион",
+    "x": 2700.21,
+    "y": -1233.66,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {

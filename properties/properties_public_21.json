@@ -3288,6 +3288,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 274,
+    "server_id": 21,
+    "type": "house",
+    "name": "Kuvalda House",
+    "owner": "Timur_Kuvalda",
+    "status": "Занято",
+    "x": 2576.59,
+    "y": -1070.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 275,
     "server_id": 21,
     "type": "house",
@@ -3896,18 +3908,6 @@
     "status": "Занято",
     "x": 743.247,
     "y": -509.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 326,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Taliban",
-    "status": "Занято",
-    "x": 340.0769,
-    "y": 33.6021,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21912,15 +21912,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 274,
+    "id": 326,
     "server_id": 21,
     "type": "house",
-    "name": "Kuvalda House",
-    "owner": "Timur_Kuvalda",
+    "name": "Дом",
+    "owner": "Vova_Taliban",
     "status": "Аукцион",
-    "x": 2576.59,
-    "y": -1070.64,
-    "price": 800000000,
+    "x": 340.0769,
+    "y": 33.6021,
+    "price": 999999999,
     "district": "Сан-Андреас"
   },
   {

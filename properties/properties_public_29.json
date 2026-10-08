@@ -2544,18 +2544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
-    "server_id": 29,
-    "type": "house",
-    "name": "FEMBOY FAM",
-    "owner": "Casio_Elcapone",
-    "status": "Занято",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 213,
     "server_id": 29,
     "type": "house",
@@ -3764,6 +3752,18 @@
     "status": "Занято",
     "x": 1939.25,
     "y": -1066.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 314,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Huli_Tolku",
+    "status": "Занято",
+    "x": 1954.5,
+    "y": -1074.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5548,7 +5548,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Abramo_Rossi",
+    "owner": "Kedroviy_Oreh",
     "status": "Занято",
     "x": 2206.36,
     "y": 656.3729,
@@ -6456,18 +6456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 539,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sun_Takagi",
-    "status": "Занято",
-    "x": 2037.05,
-    "y": 2663.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 540,
     "server_id": 29,
     "type": "house",
@@ -6512,18 +6500,6 @@
     "status": "Занято",
     "x": 1950.41,
     "y": 2663.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 544,
-    "server_id": 29,
-    "type": "house",
-    "name": "Kefteme",
-    "owner": "Sun_Takagi",
-    "status": "Занято",
-    "x": 1921.69,
-    "y": 2664.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9648,6 +9624,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 806,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Huli_Tolku",
+    "status": "Занято",
+    "x": -2723.93,
+    "y": -105.541,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 807,
     "server_id": 29,
     "type": "house",
@@ -11016,6 +11004,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 922,
+    "server_id": 29,
+    "type": "house",
+    "name": "FOREVER GLOCK",
+    "owner": "Katsu_Alien",
+    "status": "Занято",
+    "x": -2280.46,
+    "y": 1130.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 923,
     "server_id": 29,
     "type": "house",
@@ -12172,7 +12172,7 @@
     "server_id": 29,
     "type": "house",
     "name": "TG:qxssxp1",
-    "owner": "Berkyt_Xnanax",
+    "owner": "Thomas_Vier",
     "status": "Занято",
     "x": -2542.09,
     "y": 967.7059,
@@ -21084,14 +21084,38 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 314,
+    "id": 212,
+    "server_id": 29,
+    "type": "house",
+    "name": "FEMBOY FAM",
+    "owner": "Casio_Elcapone",
+    "status": "Аукцион",
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 539,
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Huli_Tolku",
+    "owner": "Sun_Takagi",
     "status": "Аукцион",
-    "x": 1954.5,
-    "y": -1074.88,
+    "x": 2037.05,
+    "y": 2663.99,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 544,
+    "server_id": 29,
+    "type": "house",
+    "name": "Kefteme",
+    "owner": "Sun_Takagi",
+    "status": "Аукцион",
+    "x": 1921.69,
+    "y": 2664.64,
     "price": 200000000,
     "district": "Сан-Андреас"
   },
@@ -21104,19 +21128,7 @@
     "status": "Аукцион",
     "x": -2583.75,
     "y": 896.255,
-    "price": 450123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 806,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Huli_Tolku",
-    "status": "Аукцион",
-    "x": -2723.93,
-    "y": -105.541,
-    "price": 300000000,
+    "price": 400123123,
     "district": "Сан-Андреас"
   },
   {
@@ -21129,18 +21141,6 @@
     "x": -2222.18,
     "y": 1163.98,
     "price": 400123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 922,
-    "server_id": 29,
-    "type": "house",
-    "name": "FOREVER GLOCK",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -2280.46,
-    "y": 1130.83,
-    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
