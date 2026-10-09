@@ -6096,18 +6096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 508,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mihail_Balenov",
-    "status": "Занято",
-    "x": 1320.53,
-    "y": 2028.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 509,
     "server_id": 16,
     "type": "house",
@@ -6296,18 +6284,6 @@
     "status": "Занято",
     "x": 1596.98,
     "y": 2147.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 525,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": 1595.81,
-    "y": 2123.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9816,6 +9792,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 818,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Krabs_Markelovani",
+    "status": "Занято",
+    "x": -2689.46,
+    "y": -167.298,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 819,
     "server_id": 16,
     "type": "house",
@@ -12492,18 +12480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1043,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": -1761.0,
-    "y": 1174.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1044,
     "server_id": 16,
     "type": "house",
@@ -12608,6 +12584,18 @@
     "status": "Занято",
     "x": -1529.77,
     "y": 2686.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1053,
+    "server_id": 16,
+    "type": "house",
+    "name": "+деп условия",
+    "owner": "Karl_Ward",
+    "status": "Занято",
+    "x": -1930.04,
+    "y": 1190.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13060,7 +13048,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Yare_Fiend",
+    "owner": "Glebaryshnya",
     "status": "Занято",
     "x": -2129.67,
     "y": 894.8569,
@@ -14912,6 +14900,18 @@
     "status": "Занято",
     "x": -2477.25,
     "y": 1244.51,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1246,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sirius_Cybernetik",
+    "status": "Занято",
+    "x": -2477.93,
+    "y": 1264.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20284,7 +20284,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Blade_Kawasaki",
+    "owner": "Molodoy_Pacan",
     "status": "Занято",
     "x": 2818.53,
     "y": 2141.08,
@@ -22428,39 +22428,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 818,
+    "id": 508,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Krabs_Markelovani",
+    "owner": "Mihail_Balenov",
     "status": "Аукцион",
-    "x": -2689.46,
-    "y": -167.298,
-    "price": 400000000,
+    "x": 1320.53,
+    "y": 2028.12,
+    "price": 50123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1053,
-    "server_id": 16,
-    "type": "house",
-    "name": "+деп условия",
-    "owner": "Karl_Ward",
-    "status": "Аукцион",
-    "x": -1930.04,
-    "y": 1190.53,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1246,
+    "id": 525,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Sirius_Cybernetik",
+    "owner": "Glebaryshnya",
     "status": "Аукцион",
-    "x": -2477.93,
-    "y": 1264.11,
-    "price": 100000000,
+    "x": 1595.81,
+    "y": 2123.15,
+    "price": 325000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1043,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Glebaryshnya",
+    "status": "Аукцион",
+    "x": -1761.0,
+    "y": 1174.23,
+    "price": 225000000,
     "district": "Сан-Андреас"
   },
   {
