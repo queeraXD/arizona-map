@@ -17184,6 +17184,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1432,
+    "server_id": 14,
+    "type": "house",
+    "name": "Продается, звоните!",
+    "owner": "Ricardio_Diass",
+    "status": "Занято",
+    "x": 981.5859,
+    "y": 2414.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1433,
     "server_id": 14,
     "type": "house",
@@ -20727,8 +20739,8 @@
     "id": 1729,
     "server_id": 14,
     "type": "house",
-    "name": "Автогоночки фам",
-    "owner": "Ruslan_Wannasurr",
+    "name": "дом биг мака 2",
+    "owner": "Stas_Kornev",
     "status": "Занято",
     "x": 2501.22,
     "y": 1682.56,
@@ -20840,6 +20852,18 @@
     "status": "Занято",
     "x": 2601.05,
     "y": -1203.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1739,
+    "server_id": 14,
+    "type": "house",
+    "name": "Хата",
+    "owner": "Karlos_Calder",
+    "status": "Занято",
+    "x": 2594.5,
+    "y": -1207.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22872,18 +22896,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1914,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gangsta_Babe",
-    "status": "Занято",
-    "x": 1739.58,
-    "y": 2792.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1915,
     "server_id": 14,
     "type": "house",
@@ -22932,18 +22944,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1919,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gangsta_Babe",
-    "status": "Занято",
-    "x": 1772.08,
-    "y": 2871.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1920,
     "server_id": 14,
     "type": "house",
@@ -22952,18 +22952,6 @@
     "status": "Занято",
     "x": 1796.85,
     "y": 2861.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1921,
-    "server_id": 14,
-    "type": "house",
-    "name": "Сerber",
-    "owner": "Gangsta_Babe",
-    "status": "Занято",
-    "x": 1803.6,
-    "y": 2855.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23664,18 +23652,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1432,
-    "server_id": 14,
-    "type": "house",
-    "name": "Продается, звоните!",
-    "owner": "Chi_Vo",
-    "status": "Аукцион",
-    "x": 981.5859,
-    "y": 2414.26,
-    "price": 500123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1469,
     "server_id": 14,
     "type": "house",
@@ -23688,15 +23664,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1739,
+    "id": 1914,
     "server_id": 14,
     "type": "house",
-    "name": "Хата",
-    "owner": "Kaba_Noss",
+    "name": "Дом",
+    "owner": "Gangsta_Babe",
     "status": "Аукцион",
-    "x": 2594.5,
-    "y": -1207.66,
-    "price": 100000000,
+    "x": 1739.58,
+    "y": 2792.29,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1919,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gangsta_Babe",
+    "status": "Аукцион",
+    "x": 1772.08,
+    "y": 2871.2,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1921,
+    "server_id": 14,
+    "type": "house",
+    "name": "Сerber",
+    "owner": "Gangsta_Babe",
+    "status": "Аукцион",
+    "x": 1803.6,
+    "y": 2855.68,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27532,7 +27532,7 @@
     "server_id": 14,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Ruslan_Wannasurr",
+    "owner": "Armani_Exchange",
     "status": "Занято",
     "x": 1050.871,
     "y": -1803.655,

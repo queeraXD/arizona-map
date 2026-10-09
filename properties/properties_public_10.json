@@ -2928,6 +2928,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 244,
+    "server_id": 10,
+    "type": "house",
+    "name": "$$$Makadami Squad$$$",
+    "owner": "Tatarstan_Marlow",
+    "status": "Занято",
+    "x": 354.445,
+    "y": -1280.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 245,
     "server_id": 10,
     "type": "house",
@@ -4695,7 +4707,7 @@
     "id": 393,
     "server_id": 10,
     "type": "house",
-    "name": "Хатка Скуфилда",
+    "name": "Хатина скраю",
     "owner": "Michael_Schofield",
     "status": "Занято",
     "x": 2203.11,
@@ -7668,18 +7680,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 641,
-    "server_id": 10,
-    "type": "house",
-    "name": "pes family",
-    "owner": "antioxidantes",
-    "status": "Занято",
-    "x": 1535.16,
-    "y": 2609.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 642,
     "server_id": 10,
     "type": "house",
@@ -9992,18 +9992,6 @@
     "status": "Занято",
     "x": -2233.89,
     "y": 849.1599,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 835,
-    "server_id": 10,
-    "type": "house",
-    "name": "pes family",
-    "owner": "antioxidantes",
-    "status": "Занято",
-    "x": -2281.59,
-    "y": 873.2329,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12884,18 +12872,6 @@
     "status": "Занято",
     "x": -2901.54,
     "y": 1033.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1077,
-    "server_id": 10,
-    "type": "house",
-    "name": "Emerald Mafia",
-    "owner": "Graf_Dracul",
-    "status": "Занято",
-    "x": -2895.53,
-    "y": 1017.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23316,15 +23292,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 244,
+    "id": 1077,
     "server_id": 10,
     "type": "house",
-    "name": "$$$Makadami Squad$$$",
-    "owner": "Tatarstan_Marlow",
-    "status": "Аукцион",
-    "x": 354.445,
-    "y": -1280.53,
-    "price": 1200000000,
+    "name": "Emerald Mafia",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2895.53,
+    "y": 1017.01,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -23337,6 +23313,30 @@
     "x": 1280.86,
     "y": -874.83,
     "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 641,
+    "server_id": 10,
+    "type": "house",
+    "name": "pes family",
+    "owner": "antioxidantes",
+    "status": "Аукцион",
+    "x": 1535.16,
+    "y": 2609.22,
+    "price": 90000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 835,
+    "server_id": 10,
+    "type": "house",
+    "name": "pes family",
+    "owner": "antioxidantes",
+    "status": "Аукцион",
+    "x": -2281.59,
+    "y": 873.2329,
+    "price": 80000000,
     "district": "Сан-Андреас"
   },
   {

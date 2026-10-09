@@ -420,6 +420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 35,
+    "server_id": 32,
+    "type": "house",
+    "name": "дом влада флейтыв",
+    "owner": "AegisForce_VapeBoost",
+    "status": "Занято",
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 36,
     "server_id": 32,
     "type": "house",
@@ -5132,18 +5144,6 @@
     "status": "Занято",
     "x": 252.1829,
     "y": -92.4464,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 429,
-    "server_id": 32,
-    "type": "house",
-    "name": "Александр",
-    "owner": "Aleksander_Monopoly",
-    "status": "Занято",
-    "x": 252.173,
-    "y": -121.3349,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15940,7 +15940,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Убежище Мартина",
-    "owner": "Igor_Sokolov",
+    "owner": "Kirsan_Kaifat",
     "status": "Занято",
     "x": 1550.54,
     "y": 2846.08,
@@ -20020,7 +20020,7 @@
     "server_id": 32,
     "type": "house",
     "name": "FAM INSIDER - 1702",
-    "owner": "Ruslan_Morozovzzz",
+    "owner": "Alex_Prime",
     "status": "Занято",
     "x": 2468.34,
     "y": -1376.27,
@@ -21432,6 +21432,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1820,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп. Условия, Подвал и майнинг",
+    "owner": "Linch_Starlight",
+    "status": "Занято",
+    "x": 2645.53,
+    "y": 2019.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1821,
     "server_id": 32,
     "type": "house",
@@ -22500,51 +22512,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
+    "id": 429,
     "server_id": 32,
     "type": "house",
-    "name": "дом влада флейтыв",
-    "owner": "AegisForce_VapeBoost",
+    "name": "Александр",
+    "owner": "Aleksander_Monopoly",
     "status": "Аукцион",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 7500000000,
+    "x": 252.173,
+    "y": -121.3349,
+    "price": 6000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1820,
-    "server_id": 32,
-    "type": "house",
-    "name": "Деп. Условия, Подвал и майнинг",
-    "owner": "Green_Cannabis",
-    "status": "Аукцион",
-    "x": 2645.53,
-    "y": 2019.21,
-    "price": 1200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 104,
+    "id": 77,
     "server_id": 32,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Nolan_Pierce",
+    "owner": "Anton_Mas",
     "status": "Аукцион",
-    "x": -1990.88,
-    "y": 807.549,
-    "price": 125000,
+    "x": -227.385,
+    "y": 2711.95,
+    "price": 160000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 335,
+    "id": 105,
     "server_id": 32,
     "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Aleksandr_Amurov",
+    "name": "Магазин 24/7",
+    "owner": "Anton_Mas",
     "status": "Аукцион",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 1000000,
+    "x": -2588.35,
+    "y": 59.904,
+    "price": 140000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 200,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Anton_Mas",
+    "status": "Аукцион",
+    "x": -1983.44,
+    "y": 127.66,
+    "price": 170000,
     "district": "Сан-Андреас"
   },
   {
@@ -23232,18 +23244,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 77,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": -227.385,
-    "y": 2711.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 101,
     "server_id": 32,
     "type": "business",
@@ -23280,14 +23280,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 105,
+    "id": 104,
     "server_id": 32,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Anton_Mas",
+    "owner": "Nolan_Pierce",
     "status": "Занято",
-    "x": -2588.35,
-    "y": 59.904,
+    "x": -1990.88,
+    "y": 807.549,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25572,18 +25572,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 200,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": -1983.44,
-    "y": 127.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 201,
     "server_id": 32,
     "type": "business",
@@ -26537,6 +26525,18 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "Implored_Space",
+    "status": "Занято",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 335,
+    "server_id": 32,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Aleksandr_Amurov",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

@@ -2700,18 +2700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 225,
-    "server_id": 22,
-    "type": "house",
-    "name": "гренчо",
-    "owner": "Grinch_Blazex",
-    "status": "Занято",
-    "x": 946.0869,
-    "y": -710.3339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 226,
     "server_id": 22,
     "type": "house",
@@ -5180,6 +5168,18 @@
     "status": "Занято",
     "x": 253.3269,
     "y": -22.4484,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 432,
+    "server_id": 22,
+    "type": "house",
+    "name": "ДЕП УСОВИЯ + ВСЕ Слоты шкафа ",
+    "owner": "Timon_Estetik",
+    "status": "Занято",
+    "x": 2279.2,
+    "y": -1076.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18456,6 +18456,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1539,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lovlya_Vip",
+    "status": "Занято",
+    "x": -12.2384,
+    "y": 2346.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1540,
     "server_id": 22,
     "type": "house",
@@ -19159,18 +19171,6 @@
     "owner": "Gleb_Budilin",
     "status": "Занято",
     "x": 1542.35,
-    "y": 2003.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1599,
-    "server_id": 22,
-    "type": "house",
-    "name": "для майнинга 3",
-    "owner": "Kitana_Slay",
-    "status": "Занято",
-    "x": 1548.85,
     "y": 2003.91,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21348,18 +21348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1781,
-    "server_id": 22,
-    "type": "house",
-    "name": "Подвал для Крафта и Майнинга ",
-    "owner": "Kitana_Slay",
-    "status": "Занято",
-    "x": -775.414,
-    "y": 2765.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1782,
     "server_id": 22,
     "type": "house",
@@ -21507,8 +21495,8 @@
     "id": 1794,
     "server_id": 22,
     "type": "house",
-    "name": "Домик Дели:u1f4ab:",
-    "owner": "Dely_Winston",
+    "name": "Coldsimens Monopoly $$",
+    "owner": "Jinada_Coldsimens",
     "status": "Занято",
     "x": 148.4329,
     "y": 981.5,
@@ -21651,8 +21639,8 @@
     "id": 1806,
     "server_id": 22,
     "type": "house",
-    "name": "Coldsimens Monopoly $$",
-    "owner": "Jinada_Coldsimens",
+    "name": "Домик Дели:u1f4ab:",
+    "owner": "Dely_Winston",
     "status": "Занято",
     "x": -103.942,
     "y": 860.46,
@@ -22020,27 +22008,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 432,
+    "id": 225,
     "server_id": 22,
     "type": "house",
-    "name": "ДЕП УСОВИЯ + ВСЕ Слоты шкафа ",
-    "owner": "Marko_Viera",
+    "name": "гренчо",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 2279.2,
-    "y": -1076.63,
-    "price": 7000,
+    "x": 946.0869,
+    "y": -710.3339,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1539,
+    "id": 1599,
     "server_id": 22,
     "type": "house",
-    "name": "Дом",
-    "owner": "Lovlya_Vip",
+    "name": "для майнинга 3",
+    "owner": "Kitana_Slay",
     "status": "Аукцион",
-    "x": -12.2384,
-    "y": 2346.35,
-    "price": 5000000000,
+    "x": 1548.85,
+    "y": 2003.91,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1781,
+    "server_id": 22,
+    "type": "house",
+    "name": "Подвал для Крафта и Майнинга ",
+    "owner": "Kitana_Slay",
+    "status": "Аукцион",
+    "x": -775.414,
+    "y": 2765.34,
+    "price": 650000000,
     "district": "Сан-Андреас"
   },
   {
