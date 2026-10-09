@@ -10452,18 +10452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 872,
-    "server_id": 18,
-    "type": "house",
-    "name": ":lh::lo::lf::lf::lm::la::ln:",
-    "owner": "Dobryak_Rampage",
-    "status": "Занято",
-    "x": -298.635,
-    "y": 2565.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 873,
     "server_id": 18,
     "type": "house",
@@ -12219,7 +12207,7 @@
     "id": 1019,
     "server_id": 18,
     "type": "house",
-    "name": "Чекушка",
+    "name": "Дом",
     "owner": "Tomar_Covalli",
     "status": "Занято",
     "x": -2542.09,
@@ -16332,6 +16320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1362,
+    "server_id": 18,
+    "type": "house",
+    "name": "Kaer Morhen",
+    "owner": "Francis_Wolf",
+    "status": "Занято",
+    "x": 1115.72,
+    "y": -1562.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1363,
     "server_id": 18,
     "type": "house",
@@ -16712,18 +16712,6 @@
     "status": "Занято",
     "x": 1105.59,
     "y": -1569.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1395,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dark_Berlinskiy",
-    "status": "Занято",
-    "x": 1105.59,
-    "y": -1562.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18032,6 +18020,18 @@
     "status": "Занято",
     "x": 2608.15,
     "y": -1233.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1505,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Madier_Mayers",
+    "status": "Занято",
+    "x": 2615.11,
+    "y": -1237.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22188,26 +22188,26 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1362,
+    "id": 872,
     "server_id": 18,
     "type": "house",
-    "name": "Kaer Morhen",
-    "owner": "Francis_Wolf",
+    "name": ":lh::lo::lf::lf::lm::la::ln:",
+    "owner": "Dobryak_Rampage",
     "status": "Аукцион",
-    "x": 1115.72,
-    "y": -1562.69,
-    "price": 45000,
+    "x": -298.635,
+    "y": 2565.81,
+    "price": 3500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1505,
+    "id": 1395,
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Kolya_Infinity",
+    "owner": "Dark_Berlinskiy",
     "status": "Аукцион",
-    "x": 2615.11,
-    "y": -1237.98,
+    "x": 1105.59,
+    "y": -1562.68,
     "price": 3000000000,
     "district": "Сан-Андреас"
   },

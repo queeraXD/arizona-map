@@ -684,18 +684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
-    "server_id": 13,
-    "type": "house",
-    "name": "емо хаус джеффка",
-    "owner": "Ryan_Emo",
-    "status": "Занято",
-    "x": 2150.0,
-    "y": -1400.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 58,
     "server_id": 13,
     "type": "house",
@@ -11728,7 +11716,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Haruka 0 Family",
-    "owner": "methoxetamine",
+    "owner": "Svyatoslav_Odessa",
     "status": "Занято",
     "x": -2422.26,
     "y": 2491.39,
@@ -12212,6 +12200,18 @@
     "status": "Занято",
     "x": -2563.4,
     "y": 1148.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1018,
+    "server_id": 13,
+    "type": "house",
+    "name": "KorolHouse",
+    "owner": "Zheka_Zhuk",
+    "status": "Занято",
+    "x": -2541.3,
+    "y": 987.9089,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14888,6 +14888,18 @@
     "status": "Занято",
     "x": -2433.99,
     "y": 1274.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1242,
+    "server_id": 13,
+    "type": "house",
+    "name": "resized sqd",
+    "owner": "Francis_Buonarroti",
+    "status": "Занято",
+    "x": -2433.03,
+    "y": 1264.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20340,18 +20352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1697,
-    "server_id": 13,
-    "type": "house",
-    "name": "resized sqd",
-    "owner": "Maga_Siay",
-    "status": "Занято",
-    "x": -2018.55,
-    "y": 849.317,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1698,
     "server_id": 13,
     "type": "house",
@@ -23268,27 +23268,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1018,
+    "id": 57,
     "server_id": 13,
     "type": "house",
-    "name": "KorolHouse",
-    "owner": "Zheka_Zhuk",
+    "name": "Подвалы + Деп Условия",
+    "owner": "Rich_Existence",
     "status": "Аукцион",
-    "x": -2541.3,
-    "y": 987.9089,
-    "price": 450000000,
+    "x": 2150.0,
+    "y": -1400.65,
+    "price": 1650000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1242,
+    "id": 1697,
     "server_id": 13,
     "type": "house",
     "name": "resized sqd",
-    "owner": "Zheka_Zhuk",
+    "owner": "Maga_Siay",
     "status": "Аукцион",
-    "x": -2433.03,
-    "y": 1264.2,
-    "price": 450000000,
+    "x": -2018.55,
+    "y": 849.317,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 15,
+    "server_id": 13,
+    "type": "business",
+    "name": "Городская ферма",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -86.149,
+    "y": 2.603,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24332,18 +24344,6 @@
     "status": "Занято",
     "x": 1288.032,
     "y": 315.8082,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 15,
-    "server_id": 13,
-    "type": "business",
-    "name": "Городская ферма",
-    "owner": "Nikita_Rare",
-    "status": "Занято",
-    "x": -86.149,
-    "y": 2.603,
     "price": 0,
     "district": "Сан-Андреас"
   },
