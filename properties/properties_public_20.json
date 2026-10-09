@@ -5208,18 +5208,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 434,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Slardar_Rose",
-    "status": "Занято",
-    "x": 2297.67,
-    "y": -1053.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 435,
     "server_id": 20,
     "type": "house",
@@ -9048,18 +9036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 754,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": -2678.18,
-    "y": 722.1619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 755,
     "server_id": 20,
     "type": "house",
@@ -9879,8 +9855,8 @@
     "id": 823,
     "server_id": 20,
     "type": "house",
-    "name": "wind ranger ebt",
-    "owner": "Rjey_Javelin",
+    "name": "Monarch empire",
+    "owner": "Lemon_Monarch",
     "status": "Занято",
     "x": -2688.28,
     "y": -118.0049,
@@ -10964,18 +10940,6 @@
     "status": "Занято",
     "x": -2126.81,
     "y": 1087.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 914,
-    "server_id": 20,
-    "type": "house",
-    "name": "shelby",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": -2159.76,
-    "y": 1066.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15471,8 +15435,8 @@
     "id": 1289,
     "server_id": 20,
     "type": "house",
-    "name": "лямов 100 в шкафу",
-    "owner": "Rjey_Javelin",
+    "name": "Monarch empire",
+    "owner": "Lemon_Monarch",
     "status": "Занято",
     "x": -2558.72,
     "y": -79.9783,
@@ -21240,6 +21204,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1770,
+    "server_id": 20,
+    "type": "house",
+    "name": "// HASYGAWA //",
+    "owner": "Vanechka_Implored",
+    "status": "Занято",
+    "x": 1793.63,
+    "y": 2792.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1771,
     "server_id": 20,
     "type": "house",
@@ -21636,18 +21612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1805,
-    "server_id": 20,
-    "type": "house",
-    "name": "Recorti",
-    "owner": "Slardar_Rose",
-    "status": "Занято",
-    "x": 2659.15,
-    "y": 1978.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1806,
     "server_id": 20,
     "type": "house",
@@ -21704,18 +21668,6 @@
     "status": "Занято",
     "x": 2626.9,
     "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1811,
-    "server_id": 20,
-    "type": "house",
-    "name": "Логово",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": 2659.24,
-    "y": 1978.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22344,15 +22296,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1770,
+    "id": 434,
     "server_id": 20,
     "type": "house",
-    "name": "// HASYGAWA //",
-    "owner": "Vanechka_Implored",
+    "name": "Аполлон",
+    "owner": "Slardar_Rose",
     "status": "Аукцион",
-    "x": 1793.63,
-    "y": 2792.24,
-    "price": 500123123,
+    "x": 2297.67,
+    "y": -1053.05,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 754,
+    "server_id": 20,
+    "type": "house",
+    "name": "retribution",
+    "owner": "Zheka_Zhuk",
+    "status": "Аукцион",
+    "x": -2678.18,
+    "y": 722.1619,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 914,
+    "server_id": 20,
+    "type": "house",
+    "name": "shelby",
+    "owner": "Zheka_Zhuk",
+    "status": "Аукцион",
+    "x": -2159.76,
+    "y": 1066.95,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22365,6 +22341,42 @@
     "x": 2640.95,
     "y": 2029.23,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1805,
+    "server_id": 20,
+    "type": "house",
+    "name": "Recorti",
+    "owner": "Slardar_Rose",
+    "status": "Аукцион",
+    "x": 2659.15,
+    "y": 1978.84,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1811,
+    "server_id": 20,
+    "type": "house",
+    "name": "Логово",
+    "owner": "Zheka_Zhuk",
+    "status": "Аукцион",
+    "x": 2659.24,
+    "y": 1978.84,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 73,
+    "server_id": 20,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Konstantin_Pinko",
+    "status": "Аукцион",
+    "x": 1657.04,
+    "y": 1741.65,
+    "price": 120000,
     "district": "Сан-Андреас"
   },
   {
@@ -23000,18 +23012,6 @@
     "status": "Занято",
     "x": 1998.29,
     "y": 2302.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 73,
-    "server_id": 20,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Konstantin_Pinko",
-    "status": "Занято",
-    "x": 1657.04,
-    "y": 1741.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
