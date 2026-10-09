@@ -13284,18 +13284,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1107,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kazuha_Scuff",
-    "status": "Занято",
-    "x": 1809.42,
-    "y": -1299.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1108,
     "server_id": 17,
     "type": "house",
@@ -14088,54 +14076,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1174,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Takeru_Miyamoto",
-    "status": "Занято",
-    "x": -906.4069,
-    "y": -1826.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1175,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Takeru_Miyamoto",
-    "status": "Занято",
-    "x": -890.033,
-    "y": -1826.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1176,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Takeru_Miyamoto",
-    "status": "Занято",
-    "x": -881.4689,
-    "y": -1837.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1177,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Takeru_Miyamoto",
-    "status": "Занято",
-    "x": -865.7399,
-    "y": -1849.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1178,
     "server_id": 17,
     "type": "house",
@@ -14620,7 +14560,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Akira_Griff",
+    "owner": "Akira_Lua",
     "status": "Занято",
     "x": -2634.61,
     "y": 261.0169,
@@ -16128,18 +16068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1344,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kazuha_Scuff",
-    "status": "Занято",
-    "x": 1110.53,
-    "y": -1578.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1345,
     "server_id": 17,
     "type": "house",
@@ -16484,18 +16412,6 @@
     "status": "Занято",
     "x": 1112.2,
     "y": -1575.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1374,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Toha_Tesak",
-    "status": "Занято",
-    "x": 1110.53,
-    "y": -1578.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17468,18 +17384,6 @@
     "status": "Занято",
     "x": -2358.48,
     "y": 244.4989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1456,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Toha_Tesak",
-    "status": "Занято",
-    "x": -2361.51,
-    "y": 246.619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22476,6 +22380,114 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1107,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1809.42,
+    "y": -1299.34,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1174,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Takeru_Miyamoto",
+    "status": "Аукцион",
+    "x": -906.4069,
+    "y": -1826.94,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1175,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Takeru_Miyamoto",
+    "status": "Аукцион",
+    "x": -890.033,
+    "y": -1826.01,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1176,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Takeru_Miyamoto",
+    "status": "Аукцион",
+    "x": -881.4689,
+    "y": -1837.21,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1177,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Takeru_Miyamoto",
+    "status": "Аукцион",
+    "x": -865.7399,
+    "y": -1849.4,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1344,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1110.53,
+    "y": -1578.45,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1374,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1110.53,
+    "y": -1578.45,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1456,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2361.51,
+    "y": 246.619,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 216,
+    "server_id": 17,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Artem_Cuerto",
+    "status": "Аукцион",
+    "x": 2327.86,
+    "y": 2421.25,
+    "price": 6000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 17,
     "type": "business",
@@ -25628,18 +25640,6 @@
     "status": "Занято",
     "x": 1976.18,
     "y": -1980.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 216,
-    "server_id": 17,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Artem_Cuerto",
-    "status": "Занято",
-    "x": 2327.86,
-    "y": 2421.25,
     "price": 0,
     "district": "Сан-Андреас"
   },

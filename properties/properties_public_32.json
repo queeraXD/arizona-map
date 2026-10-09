@@ -420,6 +420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 35,
+    "server_id": 32,
+    "type": "house",
+    "name": "в шкафу всякая хуйня",
+    "owner": "AegisForce_VapeBoost",
+    "status": "Занято",
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 36,
     "server_id": 32,
     "type": "house",
@@ -8340,18 +8352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 698,
-    "server_id": 32,
-    "type": "house",
-    "name": "#rrrrпонидельник",
-    "owner": "Lavoym_Masferi",
-    "status": "Занято",
-    "x": 1407.6,
-    "y": 2524.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 699,
     "server_id": 32,
     "type": "house",
@@ -9328,7 +9328,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Pashon_Escobar",
+    "owner": "Arsen_Balkoticovivh",
     "status": "Занято",
     "x": -2541.25,
     "y": 750.9169,
@@ -11020,7 +11020,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Farmila",
+    "owner": "Nosik_Zamorozhen",
     "status": "Занято",
     "x": -2239.14,
     "y": 1154.01,
@@ -11572,7 +11572,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Absolute Squad",
-    "owner": "Oliver_Farmila",
+    "owner": "Vlad_Surov",
     "status": "Занято",
     "x": -2424.9,
     "y": 2448.35,
@@ -11643,7 +11643,7 @@
     "id": 975,
     "server_id": 32,
     "type": "house",
-    "name": "деп.условия",
+    "name": "пиздюк максимка",
     "owner": "Makxth_Legionov",
     "status": "Занято",
     "x": -2464.03,
@@ -18952,7 +18952,7 @@
     "server_id": 32,
     "type": "house",
     "name": "moty Prins",
-    "owner": "Moty_Quest",
+    "owner": "Liam_Lawson",
     "status": "Занято",
     "x": 2537.03,
     "y": 1241.12,
@@ -19887,8 +19887,8 @@
     "id": 1691,
     "server_id": 32,
     "type": "house",
-    "name": "CripsHouse",
-    "owner": "Stefan_Crips",
+    "name": "chilld famq",
+    "owner": "President_Resident",
     "status": "Занято",
     "x": 1110.52,
     "y": -1554.05,
@@ -20168,18 +20168,6 @@
     "status": "Занято",
     "x": 2492.13,
     "y": -1417.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1715,
-    "server_id": 32,
-    "type": "house",
-    "name": "FAM INSIDER - 1715",
-    "owner": "Arizona_RP",
-    "status": "Занято",
-    "x": 2487.38,
-    "y": -1417.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22512,15 +22500,111 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
+    "id": 698,
     "server_id": 32,
     "type": "house",
-    "name": "в шкафу всякая хуйня",
-    "owner": "AegisForce_VapeBoost",
+    "name": "#rrrrпонидельник",
+    "owner": "Lavoym_Masferi",
     "status": "Аукцион",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 3000000000,
+    "x": 1407.6,
+    "y": 2524.46,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1715,
+    "server_id": 32,
+    "type": "house",
+    "name": "FAM INSIDER - 1715",
+    "owner": "Arizona_RP",
+    "status": "Аукцион",
+    "x": 2487.38,
+    "y": -1417.45,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 38,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Ricardio_Diass",
+    "status": "Аукцион",
+    "x": 1567.98,
+    "y": -1897.55,
+    "price": 310000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 77,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Anton_Mas",
+    "status": "Аукцион",
+    "x": -227.385,
+    "y": 2711.95,
+    "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 105,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Anton_Mas",
+    "status": "Аукцион",
+    "x": -2588.35,
+    "y": 59.904,
+    "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 200,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Anton_Mas",
+    "status": "Аукцион",
+    "x": -1983.44,
+    "y": 127.66,
+    "price": 165000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 266,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Nolan_Pierce",
+    "status": "Аукцион",
+    "x": 947.921,
+    "y": 1719.16,
+    "price": 120000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 294,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Nolan_Pierce",
+    "status": "Аукцион",
+    "x": 2472.77,
+    "y": 2034.24,
+    "price": 120000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 299,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Nolan_Pierce",
+    "status": "Аукцион",
+    "x": 1876.07,
+    "y": 2234.15,
+    "price": 120000,
     "district": "Сан-Андреас"
   },
   {
@@ -22896,18 +22980,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 299,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Nolan_Pierce",
-    "status": "Занято",
-    "x": 1876.07,
-    "y": 2234.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 351,
     "server_id": 32,
     "type": "business",
@@ -23208,18 +23280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 77,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": -227.385,
-    "y": 2711.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 101,
     "server_id": 32,
     "type": "business",
@@ -23264,18 +23324,6 @@
     "status": "Занято",
     "x": -1990.88,
     "y": 807.549,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 105,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": -2588.35,
-    "y": 59.904,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24180,18 +24228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 38,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ricardio_Diass",
-    "status": "Занято",
-    "x": 1567.98,
-    "y": -1897.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 49,
     "server_id": 32,
     "type": "business",
@@ -24572,18 +24608,6 @@
     "status": "Занято",
     "x": -144.085,
     "y": 1224.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 294,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Nolan_Pierce",
-    "status": "Занято",
-    "x": 2472.77,
-    "y": 2034.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25560,18 +25584,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 200,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": -1983.44,
-    "y": 127.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 201,
     "server_id": 32,
     "type": "business",
@@ -25724,18 +25736,6 @@
     "status": "Занято",
     "x": 2824.77,
     "y": 1290.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 266,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Nolan_Pierce",
-    "status": "Занято",
-    "x": 947.921,
-    "y": 1719.16,
     "price": 0,
     "district": "Сан-Андреас"
   },

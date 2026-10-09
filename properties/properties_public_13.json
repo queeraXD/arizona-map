@@ -6924,18 +6924,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 577,
-    "server_id": 13,
-    "type": "house",
-    "name": "sell tg t1murkks",
-    "owner": "Viru_Avex",
-    "status": "Занято",
-    "x": -201.6629,
-    "y": 2772.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 578,
     "server_id": 13,
     "type": "house",
@@ -14884,7 +14872,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Winston_Nilson",
+    "owner": "Pendejo_Savchenko",
     "status": "Занято",
     "x": -2433.73,
     "y": 1281.51,
@@ -23292,15 +23280,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 109,
+    "id": 577,
+    "server_id": 13,
+    "type": "house",
+    "name": "sell tg t1murkks",
+    "owner": "Viru_Avex",
+    "status": "Аукцион",
+    "x": -201.6629,
+    "y": 2772.17,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 434,
     "server_id": 13,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "Predator_Karlo",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
     "status": "Аукцион",
-    "x": -2356.45,
-    "y": 1008.19,
-    "price": 125000,
+    "x": 2216.0,
+    "y": -1679.688,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 435,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 532.7643,
+    "y": 874.9283,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25124,6 +25136,18 @@
     "status": "Занято",
     "x": -1721.53,
     "y": 1359.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 109,
+    "server_id": 13,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Predator_Karlo",
+    "status": "Занято",
+    "x": -2356.45,
+    "y": 1008.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

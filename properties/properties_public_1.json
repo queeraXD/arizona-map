@@ -9960,18 +9960,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 830,
-    "server_id": 1,
-    "type": "house",
-    "name": "archive",
-    "owner": "Vladimir_Hmxd",
-    "status": "Занято",
-    "x": -2723.16,
-    "y": -16.7231,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 831,
     "server_id": 1,
     "type": "house",
@@ -10148,6 +10136,18 @@
     "status": "Занято",
     "x": -2159.53,
     "y": 983.763,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 846,
+    "server_id": 1,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Kult_VechnostI",
+    "status": "Занято",
+    "x": -2159.82,
+    "y": 965.3159,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17808,18 +17808,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1486,
-    "server_id": 1,
-    "type": "house",
-    "name": "...::: Inside House :::...",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": 2433.93,
-    "y": -1303.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1487,
     "server_id": 1,
     "type": "house",
@@ -21784,7 +21772,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Хатка Какаша енд Гони",
-    "owner": "Raffaele_Altieri",
+    "owner": "Cain_Augustus",
     "status": "Занято",
     "x": 2437.23,
     "y": 1211.04,
@@ -24156,15 +24144,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 846,
+    "id": 830,
     "server_id": 1,
     "type": "house",
-    "name": "pes family",
-    "owner": "Kult_VechnostI",
+    "name": "archive",
+    "owner": "Vladimir_Hmxd",
     "status": "Аукцион",
-    "x": -2159.82,
-    "y": 965.3159,
-    "price": 2500123123,
+    "x": -2723.16,
+    "y": -16.7231,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1486,
+    "server_id": 1,
+    "type": "house",
+    "name": "...::: Inside House :::...",
+    "owner": "Kolya_Infinity",
+    "status": "Аукцион",
+    "x": 2433.93,
+    "y": -1303.37,
+    "price": 1600000000,
     "district": "Сан-Андреас"
   },
   {

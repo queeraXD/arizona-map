@@ -3288,6 +3288,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 274,
+    "server_id": 21,
+    "type": "house",
+    "name": "Ephstein Monopoly",
+    "owner": "Nirvana_Ephstein",
+    "status": "Занято",
+    "x": 2576.59,
+    "y": -1070.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 275,
     "server_id": 21,
     "type": "house",
@@ -3896,18 +3908,6 @@
     "status": "Занято",
     "x": 743.247,
     "y": -509.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 326,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Taliban",
-    "status": "Занято",
-    "x": 340.0769,
-    "y": 33.6021,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6584,18 +6584,6 @@
     "status": "Занято",
     "x": 574.0339,
     "y": 1156.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 550,
-    "server_id": 21,
-    "type": "house",
-    "name": "Intelligence",
-    "owner": "Autostopom_Pofazesna",
-    "status": "Занято",
-    "x": 618.3629,
-    "y": 1168.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20748,6 +20736,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1731,
+    "server_id": 21,
+    "type": "house",
+    "name": "крепость",
+    "owner": "Lorenzo_Beer",
+    "status": "Занято",
+    "x": 2468.13,
+    "y": -1391.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1732,
     "server_id": 21,
     "type": "house",
@@ -21912,27 +21912,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 274,
+    "id": 326,
     "server_id": 21,
     "type": "house",
-    "name": "Kuvalda House",
-    "owner": "Timur_Kuvalda",
+    "name": "Дом",
+    "owner": "Vova_Taliban",
     "status": "Аукцион",
-    "x": 2576.59,
-    "y": -1070.64,
-    "price": 800000000,
+    "x": 340.0769,
+    "y": 33.6021,
+    "price": 999999999,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1731,
+    "id": 550,
     "server_id": 21,
     "type": "house",
-    "name": "крепость",
-    "owner": "Lorenzo_Beer",
+    "name": "Intelligence",
+    "owner": "Autostopom_Pofazesna",
     "status": "Аукцион",
-    "x": 2468.13,
-    "y": -1391.39,
-    "price": 430000000,
+    "x": 618.3629,
+    "y": 1168.83,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 98,
+    "server_id": 21,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "After_Hours",
+    "status": "Аукцион",
+    "x": 2016.15,
+    "y": 1149.97,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 352,
+    "server_id": 21,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "After_Hours",
+    "status": "Аукцион",
+    "x": 1256.55,
+    "y": 274.927,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24288,18 +24312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 98,
-    "server_id": 21,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "After_Hours",
-    "status": "Занято",
-    "x": 2016.15,
-    "y": 1149.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 99,
     "server_id": 21,
     "type": "business",
@@ -24332,18 +24344,6 @@
     "status": "Занято",
     "x": 1071.66,
     "y": -1438.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 352,
-    "server_id": 21,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "After_Hours",
-    "status": "Занято",
-    "x": 1256.55,
-    "y": 274.927,
     "price": 0,
     "district": "Сан-Андреас"
   },

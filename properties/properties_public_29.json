@@ -3408,18 +3408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 284,
-    "server_id": 29,
-    "type": "house",
-    "name": "Домик Анюты",
-    "owner": "Antika_Vialpando",
-    "status": "Занято",
-    "x": 2462.37,
-    "y": -1011.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 285,
     "server_id": 29,
     "type": "house",
@@ -3764,18 +3752,6 @@
     "status": "Занято",
     "x": 1939.25,
     "y": -1066.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 314,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Huli_Tolku",
-    "status": "Занято",
-    "x": 1954.5,
-    "y": -1074.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7300,7 +7276,7 @@
     "server_id": 29,
     "type": "house",
     "name": "вирты фарм аз",
-    "owner": "Slishu_Forbs",
+    "owner": "NeHattori_Keto",
     "status": "Занято",
     "x": -766.3779,
     "y": 1614.21,
@@ -9328,7 +9304,7 @@
     "server_id": 29,
     "type": "house",
     "name": "7777",
-    "owner": "Alex_Arizona",
+    "owner": "Slishu_Forbs",
     "status": "Занято",
     "x": -2548.71,
     "y": 819.799,
@@ -9668,18 +9644,6 @@
     "status": "Занято",
     "x": -2725.64,
     "y": -92.5289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 806,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Huli_Tolku",
-    "status": "Занято",
-    "x": -2723.93,
-    "y": -105.541,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14580,18 +14544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1215,
-    "server_id": 29,
-    "type": "house",
-    "name": "Ball (empire)",
-    "owner": "Kataomi_Shiro",
-    "status": "Занято",
-    "x": -2856.66,
-    "y": 841.9479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1216,
     "server_id": 29,
     "type": "house",
@@ -15364,7 +15316,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Пиво 3",
-    "owner": "Alex_Arizona",
+    "owner": "Vanilka_Minion",
     "status": "Занято",
     "x": -2620.77,
     "y": -185.8979,
@@ -17316,18 +17268,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1445,
-    "server_id": 29,
-    "type": "house",
-    "name": "zzZzz",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": 412.1019,
-    "y": 1385.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1446,
     "server_id": 29,
     "type": "house",
@@ -19087,18 +19027,6 @@
     "owner": "Mikki_Creusoo",
     "status": "Занято",
     "x": 2386.15,
-    "y": 1682.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1593,
-    "server_id": 29,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Amal_Kennedy",
-    "status": "Занято",
-    "x": 2391.4,
     "y": 1682.88,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21132,6 +21060,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 284,
+    "server_id": 29,
+    "type": "house",
+    "name": "Домик Анюты",
+    "owner": "Antika_Vialpando",
+    "status": "Аукцион",
+    "x": 2462.37,
+    "y": -1011.12,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 314,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Huli_Tolku",
+    "status": "Аукцион",
+    "x": 1954.5,
+    "y": -1074.88,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 806,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Huli_Tolku",
+    "status": "Аукцион",
+    "x": -2723.93,
+    "y": -105.541,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1215,
+    "server_id": 29,
+    "type": "house",
+    "name": "Ball (empire)",
+    "owner": "Kataomi_Shiro",
+    "status": "Аукцион",
+    "x": -2856.66,
+    "y": 841.9479,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1280,
     "server_id": 29,
     "type": "house",
@@ -21141,6 +21117,30 @@
     "x": -2725.79,
     "y": -36.4976,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1445,
+    "server_id": 29,
+    "type": "house",
+    "name": "zzZzz",
+    "owner": "Kedroviy_Oreh",
+    "status": "Аукцион",
+    "x": 412.1019,
+    "y": 1385.15,
+    "price": 350123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1593,
+    "server_id": 29,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Amal_Kennedy",
+    "status": "Аукцион",
+    "x": 2391.4,
+    "y": 1682.88,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {

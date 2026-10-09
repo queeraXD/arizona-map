@@ -1120,7 +1120,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Вкусняшка KitKat",
-    "owner": "Kit_Katov",
+    "owner": "Christopher_Gun",
     "status": "Занято",
     "x": 2016.54,
     "y": -1629.92,
@@ -4824,18 +4824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
-    "status": "Занято",
-    "x": 2448.44,
-    "y": -11.0635,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 403,
     "server_id": 7,
     "type": "house",
@@ -6176,6 +6164,18 @@
     "status": "Занято",
     "x": 1549.98,
     "y": 2096.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 515,
+    "server_id": 7,
+    "type": "house",
+    "name": "Так и живем!",
+    "owner": "Moon_Kaiser",
+    "status": "Занято",
+    "x": 1554.39,
+    "y": 2074.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7992,18 +7992,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 667,
-    "server_id": 7,
-    "type": "house",
-    "name": "Vaprosi Farm",
-    "owner": "Adas_Wayne",
-    "status": "Занято",
-    "x": 1029.48,
-    "y": 1976.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 668,
     "server_id": 7,
     "type": "house",
@@ -8480,18 +8468,6 @@
     "status": "Занято",
     "x": 1600.52,
     "y": 2609.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 708,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gatila_Sebekov",
-    "status": "Занято",
-    "x": -2180.58,
-    "y": -2519.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15024,18 +15000,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1253,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gatila_Sebekov",
-    "status": "Занято",
-    "x": -2372.56,
-    "y": 834.367,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1254,
     "server_id": 7,
     "type": "house",
@@ -17808,18 +17772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1485,
-    "server_id": 7,
-    "type": "house",
-    "name": "Bloomberg Empire B.B :uf221:",
-    "owner": "Adas_Wayne",
-    "status": "Занято",
-    "x": 397.2869,
-    "y": 1157.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1486,
     "server_id": 7,
     "type": "house",
@@ -18188,6 +18140,18 @@
     "status": "Занято",
     "x": -2285.08,
     "y": 849.6699,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1517,
+    "server_id": 7,
+    "type": "house",
+    "name": "АСК ВД",
+    "owner": "Arturro_Gaty",
+    "status": "Занято",
+    "x": -2285.31,
+    "y": 829.2849,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22284,18 +22248,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1859,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gatila_Sebekov",
-    "status": "Занято",
-    "x": 2003.68,
-    "y": 2163.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1860,
     "server_id": 7,
     "type": "house",
@@ -22899,7 +22851,7 @@
     "id": 1910,
     "server_id": 7,
     "type": "house",
-    "name": "Наземка",
+    "name": "СПАВН ПИТЕРБИДА",
     "owner": "Artem_Kavay",
     "status": "Занято",
     "x": 458.7349,
@@ -25524,27 +25476,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 515,
+    "id": 402,
     "server_id": 7,
     "type": "house",
-    "name": "Супер халупка",
-    "owner": "Surio_Kettori",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
     "status": "Аукцион",
-    "x": 1554.39,
-    "y": 2074.34,
-    "price": 1500000000,
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 6999999999,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1517,
+    "id": 667,
     "server_id": 7,
     "type": "house",
-    "name": "АСК ВД",
-    "owner": "Arturro_Gaty",
+    "name": "Vaprosi Farm",
+    "owner": "Adas_Wayne",
     "status": "Аукцион",
-    "x": -2285.31,
-    "y": 829.2849,
-    "price": 7000000000,
+    "x": 1029.48,
+    "y": 1976.11,
+    "price": 5000228228,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 708,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gatila_Sebekov",
+    "status": "Аукцион",
+    "x": -2180.58,
+    "y": -2519.39,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1253,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gatila_Sebekov",
+    "status": "Аукцион",
+    "x": -2372.56,
+    "y": 834.367,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1485,
+    "server_id": 7,
+    "type": "house",
+    "name": "Bloomberg Empire B.B :uf221:",
+    "owner": "Adas_Wayne",
+    "status": "Аукцион",
+    "x": 397.2869,
+    "y": 1157.75,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1859,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gatila_Sebekov",
+    "status": "Аукцион",
+    "x": 2003.68,
+    "y": 2163.5,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
