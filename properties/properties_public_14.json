@@ -11136,6 +11136,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 928,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Rik_Hokage",
+    "status": "Занято",
+    "x": -1860.83,
+    "y": 1114.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 929,
     "server_id": 14,
     "type": "house",
@@ -22296,18 +22308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1864,
-    "server_id": 14,
-    "type": "house",
-    "name": "Fort Boyard",
-    "owner": "Eugene_Mironov",
-    "status": "Занято",
-    "x": 2492.13,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1865,
     "server_id": 14,
     "type": "house",
@@ -22447,18 +22447,6 @@
     "owner": "Mahon_Nikihan",
     "status": "Занято",
     "x": 2476.43,
-    "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1877,
-    "server_id": 14,
-    "type": "house",
-    "name": "Fort Boyard",
-    "owner": "Eugene_Mironov",
-    "status": "Занято",
-    "x": 2468.72,
     "y": -1376.27,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22644,18 +22632,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1893,
-    "server_id": 14,
-    "type": "house",
-    "name": "Fort Boyard",
-    "owner": "Eugene_Mironov",
-    "status": "Занято",
-    "x": 2468.42,
-    "y": -1424.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1894,
     "server_id": 14,
     "type": "house",
@@ -22836,18 +22812,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1909,
-    "server_id": 14,
-    "type": "house",
-    "name": "Shadow",
-    "owner": "Olga_Kunilingus",
-    "status": "Занято",
-    "x": 1739.4,
-    "y": 2792.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1910,
     "server_id": 14,
     "type": "house",
@@ -22988,18 +22952,6 @@
     "status": "Занято",
     "x": 1803.6,
     "y": 2855.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1922,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Olga_Kunilingus",
-    "status": "Занято",
-    "x": 1804.9,
-    "y": 2834.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23688,15 +23640,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 928,
+    "id": 1864,
     "server_id": 14,
     "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
+    "name": "Fort Boyard",
+    "owner": "Eugene_Mironov",
     "status": "Аукцион",
-    "x": -1860.83,
-    "y": 1114.77,
-    "price": 300000000,
+    "x": 2492.13,
+    "y": -1383.37,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1877,
+    "server_id": 14,
+    "type": "house",
+    "name": "Fort Boyard",
+    "owner": "Eugene_Mironov",
+    "status": "Аукцион",
+    "x": 2468.72,
+    "y": -1376.27,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1893,
+    "server_id": 14,
+    "type": "house",
+    "name": "Fort Boyard",
+    "owner": "Eugene_Mironov",
+    "status": "Аукцион",
+    "x": 2468.42,
+    "y": -1424.58,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1909,
+    "server_id": 14,
+    "type": "house",
+    "name": "Автогоночки фам",
+    "owner": "Olga_Kunilingus",
+    "status": "Аукцион",
+    "x": 1739.4,
+    "y": 2792.25,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1922,
+    "server_id": 14,
+    "type": "house",
+    "name": "Автогоночки фам",
+    "owner": "Olga_Kunilingus",
+    "status": "Аукцион",
+    "x": 1804.9,
+    "y": 2834.84,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

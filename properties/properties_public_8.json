@@ -4236,18 +4236,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 353,
-    "server_id": 8,
-    "type": "house",
-    "name": "майнинг 1",
-    "owner": "Dusya_Mercedes",
-    "status": "Занято",
-    "x": 1283.53,
-    "y": -897.827,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 354,
     "server_id": 8,
     "type": "house",
@@ -15376,7 +15364,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Дом",
-    "owner": "Van_Guard",
+    "owner": "Patric_Baytman",
     "status": "Занято",
     "x": -2413.72,
     "y": 1137.56,
@@ -15824,6 +15812,18 @@
     "status": "Занято",
     "x": -2558.62,
     "y": -145.865,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1321,
+    "server_id": 8,
+    "type": "house",
+    "name": "Ферма видеокарт №10",
+    "owner": "Coll_Apse",
+    "status": "Занято",
+    "x": -2576.57,
+    "y": -145.8639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18056,18 +18056,6 @@
     "status": "Занято",
     "x": 2663.18,
     "y": -1207.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1508,
-    "server_id": 8,
-    "type": "house",
-    "name": "Ферма видеокарт №5",
-    "owner": "Many_Leage",
-    "status": "Занято",
-    "x": 2663.18,
-    "y": -1216.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22824,18 +22812,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1905,
-    "server_id": 8,
-    "type": "house",
-    "name": "майнинг 2",
-    "owner": "Dusya_Mercedes",
-    "status": "Занято",
-    "x": 2826.08,
-    "y": 2140.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1906,
     "server_id": 8,
     "type": "house",
@@ -22976,6 +22952,18 @@
     "status": "Занято",
     "x": 2788.02,
     "y": 2260.94,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1918,
+    "server_id": 8,
+    "type": "house",
+    "name": "Ферма видеокарт №12",
+    "owner": "Coll_Apse",
+    "status": "Занято",
+    "x": 2788.23,
+    "y": 2260.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23480,6 +23468,18 @@
     "status": "Занято",
     "x": 2787.08,
     "y": -1926.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1961,
+    "server_id": 8,
+    "type": "house",
+    "name": "kosuke<3",
+    "owner": "Kosukecore_Simmons",
+    "status": "Занято",
+    "x": 2751.5,
+    "y": -1936.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24452,6 +24452,18 @@
     "status": "Занято",
     "x": 2601.05,
     "y": -1233.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2043,
+    "server_id": 8,
+    "type": "house",
+    "name": "10 лвл",
+    "owner": "Yan_Baranov",
+    "status": "Занято",
+    "x": 2594.5,
+    "y": -1229.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25716,6 +25728,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 353,
+    "server_id": 8,
+    "type": "house",
+    "name": "майнинг 1",
+    "owner": "Dusya_Mercedes",
+    "status": "Аукцион",
+    "x": 1283.53,
+    "y": -897.827,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 953,
     "server_id": 8,
     "type": "house",
@@ -25728,51 +25752,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1321,
+    "id": 1508,
     "server_id": 8,
     "type": "house",
-    "name": "Ферма видеокарт №10",
-    "owner": "Coll_Apse",
+    "name": "Ферма видеокарт №5",
+    "owner": "Many_Leage",
     "status": "Аукцион",
-    "x": -2576.57,
-    "y": -145.8639,
+    "x": 2663.18,
+    "y": -1216.34,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1905,
+    "server_id": 8,
+    "type": "house",
+    "name": "майнинг 2",
+    "owner": "Dusya_Mercedes",
+    "status": "Аукцион",
+    "x": 2826.08,
+    "y": 2140.66,
     "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1918,
-    "server_id": 8,
-    "type": "house",
-    "name": "Ферма видеокарт №12",
-    "owner": "Coll_Apse",
-    "status": "Аукцион",
-    "x": 2788.23,
-    "y": 2260.97,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1961,
-    "server_id": 8,
-    "type": "house",
-    "name": "kosuke<3",
-    "owner": "Kosukecore_Simmons",
-    "status": "Аукцион",
-    "x": 2751.5,
-    "y": -1936.14,
-    "price": 800100100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2043,
-    "server_id": 8,
-    "type": "house",
-    "name": "10 лвл",
-    "owner": "Yan_Baranov",
-    "status": "Аукцион",
-    "x": 2594.5,
-    "y": -1229.21,
-    "price": 230000000,
     "district": "Сан-Андреас"
   },
   {
