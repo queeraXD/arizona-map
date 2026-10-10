@@ -7164,6 +7164,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 597,
+    "server_id": 10,
+    "type": "house",
+    "name": "_BENZ_",
+    "owner": "Travka_Kanabis",
+    "status": "Занято",
+    "x": -1450.71,
+    "y": 2691.05,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 598,
     "server_id": 10,
     "type": "house",
@@ -7208,18 +7220,6 @@
     "status": "Занято",
     "x": -1512.91,
     "y": 2646.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 602,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Corpse_Routine",
-    "status": "Занято",
-    "x": -1532.87,
-    "y": 2656.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7848,18 +7848,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 655,
-    "server_id": 10,
-    "type": "house",
-    "name": "$ E.SHADOWS $",
-    "owner": "Aperol_Spritz",
-    "status": "Занято",
-    "x": 2013.32,
-    "y": 730.669,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 656,
     "server_id": 10,
     "type": "house",
@@ -8460,18 +8448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 706,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vanua_Desert",
-    "status": "Занято",
-    "x": 1596.51,
-    "y": 2567.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 707,
     "server_id": 10,
     "type": "house",
@@ -8660,18 +8636,6 @@
     "status": "Занято",
     "x": 1663.37,
     "y": 2753.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 723,
-    "server_id": 10,
-    "type": "house",
-    "name": "$Investor Empire$",
-    "owner": "martinerose",
-    "status": "Занято",
-    "x": 1652.34,
-    "y": 2709.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9340,7 +9304,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Дом",
-    "owner": "Astolfo_Ito",
+    "owner": "Dexter_Sampchenko",
     "status": "Занято",
     "x": -2568.95,
     "y": 794.1749,
@@ -11475,7 +11439,7 @@
     "id": 958,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
+    "name": "Fant Klosses house",
     "owner": "Fant_Klosses",
     "status": "Занято",
     "x": -2229.52,
@@ -14228,6 +14192,18 @@
     "status": "Занято",
     "x": -2793.14,
     "y": 11.1084,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1188,
+    "server_id": 10,
+    "type": "house",
+    "name": "hellyeah :D",
+    "owner": "Holly_Shit",
+    "status": "Занято",
+    "x": -2793.14,
+    "y": 21.3057,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17996,18 +17972,6 @@
     "status": "Занято",
     "x": 782.799,
     "y": -1464.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1503,
-    "server_id": 10,
-    "type": "house",
-    "name": "Эти Скайворты везде<3",
-    "owner": "Yarik_Vodila",
-    "status": "Занято",
-    "x": 2514.45,
-    "y": -1240.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21792,6 +21756,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1819,
+    "server_id": 10,
+    "type": "house",
+    "name": "мерри хилс",
+    "owner": "Morty_Trappal",
+    "status": "Занято",
+    "x": 2487.31,
+    "y": -1424.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1820,
     "server_id": 10,
     "type": "house",
@@ -23316,63 +23292,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 597,
+    "id": 602,
     "server_id": 10,
     "type": "house",
-    "name": "_BENZ_",
+    "name": "Дом",
+    "owner": "Corpse_Routine",
+    "status": "Аукцион",
+    "x": -1532.87,
+    "y": 2656.68,
+    "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 655,
+    "server_id": 10,
+    "type": "house",
+    "name": "$ E.SHADOWS $",
+    "owner": "Aperol_Spritz",
+    "status": "Аукцион",
+    "x": 2013.32,
+    "y": 730.669,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 706,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vanua_Desert",
+    "status": "Аукцион",
+    "x": 1596.51,
+    "y": 2567.69,
+    "price": 500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 723,
+    "server_id": 10,
+    "type": "house",
+    "name": "$Investor Empire$",
+    "owner": "martinerose",
+    "status": "Аукцион",
+    "x": 1652.34,
+    "y": 2709.34,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1503,
+    "server_id": 10,
+    "type": "house",
+    "name": "Эти Скайворты везде<3",
     "owner": "Государство",
     "status": "Аукцион",
-    "x": -1450.71,
-    "y": 2691.05,
+    "x": 2514.45,
+    "y": -1240.46,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1188,
-    "server_id": 10,
-    "type": "house",
-    "name": "hellyeah :D",
-    "owner": "Holly_Shit",
-    "status": "Аукцион",
-    "x": -2793.14,
-    "y": 21.3057,
-    "price": 125000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1819,
-    "server_id": 10,
-    "type": "house",
-    "name": "мерри хилс",
-    "owner": "Sakura_Blum",
-    "status": "Аукцион",
-    "x": 2487.31,
-    "y": -1424.58,
-    "price": 60000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 73,
-    "server_id": 10,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Papiros_Rampage",
-    "status": "Аукцион",
-    "x": 1657.04,
-    "y": 1741.65,
-    "price": 144000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 215,
-    "server_id": 10,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Papiros_Rampage",
-    "status": "Аукцион",
-    "x": 1864.59,
-    "y": -1393.39,
-    "price": 132000,
     "district": "Сан-Андреас"
   },
   {
@@ -24008,6 +23984,18 @@
     "status": "Занято",
     "x": 1998.29,
     "y": 2302.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 73,
+    "server_id": 10,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Papiros_Rampage",
+    "status": "Занято",
+    "x": 1657.04,
+    "y": 1741.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25652,6 +25640,18 @@
     "status": "Занято",
     "x": -1757.81,
     "y": 964.127,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 215,
+    "server_id": 10,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Papiros_Rampage",
+    "status": "Занято",
+    "x": 1864.59,
+    "y": -1393.39,
     "price": 0,
     "district": "Сан-Андреас"
   },

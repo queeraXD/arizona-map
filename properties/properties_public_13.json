@@ -684,18 +684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
-    "server_id": 13,
-    "type": "house",
-    "name": "Подвалы + Деп Условия",
-    "owner": "Rich_Existence",
-    "status": "Занято",
-    "x": 2150.0,
-    "y": -1400.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 58,
     "server_id": 13,
     "type": "house",
@@ -11152,7 +11140,7 @@
     "server_id": 13,
     "type": "house",
     "name": "...",
-    "owner": "White_Fall",
+    "owner": "Maksim_Veresan",
     "status": "Занято",
     "x": -2017.64,
     "y": 1017.06,
@@ -11252,18 +11240,6 @@
     "status": "Занято",
     "x": -2112.62,
     "y": 796.5349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 938,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nikolas_Raan",
-    "status": "Занято",
-    "x": -2094.08,
-    "y": 796.2789,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12651,8 +12627,8 @@
     "id": 1056,
     "server_id": 13,
     "type": "house",
-    "name": "Pahan House",
-    "owner": "Customazer_Laki",
+    "name": "KATANA",
+    "owner": "Ricky_Katana",
     "status": "Занято",
     "x": -1927.71,
     "y": 1252.78,
@@ -16908,18 +16884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1412,
-    "server_id": 13,
-    "type": "house",
-    "name": "дом Sai 3",
-    "owner": "Yamamoto_Sai",
-    "status": "Занято",
-    "x": 689.755,
-    "y": 1297.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1413,
     "server_id": 13,
     "type": "house",
@@ -20328,6 +20292,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1697,
+    "server_id": 13,
+    "type": "house",
+    "name": "датка из тбилиси",
+    "owner": "Datka_Best",
+    "status": "Занято",
+    "x": -2018.55,
+    "y": 849.317,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1698,
     "server_id": 13,
     "type": "house",
@@ -22104,18 +22080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1848,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kama_Lorenso",
-    "status": "Занято",
-    "x": 2608.51,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1849,
     "server_id": 13,
     "type": "house",
@@ -22467,7 +22431,7 @@
     "id": 1879,
     "server_id": 13,
     "type": "house",
-    "name": "Turtles",
+    "name": "Morgan",
     "owner": "Malboro_Morgan",
     "status": "Занято",
     "x": 524.914,
@@ -23220,6 +23184,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 57,
+    "server_id": 13,
+    "type": "house",
+    "name": "Подвалы + Деп Условия",
+    "owner": "Rich_Existence",
+    "status": "Аукцион",
+    "x": 2150.0,
+    "y": -1400.65,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 938,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nikolas_Raan",
+    "status": "Аукцион",
+    "x": -2094.08,
+    "y": 796.2789,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 952,
     "server_id": 13,
     "type": "house",
@@ -23248,23 +23236,23 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Pendejo_Savchenko",
+    "owner": "Aiden_Venum",
     "status": "Аукцион",
     "x": -2433.73,
     "y": 1281.51,
-    "price": 300123123,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1697,
+    "id": 1412,
     "server_id": 13,
     "type": "house",
-    "name": "resized sqd",
-    "owner": "Maga_Siay",
+    "name": "дом Sai 3",
+    "owner": "Yamamoto_Sai",
     "status": "Аукцион",
-    "x": -2018.55,
-    "y": 849.317,
-    "price": 500000000,
+    "x": 689.755,
+    "y": 1297.17,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23277,6 +23265,18 @@
     "x": 263.6849,
     "y": 2895.52,
     "price": 7000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1848,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kpovb_Xo",
+    "status": "Аукцион",
+    "x": 2608.51,
+    "y": 2195.56,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26104,7 +26104,7 @@
     "server_id": 13,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Denis_Bensol",
+    "owner": "Maks_Emo",
     "status": "Занято",
     "x": 1521.99,
     "y": -1025.07,

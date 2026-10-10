@@ -11031,7 +11031,7 @@
     "id": 920,
     "server_id": 23,
     "type": "house",
-    "name": "Притон дровосека",
+    "name": "ВыКтоТаки,ИдитеНах,ЯВасНеЗвал.",
     "owner": "Ghost_Light",
     "status": "Занято",
     "x": -2282.39,
@@ -15436,7 +15436,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Тихоня",
-    "owner": "Seryozha_Vorsin",
+    "owner": "Tune_Yadets",
     "status": "Занято",
     "x": -2623.43,
     "y": -99.4082,
@@ -15464,6 +15464,18 @@
     "status": "Занято",
     "x": -2576.54,
     "y": -82.9039,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1291,
+    "server_id": 23,
+    "type": "house",
+    "name": "в шкафу дорогой подарок",
+    "owner": "Avangard_Bedolaga",
+    "status": "Занято",
+    "x": -2590.53,
+    "y": -95.5792,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16124,18 +16136,6 @@
     "status": "Занято",
     "x": 1513.34,
     "y": 2565.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1348,
-    "server_id": 23,
-    "type": "house",
-    "name": "с набором архитектора и деп ",
-    "owner": "Goha_Stepanov",
-    "status": "Занято",
-    "x": 1515.98,
-    "y": 2610.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19440,18 +19440,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1624,
-    "server_id": 23,
-    "type": "house",
-    "name": "Gachi house",
-    "owner": "Billy_Miligan",
-    "status": "Занято",
-    "x": -2843.69,
-    "y": -2269.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1625,
     "server_id": 23,
     "type": "house",
@@ -21144,18 +21132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1291,
-    "server_id": 23,
-    "type": "house",
-    "name": "в шкафу дорогой подарок",
-    "owner": "Michael_Shtyh",
-    "status": "Аукцион",
-    "x": -2590.53,
-    "y": -95.5792,
-    "price": 200123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1342,
     "server_id": 23,
     "type": "house",
@@ -21164,7 +21140,43 @@
     "status": "Аукцион",
     "x": 1665.6,
     "y": 2569.42,
-    "price": 230123123,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1348,
+    "server_id": 23,
+    "type": "house",
+    "name": "с набором архитектора и деп ",
+    "owner": "Goha_Stepanov",
+    "status": "Аукцион",
+    "x": 1515.98,
+    "y": 2610.18,
+    "price": 2500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1624,
+    "server_id": 23,
+    "type": "house",
+    "name": "Gachi house",
+    "owner": "Billy_Miligan",
+    "status": "Аукцион",
+    "x": -2843.69,
+    "y": -2269.19,
+    "price": 560000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 311,
+    "server_id": 23,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Billy_Miligan",
+    "status": "Аукцион",
+    "x": -20.8111,
+    "y": -1548.59,
+    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -24944,18 +24956,6 @@
     "status": "Занято",
     "x": -1784.542,
     "y": -594.7703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 311,
-    "server_id": 23,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Billy_Miligan",
-    "status": "Занято",
-    "x": -20.8111,
-    "y": -1548.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
