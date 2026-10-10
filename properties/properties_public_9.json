@@ -136,7 +136,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Apple Team",
-    "owner": "Liquidator_Rage",
+    "owner": "Mee_Neen",
     "status": "Занято",
     "x": 2093.85,
     "y": -1122.68,
@@ -4143,7 +4143,7 @@
     "id": 345,
     "server_id": 9,
     "type": "house",
-    "name": "Домик",
+    "name": "Дом",
     "owner": "Takumi_Watanabe",
     "status": "Занято",
     "x": 1245.81,
@@ -11928,18 +11928,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 995,
-    "server_id": 9,
-    "type": "house",
-    "name": "особняк эйнштейна",
-    "owner": "Iflexick_Doc",
-    "status": "Занято",
-    "x": -2340.07,
-    "y": 797.5759,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 996,
     "server_id": 9,
     "type": "house",
@@ -13116,6 +13104,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1094,
+    "server_id": 9,
+    "type": "house",
+    "name": "Монополия",
+    "owner": "Pasha_Caplya",
+    "status": "Занято",
+    "x": 1795.83,
+    "y": 2800.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1095,
     "server_id": 9,
     "type": "house",
@@ -13467,8 +13467,8 @@
     "id": 1124,
     "server_id": 9,
     "type": "house",
-    "name": "МАСАЖКА ",
-    "owner": "Simon_RiIey",
+    "name": "...:::FEARLESS squad:::...",
+    "owner": "Morrale_Gercona",
     "status": "Занято",
     "x": -2351.75,
     "y": 1281.42,
@@ -15436,7 +15436,7 @@
     "server_id": 9,
     "type": "house",
     "name": "The Blade ",
-    "owner": "Milki_Way",
+    "owner": "Baltika_Devyatochka",
     "status": "Занято",
     "x": -2900.45,
     "y": 1056.91,
@@ -22884,6 +22884,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1913,
+    "server_id": 9,
+    "type": "house",
+    "name": "трэп хата",
+    "owner": "Sylvester_Aqueduct",
+    "status": "Занято",
+    "x": 2476.39,
+    "y": -1424.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1914,
     "server_id": 9,
     "type": "house",
@@ -23892,15 +23904,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1094,
+    "id": 995,
     "server_id": 9,
     "type": "house",
-    "name": "Монополия",
-    "owner": "Pasha_Caplya",
+    "name": "Дом",
+    "owner": "Iflexick_Doc",
     "status": "Аукцион",
-    "x": 1795.83,
-    "y": 2800.84,
-    "price": 700123123,
+    "x": -2340.07,
+    "y": 797.5759,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23912,19 +23924,43 @@
     "status": "Аукцион",
     "x": 2373.94,
     "y": -1138.92,
-    "price": 20000000,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1913,
+    "id": 17,
     "server_id": 9,
-    "type": "house",
-    "name": "трэп хата",
-    "owner": "Sylvester_Aqueduct",
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Breyn_Scoletti",
     "status": "Аукцион",
-    "x": 2476.39,
-    "y": -1424.58,
-    "price": 1500000000,
+    "x": -2165.77,
+    "y": -2416.71,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 73,
+    "server_id": 9,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Normalnyi_Paren",
+    "status": "Аукцион",
+    "x": 1657.04,
+    "y": 1741.65,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 201,
+    "server_id": 9,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Breyn_Scoletti",
+    "status": "Аукцион",
+    "x": -104.79,
+    "y": -309.98,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -24432,18 +24468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 17,
-    "server_id": 9,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Breyn_Scoletti",
-    "status": "Занято",
-    "x": -2165.77,
-    "y": -2416.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 43,
     "server_id": 9,
     "type": "business",
@@ -24560,18 +24584,6 @@
     "status": "Занято",
     "x": 1998.29,
     "y": 2302.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 73,
-    "server_id": 9,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Normalnyi_Paren",
-    "status": "Занято",
-    "x": 1657.04,
-    "y": 1741.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25708,7 +25720,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Breyn_Scoletti",
+    "owner": "Candy_Flip",
     "status": "Занято",
     "x": -1213.8,
     "y": 1830.33,
@@ -26972,18 +26984,6 @@
     "status": "Занято",
     "x": -1983.44,
     "y": 127.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 201,
-    "server_id": 9,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Breyn_Scoletti",
-    "status": "Занято",
-    "x": -104.79,
-    "y": -309.98,
     "price": 0,
     "district": "Сан-Андреас"
   },

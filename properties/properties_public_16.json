@@ -6288,18 +6288,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 525,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": 1595.81,
-    "y": 2123.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 526,
     "server_id": 16,
     "type": "house",
@@ -6548,18 +6536,6 @@
     "status": "Занято",
     "x": -18.3805,
     "y": 1115.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 547,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Den_Cod",
-    "status": "Занято",
-    "x": 12.7711,
-    "y": 1113.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9136,7 +9112,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Brabus_Oxford",
+    "owner": "Shao_Wayu",
     "status": "Занято",
     "x": -2667.07,
     "y": 820.3189,
@@ -9800,18 +9776,6 @@
     "status": "Занято",
     "x": -2621.01,
     "y": -173.2859,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 818,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Krabs_Markelovani",
-    "status": "Занято",
-    "x": -2689.46,
-    "y": -167.298,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11296,7 +11260,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Usama_BinLaden",
+    "owner": "Dante_Carbon",
     "status": "Занято",
     "x": -2018.3,
     "y": 766.4459,
@@ -12432,18 +12396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1038,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Luminisent_London",
-    "status": "Занято",
-    "x": -1776.13,
-    "y": 1115.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1039,
     "server_id": 16,
     "type": "house",
@@ -13064,18 +13016,6 @@
     "status": "Занято",
     "x": -2126.75,
     "y": 832.6989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1091,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Glebaryshnya",
-    "status": "Занято",
-    "x": -2129.67,
-    "y": 894.8569,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15040,7 +14980,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Usama_BinLaden",
+    "owner": "Dante_Carbon",
     "status": "Занято",
     "x": -2433.75,
     "y": 1318.45,
@@ -17284,7 +17224,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Хата лв",
-    "owner": "Franchesco_Shelby",
+    "owner": "Scandal_Belov",
     "status": "Занято",
     "x": 929.5219,
     "y": 2343.43,
@@ -20304,18 +20244,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1694,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Molodoy_Pacan",
-    "status": "Занято",
-    "x": 2818.53,
-    "y": 2141.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1695,
     "server_id": 16,
     "type": "house",
@@ -22464,6 +22392,78 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 525,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Glebaryshnya",
+    "status": "Аукцион",
+    "x": 1595.81,
+    "y": 2123.15,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 547,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Den_Cod",
+    "status": "Аукцион",
+    "x": 12.7711,
+    "y": 1113.43,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 818,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Krabs_Markelovani",
+    "status": "Аукцион",
+    "x": -2689.46,
+    "y": -167.298,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1038,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Luminisent_London",
+    "status": "Аукцион",
+    "x": -1776.13,
+    "y": 1115.2,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1091,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Glebaryshnya",
+    "status": "Аукцион",
+    "x": -2129.67,
+    "y": 894.8569,
+    "price": 170000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1694,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Molodoy_Pacan",
+    "status": "Аукцион",
+    "x": 2818.53,
+    "y": 2141.08,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 16,
     "type": "business",
@@ -22540,7 +22540,7 @@
     "server_id": 16,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Opg_Vlet",
+    "owner": "Terti_Cortez",
     "status": "Занято",
     "x": -1508.91,
     "y": 2610.7,

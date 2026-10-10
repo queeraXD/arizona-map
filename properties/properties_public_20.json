@@ -3423,7 +3423,7 @@
     "id": 285,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
+    "name": "Gnytiy Service",
     "owner": "Vladimir_Korenevskiy",
     "status": "Занято",
     "x": 2219.28,
@@ -5340,6 +5340,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 445,
+    "server_id": 20,
+    "type": "house",
+    "name": ":u2620: Trupo :u2620:",
+    "owner": "Cain_Shelby",
+    "status": "Занято",
+    "x": 2439.9,
+    "y": -1010.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 446,
     "server_id": 20,
     "type": "house",
@@ -5408,18 +5420,6 @@
     "status": "Занято",
     "x": 1844.78,
     "y": 690.3439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 452,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "dakol",
-    "status": "Занято",
-    "x": 1844.5,
-    "y": 718.656,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8559,7 +8559,7 @@
     "id": 714,
     "server_id": 20,
     "type": "house",
-    "name": "Продам, подвал Вент и обыч",
+    "name": "дом дяди Найза",
     "owner": "Nays_Demure",
     "status": "Занято",
     "x": 1570.38,
@@ -8780,18 +8780,6 @@
     "status": "Занято",
     "x": -2622.35,
     "y": -198.1479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 733,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "Rjey_Javelin",
-    "status": "Занято",
-    "x": -2904.9,
-    "y": 1178.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11336,18 +11324,6 @@
     "status": "Занято",
     "x": -2281.96,
     "y": 979.2269,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 946,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Rjey_Javelin",
-    "status": "Занято",
-    "x": -2282.42,
-    "y": 999.619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19056,18 +19032,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1589,
-    "server_id": 20,
-    "type": "house",
-    "name": "Продам ",
-    "owner": "Rjey_Javelin",
-    "status": "Занято",
-    "x": 2824.04,
-    "y": 2268.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1590,
     "server_id": 20,
     "type": "house",
@@ -21228,6 +21192,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1770,
+    "server_id": 20,
+    "type": "house",
+    "name": "// HASYGAWA //",
+    "owner": "Vanechka_Implored",
+    "status": "Занято",
+    "x": 1793.63,
+    "y": 2792.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1771,
     "server_id": 20,
     "type": "house",
@@ -21523,6 +21499,18 @@
     "owner": "Viktor_Tvicov",
     "status": "Занято",
     "x": 2650.26,
+    "y": 2029.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1796,
+    "server_id": 20,
+    "type": "house",
+    "name": "Логово",
+    "owner": "Taranessa_Exuberante",
+    "status": "Занято",
+    "x": 2640.95,
     "y": 2029.23,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22332,39 +22320,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 445,
+    "id": 452,
     "server_id": 20,
     "type": "house",
-    "name": ":u2620: Trupo :u2620:",
-    "owner": "Julio_Lorenso",
+    "name": "Дом",
+    "owner": "dakol",
     "status": "Аукцион",
-    "x": 2439.9,
-    "y": -1010.88,
-    "price": 400000000,
+    "x": 1844.5,
+    "y": 718.656,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1770,
+    "id": 733,
     "server_id": 20,
     "type": "house",
-    "name": "// HASYGAWA //",
-    "owner": "Vanechka_Implored",
+    "name": "retribution",
+    "owner": "Rjey_Javelin",
     "status": "Аукцион",
-    "x": 1793.63,
-    "y": 2792.24,
-    "price": 250123123,
+    "x": -2904.9,
+    "y": 1178.92,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1796,
+    "id": 946,
     "server_id": 20,
     "type": "house",
-    "name": "Пажилой HOUSE 1796",
-    "owner": "Государство",
+    "name": "Дом",
+    "owner": "Rjey_Javelin",
     "status": "Аукцион",
-    "x": 2640.95,
-    "y": 2029.23,
-    "price": 10000000,
+    "x": -2282.42,
+    "y": 999.619,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1589,
+    "server_id": 20,
+    "type": "house",
+    "name": "Продам ",
+    "owner": "Rjey_Javelin",
+    "status": "Аукцион",
+    "x": 2824.04,
+    "y": 2268.71,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {

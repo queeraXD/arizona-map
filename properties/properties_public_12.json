@@ -2244,18 +2244,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 187,
-    "server_id": 12,
-    "type": "house",
-    "name": "BRADLEY Empire ",
-    "owner": "Fernando_Kleno",
-    "status": "Занято",
-    "x": 768.0759,
-    "y": -1655.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 188,
     "server_id": 12,
     "type": "house",
@@ -6416,6 +6404,18 @@
     "status": "Занято",
     "x": 1969.86,
     "y": 2723.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 535,
+    "server_id": 12,
+    "type": "house",
+    "name": "Dikiy",
+    "owner": "Denis_Skupov",
+    "status": "Занято",
+    "x": 2018.09,
+    "y": 2722.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11224,7 +11224,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Sato House",
-    "owner": "Lorenzo_Broker",
+    "owner": "Musor_Drop",
     "status": "Занято",
     "x": -2127.05,
     "y": 773.752,
@@ -11428,7 +11428,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Дом",
-    "owner": "Musor_Drop",
+    "owner": "Ivo_Inside",
     "status": "Занято",
     "x": -2160.15,
     "y": 983.676,
@@ -19500,18 +19500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1626,
-    "server_id": 12,
-    "type": "house",
-    "name": "логово ",
-    "owner": "Shamal_Blessed",
-    "status": "Занято",
-    "x": 957.505,
-    "y": 2215.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1627,
     "server_id": 12,
     "type": "house",
@@ -23796,15 +23784,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 535,
+    "id": 187,
     "server_id": 12,
     "type": "house",
-    "name": "Wockhardt",
-    "owner": "Danya_Lavrin",
+    "name": "BRADLEY Empire ",
+    "owner": "Fernando_Kleno",
     "status": "Аукцион",
-    "x": 2018.09,
-    "y": 2722.91,
-    "price": 1200,
+    "x": 768.0759,
+    "y": -1655.69,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1626,
+    "server_id": 12,
+    "type": "house",
+    "name": "логово ",
+    "owner": "Shamal_Blessed",
+    "status": "Аукцион",
+    "x": 957.505,
+    "y": 2215.29,
+    "price": 250012323,
     "district": "Сан-Андреас"
   },
   {
@@ -23816,7 +23816,19 @@
     "status": "Аукцион",
     "x": 2620.56,
     "y": 2185.54,
-    "price": 1200,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 109,
+    "server_id": 12,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Misha_Pacik",
+    "status": "Аукцион",
+    "x": -2356.45,
+    "y": 1008.19,
+    "price": 7500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25640,18 +25652,6 @@
     "status": "Занято",
     "x": -1721.53,
     "y": 1359.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 109,
-    "server_id": 12,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Misha_Pacik",
-    "status": "Занято",
-    "x": -2356.45,
-    "y": 1008.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -5904,18 +5904,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 492,
-    "server_id": 5,
-    "type": "house",
-    "name": "Склад: Наркоты.",
-    "owner": "Omega_Black",
-    "status": "Занято",
-    "x": 2042.4,
-    "y": 731.6829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 493,
     "server_id": 5,
     "type": "house",
@@ -9516,18 +9504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 793,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия 793",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2540.68,
-    "y": 855.103,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 794,
     "server_id": 5,
     "type": "house",
@@ -10004,18 +9980,6 @@
     "status": "Занято",
     "x": -2048.18,
     "y": 745.752,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 834,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2029.84,
-    "y": 745.572,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10652,6 +10616,18 @@
     "status": "Занято",
     "x": -2087.66,
     "y": -2510.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 888,
+    "server_id": 5,
+    "type": "house",
+    "name": "ПРОДАМ Тел.519",
+    "owner": "Miller_Comaro",
+    "status": "Занято",
+    "x": 731.307,
+    "y": -1012.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11348,18 +11324,6 @@
     "status": "Занято",
     "x": -2066.61,
     "y": 796.3289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 947,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия 947",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2112.59,
-    "y": 796.4169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17412,18 +17376,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1452,
-    "server_id": 5,
-    "type": "house",
-    "name": "Federal HUB",
-    "owner": "Wolf_Gray",
-    "status": "Занято",
-    "x": 2239.25,
-    "y": 960.6069,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1453,
     "server_id": 5,
     "type": "house",
@@ -19196,18 +19148,6 @@
     "status": "Занято",
     "x": -2238.31,
     "y": 1117.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1601,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2280.84,
-    "y": 1112.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22332,18 +22272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1862,
-    "server_id": 5,
-    "type": "house",
-    "name": "11111",
-    "owner": "Dzho_Baiden",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2154.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1863,
     "server_id": 5,
     "type": "house",
@@ -25104,15 +25032,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 888,
+    "id": 492,
     "server_id": 5,
     "type": "house",
-    "name": "ПРОДАМ Тел.519",
-    "owner": "Miller_Comaro",
+    "name": "Склад: Наркоты.",
+    "owner": "Omega_Black",
     "status": "Аукцион",
-    "x": 731.307,
-    "y": -1012.86,
-    "price": 333333,
+    "x": 2042.4,
+    "y": 731.6829,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 793,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия 793",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": -2540.68,
+    "y": 855.103,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 834,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": -2029.84,
+    "y": 745.572,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 947,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия 947",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": -2112.59,
+    "y": 796.4169,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1452,
+    "server_id": 5,
+    "type": "house",
+    "name": "Federal HUB",
+    "owner": "Wolf_Gray",
+    "status": "Аукцион",
+    "x": 2239.25,
+    "y": 960.6069,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1601,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": -2280.84,
+    "y": 1112.62,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1862,
+    "server_id": 5,
+    "type": "house",
+    "name": "11111",
+    "owner": "Dzho_Baiden",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2154.52,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
