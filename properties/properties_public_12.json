@@ -6324,6 +6324,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 527,
+    "server_id": 12,
+    "type": "house",
+    "name": "С деп условием",
+    "owner": "Solitude_Monopoly",
+    "status": "Занято",
+    "x": 2039.57,
+    "y": 2766.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 528,
     "server_id": 12,
     "type": "house",
@@ -6404,18 +6416,6 @@
     "status": "Занято",
     "x": 1969.86,
     "y": 2723.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 535,
-    "server_id": 12,
-    "type": "house",
-    "name": "Wockhardt",
-    "owner": "Danya_Lavrin",
-    "status": "Занято",
-    "x": 2018.09,
-    "y": 2722.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11684,6 +11684,18 @@
     "status": "Занято",
     "x": -2479.06,
     "y": 2509.42,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 975,
+    "server_id": 12,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Solitude_Monopoly",
+    "status": "Занято",
+    "x": -2464.03,
+    "y": 2486.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23028,18 +23040,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1921,
-    "server_id": 12,
-    "type": "house",
-    "name": "House 333",
-    "owner": "Bobby_Patapimov",
-    "status": "Занято",
-    "x": 2620.56,
-    "y": 2185.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1922,
     "server_id": 12,
     "type": "house",
@@ -23796,27 +23796,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 527,
+    "id": 535,
     "server_id": 12,
     "type": "house",
-    "name": "С деп условием",
-    "owner": "Solitude_Monopoly",
+    "name": "Wockhardt",
+    "owner": "Danya_Lavrin",
     "status": "Аукцион",
-    "x": 2039.57,
-    "y": 2766.53,
-    "price": 800000000,
+    "x": 2018.09,
+    "y": 2722.91,
+    "price": 1200,
     "district": "Сан-Андреас"
   },
   {
-    "id": 975,
+    "id": 1921,
     "server_id": 12,
     "type": "house",
-    "name": "Pivo",
-    "owner": "Solitude_Monopoly",
+    "name": "House 333",
+    "owner": "Bobby_Patapimov",
     "status": "Аукцион",
-    "x": -2464.03,
-    "y": 2486.08,
-    "price": 250000000,
+    "x": 2620.56,
+    "y": 2185.54,
+    "price": 1200,
     "district": "Сан-Андреас"
   },
   {
