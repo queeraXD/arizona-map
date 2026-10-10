@@ -5904,6 +5904,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 492,
+    "server_id": 5,
+    "type": "house",
+    "name": "Склад: Наркоты.",
+    "owner": "Akuma_Freeman",
+    "status": "Занято",
+    "x": 2042.4,
+    "y": 731.6829,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 493,
     "server_id": 5,
     "type": "house",
@@ -7816,7 +7828,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Склад Хлопка",
-    "owner": "Maxrey_Chokopaev",
+    "owner": "Omega_Black",
     "status": "Занято",
     "x": 2127.94,
     "y": 730.1129,
@@ -10132,7 +10144,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Дом братви",
-    "owner": "Sladko_Kisley",
+    "owner": "Tyler_Sexolog",
     "status": "Занято",
     "x": -2188.31,
     "y": 1107.99,
@@ -10616,18 +10628,6 @@
     "status": "Занято",
     "x": -2087.66,
     "y": -2510.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 888,
-    "server_id": 5,
-    "type": "house",
-    "name": "ПРОДАМ Тел.519",
-    "owner": "Miller_Comaro",
-    "status": "Занято",
-    "x": 731.307,
-    "y": -1012.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17376,6 +17376,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1452,
+    "server_id": 5,
+    "type": "house",
+    "name": "Federal HUB",
+    "owner": "Lazmi_Legend",
+    "status": "Занято",
+    "x": 2239.25,
+    "y": 960.6069,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1453,
     "server_id": 5,
     "type": "house",
@@ -20264,18 +20276,6 @@
     "status": "Занято",
     "x": 1112.2,
     "y": -1575.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1695,
-    "server_id": 5,
-    "type": "house",
-    "name": "LaFlare Corporation",
-    "owner": "Tony_Ja",
-    "status": "Занято",
-    "x": 1110.53,
-    "y": -1578.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25044,18 +25044,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 492,
-    "server_id": 5,
-    "type": "house",
-    "name": "Склад: Наркоты.",
-    "owner": "Omega_Black",
-    "status": "Аукцион",
-    "x": 2042.4,
-    "y": 731.6829,
-    "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 793,
     "server_id": 5,
     "type": "house",
@@ -25080,6 +25068,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 888,
+    "server_id": 5,
+    "type": "house",
+    "name": "ПРОДАМ Тел.519",
+    "owner": "Miller_Comaro",
+    "status": "Аукцион",
+    "x": 731.307,
+    "y": -1012.86,
+    "price": 333333,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 947,
     "server_id": 5,
     "type": "house",
@@ -25088,19 +25088,7 @@
     "status": "Аукцион",
     "x": -2112.59,
     "y": 796.4169,
-    "price": 1350000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1452,
-    "server_id": 5,
-    "type": "house",
-    "name": "Federal HUB",
-    "owner": "Wolf_Gray",
-    "status": "Аукцион",
-    "x": 2239.25,
-    "y": 960.6069,
-    "price": 300000000,
+    "price": 1450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25112,7 +25100,19 @@
     "status": "Аукцион",
     "x": -2280.84,
     "y": 1112.62,
-    "price": 1400000000,
+    "price": 1450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1695,
+    "server_id": 5,
+    "type": "house",
+    "name": "LaFlare Corporation",
+    "owner": "Tony_Ja",
+    "status": "Аукцион",
+    "x": 1110.53,
+    "y": -1578.45,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {

@@ -420,18 +420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
-    "server_id": 3,
-    "type": "house",
-    "name": "легендарный дом",
-    "owner": "Moggnij_Outlaw",
-    "status": "Занято",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 36,
     "server_id": 3,
     "type": "house",
@@ -3396,18 +3384,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 283,
-    "server_id": 3,
-    "type": "house",
-    "name": "ПОКОЙО 2",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 2208.54,
-    "y": -1025.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 284,
     "server_id": 3,
     "type": "house",
@@ -3460,7 +3436,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Masker #5",
-    "owner": "Kigo_Pes",
+    "owner": "Maloi_Boy",
     "status": "Занято",
     "x": 2512.81,
     "y": -1027.56,
@@ -4280,18 +4256,6 @@
     "status": "Занято",
     "x": 1280.86,
     "y": -874.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 357,
-    "server_id": 3,
-    "type": "house",
-    "name": "BucefalEmpire",
-    "owner": "Lord_Angells",
-    "status": "Занято",
-    "x": 1288.35,
-    "y": -873.8729,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9816,18 +9780,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 818,
-    "server_id": 3,
-    "type": "house",
-    "name": "Masker #8",
-    "owner": "Vladislav_Greco",
-    "status": "Занято",
-    "x": -2689.46,
-    "y": -167.298,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 819,
     "server_id": 3,
     "type": "house",
@@ -10528,7 +10480,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Kagawa",
-    "owner": "Akio_Kagawa",
+    "owner": "Munuctep_Makapon",
     "status": "Занято",
     "x": -192.645,
     "y": 2552.0,
@@ -10732,7 +10684,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Romanov Impair",
-    "owner": "Danil_Alblak",
+    "owner": "Toru_Yosimura",
     "status": "Занято",
     "x": -2053.29,
     "y": -2544.17,
@@ -15388,7 +15340,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Anna_Mkalveyy:uf222:",
-    "owner": "Maduro_Jiandro",
+    "owner": "Isabella_Queensight",
     "status": "Занято",
     "x": -2303.6,
     "y": 656.7849,
@@ -15400,7 +15352,7 @@
     "server_id": 3,
     "type": "house",
     "name": "drugden",
-    "owner": "Drake_Benzo",
+    "owner": "Isabella_Queensight",
     "status": "Занято",
     "x": -2321.76,
     "y": 656.7349,
@@ -20356,7 +20308,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Veritas Family",
-    "owner": "Raze_Shadowraze",
+    "owner": "Goga_Kakhovsky",
     "status": "Занято",
     "x": 2066.96,
     "y": -1562.19,
@@ -21555,8 +21507,8 @@
     "id": 1799,
     "server_id": 3,
     "type": "house",
-    "name": "Maduro Jiandro Estate",
-    "owner": "Maduro_Jiandro",
+    "name": "Farmila Domination",
+    "owner": "Fice_Time",
     "status": "Занято",
     "x": 883.95,
     "y": 2104.88,
@@ -23988,6 +23940,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 35,
+    "server_id": 3,
+    "type": "house",
+    "name": "легендарный дом",
+    "owner": "Moggnij_Outlaw",
+    "status": "Аукцион",
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 4900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 283,
+    "server_id": 3,
+    "type": "house",
+    "name": "ПОКОЙО 2",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": 2208.54,
+    "y": -1025.8,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 357,
+    "server_id": 3,
+    "type": "house",
+    "name": "BucefalEmpire",
+    "owner": "Moggnij_Outlaw",
+    "status": "Аукцион",
+    "x": 1288.35,
+    "y": -873.8729,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 818,
+    "server_id": 3,
+    "type": "house",
+    "name": "Masker #8",
+    "owner": "Vladislav_Greco",
+    "status": "Аукцион",
+    "x": -2689.46,
+    "y": -167.298,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 985,
     "server_id": 3,
     "type": "house",
@@ -24012,15 +24012,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 59,
+    "id": 260,
     "server_id": 3,
     "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Vitaliy_Miers",
+    "name": "Закусочная",
+    "owner": "Sak_Noel",
     "status": "Аукцион",
-    "x": 2187.71,
-    "y": 2469.57,
-    "price": 451200,
+    "x": 1020.4,
+    "y": -1844.78,
+    "price": 300000,
     "district": "Сан-Андреас"
   },
   {
@@ -25344,6 +25344,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 59,
+    "server_id": 3,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Vitaliy_Miers",
+    "status": "Занято",
+    "x": 2187.71,
+    "y": 2469.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 60,
     "server_id": 3,
     "type": "business",
@@ -26012,18 +26024,6 @@
     "status": "Занято",
     "x": 1404.09,
     "y": 51.2512,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 260,
-    "server_id": 3,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Sak_Noel",
-    "status": "Занято",
-    "x": 1020.4,
-    "y": -1844.78,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -12528,6 +12528,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1045,
+    "server_id": 14,
+    "type": "house",
+    "name": "инта в подарок",
+    "owner": "Karlos_Calder",
+    "status": "Занято",
+    "x": -1831.83,
+    "y": 1166.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1046,
     "server_id": 14,
     "type": "house",
@@ -18736,7 +18748,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Лаборатория Хайзенберга",
-    "owner": "Hikago_SelIer",
+    "owner": "Stevie_Seller",
     "status": "Занято",
     "x": 2525.92,
     "y": 750.0939,
@@ -21328,7 +21340,7 @@
     "server_id": 14,
     "type": "house",
     "name": "дом",
-    "owner": "Gleb_Mirenko",
+    "owner": "Reichart_Darkness",
     "status": "Занято",
     "x": 2613.64,
     "y": 2044.0,
@@ -21384,30 +21396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1784,
-    "server_id": 14,
-    "type": "house",
-    "name": "gangster lovit",
-    "owner": "Rlck_Sanchez",
-    "status": "Занято",
-    "x": 2617.67,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1785,
-    "server_id": 14,
-    "type": "house",
-    "name": "Ферма BALTIKI",
-    "owner": "Rlck_Sanchez",
-    "status": "Занято",
-    "x": 2625.17,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1786,
     "server_id": 14,
     "type": "house",
@@ -21427,18 +21415,6 @@
     "owner": "Tay_Son",
     "status": "Занято",
     "x": 2636.35,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1788,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Rlck_Sanchez",
-    "status": "Занято",
-    "x": 2645.5,
     "y": 2019.21,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23640,15 +23616,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1045,
+    "id": 1784,
     "server_id": 14,
     "type": "house",
-    "name": "инта в подарок",
-    "owner": "Karlos_Calder",
+    "name": "gangster lovit",
+    "owner": "Rlck_Sanchez",
     "status": "Аукцион",
-    "x": -1831.83,
-    "y": 1166.06,
-    "price": 450000000,
+    "x": 2617.67,
+    "y": 2019.21,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1785,
+    "server_id": 14,
+    "type": "house",
+    "name": "Ферма BALTIKI",
+    "owner": "Rlck_Sanchez",
+    "status": "Аукцион",
+    "x": 2625.17,
+    "y": 2019.21,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1788,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Rlck_Sanchez",
+    "status": "Аукцион",
+    "x": 2645.5,
+    "y": 2019.21,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {

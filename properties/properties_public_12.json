@@ -2715,8 +2715,8 @@
     "id": 226,
     "server_id": 12,
     "type": "house",
-    "name": "Хатынка",
-    "owner": "Musor_Drop",
+    "name": "WallStreet Corporation",
+    "owner": "Drager_WallStreet",
     "status": "Занято",
     "x": 980.2369,
     "y": -676.6939,
@@ -7740,18 +7740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 645,
-    "server_id": 12,
-    "type": "house",
-    "name": "Anarchist Brotherhood",
-    "owner": "Adolf_Inside",
-    "status": "Занято",
-    "x": 1978.33,
-    "y": 715.1459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 646,
     "server_id": 12,
     "type": "house",
@@ -11028,6 +11016,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 919,
+    "server_id": 12,
+    "type": "house",
+    "name": "HOUSE IN J.CERBERUS ",
+    "owner": "Joseph_Cerberus",
+    "status": "Занято",
+    "x": -2281.41,
+    "y": 1046.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 920,
     "server_id": 12,
     "type": "house",
@@ -11324,6 +11324,18 @@
     "status": "Занято",
     "x": -2295.25,
     "y": 969.6619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 945,
+    "server_id": 12,
+    "type": "house",
+    "name": "деп",
+    "owner": "SagradoS_Lacoste",
+    "status": "Занято",
+    "x": -2281.96,
+    "y": 979.2269,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17088,18 +17100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1426,
-    "server_id": 12,
-    "type": "house",
-    "name": "/Vendetta Empire/",
-    "owner": "Abobus_Sempai",
-    "status": "Занято",
-    "x": 2781.94,
-    "y": -1333.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1427,
     "server_id": 12,
     "type": "house",
@@ -17108,18 +17108,6 @@
     "status": "Занято",
     "x": 2807.99,
     "y": -1354.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1428,
-    "server_id": 12,
-    "type": "house",
-    "name": "/Vendetta Empire/",
-    "owner": "Abobus_Sempai",
-    "status": "Занято",
-    "x": 2781.94,
-    "y": -1358.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19208,6 +19196,18 @@
     "status": "Занято",
     "x": 467.096,
     "y": 1297.78,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1603,
+    "server_id": 12,
+    "type": "house",
+    "name": "Ресы-Разное",
+    "owner": "Axaxaxa_Xaxaxax",
+    "status": "Занято",
+    "x": 458.9649,
+    "y": 1339.13,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22096,7 +22096,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Anderson Family + Депозит",
-    "owner": "Allan_Anderson",
+    "owner": "Kukish_Anderson",
     "status": "Занято",
     "x": 2487.31,
     "y": -1359.1,
@@ -23784,39 +23784,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 919,
+    "id": 645,
     "server_id": 12,
     "type": "house",
-    "name": "DEP + PODVAL 2",
-    "owner": "Jerry_Nikolson",
+    "name": "Anarchist Brotherhood",
+    "owner": "Adolf_Inside",
     "status": "Аукцион",
-    "x": -2281.41,
-    "y": 1046.65,
-    "price": 200000000,
+    "x": 1978.33,
+    "y": 715.1459,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 945,
+    "id": 1426,
     "server_id": 12,
     "type": "house",
-    "name": "Koderovv",
-    "owner": "Jerry_Nikolson",
+    "name": "/Vendetta Empire/",
+    "owner": "Abobus_Sempai",
     "status": "Аукцион",
-    "x": -2281.96,
-    "y": 979.2269,
-    "price": 200000000,
+    "x": 2781.94,
+    "y": -1333.46,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1603,
+    "id": 1428,
     "server_id": 12,
     "type": "house",
-    "name": "Ресы-Разное",
-    "owner": "Stu_Loving",
+    "name": "/Vendetta Empire/",
+    "owner": "Abobus_Sempai",
     "status": "Аукцион",
-    "x": 458.9649,
-    "y": 1339.13,
-    "price": 100123123,
+    "x": 2781.94,
+    "y": -1358.57,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
