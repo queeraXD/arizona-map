@@ -2667,7 +2667,7 @@
     "id": 222,
     "server_id": 13,
     "type": "house",
-    "name": "ЖИТЬКРАСИВО",
+    "name": "sell @champagnepills",
     "owner": "method",
     "status": "Занято",
     "x": 891.1149,
@@ -3424,7 +3424,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Нормалды",
-    "owner": "Grygory_Danimov",
+    "owner": "Young_Goss",
     "status": "Занято",
     "x": 2219.28,
     "y": -1031.06,
@@ -11124,18 +11124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 927,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Egor_Medniy",
-    "status": "Занято",
-    "x": -1842.22,
-    "y": 1114.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 928,
     "server_id": 13,
     "type": "house",
@@ -14868,6 +14856,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1240,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Francis_Buonarroti",
+    "status": "Занято",
+    "x": -2433.73,
+    "y": 1281.51,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1241,
     "server_id": 13,
     "type": "house",
@@ -16916,18 +16916,6 @@
     "status": "Занято",
     "x": 531.333,
     "y": 1336.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1412,
-    "server_id": 13,
-    "type": "house",
-    "name": "дом Sai 3",
-    "owner": "Yamamoto_Sai",
-    "status": "Занято",
-    "x": 689.755,
-    "y": 1297.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20724,18 +20712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1729,
-    "server_id": 13,
-    "type": "house",
-    "name": "помойка",
-    "owner": "brodyagathegod",
-    "status": "Занято",
-    "x": 263.6849,
-    "y": 2895.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1730,
     "server_id": 13,
     "type": "house",
@@ -21336,18 +21312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1781,
-    "server_id": 13,
-    "type": "house",
-    "name": "maining",
-    "owner": "Aleksandr_Parlament",
-    "status": "Занято",
-    "x": 2468.25,
-    "y": -1359.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1782,
     "server_id": 13,
     "type": "house",
@@ -21507,8 +21471,8 @@
     "id": 1795,
     "server_id": 13,
     "type": "house",
-    "name": "[Las Venturas]",
-    "owner": "Alastair_Rockefeller",
+    "name": "M-3",
+    "owner": "Fores_DeLorean",
     "status": "Занято",
     "x": 1728.0,
     "y": 2834.81,
@@ -21651,8 +21615,8 @@
     "id": 1807,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Roy_BackWood",
+    "name": "ЕХА",
+    "owner": "Yrik_Rodnoi",
     "status": "Занято",
     "x": 1804.94,
     "y": 2834.83,
@@ -21664,7 +21628,7 @@
     "server_id": 13,
     "type": "house",
     "name": "В халате на яхте #2",
-    "owner": "Roy_BackWood",
+    "owner": "Aldiyar_Bandit",
     "status": "Занято",
     "x": 1801.68,
     "y": 2823.55,
@@ -21832,7 +21796,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Roy_BackWood",
+    "owner": "Sirius_Cybernetik",
     "status": "Занято",
     "x": 1778.53,
     "y": 2736.02,
@@ -23268,6 +23232,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 927,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Egor_Medniy",
+    "status": "Аукцион",
+    "x": -1842.22,
+    "y": 1114.76,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 952,
     "server_id": 13,
     "type": "house",
@@ -23280,15 +23256,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1240,
+    "id": 1412,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Aiden_Venum",
+    "name": "дом Sai 3",
+    "owner": "Yamamoto_Sai",
     "status": "Аукцион",
-    "x": -2433.73,
-    "y": 1281.51,
-    "price": 399123123,
+    "x": 689.755,
+    "y": 1297.17,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1729,
+    "server_id": 13,
+    "type": "house",
+    "name": "помойка",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 263.6849,
+    "y": 2895.52,
+    "price": 6000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1781,
+    "server_id": 13,
+    "type": "house",
+    "name": "maining",
+    "owner": "Aleksandr_Parlament",
+    "status": "Аукцион",
+    "x": 2468.25,
+    "y": -1359.1,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 434,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 2216.0,
+    "y": -1679.688,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 435,
+    "server_id": 13,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "brodyagathegod",
+    "status": "Аукцион",
+    "x": 532.7643,
+    "y": 874.9283,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
