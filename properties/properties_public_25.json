@@ -11284,7 +11284,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Targaryen",
-    "owner": "Foma_Zona",
+    "owner": "Alessandro_Notem",
     "status": "Занято",
     "x": -2029.79,
     "y": 796.554,
@@ -11336,6 +11336,18 @@
     "status": "Занято",
     "x": -2281.96,
     "y": 979.2269,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 946,
+    "server_id": 25,
+    "type": "house",
+    "name": "Wiggins",
+    "owner": "Three_Umph",
+    "status": "Занято",
+    "x": -2282.42,
+    "y": 999.619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12460,7 +12472,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Майни",
-    "owner": "Foma_Zona",
+    "owner": "Vadim_Lamborghini",
     "status": "Занято",
     "x": -1727.98,
     "y": 1138.91,
@@ -14500,7 +14512,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Деп условия+подвал",
-    "owner": "Foma_Zona",
+    "owner": "Adrenaline_Bishop",
     "status": "Занято",
     "x": -2884.79,
     "y": 750.6229,
@@ -19236,6 +19248,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1606,
+    "server_id": 25,
+    "type": "house",
+    "name": "Captain Levi",
+    "owner": "Andrey_Prokyrat",
+    "status": "Занято",
+    "x": 2621.06,
+    "y": 713.2249,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1607,
     "server_id": 25,
     "type": "house",
@@ -19444,7 +19468,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Foma_Zona",
+    "owner": "Papa_Uggly",
     "status": "Занято",
     "x": 99.2854,
     "y": 1178.07,
@@ -23724,18 +23748,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 946,
-    "server_id": 25,
-    "type": "house",
-    "name": "Wiggins",
-    "owner": "Three_Umph",
-    "status": "Аукцион",
-    "x": -2282.42,
-    "y": 999.619,
-    "price": 20000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1305,
     "server_id": 25,
     "type": "house",
@@ -23744,18 +23756,6 @@
     "status": "Аукцион",
     "x": -2558.56,
     "y": -198.7969,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1606,
-    "server_id": 25,
-    "type": "house",
-    "name": "Captain Levi",
-    "owner": "Andrey_Prokyrat",
-    "status": "Аукцион",
-    "x": 2621.06,
-    "y": 713.2249,
     "price": 300000000,
     "district": "Сан-Андреас"
   },
@@ -23769,6 +23769,30 @@
     "x": 2003.69,
     "y": 2150.0,
     "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 63,
+    "server_id": 25,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Keks_Uralsky",
+    "status": "Аукцион",
+    "x": -1320.49,
+    "y": 2698.65,
+    "price": 270000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 87,
+    "server_id": 25,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Keks_Uralsky",
+    "status": "Аукцион",
+    "x": -91.2371,
+    "y": 1188.43,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -24020,18 +24044,6 @@
     "status": "Занято",
     "x": -88.742,
     "y": 1378.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 87,
-    "server_id": 25,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Keks_Uralsky",
-    "status": "Занято",
-    "x": -91.2371,
-    "y": 1188.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25136,18 +25148,6 @@
     "status": "Занято",
     "x": 2150.73,
     "y": 2733.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 63,
-    "server_id": 25,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Keks_Uralsky",
-    "status": "Занято",
-    "x": -1320.49,
-    "y": 2698.65,
     "price": 0,
     "district": "Сан-Андреас"
   },

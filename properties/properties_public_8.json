@@ -8268,6 +8268,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 689,
+    "server_id": 8,
+    "type": "house",
+    "name": "Улица Morphine Corporation",
+    "owner": "Antonio_Borelli",
+    "status": "Занято",
+    "x": 1313.78,
+    "y": 2610.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 690,
     "server_id": 8,
     "type": "house",
@@ -8864,6 +8876,18 @@
     "status": "Занято",
     "x": -2845.31,
     "y": 928.414,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 740,
+    "server_id": 8,
+    "type": "house",
+    "name": "Стоит Набор Архитектора",
+    "owner": "Maksimka_Konoplev",
+    "status": "Занято",
+    "x": -2840.23,
+    "y": 877.4359,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10856,6 +10880,18 @@
     "status": "Занято",
     "x": -2126.89,
     "y": 996.109,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 908,
+    "server_id": 8,
+    "type": "house",
+    "name": "Стоит Набор Архитектора",
+    "owner": "Maksimka_Konoplev",
+    "status": "Занято",
+    "x": -2126.98,
+    "y": 1014.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14944,7 +14980,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Майнинг 3",
-    "owner": "Kreo_Kamera",
+    "owner": "Finish_Quantum",
     "status": "Занято",
     "x": -2793.14,
     "y": 110.9349,
@@ -15128,18 +15164,6 @@
     "status": "Занято",
     "x": -2840.23,
     "y": 866.8679,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1265,
-    "server_id": 8,
-    "type": "house",
-    "name": "Домик Ватковскова",
-    "owner": "Adolf_Zimmermann",
-    "status": "Занято",
-    "x": -2843.21,
-    "y": 904.3439,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18432,18 +18456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1540,
-    "server_id": 8,
-    "type": "house",
-    "name": "sell",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": -180.128,
-    "y": 1087.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1541,
     "server_id": 8,
     "type": "house",
@@ -19300,7 +19312,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Faero Vanya House",
-    "owner": "Kreo_Kamera",
+    "owner": "Spector_Freedom",
     "status": "Занято",
     "x": 2532.51,
     "y": 713.263,
@@ -24468,18 +24480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2043,
-    "server_id": 8,
-    "type": "house",
-    "name": "10 лвл",
-    "owner": "Yan_Baranov",
-    "status": "Занято",
-    "x": 2594.5,
-    "y": -1229.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2044,
     "server_id": 8,
     "type": "house",
@@ -25752,51 +25752,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 689,
+    "id": 1265,
     "server_id": 8,
     "type": "house",
-    "name": "Улица Morphine Corporation",
-    "owner": "Viper_Darkness",
-    "status": "Аукцион",
-    "x": 1313.78,
-    "y": 2610.19,
-    "price": 300000123,
+    "name": "Домик Ватковскова",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2843.21,
+    "y": 904.3439,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 740,
+    "id": 1540,
     "server_id": 8,
     "type": "house",
-    "name": "Стоит Набор Архитектора",
-    "owner": "Maksimka_Konoplev",
-    "status": "Аукцион",
-    "x": -2840.23,
-    "y": 877.4359,
-    "price": 2000000000,
+    "name": "sell",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -180.128,
+    "y": 1087.99,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 908,
+    "id": 2043,
     "server_id": 8,
     "type": "house",
-    "name": "Стоит Набор Архитектора",
-    "owner": "Maksimka_Konoplev",
+    "name": "10 лвл",
+    "owner": "Yan_Baranov",
     "status": "Аукцион",
-    "x": -2126.98,
-    "y": 1014.21,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 326,
-    "server_id": 8,
-    "type": "business",
-    "name": "Рыболовный магазин",
-    "owner": "Ivy_Weet",
-    "status": "Аукцион",
-    "x": 1566.83,
-    "y": 23.2989,
-    "price": 350000,
+    "x": 2594.5,
+    "y": -1229.21,
+    "price": 240000000,
     "district": "Сан-Андреас"
   },
   {
@@ -29708,6 +29696,18 @@
     "status": "Занято",
     "x": -2057.44,
     "y": -2464.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 326,
+    "server_id": 8,
+    "type": "business",
+    "name": "Рыболовный магазин",
+    "owner": "Ivy_Weet",
+    "status": "Занято",
+    "x": 1566.83,
+    "y": 23.2989,
     "price": 0,
     "district": "Сан-Андреас"
   },

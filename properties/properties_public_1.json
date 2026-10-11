@@ -5664,18 +5664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 472,
-    "server_id": 1,
-    "type": "house",
-    "name": "$Manhattan$",
-    "owner": "Austin_Manhattan",
-    "status": "Занято",
-    "x": 2369.06,
-    "y": 734.939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 473,
     "server_id": 1,
     "type": "house",
@@ -5943,7 +5931,7 @@
     "id": 495,
     "server_id": 1,
     "type": "house",
-    "name": "Дом",
+    "name": "UNKNOWN",
     "owner": "Unknown_Destiny",
     "status": "Занято",
     "x": 1695.08,
@@ -9584,18 +9572,6 @@
     "status": "Занято",
     "x": -2368.82,
     "y": 763.504,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 799,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом Барсучка и джека 2",
-    "owner": "Djek_Potroshiteli",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 784.028,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16116,6 +16092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1344,
+    "server_id": 1,
+    "type": "house",
+    "name": "Castellano 20/83k",
+    "owner": "Adolf_Kirovskiy",
+    "status": "Занято",
+    "x": -2233.26,
+    "y": 848.986,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1345,
     "server_id": 1,
     "type": "house",
@@ -17804,6 +17792,18 @@
     "status": "Занято",
     "x": 2433.94,
     "y": -1320.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1486,
+    "server_id": 1,
+    "type": "house",
+    "name": "денежная хата",
+    "owner": "Nyrlan_Gribogye",
+    "status": "Занято",
+    "x": 2433.93,
+    "y": -1303.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24144,27 +24144,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1344,
+    "id": 472,
     "server_id": 1,
     "type": "house",
-    "name": "Дом",
-    "owner": "Valeron_Nakamura",
+    "name": "$Manhattan$",
+    "owner": "Austin_Manhattan",
     "status": "Аукцион",
-    "x": -2233.26,
-    "y": 848.986,
-    "price": 16000,
+    "x": 2369.06,
+    "y": 734.939,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1486,
+    "id": 799,
     "server_id": 1,
     "type": "house",
-    "name": "Уголок Меллеров",
-    "owner": "Kemsky_Meller",
+    "name": "Дом Барсучка и джека 2",
+    "owner": "Djek_Potroshiteli",
     "status": "Аукцион",
-    "x": 2433.93,
-    "y": -1303.37,
-    "price": 1600000000,
+    "x": -2372.53,
+    "y": 784.028,
+    "price": 19000,
     "district": "Сан-Андреас"
   },
   {

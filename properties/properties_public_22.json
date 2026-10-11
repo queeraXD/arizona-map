@@ -4092,18 +4092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 341,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ferma 4",
-    "owner": "Pavel_Diardi",
-    "status": "Занято",
-    "x": 723.6119,
-    "y": 269.678,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 342,
     "server_id": 22,
     "type": "house",
@@ -4112,30 +4100,6 @@
     "status": "Занято",
     "x": 705.4279,
     "y": 292.096,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 343,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ferma 2",
-    "owner": "Pavel_Diardi",
-    "status": "Занято",
-    "x": 719.0629,
-    "y": 300.639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 344,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ferma 1",
-    "owner": "Pavel_Diardi",
-    "status": "Занято",
-    "x": 746.4089,
-    "y": 304.946,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14692,7 +14656,7 @@
     "server_id": 22,
     "type": "house",
     "name": "Домик Forbes",
-    "owner": "Ney_Forbes",
+    "owner": "Loud_Silence",
     "status": "Занято",
     "x": -2476.96,
     "y": 1273.98,
@@ -19204,7 +19168,7 @@
     "server_id": 22,
     "type": "house",
     "name": "Видюхи",
-    "owner": "Rast_Santoni",
+    "owner": "Kirill_Toyto",
     "status": "Занято",
     "x": 1548.63,
     "y": 1996.35,
@@ -22041,6 +22005,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 341,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ferma 4",
+    "owner": "Pavel_Diardi",
+    "status": "Аукцион",
+    "x": 723.6119,
+    "y": 269.678,
+    "price": 65000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 343,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ferma 2",
+    "owner": "Pavel_Diardi",
+    "status": "Аукцион",
+    "x": 719.0629,
+    "y": 300.639,
+    "price": 65000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 344,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ferma 1",
+    "owner": "Pavel_Diardi",
+    "status": "Аукцион",
+    "x": 746.4089,
+    "y": 304.946,
+    "price": 65000,
     "district": "Сан-Андреас"
   },
   {

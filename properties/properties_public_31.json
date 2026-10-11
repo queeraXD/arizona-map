@@ -592,7 +592,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Владеет - Семья World",
-    "owner": "Said_Yager",
+    "owner": "Leonardo_Loockwood",
     "status": "Занято",
     "x": 2191.1,
     "y": -1455.82,
@@ -6219,7 +6219,7 @@
     "id": 518,
     "server_id": 31,
     "type": "house",
-    "name": ":telegram: @fabensae /ds @n41ty",
+    "name": "Хата лысого черепа",
     "owner": "Jakonne_Glass",
     "status": "Занято",
     "x": 1595.41,
@@ -7968,6 +7968,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 665,
+    "server_id": 31,
+    "type": "house",
+    "name": "набор архитектора",
+    "owner": "Danil_Kurgan",
+    "status": "Занято",
+    "x": 986.0319,
+    "y": 2000.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 666,
     "server_id": 31,
     "type": "house",
@@ -7976,6 +7988,18 @@
     "status": "Занято",
     "x": 984.7579,
     "y": 2030.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 667,
+    "server_id": 31,
+    "type": "house",
+    "name": "Домик",
+    "owner": "Bad_Blood",
+    "status": "Занято",
+    "x": 1029.48,
+    "y": 1976.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15660,18 +15684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1311,
-    "server_id": 31,
-    "type": "house",
-    "name": "наркопритон",
-    "owner": "Fanky_Tape",
-    "status": "Занято",
-    "x": 142.6089,
-    "y": -1470.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1312,
     "server_id": 31,
     "type": "house",
@@ -20592,6 +20604,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1724,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Daniels_Wick",
+    "status": "Занято",
+    "x": 2495.3,
+    "y": -1359.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1725,
     "server_id": 31,
     "type": "house",
@@ -21732,6 +21756,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1821,
+    "server_id": 31,
+    "type": "house",
+    "name": "Mercy",
+    "owner": "Carter_Mercy",
+    "status": "Занято",
+    "x": 2620.35,
+    "y": 2130.36,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1822,
     "server_id": 31,
     "type": "house",
@@ -22528,7 +22564,7 @@
     "server_id": 31,
     "type": "house",
     "name": "МуВ6ОтОвОды",
-    "owner": "Ilyas_Plushkin",
+    "owner": "Endless_World",
     "status": "Занято",
     "x": 2647.12,
     "y": 2268.62,
@@ -23292,30 +23328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 665,
-    "server_id": 31,
-    "type": "house",
-    "name": "набор архитектора",
-    "owner": "Danil_Kurgan",
-    "status": "Аукцион",
-    "x": 986.0319,
-    "y": 2000.56,
-    "price": 4000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 667,
-    "server_id": 31,
-    "type": "house",
-    "name": "Домик",
-    "owner": "Danil_Kurgan",
-    "status": "Аукцион",
-    "x": 1029.48,
-    "y": 1976.11,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 833,
     "server_id": 31,
     "type": "house",
@@ -23340,39 +23352,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1724,
+    "id": 1311,
     "server_id": 31,
     "type": "house",
-    "name": "Дом",
-    "owner": "Daniels_Wick",
+    "name": "наркопритон",
+    "owner": "Fanky_Tape",
     "status": "Аукцион",
-    "x": 2495.3,
-    "y": -1359.4,
-    "price": 1300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1821,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Danil_Kurgan",
-    "status": "Аукцион",
-    "x": 2620.35,
-    "y": 2130.36,
-    "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 463,
-    "server_id": 31,
-    "type": "business",
-    "name": "Авиабазар",
-    "owner": "Cargo_Craft",
-    "status": "Аукцион",
-    "x": 234.368,
-    "y": 2531.03,
-    "price": 1500000,
+    "x": 142.6089,
+    "y": -1470.36,
+    "price": 3500000000,
     "district": "Сан-Андреас"
   },
   {

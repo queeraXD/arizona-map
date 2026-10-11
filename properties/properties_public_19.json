@@ -8808,18 +8808,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 739,
-    "server_id": 19,
-    "type": "house",
-    "name": "tinker",
-    "owner": "The_Witcher",
-    "status": "Занято",
-    "x": -2845.31,
-    "y": 928.414,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 740,
     "server_id": 19,
     "type": "house",
@@ -11288,6 +11276,18 @@
     "status": "Занято",
     "x": -2282.42,
     "y": 999.619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 947,
+    "server_id": 19,
+    "type": "house",
+    "name": "marcel",
+    "owner": "Vincent_Haines",
+    "status": "Занято",
+    "x": -2239.15,
+    "y": 943.854,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14504,6 +14504,18 @@
     "status": "Занято",
     "x": -2856.66,
     "y": 841.9479,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1216,
+    "server_id": 19,
+    "type": "house",
+    "name": "дом Санечки прекрасного друга",
+    "owner": "Sanzik_Wanzik",
+    "status": "Занято",
+    "x": -2840.23,
+    "y": 866.763,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19260,18 +19272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1616,
-    "server_id": 19,
-    "type": "house",
-    "name": ":uf20b: Underground Fam :uf20b:",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 1778.43,
-    "y": 2736.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1617,
     "server_id": 19,
     "type": "house",
@@ -19448,18 +19448,6 @@
     "status": "Занято",
     "x": 1810.63,
     "y": 2811.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1632,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 1812.81,
-    "y": 2820.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20892,18 +20880,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1754,
-    "server_id": 19,
-    "type": "house",
-    "name": "kottegj enderdragon",
-    "owner": "Wudi_McDuck",
-    "status": "Занято",
-    "x": 2707.31,
-    "y": -1207.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1757,
     "server_id": 19,
     "type": "house",
@@ -21888,6 +21864,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 739,
+    "server_id": 19,
+    "type": "house",
+    "name": "tinker",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2845.31,
+    "y": 928.414,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 351,
     "server_id": 19,
     "type": "house",
@@ -21948,30 +21936,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 947,
-    "server_id": 19,
-    "type": "house",
-    "name": "marcel",
-    "owner": "Vincent_Haines",
-    "status": "Аукцион",
-    "x": -2239.15,
-    "y": 943.854,
-    "price": 50000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1216,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bada_Boom",
-    "status": "Аукцион",
-    "x": -2840.23,
-    "y": 866.763,
-    "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1534,
     "server_id": 19,
     "type": "house",
@@ -22008,6 +21972,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1616,
+    "server_id": 19,
+    "type": "house",
+    "name": ":uf20b: Underground Fam :uf20b:",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": 1778.43,
+    "y": 2736.05,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1632,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": 1812.81,
+    "y": 2820.57,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1747,
     "server_id": 19,
     "type": "house",
@@ -22029,6 +22017,18 @@
     "x": 2707.31,
     "y": -1211.68,
     "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1754,
+    "server_id": 19,
+    "type": "house",
+    "name": "kottegj enderdragon",
+    "owner": "Wudi_McDuck",
+    "status": "Аукцион",
+    "x": 2707.31,
+    "y": -1207.55,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22068,15 +22068,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 199,
+    "id": 182,
     "server_id": 19,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Andrew_Thelpriader",
+    "owner": "Brutto_Asylum",
     "status": "Аукцион",
-    "x": 1771.74,
-    "y": -1903.27,
-    "price": 7000000000,
+    "x": 1104.78,
+    "y": 1380.93,
+    "price": 9000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24888,18 +24888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 182,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Brutto_Asylum",
-    "status": "Занято",
-    "x": 1104.78,
-    "y": 1380.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 183,
     "server_id": 19,
     "type": "business",
@@ -24940,8 +24928,8 @@
     "server_id": 19,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Major_Dikiy",
-    "status": "Занято",
+    "owner": "Государство",
+    "status": "Свободно",
     "x": 2268.78,
     "y": 624.86,
     "price": 0,
@@ -25088,6 +25076,18 @@
     "status": "Занято",
     "x": -1826.43,
     "y": -566.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 199,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Andrew_Thelpriader",
+    "status": "Занято",
+    "x": 1771.74,
+    "y": -1903.27,
     "price": 0,
     "district": "Сан-Андреас"
   },

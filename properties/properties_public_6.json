@@ -11472,6 +11472,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 956,
+    "server_id": 6,
+    "type": "house",
+    "name": ":vc:MacDuc studio:vc:",
+    "owner": "Gideon_MacDuck",
+    "status": "Занято",
+    "x": -2187.02,
+    "y": 743.3419,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 957,
     "server_id": 6,
     "type": "house",
@@ -12608,6 +12620,18 @@
     "status": "Занято",
     "x": -2044.01,
     "y": 1261.37,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1052,
+    "server_id": 6,
+    "type": "house",
+    "name": ":vc:MacDuck studio:vc:",
+    "owner": "Gideon_MacDuck",
+    "status": "Занято",
+    "x": -2152.59,
+    "y": 1248.47,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20560,7 +20584,7 @@
     "server_id": 6,
     "type": "house",
     "name": "дом Reyzi",
-    "owner": "Reyzi_Foster",
+    "owner": "Artemy_Young",
     "status": "Занято",
     "x": -2736.88,
     "y": 846.674,
@@ -23220,6 +23244,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1940,
+    "server_id": 6,
+    "type": "house",
+    "name": ":vc:MacDuck studio:vc:",
+    "owner": "Gideon_MacDuck",
+    "status": "Занято",
+    "x": -1872.3,
+    "y": 1125.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1941,
     "server_id": 6,
     "type": "house",
@@ -23840,18 +23876,6 @@
     "status": "Занято",
     "x": 2601.64,
     "y": 2213.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1993,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stas_Refund",
-    "status": "Занято",
-    "x": 2601.45,
-    "y": 2203.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24480,30 +24504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 956,
-    "server_id": 6,
-    "type": "house",
-    "name": ":vc:MacDuc studio:vc:",
-    "owner": "Gideon_MacDuck",
-    "status": "Аукцион",
-    "x": -2187.02,
-    "y": 743.3419,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1052,
-    "server_id": 6,
-    "type": "house",
-    "name": ":vc:MacDuck studio:vc:",
-    "owner": "Gideon_MacDuck",
-    "status": "Аукцион",
-    "x": -2152.59,
-    "y": 1248.47,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1754,
     "server_id": 6,
     "type": "house",
@@ -24516,15 +24516,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1940,
+    "id": 1993,
     "server_id": 6,
     "type": "house",
-    "name": ":vc:MacDuck studio:vc:",
-    "owner": "Gideon_MacDuck",
+    "name": "Дом",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": -1872.3,
-    "y": 1125.28,
-    "price": 500000000,
+    "x": 2601.45,
+    "y": 2203.97,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 44,
+    "server_id": 6,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Tapes_Rose",
+    "status": "Аукцион",
+    "x": 1224.56,
+    "y": 249.852,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25052,18 +25064,6 @@
     "status": "Занято",
     "x": 2273.62,
     "y": 82.047,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 44,
-    "server_id": 6,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Tapes_Rose",
-    "status": "Занято",
-    "x": 1224.56,
-    "y": 249.852,
     "price": 0,
     "district": "Сан-Андреас"
   },
