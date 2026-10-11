@@ -3580,7 +3580,7 @@
     "server_id": 26,
     "type": "house",
     "name": "владения боба и бибы",
-    "owner": "Biba_Lovelondon",
+    "owner": "Sergio_Bell",
     "status": "Занято",
     "x": 2092.26,
     "y": -1067.44,
@@ -4896,18 +4896,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 408,
-    "server_id": 26,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Vincent_Castell",
-    "status": "Занято",
-    "x": 1428.29,
-    "y": 355.7619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 409,
     "server_id": 26,
     "type": "house",
@@ -4964,18 +4952,6 @@
     "status": "Занято",
     "x": 1841.15,
     "y": 33.3628,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 414,
-    "server_id": 26,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Vincent_Castell",
-    "status": "Занято",
-    "x": 1469.66,
-    "y": 351.2609,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5128,7 +5104,7 @@
     "server_id": 26,
     "type": "house",
     "name": "PaFoSi House",
-    "owner": "Pafos_BabyTape",
+    "owner": "Gorod_Tumanov",
     "status": "Занято",
     "x": 271.57,
     "y": -48.9888,
@@ -8808,6 +8784,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 734,
+    "server_id": 26,
+    "type": "house",
+    "name": "Хата СФ 2",
+    "owner": "Arrogant_Reed",
+    "status": "Занято",
+    "x": -2904.37,
+    "y": 1118.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 735,
     "server_id": 26,
     "type": "house",
@@ -9212,6 +9200,18 @@
     "status": "Занято",
     "x": -2594.19,
     "y": 733.1779,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 769,
+    "server_id": 26,
+    "type": "house",
+    "name": "Хата СФ",
+    "owner": "Stop_Loss",
+    "status": "Занято",
+    "x": -2594.19,
+    "y": 768.164,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15792,30 +15792,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1321,
-    "server_id": 26,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Vincent_Castell",
-    "status": "Занято",
-    "x": 1488.61,
-    "y": 360.9039,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1322,
-    "server_id": 26,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Vincent_Castell",
-    "status": "Занято",
-    "x": 1475.31,
-    "y": 372.7489,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1323,
     "server_id": 26,
     "type": "house",
@@ -15836,18 +15812,6 @@
     "status": "Занято",
     "x": 1447.38,
     "y": 361.768,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1325,
-    "server_id": 26,
-    "type": "house",
-    "name": "hirokysomi",
-    "owner": "Vincent_Castell",
-    "status": "Занято",
-    "x": 1461.16,
-    "y": 342.493,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25140,27 +25104,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 734,
+    "id": 408,
     "server_id": 26,
     "type": "house",
-    "name": "Хата СФ 2",
-    "owner": "Stop_Loss",
+    "name": "Деп условия",
+    "owner": "Vincent_Castell",
     "status": "Аукцион",
-    "x": -2904.37,
-    "y": 1118.84,
-    "price": 85000000,
+    "x": 1428.29,
+    "y": 355.7619,
+    "price": 180000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 769,
+    "id": 414,
     "server_id": 26,
     "type": "house",
-    "name": "Хата СФ",
-    "owner": "Stop_Loss",
+    "name": "Деп условия",
+    "owner": "Vincent_Castell",
     "status": "Аукцион",
-    "x": -2594.19,
-    "y": 768.164,
-    "price": 150000000,
+    "x": 1469.66,
+    "y": 351.2609,
+    "price": 180000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25188,15 +25152,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 85,
+    "id": 1321,
+    "server_id": 26,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Vincent_Castell",
+    "status": "Аукцион",
+    "x": 1488.61,
+    "y": 360.9039,
+    "price": 180000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1322,
+    "server_id": 26,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Vincent_Castell",
+    "status": "Аукцион",
+    "x": 1475.31,
+    "y": 372.7489,
+    "price": 180000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1325,
+    "server_id": 26,
+    "type": "house",
+    "name": "hirokysomi",
+    "owner": "Vincent_Castell",
+    "status": "Аукцион",
+    "x": 1461.16,
+    "y": 342.493,
+    "price": 180000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 249,
     "server_id": 26,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "Государство",
+    "name": "АЗС/Магазин механики",
+    "owner": "Rayder_Rivals",
     "status": "Аукцион",
-    "x": -1213.8,
-    "y": 1830.33,
-    "price": 10000000,
+    "x": 111.076,
+    "y": -1782.68,
+    "price": 169999,
     "district": "Сан-Андреас"
   },
   {
@@ -26604,18 +26604,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 249,
-    "server_id": 26,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Rayder_Rivals",
-    "status": "Занято",
-    "x": 111.076,
-    "y": -1782.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 250,
     "server_id": 26,
     "type": "business",
@@ -26972,6 +26960,18 @@
     "status": "Занято",
     "x": -858.014,
     "y": 1535.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 85,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Kolins_Shakur",
+    "status": "Занято",
+    "x": -1213.8,
+    "y": 1830.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
