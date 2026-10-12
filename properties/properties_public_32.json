@@ -1476,18 +1476,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 123,
-    "server_id": 32,
-    "type": "house",
-    "name": "..::Добро пожаловать::..",
-    "owner": "Angel_Razer",
-    "status": "Занято",
-    "x": 1873.66,
-    "y": -2070.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 124,
     "server_id": 32,
     "type": "house",
@@ -8256,6 +8244,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 693,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ermanno_Mackenzie",
+    "status": "Занято",
+    "x": 1316.23,
+    "y": 2524.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 694,
     "server_id": 32,
     "type": "house",
@@ -12387,7 +12387,7 @@
     "id": 1040,
     "server_id": 32,
     "type": "house",
-    "name": "Александр",
+    "name": "bucciarati",
     "owner": "Feiko_Hokage",
     "status": "Занято",
     "x": -1727.98,
@@ -15903,7 +15903,7 @@
     "id": 1333,
     "server_id": 32,
     "type": "house",
-    "name": "Убежище Мартина",
+    "name": "@Kaifat@",
     "owner": "Kirsan_Kaifat",
     "status": "Занято",
     "x": 1550.54,
@@ -18651,8 +18651,8 @@
     "id": 1591,
     "server_id": 32,
     "type": "house",
-    "name": "Mercer.",
-    "owner": "Kio_Mercer",
+    "name": "Barbariki_Skuad",
+    "owner": "Dmitry_Barbariki",
     "status": "Занято",
     "x": 2441.54,
     "y": 1225.67,
@@ -19268,18 +19268,6 @@
     "status": "Занято",
     "x": 1974.73,
     "y": -1671.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1643,
-    "server_id": 32,
-    "type": "house",
-    "name": "HOUSE SHTORM",
-    "owner": "Bave_Liy",
-    "status": "Занято",
-    "x": 1969.28,
-    "y": -1654.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19936,7 +19924,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Akzhan_Sovhoz",
+    "owner": "Waha_Plugg",
     "status": "Занято",
     "x": 2468.38,
     "y": -1391.71,
@@ -20332,7 +20320,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Akzhan_Sovhoz",
+    "owner": "Waha_Plugg",
     "status": "Занято",
     "x": 2495.38,
     "y": -1391.71,
@@ -22476,6 +22464,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 123,
+    "server_id": 32,
+    "type": "house",
+    "name": "..::Добро пожаловать::..",
+    "owner": "Angel_Razer",
+    "status": "Аукцион",
+    "x": 1873.66,
+    "y": -2070.49,
+    "price": 2600000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 413,
     "server_id": 32,
     "type": "house",
@@ -22484,7 +22484,7 @@
     "status": "Аукцион",
     "x": 1841.15,
     "y": 33.3628,
-    "price": 705000,
+    "price": 735000,
     "district": "Сан-Андреас"
   },
   {
@@ -22496,7 +22496,7 @@
     "status": "Аукцион",
     "x": 1698.24,
     "y": 155.5399,
-    "price": 719000,
+    "price": 777000,
     "district": "Сан-Андреас"
   },
   {
@@ -22508,31 +22508,19 @@
     "status": "Аукцион",
     "x": 1756.79,
     "y": 66.9654,
-    "price": 999000,
+    "price": 911000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 693,
+    "id": 1643,
     "server_id": 32,
     "type": "house",
-    "name": "Дом",
-    "owner": "Destonium_Laminos",
+    "name": "HOUSE SHTORM",
+    "owner": "Bave_Liy",
     "status": "Аукцион",
-    "x": 1316.23,
-    "y": 2524.48,
-    "price": 700000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 155,
-    "server_id": 32,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Destonium_Laminos",
-    "status": "Аукцион",
-    "x": -2166.17,
-    "y": 243.501,
-    "price": 10000000000,
+    "x": 1969.28,
+    "y": -1654.67,
+    "price": 500123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22544,19 +22532,7 @@
     "status": "Аукцион",
     "x": 2405.02,
     "y": -1933.97,
-    "price": 200123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 321,
-    "server_id": 32,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Kazuha_Scuff",
-    "status": "Аукцион",
-    "x": -2412.91,
-    "y": 350.083,
-    "price": 550000,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22876,7 +22852,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Бар",
-    "owner": "Akuma_Inferno",
+    "owner": "Analitek_Titek",
     "status": "Занято",
     "x": 1966.2,
     "y": 1623.14,
@@ -23200,7 +23176,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Vasiliy_Batonov",
+    "owner": "Kevin_Nikolsky",
     "status": "Занято",
     "x": 1657.04,
     "y": 1741.65,
@@ -25176,6 +25152,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 155,
+    "server_id": 32,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Vasiliy_Batonov",
+    "status": "Занято",
+    "x": -2166.17,
+    "y": 243.501,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 156,
     "server_id": 32,
     "type": "business",
@@ -25256,6 +25244,18 @@
     "status": "Занято",
     "x": 1858.64,
     "y": 2159.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 321,
+    "server_id": 32,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Kazuha_Scuff",
+    "status": "Занято",
+    "x": -2412.91,
+    "y": 350.083,
     "price": 0,
     "district": "Сан-Андреас"
   },

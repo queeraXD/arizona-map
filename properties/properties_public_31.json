@@ -1332,6 +1332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 111,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Domino_Inarchive",
+    "status": "Занято",
+    "x": 2269.22,
+    "y": -1882.41,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 112,
     "server_id": 31,
     "type": "house",
@@ -1748,18 +1760,6 @@
     "status": "Занято",
     "x": 1242.25,
     "y": -1076.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 147,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Chalice_Root",
-    "status": "Занято",
-    "x": 1242.38,
-    "y": -1099.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2492,18 +2492,6 @@
     "status": "Занято",
     "x": 1298.77,
     "y": -799.3189,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 209,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Chalice_Root",
-    "status": "Занято",
-    "x": 1093.81,
-    "y": -806.668,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8643,7 +8631,7 @@
     "id": 721,
     "server_id": 31,
     "type": "house",
-    "name": "Comfortniy_Trailer легенда",
+    "name": ":telegram @fabensae /ds @n41ty",
     "owner": "Yanis_Lulisse",
     "status": "Занято",
     "x": -300.595,
@@ -10119,7 +10107,7 @@
     "id": 844,
     "server_id": 31,
     "type": "house",
-    "name": "Nya",
+    "name": "temshik",
     "owner": "Temshik_Mercy",
     "status": "Занято",
     "x": -2227.81,
@@ -10292,18 +10280,6 @@
     "status": "Занято",
     "x": -2428.748,
     "y": -1328.385,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 860,
-    "server_id": 31,
-    "type": "house",
-    "name": "sick",
-    "owner": "Chalice_Root",
-    "status": "Занято",
-    "x": -1432.72,
-    "y": -953.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14376,18 +14352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1200,
-    "server_id": 31,
-    "type": "house",
-    "name": "Кайф",
-    "owner": "Danya_Shawarma",
-    "status": "Занято",
-    "x": -2791.58,
-    "y": 130.6239,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1201,
     "server_id": 31,
     "type": "house",
@@ -15500,18 +15464,6 @@
     "status": "Занято",
     "x": -2576.46,
     "y": -118.7259,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1294,
-    "server_id": 31,
-    "type": "house",
-    "name": "House Men",
-    "owner": "Pula_Underdog",
-    "status": "Занято",
-    "x": -2558.63,
-    "y": -118.7289,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18480,18 +18432,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1543,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Chalice_Root",
-    "status": "Занято",
-    "x": -1427.16,
-    "y": 2171.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1544,
     "server_id": 31,
     "type": "house",
@@ -18572,18 +18512,6 @@
     "status": "Занято",
     "x": -49.8255,
     "y": -269.363,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1551,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Chalice_Root",
-    "status": "Занято",
-    "x": -396.2359,
-    "y": -425.087,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23352,15 +23280,123 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 111,
+    "id": 147,
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Domino_Inarchive",
+    "owner": "Chalice_Root",
     "status": "Аукцион",
-    "x": 2269.22,
-    "y": -1882.41,
+    "x": 1242.38,
+    "y": -1099.59,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 209,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Chalice_Root",
+    "status": "Аукцион",
+    "x": 1093.81,
+    "y": -806.668,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 860,
+    "server_id": 31,
+    "type": "house",
+    "name": "sick",
+    "owner": "Chalice_Root",
+    "status": "Аукцион",
+    "x": -1432.72,
+    "y": -953.82,
+    "price": 350000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1200,
+    "server_id": 31,
+    "type": "house",
+    "name": "Кайф",
+    "owner": "Danya_Shawarma",
+    "status": "Аукцион",
+    "x": -2791.58,
+    "y": 130.6239,
+    "price": 1999999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1294,
+    "server_id": 31,
+    "type": "house",
+    "name": "House Men",
+    "owner": "Pula_Underdog",
+    "status": "Аукцион",
+    "x": -2558.63,
+    "y": -118.7289,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1543,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Chalice_Root",
+    "status": "Аукцион",
+    "x": -1427.16,
+    "y": 2171.35,
     "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1551,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Chalice_Root",
+    "status": "Аукцион",
+    "x": -396.2359,
+    "y": -425.087,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 341,
+    "server_id": 31,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Chalice_Root",
+    "status": "Аукцион",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 555555,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 344,
+    "server_id": 31,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Chalice_Root",
+    "status": "Аукцион",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 555555,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 346,
+    "server_id": 31,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Chalice_Root",
+    "status": "Аукцион",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 555555,
     "district": "Сан-Андреас"
   },
   {
@@ -24328,7 +24364,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Sber_Bang",
+    "owner": "Miu_Piu",
     "status": "Занято",
     "x": -2718.47,
     "y": 50.452,
@@ -25240,7 +25276,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Sber_Bang",
+    "owner": "Miu_Piu",
     "status": "Занято",
     "x": -1808.68,
     "y": 945.944,
@@ -25780,7 +25816,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Отель",
-    "owner": "Adriano_Bellini",
+    "owner": "Asap_Rockie",
     "status": "Занято",
     "x": 493.9368,
     "y": -1642.748,
@@ -26632,7 +26668,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Автосалон эконом",
-    "owner": "Golden_Eagle",
+    "owner": "[15]Bruce_McCloud",
     "status": "Занято",
     "x": -479.773,
     "y": -542.696,
@@ -27444,18 +27480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 341,
-    "server_id": 31,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Chalice_Root",
-    "status": "Занято",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 342,
     "server_id": 31,
     "type": "business",
@@ -27480,18 +27504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 344,
-    "server_id": 31,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Chalice_Root",
-    "status": "Занято",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 345,
     "server_id": 31,
     "type": "business",
@@ -27504,23 +27516,11 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 346,
-    "server_id": 31,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Chalice_Root",
-    "status": "Занято",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 347,
     "server_id": 31,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "[15]Bruce_McCloud",
+    "owner": "[30]Bruce_McCloud",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

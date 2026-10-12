@@ -639,7 +639,7 @@
     "id": 53,
     "server_id": 13,
     "type": "house",
-    "name": "PZTV SQUAD",
+    "name": "буткемп",
     "owner": "Vest_Krause",
     "status": "Занято",
     "x": 2144.78,
@@ -1976,6 +1976,18 @@
     "status": "Занято",
     "x": 969.789,
     "y": -1811.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 165,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Danya_Tarpeda",
+    "status": "Занято",
+    "x": 958.1389,
+    "y": -1808.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11244,18 +11256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 938,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nikolas_Raan",
-    "status": "Занято",
-    "x": -2094.08,
-    "y": 796.2789,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 939,
     "server_id": 13,
     "type": "house",
@@ -16932,18 +16932,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1412,
-    "server_id": 13,
-    "type": "house",
-    "name": "дом Sai 3",
-    "owner": "Yamamoto_Sai",
-    "status": "Занято",
-    "x": 689.755,
-    "y": 1297.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1413,
     "server_id": 13,
     "type": "house",
@@ -21840,6 +21828,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1822,
+    "server_id": 13,
+    "type": "house",
+    "name": "maqson",
+    "owner": "Maqson_Salo",
+    "status": "Занято",
+    "x": 1778.53,
+    "y": 2736.02,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1823,
     "server_id": 13,
     "type": "house",
@@ -23256,27 +23256,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 165,
+    "id": 938,
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Danya_Tarpeda",
+    "owner": "Nikolas_Raan",
     "status": "Аукцион",
-    "x": 958.1389,
-    "y": -1808.83,
-    "price": 1500000000,
+    "x": -2094.08,
+    "y": 796.2789,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1822,
+    "id": 1412,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Sirius_Cybernetik",
+    "name": "дом Sai 3",
+    "owner": "Yamamoto_Sai",
     "status": "Аукцион",
-    "x": 1778.53,
-    "y": 2736.02,
-    "price": 10000000,
+    "x": 689.755,
+    "y": 1297.17,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23288,7 +23288,7 @@
     "status": "Аукцион",
     "x": 1794.35,
     "y": 2863.28,
-    "price": 500000000,
+    "price": 100123123,
     "district": "Сан-Андреас"
   },
   {

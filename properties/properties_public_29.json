@@ -3696,6 +3696,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 308,
+    "server_id": 29,
+    "type": "house",
+    "name": "NewLight Empire",
+    "owner": "Thomas_Reed",
+    "status": "Занято",
+    "x": 1912.61,
+    "y": -1070.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 309,
     "server_id": 29,
     "type": "house",
@@ -9060,18 +9072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 756,
-    "server_id": 29,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Downil_Onyx",
-    "status": "Занято",
-    "x": -2731.47,
-    "y": 723.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 757,
     "server_id": 29,
     "type": "house",
@@ -9656,18 +9656,6 @@
     "status": "Занято",
     "x": -2725.64,
     "y": -92.5289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 806,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Slishu_Forbs",
-    "status": "Занято",
-    "x": -2723.93,
-    "y": -105.541,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11156,6 +11144,18 @@
     "status": "Занято",
     "x": -2017.56,
     "y": 982.8229,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 932,
+    "server_id": 29,
+    "type": "house",
+    "name": "вирты фарм аз",
+    "owner": "Kedroviy_Oreh",
+    "status": "Занято",
+    "x": -2017.94,
+    "y": 970.2399,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18720,18 +18720,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1566,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Qual_Kreis",
-    "status": "Занято",
-    "x": 510.7539,
-    "y": 1115.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1567,
     "server_id": 29,
     "type": "house",
@@ -20056,7 +20044,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Danny_Bronks",
+    "owner": "Okey_Danya",
     "status": "Занято",
     "x": 2495.21,
     "y": -1391.65,
@@ -20068,7 +20056,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Danny_Bronks",
+    "owner": "Okey_Danya",
     "status": "Занято",
     "x": 2492.14,
     "y": -1383.37,
@@ -21084,15 +21072,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 308,
+    "id": 756,
     "server_id": 29,
     "type": "house",
-    "name": "NewLight Empire",
-    "owner": "Husper_Revenantsize",
+    "name": "деп условия",
+    "owner": "Downil_Onyx",
     "status": "Аукцион",
-    "x": 1912.61,
-    "y": -1070.59,
-    "price": 500000000,
+    "x": -2731.47,
+    "y": 723.703,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 806,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Slishu_Forbs",
+    "status": "Аукцион",
+    "x": -2723.93,
+    "y": -105.541,
+    "price": 450123123,
     "district": "Сан-Андреас"
   },
   {
@@ -21104,19 +21104,7 @@
     "status": "Аукцион",
     "x": -2234.63,
     "y": 870.7579,
-    "price": 400123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 932,
-    "server_id": 29,
-    "type": "house",
-    "name": "вирты фарм аз",
-    "owner": "Kedroviy_Oreh",
-    "status": "Аукцион",
-    "x": -2017.94,
-    "y": 970.2399,
-    "price": 500123123,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {
@@ -21140,19 +21128,31 @@
     "status": "Аукцион",
     "x": -2158.98,
     "y": 866.3289,
-    "price": 400123123,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 267,
+    "id": 1566,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Qual_Kreis",
+    "status": "Аукцион",
+    "x": 510.7539,
+    "y": 1115.67,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 217,
     "server_id": 29,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Nekich_Bossov",
+    "owner": "Qual_Kreis",
     "status": "Аукцион",
-    "x": 1460.33,
-    "y": 2784.8,
-    "price": 8000000000,
+    "x": 2537.82,
+    "y": 2137.12,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21412,7 +21412,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Бар",
-    "owner": "Toby_Pinguinovskiy",
+    "owner": "Dmitriy_Blender",
     "status": "Занято",
     "x": -91.2371,
     "y": 1188.43,
@@ -24324,18 +24324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 217,
-    "server_id": 29,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Qual_Kreis",
-    "status": "Занято",
-    "x": 2537.82,
-    "y": 2137.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 218,
     "server_id": 29,
     "type": "business",
@@ -24368,6 +24356,18 @@
     "status": "Занято",
     "x": 947.921,
     "y": 1719.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 267,
+    "server_id": 29,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Nekich_Bossov",
+    "status": "Занято",
+    "x": 1460.33,
+    "y": 2784.8,
     "price": 0,
     "district": "Сан-Андреас"
   },

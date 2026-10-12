@@ -10080,6 +10080,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 840,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Red_Weather",
+    "status": "Занято",
+    "x": -2158.69,
+    "y": 786.153,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 841,
     "server_id": 5,
     "type": "house",
@@ -18024,6 +18036,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1503,
+    "server_id": 5,
+    "type": "house",
+    "name": "Domination Fam",
+    "owner": "Gamos_Seluk",
+    "status": "Занято",
+    "x": 753.5599,
+    "y": 1973.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1504,
     "server_id": 5,
     "type": "house",
@@ -21084,18 +21108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1760,
-    "server_id": 5,
-    "type": "house",
-    "name": "MASONKA",
-    "owner": "Morphius_Mackenzie",
-    "status": "Занято",
-    "x": -2361.44,
-    "y": 251.6199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1761,
     "server_id": 5,
     "type": "house",
@@ -22032,18 +22044,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1839,
-    "server_id": 5,
-    "type": "house",
-    "name": "Farm by Moretto",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": 2816.49,
-    "y": 2274.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1840,
     "server_id": 5,
     "type": "house",
@@ -22304,6 +22304,18 @@
     "status": "Занято",
     "x": 2003.68,
     "y": 2159.13,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1862,
+    "server_id": 5,
+    "type": "house",
+    "name": "11111",
+    "owner": "Gamos_Seluk",
+    "status": "Занято",
+    "x": 2003.69,
+    "y": 2154.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23384,6 +23396,18 @@
     "status": "Занято",
     "x": 2468.28,
     "y": -1366.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1953,
+    "server_id": 5,
+    "type": "house",
+    "name": "Domination Fam",
+    "owner": "Gamos_Seluk",
+    "status": "Занято",
+    "x": 2468.46,
+    "y": -1376.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25056,30 +25080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 840,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Red_Weather",
-    "status": "Аукцион",
-    "x": -2158.69,
-    "y": 786.153,
-    "price": 1400123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1503,
-    "server_id": 5,
-    "type": "house",
-    "name": "Domination Fam",
-    "owner": "Gamos_Seluk",
-    "status": "Аукцион",
-    "x": 753.5599,
-    "y": 1973.31,
-    "price": 700000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1601,
     "server_id": 5,
     "type": "house",
@@ -25092,27 +25092,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1862,
+    "id": 1760,
     "server_id": 5,
     "type": "house",
-    "name": "11111",
-    "owner": "Gamos_Seluk",
+    "name": "MASONKA",
+    "owner": "Morphius_Mackenzie",
     "status": "Аукцион",
-    "x": 2003.69,
-    "y": 2154.52,
-    "price": 700000000,
+    "x": -2361.44,
+    "y": 251.6199,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1953,
+    "id": 1839,
     "server_id": 5,
     "type": "house",
-    "name": "Domination Fam",
-    "owner": "Gamos_Seluk",
+    "name": "Farm by Moretto",
+    "owner": "Night_Sosiska",
     "status": "Аукцион",
-    "x": 2468.46,
-    "y": -1376.26,
-    "price": 700000000,
+    "x": 2816.49,
+    "y": 2274.91,
+    "price": 700123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 250,
+    "server_id": 5,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Kostyan_Requiem",
+    "status": "Аукцион",
+    "x": 2170.48,
+    "y": 542.934,
+    "price": 215000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 314,
+    "server_id": 5,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Kostyan_Requiem",
+    "status": "Аукцион",
+    "x": 1004.554,
+    "y": -1356.182,
+    "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 5,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Kostyan_Requiem",
+    "status": "Аукцион",
+    "x": -2103.59,
+    "y": -2342.04,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -26532,18 +26568,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 250,
-    "server_id": 5,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Kostyan_Requiem",
-    "status": "Занято",
-    "x": 2170.48,
-    "y": 542.934,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 251,
     "server_id": 5,
     "type": "business",
@@ -27212,18 +27236,6 @@
     "status": "Занято",
     "x": 693.619,
     "y": 1967.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 5,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Kostyan_Requiem",
-    "status": "Занято",
-    "x": -2103.59,
-    "y": -2342.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28928,18 +28940,6 @@
     "status": "Занято",
     "x": 1332.48,
     "y": -1120.468,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 314,
-    "server_id": 5,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Kostyan_Requiem",
-    "status": "Занято",
-    "x": 1004.554,
-    "y": -1356.182,
     "price": 0,
     "district": "Сан-Андреас"
   },
