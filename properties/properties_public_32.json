@@ -1476,18 +1476,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 123,
-    "server_id": 32,
-    "type": "house",
-    "name": "..::Добро пожаловать::..",
-    "owner": "Angel_Razer",
-    "status": "Занято",
-    "x": 1873.66,
-    "y": -2070.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 124,
     "server_id": 32,
     "type": "house",
@@ -5724,18 +5712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 478,
-    "server_id": 32,
-    "type": "house",
-    "name": "65ккк",
-    "owner": "Monopoly_Navarro",
-    "status": "Занято",
-    "x": 1698.24,
-    "y": 155.5399,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 479,
     "server_id": 32,
     "type": "house",
@@ -8272,7 +8248,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Dante_Fangs",
+    "owner": "Destonium_Laminos",
     "status": "Занято",
     "x": 1316.23,
     "y": 2524.48,
@@ -9044,18 +9020,6 @@
     "status": "Занято",
     "x": -2738.31,
     "y": 771.5869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 759,
-    "server_id": 32,
-    "type": "house",
-    "name": "ROOM13",
-    "owner": "Katya_Reitman",
-    "status": "Занято",
-    "x": -2738.32,
-    "y": 801.5289,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12888,18 +12852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1081,
-    "server_id": 32,
-    "type": "house",
-    "name": "Porsche Monopoly Place",
-    "owner": "AegisForce_VapeBoost",
-    "status": "Занято",
-    "x": -2853.21,
-    "y": 947.4849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1082,
     "server_id": 32,
     "type": "house",
@@ -15471,7 +15423,7 @@
     "id": 1296,
     "server_id": 32,
     "type": "house",
-    "name": "PREMIUM \\\"House\\\"",
+    "name": "Дом",
     "owner": "Petro_Partizan",
     "status": "Занято",
     "x": -2524.33,
@@ -20436,18 +20388,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1739,
-    "server_id": 32,
-    "type": "house",
-    "name": "Miner",
-    "owner": "AegisForce_VapeBoost",
-    "status": "Занято",
-    "x": -827.5109,
-    "y": 2765.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1740,
     "server_id": 32,
     "type": "house",
@@ -22488,6 +22428,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 123,
+    "server_id": 32,
+    "type": "house",
+    "name": "..::Добро пожаловать::..",
+    "owner": "Angel_Razer",
+    "status": "Аукцион",
+    "x": 1873.66,
+    "y": -2070.49,
+    "price": 2850000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 413,
     "server_id": 32,
     "type": "house",
@@ -22496,7 +22448,19 @@
     "status": "Аукцион",
     "x": 1841.15,
     "y": 33.3628,
-    "price": 699999,
+    "price": 705000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 478,
+    "server_id": 32,
+    "type": "house",
+    "name": "65ккк",
+    "owner": "Monopoly_Navarro",
+    "status": "Аукцион",
+    "x": 1698.24,
+    "y": 155.5399,
+    "price": 725000,
     "district": "Сан-Андреас"
   },
   {
@@ -22508,7 +22472,19 @@
     "status": "Аукцион",
     "x": 1756.79,
     "y": 66.9654,
-    "price": 910000,
+    "price": 900000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 759,
+    "server_id": 32,
+    "type": "house",
+    "name": "ROOM13",
+    "owner": "William_Jan",
+    "status": "Аукцион",
+    "x": -2738.32,
+    "y": 801.5289,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22524,6 +22500,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1081,
+    "server_id": 32,
+    "type": "house",
+    "name": "Porsche Monopoly Place",
+    "owner": "AegisForce_VapeBoost",
+    "status": "Аукцион",
+    "x": -2853.21,
+    "y": 947.4849,
+    "price": 950123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1739,
+    "server_id": 32,
+    "type": "house",
+    "name": "Miner",
+    "owner": "AegisForce_VapeBoost",
+    "status": "Аукцион",
+    "x": -827.5109,
+    "y": 2765.18,
+    "price": 4500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 193,
     "server_id": 32,
     "type": "business",
@@ -22532,7 +22532,7 @@
     "status": "Аукцион",
     "x": 2405.02,
     "y": -1933.97,
-    "price": 349999,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -24268,7 +24268,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Junior_Ferrari",
+    "owner": "Gorlovina_Benzobaka",
     "status": "Занято",
     "x": 2101.89,
     "y": 2228.81,
@@ -25156,7 +25156,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Отель",
-    "owner": "Harallah_AlMallahah",
+    "owner": "Destonium_Laminos",
     "status": "Занято",
     "x": -2166.17,
     "y": 243.501,

@@ -7404,6 +7404,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 618,
+    "server_id": 10,
+    "type": "house",
+    "name": "The House Of The Rising Sun",
+    "owner": "Komar_Surprise",
+    "status": "Занято",
+    "x": -2523.5,
+    "y": 2239.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 619,
     "server_id": 10,
     "type": "house",
@@ -8444,18 +8456,6 @@
     "status": "Занято",
     "x": 1554.44,
     "y": 2610.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 706,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vanua_Desert",
-    "status": "Занято",
-    "x": 1596.51,
-    "y": 2567.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14712,18 +14712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1229,
-    "server_id": 10,
-    "type": "house",
-    "name": "Эти Скайворты везде<3",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": -2433.99,
-    "y": 1274.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1230,
     "server_id": 10,
     "type": "house",
@@ -15152,18 +15140,6 @@
     "status": "Занято",
     "x": -2690.48,
     "y": 123.705,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1266,
-    "server_id": 10,
-    "type": "house",
-    "name": "нарко картель",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": -2686.95,
-    "y": 115.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21795,7 +21771,7 @@
     "id": 1819,
     "server_id": 10,
     "type": "house",
-    "name": "мерри хилс",
+    "name": "TRAP HOUSE",
     "owner": "Morty_Trappal",
     "status": "Занято",
     "x": 2487.31,
@@ -21807,7 +21783,7 @@
     "id": 1820,
     "server_id": 10,
     "type": "house",
-    "name": "мерри хилс",
+    "name": "TRAP HOUSE",
     "owner": "Morty_Trappal",
     "status": "Занято",
     "x": 2492.11,
@@ -23328,18 +23304,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 618,
-    "server_id": 10,
-    "type": "house",
-    "name": "The House Of The Rising Sun",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2523.5,
-    "y": 2239.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 609,
     "server_id": 10,
     "type": "house",
@@ -23349,6 +23313,42 @@
     "x": -795.984,
     "y": 2259.11,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 706,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vanua_Desert",
+    "status": "Аукцион",
+    "x": 1596.51,
+    "y": 2567.69,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1229,
+    "server_id": 10,
+    "type": "house",
+    "name": "Эти Скайворты везде<3",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": -2433.99,
+    "y": 1274.15,
+    "price": 25000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1266,
+    "server_id": 10,
+    "type": "house",
+    "name": "нарко картель",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": -2686.95,
+    "y": 115.4,
+    "price": 25000123,
     "district": "Сан-Андреас"
   },
   {
@@ -24316,7 +24316,7 @@
     "server_id": 10,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Andrey_Baltassare",
+    "owner": "Aura_Laga",
     "status": "Занято",
     "x": 2802.89,
     "y": 2430.66,

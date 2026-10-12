@@ -8352,6 +8352,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 697,
+    "server_id": 20,
+    "type": "house",
+    "name": "Семейное гнёздышко",
+    "owner": "Kutuzov_Knight",
+    "status": "Занято",
+    "x": 1362.71,
+    "y": 2525.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 698,
     "server_id": 20,
     "type": "house",
@@ -9092,18 +9104,6 @@
     "status": "Занято",
     "x": -2738.32,
     "y": 801.5289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 760,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": -2726.67,
-    "y": 822.992,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9868,7 +9868,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Бурмалдом",
-    "owner": "Dap_Step",
+    "owner": "Minecraft_LetsPlay",
     "status": "Занято",
     "x": -2689.37,
     "y": -114.261,
@@ -20596,7 +20596,7 @@
     "server_id": 20,
     "type": "house",
     "name": ":uf317: Дом Таксы :uf317:",
-    "owner": "Arashi_Revens",
+    "owner": "Checker_Levakov",
     "status": "Занято",
     "x": 2492.11,
     "y": -1424.58,
@@ -21140,18 +21140,6 @@
     "status": "Занято",
     "x": 1775.03,
     "y": 2870.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1764,
-    "server_id": 20,
-    "type": "house",
-    "name": "cuerto squad",
-    "owner": "Rjey_Javelin",
-    "status": "Занято",
-    "x": 1794.27,
-    "y": 2863.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22356,15 +22344,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 697,
+    "id": 760,
     "server_id": 20,
     "type": "house",
-    "name": "Семейное гнёздышко",
-    "owner": "Outsidethe_Accesarea",
+    "name": "Дом",
+    "owner": "Despair_Empressions",
     "status": "Аукцион",
-    "x": 1362.71,
-    "y": 2525.57,
-    "price": 100,
+    "x": -2726.67,
+    "y": 822.992,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1764,
+    "server_id": 20,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Rjey_Javelin",
+    "status": "Аукцион",
+    "x": 1794.27,
+    "y": 2863.25,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
