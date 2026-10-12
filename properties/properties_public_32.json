@@ -1455,7 +1455,7 @@
     "id": 121,
     "server_id": 32,
     "type": "house",
-    "name": "АНР",
+    "name": "Дом ТикТокера Raifox",
     "owner": "Raifox_Mami",
     "status": "Занято",
     "x": 1854.06,
@@ -5724,6 +5724,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 478,
+    "server_id": 32,
+    "type": "house",
+    "name": "65ккк",
+    "owner": "Monopoly_Navarro",
+    "status": "Занято",
+    "x": 1698.24,
+    "y": 155.5399,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 479,
     "server_id": 32,
     "type": "house",
@@ -5864,18 +5876,6 @@
     "status": "Занято",
     "x": 2065.03,
     "y": 730.408,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 491,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Monopoly_Navarro",
-    "status": "Занято",
-    "x": 1756.79,
-    "y": 66.9654,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15471,11 +15471,23 @@
     "id": 1296,
     "server_id": 32,
     "type": "house",
-    "name": "All mute",
+    "name": "PREMIUM \\\"House\\\"",
     "owner": "Petro_Partizan",
     "status": "Занято",
     "x": -2524.33,
     "y": -118.7269,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1297,
+    "server_id": 32,
+    "type": "house",
+    "name": "benzo",
+    "owner": "Jack_Graham",
+    "status": "Занято",
+    "x": -2510.87,
+    "y": -109.3759,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19276,7 +19288,7 @@
     "server_id": 32,
     "type": "house",
     "name": "HOUSE SHTORM",
-    "owner": "Arizona_RP",
+    "owner": "Bave_Liy",
     "status": "Занято",
     "x": 1969.28,
     "y": -1654.67,
@@ -22488,15 +22500,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 478,
+    "id": 491,
     "server_id": 32,
     "type": "house",
-    "name": "65ккк",
+    "name": "Дом",
     "owner": "Monopoly_Navarro",
     "status": "Аукцион",
-    "x": 1698.24,
-    "y": 155.5399,
-    "price": 725000,
+    "x": 1756.79,
+    "y": 66.9654,
+    "price": 910000,
     "district": "Сан-Андреас"
   },
   {
@@ -22509,18 +22521,6 @@
     "x": -2511.33,
     "y": 951.2239,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1297,
-    "server_id": 32,
-    "type": "house",
-    "name": "benzo",
-    "owner": "Scally_Millano",
-    "status": "Аукцион",
-    "x": -2510.87,
-    "y": -109.3759,
-    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23128,7 +23128,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Mario_Deaf",
+    "owner": "Elite_Skup",
     "status": "Занято",
     "x": 2856.2,
     "y": 1264.44,
