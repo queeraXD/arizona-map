@@ -4188,18 +4188,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 349,
-    "server_id": 9,
-    "type": "house",
-    "name": ". . . : : : Rewergg : : : . . .",
-    "owner": "Suxa_Rik",
-    "status": "Занято",
-    "x": 1242.29,
-    "y": -878.2819,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 350,
     "server_id": 9,
     "type": "house",
@@ -9168,18 +9156,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 764,
-    "server_id": 9,
-    "type": "house",
-    "name": "brooklyn sqd",
-    "owner": "Sola_Zolo",
-    "status": "Занято",
-    "x": -2645.56,
-    "y": 803.083,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 765,
     "server_id": 9,
     "type": "house",
@@ -10988,18 +10964,6 @@
     "status": "Занято",
     "x": -2159.79,
     "y": 1030.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 917,
-    "server_id": 9,
-    "type": "house",
-    "name": "***Betson Home***",
-    "owner": "Takizawa_Ghoul",
-    "status": "Занято",
-    "x": -2169.66,
-    "y": 1027.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15220,7 +15184,7 @@
     "server_id": 9,
     "type": "house",
     "name": "DAMBASS",
-    "owner": "Danis_Mancory",
+    "owner": "Danis_Morozov",
     "status": "Занято",
     "x": -2883.57,
     "y": 736.6699,
@@ -15352,7 +15316,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Grove_Street",
-    "owner": "Richard_Rowland",
+    "owner": "Fastik_Bombastik",
     "status": "Занято",
     "x": -2844.7,
     "y": 921.322,
@@ -18928,7 +18892,7 @@
     "server_id": 9,
     "type": "house",
     "name": "FLUX FAMILY",
-    "owner": "Mateo_Mineski",
+    "owner": "Phantom_Wood",
     "status": "Занято",
     "x": 2373.94,
     "y": -1138.92,
@@ -23928,15 +23892,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 103,
+    "id": 349,
     "server_id": 9,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Balagan_Quartz",
+    "type": "house",
+    "name": ". . . : : : Rewergg : : : . . .",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": -1686.44,
-    "y": 1325.38,
-    "price": 190000,
+    "x": 1242.29,
+    "y": -878.2819,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 764,
+    "server_id": 9,
+    "type": "house",
+    "name": "brooklyn sqd",
+    "owner": "Sola_Zolo",
+    "status": "Аукцион",
+    "x": -2645.56,
+    "y": 803.083,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 917,
+    "server_id": 9,
+    "type": "house",
+    "name": "***Betson Home***",
+    "owner": "Takizawa_Ghoul",
+    "status": "Аукцион",
+    "x": -2169.66,
+    "y": 1027.11,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24656,6 +24644,18 @@
     "status": "Занято",
     "x": -1735.96,
     "y": 897.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 103,
+    "server_id": 9,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Balagan_Quartz",
+    "status": "Занято",
+    "x": -1686.44,
+    "y": 1325.38,
     "price": 0,
     "district": "Сан-Андреас"
   },

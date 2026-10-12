@@ -192,30 +192,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 16,
-    "server_id": 14,
-    "type": "house",
-    "name": "shin ghetto (1/3)",
-    "owner": "Shin_Yamito",
-    "status": "Занято",
-    "x": 2111.44,
-    "y": -1280.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 17,
-    "server_id": 14,
-    "type": "house",
-    "name": "shin ghetto (2/3)",
-    "owner": "Shin_Yamito",
-    "status": "Занято",
-    "x": 2100.94,
-    "y": -1321.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 18,
     "server_id": 14,
     "type": "house",
@@ -10956,18 +10932,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 913,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом таджиков",
-    "owner": "Reichart_Darkness",
-    "status": "Занято",
-    "x": -2126.81,
-    "y": 1087.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 914,
     "server_id": 14,
     "type": "house",
@@ -11780,18 +11744,6 @@
     "status": "Занято",
     "x": -2278.81,
     "y": 787.749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 982,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Rlck_Sanchez",
-    "status": "Занято",
-    "x": -2286.53,
-    "y": 796.7609,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20596,7 +20548,7 @@
     "server_id": 14,
     "type": "house",
     "name": "10 LVL + Набор Архитектора #2",
-    "owner": "Neo_Vortex",
+    "owner": "Rlck_Sanchez",
     "status": "Занято",
     "x": 1849.54,
     "y": -2010.06,
@@ -23688,6 +23640,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 16,
+    "server_id": 14,
+    "type": "house",
+    "name": "shin ghetto (1/3)",
+    "owner": "Shin_Yamito",
+    "status": "Аукцион",
+    "x": 2111.44,
+    "y": -1280.18,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 17,
+    "server_id": 14,
+    "type": "house",
+    "name": "shin ghetto (2/3)",
+    "owner": "Shin_Yamito",
+    "status": "Аукцион",
+    "x": 2100.94,
+    "y": -1321.89,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 913,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом таджиков",
+    "owner": "Reichart_Darkness",
+    "status": "Аукцион",
+    "x": -2126.81,
+    "y": 1087.49,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 982,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Rlck_Sanchez",
+    "status": "Аукцион",
+    "x": -2286.53,
+    "y": 796.7609,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1894,
     "server_id": 14,
     "type": "house",
@@ -23696,7 +23696,7 @@
     "status": "Аукцион",
     "x": 2473.16,
     "y": -1417.44,
-    "price": 400000000,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {

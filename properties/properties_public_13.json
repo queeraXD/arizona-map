@@ -1980,18 +1980,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 165,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Danya_Tarpeda",
-    "status": "Занято",
-    "x": 958.1389,
-    "y": -1808.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 166,
     "server_id": 13,
     "type": "house",
@@ -6940,7 +6928,7 @@
     "server_id": 13,
     "type": "house",
     "name": "дом новичка 1488",
-    "owner": "Sanya_Grachev",
+    "owner": "Tomi_Bom",
     "status": "Занято",
     "x": -232.7579,
     "y": 2807.55,
@@ -11124,6 +11112,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 927,
+    "server_id": 13,
+    "type": "house",
+    "name": "White House",
+    "owner": "Niko_White",
+    "status": "Занято",
+    "x": -1842.22,
+    "y": 1114.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 928,
     "server_id": 13,
     "type": "house",
@@ -13023,7 +13023,7 @@
     "id": 1086,
     "server_id": 13,
     "type": "house",
-    "name": "Lux",
+    "name": "Дом",
     "owner": "Vladimir_Gubdenskiy",
     "status": "Занято",
     "x": 1781.15,
@@ -21840,18 +21840,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1822,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 1778.53,
-    "y": 2736.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1823,
     "server_id": 13,
     "type": "house",
@@ -21968,18 +21956,6 @@
     "status": "Занято",
     "x": 1803.39,
     "y": 2855.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1833,
-    "server_id": 13,
-    "type": "house",
-    "name": "FAMILY UNDERWORLD",
-    "owner": "Yuto_Mifune",
-    "status": "Занято",
-    "x": 1794.35,
-    "y": 2863.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,15 +23256,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 927,
+    "id": 165,
     "server_id": 13,
     "type": "house",
-    "name": "6 уровень",
-    "owner": "Aiden_Venum",
+    "name": "Дом",
+    "owner": "Danya_Tarpeda",
     "status": "Аукцион",
-    "x": -1842.22,
-    "y": 1114.76,
-    "price": 599123123,
+    "x": 958.1389,
+    "y": -1808.83,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1822,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": 1778.53,
+    "y": 2736.02,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1833,
+    "server_id": 13,
+    "type": "house",
+    "name": "FAMILY UNDERWORLD",
+    "owner": "Yuto_Mifune",
+    "status": "Аукцион",
+    "x": 1794.35,
+    "y": 2863.28,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

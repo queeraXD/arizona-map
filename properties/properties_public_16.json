@@ -4044,18 +4044,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 337,
-    "server_id": 16,
-    "type": "house",
-    "name": "Ферма хлопка 1",
-    "owner": "Danil_Kalbasenko",
-    "status": "Занято",
-    "x": 772.468,
-    "y": 348.204,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 338,
     "server_id": 16,
     "type": "house",
@@ -4112,18 +4100,6 @@
     "status": "Занято",
     "x": 705.4279,
     "y": 292.096,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 343,
-    "server_id": 16,
-    "type": "house",
-    "name": "Ферма хлопка 2",
-    "owner": "Sergei_Panukov",
-    "status": "Занято",
-    "x": 719.0629,
-    "y": 300.639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5656,7 +5632,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Kola_Graf",
+    "owner": "Lega_Babetape",
     "status": "Занято",
     "x": 2398.27,
     "y": 736.0989,
@@ -12072,18 +12048,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1007,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tolya_McQueen",
-    "status": "Занято",
-    "x": -2383.84,
-    "y": 1127.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1008,
     "server_id": 16,
     "type": "house",
@@ -12444,18 +12408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1038,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Luminisent_London",
-    "status": "Занято",
-    "x": -1776.13,
-    "y": 1115.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1039,
     "server_id": 16,
     "type": "house",
@@ -12812,6 +12764,18 @@
     "status": "Занято",
     "x": 2263.93,
     "y": -1469.55,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1069,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ervin_Smith",
+    "status": "Занято",
+    "x": -2904.45,
+    "y": 1171.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15655,18 +15619,6 @@
     "owner": "Void_Blackwood",
     "status": "Занято",
     "x": -2168.83,
-    "y": 821.1359,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1307,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kola_Graf",
-    "status": "Занято",
-    "x": -2187.2,
     "y": 821.1359,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22452,15 +22404,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1069,
+    "id": 337,
+    "server_id": 16,
+    "type": "house",
+    "name": "Ферма хлопка 1",
+    "owner": "Danil_Kalbasenko",
+    "status": "Аукцион",
+    "x": 772.468,
+    "y": 348.204,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 343,
+    "server_id": 16,
+    "type": "house",
+    "name": "Ферма хлопка 2",
+    "owner": "Danil_Kalbasenko",
+    "status": "Аукцион",
+    "x": 719.0629,
+    "y": 300.639,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1007,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Murad_KaBochine",
+    "owner": "Tolya_McQueen",
     "status": "Аукцион",
-    "x": -2904.45,
-    "y": 1171.7,
-    "price": 100000000,
+    "x": -2383.84,
+    "y": 1127.85,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1038,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Luminisent_London",
+    "status": "Аукцион",
+    "x": -1776.13,
+    "y": 1115.2,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1307,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lega_Babetape",
+    "status": "Аукцион",
+    "x": -2187.2,
+    "y": 821.1359,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
