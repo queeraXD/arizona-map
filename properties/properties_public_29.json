@@ -6580,7 +6580,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Killua Watermelon Shop",
-    "owner": "Sasha_Farmen",
+    "owner": "Sasha_Umbrella",
     "status": "Занято",
     "x": 570.7319,
     "y": 1174.37,
@@ -8876,6 +8876,18 @@
     "status": "Занято",
     "x": -2845.31,
     "y": 928.414,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 740,
+    "server_id": 29,
+    "type": "house",
+    "name": "0_0",
+    "owner": "Niko_Negroni",
+    "status": "Занято",
+    "x": -2840.23,
+    "y": 877.4359,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12200,18 +12212,6 @@
     "status": "Занято",
     "x": -2541.3,
     "y": 987.9089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1019,
-    "server_id": 29,
-    "type": "house",
-    "name": "Flow",
-    "owner": "Roma_Flow",
-    "status": "Занято",
-    "x": -2542.09,
-    "y": 967.7059,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18756,6 +18756,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1566,
+    "server_id": 29,
+    "type": "house",
+    "name": "фембой хаус",
+    "owner": "Ruslan_Egorovich",
+    "status": "Занято",
+    "x": 510.7539,
+    "y": 1115.67,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1567,
     "server_id": 29,
     "type": "house",
@@ -21108,18 +21120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 740,
-    "server_id": 29,
-    "type": "house",
-    "name": "0_0",
-    "owner": "Niko_Negroni",
-    "status": "Аукцион",
-    "x": -2840.23,
-    "y": 877.4359,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 945,
     "server_id": 29,
     "type": "house",
@@ -21132,15 +21132,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1566,
+    "id": 1019,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
-    "owner": "Artem_Masslovskiy",
+    "name": "Flow",
+    "owner": "Roma_Flow",
     "status": "Аукцион",
-    "x": 510.7539,
-    "y": 1115.67,
-    "price": 50000000,
+    "x": -2542.09,
+    "y": 967.7059,
+    "price": 800123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 75,
+    "server_id": 29,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Rico_Fletcher",
+    "status": "Аукцион",
+    "x": 2556.26,
+    "y": 1872.19,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21800,18 +21812,6 @@
     "status": "Занято",
     "x": 2104.24,
     "y": 2678.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 75,
-    "server_id": 29,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Rico_Fletcher",
-    "status": "Занято",
-    "x": 2556.26,
-    "y": 1872.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

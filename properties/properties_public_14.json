@@ -195,7 +195,7 @@
     "id": 16,
     "server_id": 14,
     "type": "house",
-    "name": "shin ghetto (1/3)",
+    "name": "Имущество Cotov",
     "owner": "Maxim_Cotov",
     "status": "Занято",
     "x": 2111.44,
@@ -207,7 +207,7 @@
     "id": 17,
     "server_id": 14,
     "type": "house",
-    "name": "shin ghetto (2/3)",
+    "name": "Имущество Cotov",
     "owner": "Maxim_Cotov",
     "status": "Занято",
     "x": 2100.94,
@@ -10385,10 +10385,10 @@
     "type": "house",
     "name": "Берлога",
     "owner": "[32]Scattered_Memories",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": -269.1889,
     "y": 2504.93,
-    "price": 250000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -10952,18 +10952,6 @@
     "status": "Занято",
     "x": -2126.87,
     "y": 1069.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 913,
-    "server_id": 14,
-    "type": "house",
-    "name": "В шкафу виргин мун баллас 4 из ",
-    "owner": "King_Lux",
-    "status": "Занято",
-    "x": -2126.81,
-    "y": 1087.49,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22996,7 +22984,7 @@
     "server_id": 14,
     "type": "house",
     "name": "full/house",
-    "owner": "Izabella_Pulaski",
+    "owner": "Ray_Charles",
     "status": "Занято",
     "x": 1803.6,
     "y": 2855.68,
@@ -23697,6 +23685,18 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 913,
+    "server_id": 14,
+    "type": "house",
+    "name": "Майнинг 10 лвл, шкаф зарядки",
+    "owner": "King_Lux",
+    "status": "Аукцион",
+    "x": -2126.81,
+    "y": 1087.49,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {

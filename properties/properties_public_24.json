@@ -300,30 +300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 25,
-    "server_id": 24,
-    "type": "house",
-    "name": "*Nelson Home*",
-    "owner": "Danil_Shurmagomedov",
-    "status": "Занято",
-    "x": 2250.11,
-    "y": -1280.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 26,
-    "server_id": 24,
-    "type": "house",
-    "name": "*Nelson Home*",
-    "owner": "Papa_Aqyla",
-    "status": "Занято",
-    "x": 2247.91,
-    "y": -1238.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 27,
     "server_id": 24,
     "type": "house",
@@ -5192,6 +5168,18 @@
     "status": "Занято",
     "x": 2279.2,
     "y": -1076.63,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 433,
+    "server_id": 24,
+    "type": "house",
+    "name": ":uf221: BLUEBERRY :uf221:",
+    "owner": "Planka_Blueberry",
+    "status": "Занято",
+    "x": 2284.16,
+    "y": -1046.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22032,15 +22020,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 433,
+    "id": 25,
     "server_id": 24,
     "type": "house",
-    "name": "Kenj1 Home",
-    "owner": "Государство",
+    "name": "*Nelson Home*",
+    "owner": "Danil_Shurmagomedov",
     "status": "Аукцион",
-    "x": 2284.16,
-    "y": -1046.07,
-    "price": 10000000,
+    "x": 2250.11,
+    "y": -1280.4,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 26,
+    "server_id": 24,
+    "type": "house",
+    "name": "*Nelson Home*",
+    "owner": "Papa_Aqyla",
+    "status": "Аукцион",
+    "x": 2247.91,
+    "y": -1238.57,
+    "price": 300123123,
     "district": "Сан-Андреас"
   },
   {
@@ -24412,7 +24412,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Магазин аксессуаров",
-    "owner": "Kolia_Mur",
+    "owner": "Ando_Khachoyan",
     "status": "Занято",
     "x": -2089.11,
     "y": 84.268,
@@ -25300,7 +25300,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Pharmacy_Throat",
+    "owner": "Ando_Khachoyan",
     "status": "Занято",
     "x": -2245.69,
     "y": 2282.04,
