@@ -4320,6 +4320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 360,
+    "server_id": 11,
+    "type": "house",
+    "name": "holic",
+    "owner": "Koleso_Persistence",
+    "status": "Занято",
+    "x": 648.853,
+    "y": -1489.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 361,
     "server_id": 11,
     "type": "house",
@@ -4796,18 +4808,6 @@
     "status": "Занято",
     "x": 2415.43,
     "y": -51.5713,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 401,
-    "server_id": 11,
-    "type": "house",
-    "name": "хата мистика",
-    "owner": "Mystic_Markelovani",
-    "status": "Занято",
-    "x": 2438.82,
-    "y": -54.6911,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6111,8 +6111,8 @@
     "id": 510,
     "server_id": 11,
     "type": "house",
-    "name": "Markelovani ",
-    "owner": "Pharaoh_Markelovani",
+    "name": "МРК селищна рада",
+    "owner": "Chiryliya_Markovskiy",
     "status": "Занято",
     "x": 854.5859,
     "y": -605.2059,
@@ -10004,6 +10004,18 @@
     "status": "Занято",
     "x": -2233.89,
     "y": 849.1599,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 835,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bounty_Peacemaker",
+    "status": "Занято",
+    "x": -2281.59,
+    "y": 873.2329,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17904,6 +17916,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1507,
+    "server_id": 11,
+    "type": "house",
+    "name": "PuzatikSquad TOP",
+    "owner": "Eternal_Despaired",
+    "status": "Занято",
+    "x": 2472.31,
+    "y": -962.041,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1508,
     "server_id": 11,
     "type": "house",
@@ -18068,6 +18092,18 @@
     "status": "Занято",
     "x": -2594.19,
     "y": 750.8449,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1522,
+    "server_id": 11,
+    "type": "house",
+    "name": "Сиски",
+    "owner": "Nuram_Morton",
+    "status": "Занято",
+    "x": -2504.62,
+    "y": 821.307,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18512,18 +18548,6 @@
     "status": "Занято",
     "x": 2479.43,
     "y": 94.397,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1560,
-    "server_id": 11,
-    "type": "house",
-    "name": "holic",
-    "owner": "Mystic_Markelovani",
-    "status": "Занято",
-    "x": 852.416,
-    "y": -1436.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24576,27 +24600,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 360,
+    "id": 401,
     "server_id": 11,
     "type": "house",
-    "name": "holic",
-    "owner": "Koleso_Persistence",
+    "name": "хата мистика",
+    "owner": "Mystic_Markelovani",
     "status": "Аукцион",
-    "x": 648.853,
-    "y": -1489.64,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 835,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Luke_Stormberg",
-    "status": "Аукцион",
-    "x": -2281.59,
-    "y": 873.2329,
-    "price": 100123123,
+    "x": 2438.82,
+    "y": -54.6911,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24608,31 +24620,19 @@
     "status": "Аукцион",
     "x": -2126.89,
     "y": 996.109,
-    "price": 450000000,
+    "price": 6000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1507,
+    "id": 1560,
     "server_id": 11,
     "type": "house",
-    "name": "PuzatikSquad TOP",
-    "owner": "Eternal_Despaired",
+    "name": "holic",
+    "owner": "Mystic_Markelovani",
     "status": "Аукцион",
-    "x": 2472.31,
-    "y": -962.041,
-    "price": 300123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1522,
-    "server_id": 11,
-    "type": "house",
-    "name": ":uf21b:SKYWALKER EMPIRE:uf21b:",
-    "owner": "Luke_Stormberg",
-    "status": "Аукцион",
-    "x": -2504.62,
-    "y": 821.307,
-    "price": 100123123,
+    "x": 852.416,
+    "y": -1436.23,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24645,18 +24645,6 @@
     "x": 2017.54,
     "y": -1119.56,
     "price": 20000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 291,
-    "server_id": 11,
-    "type": "business",
-    "name": "Букмекерская компания",
-    "owner": "Bastian_Goto",
-    "status": "Аукцион",
-    "x": -1880.75,
-    "y": 822.412,
-    "price": 840000,
     "district": "Сан-Андреас"
   },
   {
@@ -28244,6 +28232,18 @@
     "status": "Занято",
     "x": -1641.78,
     "y": 1207.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 291,
+    "server_id": 11,
+    "type": "business",
+    "name": "Букмекерская компания",
+    "owner": "Bastian_Goto",
+    "status": "Занято",
+    "x": -1880.75,
+    "y": 822.412,
     "price": 0,
     "district": "Сан-Андреас"
   },

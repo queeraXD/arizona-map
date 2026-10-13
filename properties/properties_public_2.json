@@ -303,8 +303,8 @@
     "id": 25,
     "server_id": 2,
     "type": "house",
-    "name": "Winch Family",
-    "owner": "Art_Winch",
+    "name": "Elton house",
+    "owner": "Elton_Nagiyev",
     "status": "Занято",
     "x": 2250.11,
     "y": -1280.4,
@@ -2139,8 +2139,8 @@
     "id": 178,
     "server_id": 2,
     "type": "house",
-    "name": "LIGHT HOUSE",
-    "owner": "Hell_Light",
+    "name": "Stics",
+    "owner": "Sherlock_Stics",
     "status": "Занято",
     "x": 652.681,
     "y": -1619.61,
@@ -14424,6 +14424,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1204,
+    "server_id": 2,
+    "type": "house",
+    "name": "Tbilisi",
+    "owner": "Garry_Xachaturov",
+    "status": "Занято",
+    "x": -2434.01,
+    "y": 1311.13,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1205,
     "server_id": 2,
     "type": "house",
@@ -16728,6 +16740,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1397,
+    "server_id": 2,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergej_Molvin",
+    "status": "Занято",
+    "x": 2532.39,
+    "y": 742.543,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1398,
     "server_id": 2,
     "type": "house",
@@ -17576,6 +17600,18 @@
     "status": "Занято",
     "x": -2682.92,
     "y": 192.815,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1469,
+    "server_id": 2,
+    "type": "house",
+    "name": "Pay_Visa Collection ",
+    "owner": "Pay_Visa",
+    "status": "Занято",
+    "x": -2672.07,
+    "y": 190.026,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18764,18 +18800,6 @@
     "status": "Занято",
     "x": 2816.49,
     "y": 2268.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1569,
-    "server_id": 2,
-    "type": "house",
-    "name": "|-:-| DarkSide Empire |-:-|",
-    "owner": "Ilya_Wens",
-    "status": "Занято",
-    "x": 2818.53,
-    "y": 2140.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23208,6 +23232,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1943,
+    "server_id": 2,
+    "type": "house",
+    "name": "все П,Деп, +20 видях на продаже",
+    "owner": "Rase_Gremory",
+    "status": "Занято",
+    "x": 2610.33,
+    "y": 2142.42,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1944,
     "server_id": 2,
     "type": "house",
@@ -23916,51 +23952,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1204,
+    "id": 1569,
     "server_id": 2,
     "type": "house",
-    "name": "Ферма",
-    "owner": "Timmi_Vizard",
+    "name": "|-:-| DarkSide Empire |-:-|",
+    "owner": "Ilya_Wens",
     "status": "Аукцион",
-    "x": -2434.01,
-    "y": 1311.13,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1397,
-    "server_id": 2,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ris_Rais",
-    "status": "Аукцион",
-    "x": 2532.39,
-    "y": 742.543,
-    "price": 1300123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1469,
-    "server_id": 2,
-    "type": "house",
-    "name": "Pay_Visa Collection ",
-    "owner": "Pay_Visa",
-    "status": "Аукцион",
-    "x": -2672.07,
-    "y": 190.026,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1943,
-    "server_id": 2,
-    "type": "house",
-    "name": "все П,Деп, +20 видях на продаже",
-    "owner": "Vova_Lazaref",
-    "status": "Аукцион",
-    "x": 2610.33,
-    "y": 2142.42,
-    "price": 1000000000,
+    "x": 2818.53,
+    "y": 2140.9,
+    "price": 1800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25684,7 +25684,7 @@
     "server_id": 2,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Brigade_Azov",
+    "owner": "Gosha_Echo",
     "status": "Занято",
     "x": 2638.3,
     "y": 1671.86,

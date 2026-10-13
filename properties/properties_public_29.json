@@ -7276,7 +7276,7 @@
     "server_id": 29,
     "type": "house",
     "name": "вирты фарм аз",
-    "owner": "Trc_Usdt",
+    "owner": "Trc_20",
     "status": "Занято",
     "x": -1589.79,
     "y": 2706.18,
@@ -9072,18 +9072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 756,
-    "server_id": 29,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Downil_Onyx",
-    "status": "Занято",
-    "x": -2731.47,
-    "y": 723.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 757,
     "server_id": 29,
     "type": "house",
@@ -9672,6 +9660,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 806,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом Хатуба",
+    "owner": "Andrey_Sansetov",
+    "status": "Занято",
+    "x": -2723.93,
+    "y": -105.541,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 807,
     "server_id": 29,
     "type": "house",
@@ -9980,6 +9980,18 @@
     "status": "Занято",
     "x": -2234.38,
     "y": 888.869,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 833,
+    "server_id": 29,
+    "type": "house",
+    "name": "sell krack",
+    "owner": "Krack_Mason",
+    "status": "Занято",
+    "x": -2234.63,
+    "y": 870.7579,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10948,7 +10960,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Trc_Usdt",
+    "owner": "Trc_20",
     "status": "Занято",
     "x": -2159.76,
     "y": 1066.95,
@@ -11156,6 +11168,18 @@
     "status": "Занято",
     "x": -2017.56,
     "y": 982.8229,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 932,
+    "server_id": 29,
+    "type": "house",
+    "name": "вирты фарм аз",
+    "owner": "Thomas_Reed",
+    "status": "Занято",
+    "x": -2017.94,
+    "y": 970.2399,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13004,6 +13028,18 @@
     "status": "Занято",
     "x": -2158.02,
     "y": 889.281,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1088,
+    "server_id": 29,
+    "type": "house",
+    "name": "мовалова",
+    "owner": "Yukiteru_Amano",
+    "status": "Занято",
+    "x": -2158.98,
+    "y": 866.3289,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21084,39 +21120,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 806,
+    "id": 756,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
-    "owner": "Slishu_Forbs",
+    "name": "деп условия",
+    "owner": "Downil_Onyx",
     "status": "Аукцион",
-    "x": -2723.93,
-    "y": -105.541,
-    "price": 400123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 833,
-    "server_id": 29,
-    "type": "house",
-    "name": "zefir",
-    "owner": "Night_Sosiska",
-    "status": "Аукцион",
-    "x": -2234.63,
-    "y": 870.7579,
-    "price": 350123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 932,
-    "server_id": 29,
-    "type": "house",
-    "name": "вирты фарм аз",
-    "owner": "Kedroviy_Oreh",
-    "status": "Аукцион",
-    "x": -2017.94,
-    "y": 970.2399,
-    "price": 400123123,
+    "x": -2731.47,
+    "y": 723.703,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21129,18 +21141,6 @@
     "x": -2281.96,
     "y": 979.2269,
     "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1088,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Night_Sosiska",
-    "status": "Аукцион",
-    "x": -2158.98,
-    "y": 866.3289,
-    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {
@@ -21628,7 +21628,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Lucky_Lucky",
+    "owner": "Aleksander_Medved",
     "status": "Занято",
     "x": 171.86,
     "y": -200.879,
