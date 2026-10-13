@@ -6736,7 +6736,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Хата Гонни",
-    "owner": "Gonny_Montanaq",
+    "owner": "Gonny_Illllllllllll",
     "status": "Занято",
     "x": 227.792,
     "y": 1167.82,
@@ -7340,6 +7340,18 @@
     "status": "Занято",
     "x": -830.166,
     "y": 1589.46,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 613,
+    "server_id": 1,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Inj_Ury",
+    "status": "Занято",
+    "x": -881.6329,
+    "y": 1562.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9064,7 +9076,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Хата Гонни",
-    "owner": "Gonny_Montanaq",
+    "owner": "Gonny_Illllllllllll",
     "status": "Занято",
     "x": -2738.32,
     "y": 746.648,
@@ -9560,18 +9572,6 @@
     "status": "Занято",
     "x": -2368.82,
     "y": 763.504,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 799,
-    "server_id": 1,
-    "type": "house",
-    "name": "Castellano 19/83k",
-    "owner": "Adolf_Kirovskiy",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 784.028,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16092,18 +16092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1344,
-    "server_id": 1,
-    "type": "house",
-    "name": "Castellano 20/83k",
-    "owner": "Anton_Grip",
-    "status": "Занято",
-    "x": -2233.26,
-    "y": 848.986,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1345,
     "server_id": 1,
     "type": "house",
@@ -17920,7 +17908,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Хата Гонни",
-    "owner": "Gonny_Montanaq",
+    "owner": "Gonny_Illllllllllll",
     "status": "Занято",
     "x": 1513.17,
     "y": 2565.43,
@@ -24140,19 +24128,31 @@
     "status": "Аукцион",
     "x": 2369.06,
     "y": 734.939,
-    "price": 2700000000,
+    "price": 2400000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 613,
+    "id": 799,
     "server_id": 1,
     "type": "house",
-    "name": "pes family",
-    "owner": "Inj_Ury",
+    "name": "Castellano 19/83k",
+    "owner": "Adolf_Kirovskiy",
     "status": "Аукцион",
-    "x": -881.6329,
-    "y": 1562.08,
-    "price": 2000000000,
+    "x": -2372.53,
+    "y": 784.028,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1344,
+    "server_id": 1,
+    "type": "house",
+    "name": "Castellano 20/83k",
+    "owner": "Anton_Grip",
+    "status": "Аукцион",
+    "x": -2233.26,
+    "y": 848.986,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24164,7 +24164,7 @@
     "status": "Аукцион",
     "x": 451.575,
     "y": 1246.8,
-    "price": 5000000000,
+    "price": 3500123000,
     "district": "Сан-Андреас"
   },
   {

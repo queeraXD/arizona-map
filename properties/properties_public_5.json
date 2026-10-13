@@ -9111,7 +9111,7 @@
     "id": 759,
     "server_id": 5,
     "type": "house",
-    "name": "Peacekeepers house #1",
+    "name": "Peacekeepers house",
     "owner": "Ivan_Bereziuk",
     "status": "Занято",
     "x": -2738.32,
@@ -10652,18 +10652,6 @@
     "status": "Занято",
     "x": -2087.66,
     "y": -2510.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 888,
-    "server_id": 5,
-    "type": "house",
-    "name": "ПРОДАМ Тел.519",
-    "owner": "Miller_Comaro",
-    "status": "Занято",
-    "x": 731.307,
-    "y": -1012.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16287,8 +16275,8 @@
     "id": 1357,
     "server_id": 5,
     "type": "house",
-    "name": "Retolerant prod #2",
-    "owner": "Domenico_Florensia",
+    "name": "Gentec",
+    "owner": "Soon_Gentec",
     "status": "Занято",
     "x": -2590.53,
     "y": -158.4909,
@@ -21120,6 +21108,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1760,
+    "server_id": 5,
+    "type": "house",
+    "name": "Gone Fludd Выдаёт 132 базу",
+    "owner": "Calcifer_Fludd",
+    "status": "Занято",
+    "x": -2361.44,
+    "y": 251.6199,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1761,
     "server_id": 5,
     "type": "house",
@@ -22056,18 +22056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1839,
-    "server_id": 5,
-    "type": "house",
-    "name": "Farm by Moretto",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": 2816.49,
-    "y": 2274.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1840,
     "server_id": 5,
     "type": "house",
@@ -22504,7 +22492,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Montan",
-    "owner": "Mike_Montan",
+    "owner": "Don_Morrison",
     "status": "Занято",
     "x": 2441.54,
     "y": 1213.67,
@@ -25104,87 +25092,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1760,
+    "id": 888,
     "server_id": 5,
     "type": "house",
-    "name": "MASONKA",
-    "owner": "Morphius_Mackenzie",
+    "name": "ПРОДАМ Тел.519",
+    "owner": "Miller_Comaro",
     "status": "Аукцион",
-    "x": -2361.44,
-    "y": 251.6199,
-    "price": 200000,
+    "x": 731.307,
+    "y": -1012.86,
+    "price": 333333,
     "district": "Сан-Андреас"
   },
   {
-    "id": 182,
+    "id": 1839,
     "server_id": 5,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Morphius_Mackenzie",
+    "type": "house",
+    "name": "Farm by Moretto",
+    "owner": "Night_Sosiska",
     "status": "Аукцион",
-    "x": 1104.78,
-    "y": 1380.93,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 183,
-    "server_id": 5,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Kachan_Jonson",
-    "status": "Аукцион",
-    "x": 1575.5,
-    "y": 1844.07,
-    "price": 50000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 250,
-    "server_id": 5,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Kostyan_Requiem",
-    "status": "Аукцион",
-    "x": 2170.48,
-    "y": 542.934,
-    "price": 200000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 271,
-    "server_id": 5,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Morphius_Mackenzie",
-    "status": "Аукцион",
-    "x": -1912.17,
-    "y": 827.954,
-    "price": 180000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 314,
-    "server_id": 5,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Kostyan_Requiem",
-    "status": "Аукцион",
-    "x": 1004.554,
-    "y": -1356.182,
-    "price": 230000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 5,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Kostyan_Requiem",
-    "status": "Аукцион",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 215000,
+    "x": 2816.49,
+    "y": 2274.91,
+    "price": 400123123,
     "district": "Сан-Андреас"
   },
   {
@@ -26604,6 +26532,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 250,
+    "server_id": 5,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Jason_McDuck",
+    "status": "Занято",
+    "x": 2170.48,
+    "y": 542.934,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 251,
     "server_id": 5,
     "type": "business",
@@ -27204,6 +27144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 271,
+    "server_id": 5,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Morphius_Mackenzie",
+    "status": "Занято",
+    "x": -1912.17,
+    "y": 827.954,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 272,
     "server_id": 5,
     "type": "business",
@@ -27260,6 +27212,18 @@
     "status": "Занято",
     "x": 693.619,
     "y": 1967.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 5,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Kostyan_Requiem",
+    "status": "Занято",
+    "x": -2103.59,
+    "y": -2342.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27968,6 +27932,30 @@
     "status": "Занято",
     "x": 2029.71,
     "y": 986.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 182,
+    "server_id": 5,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Morphius_Mackenzie",
+    "status": "Занято",
+    "x": 1104.78,
+    "y": 1380.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 183,
+    "server_id": 5,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Santiago_Saint",
+    "status": "Занято",
+    "x": 1575.5,
+    "y": 1844.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28940,6 +28928,18 @@
     "status": "Занято",
     "x": 1332.48,
     "y": -1120.468,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 314,
+    "server_id": 5,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Jason_McDuck",
+    "status": "Занято",
+    "x": 1004.554,
+    "y": -1356.182,
     "price": 0,
     "district": "Сан-Андреас"
   },

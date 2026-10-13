@@ -1408,7 +1408,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Берлога фармилы",
-    "owner": "Tomy_Anjelo",
+    "owner": "Maks_Shmatok",
     "status": "Занято",
     "x": -2402.41,
     "y": 886.161,
@@ -6879,7 +6879,7 @@
     "id": 573,
     "server_id": 18,
     "type": "house",
-    "name": "Логово Extezi",
+    "name": "Дом",
     "owner": "Mihara_Yasuhiro",
     "status": "Занято",
     "x": -169.026,
@@ -9512,6 +9512,18 @@
     "status": "Занято",
     "x": -2540.68,
     "y": 855.103,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 794,
+    "server_id": 18,
+    "type": "house",
+    "name": "Супер треп хатка",
+    "owner": "Yevgeniy_Collins",
+    "status": "Занято",
+    "x": -2538.73,
+    "y": 830.064,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16308,6 +16320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1362,
+    "server_id": 18,
+    "type": "house",
+    "name": "Plesen",
+    "owner": "Takanashi_Plesen",
+    "status": "Занято",
+    "x": 1115.72,
+    "y": -1562.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1363,
     "server_id": 18,
     "type": "house",
@@ -17655,8 +17679,8 @@
     "id": 1475,
     "server_id": 18,
     "type": "house",
-    "name": "MASON TOWER 1475",
-    "owner": "Skmime_Skaver",
+    "name": "RAMPAGE",
+    "owner": "Malik_Rampage",
     "status": "Занято",
     "x": -2358.48,
     "y": 244.4989,
@@ -18008,6 +18032,18 @@
     "status": "Занято",
     "x": 2608.15,
     "y": -1233.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1505,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dima_Shkanow",
+    "status": "Занято",
+    "x": 2615.11,
+    "y": -1237.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18932,6 +18968,18 @@
     "status": "Занято",
     "x": 1737.16,
     "y": 2800.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1583,
+    "server_id": 18,
+    "type": "house",
+    "name": "RedBull House",
+    "owner": "Sergio_Bobrovsky",
+    "status": "Занято",
+    "x": 1736.77,
+    "y": 2803.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22128,54 +22176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 794,
-    "server_id": 18,
-    "type": "house",
-    "name": "Супер треп хатка",
-    "owner": "RedBull_Racing",
-    "status": "Аукцион",
-    "x": -2538.73,
-    "y": 830.064,
-    "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1362,
-    "server_id": 18,
-    "type": "house",
-    "name": "Kaer Morhen",
-    "owner": "Francis_Wolf",
-    "status": "Аукцион",
-    "x": 1115.72,
-    "y": -1562.69,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1505,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Madier_Mayers",
-    "status": "Аукцион",
-    "x": 2615.11,
-    "y": -1237.98,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1583,
-    "server_id": 18,
-    "type": "house",
-    "name": "RedBull House",
-    "owner": "RedBull_Racing",
-    "status": "Аукцион",
-    "x": 1736.77,
-    "y": 2803.7,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1763,
     "server_id": 18,
     "type": "house",
@@ -22184,7 +22184,7 @@
     "status": "Аукцион",
     "x": 2601.64,
     "y": 2185.15,
-    "price": 3500000123,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22196,7 +22196,7 @@
     "status": "Аукцион",
     "x": 2629.74,
     "y": 2029.23,
-    "price": 3500123123,
+    "price": 3000123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22208,7 +22208,7 @@
     "status": "Аукцион",
     "x": 2659.13,
     "y": 1978.84,
-    "price": 3500123123,
+    "price": 3000000123,
     "district": "Сан-Андреас"
   },
   {

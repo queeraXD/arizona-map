@@ -240,18 +240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 20,
-    "server_id": 13,
-    "type": "house",
-    "name": "гараж за домом",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 2150.17,
-    "y": -1286.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 21,
     "server_id": 13,
     "type": "house",
@@ -1980,18 +1968,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 165,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Danya_Tarpeda",
-    "status": "Занято",
-    "x": 958.1389,
-    "y": -1808.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 166,
     "server_id": 13,
     "type": "house",
@@ -2036,18 +2012,6 @@
     "status": "Занято",
     "x": 883.2899,
     "y": -1800.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 170,
-    "server_id": 13,
-    "type": "house",
-    "name": "личная взлётная полоса",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 866.827,
-    "y": -1798.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9316,7 +9280,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Maloriks Monopoly",
-    "owner": "Aldiyar_Bandit",
+    "owner": "Wasd_Wasd",
     "status": "Занято",
     "x": -2576.56,
     "y": 819.7999,
@@ -13024,7 +12988,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Vladimir_Gubdenskiy",
+    "owner": "Enotto_DeLorean",
     "status": "Занято",
     "x": 1781.15,
     "y": 2747.27,
@@ -16932,6 +16896,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1412,
+    "server_id": 13,
+    "type": "house",
+    "name": "дом Sai 3",
+    "owner": "Ghostface_Killah",
+    "status": "Занято",
+    "x": 689.755,
+    "y": 1297.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1413,
     "server_id": 13,
     "type": "house",
@@ -17344,7 +17320,7 @@
     "server_id": 13,
     "type": "house",
     "name": "снимите чсНО сатоши",
-    "owner": "Kreedzz_Illl",
+    "owner": "Cry_Satoshi",
     "status": "Занято",
     "x": 2781.95,
     "y": -1358.4,
@@ -17504,18 +17480,6 @@
     "status": "Занято",
     "x": -2625.85,
     "y": -105.316,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1461,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 161.522,
-    "y": -1455.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19704,18 +19668,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1644,
-    "server_id": 13,
-    "type": "house",
-    "name": "Кладовка Fortune №3",
-    "owner": "Ga_Tila",
-    "status": "Занято",
-    "x": 2794.25,
-    "y": 2268.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1645,
     "server_id": 13,
     "type": "house",
@@ -21664,7 +21616,7 @@
     "server_id": 13,
     "type": "house",
     "name": "В халате на яхте #2",
-    "owner": "Aldiyar_Bandit",
+    "owner": "Wasd_Wasd",
     "status": "Занято",
     "x": 1801.68,
     "y": 2823.55,
@@ -21956,6 +21908,18 @@
     "status": "Занято",
     "x": 1803.39,
     "y": 2855.49,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1833,
+    "server_id": 13,
+    "type": "house",
+    "name": "FAMILY UNDERWORLD",
+    "owner": "Tomi_Bom",
+    "status": "Занято",
+    "x": 1794.35,
+    "y": 2863.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23244,6 +23208,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 20,
+    "server_id": 13,
+    "type": "house",
+    "name": "гараж за домом",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 2150.17,
+    "y": -1286.35,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 165,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Danya_Tarpeda",
+    "status": "Аукцион",
+    "x": 958.1389,
+    "y": -1808.83,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 170,
+    "server_id": 13,
+    "type": "house",
+    "name": "личная взлётная полоса",
+    "owner": "Ga_Tila",
+    "status": "Аукцион",
+    "x": 866.827,
+    "y": -1798.91,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 938,
     "server_id": 13,
     "type": "house",
@@ -23252,31 +23252,31 @@
     "status": "Аукцион",
     "x": -2094.08,
     "y": 796.2789,
-    "price": 450123123,
+    "price": 399123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1412,
+    "id": 1461,
     "server_id": 13,
     "type": "house",
-    "name": "дом Sai 3",
-    "owner": "Yamamoto_Sai",
+    "name": "Дом",
+    "owner": "Ga_Tila",
     "status": "Аукцион",
-    "x": 689.755,
-    "y": 1297.17,
-    "price": 7000,
+    "x": 161.522,
+    "y": -1455.86,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1833,
+    "id": 1644,
     "server_id": 13,
     "type": "house",
-    "name": "FAMILY UNDERWORLD",
-    "owner": "Yuto_Mifune",
+    "name": "Дом",
+    "owner": "Ga_Tila",
     "status": "Аукцион",
-    "x": 1794.35,
-    "y": 2863.28,
-    "price": 150123123,
+    "x": 2794.25,
+    "y": 2268.49,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {

@@ -3231,7 +3231,7 @@
     "id": 269,
     "server_id": 6,
     "type": "house",
-    "name": "тгк: Берлога Лафича",
+    "name": "Дом",
     "owner": "Federico_Dobryak",
     "status": "Занято",
     "x": 1195.57,
@@ -6388,7 +6388,7 @@
     "server_id": 6,
     "type": "house",
     "name": "По Госту",
-    "owner": "Hard_Rockstar",
+    "owner": "Kevin_Santo",
     "status": "Занято",
     "x": 1931.33,
     "y": 2721.72,
@@ -11892,6 +11892,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 991,
+    "server_id": 6,
+    "type": "house",
+    "name": "AKI_MiyabiHoshimi",
+    "owner": "Hoshimi_Miyabi",
+    "status": "Занято",
+    "x": -743.0999,
+    "y": 1432.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 992,
     "server_id": 6,
     "type": "house",
@@ -12656,6 +12668,18 @@
     "status": "Занято",
     "x": -2238.3,
     "y": 1117.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1056,
+    "server_id": 6,
+    "type": "house",
+    "name": "Трэп Хата",
+    "owner": "Danya_Diaz",
+    "status": "Занято",
+    "x": -2280.84,
+    "y": 1112.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15176,18 +15200,6 @@
     "status": "Занято",
     "x": -2406.94,
     "y": 1135.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1267,
-    "server_id": 6,
-    "type": "house",
-    "name": "[$] Falcone Mafia [$",
-    "owner": "Belozar_Falcone",
-    "status": "Занято",
-    "x": -2423.95,
-    "y": 1139.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22524,6 +22536,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1881,
+    "server_id": 6,
+    "type": "house",
+    "name": "Sunfote empire>",
+    "owner": "Effect_Colibry",
+    "status": "Занято",
+    "x": 1786.53,
+    "y": 2867.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1882,
     "server_id": 6,
     "type": "house",
@@ -22800,6 +22824,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1905,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Effect_Colibry",
+    "status": "Занято",
+    "x": 1740.84,
+    "y": 2863.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1906,
     "server_id": 6,
     "type": "house",
@@ -22924,7 +22960,7 @@
     "server_id": 6,
     "type": "house",
     "name": "рядом с бомжами",
-    "owner": "Hard_Rockstar",
+    "owner": "Kevin_Santo",
     "status": "Занято",
     "x": 2441.54,
     "y": 1220.88,
@@ -23204,18 +23240,6 @@
     "status": "Занято",
     "x": -1872.3,
     "y": 1125.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1941,
-    "server_id": 6,
-    "type": "house",
-    "name": "Есть подвал для майнинга и деп",
-    "owner": "Stas_Refund",
-    "status": "Занято",
-    "x": -1872.07,
-    "y": 1146.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24435,7 +24459,7 @@
     "id": 2043,
     "server_id": 6,
     "type": "house",
-    "name": "Covzlovski VIP",
+    "name": "Продается",
     "owner": "Daniel_Covzlovski",
     "status": "Занято",
     "x": 6.7789,
@@ -24468,63 +24492,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 991,
+    "id": 1267,
     "server_id": 6,
     "type": "house",
-    "name": "***Дом продается***",
-    "owner": "Maria_Borowa",
+    "name": "Деп.условия + Подвал + Гараж",
+    "owner": "Belozar_Falcone",
     "status": "Аукцион",
-    "x": -743.0999,
-    "y": 1432.31,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1056,
-    "server_id": 6,
-    "type": "house",
-    "name": "Домик",
-    "owner": "Maria_Borowa",
-    "status": "Аукцион",
-    "x": -2280.84,
-    "y": 1112.54,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1881,
-    "server_id": 6,
-    "type": "house",
-    "name": "Sunfote empire>",
-    "owner": "Effect_Colibry",
-    "status": "Аукцион",
-    "x": 1786.53,
-    "y": 2867.71,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1905,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Effect_Colibry",
-    "status": "Аукцион",
-    "x": 1740.84,
-    "y": 2863.26,
-    "price": 100000000,
+    "x": -2423.95,
+    "y": 1139.43,
+    "price": 777,
     "district": "Сан-Андреас"
   },
   {
     "id": 1921,
     "server_id": 6,
     "type": "house",
-    "name": "Infinity House ",
+    "name": "gun",
     "owner": "Dzhi_Gun",
     "status": "Аукцион",
     "x": 2608.15,
     "y": -1233.53,
-    "price": 150123123,
+    "price": 123123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1941,
+    "server_id": 6,
+    "type": "house",
+    "name": "Есть подвал для майнинга и деп",
+    "owner": "Stas_Refund",
+    "status": "Аукцион",
+    "x": -1872.07,
+    "y": 1146.73,
+    "price": 50123213,
     "district": "Сан-Андреас"
   },
   {
