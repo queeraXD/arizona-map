@@ -504,18 +504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 42,
-    "server_id": 7,
-    "type": "house",
-    "name": "Fam Rockfeller",
-    "owner": "Amir_Rockfeller",
-    "status": "Занято",
-    "x": 2550.93,
-    "y": -1235.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 43,
     "server_id": 7,
     "type": "house",
@@ -6464,6 +6452,18 @@
     "status": "Занято",
     "x": 2056.57,
     "y": 2664.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 539,
+    "server_id": 7,
+    "type": "house",
+    "name": "Буль Буль",
+    "owner": "Robert_Pluhov",
+    "status": "Занято",
+    "x": 2037.05,
+    "y": 2663.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13632,18 +13632,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1137,
-    "server_id": 7,
-    "type": "house",
-    "name": "Офис Гринча",
-    "owner": "Sky_Witchblade",
-    "status": "Занято",
-    "x": -2660.73,
-    "y": 200.6309,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1138,
     "server_id": 7,
     "type": "house",
@@ -17804,18 +17792,6 @@
     "status": "Занято",
     "x": 2398.37,
     "y": 111.763,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1485,
-    "server_id": 7,
-    "type": "house",
-    "name": "Bloomberg Empire B.B :uf221:",
-    "owner": "Adas_Wayne",
-    "status": "Занято",
-    "x": 397.2869,
-    "y": 1157.75,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25536,27 +25512,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 539,
+    "id": 42,
     "server_id": 7,
     "type": "house",
-    "name": "Буль Буль",
-    "owner": "Robert_Pluhov",
+    "name": "Belfort",
+    "owner": "Martin_Belfort",
     "status": "Аукцион",
-    "x": 2037.05,
-    "y": 2663.99,
-    "price": 5500000000,
+    "x": 2550.93,
+    "y": -1235.19,
+    "price": 4500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 196,
+    "id": 1137,
     "server_id": 7,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Государство",
+    "type": "house",
+    "name": "Офис Гринча",
+    "owner": "Sky_Witchblade",
     "status": "Аукцион",
-    "x": -2681.61,
-    "y": 583.93,
-    "price": 10000000,
+    "x": -2660.73,
+    "y": 200.6309,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1485,
+    "server_id": 7,
+    "type": "house",
+    "name": "Bloomberg Empire B.B :uf221:",
+    "owner": "Adas_Wayne",
+    "status": "Аукцион",
+    "x": 397.2869,
+    "y": 1157.75,
+    "price": 8500228228,
     "district": "Сан-Андреас"
   },
   {
@@ -27988,7 +27976,7 @@
     "server_id": 7,
     "type": "business",
     "name": "Отель",
-    "owner": "Emmanuel_Lodbrock",
+    "owner": "Seal_Tombstone",
     "status": "Занято",
     "x": 349.0463,
     "y": -1492.653,
@@ -28544,6 +28532,18 @@
     "status": "Занято",
     "x": -1548.81,
     "y": 673.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 196,
+    "server_id": 7,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Clint_Barton",
+    "status": "Занято",
+    "x": -2681.61,
+    "y": 583.93,
     "price": 0,
     "district": "Сан-Андреас"
   },

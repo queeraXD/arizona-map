@@ -7464,18 +7464,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 622,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stanislav_Tinkov",
-    "status": "Занято",
-    "x": -1051.59,
-    "y": 1549.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 623,
     "server_id": 31,
     "type": "house",
@@ -7552,7 +7540,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Imperial",
-    "owner": "Salazar_Imperial",
+    "owner": "Batista_Gonzalez",
     "status": "Занято",
     "x": -207.4239,
     "y": 1119.16,
@@ -13084,7 +13072,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Imperials BTC",
-    "owner": "Salazar_Imperial",
+    "owner": "Batista_Gonzalez",
     "status": "Занято",
     "x": -2192.58,
     "y": 903.109,
@@ -14564,6 +14552,18 @@
     "status": "Занято",
     "x": -2840.23,
     "y": 866.763,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1217,
+    "server_id": 31,
+    "type": "house",
+    "name": "Graf",
+    "owner": "Patrick_Mercer",
+    "status": "Занято",
+    "x": -2840.23,
+    "y": 884.5809,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17056,7 +17056,7 @@
     "server_id": 31,
     "type": "house",
     "name": "west side",
-    "owner": "areh",
+    "owner": "Muff_Distress",
     "status": "Занято",
     "x": 1109.01,
     "y": -1575.2,
@@ -18316,7 +18316,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Stanislav_Tinkov",
+    "owner": "Rory_Drakonez",
     "status": "Занято",
     "x": 1455.58,
     "y": 751.01,
@@ -23304,6 +23304,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 622,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stanislav_Tinkov",
+    "status": "Аукцион",
+    "x": -1051.59,
+    "y": 1549.59,
+    "price": 9000123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 764,
     "server_id": 31,
     "type": "house",
@@ -23312,7 +23324,7 @@
     "status": "Аукцион",
     "x": -2645.56,
     "y": 803.083,
-    "price": 1700000000,
+    "price": 1600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23324,19 +23336,7 @@
     "status": "Аукцион",
     "x": -2687.81,
     "y": 803.0819,
-    "price": 1800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1217,
-    "server_id": 31,
-    "type": "house",
-    "name": "Graf",
-    "owner": "Kenji_Honda",
-    "status": "Аукцион",
-    "x": -2840.23,
-    "y": 884.5809,
-    "price": 1800000000,
+    "price": 1700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23361,6 +23361,18 @@
     "x": -2558.63,
     "y": -118.7289,
     "price": 1600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 48,
+    "server_id": 31,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Vupsen_Pupsenevich",
+    "status": "Аукцион",
+    "x": 1830.46,
+    "y": -1173.59,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -23936,18 +23948,6 @@
     "status": "Занято",
     "x": 822.506,
     "y": -1757.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 48,
-    "server_id": 31,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Vupsen_Pupsenevich",
-    "status": "Занято",
-    "x": 1830.46,
-    "y": -1173.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
