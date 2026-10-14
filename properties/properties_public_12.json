@@ -6324,18 +6324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 527,
-    "server_id": 12,
-    "type": "house",
-    "name": "С деп условием",
-    "owner": "Solitude_Monopoly",
-    "status": "Занято",
-    "x": 2039.57,
-    "y": 2766.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 528,
     "server_id": 12,
     "type": "house",
@@ -23808,6 +23796,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 527,
+    "server_id": 12,
+    "type": "house",
+    "name": "С деп условием",
+    "owner": "Solitude_Monopoly",
+    "status": "Аукцион",
+    "x": 2039.57,
+    "y": 2766.53,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 866,
     "server_id": 12,
     "type": "house",
@@ -23817,18 +23817,6 @@
     "x": -340.7749,
     "y": 2565.41,
     "price": 15000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 196,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Drakula_Asala",
-    "status": "Аукцион",
-    "x": -2681.61,
-    "y": 583.93,
-    "price": 7000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26816,6 +26804,18 @@
     "status": "Занято",
     "x": -1548.81,
     "y": 673.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 196,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Drakula_Asala",
+    "status": "Занято",
+    "x": -2681.61,
+    "y": 583.93,
     "price": 0,
     "district": "Сан-Андреас"
   },

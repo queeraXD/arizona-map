@@ -14184,18 +14184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1183,
-    "server_id": 4,
-    "type": "house",
-    "name": "павел салов",
-    "owner": "Sid_Mayski",
-    "status": "Занято",
-    "x": -2881.35,
-    "y": 790.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1184,
     "server_id": 4,
     "type": "house",
@@ -17264,18 +17252,6 @@
     "status": "Занято",
     "x": 2066.96,
     "y": -1562.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1440,
-    "server_id": 4,
-    "type": "house",
-    "name": "Allford Empire",
-    "owner": "Ethan_Allford",
-    "status": "Занято",
-    "x": 2066.8,
-    "y": -1554.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20540,18 +20516,6 @@
     "status": "Занято",
     "x": -2409.0,
     "y": 819.973,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1713,
-    "server_id": 4,
-    "type": "house",
-    "name": "Поместье GALLAGHERS",
-    "owner": "Gleb_Carboni",
-    "status": "Занято",
-    "x": 2288.19,
-    "y": -1104.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24024,18 +23988,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2003,
-    "server_id": 4,
-    "type": "house",
-    "name": "Allford Empire",
-    "owner": "Ethan_Allford",
-    "status": "Занято",
-    "x": 2487.31,
-    "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2004,
     "server_id": 4,
     "type": "house",
@@ -24584,18 +24536,6 @@
     "status": "Занято",
     "x": -789.703,
     "y": 2749.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2051,
-    "server_id": 4,
-    "type": "house",
-    "name": "Allford Empire",
-    "owner": "Ethan_Allford",
-    "status": "Занято",
-    "x": -150.001,
-    "y": 2687.78,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25248,6 +25188,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1183,
+    "server_id": 4,
+    "type": "house",
+    "name": "павел салов",
+    "owner": "Sid_Mayski",
+    "status": "Аукцион",
+    "x": -2881.35,
+    "y": 790.5,
+    "price": 550222111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1440,
+    "server_id": 4,
+    "type": "house",
+    "name": "Allford Empire",
+    "owner": "Ethan_Allford",
+    "status": "Аукцион",
+    "x": 2066.8,
+    "y": -1554.09,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1713,
+    "server_id": 4,
+    "type": "house",
+    "name": "Поместье GALLAGHERS",
+    "owner": "Gleb_Carboni",
+    "status": "Аукцион",
+    "x": 2288.19,
+    "y": -1104.65,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2003,
+    "server_id": 4,
+    "type": "house",
+    "name": "Allford Empire",
+    "owner": "Ethan_Allford",
+    "status": "Аукцион",
+    "x": 2487.31,
+    "y": -1376.27,
+    "price": 2000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 2026,
     "server_id": 4,
     "type": "house",
@@ -25260,15 +25248,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
+    "id": 2051,
     "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ramil_Orlov",
+    "type": "house",
+    "name": "Allford Empire",
+    "owner": "Ethan_Allford",
     "status": "Аукцион",
-    "x": 2085.84,
-    "y": 2486.25,
-    "price": 222222,
+    "x": -150.001,
+    "y": 2687.78,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
@@ -27488,6 +27476,18 @@
     "status": "Занято",
     "x": 1671.52,
     "y": 1814.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
+    "server_id": 4,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ramil_Orlov",
+    "status": "Занято",
+    "x": 2085.84,
+    "y": 2486.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
