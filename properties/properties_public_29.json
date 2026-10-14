@@ -2616,18 +2616,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 218,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lonny_Liberty",
-    "status": "Занято",
-    "x": 836.2189,
-    "y": -894.2999,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 219,
     "server_id": 29,
     "type": "house",
@@ -7872,18 +7860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 656,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Niko_Negroni",
-    "status": "Занято",
-    "x": 1978.35,
-    "y": 665.8079,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 657,
     "server_id": 29,
     "type": "house",
@@ -8880,18 +8856,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 740,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Niko_Negroni",
-    "status": "Занято",
-    "x": -2840.23,
-    "y": 877.4359,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 741,
     "server_id": 29,
     "type": "house",
@@ -9700,7 +9664,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Champagne!",
-    "owner": "Michael_Kopyev",
+    "owner": "Young_Qweik",
     "status": "Занято",
     "x": -2722.88,
     "y": -127.9029,
@@ -11064,18 +11028,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 922,
-    "server_id": 29,
-    "type": "house",
-    "name": "poroshok",
-    "owner": "Katsu_Alien",
-    "status": "Занято",
-    "x": -2280.46,
-    "y": 1130.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 923,
     "server_id": 29,
     "type": "house",
@@ -11500,7 +11452,7 @@
     "server_id": 29,
     "type": "house",
     "name": "poroshok",
-    "owner": "Sanya_McLaren",
+    "owner": "Vladimir_Marihuana",
     "status": "Занято",
     "x": -2229.52,
     "y": 934.32,
@@ -21144,15 +21096,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 295,
+    "id": 218,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lonny_Liberty",
+    "status": "Аукцион",
+    "x": 836.2189,
+    "y": -894.2999,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 656,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Niko_Negroni",
+    "status": "Аукцион",
+    "x": 1978.35,
+    "y": 665.8079,
+    "price": 400123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 740,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Niko_Negroni",
+    "status": "Аукцион",
+    "x": -2840.23,
+    "y": 877.4359,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 922,
+    "server_id": 29,
+    "type": "house",
+    "name": "poroshok",
+    "owner": "Katsu_Alien",
+    "status": "Аукцион",
+    "x": -2280.46,
+    "y": 1130.83,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 180,
     "server_id": 29,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "Rico_Fletcher",
+    "name": "Ларек с уличной едой",
+    "owner": "Vova_BabyTron",
     "status": "Аукцион",
-    "x": 2392.56,
-    "y": 2042.21,
-    "price": 180000,
+    "x": -63.12,
+    "y": 1208.9,
+    "price": 365000,
     "district": "Сан-Андреас"
   },
   {
@@ -22576,7 +22576,7 @@
     "server_id": 29,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Sergey_NewLight",
+    "owner": "Izya_Richards",
     "status": "Занято",
     "x": 2170.48,
     "y": 542.934,
@@ -23104,7 +23104,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Sergey_NewLight",
+    "owner": "Izya_Richards",
     "status": "Занято",
     "x": 2331.81,
     "y": 75.087,
@@ -23116,7 +23116,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Sergey_NewLight",
+    "owner": "Izya_Richards",
     "status": "Занято",
     "x": 1157.92,
     "y": 2072.27,
@@ -23188,7 +23188,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Sergey_NewLight",
+    "owner": "Izya_Richards",
     "status": "Занято",
     "x": -1912.17,
     "y": 827.954,
@@ -23216,6 +23216,18 @@
     "status": "Занято",
     "x": 2472.77,
     "y": 2034.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 295,
+    "server_id": 29,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Rico_Fletcher",
+    "status": "Занято",
+    "x": 2392.56,
+    "y": 2042.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23936,18 +23948,6 @@
     "status": "Занято",
     "x": 1521.99,
     "y": -1025.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 180,
-    "server_id": 29,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Vova_BabyTron",
-    "status": "Занято",
-    "x": -63.12,
-    "y": 1208.9,
     "price": 0,
     "district": "Сан-Андреас"
   },

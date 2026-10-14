@@ -2436,18 +2436,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 203,
-    "server_id": 17,
-    "type": "house",
-    "name": "Автогонки",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": 1534.75,
-    "y": -800.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 204,
     "server_id": 17,
     "type": "house",
@@ -2672,18 +2660,6 @@
     "status": "Занято",
     "x": 891.1149,
     "y": -782.806,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 223,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": 867.6599,
-    "y": -717.242,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11724,18 +11700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 977,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sasha_Samosvalova",
-    "status": "Занято",
-    "x": -2422.26,
-    "y": 2491.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 978,
     "server_id": 17,
     "type": "house",
@@ -14036,18 +14000,6 @@
     "status": "Занято",
     "x": -970.8699,
     "y": -1877.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1171,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": -957.2579,
-    "y": -1878.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19740,18 +19692,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1646,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sasha_Samosvalova",
-    "status": "Занято",
-    "x": 2468.23,
-    "y": -1431.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1647,
     "server_id": 17,
     "type": "house",
@@ -20168,18 +20108,6 @@
     "status": "Занято",
     "x": 725.6519,
     "y": -1451.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1682,
-    "server_id": 17,
-    "type": "house",
-    "name": "// photo squad //",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": 725.674,
-    "y": -1440.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22464,6 +22392,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 977,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2422.26,
+    "y": 2491.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1646,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2468.23,
+    "y": -1431.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 203,
+    "server_id": 17,
+    "type": "house",
+    "name": "Автогонки",
+    "owner": "Zheka_Zhuk",
+    "status": "Аукцион",
+    "x": 1534.75,
+    "y": -800.32,
+    "price": 2200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 223,
+    "server_id": 17,
+    "type": "house",
+    "name": "Набор архитектора ",
+    "owner": "Zheka_Zhuk",
+    "status": "Аукцион",
+    "x": 867.6599,
+    "y": -717.242,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1067,
     "server_id": 17,
     "type": "house",
@@ -22473,6 +22449,42 @@
     "x": 2247.5,
     "y": -1470.24,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1171,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zheka_Zhuk",
+    "status": "Аукцион",
+    "x": -957.2579,
+    "y": -1878.39,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1682,
+    "server_id": 17,
+    "type": "house",
+    "name": "// photo squad //",
+    "owner": "Zheka_Zhuk",
+    "status": "Аукцион",
+    "x": 725.674,
+    "y": -1440.45,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 216,
+    "server_id": 17,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": 2327.86,
+    "y": 2421.25,
+    "price": 6000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25628,18 +25640,6 @@
     "status": "Занято",
     "x": 1976.18,
     "y": -1980.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 216,
-    "server_id": 17,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 2327.86,
-    "y": 2421.25,
     "price": 0,
     "district": "Сан-Андреас"
   },

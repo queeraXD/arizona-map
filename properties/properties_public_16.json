@@ -2436,18 +2436,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 203,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mike_Salvator",
-    "status": "Занято",
-    "x": 1534.75,
-    "y": -800.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 204,
     "server_id": 16,
     "type": "house",
@@ -2703,7 +2691,7 @@
     "id": 225,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
+    "name": "x2 фулл фарш",
     "owner": "Makko_Sheikh",
     "status": "Занято",
     "x": 946.0869,
@@ -6992,18 +6980,6 @@
     "status": "Занято",
     "x": -275.376,
     "y": 2736.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 583,
-    "server_id": 16,
-    "type": "house",
-    "name": "Автогонки",
-    "owner": "Vladimir_Tpaxtenberg",
-    "status": "Занято",
-    "x": -279.3829,
-    "y": 2722.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16140,18 +16116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1346,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Maslenn",
-    "status": "Занято",
-    "x": 1112.2,
-    "y": -1575.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1347,
     "server_id": 16,
     "type": "house",
@@ -20752,7 +20716,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Mog_Ged",
+    "owner": "Sam_Oxford",
     "status": "Занято",
     "x": 2441.54,
     "y": 1225.82,
@@ -22461,6 +22425,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 203,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mike_Salvator",
+    "status": "Аукцион",
+    "x": 1534.75,
+    "y": -800.32,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 583,
+    "server_id": 16,
+    "type": "house",
+    "name": "Автогонки",
+    "owner": "Vladimir_Tpaxtenberg",
+    "status": "Аукцион",
+    "x": -279.3829,
+    "y": 2722.05,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1346,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Maslenn",
+    "status": "Аукцион",
+    "x": 1112.2,
+    "y": -1575.21,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
