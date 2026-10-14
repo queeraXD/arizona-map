@@ -2704,7 +2704,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Kasumi",
-    "owner": "Mark_Zakonov",
+    "owner": "Papa_Rimsky",
     "status": "Занято",
     "x": 946.0869,
     "y": -710.3339,
@@ -6604,7 +6604,7 @@
     "server_id": 28,
     "type": "house",
     "name": "В доме есть набор архитектора",
-    "owner": "Sasha_Nightmare",
+    "owner": "Maks_Dzorden",
     "status": "Занято",
     "x": -281.673,
     "y": 961.9429,
@@ -7928,18 +7928,6 @@
     "status": "Занято",
     "x": 984.2689,
     "y": 1878.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 662,
-    "server_id": 28,
-    "type": "house",
-    "name": "АнжГерКам",
-    "owner": "Over_Dose",
-    "status": "Занято",
-    "x": 985.838,
-    "y": 1901.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17436,18 +17424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1455,
-    "server_id": 28,
-    "type": "house",
-    "name": "АнжГерКам",
-    "owner": "Over_Dose",
-    "status": "Занято",
-    "x": 928.616,
-    "y": 2372.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1456,
     "server_id": 28,
     "type": "house",
@@ -22380,6 +22356,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 662,
+    "server_id": 28,
+    "type": "house",
+    "name": "АнжГерКам",
+    "owner": "Over_Dose",
+    "status": "Аукцион",
+    "x": 985.838,
+    "y": 1901.11,
+    "price": 75000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1455,
+    "server_id": 28,
+    "type": "house",
+    "name": "АнжГерКам",
+    "owner": "Over_Dose",
+    "status": "Аукцион",
+    "x": 928.616,
+    "y": 2372.89,
+    "price": 75000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1,
     "server_id": 28,
     "type": "business",
@@ -22400,7 +22400,7 @@
     "status": "Аукцион",
     "x": 1830.46,
     "y": -1173.59,
-    "price": 8500000000,
+    "price": 8000000000,
     "district": "Сан-Андреас"
   },
   {

@@ -5100,6 +5100,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 425,
+    "server_id": 1,
+    "type": "house",
+    "name": "У ПВЗ",
+    "owner": "Max_Richman",
+    "status": "Занято",
+    "x": 313.3909,
+    "y": -121.1949,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 426,
     "server_id": 1,
     "type": "house",
@@ -9572,18 +9584,6 @@
     "status": "Занято",
     "x": -2368.82,
     "y": 763.504,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 799,
-    "server_id": 1,
-    "type": "house",
-    "name": "Castellano 19/83k",
-    "owner": "Adolf_Kirovskiy",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 784.028,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16104,18 +16104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1344,
-    "server_id": 1,
-    "type": "house",
-    "name": "Castellano 20/83k",
-    "owner": "Anton_Grip",
-    "status": "Занято",
-    "x": -2233.26,
-    "y": 848.986,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1345,
     "server_id": 1,
     "type": "house",
@@ -21780,18 +21768,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1817,
-    "server_id": 1,
-    "type": "house",
-    "name": "Хатка Какаша енд Гони",
-    "owner": "Cain_Augustus",
-    "status": "Занято",
-    "x": 2437.23,
-    "y": 1211.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1818,
     "server_id": 1,
     "type": "house",
@@ -24156,15 +24132,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 425,
+    "id": 799,
     "server_id": 1,
     "type": "house",
-    "name": "l Blame Village l",
-    "owner": "Did_Inside",
+    "name": "Castellano 19/83k",
+    "owner": "Adolf_Kirovskiy",
     "status": "Аукцион",
-    "x": 313.3909,
-    "y": -121.1949,
-    "price": 5000000000,
+    "x": -2372.53,
+    "y": 784.028,
+    "price": 2300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1344,
+    "server_id": 1,
+    "type": "house",
+    "name": "Castellano 20/83k",
+    "owner": "Anton_Grip",
+    "status": "Аукцион",
+    "x": -2233.26,
+    "y": 848.986,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1817,
+    "server_id": 1,
+    "type": "house",
+    "name": "Хатка Какаша енд Гони",
+    "owner": "Cain_Augustus",
+    "status": "Аукцион",
+    "x": 2437.23,
+    "y": 1211.04,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {

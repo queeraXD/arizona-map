@@ -6984,6 +6984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 583,
+    "server_id": 16,
+    "type": "house",
+    "name": "Автогонки",
+    "owner": "Vladimir_Tpaxtenberg",
+    "status": "Занято",
+    "x": -279.3829,
+    "y": 2722.05,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 584,
     "server_id": 16,
     "type": "house",
@@ -9792,18 +9804,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 818,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Krabs_Markelovani",
-    "status": "Занято",
-    "x": -2689.46,
-    "y": -167.298,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 819,
     "server_id": 16,
     "type": "house",
@@ -12416,18 +12416,6 @@
     "status": "Занято",
     "x": 1911.59,
     "y": -464.2439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1038,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Luminisent_London",
-    "status": "Занято",
-    "x": -1776.13,
-    "y": 1115.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16112,6 +16100,18 @@
     "status": "Занято",
     "x": 1105.59,
     "y": -1562.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1346,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Maslenn",
+    "status": "Занято",
+    "x": 1112.2,
+    "y": -1575.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22440,27 +22440,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 583,
-    "server_id": 16,
-    "type": "house",
-    "name": "Автогонки",
-    "owner": "Vladimir_Tpaxtenberg",
-    "status": "Аукцион",
-    "x": -279.3829,
-    "y": 2722.05,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1346,
+    "id": 818,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Vova_Maslenn",
+    "owner": "Krabs_Markelovani",
     "status": "Аукцион",
-    "x": 1112.2,
-    "y": -1575.21,
-    "price": 2000000000,
+    "x": -2689.46,
+    "y": -167.298,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1038,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Luminisent_London",
+    "status": "Аукцион",
+    "x": -1776.13,
+    "y": 1115.2,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {

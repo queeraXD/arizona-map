@@ -9468,18 +9468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 789,
-    "server_id": 12,
-    "type": "house",
-    "name": "Берлога ПГАТК",
-    "owner": "Yarik_Papiros",
-    "status": "Занято",
-    "x": -2580.91,
-    "y": 920.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 790,
     "server_id": 12,
     "type": "house",
@@ -10023,7 +10011,7 @@
     "id": 835,
     "server_id": 12,
     "type": "house",
-    "name": "MONOPOLY EMPIRE",
+    "name": "--- Kasiliks Empire --- ",
     "owner": "Crystal_Kasiliks",
     "status": "Занято",
     "x": -2281.59,
@@ -10388,18 +10376,6 @@
     "status": "Занято",
     "x": -269.1889,
     "y": 2504.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 866,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 6",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -340.7749,
-    "y": 2565.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22716,6 +22692,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1893,
+    "server_id": 12,
+    "type": "house",
+    "name": "///",
+    "owner": "Zak_Attwood",
+    "status": "Занято",
+    "x": 1803.46,
+    "y": 2855.55,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1894,
     "server_id": 12,
     "type": "house",
@@ -23808,15 +23796,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1893,
+    "id": 789,
     "server_id": 12,
     "type": "house",
-    "name": "///",
-    "owner": "Zheka_Zhuk",
+    "name": "Берлога ПГАТК",
+    "owner": "Yarik_Papiros",
     "status": "Аукцион",
-    "x": 1803.46,
-    "y": 2855.55,
-    "price": 300000000,
+    "x": -2580.91,
+    "y": 920.38,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 866,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 6",
+    "owner": "Dylan_Broker",
+    "status": "Аукцион",
+    "x": -340.7749,
+    "y": 2565.41,
+    "price": 15000,
     "district": "Сан-Андреас"
   },
   {

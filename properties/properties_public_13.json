@@ -11259,7 +11259,7 @@
     "id": 938,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
+    "name": "JV2",
     "owner": "Jack_Viener",
     "status": "Занято",
     "x": -2094.08,
@@ -12212,6 +12212,18 @@
     "status": "Занято",
     "x": -2563.4,
     "y": 1148.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1018,
+    "server_id": 13,
+    "type": "house",
+    "name": "KorolHouse",
+    "owner": "Zheka_Zhuk",
+    "status": "Занято",
+    "x": -2541.3,
+    "y": 987.9089,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,18 +23292,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1018,
-    "server_id": 13,
-    "type": "house",
-    "name": "KorolHouse",
-    "owner": "Zheka_Zhuk",
-    "status": "Аукцион",
-    "x": -2541.3,
-    "y": 987.9089,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 53,
     "server_id": 13,
     "type": "business",
@@ -23325,18 +23325,6 @@
     "x": 1864.59,
     "y": -1393.39,
     "price": 8000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 311,
-    "server_id": 13,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Utah_Marshall",
-    "status": "Аукцион",
-    "x": -20.8111,
-    "y": -1548.59,
-    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -27080,6 +27068,18 @@
     "status": "Занято",
     "x": -1784.542,
     "y": -594.7703,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 311,
+    "server_id": 13,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Seva_Gudini",
+    "status": "Занято",
+    "x": -20.8111,
+    "y": -1548.59,
     "price": 0,
     "district": "Сан-Андреас"
   },

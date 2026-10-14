@@ -2616,6 +2616,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 218,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Seishin_Glock",
+    "status": "Занято",
+    "x": 836.2189,
+    "y": -894.2999,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 219,
     "server_id": 29,
     "type": "house",
@@ -3603,8 +3615,8 @@
     "id": 301,
     "server_id": 29,
     "type": "house",
-    "name": "Johnson House",
-    "owner": "Frederic_Johnson",
+    "name": "Набор архитектора",
+    "owner": "Dean_Glock",
     "status": "Занято",
     "x": -2224.3,
     "y": -2482.68,
@@ -7860,6 +7872,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 656,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Niko_Negroni",
+    "status": "Занято",
+    "x": 1978.35,
+    "y": 665.8079,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 657,
     "server_id": 29,
     "type": "house",
@@ -8852,6 +8876,18 @@
     "status": "Занято",
     "x": -2845.31,
     "y": 928.414,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 740,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Niko_Negroni",
+    "status": "Занято",
+    "x": -2840.23,
+    "y": 877.4359,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11292,18 +11328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 945,
-    "server_id": 29,
-    "type": "house",
-    "name": "Rafael house",
-    "owner": "Side_Hazard",
-    "status": "Занято",
-    "x": -2281.96,
-    "y": 979.2269,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 946,
     "server_id": 29,
     "type": "house",
@@ -12180,18 +12204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1019,
-    "server_id": 29,
-    "type": "house",
-    "name": "Flow",
-    "owner": "Roma_Flow",
-    "status": "Занято",
-    "x": -2542.09,
-    "y": 967.7059,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1020,
     "server_id": 29,
     "type": "house",
@@ -12200,18 +12212,6 @@
     "status": "Занято",
     "x": -2542.49,
     "y": 942.4849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1021,
-    "server_id": 29,
-    "type": "house",
-    "name": "Johnson House",
-    "owner": "Frederic_Johnson",
-    "status": "Занято",
-    "x": -2511.33,
-    "y": 951.2239,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18759,8 +18759,8 @@
     "id": 1568,
     "server_id": 29,
     "type": "house",
-    "name": "Johnson House",
-    "owner": "Frederic_Johnson",
+    "name": "Набор архитектора",
+    "owner": "Nikolaj_Peulja",
     "status": "Занято",
     "x": 2129.63,
     "y": -1361.69,
@@ -21096,42 +21096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 218,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lonny_Liberty",
-    "status": "Аукцион",
-    "x": 836.2189,
-    "y": -894.2999,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 656,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Niko_Negroni",
-    "status": "Аукцион",
-    "x": 1978.35,
-    "y": 665.8079,
-    "price": 400123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 740,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Niko_Negroni",
-    "status": "Аукцион",
-    "x": -2840.23,
-    "y": 877.4359,
-    "price": 500123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 922,
     "server_id": 29,
     "type": "house",
@@ -21144,15 +21108,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 180,
+    "id": 945,
+    "server_id": 29,
+    "type": "house",
+    "name": "Rafael house",
+    "owner": "Side_Hazard",
+    "status": "Аукцион",
+    "x": -2281.96,
+    "y": 979.2269,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1019,
+    "server_id": 29,
+    "type": "house",
+    "name": "Flow",
+    "owner": "Roma_Flow",
+    "status": "Аукцион",
+    "x": -2542.09,
+    "y": 967.7059,
+    "price": 800123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1021,
+    "server_id": 29,
+    "type": "house",
+    "name": "Набор архитектора",
+    "owner": "Frederic_Johnson",
+    "status": "Аукцион",
+    "x": -2511.33,
+    "y": 951.2239,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 267,
     "server_id": 29,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Vova_BabyTron",
+    "owner": "Nikolaj_Peulja",
     "status": "Аукцион",
-    "x": -63.12,
-    "y": 1208.9,
-    "price": 365000,
+    "x": 1460.33,
+    "y": 2784.8,
+    "price": 9200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21352,7 +21352,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Бар",
-    "owner": "Sergey_NewLight",
+    "owner": "Izya_Richards",
     "status": "Занято",
     "x": 2421.52,
     "y": -1219.25,
@@ -21592,7 +21592,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Sergey_NewLight",
+    "owner": "Izya_Richards",
     "status": "Занято",
     "x": 1315.5,
     "y": -898.048,
@@ -23164,7 +23164,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Sergey_NewLight",
+    "owner": "Izya_Richards",
     "status": "Занято",
     "x": 1020.4,
     "y": -1844.78,
@@ -23320,7 +23320,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Sergey_NewLight",
+    "owner": "Izya_Richards",
     "status": "Занято",
     "x": -2257.681,
     "y": 2278.016,
@@ -23952,6 +23952,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 180,
+    "server_id": 29,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Vova_BabyTron",
+    "status": "Занято",
+    "x": -63.12,
+    "y": 1208.9,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 181,
     "server_id": 29,
     "type": "business",
@@ -24356,18 +24368,6 @@
     "status": "Занято",
     "x": 947.921,
     "y": 1719.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 267,
-    "server_id": 29,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Nekich_Bossov",
-    "status": "Занято",
-    "x": 1460.33,
-    "y": 2784.8,
     "price": 0,
     "district": "Сан-Андреас"
   },

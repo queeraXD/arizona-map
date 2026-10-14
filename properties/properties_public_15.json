@@ -6063,7 +6063,7 @@
     "id": 505,
     "server_id": 15,
     "type": "house",
-    "name": "Берлога харумы 2",
+    "name": "Дом",
     "owner": "Ivan_Miller",
     "status": "Занято",
     "x": 1364.25,
@@ -6944,18 +6944,6 @@
     "status": "Занято",
     "x": -232.7579,
     "y": 2807.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 579,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dmitry_Ackerman",
-    "status": "Занято",
-    "x": -2240.52,
-    "y": 786.0869,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15252,18 +15240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1272,
-    "server_id": 15,
-    "type": "house",
-    "name": "Кибитка от Tommu_McCloud",
-    "owner": "Aleks_Montano",
-    "status": "Занято",
-    "x": -2433.03,
-    "y": 1264.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1273,
     "server_id": 15,
     "type": "house",
@@ -15284,6 +15260,18 @@
     "status": "Занято",
     "x": -2383.14,
     "y": 1226.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1275,
+    "server_id": 15,
+    "type": "house",
+    "name": "The Dennice",
+    "owner": "Jesse_Morgue",
+    "status": "Занято",
+    "x": -2383.14,
+    "y": 1244.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21312,15 +21300,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1275,
+    "id": 579,
     "server_id": 15,
     "type": "house",
-    "name": "The Dennice",
-    "owner": "Chapmen_McCloud",
+    "name": "Дом",
+    "owner": "Dmitry_Ackerman",
     "status": "Аукцион",
-    "x": -2383.14,
-    "y": 1244.66,
-    "price": 400000000,
+    "x": -2240.52,
+    "y": 786.0869,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1272,
+    "server_id": 15,
+    "type": "house",
+    "name": "My house",
+    "owner": "Aleks_Montano",
+    "status": "Аукцион",
+    "x": -2433.03,
+    "y": 1264.13,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
