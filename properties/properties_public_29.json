@@ -5784,18 +5784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 482,
-    "server_id": 29,
-    "type": "house",
-    "name": "no gletcher gang",
-    "owner": "Jack_Hughes",
-    "status": "Занято",
-    "x": 2206.36,
-    "y": 691.505,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 483,
     "server_id": 29,
     "type": "house",
@@ -9072,18 +9060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 757,
-    "server_id": 29,
-    "type": "house",
-    "name": "*GG - HOUSE*",
-    "owner": "Jack_Hughes",
-    "status": "Занято",
-    "x": -2738.32,
-    "y": 746.648,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 758,
     "server_id": 29,
     "type": "house",
@@ -10836,18 +10812,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 904,
-    "server_id": 29,
-    "type": "house",
-    "name": "Jack_Hughes (4 СФ)",
-    "owner": "Jack_Hughes",
-    "status": "Занято",
-    "x": -2116.77,
-    "y": 927.3969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 905,
     "server_id": 29,
     "type": "house",
@@ -12096,18 +12060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1010,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Hughes",
-    "status": "Занято",
-    "x": -2468.65,
-    "y": 1141.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1011,
     "server_id": 29,
     "type": "house",
@@ -12828,18 +12780,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1071,
-    "server_id": 29,
-    "type": "house",
-    "name": "Домик для Тифы",
-    "owner": "Jack_Hughes",
-    "status": "Занято",
-    "x": -2905.1,
-    "y": 1154.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1072,
     "server_id": 29,
     "type": "house",
@@ -12884,18 +12824,6 @@
     "status": "Занято",
     "x": -2900.45,
     "y": 1056.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1076,
-    "server_id": 29,
-    "type": "house",
-    "name": "Jack_Hughes(2 СФ)",
-    "owner": "Jack_Hughes",
-    "status": "Занято",
-    "x": -2901.54,
-    "y": 1033.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20160,18 +20088,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1683,
-    "server_id": 29,
-    "type": "house",
-    "name": "Jack_Hughes (1ЛС)",
-    "owner": "Jack_Hughes",
-    "status": "Занято",
-    "x": 2473.09,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1684,
     "server_id": 29,
     "type": "house",
@@ -21120,6 +21036,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 482,
+    "server_id": 29,
+    "type": "house",
+    "name": "no gletcher gang",
+    "owner": "Jack_Hughes",
+    "status": "Аукцион",
+    "x": 2206.36,
+    "y": 691.505,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 756,
     "server_id": 29,
     "type": "house",
@@ -21132,6 +21060,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 757,
+    "server_id": 29,
+    "type": "house",
+    "name": "*GG - HOUSE*",
+    "owner": "Jack_Hughes",
+    "status": "Аукцион",
+    "x": -2738.32,
+    "y": 746.648,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 904,
+    "server_id": 29,
+    "type": "house",
+    "name": "Jack_Hughes (4 СФ)",
+    "owner": "Jack_Hughes",
+    "status": "Аукцион",
+    "x": -2116.77,
+    "y": 927.3969,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 945,
     "server_id": 29,
     "type": "house",
@@ -21140,7 +21092,67 @@
     "status": "Аукцион",
     "x": -2281.96,
     "y": 979.2269,
-    "price": 400000000,
+    "price": 380000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1010,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Hughes",
+    "status": "Аукцион",
+    "x": -2468.65,
+    "y": 1141.54,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1071,
+    "server_id": 29,
+    "type": "house",
+    "name": "Домик для Тифы",
+    "owner": "Jack_Hughes",
+    "status": "Аукцион",
+    "x": -2905.1,
+    "y": 1154.62,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1076,
+    "server_id": 29,
+    "type": "house",
+    "name": "Jack_Hughes(2 СФ)",
+    "owner": "Jack_Hughes",
+    "status": "Аукцион",
+    "x": -2901.54,
+    "y": 1033.81,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1683,
+    "server_id": 29,
+    "type": "house",
+    "name": "Jack_Hughes (1ЛС)",
+    "owner": "Jack_Hughes",
+    "status": "Аукцион",
+    "x": 2473.09,
+    "y": -1391.71,
+    "price": 750000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 295,
+    "server_id": 29,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Rico_Fletcher",
+    "status": "Аукцион",
+    "x": 2392.56,
+    "y": 2042.21,
+    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -23204,18 +23216,6 @@
     "status": "Занято",
     "x": 2472.77,
     "y": 2034.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 295,
-    "server_id": 29,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Rico_Fletcher",
-    "status": "Занято",
-    "x": 2392.56,
-    "y": 2042.21,
     "price": 0,
     "district": "Сан-Андреас"
   },

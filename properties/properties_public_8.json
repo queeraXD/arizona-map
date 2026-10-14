@@ -5451,7 +5451,7 @@
     "id": 454,
     "server_id": 8,
     "type": "house",
-    "name": "-------------------------------",
+    "name": "Ballbesik House",
     "owner": "Ballbesik_Hulinam",
     "status": "Занято",
     "x": 2014.05,
@@ -9368,6 +9368,18 @@
     "status": "Занято",
     "x": -2541.25,
     "y": 785.179,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 783,
+    "server_id": 8,
+    "type": "house",
+    "name": "Улица Morphine Corporation",
+    "owner": "Ren_Kudzo",
+    "status": "Занято",
+    "x": -2513.51,
+    "y": 830.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14936,6 +14948,18 @@
     "status": "Занято",
     "x": -2791.83,
     "y": 103.595,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1249,
+    "server_id": 8,
+    "type": "house",
+    "name": "Майнинг 3",
+    "owner": "Max_Laber",
+    "status": "Занято",
+    "x": -2793.14,
+    "y": 110.9349,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22680,6 +22704,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1895,
+    "server_id": 8,
+    "type": "house",
+    "name": "Ферма видеокарт №3",
+    "owner": "Finish_Quantum",
+    "status": "Занято",
+    "x": 2408.15,
+    "y": 962.8809,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1896,
     "server_id": 8,
     "type": "house",
@@ -25740,51 +25776,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 783,
-    "server_id": 8,
-    "type": "house",
-    "name": "Улица Morphine Corporation",
-    "owner": "Ren_Kudzo",
-    "status": "Аукцион",
-    "x": -2513.51,
-    "y": 830.83,
-    "price": 499999999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1249,
-    "server_id": 8,
-    "type": "house",
-    "name": "Майнинг 3",
-    "owner": "Finish_Quantum",
-    "status": "Аукцион",
-    "x": -2793.14,
-    "y": 110.9349,
-    "price": 550123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1895,
-    "server_id": 8,
-    "type": "house",
-    "name": "Ферма видеокарт №3",
-    "owner": "Finish_Quantum",
-    "status": "Аукцион",
-    "x": 2408.15,
-    "y": 962.8809,
-    "price": 250123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1906,
     "server_id": 8,
     "type": "house",
     "name": "Домик котика",
-    "owner": "Roselyn_Kiramman",
+    "owner": "Max_Laber",
     "status": "Аукцион",
     "x": 2794.31,
     "y": 2229.48,
-    "price": 20000000,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
