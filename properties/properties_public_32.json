@@ -420,6 +420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 35,
+    "server_id": 32,
+    "type": "house",
+    "name": "legenda",
+    "owner": "Sovereign_Vale",
+    "status": "Занято",
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 36,
     "server_id": 32,
     "type": "house",
@@ -6291,7 +6303,7 @@
     "id": 525,
     "server_id": 32,
     "type": "house",
-    "name": "Asti Company [10 lvl]",
+    "name": "Enemy Company [10 LVL] NO SELL",
     "owner": "Peredoz_Enemy",
     "status": "Занято",
     "x": 1595.81,
@@ -6843,7 +6855,7 @@
     "id": 571,
     "server_id": 32,
     "type": "house",
-    "name": "Paradise Family",
+    "name": "Enemy Company [10 LVL] NO SELL",
     "owner": "Peredoz_Enemy",
     "status": "Занято",
     "x": 532.2399,
@@ -13551,7 +13563,7 @@
     "id": 1134,
     "server_id": 32,
     "type": "house",
-    "name": "Дом",
+    "name": "Pitbull House",
     "owner": "Pitbull_Diass",
     "status": "Занято",
     "x": 276.325,
@@ -15087,7 +15099,7 @@
     "id": 1262,
     "server_id": 32,
     "type": "house",
-    "name": "Paradise Family [10 lvl]",
+    "name": "Enemy Company [10 LVL] NO SELL",
     "owner": "Peredoz_Enemy",
     "status": "Занято",
     "x": -2372.53,
@@ -15944,18 +15956,6 @@
     "status": "Занято",
     "x": 1550.54,
     "y": 2846.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1334,
-    "server_id": 32,
-    "type": "house",
-    "name": "майнинг 2",
-    "owner": "GolD_Roger",
-    "status": "Занято",
-    "x": 1575.88,
-    "y": 2844.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18480,18 +18480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1574,
-    "server_id": 32,
-    "type": "house",
-    "name": "майнинг 3",
-    "owner": "GolD_Roger",
-    "status": "Занято",
-    "x": 2787.95,
-    "y": 2260.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1575,
     "server_id": 32,
     "type": "house",
@@ -20456,18 +20444,6 @@
     "status": "Занято",
     "x": -814.6309,
     "y": 2752.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1739,
-    "server_id": 32,
-    "type": "house",
-    "name": "Miner",
-    "owner": "AegisForce_VapeBoost",
-    "status": "Занято",
-    "x": -827.5109,
-    "y": 2765.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22512,15 +22488,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
+    "id": 1334,
     "server_id": 32,
     "type": "house",
-    "name": "legenda",
-    "owner": "Pumba_Bestprice",
+    "name": "майнинг 2",
+    "owner": "GolD_Roger",
     "status": "Аукцион",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 5000000000,
+    "x": 1575.88,
+    "y": 2844.16,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1574,
+    "server_id": 32,
+    "type": "house",
+    "name": "майнинг 3",
+    "owner": "GolD_Roger",
+    "status": "Аукцион",
+    "x": 2787.95,
+    "y": 2260.95,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1739,
+    "server_id": 32,
+    "type": "house",
+    "name": "Miner",
+    "owner": "AegisForce_VapeBoost",
+    "status": "Аукцион",
+    "x": -827.5109,
+    "y": 2765.18,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
