@@ -340,7 +340,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Santaghajo",
-    "owner": "Mario_Santaghajo",
+    "owner": "Mario_Interpol",
     "status": "Занято",
     "x": 2209.7,
     "y": -1240.25,
@@ -2696,6 +2696,18 @@
     "status": "Занято",
     "x": 898.2739,
     "y": -677.5339,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 225,
+    "server_id": 28,
+    "type": "house",
+    "name": "Kasumi",
+    "owner": "Papa_Rimsky",
+    "status": "Занято",
+    "x": 946.0869,
+    "y": -710.3339,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6228,18 +6240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 520,
-    "server_id": 28,
-    "type": "house",
-    "name": "Santaghajo (2/12)",
-    "owner": "Mario_Santaghajo",
-    "status": "Занято",
-    "x": 1596.87,
-    "y": 2093.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 521,
     "server_id": 28,
     "type": "house",
@@ -7888,7 +7888,7 @@
     "server_id": 28,
     "type": "house",
     "name": "СТРАХА_НЕТ",
-    "owner": "Zenx_Uchiha",
+    "owner": "Nikita_Nikishin",
     "status": "Занято",
     "x": 1028.89,
     "y": 1905.89,
@@ -22368,15 +22368,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 225,
+    "id": 520,
     "server_id": 28,
     "type": "house",
-    "name": "Kasumi",
-    "owner": "Papa_Rimsky",
+    "name": "Santaghajo (2/12)",
+    "owner": "Mario_Interpol",
     "status": "Аукцион",
-    "x": 946.0869,
-    "y": -710.3339,
-    "price": 3000000000,
+    "x": 1596.87,
+    "y": 2093.57,
+    "price": 3000,
     "district": "Сан-Андреас"
   },
   {
