@@ -180,18 +180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 15,
-    "server_id": 14,
-    "type": "house",
-    "name": "EA7 [8]",
-    "owner": "Armani_Exchange",
-    "status": "Занято",
-    "x": 2090.93,
-    "y": -1278.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 16,
     "server_id": 14,
     "type": "house",
@@ -236,18 +224,6 @@
     "status": "Занято",
     "x": 2132.25,
     "y": -1280.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 20,
-    "server_id": 14,
-    "type": "house",
-    "name": "EA7 [7]",
-    "owner": "Armani_Exchange",
-    "status": "Занято",
-    "x": 2150.17,
-    "y": -1286.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22668,18 +22644,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1894,
-    "server_id": 14,
-    "type": "house",
-    "name": "Kenzo",
-    "owner": "Dmitriy_Lazarevich",
-    "status": "Занято",
-    "x": 2473.16,
-    "y": -1417.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1895,
     "server_id": 14,
     "type": "house",
@@ -23697,6 +23661,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 15,
+    "server_id": 14,
+    "type": "house",
+    "name": "EA7 [8]",
+    "owner": "Armani_Exchange",
+    "status": "Аукцион",
+    "x": 2090.93,
+    "y": -1278.01,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 20,
+    "server_id": 14,
+    "type": "house",
+    "name": "EA7 [7]",
+    "owner": "Armani_Exchange",
+    "status": "Аукцион",
+    "x": 2150.17,
+    "y": -1286.35,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1894,
+    "server_id": 14,
+    "type": "house",
+    "name": "Kenzo",
+    "owner": "Dmitriy_Lazarevich",
+    "status": "Аукцион",
+    "x": 2473.16,
+    "y": -1417.44,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27496,7 +27496,7 @@
     "server_id": 14,
     "type": "business",
     "name": "Body Shop",
-    "owner": "Tro_Pic",
+    "owner": "Polina_Vazik",
     "status": "Занято",
     "x": 641.4393,
     "y": -494.824,

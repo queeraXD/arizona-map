@@ -7740,18 +7740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 645,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Niko_Mir",
-    "status": "Занято",
-    "x": 1978.33,
-    "y": 715.1459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 646,
     "server_id": 10,
     "type": "house",
@@ -22152,18 +22140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1847,
-    "server_id": 10,
-    "type": "house",
-    "name": "Monquz2k",
-    "owner": "Monquz2k_Swag",
-    "status": "Занято",
-    "x": 1787.5,
-    "y": 2770.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1848,
     "server_id": 10,
     "type": "house",
@@ -22251,8 +22227,8 @@
     "id": 1855,
     "server_id": 10,
     "type": "house",
-    "name": "Ангел",
-    "owner": "Angel_Khranitel",
+    "name": "nikomiryt",
+    "owner": "Niko_Mir",
     "status": "Занято",
     "x": 1775.01,
     "y": 2870.87,
@@ -22275,7 +22251,7 @@
     "id": 1857,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
+    "name": "nikomiryt",
     "owner": "Niko_Mir",
     "status": "Занято",
     "x": 1748.66,
@@ -22747,18 +22723,6 @@
     "owner": "Dima_Fentyrse",
     "status": "Занято",
     "x": 2627.03,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1897,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Niko_Mir",
-    "status": "Занято",
-    "x": 2617.64,
     "y": 2019.21,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23349,6 +23313,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 645,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Niko_Mir",
+    "status": "Аукцион",
+    "x": 1978.33,
+    "y": 715.1459,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1847,
+    "server_id": 10,
+    "type": "house",
+    "name": "Monquz2k",
+    "owner": "Monquz2k_Swag",
+    "status": "Аукцион",
+    "x": 1787.5,
+    "y": 2770.07,
+    "price": 2000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1897,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Niko_Mir",
+    "status": "Аукцион",
+    "x": 2617.64,
+    "y": 2019.21,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
