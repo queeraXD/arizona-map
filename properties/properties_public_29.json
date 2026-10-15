@@ -7872,6 +7872,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 656,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Niko_Negroni",
+    "status": "Занято",
+    "x": 1978.35,
+    "y": 665.8079,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 657,
     "server_id": 29,
     "type": "house",
@@ -8864,18 +8876,6 @@
     "status": "Занято",
     "x": -2845.31,
     "y": 928.414,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 740,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Niko_Negroni",
-    "status": "Занято",
-    "x": -2840.23,
-    "y": 877.4359,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11052,18 +11052,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 922,
-    "server_id": 29,
-    "type": "house",
-    "name": "poroshok",
-    "owner": "Katsu_Alien",
-    "status": "Занято",
-    "x": -2280.46,
-    "y": 1130.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 923,
     "server_id": 29,
     "type": "house",
@@ -12216,18 +12204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1019,
-    "server_id": 29,
-    "type": "house",
-    "name": "Flow",
-    "owner": "Roma_Flow",
-    "status": "Занято",
-    "x": -2542.09,
-    "y": 967.7059,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1020,
     "server_id": 29,
     "type": "house",
@@ -12236,6 +12212,18 @@
     "status": "Занято",
     "x": -2542.49,
     "y": 942.4849,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1021,
+    "server_id": 29,
+    "type": "house",
+    "name": "Набор архитектора",
+    "owner": "Frederic_Johnson",
+    "status": "Занято",
+    "x": -2511.33,
+    "y": 951.2239,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21120,27 +21108,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 656,
+    "id": 740,
     "server_id": 29,
     "type": "house",
     "name": "Дом",
     "owner": "Niko_Negroni",
     "status": "Аукцион",
-    "x": 1978.35,
-    "y": 665.8079,
-    "price": 350000000,
+    "x": -2840.23,
+    "y": 877.4359,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1021,
+    "id": 922,
     "server_id": 29,
     "type": "house",
-    "name": "Набор архитектора",
-    "owner": "Frederic_Johnson",
+    "name": "poroshok",
+    "owner": "Katsu_Alien",
     "status": "Аукцион",
-    "x": -2511.33,
-    "y": 951.2239,
-    "price": 2000000000,
+    "x": -2280.46,
+    "y": 1130.83,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1019,
+    "server_id": 29,
+    "type": "house",
+    "name": "Flow",
+    "owner": "Roma_Flow",
+    "status": "Аукцион",
+    "x": -2542.09,
+    "y": 967.7059,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

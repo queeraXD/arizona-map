@@ -4140,6 +4140,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 345,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lord_Siemens",
+    "status": "Занято",
+    "x": 1245.81,
+    "y": -902.788,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 346,
     "server_id": 6,
     "type": "house",
@@ -8088,18 +8100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 675,
-    "server_id": 6,
-    "type": "house",
-    "name": "Old Money Club [9]",
-    "owner": "Malou_Mancini",
-    "status": "Занято",
-    "x": 930.306,
-    "y": 2027.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 676,
     "server_id": 6,
     "type": "house",
@@ -11168,18 +11168,6 @@
     "status": "Занято",
     "x": -2168.8,
     "y": 820.596,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 932,
-    "server_id": 6,
-    "type": "house",
-    "name": "агентство насилия",
-    "owner": "Bong_Duyu",
-    "status": "Занято",
-    "x": -2158.71,
-    "y": 830.658,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24516,15 +24504,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 345,
+    "id": 675,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Papa_Rim",
+    "name": "Old Money Club [9]",
+    "owner": "Malou_Mancini",
     "status": "Аукцион",
-    "x": 1245.81,
-    "y": -902.788,
-    "price": 250000000,
+    "x": 930.306,
+    "y": 2027.86,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 932,
+    "server_id": 6,
+    "type": "house",
+    "name": "агентство насилия",
+    "owner": "Bong_Duyu",
+    "status": "Аукцион",
+    "x": -2158.71,
+    "y": 830.658,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 300,
+    "server_id": 6,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Benzo_Hokage",
+    "status": "Аукцион",
+    "x": 1858.639,
+    "y": 2159.243,
+    "price": 245000,
     "district": "Сан-Андреас"
   },
   {
@@ -27224,18 +27236,6 @@
     "status": "Занято",
     "x": 2097.389,
     "y": 2170.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 300,
-    "server_id": 6,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Benzo_Hokage",
-    "status": "Занято",
-    "x": 1858.639,
-    "y": 2159.243,
     "price": 0,
     "district": "Сан-Андреас"
   },

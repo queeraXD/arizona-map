@@ -180,6 +180,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 15,
+    "server_id": 14,
+    "type": "house",
+    "name": "EA7 [8]",
+    "owner": "Armani_Exchange",
+    "status": "Занято",
+    "x": 2090.93,
+    "y": -1278.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 16,
     "server_id": 14,
     "type": "house",
@@ -224,6 +236,18 @@
     "status": "Занято",
     "x": 2132.25,
     "y": -1280.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 20,
+    "server_id": 14,
+    "type": "house",
+    "name": "EA7 [7]",
+    "owner": "Armani_Exchange",
+    "status": "Занято",
+    "x": 2150.17,
+    "y": -1286.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11748,18 +11772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 981,
-    "server_id": 14,
-    "type": "house",
-    "name": "Домчик возле аб <3",
-    "owner": "Tapok_Tapok",
-    "status": "Занято",
-    "x": -2278.81,
-    "y": 787.749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 982,
     "server_id": 14,
     "type": "house",
@@ -20652,18 +20664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1723,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sooo_Ssss",
-    "status": "Занято",
-    "x": 1816.89,
-    "y": -1977.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1724,
     "server_id": 14,
     "type": "house",
@@ -22380,18 +22380,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1872,
-    "server_id": 14,
-    "type": "house",
-    "name": "Домчик ",
-    "owner": "Tapok_Tapok",
-    "status": "Занято",
-    "x": 2473.16,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1873,
     "server_id": 14,
     "type": "house",
@@ -22640,6 +22628,18 @@
     "status": "Занято",
     "x": 2468.42,
     "y": -1424.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1894,
+    "server_id": 14,
+    "type": "house",
+    "name": "Kenzo",
+    "owner": "Dmitriy_Lazarevich",
+    "status": "Занято",
+    "x": 2473.16,
+    "y": -1417.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23664,39 +23664,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 15,
+    "id": 981,
     "server_id": 14,
     "type": "house",
-    "name": "EA7 [8]",
-    "owner": "Armani_Exchange",
+    "name": "Домчик возле аб <3",
+    "owner": "Tapok_Tapok",
     "status": "Аукцион",
-    "x": 2090.93,
-    "y": -1278.01,
-    "price": 2500000000,
+    "x": -2278.81,
+    "y": 787.749,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 20,
+    "id": 1723,
     "server_id": 14,
     "type": "house",
-    "name": "EA7 [7]",
-    "owner": "Armani_Exchange",
+    "name": "Дом",
+    "owner": "Sooo_Ssss",
     "status": "Аукцион",
-    "x": 2150.17,
-    "y": -1286.35,
-    "price": 2500000000,
+    "x": 1816.89,
+    "y": -1977.72,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1894,
+    "id": 1872,
     "server_id": 14,
     "type": "house",
-    "name": "Kenzo",
-    "owner": "Dmitriy_Lazarevich",
+    "name": "Деп условия имеются",
+    "owner": "Tapok_Tapok",
     "status": "Аукцион",
     "x": 2473.16,
-    "y": -1417.44,
-    "price": 400000000,
+    "y": -1391.71,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

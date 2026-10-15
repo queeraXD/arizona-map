@@ -988,7 +988,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "Krokkifkisajio_Star",
+    "owner": "Hate_Luv",
     "status": "Занято",
     "x": 2067.7,
     "y": -1628.84,
@@ -1000,7 +1000,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "Krokkifkisajio_Star",
+    "owner": "Hate_Luv",
     "status": "Занято",
     "x": 2067.56,
     "y": -1643.71,
@@ -1012,7 +1012,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "Krokkifkisajio_Star",
+    "owner": "Hate_Luv",
     "status": "Занято",
     "x": 2066.74,
     "y": -1656.48,
@@ -5156,30 +5156,6 @@
     "status": "Занято",
     "x": 252.173,
     "y": -121.3349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 430,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Занято",
-    "x": 248.332,
-    "y": -33.1693,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 431,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Занято",
-    "x": 253.3269,
-    "y": -22.4484,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15696,18 +15672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1309,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -170.9069,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1310,
     "server_id": 20,
     "type": "house",
@@ -19440,18 +19404,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1621,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2168.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1622,
     "server_id": 20,
     "type": "house",
@@ -21672,18 +21624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1807,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Занято",
-    "x": 2636.28,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1808,
     "server_id": 20,
     "type": "house",
@@ -22356,6 +22296,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 430,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
+    "status": "Аукцион",
+    "x": 248.332,
+    "y": -33.1693,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 431,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
+    "status": "Аукцион",
+    "x": 253.3269,
+    "y": -22.4484,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 760,
     "server_id": 20,
     "type": "house",
@@ -22364,7 +22328,43 @@
     "status": "Аукцион",
     "x": -2726.67,
     "y": 822.992,
-    "price": 500123132,
+    "price": 450123213,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1309,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
+    "status": "Аукцион",
+    "x": -2515.38,
+    "y": -170.9069,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1621,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2168.19,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1807,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
+    "status": "Аукцион",
+    "x": 2636.28,
+    "y": 2019.21,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

@@ -3264,18 +3264,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 273,
-    "server_id": 16,
-    "type": "house",
-    "name": "Alduin_Encantols",
-    "owner": "Alduin_Encanto",
-    "status": "Занято",
-    "x": 2626.07,
-    "y": -1112.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 274,
     "server_id": 16,
     "type": "house",
@@ -6980,18 +6968,6 @@
     "status": "Занято",
     "x": -275.376,
     "y": 2736.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 583,
-    "server_id": 16,
-    "type": "house",
-    "name": "Автогонки",
-    "owner": "Vladimir_Tpaxtenberg",
-    "status": "Занято",
-    "x": -279.3829,
-    "y": 2722.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22461,6 +22437,30 @@
     "x": 1103.34,
     "y": -1092.56,
     "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 273,
+    "server_id": 16,
+    "type": "house",
+    "name": "Alduin_Encantols",
+    "owner": "Alduin_Encanto",
+    "status": "Аукцион",
+    "x": 2626.07,
+    "y": -1112.56,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 583,
+    "server_id": 16,
+    "type": "house",
+    "name": "Автогонки",
+    "owner": "Vladimir_Tpaxtenberg",
+    "status": "Аукцион",
+    "x": -279.3829,
+    "y": 2722.05,
+    "price": 399999999,
     "district": "Сан-Андреас"
   },
   {
