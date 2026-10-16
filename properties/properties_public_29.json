@@ -5256,18 +5256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 438,
-    "server_id": 29,
-    "type": "house",
-    "name": "controlMonopoly",
-    "owner": "Alastor_McQuen",
-    "status": "Занято",
-    "x": 228.067,
-    "y": -1405.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 439,
     "server_id": 29,
     "type": "house",
@@ -7868,6 +7856,18 @@
     "status": "Занято",
     "x": 2013.32,
     "y": 730.669,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 656,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hashiro_Nest",
+    "status": "Занято",
+    "x": 1978.35,
+    "y": 665.8079,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12200,18 +12200,6 @@
     "status": "Занято",
     "x": -2541.3,
     "y": 987.9089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1019,
-    "server_id": 29,
-    "type": "house",
-    "name": "Flow",
-    "owner": "Roma_Flow",
-    "status": "Занято",
-    "x": -2542.09,
-    "y": 967.7059,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21120,15 +21108,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 656,
+    "id": 438,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
-    "owner": "Niko_Negroni",
+    "name": "controlMonopoly",
+    "owner": "Alastor_McQuen",
     "status": "Аукцион",
-    "x": 1978.35,
-    "y": 665.8079,
-    "price": 350000000,
+    "x": 228.067,
+    "y": -1405.5,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21136,11 +21124,23 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Niko_Negroni",
+    "owner": "Swat_Bondovsky",
     "status": "Аукцион",
     "x": -2840.23,
     "y": 877.4359,
-    "price": 450000000,
+    "price": 1100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1019,
+    "server_id": 29,
+    "type": "house",
+    "name": "Flow",
+    "owner": "Roma_Flow",
+    "status": "Аукцион",
+    "x": -2542.09,
+    "y": 967.7059,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

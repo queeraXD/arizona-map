@@ -5664,6 +5664,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 472,
+    "server_id": 1,
+    "type": "house",
+    "name": "Ozne_House",
+    "owner": "Ambassador_Kuni",
+    "status": "Занято",
+    "x": 2369.06,
+    "y": 734.939,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 473,
     "server_id": 1,
     "type": "house",
@@ -11648,18 +11660,6 @@
     "status": "Занято",
     "x": 2540.06,
     "y": 719.5339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 973,
-    "server_id": 1,
-    "type": "house",
-    "name": "ДУМ",
-    "owner": "LEW",
-    "status": "Занято",
-    "x": 2540.06,
-    "y": 713.2239,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23016,18 +23016,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1922,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "LEW",
-    "status": "Занято",
-    "x": 1748.44,
-    "y": 2758.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1923,
     "server_id": 1,
     "type": "house",
@@ -24156,15 +24144,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 472,
+    "id": 973,
     "server_id": 1,
     "type": "house",
-    "name": "$Manhattan$",
-    "owner": "Austin_Manhattan",
+    "name": "ДУМ",
+    "owner": "LEW",
     "status": "Аукцион",
-    "x": 2369.06,
-    "y": 734.939,
-    "price": 2000000000,
+    "x": 2540.06,
+    "y": 713.2239,
+    "price": 1900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1922,
+    "server_id": 1,
+    "type": "house",
+    "name": "Дом",
+    "owner": "LEW",
+    "status": "Аукцион",
+    "x": 1748.44,
+    "y": 2758.69,
+    "price": 1900000000,
     "district": "Сан-Андреас"
   },
   {

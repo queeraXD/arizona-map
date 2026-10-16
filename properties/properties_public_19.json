@@ -2724,6 +2724,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 227,
+    "server_id": 19,
+    "type": "house",
+    "name": "инта/гараж/вентиляция/шкаф",
+    "owner": "Kedroviy_Oreh",
+    "status": "Занято",
+    "x": 1045.07,
+    "y": -642.3309,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 228,
     "server_id": 19,
     "type": "house",
@@ -2840,18 +2852,6 @@
     "status": "Занято",
     "x": 351.729,
     "y": -1197.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 238,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 1095.35,
-    "y": -646.234,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6492,18 +6492,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 542,
-    "server_id": 19,
-    "type": "house",
-    "name": "Extra Family",
-    "owner": "Bynker_Bydko",
-    "status": "Занято",
-    "x": 1969.7,
-    "y": 2663.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 543,
     "server_id": 19,
     "type": "house",
@@ -8104,7 +8092,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Amirchik_Spermodonor",
+    "owner": "Pronik_Vtebya",
     "status": "Занято",
     "x": 885.9299,
     "y": 1980.43,
@@ -8860,7 +8848,7 @@
     "server_id": 19,
     "type": "house",
     "name": "tinker",
-    "owner": "Snikers_Snike",
+    "owner": "Serega_Supreme",
     "status": "Занято",
     "x": -2845.31,
     "y": 928.414,
@@ -20376,18 +20364,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1700,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lui_Wuzzi",
-    "status": "Занято",
-    "x": 2473.11,
-    "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1701,
     "server_id": 19,
     "type": "house",
@@ -22044,15 +22020,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 227,
+    "id": 542,
     "server_id": 19,
     "type": "house",
-    "name": "инта/гараж/вентиляция/шкаф",
-    "owner": "Kedroviy_Oreh",
+    "name": "Extra Family",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1969.7,
+    "y": 2663.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 238,
+    "server_id": 19,
+    "type": "house",
+    "name": "инта/подвал/подвал для майнинга",
+    "owner": "Sos_Krutoy",
     "status": "Аукцион",
-    "x": 1045.07,
-    "y": -642.3309,
-    "price": 4500000000,
+    "x": 1095.35,
+    "y": -646.234,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1700,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lui_Wuzzi",
+    "status": "Аукцион",
+    "x": 2473.11,
+    "y": -1398.81,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {

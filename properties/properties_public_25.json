@@ -11872,7 +11872,7 @@
     "server_id": 25,
     "type": "house",
     "name": "NightWolves",
-    "owner": "Golub_NaKapte",
+    "owner": "Kyle_Requiem",
     "status": "Занято",
     "x": 2556.37,
     "y": 87.7666,
@@ -15740,30 +15740,6 @@
     "status": "Занято",
     "x": -65.1806,
     "y": -1573.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1313,
-    "server_id": 25,
-    "type": "house",
-    "name": "Rubio",
-    "owner": "Golub_NaKapte",
-    "status": "Занято",
-    "x": -76.1399,
-    "y": -1581.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1314,
-    "server_id": 25,
-    "type": "house",
-    "name": "Rubio",
-    "owner": "Golub_NaKapte",
-    "status": "Занято",
-    "x": -91.1687,
-    "y": -1592.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20448,18 +20424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1705,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Cer",
-    "status": "Занято",
-    "x": 2541.53,
-    "y": 1212.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1706,
     "server_id": 25,
     "type": "house",
@@ -22176,18 +22140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1851,
-    "server_id": 25,
-    "type": "house",
-    "name": "Dony Team",
-    "owner": "Dony_Dargo",
-    "status": "Занято",
-    "x": 2487.34,
-    "y": -1410.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1852,
     "server_id": 25,
     "type": "house",
@@ -23769,6 +23721,54 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1313,
+    "server_id": 25,
+    "type": "house",
+    "name": "Rubio",
+    "owner": "Golub_NaKapte",
+    "status": "Аукцион",
+    "x": -76.1399,
+    "y": -1581.11,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1314,
+    "server_id": 25,
+    "type": "house",
+    "name": "Rubio",
+    "owner": "Golub_NaKapte",
+    "status": "Аукцион",
+    "x": -91.1687,
+    "y": -1592.65,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1705,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Cer",
+    "status": "Аукцион",
+    "x": 2541.53,
+    "y": 1212.77,
+    "price": 250123456,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1851,
+    "server_id": 25,
+    "type": "house",
+    "name": "Dony Team",
+    "owner": "Dony_Dargo",
+    "status": "Аукцион",
+    "x": 2487.34,
+    "y": -1410.34,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
