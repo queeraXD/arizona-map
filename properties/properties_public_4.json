@@ -4560,6 +4560,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 380,
+    "server_id": 4,
+    "type": "house",
+    "name": "$-ESCOBAR-$",
+    "owner": "Santero_Escobar",
+    "status": "Занято",
+    "x": 2249.24,
+    "y": 111.165,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 381,
     "server_id": 4,
     "type": "house",
@@ -16920,18 +16932,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1412,
-    "server_id": 4,
-    "type": "house",
-    "name": "Song_Beerov",
-    "owner": "[17]Jackson_Sparks",
-    "status": "Занято",
-    "x": 2438.74,
-    "y": -1105.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1413,
     "server_id": 4,
     "type": "house",
@@ -25248,27 +25248,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 380,
+    "id": 1412,
     "server_id": 4,
     "type": "house",
-    "name": "$-ESCOBAR-$",
-    "owner": "Santero_Escobar",
+    "name": "Автогонки",
+    "owner": "[17]Jackson_Sparks",
     "status": "Аукцион",
-    "x": 2249.24,
-    "y": 111.165,
-    "price": 4000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 57,
-    "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ramil_Orlov",
-    "status": "Аукцион",
-    "x": 2085.84,
-    "y": 2486.25,
-    "price": 222222,
+    "x": 2438.74,
+    "y": -1105.79,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27488,6 +27476,18 @@
     "status": "Занято",
     "x": 1671.52,
     "y": 1814.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
+    "server_id": 4,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ramil_Orlov",
+    "status": "Занято",
+    "x": 2085.84,
+    "y": 2486.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
