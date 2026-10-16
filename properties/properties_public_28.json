@@ -2704,7 +2704,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Kasumi",
-    "owner": "Papa_Rimsky",
+    "owner": "Sam_Frolov",
     "status": "Занято",
     "x": 946.0869,
     "y": -710.3339,
@@ -7340,18 +7340,6 @@
     "status": "Занято",
     "x": -828.8829,
     "y": 1604.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 612,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом людей более № 4",
-    "owner": "Gister_Sparazza",
-    "status": "Занято",
-    "x": -830.166,
-    "y": 1589.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19980,18 +19968,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1667,
-    "server_id": 28,
-    "type": "house",
-    "name": "Kentuki Village №3",
-    "owner": "Gister_Sparazza",
-    "status": "Занято",
-    "x": -789.7039,
-    "y": 2763.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1668,
     "server_id": 28,
     "type": "house",
@@ -20503,18 +20479,6 @@
     "owner": "German_Toterm",
     "status": "Занято",
     "x": 2445.16,
-    "y": 1003.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1711,
-    "server_id": 28,
-    "type": "house",
-    "name": "[$] Ферма 7 LVL [$]",
-    "owner": "Gister_Sparazza",
-    "status": "Занято",
-    "x": 2455.93,
     "y": 1003.58,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22368,6 +22332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 612,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом людей более № 4",
+    "owner": "Gister_Sparazza",
+    "status": "Аукцион",
+    "x": -830.166,
+    "y": 1589.46,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1479,
     "server_id": 28,
     "type": "house",
@@ -22377,6 +22353,42 @@
     "x": -2358.48,
     "y": 244.4989,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1667,
+    "server_id": 28,
+    "type": "house",
+    "name": "Kentuki Village №3",
+    "owner": "Gister_Sparazza",
+    "status": "Аукцион",
+    "x": -789.7039,
+    "y": 2763.76,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1711,
+    "server_id": 28,
+    "type": "house",
+    "name": "[$] Ферма 7 LVL [$]",
+    "owner": "Gister_Sparazza",
+    "status": "Аукцион",
+    "x": 2455.93,
+    "y": 1003.58,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 109,
+    "server_id": 28,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Kedroviy_Oreh",
+    "status": "Аукцион",
+    "x": -2356.45,
+    "y": 1008.19,
+    "price": 6500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22768,7 +22780,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Бар",
-    "owner": "Maximus_Soprano",
+    "owner": "Kenni_Ackerman",
     "status": "Занято",
     "x": 681.561,
     "y": -473.347,
@@ -24200,18 +24212,6 @@
     "status": "Занято",
     "x": -1721.53,
     "y": 1359.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 109,
-    "server_id": 28,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": -2356.45,
-    "y": 1008.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

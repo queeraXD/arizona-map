@@ -3435,7 +3435,7 @@
     "id": 286,
     "server_id": 32,
     "type": "house",
-    "name": "Особняк имени Джонсонов",
+    "name": "Дом",
     "owner": "Dwayne_Jonhson",
     "status": "Занято",
     "x": 2259.37,
@@ -13560,18 +13560,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1134,
-    "server_id": 32,
-    "type": "house",
-    "name": "Pitbull House",
-    "owner": "Pitbull_Diass",
-    "status": "Занято",
-    "x": 276.325,
-    "y": -1620.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1135,
     "server_id": 32,
     "type": "house",
@@ -21844,7 +21832,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Robert_Krivotrakher",
+    "owner": "Nasral_Vplov",
     "status": "Занято",
     "x": 2626.59,
     "y": 1968.83,
@@ -22524,15 +22512,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 209,
+    "id": 1134,
     "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Artix_Shurupov",
+    "type": "house",
+    "name": "Pitbull House",
+    "owner": "Pitbull_Diass",
     "status": "Аукцион",
-    "x": 1976.18,
-    "y": -1980.19,
-    "price": 10000000000,
+    "x": 276.325,
+    "y": -1620.47,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25676,6 +25664,18 @@
     "status": "Занято",
     "x": 194.751,
     "y": -273.823,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 209,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Artix_Shurupov",
+    "status": "Занято",
+    "x": 1976.18,
+    "y": -1980.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
