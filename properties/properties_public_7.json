@@ -660,18 +660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 55,
-    "server_id": 7,
-    "type": "house",
-    "name": ":uF21b:BUMS:uF21b:",
-    "owner": "Rin_Carter",
-    "status": "Занято",
-    "x": 2148.05,
-    "y": -1433.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 56,
     "server_id": 7,
     "type": "house",
@@ -3356,18 +3344,6 @@
     "status": "Занято",
     "x": 2194.16,
     "y": -1000.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 280,
-    "server_id": 7,
-    "type": "house",
-    "name": "Сарай Анскилла",
-    "owner": "Unskill_Smesharic",
-    "status": "Занято",
-    "x": 2413.57,
-    "y": 61.4468,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6324,6 +6300,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 527,
+    "server_id": 7,
+    "type": "house",
+    "name": "Dream House",
+    "owner": "Milana_MacLeod",
+    "status": "Занято",
+    "x": 2039.57,
+    "y": 2766.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 528,
     "server_id": 7,
     "type": "house",
@@ -6452,18 +6440,6 @@
     "status": "Занято",
     "x": 2056.57,
     "y": 2664.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 539,
-    "server_id": 7,
-    "type": "house",
-    "name": "Буль Буль",
-    "owner": "Robert_Pluhov",
-    "status": "Занято",
-    "x": 2037.05,
-    "y": 2663.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11391,7 +11367,7 @@
     "id": 950,
     "server_id": 7,
     "type": "house",
-    "name": "MATEW1S",
+    "name": "Дом",
     "owner": "Kreo_Beloved",
     "status": "Занято",
     "x": -2239.12,
@@ -25512,15 +25488,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 527,
+    "id": 55,
     "server_id": 7,
     "type": "house",
-    "name": "Dream House",
-    "owner": "Milana_MacLeod",
+    "name": ":uF21b:BUMS:uF21b:",
+    "owner": "Rin_Carter",
     "status": "Аукцион",
-    "x": 2039.57,
-    "y": 2766.53,
+    "x": 2148.05,
+    "y": -1433.73,
     "price": 8000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 280,
+    "server_id": 7,
+    "type": "house",
+    "name": "Сарай Анскилла",
+    "owner": "Unskill_Smesharic",
+    "status": "Аукцион",
+    "x": 2413.57,
+    "y": 61.4468,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 539,
+    "server_id": 7,
+    "type": "house",
+    "name": "Буль Буль",
+    "owner": "Robert_Pluhov",
+    "status": "Аукцион",
+    "x": 2037.05,
+    "y": 2663.99,
+    "price": 5200000000,
     "district": "Сан-Андреас"
   },
   {
