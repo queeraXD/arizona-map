@@ -8400,18 +8400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 700,
-    "server_id": 12,
-    "type": "house",
-    "name": "yarik house",
-    "owner": "Ilya_Soligorskiy",
-    "status": "Занято",
-    "x": 1441.62,
-    "y": 2567.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 701,
     "server_id": 12,
     "type": "house",
@@ -11072,18 +11060,6 @@
     "status": "Занято",
     "x": -2280.46,
     "y": 1130.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 923,
-    "server_id": 12,
-    "type": "house",
-    "name": "Мой домик",
-    "owner": "Ilya_Soligorskiy",
-    "status": "Занято",
-    "x": -2239.14,
-    "y": 1154.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22636,7 +22612,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Дом",
-    "owner": "Tania_Garikova",
+    "owner": "Kirill_Garikov",
     "status": "Занято",
     "x": 1727.93,
     "y": 2834.79,
@@ -23673,6 +23649,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 700,
+    "server_id": 12,
+    "type": "house",
+    "name": "yarik house",
+    "owner": "Ilya_Soligorskiy",
+    "status": "Аукцион",
+    "x": 1441.62,
+    "y": 2567.8,
+    "price": 5000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 923,
+    "server_id": 12,
+    "type": "house",
+    "name": "Мой домик",
+    "owner": "Ilya_Soligorskiy",
+    "status": "Аукцион",
+    "x": -2239.14,
+    "y": 1154.01,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {

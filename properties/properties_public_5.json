@@ -18447,7 +18447,7 @@
     "id": 1537,
     "server_id": 5,
     "type": "house",
-    "name": "Метаморфоз",
+    "name": "БУДУЩИЙ ВЗлеТ",
     "owner": "Tarakan_Chanse",
     "status": "Занято",
     "x": 2519.03,
@@ -20216,6 +20216,18 @@
     "status": "Занято",
     "x": 1112.2,
     "y": -1575.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1685,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ruslan_White",
+    "status": "Занято",
+    "x": 1110.53,
+    "y": -1578.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24444,11 +24456,23 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2042,
+    "server_id": 5,
+    "type": "house",
+    "name": "permafrost monopoly",
+    "owner": "Bishop_SaintLouis",
+    "status": "Занято",
+    "x": 2549.1,
+    "y": 2203.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 2043,
     "server_id": 5,
     "type": "house",
     "name": "permafrost monopoly",
-    "owner": "Riveria_Ljosalf",
+    "owner": "Bishop_SaintLouis",
     "status": "Занято",
     "x": 2556.39,
     "y": 2203.05,
@@ -25020,18 +25044,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1685,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ruslan_White",
-    "status": "Аукцион",
-    "x": 1110.53,
-    "y": -1578.45,
-    "price": 60000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2010,
     "server_id": 5,
     "type": "house",
@@ -25076,18 +25088,6 @@
     "status": "Аукцион",
     "x": 2591.62,
     "y": 2180.54,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2042,
-    "server_id": 5,
-    "type": "house",
-    "name": "permafrost monopoly",
-    "owner": "Riveria_Ljosalf",
-    "status": "Аукцион",
-    "x": 2549.1,
-    "y": 2203.06,
     "price": 500000000,
     "district": "Сан-Андреас"
   },

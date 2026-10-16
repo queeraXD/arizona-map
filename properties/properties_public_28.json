@@ -9444,18 +9444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 787,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kairo_Suzuya",
-    "status": "Занято",
-    "x": -2543.58,
-    "y": 922.2329,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 788,
     "server_id": 28,
     "type": "house",
@@ -22356,6 +22344,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 787,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kairo_Suzuya",
+    "status": "Аукцион",
+    "x": -2543.58,
+    "y": 922.2329,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1479,
     "server_id": 28,
     "type": "house",
@@ -22380,6 +22380,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1,
+    "server_id": 28,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Aminio_Cut",
+    "status": "Аукцион",
+    "x": 2333.5,
+    "y": 61.624,
+    "price": 280000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 109,
+    "server_id": 28,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Kedroviy_Oreh",
+    "status": "Аукцион",
+    "x": -2356.45,
+    "y": 1008.19,
+    "price": 6500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 28,
     "type": "business",
@@ -22388,18 +22412,6 @@
     "status": "Занято",
     "x": 1368.77,
     "y": -1279.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1,
-    "server_id": 28,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Aminio_Cut",
-    "status": "Занято",
-    "x": 2333.5,
-    "y": 61.624,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23212,7 +23224,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Tony_Soprano",
+    "owner": "Maximus_Soprano",
     "status": "Занято",
     "x": -2479.24,
     "y": 2317.84,
@@ -24076,7 +24088,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Travis_Viper",
+    "owner": "Mark_Bank",
     "status": "Занято",
     "x": 172.348,
     "y": 1177.63,
@@ -24200,18 +24212,6 @@
     "status": "Занято",
     "x": -1721.53,
     "y": 1359.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 109,
-    "server_id": 28,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": -2356.45,
-    "y": 1008.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24544,7 +24544,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Travis_Viper",
+    "owner": "Mark_Bank",
     "status": "Занято",
     "x": -2257.681,
     "y": 2278.016,

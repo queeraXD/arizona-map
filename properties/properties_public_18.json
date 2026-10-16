@@ -7764,18 +7764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 647,
-    "server_id": 18,
-    "type": "house",
-    "name": "дом Марата",
-    "owner": "Marat_Yarullin",
-    "status": "Занято",
-    "x": 2450.15,
-    "y": 742.632,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 648,
     "server_id": 18,
     "type": "house",
@@ -11904,6 +11892,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 993,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Silent_Raven",
+    "status": "Занято",
+    "x": -2551.78,
+    "y": 2267.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 994,
     "server_id": 18,
     "type": "house",
@@ -12932,18 +12932,6 @@
     "status": "Занято",
     "x": -2884.2,
     "y": 995.635,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1080,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Orlando_Rampage",
-    "status": "Занято",
-    "x": -2876.04,
-    "y": 980.9829,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14608,7 +14596,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Teller",
-    "owner": "Matthew_Teller",
+    "owner": "Nikita_Kovtun",
     "status": "Занято",
     "x": -2572.91,
     "y": 1155.03,
@@ -15160,7 +15148,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Orlando_Rampage",
+    "owner": "Ksunya_Kane",
     "status": "Занято",
     "x": -2320.15,
     "y": 580.036,
@@ -22188,15 +22176,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 993,
+    "id": 647,
+    "server_id": 18,
+    "type": "house",
+    "name": "дом Марата",
+    "owner": "Marat_Yarullin",
+    "status": "Аукцион",
+    "x": 2450.15,
+    "y": 742.632,
+    "price": 4300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1080,
     "server_id": 18,
     "type": "house",
     "name": "Дом",
     "owner": "Orlando_Rampage",
     "status": "Аукцион",
-    "x": -2551.78,
-    "y": 2267.08,
-    "price": 3500000000,
+    "x": -2876.04,
+    "y": 980.9829,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24172,7 +24172,7 @@
     "server_id": 18,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Anastas_Balush",
+    "owner": "Malik_Rampage",
     "status": "Занято",
     "x": 1157.92,
     "y": 2072.27,

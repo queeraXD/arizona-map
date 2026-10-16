@@ -3324,30 +3324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 277,
-    "server_id": 29,
-    "type": "house",
-    "name": "Домик Анюты",
-    "owner": "Antika_Vialpando",
-    "status": "Занято",
-    "x": 2549.37,
-    "y": -1032.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 278,
-    "server_id": 29,
-    "type": "house",
-    "name": "Домик Анюты",
-    "owner": "Antika_Vialpando",
-    "status": "Занято",
-    "x": 2526.83,
-    "y": -1033.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 279,
     "server_id": 29,
     "type": "house",
@@ -3408,18 +3384,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 284,
-    "server_id": 29,
-    "type": "house",
-    "name": "Домик Анюты",
-    "owner": "Antika_Vialpando",
-    "status": "Занято",
-    "x": 2462.37,
-    "y": -1011.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 285,
     "server_id": 29,
     "type": "house",
@@ -3452,18 +3416,6 @@
     "status": "Занято",
     "x": 2491.35,
     "y": -1012.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 288,
-    "server_id": 29,
-    "type": "house",
-    "name": "Домик Анюты",
-    "owner": "Antika_Vialpando",
-    "status": "Занято",
-    "x": 2512.81,
-    "y": -1027.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5252,6 +5204,18 @@
     "status": "Занято",
     "x": 2801.93,
     "y": -1936.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 438,
+    "server_id": 29,
+    "type": "house",
+    "name": "controlMonopoly",
+    "owner": "Alastor_McQuen",
+    "status": "Занято",
+    "x": 228.067,
+    "y": -1405.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8868,6 +8832,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 740,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Swat_Bondovsky",
+    "status": "Занято",
+    "x": -2840.23,
+    "y": 877.4359,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 741,
     "server_id": 29,
     "type": "house",
@@ -12200,6 +12176,18 @@
     "status": "Занято",
     "x": -2541.3,
     "y": 987.9089,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1019,
+    "server_id": 29,
+    "type": "house",
+    "name": "Flow",
+    "owner": "Prince_Cortez",
+    "status": "Занято",
+    "x": -2542.09,
+    "y": 967.7059,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18531,8 +18519,8 @@
     "id": 1548,
     "server_id": 29,
     "type": "house",
-    "name": "control Monopoly",
-    "owner": "Alastor_McQuen",
+    "name": "pes fam",
+    "owner": "Ne_Volnuyet",
     "status": "Занято",
     "x": 2792.8,
     "y": -1087.5,
@@ -21108,39 +21096,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 438,
+    "id": 277,
     "server_id": 29,
     "type": "house",
-    "name": "controlMonopoly",
-    "owner": "Alastor_McQuen",
+    "name": "Домик Анюты",
+    "owner": "Antika_Vialpando",
     "status": "Аукцион",
-    "x": 228.067,
-    "y": -1405.5,
-    "price": 10000000000,
+    "x": 2549.37,
+    "y": -1032.24,
+    "price": 550000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 740,
+    "id": 278,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
-    "owner": "Swat_Bondovsky",
+    "name": "Домик Анюты",
+    "owner": "Antika_Vialpando",
     "status": "Аукцион",
-    "x": -2840.23,
-    "y": 877.4359,
-    "price": 1100000000,
+    "x": 2526.83,
+    "y": -1033.53,
+    "price": 550000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1019,
+    "id": 284,
     "server_id": 29,
     "type": "house",
-    "name": "Flow",
-    "owner": "Roma_Flow",
+    "name": "Домик Анюты",
+    "owner": "Antika_Vialpando",
     "status": "Аукцион",
-    "x": -2542.09,
-    "y": 967.7059,
-    "price": 500000000,
+    "x": 2462.37,
+    "y": -1011.12,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 288,
+    "server_id": 29,
+    "type": "house",
+    "name": "Домик Анюты",
+    "owner": "Antika_Vialpando",
+    "status": "Аукцион",
+    "x": 2512.81,
+    "y": -1027.56,
+    "price": 550000000,
     "district": "Сан-Андреас"
   },
   {

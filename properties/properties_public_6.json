@@ -21136,7 +21136,7 @@
     "server_id": 6,
     "type": "house",
     "name": "McLovin Family",
-    "owner": "Brain_McLovin",
+    "owner": "Giovanni_Conti",
     "status": "Занято",
     "x": 2492.1,
     "y": -1424.58,
@@ -21751,6 +21751,18 @@
     "owner": "Brain_McLovin",
     "status": "Занято",
     "x": 2468.32,
+    "y": -1376.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1813,
+    "server_id": 6,
+    "type": "house",
+    "name": "McLovin Family",
+    "owner": "Brain_McLovin",
+    "status": "Занято",
+    "x": 2476.24,
     "y": -1376.27,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22536,18 +22548,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1881,
-    "server_id": 6,
-    "type": "house",
-    "name": "Sunfote empire>",
-    "owner": "Effect_Colibry",
-    "status": "Занято",
-    "x": 1786.53,
-    "y": 2867.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1882,
     "server_id": 6,
     "type": "house",
@@ -22827,8 +22827,8 @@
     "id": 1905,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Alexsandr_Zvyagincev",
+    "name": "Майнинг 10 лвл",
+    "owner": "Nevermore_Faithblade",
     "status": "Занято",
     "x": 1740.84,
     "y": 2863.26,
@@ -23832,18 +23832,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1989,
-    "server_id": 6,
-    "type": "house",
-    "name": "ЦариЛудоманы",
-    "owner": "Midnight_Morphine",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2180.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1990,
     "server_id": 6,
     "type": "house",
@@ -24516,15 +24504,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1813,
+    "id": 1881,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
+    "name": "Sunfote empire>",
+    "owner": "Effect_Colibry",
     "status": "Аукцион",
-    "x": 2476.24,
-    "y": -1376.27,
-    "price": 10000000,
+    "x": 1786.53,
+    "y": 2867.71,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1989,
+    "server_id": 6,
+    "type": "house",
+    "name": "ЦариЛудоманы",
+    "owner": "Midnight_Morphine",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2180.71,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
