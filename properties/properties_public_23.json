@@ -4608,6 +4608,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 385,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "KTO",
+    "status": "Занято",
+    "x": 2363.19,
+    "y": 187.2169,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 388,
     "server_id": 23,
     "type": "house",
@@ -21084,18 +21096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 385,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "KTO",
-    "status": "Аукцион",
-    "x": 2363.19,
-    "y": 187.2169,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 386,
     "server_id": 23,
     "type": "house",
@@ -21165,78 +21165,6 @@
     "x": 1575.88,
     "y": 2844.16,
     "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 123,
-    "server_id": 23,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "WebCam_Tank",
-    "status": "Аукцион",
-    "x": -2579.43,
-    "y": 310.085,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 124,
-    "server_id": 23,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "WebCam_Tank",
-    "status": "Аукцион",
-    "x": -2455.77,
-    "y": 799.522,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 191,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "WebCam_Tank",
-    "status": "Аукцион",
-    "x": 1143.17,
-    "y": -1473.83,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 192,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "WebCam_Tank",
-    "status": "Аукцион",
-    "x": 1136.97,
-    "y": -1456.62,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 196,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "WebCam_Tank",
-    "status": "Аукцион",
-    "x": -2681.61,
-    "y": 583.93,
-    "price": 8000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 460,
-    "server_id": 23,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "WebCam_Tank",
-    "status": "Аукцион",
-    "x": 1586.208,
-    "y": -1394.485,
-    "price": 210000,
     "district": "Сан-Андреас"
   },
   {
@@ -23496,6 +23424,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 123,
+    "server_id": 23,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "WebCam_Tank",
+    "status": "Занято",
+    "x": -2579.43,
+    "y": 310.085,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 124,
+    "server_id": 23,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "WebCam_Tank",
+    "status": "Занято",
+    "x": -2455.77,
+    "y": 799.522,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 125,
     "server_id": 23,
     "type": "business",
@@ -23516,6 +23468,18 @@
     "status": "Занято",
     "x": 1864.59,
     "y": -1393.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 460,
+    "server_id": 23,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "WebCam_Tank",
+    "status": "Занято",
+    "x": 1586.208,
+    "y": -1394.485,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24132,6 +24096,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 191,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "WebCam_Tank",
+    "status": "Занято",
+    "x": 1143.17,
+    "y": -1473.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 192,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "WebCam_Tank",
+    "status": "Занято",
+    "x": 1136.97,
+    "y": -1456.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 193,
     "server_id": 23,
     "type": "business",
@@ -24164,6 +24152,18 @@
     "status": "Занято",
     "x": -1548.81,
     "y": 673.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 196,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "WebCam_Tank",
+    "status": "Занято",
+    "x": -2681.61,
+    "y": 583.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
