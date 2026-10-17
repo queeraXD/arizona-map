@@ -612,18 +612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 51,
-    "server_id": 30,
-    "type": "house",
-    "name": "майнинг",
-    "owner": "Kik_Men",
-    "status": "Занято",
-    "x": 2190.32,
-    "y": -1487.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 52,
     "server_id": 30,
     "type": "house",
@@ -10012,7 +10000,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Mike AND Gru",
-    "owner": "Mike_Mouse",
+    "owner": "Mike_NeTyson",
     "status": "Занято",
     "x": -2281.59,
     "y": 873.2329,
@@ -12800,18 +12788,6 @@
     "status": "Занято",
     "x": 2247.5,
     "y": -1470.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1068,
-    "server_id": 30,
-    "type": "house",
-    "name": ":sell: call 402",
-    "owner": "Al_Pacino",
-    "status": "Занято",
-    "x": 2263.93,
-    "y": -1469.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16136,18 +16112,6 @@
     "status": "Занято",
     "x": 1564.61,
     "y": 2565.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1346,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "DThang_Monarch",
-    "status": "Занято",
-    "x": 1551.52,
-    "y": 2567.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22752,6 +22716,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 51,
+    "server_id": 30,
+    "type": "house",
+    "name": "майнинг",
+    "owner": "Kik_Men",
+    "status": "Аукцион",
+    "x": 2190.32,
+    "y": -1487.64,
+    "price": 2900000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 423,
     "server_id": 30,
     "type": "house",
@@ -22761,6 +22737,30 @@
     "x": 1316.66,
     "y": 179.7579,
     "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1068,
+    "server_id": 30,
+    "type": "house",
+    "name": ":sell: call 402",
+    "owner": "Al_Pacino",
+    "status": "Аукцион",
+    "x": 2263.93,
+    "y": -1469.55,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1346,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "DThang_Monarch",
+    "status": "Аукцион",
+    "x": 1551.52,
+    "y": 2567.55,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {

@@ -15256,7 +15256,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Perignon <З",
-    "owner": "Major_Oushen",
+    "owner": "Brus_Walker",
     "status": "Занято",
     "x": -2689.53,
     "y": 74.5092,
@@ -16112,18 +16112,6 @@
     "status": "Занято",
     "x": 1513.34,
     "y": 2565.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1348,
-    "server_id": 23,
-    "type": "house",
-    "name": "с набором архитектора и деп ",
-    "owner": "Goha_Stepanov",
-    "status": "Занято",
-    "x": 1515.98,
-    "y": 2610.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17816,6 +17804,18 @@
     "status": "Занято",
     "x": 981.6199,
     "y": 2214.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1490,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Guba",
+    "status": "Занято",
+    "x": 885.901,
+    "y": 1953.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21144,15 +21144,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1490,
+    "id": 1348,
     "server_id": 23,
     "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Guba",
+    "name": "с набором архитектора и деп ",
+    "owner": "Goha_Stepanov",
     "status": "Аукцион",
-    "x": 885.901,
-    "y": 1953.21,
-    "price": 599999999,
+    "x": 1515.98,
+    "y": 2610.18,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21165,18 +21165,6 @@
     "x": -2843.69,
     "y": -2269.19,
     "price": 520000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 49,
-    "server_id": 23,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "William_McDaniel",
-    "status": "Аукцион",
-    "x": 2045.05,
-    "y": -1908.03,
-    "price": 9000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21201,18 +21189,6 @@
     "x": -2174.971,
     "y": -29.964,
     "price": 270000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 250,
-    "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "William_McDaniel",
-    "status": "Аукцион",
-    "x": 2170.48,
-    "y": 542.934,
-    "price": 7000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22644,6 +22620,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 250,
+    "server_id": 23,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "William_McDaniel",
+    "status": "Занято",
+    "x": 2170.48,
+    "y": 542.934,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 251,
     "server_id": 23,
     "type": "business",
@@ -22868,6 +22856,18 @@
     "status": "Занято",
     "x": 1567.98,
     "y": -1897.55,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 49,
+    "server_id": 23,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "William_McDaniel",
+    "status": "Занято",
+    "x": 2045.05,
+    "y": -1908.03,
     "price": 0,
     "district": "Сан-Андреас"
   },

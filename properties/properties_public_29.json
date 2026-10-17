@@ -3336,6 +3336,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 278,
+    "server_id": 29,
+    "type": "house",
+    "name": "Домик Анюты",
+    "owner": "Itachi_Gallagher",
+    "status": "Занято",
+    "x": 2526.83,
+    "y": -1033.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 279,
     "server_id": 29,
     "type": "house",
@@ -3440,6 +3452,18 @@
     "status": "Занято",
     "x": 2491.35,
     "y": -1012.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 288,
+    "server_id": 29,
+    "type": "house",
+    "name": "Домик Анюты",
+    "owner": "Itachi_Gallagher",
+    "status": "Занято",
+    "x": 2512.81,
+    "y": -1027.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8520,6 +8544,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 712,
+    "server_id": 29,
+    "type": "house",
+    "name": "Блядишник",
+    "owner": "Bunny_Guant",
+    "status": "Занято",
+    "x": 1573.09,
+    "y": 2658.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 713,
     "server_id": 29,
     "type": "house",
@@ -12212,6 +12248,18 @@
     "status": "Занято",
     "x": -2542.49,
     "y": 942.4849,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1021,
+    "server_id": 29,
+    "type": "house",
+    "name": "Набор архитектора",
+    "owner": "Frederic_Johnson",
+    "status": "Занято",
+    "x": -2511.33,
+    "y": 951.2239,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17256,18 +17304,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1443,
-    "server_id": 29,
-    "type": "house",
-    "name": "<3Golden House<3",
-    "owner": "Gennadiy_Spekter",
-    "status": "Занято",
-    "x": 688.802,
-    "y": 1276.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1444,
     "server_id": 29,
     "type": "house",
@@ -21072,51 +21108,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 278,
+    "id": 1443,
     "server_id": 29,
     "type": "house",
-    "name": "Домик Анюты",
-    "owner": "Itachi_Gallagher",
+    "name": "<3Golden House<3",
+    "owner": "Gennadiy_Spekter",
     "status": "Аукцион",
-    "x": 2526.83,
-    "y": -1033.53,
-    "price": 900000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 288,
-    "server_id": 29,
-    "type": "house",
-    "name": "Домик Анюты",
-    "owner": "Itachi_Gallagher",
-    "status": "Аукцион",
-    "x": 2512.81,
-    "y": -1027.56,
-    "price": 900000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 712,
-    "server_id": 29,
-    "type": "house",
-    "name": "Блядишник",
-    "owner": "Magomed_Forbes",
-    "status": "Аукцион",
-    "x": 1573.09,
-    "y": 2658.39,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1021,
-    "server_id": 29,
-    "type": "house",
-    "name": "Набор архитектора",
-    "owner": "Frederic_Johnson",
-    "status": "Аукцион",
-    "x": -2511.33,
-    "y": 951.2239,
-    "price": 1800000000,
+    "x": 688.802,
+    "y": 1276.88,
+    "price": 550000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21128,7 +21128,7 @@
     "status": "Аукцион",
     "x": 1382.15,
     "y": -1088.85,
-    "price": 850000,
+    "price": 800000,
     "district": "Сан-Андреас"
   },
   {
@@ -21144,15 +21144,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 180,
+    "id": 3,
     "server_id": 29,
     "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Vova_BabyTron",
+    "name": "Бар",
+    "owner": "Ralder_Moon",
     "status": "Аукцион",
-    "x": -63.12,
-    "y": 1208.9,
-    "price": 365000,
+    "x": 2421.52,
+    "y": -1219.25,
+    "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 52,
+    "server_id": 29,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ralder_Moon",
+    "status": "Аукцион",
+    "x": -2257.681,
+    "y": 2278.016,
+    "price": 220000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 169,
+    "server_id": 29,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Ralder_Moon",
+    "status": "Аукцион",
+    "x": 2331.81,
+    "y": 75.087,
+    "price": 220000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 170,
+    "server_id": 29,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Ralder_Moon",
+    "status": "Аукцион",
+    "x": 1157.92,
+    "y": 2072.27,
+    "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 250,
+    "server_id": 29,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Ralder_Moon",
+    "status": "Аукцион",
+    "x": 2170.48,
+    "y": 542.934,
+    "price": 110000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 260,
+    "server_id": 29,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Ralder_Moon",
+    "status": "Аукцион",
+    "x": 1020.4,
+    "y": -1844.78,
+    "price": 220000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 271,
+    "server_id": 29,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Ralder_Moon",
+    "status": "Аукцион",
+    "x": -1912.17,
+    "y": 827.954,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -21344,18 +21416,6 @@
     "status": "Занято",
     "x": 776.731,
     "y": 1871.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 3,
-    "server_id": 29,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Ralder_Moon",
-    "status": "Занято",
-    "x": 2421.52,
-    "y": -1219.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21592,7 +21652,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Ralder_Moon",
+    "owner": "Pharaon_Monopoly",
     "status": "Занято",
     "x": 1315.5,
     "y": -898.048,
@@ -22024,7 +22084,7 @@
     "server_id": 29,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Jons_Taffanel",
+    "owner": "Blatnoy_Monopoly",
     "status": "Занято",
     "x": 2820.58,
     "y": -1602.87,
@@ -22572,18 +22632,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 250,
-    "server_id": 29,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Ralder_Moon",
-    "status": "Занято",
-    "x": 2170.48,
-    "y": 542.934,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 251,
     "server_id": 29,
     "type": "business",
@@ -23100,30 +23148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 169,
-    "server_id": 29,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ralder_Moon",
-    "status": "Занято",
-    "x": 2331.81,
-    "y": 75.087,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 170,
-    "server_id": 29,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ralder_Moon",
-    "status": "Занято",
-    "x": 1157.92,
-    "y": 2072.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 171,
     "server_id": 29,
     "type": "business",
@@ -23160,18 +23184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 260,
-    "server_id": 29,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ralder_Moon",
-    "status": "Занято",
-    "x": 1020.4,
-    "y": -1844.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 270,
     "server_id": 29,
     "type": "business",
@@ -23180,18 +23192,6 @@
     "status": "Занято",
     "x": -53.8409,
     "y": 1189.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 271,
-    "server_id": 29,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ralder_Moon",
-    "status": "Занято",
-    "x": -1912.17,
-    "y": 827.954,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23312,18 +23312,6 @@
     "status": "Занято",
     "x": 1957.1,
     "y": -2183.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 52,
-    "server_id": 29,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ralder_Moon",
-    "status": "Занято",
-    "x": -2257.681,
-    "y": 2278.016,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23948,6 +23936,18 @@
     "status": "Занято",
     "x": 1521.99,
     "y": -1025.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 180,
+    "server_id": 29,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Vova_BabyTron",
+    "status": "Занято",
+    "x": -63.12,
+    "y": 1208.9,
     "price": 0,
     "district": "Сан-Андреас"
   },

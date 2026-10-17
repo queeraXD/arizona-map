@@ -9828,18 +9828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 824,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tuborosho_Archive",
-    "status": "Занято",
-    "x": -2689.37,
-    "y": -114.261,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 825,
     "server_id": 19,
     "type": "house",
@@ -22032,6 +22020,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 824,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tuborosho_Archive",
+    "status": "Аукцион",
+    "x": -2689.37,
+    "y": -114.261,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1543,
     "server_id": 19,
     "type": "house",
@@ -22053,30 +22053,6 @@
     "x": 2707.31,
     "y": -1200.13,
     "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 216,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Tony_Young",
-    "status": "Аукцион",
-    "x": 2327.86,
-    "y": 2421.25,
-    "price": 4000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 295,
-    "server_id": 19,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Tony_Young",
-    "status": "Аукцион",
-    "x": 2392.56,
-    "y": 2042.21,
-    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24144,6 +24120,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 295,
+    "server_id": 19,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Tony_Young",
+    "status": "Занято",
+    "x": 2392.56,
+    "y": 2042.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 296,
     "server_id": 19,
     "type": "business",
@@ -25204,7 +25192,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Cute_Femboy",
+    "owner": "Boby_Singer",
     "status": "Занято",
     "x": 194.751,
     "y": -273.823,
@@ -25220,6 +25208,18 @@
     "status": "Занято",
     "x": 1976.18,
     "y": -1980.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 216,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Tony_Young",
+    "status": "Занято",
+    "x": 2327.86,
+    "y": 2421.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
