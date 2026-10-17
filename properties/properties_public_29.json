@@ -5256,18 +5256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 438,
-    "server_id": 29,
-    "type": "house",
-    "name": "controlMonopoly",
-    "owner": "Alastor_McQuen",
-    "status": "Занято",
-    "x": 228.067,
-    "y": -1405.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 439,
     "server_id": 29,
     "type": "house",
@@ -21084,6 +21072,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 438,
+    "server_id": 29,
+    "type": "house",
+    "name": "controlMonopoly",
+    "owner": "Alastor_McQuen",
+    "status": "Аукцион",
+    "x": 228.067,
+    "y": -1405.5,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 784,
     "server_id": 29,
     "type": "house",
@@ -21140,19 +21140,7 @@
     "status": "Аукцион",
     "x": 1382.15,
     "y": -1088.85,
-    "price": 800000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 187,
-    "server_id": 29,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Crazy_Frogi",
-    "status": "Аукцион",
-    "x": 158.63,
-    "y": -1812.59,
-    "price": 9000000000,
+    "price": 650000,
     "district": "Сан-Андреас"
   },
   {
@@ -24032,6 +24020,18 @@
     "status": "Занято",
     "x": 2268.78,
     "y": 624.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 187,
+    "server_id": 29,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Meyer_Lansky",
+    "status": "Занято",
+    "x": 158.63,
+    "y": -1812.59,
     "price": 0,
     "district": "Сан-Андреас"
   },

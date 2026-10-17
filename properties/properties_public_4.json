@@ -15684,18 +15684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1308,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Johny_Darkside",
-    "status": "Занято",
-    "x": -2303.44,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1309,
     "server_id": 4,
     "type": "house",
@@ -24300,18 +24288,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2026,
-    "server_id": 4,
-    "type": "house",
-    "name": "ЛВ тюн",
-    "owner": "Vladimyr_Privat",
-    "status": "Занято",
-    "x": 2357.05,
-    "y": 1059.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2027,
     "server_id": 4,
     "type": "house",
@@ -25260,15 +25236,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
+    "id": 1308,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Johny_Darkside",
+    "status": "Аукцион",
+    "x": -2303.44,
+    "y": 656.7349,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2026,
+    "server_id": 4,
+    "type": "house",
+    "name": "ЛВ тюн",
+    "owner": "Vladimyr_Privat",
+    "status": "Аукцион",
+    "x": 2357.05,
+    "y": 1059.45,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 63,
     "server_id": 4,
     "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ramil_Orlov",
+    "name": "АЗС/Магазин механики",
+    "owner": "Roman_Senyshyn",
     "status": "Аукцион",
-    "x": 2085.84,
-    "y": 2486.25,
-    "price": 222222,
+    "x": -1320.49,
+    "y": 2698.65,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -26640,18 +26640,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 63,
-    "server_id": 4,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Roman_Senyshyn",
-    "status": "Занято",
-    "x": -1320.49,
-    "y": 2698.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 64,
     "server_id": 4,
     "type": "business",
@@ -27488,6 +27476,18 @@
     "status": "Занято",
     "x": 1671.52,
     "y": 1814.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
+    "server_id": 4,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ramil_Orlov",
+    "status": "Занято",
+    "x": 2085.84,
+    "y": 2486.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
