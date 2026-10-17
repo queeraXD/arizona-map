@@ -3300,6 +3300,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 275,
+    "server_id": 27,
+    "type": "house",
+    "name": "The Mops Corporation",
+    "owner": "General_Mops",
+    "status": "Занято",
+    "x": 2579.67,
+    "y": -1033.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 276,
     "server_id": 27,
     "type": "house",
@@ -11832,18 +11844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 987,
-    "server_id": 27,
-    "type": "house",
-    "name": "only love C.C",
-    "owner": "Vins_Kawasaki",
-    "status": "Занято",
-    "x": 2509.33,
-    "y": 11.0761,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 988,
     "server_id": 27,
     "type": "house",
@@ -12620,18 +12620,6 @@
     "status": "Занято",
     "x": -2793.14,
     "y": -127.0989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1053,
-    "server_id": 27,
-    "type": "house",
-    "name": "FAM Dodger",
-    "owner": "Art_Gurov",
-    "status": "Занято",
-    "x": -1930.04,
-    "y": 1190.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14955,7 +14943,7 @@
     "id": 1247,
     "server_id": 27,
     "type": "house",
-    "name": "Шнюк/Майнинг",
+    "name": "Ленок Майнинг 2",
     "owner": "Lena_Lanos",
     "status": "Занято",
     "x": -2351.14,
@@ -24456,15 +24444,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 275,
+    "id": 987,
     "server_id": 27,
     "type": "house",
-    "name": "Хата Dexter_Kawasaki",
-    "owner": "Sugimoto_Kawasaki",
+    "name": "only love C.C",
+    "owner": "Vins_Kawasaki",
     "status": "Аукцион",
-    "x": 2579.67,
-    "y": -1033.2,
-    "price": 1000000000,
+    "x": 2509.33,
+    "y": 11.0761,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1053,
+    "server_id": 27,
+    "type": "house",
+    "name": "FAM Dodger",
+    "owner": "Art_Gurov",
+    "status": "Аукцион",
+    "x": -1930.04,
+    "y": 1190.53,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {

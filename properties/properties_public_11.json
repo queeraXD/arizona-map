@@ -10368,18 +10368,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 865,
-    "server_id": 11,
-    "type": "house",
-    "name": "Zambidis_Empire",
-    "owner": "Jackk_Pot",
-    "status": "Занято",
-    "x": -269.1889,
-    "y": 2504.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 866,
     "server_id": 11,
     "type": "house",
@@ -10868,6 +10856,18 @@
     "status": "Занято",
     "x": -2126.7,
     "y": 978.411,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 907,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Leybak_Inside",
+    "status": "Занято",
+    "x": -2126.89,
+    "y": 996.109,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17932,7 +17932,7 @@
     "server_id": 11,
     "type": "house",
     "name": "пузата хата",
-    "owner": "Danek_Goto",
+    "owner": "Francesko_Morris",
     "status": "Занято",
     "x": 2472.31,
     "y": -962.041,
@@ -19308,18 +19308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1622,
-    "server_id": 11,
-    "type": "house",
-    "name": "Zambidis_Empire",
-    "owner": "Jackk_Pot",
-    "status": "Занято",
-    "x": 2473.12,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1623,
     "server_id": 11,
     "type": "house",
@@ -20584,7 +20572,7 @@
     "server_id": 11,
     "type": "house",
     "name": "Swarowski Empire",
-    "owner": "Trainer_Swarowski",
+    "owner": "Electric_Trainer",
     "status": "Занято",
     "x": 929.39,
     "y": 1981.4,
@@ -24636,15 +24624,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 907,
+    "id": 865,
     "server_id": 11,
     "type": "house",
-    "name": "Дом",
-    "owner": "Johnny_Uralsky",
+    "name": "Zambidis_Empire",
+    "owner": "Jackk_Pot",
     "status": "Аукцион",
-    "x": -2126.89,
-    "y": 996.109,
-    "price": 300000000,
+    "x": -269.1889,
+    "y": 2504.93,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1622,
+    "server_id": 11,
+    "type": "house",
+    "name": "Zambidis_Empire",
+    "owner": "Jackk_Pot",
+    "status": "Аукцион",
+    "x": 2473.12,
+    "y": -1383.37,
+    "price": 250123123,
     "district": "Сан-Андреас"
   },
   {
