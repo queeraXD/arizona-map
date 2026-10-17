@@ -420,6 +420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 35,
+    "server_id": 32,
+    "type": "house",
+    "name": "legenda",
+    "owner": "Rocco_Moon",
+    "status": "Занято",
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 36,
     "server_id": 32,
     "type": "house",
@@ -3280,7 +3292,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Домик Легоши",
-    "owner": "Legoshi_Wolf",
+    "owner": "Legoshi_Femboy",
     "status": "Занято",
     "x": 2576.59,
     "y": -1070.64,
@@ -12184,7 +12196,7 @@
     "server_id": 32,
     "type": "house",
     "name": "берлога мишки",
-    "owner": "Bely_Medved",
+    "owner": "Bob_Osbourne",
     "status": "Занято",
     "x": -2511.33,
     "y": 951.2239,
@@ -12904,7 +12916,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Берлога Мишки ",
-    "owner": "Bely_Medved",
+    "owner": "Bob_Osbourne",
     "status": "Занято",
     "x": -2853.21,
     "y": 947.4849,
@@ -13004,6 +13016,18 @@
     "status": "Занято",
     "x": -2158.92,
     "y": 830.585,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1090,
+    "server_id": 32,
+    "type": "house",
+    "name": "Домик Дианочки 4",
+    "owner": "Diana_Karpovich",
+    "status": "Занято",
+    "x": -2126.75,
+    "y": 832.6989,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13456,7 +13480,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Квартира Пушистого Фармилы",
-    "owner": "Legoshi_Wolf",
+    "owner": "Legoshi_Femboy",
     "status": "Занято",
     "x": 1802.81,
     "y": -1300.8,
@@ -22476,18 +22500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
-    "server_id": 32,
-    "type": "house",
-    "name": "legenda",
-    "owner": "Rocco_Moon",
-    "status": "Аукцион",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 4500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 972,
     "server_id": 32,
     "type": "house",
@@ -22500,18 +22512,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1090,
-    "server_id": 32,
-    "type": "house",
-    "name": "Домик Дианочки 4",
-    "owner": "Diana_Karpovich",
-    "status": "Аукцион",
-    "x": -2126.75,
-    "y": 832.6989,
-    "price": 3500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1371,
     "server_id": 32,
     "type": "house",
@@ -22521,30 +22521,6 @@
     "x": 1115.72,
     "y": -1562.69,
     "price": 40000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 112,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Colly_Hawk",
-    "status": "Аукцион",
-    "x": -2672.26,
-    "y": 258.431,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 170,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Heiden_Holwes",
-    "status": "Аукцион",
-    "x": 1157.92,
-    "y": 2072.27,
-    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -24408,6 +24384,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 112,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Colly_Hawk",
+    "status": "Занято",
+    "x": -2672.26,
+    "y": 258.431,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 113,
     "server_id": 32,
     "type": "business",
@@ -24488,6 +24476,18 @@
     "status": "Занято",
     "x": 2331.81,
     "y": 75.087,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 170,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Heiden_Holwes",
+    "status": "Занято",
+    "x": 1157.92,
+    "y": 2072.27,
     "price": 0,
     "district": "Сан-Андреас"
   },

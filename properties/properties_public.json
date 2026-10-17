@@ -804,6 +804,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 67,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lincoln_Park",
+    "status": "Занято",
+    "x": 2413.9,
+    "y": -1646.79,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 68,
     "server_id": 33,
     "type": "house",
@@ -1076,18 +1088,6 @@
     "status": "Занято",
     "x": 2017.75,
     "y": -1703.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 91,
-    "server_id": 33,
-    "type": "house",
-    "name": "Гетто",
-    "owner": "Son_Goku",
-    "status": "Занято",
-    "x": 2013.58,
-    "y": -1656.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11631,7 +11631,7 @@
     "id": 976,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
+    "name": "Рыбак",
     "owner": "Sparky_Chamber",
     "status": "Занято",
     "x": -2446.17,
@@ -19416,6 +19416,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1656,
+    "server_id": 33,
+    "type": "house",
+    "name": "chain gang",
+    "owner": "Gilbert_McCloud",
+    "status": "Занято",
+    "x": 2357.05,
+    "y": 1061.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1657,
     "server_id": 33,
     "type": "house",
@@ -20880,6 +20892,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1780,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gilbert_McCloud",
+    "status": "Занято",
+    "x": 1787.7,
+    "y": 2770.02,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1781,
     "server_id": 33,
     "type": "house",
@@ -21200,6 +21224,18 @@
     "status": "Занято",
     "x": 2601.64,
     "y": 2203.74,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1808,
+    "server_id": 33,
+    "type": "house",
+    "name": "BOGDANOVKA",
+    "owner": "Gilbert_McCloud",
+    "status": "Занято",
+    "x": 2601.64,
+    "y": 2194.57,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22416,15 +22452,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 67,
+    "id": 91,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
-    "owner": "Lincoln_Park",
+    "name": "Гетто",
+    "owner": "Son_Goku",
     "status": "Аукцион",
-    "x": 2413.9,
-    "y": -1646.79,
-    "price": 1999999999,
+    "x": 2013.58,
+    "y": -1656.43,
+    "price": 1200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22464,18 +22500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1656,
-    "server_id": 33,
-    "type": "house",
-    "name": "chain gang",
-    "owner": "Gilbert_McCloud",
-    "status": "Аукцион",
-    "x": 2357.05,
-    "y": 1061.93,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1691,
     "server_id": 33,
     "type": "house",
@@ -22485,42 +22509,6 @@
     "x": 1110.52,
     "y": -1554.05,
     "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1780,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gilbert_McCloud",
-    "status": "Аукцион",
-    "x": 1787.7,
-    "y": 2770.02,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1808,
-    "server_id": 33,
-    "type": "house",
-    "name": "BOGDANOVKA",
-    "owner": "Gilbert_McCloud",
-    "status": "Аукцион",
-    "x": 2601.64,
-    "y": 2194.57,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 88,
-    "server_id": 33,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Leo_Castello",
-    "status": "Аукцион",
-    "x": -36.13628,
-    "y": 2350.517,
-    "price": 7000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22820,6 +22808,18 @@
     "status": "Занято",
     "x": -91.2371,
     "y": 1188.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 88,
+    "server_id": 33,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Leo_Castello",
+    "status": "Занято",
+    "x": -36.13628,
+    "y": 2350.517,
     "price": 0,
     "district": "Сан-Андреас"
   },
