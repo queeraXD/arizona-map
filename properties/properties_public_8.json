@@ -3876,18 +3876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 323,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Idushchijkreke",
-    "status": "Занято",
-    "x": 776.6719,
-    "y": -503.492,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 324,
     "server_id": 8,
     "type": "house",
@@ -4232,18 +4220,6 @@
     "status": "Занято",
     "x": 1290.98,
     "y": -896.9199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 353,
-    "server_id": 8,
-    "type": "house",
-    "name": "майнинг 1",
-    "owner": "Don_Yor",
-    "status": "Занято",
-    "x": 1283.53,
-    "y": -897.827,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18507,8 +18483,8 @@
     "id": 1543,
     "server_id": 8,
     "type": "house",
-    "name": "BTC farm 4+ шкаф",
-    "owner": "Camry_Gracia",
+    "name": "ИК-13",
+    "owner": "Joaquin_Salamanca",
     "status": "Занято",
     "x": 1969.33,
     "y": -1705.14,
@@ -20720,18 +20696,6 @@
     "status": "Занято",
     "x": -2227.83,
     "y": 1108.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1728,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Idushchijkreke",
-    "status": "Занято",
-    "x": 531.333,
-    "y": 1336.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23328,18 +23292,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1945,
-    "server_id": 8,
-    "type": "house",
-    "name": "7ine rage",
-    "owner": "Abyssal_Echo",
-    "status": "Занято",
-    "x": 2006.51,
-    "y": 2168.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1946,
     "server_id": 8,
     "type": "house",
@@ -25788,15 +25740,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 103,
+    "id": 323,
     "server_id": 8,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Choppa_Henderson",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Idushchijkreke",
     "status": "Аукцион",
-    "x": -1686.44,
-    "y": 1325.38,
-    "price": 275000,
+    "x": 776.6719,
+    "y": -503.492,
+    "price": 3999999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 353,
+    "server_id": 8,
+    "type": "house",
+    "name": "майнинг 1",
+    "owner": "Don_Yor",
+    "status": "Аукцион",
+    "x": 1283.53,
+    "y": -897.827,
+    "price": 750000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1728,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Idushchijkreke",
+    "status": "Аукцион",
+    "x": 531.333,
+    "y": 1336.2,
+    "price": 549999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1945,
+    "server_id": 8,
+    "type": "house",
+    "name": "7ine rage",
+    "owner": "Abyssal_Echo",
+    "status": "Аукцион",
+    "x": 2006.51,
+    "y": 2168.81,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26516,6 +26504,18 @@
     "status": "Занято",
     "x": -1735.96,
     "y": 897.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 103,
+    "server_id": 8,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Choppa_Henderson",
+    "status": "Занято",
+    "x": -1686.44,
+    "y": 1325.38,
     "price": 0,
     "district": "Сан-Андреас"
   },

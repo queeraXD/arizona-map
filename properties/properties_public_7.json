@@ -4824,18 +4824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Kolyaka",
-    "status": "Занято",
-    "x": 2448.44,
-    "y": -11.0635,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 403,
     "server_id": 7,
     "type": "house",
@@ -6324,6 +6312,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 527,
+    "server_id": 7,
+    "type": "house",
+    "name": "Dream House",
+    "owner": "Milana_MacLeod",
+    "status": "Занято",
+    "x": 2039.57,
+    "y": 2766.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 528,
     "server_id": 7,
     "type": "house",
@@ -6452,18 +6452,6 @@
     "status": "Занято",
     "x": 2056.57,
     "y": 2664.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 539,
-    "server_id": 7,
-    "type": "house",
-    "name": "Буль Буль",
-    "owner": "Robert_Pluhov",
-    "status": "Занято",
-    "x": 2037.05,
-    "y": 2663.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25536,15 +25524,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 527,
+    "id": 402,
     "server_id": 7,
     "type": "house",
-    "name": "Dream House",
-    "owner": "Milana_MacLeod",
+    "name": "Дом",
+    "owner": "Vladimir_Kolyaka",
     "status": "Аукцион",
-    "x": 2039.57,
-    "y": 2766.53,
-    "price": 10000000000,
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 5555555555,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 539,
+    "server_id": 7,
+    "type": "house",
+    "name": "Буль Буль",
+    "owner": "Robert_Pluhov",
+    "status": "Аукцион",
+    "x": 2037.05,
+    "y": 2663.99,
+    "price": 5100000000,
     "district": "Сан-Андреас"
   },
   {

@@ -20208,18 +20208,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1685,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ruslan_White",
-    "status": "Занято",
-    "x": 1110.53,
-    "y": -1578.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1686,
     "server_id": 5,
     "type": "house",
@@ -24096,18 +24084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2009,
-    "server_id": 5,
-    "type": "house",
-    "name": "permafrost monopoly",
-    "owner": "Riveria_Ljosalf",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2188.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2010,
     "server_id": 5,
     "type": "house",
@@ -24176,18 +24152,6 @@
     "status": "Занято",
     "x": 2591.62,
     "y": 2189.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2016,
-    "server_id": 5,
-    "type": "house",
-    "name": "permafrost monopoly",
-    "owner": "Riveria_Ljosalf",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2180.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25104,6 +25068,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2009,
+    "server_id": 5,
+    "type": "house",
+    "name": "permafrost monopoly",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2591.62,
+    "y": 2188.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2016,
+    "server_id": 5,
+    "type": "house",
+    "name": "permafrost monopoly",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2591.62,
+    "y": 2180.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1009,
     "server_id": 5,
     "type": "house",
@@ -25112,7 +25100,19 @@
     "status": "Аукцион",
     "x": -1727.78,
     "y": 1158.92,
-    "price": 1000000000,
+    "price": 1100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1685,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ruslan_White",
+    "status": "Аукцион",
+    "x": 1110.53,
+    "y": -1578.45,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
