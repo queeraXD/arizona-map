@@ -7668,18 +7668,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 639,
-    "server_id": 2,
-    "type": "house",
-    "name": "Stics",
-    "owner": "Sherlock_Stics",
-    "status": "Занято",
-    "x": -278.9989,
-    "y": 1003.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 640,
     "server_id": 2,
     "type": "house",
@@ -14436,18 +14424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1204,
-    "server_id": 2,
-    "type": "house",
-    "name": "Tbilisi",
-    "owner": "Garry_Xachaturov",
-    "status": "Занято",
-    "x": -2434.01,
-    "y": 1311.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1205,
     "server_id": 2,
     "type": "house",
@@ -14907,7 +14883,7 @@
     "id": 1243,
     "server_id": 2,
     "type": "house",
-    "name": "Конкретный Свинарник",
+    "name": "110031",
     "owner": "Nikola_Taranov",
     "status": "Занято",
     "x": -2574.07,
@@ -17612,6 +17588,18 @@
     "status": "Занято",
     "x": -2682.92,
     "y": 192.815,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1469,
+    "server_id": 2,
+    "type": "house",
+    "name": "Pay_Visa Collection ",
+    "owner": "Pay_Visa",
+    "status": "Занято",
+    "x": -2672.07,
+    "y": 190.026,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23952,27 +23940,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1469,
+    "id": 639,
     "server_id": 2,
     "type": "house",
-    "name": "Pay_Visa Collection ",
-    "owner": "Pay_Visa",
+    "name": "Stics",
+    "owner": "Sherlock_Stics",
     "status": "Аукцион",
-    "x": -2672.07,
-    "y": 190.026,
-    "price": 3000000000,
+    "x": -278.9989,
+    "y": 1003.39,
+    "price": 6500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 110,
+    "id": 1204,
     "server_id": 2,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Derick_Benson",
+    "type": "house",
+    "name": "Tbilisi",
+    "owner": "Garry_Xachaturov",
     "status": "Аукцион",
-    "x": -2443.85,
-    "y": 755.418,
-    "price": 300000,
+    "x": -2434.01,
+    "y": 1311.13,
+    "price": 3500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25808,6 +25796,18 @@
     "status": "Занято",
     "x": -2356.45,
     "y": 1008.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 110,
+    "server_id": 2,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Derick_Benson",
+    "status": "Занято",
+    "x": -2443.85,
+    "y": 755.418,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -4620,18 +4620,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 385,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "KTO",
-    "status": "Занято",
-    "x": 2363.19,
-    "y": 187.2169,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 386,
     "server_id": 23,
     "type": "house",
@@ -8100,6 +8088,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 675,
+    "server_id": 23,
+    "type": "house",
+    "name": "Morales",
+    "owner": "Grant_Morales",
+    "status": "Занято",
+    "x": 930.306,
+    "y": 2027.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 676,
     "server_id": 23,
     "type": "house",
@@ -8240,6 +8240,18 @@
     "status": "Занято",
     "x": 1265.52,
     "y": 2609.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 688,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Burbon_Holiday",
+    "status": "Занято",
+    "x": 1285.0,
+    "y": 2610.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10496,6 +10508,18 @@
     "status": "Занято",
     "x": -197.4149,
     "y": 2529.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 878,
+    "server_id": 23,
+    "type": "house",
+    "name": "VipFarmHouse #3",
+    "owner": "Romashka_Holiday",
+    "status": "Занято",
+    "x": -192.645,
+    "y": 2552.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19416,6 +19440,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1624,
+    "server_id": 23,
+    "type": "house",
+    "name": "Gachi house",
+    "owner": "Billy_Miligan",
+    "status": "Занято",
+    "x": -2843.69,
+    "y": -2269.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1625,
     "server_id": 23,
     "type": "house",
@@ -21096,39 +21132,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 675,
-    "server_id": 23,
-    "type": "house",
-    "name": "999999999",
-    "owner": "Toma_Fam",
-    "status": "Аукцион",
-    "x": 930.306,
-    "y": 2027.86,
-    "price": 250123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 688,
+    "id": 385,
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Burbon_Holiday",
+    "owner": "KTO",
     "status": "Аукцион",
-    "x": 1285.0,
-    "y": 2610.59,
-    "price": 550000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 878,
-    "server_id": 23,
-    "type": "house",
-    "name": "майнинг и депозит",
-    "owner": "Ghost_Skywalker",
-    "status": "Аукцион",
-    "x": -192.645,
-    "y": 2552.0,
-    "price": 350000000,
+    "x": 2363.19,
+    "y": 187.2169,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21156,27 +21168,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1624,
+    "id": 123,
     "server_id": 23,
-    "type": "house",
-    "name": "Gachi house",
-    "owner": "Billy_Miligan",
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "WebCam_Tank",
     "status": "Аукцион",
-    "x": -2843.69,
-    "y": -2269.19,
-    "price": 520000,
+    "x": -2579.43,
+    "y": 310.085,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 118,
+    "id": 124,
     "server_id": 23,
     "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Okasion_WhiteRex",
+    "name": "Аренда транспорта",
+    "owner": "WebCam_Tank",
     "status": "Аукцион",
-    "x": -2093.7,
-    "y": -2464.91,
-    "price": 1,
+    "x": -2455.77,
+    "y": 799.522,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -21192,6 +21204,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 191,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "WebCam_Tank",
+    "status": "Аукцион",
+    "x": 1143.17,
+    "y": -1473.83,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 192,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "WebCam_Tank",
+    "status": "Аукцион",
+    "x": 1136.97,
+    "y": -1456.62,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 196,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "WebCam_Tank",
+    "status": "Аукцион",
+    "x": -2681.61,
+    "y": 583.93,
+    "price": 8000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 285,
     "server_id": 23,
     "type": "business",
@@ -21200,6 +21248,18 @@
     "status": "Аукцион",
     "x": 1031.61,
     "y": 1354.3,
+    "price": 210000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 460,
+    "server_id": 23,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "WebCam_Tank",
+    "status": "Аукцион",
+    "x": 1586.208,
+    "y": -1394.485,
     "price": 210000,
     "district": "Сан-Андреас"
   },
@@ -21332,6 +21392,18 @@
     "status": "Занято",
     "x": -2051.91,
     "y": 553.746,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 118,
+    "server_id": 23,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Bruno_McDaniel",
+    "status": "Занято",
+    "x": -2093.7,
+    "y": -2464.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23448,30 +23520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 123,
-    "server_id": 23,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "WebCam_Tank",
-    "status": "Занято",
-    "x": -2579.43,
-    "y": 310.085,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 124,
-    "server_id": 23,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "WebCam_Tank",
-    "status": "Занято",
-    "x": -2455.77,
-    "y": 799.522,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 125,
     "server_id": 23,
     "type": "business",
@@ -23492,18 +23540,6 @@
     "status": "Занято",
     "x": 1864.59,
     "y": -1393.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 460,
-    "server_id": 23,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "WebCam_Tank",
-    "status": "Занято",
-    "x": 1586.208,
-    "y": -1394.485,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24096,30 +24132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 191,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "WebCam_Tank",
-    "status": "Занято",
-    "x": 1143.17,
-    "y": -1473.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 192,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "WebCam_Tank",
-    "status": "Занято",
-    "x": 1136.97,
-    "y": -1456.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 193,
     "server_id": 23,
     "type": "business",
@@ -24152,18 +24164,6 @@
     "status": "Занято",
     "x": -1548.81,
     "y": 673.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 196,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "WebCam_Tank",
-    "status": "Занято",
-    "x": -2681.61,
-    "y": 583.93,
     "price": 0,
     "district": "Сан-Андреас"
   },

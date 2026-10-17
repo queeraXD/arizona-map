@@ -7180,7 +7180,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Leon_Rocky",
+    "owner": "Kladmen_Kladmen",
     "status": "Занято",
     "x": -1466.16,
     "y": 2693.15,
@@ -15120,18 +15120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1260,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pablo_Escobarro",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -189.4149,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1261,
     "server_id": 17,
     "type": "house",
@@ -16904,18 +16892,6 @@
     "status": "Занято",
     "x": 883.95,
     "y": 2131.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1409,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Egoha_Kurs",
-    "status": "Занято",
-    "x": 885.4229,
-    "y": 2153.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22473,6 +22449,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1409,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 885.4229,
+    "y": 2153.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1260,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pablo_Escobarro",
+    "status": "Аукцион",
+    "x": -2515.38,
+    "y": -189.4149,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {

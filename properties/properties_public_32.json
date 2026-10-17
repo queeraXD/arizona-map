@@ -3268,7 +3268,7 @@
     "server_id": 32,
     "type": "house",
     "name": "6/15",
-    "owner": "Samuel_Sweetness",
+    "owner": "Storm_Sweetness",
     "status": "Занято",
     "x": 2626.19,
     "y": -1098.72,
@@ -3580,7 +3580,7 @@
     "server_id": 32,
     "type": "house",
     "name": "$Barrington$Ghetto",
-    "owner": "Bobby_Barrington",
+    "owner": "Crime_Core",
     "status": "Занято",
     "x": 2092.26,
     "y": -1067.44,
@@ -3680,18 +3680,6 @@
     "status": "Занято",
     "x": 1895.99,
     "y": -1064.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 307,
-    "server_id": 32,
-    "type": "house",
-    "name": "60ккк",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": 1846.61,
-    "y": 82.9356,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9120,18 +9108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 764,
-    "server_id": 32,
-    "type": "house",
-    "name": "с набором архитектора",
-    "owner": "Jimba_Seller",
-    "status": "Занято",
-    "x": -2645.56,
-    "y": 803.083,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 765,
     "server_id": 32,
     "type": "house",
@@ -10192,7 +10168,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Берлога Мамонта",
-    "owner": "Bobby_Barrington",
+    "owner": "Asalbek_Jan",
     "status": "Занято",
     "x": -2102.68,
     "y": 1160.96,
@@ -11620,7 +11596,7 @@
     "server_id": 32,
     "type": "house",
     "name": "$Barrington Rybalka$",
-    "owner": "Bobby_Barrington",
+    "owner": "Crime_Core",
     "status": "Занято",
     "x": -2478.74,
     "y": 2488.76,
@@ -13108,7 +13084,7 @@
     "server_id": 32,
     "type": "house",
     "name": "$Barrington$ SF",
-    "owner": "Bobby_Barrington",
+    "owner": "Asalbek_Jan",
     "status": "Занято",
     "x": -2223.62,
     "y": 820.458,
@@ -13548,6 +13524,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1134,
+    "server_id": 32,
+    "type": "house",
+    "name": "Pitbull House",
+    "owner": "Adolf_Jan",
+    "status": "Занято",
+    "x": 276.325,
+    "y": -1620.47,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1135,
     "server_id": 32,
     "type": "house",
@@ -13952,18 +13940,6 @@
     "status": "Занято",
     "x": -1004.06,
     "y": -1875.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1169,
-    "server_id": 32,
-    "type": "house",
-    "name": "60ккк",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": -986.9279,
-    "y": -1877.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16376,18 +16352,6 @@
     "status": "Занято",
     "x": 1112.2,
     "y": -1557.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1371,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Love_May",
-    "status": "Занято",
-    "x": 1115.72,
-    "y": -1562.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19876,7 +19840,7 @@
     "server_id": 32,
     "type": "house",
     "name": "chilld famq",
-    "owner": "President_Resident",
+    "owner": "Shi_Fa",
     "status": "Занято",
     "x": 1110.52,
     "y": -1554.05,
@@ -22500,6 +22464,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 307,
+    "server_id": 32,
+    "type": "house",
+    "name": "60ккк",
+    "owner": "Anton_Mas",
+    "status": "Аукцион",
+    "x": 1846.61,
+    "y": 82.9356,
+    "price": 640000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 449,
     "server_id": 32,
     "type": "house",
@@ -22512,15 +22488,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1134,
+    "id": 764,
     "server_id": 32,
     "type": "house",
-    "name": "Pitbull House",
-    "owner": "Adolf_Jan",
+    "name": "с набором архитектора",
+    "owner": "Jimba_Seller",
     "status": "Аукцион",
-    "x": 276.325,
-    "y": -1620.47,
+    "x": -2645.56,
+    "y": 803.083,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1169,
+    "server_id": 32,
+    "type": "house",
+    "name": "60ккк",
+    "owner": "Anton_Mas",
+    "status": "Аукцион",
+    "x": -986.9279,
+    "y": -1877.55,
+    "price": 240000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1371,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Love_May",
+    "status": "Аукцион",
+    "x": 1115.72,
+    "y": -1562.69,
     "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 88,
+    "server_id": 32,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Dead_Side",
+    "status": "Аукцион",
+    "x": -36.098,
+    "y": 2349.65,
+    "price": 8000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 123,
+    "server_id": 32,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Dead_Side",
+    "status": "Аукцион",
+    "x": -2579.43,
+    "y": 310.085,
+    "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 183,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Dead_Side",
+    "status": "Аукцион",
+    "x": 1575.5,
+    "y": 1844.07,
+    "price": 8000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 266,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Nolan_Pierce",
+    "status": "Аукцион",
+    "x": 947.921,
+    "y": 1719.16,
+    "price": 9000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22784,18 +22832,6 @@
     "status": "Занято",
     "x": -91.2371,
     "y": 1188.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 88,
-    "server_id": 32,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Dead_Side",
-    "status": "Занято",
-    "x": -36.098,
-    "y": 2349.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24780,18 +24816,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 123,
-    "server_id": 32,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Dead_Side",
-    "status": "Занято",
-    "x": -2579.43,
-    "y": 310.085,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 124,
     "server_id": 32,
     "type": "business",
@@ -25356,18 +25380,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 183,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Dead_Side",
-    "status": "Занято",
-    "x": 1575.5,
-    "y": 1844.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 184,
     "server_id": 32,
     "type": "business",
@@ -25724,18 +25736,6 @@
     "status": "Занято",
     "x": 2824.77,
     "y": 1290.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 266,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Nolan_Pierce",
-    "status": "Занято",
-    "x": 947.921,
-    "y": 1719.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
