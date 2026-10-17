@@ -3579,7 +3579,7 @@
     "id": 298,
     "server_id": 32,
     "type": "house",
-    "name": "$Barrington$Ghetto",
+    "name": "CrimeCore/",
     "owner": "Crime_Core",
     "status": "Занято",
     "x": 2092.26,
@@ -4492,7 +4492,7 @@
     "server_id": 32,
     "type": "house",
     "name": "$Barrington$",
-    "owner": "Bobby_Barrington",
+    "owner": "Fezenda_Arenda",
     "status": "Занято",
     "x": 2204.64,
     "y": 106.164,
@@ -4516,7 +4516,7 @@
     "server_id": 32,
     "type": "house",
     "name": "$Barrington$",
-    "owner": "Bobby_Barrington",
+    "owner": "Magomed_Emberheart",
     "status": "Занято",
     "x": 2258.04,
     "y": 167.8099,
@@ -5372,6 +5372,18 @@
     "status": "Занято",
     "x": 2551.22,
     "y": -5.3846,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 449,
+    "server_id": 32,
+    "type": "house",
+    "name": "7/15",
+    "owner": "Andrey_Samuel",
+    "status": "Занято",
+    "x": 2330.09,
+    "y": -1060.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8692,7 +8704,7 @@
     "server_id": 32,
     "type": "house",
     "name": "$Barrington$ LV",
-    "owner": "Bobby_Barrington",
+    "owner": "Kyle_Blaze",
     "status": "Занято",
     "x": 1637.76,
     "y": 2802.02,
@@ -10988,18 +11000,6 @@
     "status": "Занято",
     "x": -2280.46,
     "y": 1130.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 923,
-    "server_id": 32,
-    "type": "house",
-    "name": "1/4 House",
-    "owner": "Dmitriy_Morgan",
-    "status": "Занято",
-    "x": -2239.14,
-    "y": 1154.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16352,6 +16352,18 @@
     "status": "Занято",
     "x": 1112.2,
     "y": -1557.42,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1371,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Rosso_Leshiy",
+    "status": "Занято",
+    "x": 1115.72,
+    "y": -1562.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22476,18 +22488,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 449,
-    "server_id": 32,
-    "type": "house",
-    "name": "7/15",
-    "owner": "Andrey_Samuel",
-    "status": "Аукцион",
-    "x": 2330.09,
-    "y": -1060.14,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 764,
     "server_id": 32,
     "type": "house",
@@ -22500,6 +22500,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 923,
+    "server_id": 32,
+    "type": "house",
+    "name": "1/4 House",
+    "owner": "Dmitriy_Morgan",
+    "status": "Аукцион",
+    "x": -2239.14,
+    "y": 1154.01,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1169,
     "server_id": 32,
     "type": "house",
@@ -22509,18 +22521,6 @@
     "x": -986.9279,
     "y": -1877.55,
     "price": 240000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1371,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Love_May",
-    "status": "Аукцион",
-    "x": 1115.72,
-    "y": -1562.69,
-    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {

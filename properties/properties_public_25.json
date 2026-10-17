@@ -11388,6 +11388,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 951,
+    "server_id": 25,
+    "type": "house",
+    "name": "951",
+    "owner": "Despair_Empressions",
+    "status": "Занято",
+    "x": -2230.74,
+    "y": 1027.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 952,
     "server_id": 25,
     "type": "house",
@@ -15404,18 +15416,6 @@
     "status": "Занято",
     "x": -2619.75,
     "y": -127.581,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1287,
-    "server_id": 25,
-    "type": "house",
-    "name": "Insturgent",
-    "owner": "Remus_Lupin",
-    "status": "Занято",
-    "x": -2620.77,
-    "y": -120.2119,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20424,18 +20424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1705,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Cer",
-    "status": "Занято",
-    "x": 2541.53,
-    "y": 1212.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1706,
     "server_id": 25,
     "type": "house",
@@ -22284,18 +22272,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1862,
-    "server_id": 25,
-    "type": "house",
-    "name": "1862",
-    "owner": "sektant",
-    "status": "Занято",
-    "x": 2473.15,
-    "y": -1410.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1863,
     "server_id": 25,
     "type": "house",
@@ -23760,39 +23736,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 951,
+    "id": 1287,
     "server_id": 25,
     "type": "house",
-    "name": "951",
-    "owner": "Despair_Empressions",
+    "name": "Insturgent",
+    "owner": "Remus_Lupin",
     "status": "Аукцион",
-    "x": -2230.74,
-    "y": 1027.64,
-    "price": 200123123,
+    "x": -2620.77,
+    "y": -120.2119,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 81,
+    "id": 1705,
     "server_id": 25,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Farma_Zone",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Cer",
     "status": "Аукцион",
-    "x": 2101.89,
-    "y": 2228.81,
-    "price": 9000000000,
+    "x": 2541.53,
+    "y": 1212.77,
+    "price": 200123456,
     "district": "Сан-Андреас"
   },
   {
-    "id": 89,
+    "id": 1862,
     "server_id": 25,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Farma_Zone",
+    "type": "house",
+    "name": "1862",
+    "owner": "sektant",
     "status": "Аукцион",
-    "x": 2102.49,
-    "y": 2257.4,
-    "price": 10000000000,
+    "x": 2473.15,
+    "y": -1410.35,
+    "price": 150123123,
     "district": "Сан-Андреас"
   },
   {
@@ -24720,6 +24696,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 89,
+    "server_id": 25,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Farma_Zone",
+    "status": "Занято",
+    "x": 2102.49,
+    "y": 2257.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 90,
     "server_id": 25,
     "type": "business",
@@ -25508,6 +25496,18 @@
     "status": "Занято",
     "x": 2638.3,
     "y": 1671.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 81,
+    "server_id": 25,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Farma_Zone",
+    "status": "Занято",
+    "x": 2101.89,
+    "y": 2228.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27880,7 +27880,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Dominic_Barrington",
+    "owner": "Karina_Wright",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
@@ -27892,7 +27892,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Fernando_Capone",
+    "owner": "Dominic_Barrington",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

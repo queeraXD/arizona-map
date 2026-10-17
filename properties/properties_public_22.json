@@ -4092,18 +4092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 341,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ferma 4",
-    "owner": "Pavel_Diardi",
-    "status": "Занято",
-    "x": 723.6119,
-    "y": 269.678,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 342,
     "server_id": 22,
     "type": "house",
@@ -4112,30 +4100,6 @@
     "status": "Занято",
     "x": 705.4279,
     "y": 292.096,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 343,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ferma 2",
-    "owner": "Pavel_Diardi",
-    "status": "Занято",
-    "x": 719.0629,
-    "y": 300.639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 344,
-    "server_id": 22,
-    "type": "house",
-    "name": "Ferma 1",
-    "owner": "Pavel_Diardi",
-    "status": "Занято",
-    "x": 746.4089,
-    "y": 304.946,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5980,7 +5944,7 @@
     "server_id": 22,
     "type": "house",
     "name": "8 lvl farma",
-    "owner": "Daniel_Salaru",
+    "owner": "Hood_Richh",
     "status": "Занято",
     "x": 1412.66,
     "y": 1951.6,
@@ -8184,18 +8148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 682,
-    "server_id": 22,
-    "type": "house",
-    "name": "Benito LUX",
-    "owner": "Benito_Karleone",
-    "status": "Занято",
-    "x": 1032.54,
-    "y": 2316.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 683,
     "server_id": 22,
     "type": "house",
@@ -8376,18 +8328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 698,
-    "server_id": 22,
-    "type": "house",
-    "name": "BLASE №3",
-    "owner": "Blase_Revival",
-    "status": "Занято",
-    "x": 1407.6,
-    "y": 2524.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 699,
     "server_id": 22,
     "type": "house",
@@ -8432,18 +8372,6 @@
     "status": "Занято",
     "x": 1454.23,
     "y": 2525.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 703,
-    "server_id": 22,
-    "type": "house",
-    "name": "ДЕПП УСОВИЯ + ПОДВА МАЙНИНГ",
-    "owner": "Blase_Revival",
-    "status": "Занято",
-    "x": 1503.29,
-    "y": 2567.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8864,18 +8792,6 @@
     "status": "Занято",
     "x": -2857.66,
     "y": 957.028,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 739,
-    "server_id": 22,
-    "type": "house",
-    "name": "BLASE №5",
-    "owner": "Blase_Revival",
-    "status": "Занято",
-    "x": -2845.31,
-    "y": 928.414,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12996,18 +12912,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1084,
-    "server_id": 22,
-    "type": "house",
-    "name": "BLASE №9",
-    "owner": "Blase_Revival",
-    "status": "Занято",
-    "x": -2844.09,
-    "y": 914.401,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1085,
     "server_id": 22,
     "type": "house",
@@ -15560,6 +15464,18 @@
     "status": "Занято",
     "x": -2510.87,
     "y": -109.3759,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1298,
+    "server_id": 22,
+    "type": "house",
+    "name": "гараж х6 инта топ",
+    "owner": "Dima_Necro",
+    "status": "Занято",
+    "x": -2524.31,
+    "y": -145.865,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22020,6 +21936,90 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 341,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ferma 4",
+    "owner": "Pavel_Diardi",
+    "status": "Аукцион",
+    "x": 723.6119,
+    "y": 269.678,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 343,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ferma 2",
+    "owner": "Pavel_Diardi",
+    "status": "Аукцион",
+    "x": 719.0629,
+    "y": 300.639,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 344,
+    "server_id": 22,
+    "type": "house",
+    "name": "Ferma 1",
+    "owner": "Pavel_Diardi",
+    "status": "Аукцион",
+    "x": 746.4089,
+    "y": 304.946,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 682,
+    "server_id": 22,
+    "type": "house",
+    "name": "Benito LUX",
+    "owner": "Benito_Karleone",
+    "status": "Аукцион",
+    "x": 1032.54,
+    "y": 2316.12,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 698,
+    "server_id": 22,
+    "type": "house",
+    "name": "BLASE №3",
+    "owner": "Blase_Revival",
+    "status": "Аукцион",
+    "x": 1407.6,
+    "y": 2524.46,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 703,
+    "server_id": 22,
+    "type": "house",
+    "name": "ДЕПП УСОВИЯ + ПОДВА МАЙНИНГ",
+    "owner": "Blase_Revival",
+    "status": "Аукцион",
+    "x": 1503.29,
+    "y": 2567.72,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 739,
+    "server_id": 22,
+    "type": "house",
+    "name": "BLASE №5",
+    "owner": "Blase_Revival",
+    "status": "Аукцион",
+    "x": -2845.31,
+    "y": 928.414,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1051,
     "server_id": 22,
     "type": "house",
@@ -22032,15 +22032,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1298,
+    "id": 1084,
     "server_id": 22,
     "type": "house",
-    "name": "СПОРТИК",
-    "owner": "Hood_Richh",
+    "name": "BLASE №9",
+    "owner": "Blase_Revival",
     "status": "Аукцион",
-    "x": -2524.31,
-    "y": -145.865,
-    "price": 300000000,
+    "x": -2844.09,
+    "y": 914.401,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
