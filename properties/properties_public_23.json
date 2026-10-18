@@ -4896,18 +4896,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 408,
-    "server_id": 23,
-    "type": "house",
-    "name": "Delgado",
-    "owner": "Lovec_Domikov",
-    "status": "Занято",
-    "x": 1428.29,
-    "y": 355.7619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 409,
     "server_id": 23,
     "type": "house",
@@ -8727,8 +8715,8 @@
     "id": 727,
     "server_id": 23,
     "type": "house",
-    "name": "Vishenka House LVтср",
-    "owner": "Tom_Vishenka",
+    "name": "Treadrepper monopoly",
+    "owner": "Ryzen_Treadreaper",
     "status": "Занято",
     "x": 1672.98,
     "y": 2801.06,
@@ -10560,6 +10548,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 881,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Roberto_Ardila",
+    "status": "Занято",
+    "x": 2808.02,
+    "y": -1190.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 882,
     "server_id": 23,
     "type": "house",
@@ -10792,7 +10792,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Boltiq | DoDep",
-    "owner": "Marcus_Morozov",
+    "owner": "Sibirskaya_Yazva",
     "status": "Занято",
     "x": -2075.14,
     "y": 899.366,
@@ -11432,18 +11432,6 @@
     "status": "Занято",
     "x": -2159.76,
     "y": 965.578,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 955,
-    "server_id": 23,
-    "type": "house",
-    "name": "AFK House",
-    "owner": "Alexey_Bomjarow",
-    "status": "Занято",
-    "x": -2159.6,
-    "y": 946.984,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17856,6 +17844,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1490,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Guba",
+    "status": "Занято",
+    "x": 885.901,
+    "y": 1953.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1491,
     "server_id": 23,
     "type": "house",
@@ -21144,27 +21144,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 881,
+    "id": 408,
     "server_id": 23,
     "type": "house",
-    "name": "Дом",
-    "owner": "Heart_Shape",
+    "name": "Delgado",
+    "owner": "Lovec_Domikov",
     "status": "Аукцион",
-    "x": 2808.02,
-    "y": -1190.33,
-    "price": 500000000,
+    "x": 1428.29,
+    "y": 355.7619,
+    "price": 650000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1490,
+    "id": 955,
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Vladimir_Guba",
+    "owner": "Alexey_Bomjarow",
     "status": "Аукцион",
-    "x": 885.901,
-    "y": 1953.21,
-    "price": 599999999,
+    "x": -2159.6,
+    "y": 946.984,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21180,27 +21180,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 126,
+    "id": 87,
     "server_id": 23,
     "type": "business",
-    "name": "Предприятие",
-    "owner": "Heart_Shape",
+    "name": "Бар",
+    "owner": "Virgin_Infinity",
     "status": "Аукцион",
-    "x": -2127.71,
-    "y": -750.902,
-    "price": 1234567,
+    "x": -91.2371,
+    "y": 1188.43,
+    "price": 8000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 217,
+    "id": 107,
     "server_id": 23,
     "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Heart_Shape",
+    "name": "Закусочная",
+    "owner": "Virgin_Infinity",
     "status": "Аукцион",
-    "x": 2537.82,
-    "y": 2137.12,
+    "x": -1816.68,
+    "y": 617.577,
     "price": 8000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 147,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Shady_Records",
+    "status": "Аукцион",
+    "x": -2174.971,
+    "y": -29.964,
+    "price": 270000,
     "district": "Сан-Андреас"
   },
   {
@@ -21212,19 +21224,31 @@
     "status": "Аукцион",
     "x": 2170.48,
     "y": 542.934,
-    "price": 6850000000,
+    "price": 6750000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 333,
+    "id": 285,
     "server_id": 23,
     "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Heart_Shape",
+    "name": "АЗС/Магазин механики",
+    "owner": "Shady_Records",
     "status": "Аукцион",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 500000,
+    "x": 1031.61,
+    "y": 1354.3,
+    "price": 210000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 467,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Shady_Records",
+    "status": "Аукцион",
+    "x": -2015.06,
+    "y": -2.1872,
+    "price": 240000,
     "district": "Сан-Андреас"
   },
   {
@@ -21476,18 +21500,6 @@
     "status": "Занято",
     "x": -88.742,
     "y": 1378.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 87,
-    "server_id": 23,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Virgin_Infinity",
-    "status": "Занято",
-    "x": -91.2371,
-    "y": 1188.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22284,6 +22296,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 126,
+    "server_id": 23,
+    "type": "business",
+    "name": "Предприятие",
+    "owner": "Heart_Shape",
+    "status": "Занято",
+    "x": -2127.71,
+    "y": -750.902,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 128,
     "server_id": 23,
     "type": "business",
@@ -22728,18 +22752,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
-    "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Shady_Records",
-    "status": "Занято",
-    "x": 1031.61,
-    "y": 1354.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 286,
     "server_id": 23,
     "type": "business",
@@ -22988,18 +23000,6 @@
     "status": "Занято",
     "x": -2335.81,
     "y": -166.667,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 107,
-    "server_id": 23,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Virgin_Infinity",
-    "status": "Занято",
-    "x": -1816.68,
-    "y": 617.577,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23712,18 +23712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 147,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Shady_Records",
-    "status": "Занято",
-    "x": -2174.971,
-    "y": -29.964,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 148,
     "server_id": 23,
     "type": "business",
@@ -23948,18 +23936,6 @@
     "status": "Занято",
     "x": 1365.16,
     "y": -1859.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 467,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Shady_Records",
-    "status": "Занято",
-    "x": -2015.06,
-    "y": -2.1872,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24360,11 +24336,23 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 217,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Heart_Shape",
+    "status": "Занято",
+    "x": 2537.82,
+    "y": 2137.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 218,
     "server_id": 23,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Sky_Yamazaki",
+    "owner": "Amelia_Yamazaki",
     "status": "Занято",
     "x": 1500.24,
     "y": -1628.79,
@@ -25157,6 +25145,18 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "Aleksey_Osobov",
+    "status": "Занято",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 333,
+    "server_id": 23,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Heart_Shape",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

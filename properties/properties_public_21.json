@@ -3912,6 +3912,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 326,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Taliban",
+    "status": "Занято",
+    "x": 340.0769,
+    "y": 33.6021,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 327,
     "server_id": 21,
     "type": "house",
@@ -7748,18 +7760,6 @@
     "status": "Занято",
     "x": 2450.36,
     "y": 714.341,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 647,
-    "server_id": 21,
-    "type": "house",
-    "name": "Депозитные условия",
-    "owner": "Yura_Feniks",
-    "status": "Занято",
-    "x": 2450.15,
-    "y": 742.632,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21924,15 +21924,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 326,
+    "id": 647,
     "server_id": 21,
     "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Taliban",
+    "name": "Депозитные условия",
+    "owner": "Yura_Feniks",
     "status": "Аукцион",
-    "x": 340.0769,
-    "y": 33.6021,
-    "price": 999999999,
+    "x": 2450.15,
+    "y": 742.632,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22708,7 +22708,7 @@
     "server_id": 21,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Knyaz_Rusi",
+    "owner": "Logica_Nevermore",
     "status": "Занято",
     "x": 2411.93,
     "y": -1548.68,

@@ -579,7 +579,7 @@
     "id": 48,
     "server_id": 30,
     "type": "house",
-    "name": "Dojan",
+    "name": "Mining Conina 1",
     "owner": "Alternative_Conin",
     "status": "Занято",
     "x": 2194.35,
@@ -608,6 +608,18 @@
     "status": "Занято",
     "x": 2190.44,
     "y": -1470.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 51,
+    "server_id": 30,
+    "type": "house",
+    "name": "Mining Conina 2",
+    "owner": "Alternative_Conin",
+    "status": "Занято",
+    "x": 2190.32,
+    "y": -1487.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2520,18 +2532,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 211,
-    "server_id": 30,
-    "type": "house",
-    "name": "Ash & Особняк ВВ(Sell 17ккк)",
-    "owner": "Ash_Devilside",
-    "status": "Занято",
-    "x": 1034.62,
-    "y": -812.7239,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 212,
     "server_id": 30,
     "type": "house",
@@ -4000,7 +4000,7 @@
     "server_id": 30,
     "type": "house",
     "name": "zxcglk",
-    "owner": "Narko_Diler",
+    "owner": "Nemitaya_Rinata",
     "status": "Занято",
     "x": 807.215,
     "y": 372.506,
@@ -17428,7 +17428,7 @@
     "server_id": 30,
     "type": "house",
     "name": "zxcglk",
-    "owner": "Narko_Diler",
+    "owner": "Nemitaya_Rinata",
     "status": "Занято",
     "x": 885.4249,
     "y": 2238.86,
@@ -22752,15 +22752,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 51,
+    "id": 211,
     "server_id": 30,
     "type": "house",
-    "name": "майнинг",
-    "owner": "Kik_Men",
+    "name": "Ash & Особняк ВВ(Sell 17ккк)",
+    "owner": "Ash_Devilside",
     "status": "Аукцион",
-    "x": 2190.32,
-    "y": -1487.64,
-    "price": 1750000000,
+    "x": 1034.62,
+    "y": -812.7239,
+    "price": 220000,
     "district": "Сан-Андреас"
   },
   {

@@ -8328,6 +8328,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 694,
+    "server_id": 5,
+    "type": "house",
+    "name": ":uf259: 2pac :uf259:",
+    "owner": "Tupac_Shakor",
+    "status": "Занято",
+    "x": 1325.5,
+    "y": 2567.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 695,
     "server_id": 5,
     "type": "house",
@@ -14644,7 +14656,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Моё гнездо",
-    "owner": "Misha_Vlad",
+    "owner": "Oleg_Error",
     "status": "Занято",
     "x": -2791.58,
     "y": 92.1408,
@@ -18532,7 +18544,7 @@
     "server_id": 5,
     "type": "house",
     "name": "2/6",
-    "owner": "Misha_Vlad",
+    "owner": "Oleg_Error",
     "status": "Занято",
     "x": 2532.24,
     "y": 750.096,
@@ -24084,30 +24096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2009,
-    "server_id": 5,
-    "type": "house",
-    "name": "Kapriz Monopoly",
-    "owner": "Kapriz_Kaprizov",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2188.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2010,
-    "server_id": 5,
-    "type": "house",
-    "name": "Kaprizov Monopoly",
-    "owner": "Kapriz_Kaprizov",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2197.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2011,
     "server_id": 5,
     "type": "house",
@@ -24156,14 +24144,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2015,
+    "id": 2016,
     "server_id": 5,
     "type": "house",
-    "name": "permafrost monopoly",
-    "owner": "Phantom_Deluxe",
+    "name": "Escobaro",
+    "owner": "Pawel_Escobaro",
     "status": "Занято",
     "x": 2591.62,
-    "y": 2189.82,
+    "y": 2180.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25080,18 +25068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 694,
-    "server_id": 5,
-    "type": "house",
-    "name": ":uf259: 2pac :uf259:",
-    "owner": "Tupac_Shakor",
-    "status": "Аукцион",
-    "x": 1325.5,
-    "y": 2567.57,
-    "price": 5000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1009,
     "server_id": 5,
     "type": "house",
@@ -25104,15 +25080,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2016,
+    "id": 2009,
+    "server_id": 5,
+    "type": "house",
+    "name": "деп условия+подвал майнинга",
+    "owner": "Kapriz_Kaprizov",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2188.03,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2010,
+    "server_id": 5,
+    "type": "house",
+    "name": "деп условия подвал для майнинг",
+    "owner": "Kapriz_Kaprizov",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2197.33,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2015,
     "server_id": 5,
     "type": "house",
     "name": "permafrost monopoly",
-    "owner": "Desperate_Shade",
+    "owner": "Phantom_Deluxe",
     "status": "Аукцион",
     "x": 2591.62,
-    "y": 2180.54,
-    "price": 350000000,
+    "y": 2189.82,
+    "price": 501500000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 5,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Kostyan_Requiem",
+    "status": "Аукцион",
+    "x": -2103.59,
+    "y": -2342.04,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -27212,18 +27224,6 @@
     "status": "Занято",
     "x": 693.619,
     "y": 1967.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 5,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Kostyan_Requiem",
-    "status": "Занято",
-    "x": -2103.59,
-    "y": -2342.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
