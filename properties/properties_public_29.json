@@ -2487,8 +2487,8 @@
     "id": 207,
     "server_id": 29,
     "type": "house",
-    "name": "...::ULITKA house::...",
-    "owner": "Garry_Ulitkin",
+    "name": "...::Western in company::...",
+    "owner": "Johnny_Sunshine",
     "status": "Занято",
     "x": 1331.84,
     "y": -632.729,
@@ -2980,7 +2980,7 @@
     "server_id": 29,
     "type": "house",
     "name": "...:::Western in company:::...",
-    "owner": "Garry_Ulitkin",
+    "owner": "Johnny_Sunshine",
     "status": "Занято",
     "x": 2481.22,
     "y": 64.3796,
@@ -3920,30 +3920,6 @@
     "status": "Занято",
     "x": 340.0769,
     "y": 33.6021,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 327,
-    "server_id": 29,
-    "type": "house",
-    "name": "ROLAND 1",
-    "owner": "Alfred_Roland",
-    "status": "Занято",
-    "x": 342.376,
-    "y": 62.625,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 328,
-    "server_id": 29,
-    "type": "house",
-    "name": "ROLAND 2",
-    "owner": "Alfred_Roland",
-    "status": "Занято",
-    "x": 317.3779,
-    "y": 54.8008,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9648,6 +9624,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 809,
+    "server_id": 29,
+    "type": "house",
+    "name": "Home Golda <3",
+    "owner": "Swat_Bondovsky",
+    "status": "Занято",
+    "x": -2720.98,
+    "y": -120.787,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 810,
     "server_id": 29,
     "type": "house",
@@ -10516,7 +10504,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Visconti Ghetto House",
-    "owner": "Johnny_Sunshine",
+    "owner": "Garry_Ulitkin",
     "status": "Занято",
     "x": 2847.13,
     "y": -1309.75,
@@ -10528,7 +10516,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Visconti Ghetto House",
-    "owner": "Johnny_Sunshine",
+    "owner": "Garry_Ulitkin",
     "status": "Занято",
     "x": 2852.5,
     "y": -1365.96,
@@ -12184,7 +12172,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Набор архитектора",
-    "owner": "Frederic_Johnson",
+    "owner": "Egor_Weser",
     "status": "Занято",
     "x": -2511.33,
     "y": 951.2239,
@@ -13564,7 +13552,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Setha",
-    "owner": "Aezakmi_Glock",
+    "owner": "Zup_Raiii",
     "status": "Занято",
     "x": 289.6,
     "y": -1619.66,
@@ -21060,6 +21048,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 327,
+    "server_id": 29,
+    "type": "house",
+    "name": "ROLAND 1",
+    "owner": "Alfred_Roland",
+    "status": "Аукцион",
+    "x": 342.376,
+    "y": 62.625,
+    "price": 777777777,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 328,
+    "server_id": 29,
+    "type": "house",
+    "name": "ROLAND 2",
+    "owner": "Alfred_Roland",
+    "status": "Аукцион",
+    "x": 317.3779,
+    "y": 54.8008,
+    "price": 777777777,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 438,
     "server_id": 29,
     "type": "house",
@@ -21120,18 +21132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 809,
-    "server_id": 29,
-    "type": "house",
-    "name": "Home Golda <3",
-    "owner": "Swat_Bondovsky",
-    "status": "Аукцион",
-    "x": -2720.98,
-    "y": -120.787,
-    "price": 750000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1308,
     "server_id": 29,
     "type": "house",
@@ -21141,18 +21141,6 @@
     "x": -2515.38,
     "y": -189.2209,
     "price": 470000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 180,
-    "server_id": 29,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Vova_BabyTron",
-    "status": "Аукцион",
-    "x": -63.12,
-    "y": 1208.9,
-    "price": 365000,
     "district": "Сан-Андреас"
   },
   {
@@ -23960,6 +23948,18 @@
     "status": "Занято",
     "x": 1521.99,
     "y": -1025.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 180,
+    "server_id": 29,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Vova_BabyTron",
+    "status": "Занято",
+    "x": -63.12,
+    "y": 1208.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
