@@ -300,18 +300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 25,
-    "server_id": 23,
-    "type": "house",
-    "name": "Sklim Monopoly ",
-    "owner": "Popalam_Holiday",
-    "status": "Занято",
-    "x": 2250.11,
-    "y": -1280.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 26,
     "server_id": 23,
     "type": "house",
@@ -320,18 +308,6 @@
     "status": "Занято",
     "x": 2247.91,
     "y": -1238.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 27,
-    "server_id": 23,
-    "type": "house",
-    "name": "sklim Monopoly ",
-    "owner": "Robet_Below",
-    "status": "Занято",
-    "x": 2229.54,
-    "y": -1241.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3600,18 +3576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 300,
-    "server_id": 23,
-    "type": "house",
-    "name": "Sklim Monopoly ",
-    "owner": "Robet_Below",
-    "status": "Занято",
-    "x": 2109.6,
-    "y": -1081.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 301,
     "server_id": 23,
     "type": "house",
@@ -4892,6 +4856,18 @@
     "status": "Занято",
     "x": 1413.46,
     "y": 362.799,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 408,
+    "server_id": 23,
+    "type": "house",
+    "name": "Delgado",
+    "owner": "Lovec_Domikov",
+    "status": "Занято",
+    "x": 1428.29,
+    "y": 355.7619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8240,18 +8216,6 @@
     "status": "Занято",
     "x": 1265.52,
     "y": 2609.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 688,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Burbon_Holiday",
-    "status": "Занято",
-    "x": 1285.0,
-    "y": 2610.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11644,7 +11608,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Umbrella dynasty",
-    "owner": "Ice_Markelovani",
+    "owner": "Markelovani_Dynasty",
     "status": "Занято",
     "x": -2478.74,
     "y": 2488.76,
@@ -13083,7 +13047,7 @@
     "id": 1093,
     "server_id": 23,
     "type": "house",
-    "name": "Biznes Corporation",
+    "name": "Sklim Monopoly ",
     "owner": "Popalam_Holiday",
     "status": "Занято",
     "x": -2192.58,
@@ -15988,7 +15952,7 @@
     "server_id": 23,
     "type": "house",
     "name": "майнинг и депозит",
-    "owner": "Ice_Markelovani",
+    "owner": "Markelovani_Dynasty",
     "status": "Занято",
     "x": 1601.87,
     "y": 2846.08,
@@ -21144,15 +21108,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 408,
+    "id": 25,
     "server_id": 23,
     "type": "house",
-    "name": "Delgado",
-    "owner": "Lovec_Domikov",
+    "name": "Sklim Monopoly ",
+    "owner": "Popalam_Holiday",
     "status": "Аукцион",
-    "x": 1428.29,
-    "y": 355.7619,
-    "price": 650000000,
+    "x": 2250.11,
+    "y": -1280.4,
+    "price": 1999123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 27,
+    "server_id": 23,
+    "type": "house",
+    "name": "sklim Monopoly ",
+    "owner": "Robet_Below",
+    "status": "Аукцион",
+    "x": 2229.54,
+    "y": -1241.34,
+    "price": 2000123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 300,
+    "server_id": 23,
+    "type": "house",
+    "name": "Sklim Monopoly ",
+    "owner": "Robet_Below",
+    "status": "Аукцион",
+    "x": 2109.6,
+    "y": -1081.15,
+    "price": 999999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 688,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Burbon_Holiday",
+    "status": "Аукцион",
+    "x": 1285.0,
+    "y": 2610.59,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21177,30 +21177,6 @@
     "x": 2045.05,
     "y": -1908.03,
     "price": 9000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 87,
-    "server_id": 23,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Virgin_Infinity",
-    "status": "Аукцион",
-    "x": -91.2371,
-    "y": 1188.43,
-    "price": 8000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 107,
-    "server_id": 23,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Virgin_Infinity",
-    "status": "Аукцион",
-    "x": -1816.68,
-    "y": 617.577,
-    "price": 8000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21500,6 +21476,18 @@
     "status": "Занято",
     "x": -88.742,
     "y": 1378.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 87,
+    "server_id": 23,
+    "type": "business",
+    "name": "Бар",
+    "owner": "WebCam_Tank",
+    "status": "Занято",
+    "x": -91.2371,
+    "y": 1188.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23000,6 +22988,18 @@
     "status": "Занято",
     "x": -2335.81,
     "y": -166.667,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 107,
+    "server_id": 23,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Sky_Yamazaki",
+    "status": "Занято",
+    "x": -1816.68,
+    "y": 617.577,
     "price": 0,
     "district": "Сан-Андреас"
   },
