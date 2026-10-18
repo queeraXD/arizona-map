@@ -10576,7 +10576,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Prince_Rampage",
+    "owner": "Artemiy_Consequence",
     "status": "Занято",
     "x": 2847.13,
     "y": -1309.75,
@@ -10588,7 +10588,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Prince_Rampage",
+    "owner": "Artemiy_Consequence",
     "status": "Занято",
     "x": 2852.5,
     "y": -1365.96,
@@ -12675,8 +12675,8 @@
     "id": 1057,
     "server_id": 18,
     "type": "house",
-    "name": "Дом",
-    "owner": "Jeffrey_Chillaut",
+    "name": "Мой Дом2",
+    "owner": "Boss_Malone",
     "status": "Занято",
     "x": -1970.43,
     "y": 1273.05,
@@ -13964,18 +13964,6 @@
     "status": "Занято",
     "x": 289.286,
     "y": -1619.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1165,
-    "server_id": 18,
-    "type": "house",
-    "name": "Империя ильича",
-    "owner": "Lawrence_Ilich",
-    "status": "Занято",
-    "x": 294.6979,
-    "y": -1623.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22200,6 +22188,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1165,
+    "server_id": 18,
+    "type": "house",
+    "name": "Империя ильича",
+    "owner": "Lawrence_Ilich",
+    "status": "Аукцион",
+    "x": 294.6979,
+    "y": -1623.79,
+    "price": 3400000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1502,
     "server_id": 18,
     "type": "house",
@@ -22209,18 +22209,6 @@
     "x": 2608.15,
     "y": -1216.48,
     "price": 3600000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 170,
-    "server_id": 18,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Anastas_Balush",
-    "status": "Аукцион",
-    "x": 1157.92,
-    "y": 2072.27,
-    "price": 185000,
     "district": "Сан-Андреас"
   },
   {
@@ -24176,6 +24164,18 @@
     "status": "Занято",
     "x": 2331.81,
     "y": 75.087,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 170,
+    "server_id": 18,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Anastas_Balush",
+    "status": "Занято",
+    "x": 1157.92,
+    "y": 2072.27,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -2724,18 +2724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 227,
-    "server_id": 19,
-    "type": "house",
-    "name": "инта/гараж/вентиляция/шкаф",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": 1045.07,
-    "y": -642.3309,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 228,
     "server_id": 19,
     "type": "house",
@@ -7772,6 +7760,18 @@
     "status": "Занято",
     "x": 2450.15,
     "y": 742.632,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 648,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tuborosho_Archive",
+    "status": "Занято",
+    "x": 2448.76,
+    "y": 689.794,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22044,15 +22044,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 648,
+    "id": 227,
     "server_id": 19,
     "type": "house",
-    "name": "Дом",
-    "owner": "Tuborosho_Archive",
+    "name": "инта/гараж/вентиляция/шкаф",
+    "owner": "Kedroviy_Oreh",
     "status": "Аукцион",
-    "x": 2448.76,
-    "y": 689.794,
-    "price": 250000000,
+    "x": 1045.07,
+    "y": -642.3309,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
