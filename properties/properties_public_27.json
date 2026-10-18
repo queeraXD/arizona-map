@@ -7668,18 +7668,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 639,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sugimoto_Kawasaki",
-    "status": "Занято",
-    "x": -278.9989,
-    "y": 1003.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 640,
     "server_id": 27,
     "type": "house",
@@ -10244,18 +10232,6 @@
     "status": "Занято",
     "x": -2102.68,
     "y": 1160.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 854,
-    "server_id": 27,
-    "type": "house",
-    "name": "майнинг",
-    "owner": "Sugimoto_Kawasaki",
-    "status": "Занято",
-    "x": -2084.36,
-    "y": 1161.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24453,6 +24429,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 639,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sugimoto_Kawasaki",
+    "status": "Аукцион",
+    "x": -278.9989,
+    "y": 1003.39,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 854,
+    "server_id": 27,
+    "type": "house",
+    "name": "майнинг",
+    "owner": "Sugimoto_Kawasaki",
+    "status": "Аукцион",
+    "x": -2084.36,
+    "y": 1161.16,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {

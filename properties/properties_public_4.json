@@ -25260,27 +25260,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
+    "id": 123,
     "server_id": 4,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Ramil_Orlov",
+    "owner": "Delusion_Akinaura",
     "status": "Аукцион",
-    "x": 2085.84,
-    "y": 2486.25,
+    "x": -2579.43,
+    "y": 310.085,
     "price": 220000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 184,
-    "server_id": 4,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Doctor_Infernales",
-    "status": "Аукцион",
-    "x": 2351.41,
-    "y": 2405.59,
-    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27504,6 +27492,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 57,
+    "server_id": 4,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ramil_Orlov",
+    "status": "Занято",
+    "x": 2085.84,
+    "y": 2486.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 58,
     "server_id": 4,
     "type": "business",
@@ -27524,18 +27524,6 @@
     "status": "Занято",
     "x": -1967.24,
     "y": 296.392,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 123,
-    "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Delusion_Akinaura",
-    "status": "Занято",
-    "x": -2579.43,
-    "y": 310.085,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28112,6 +28100,18 @@
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 4,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": 2351.41,
+    "y": 2405.59,
     "price": 0,
     "district": "Сан-Андреас"
   },

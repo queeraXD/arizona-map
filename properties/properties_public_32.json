@@ -1416,18 +1416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 123,
-    "server_id": 32,
-    "type": "house",
-    "name": "Jimba house",
-    "owner": "Jimba_Seller",
-    "status": "Занято",
-    "x": 1873.66,
-    "y": -2070.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 124,
     "server_id": 32,
     "type": "house",
@@ -5296,7 +5284,7 @@
     "server_id": 32,
     "type": "house",
     "name": "0404",
-    "owner": "Evil_Xs",
+    "owner": "Mrachni_Evil",
     "status": "Занято",
     "x": 2551.22,
     "y": -5.3846,
@@ -9044,6 +9032,18 @@
     "status": "Занято",
     "x": -2652.52,
     "y": 820.32,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 764,
+    "server_id": 32,
+    "type": "house",
+    "name": "с набором архитектора",
+    "owner": "Jimba_Seller",
+    "status": "Занято",
+    "x": -2645.56,
+    "y": 803.083,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22440,6 +22440,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 123,
+    "server_id": 32,
+    "type": "house",
+    "name": "Jimba house",
+    "owner": "Jimba_Seller",
+    "status": "Аукцион",
+    "x": 1873.66,
+    "y": -2070.49,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 307,
     "server_id": 32,
     "type": "house",
@@ -22448,7 +22460,7 @@
     "status": "Аукцион",
     "x": 1846.61,
     "y": 82.9356,
-    "price": 635000000,
+    "price": 620000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22464,27 +22476,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 764,
-    "server_id": 32,
-    "type": "house",
-    "name": "с набором архитектора",
-    "owner": "Jimba_Seller",
-    "status": "Аукцион",
-    "x": -2645.56,
-    "y": 803.083,
-    "price": 4500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 923,
     "server_id": 32,
     "type": "house",
     "name": "1/4 House",
-    "owner": "Dmitriy_Morgan",
+    "owner": "Goldik_Gold",
     "status": "Аукцион",
     "x": -2239.14,
     "y": 1154.01,
-    "price": 1200000000,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22496,7 +22496,7 @@
     "status": "Аукцион",
     "x": -986.9279,
     "y": -1877.55,
-    "price": 235000000,
+    "price": 220000000,
     "district": "Сан-Андреас"
   },
   {

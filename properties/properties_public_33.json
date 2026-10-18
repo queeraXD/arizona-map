@@ -240,6 +240,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 20,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Doctor_Drey",
+    "status": "Занято",
+    "x": 2150.22,
+    "y": -1285.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 21,
     "server_id": 33,
     "type": "house",
@@ -2792,18 +2804,6 @@
     "status": "Занято",
     "x": 470.8739,
     "y": -1164.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 234,
-    "server_id": 33,
-    "type": "house",
-    "name": ".:: Kabanov House ::.",
-    "owner": "Alexander_Kabanov",
-    "status": "Занято",
-    "x": 416.519,
-    "y": -1154.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6776,18 +6776,6 @@
     "status": "Занято",
     "x": 532.2399,
     "y": 1301.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 572,
-    "server_id": 33,
-    "type": "house",
-    "name": "СФ 572",
-    "owner": "Dota_Plus",
-    "status": "Занято",
-    "x": -2789.17,
-    "y": -181.2929,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11980,7 +11968,7 @@
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Anger_Defender",
+    "owner": "Kris_Sonne",
     "status": "Занято",
     "x": -2534.64,
     "y": 1143.39,
@@ -14127,8 +14115,8 @@
     "id": 1192,
     "server_id": 33,
     "type": "house",
-    "name": "драг",
-    "owner": "Victor_Dragan",
+    "name": "kasatka",
+    "owner": "Aleksei_Kasatkin",
     "status": "Занято",
     "x": -2791.58,
     "y": -17.7355,
@@ -16112,6 +16100,18 @@
     "status": "Занято",
     "x": -688.2239,
     "y": 1242.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1358,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Main_Street",
+    "status": "Занято",
+    "x": 1110.55,
+    "y": -1554.05,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19068,18 +19068,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1639,
-    "server_id": 33,
-    "type": "house",
-    "name": "mer$$ary",
-    "owner": "Tea_Spirit",
-    "status": "Занято",
-    "x": 1974.97,
-    "y": -1671.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1640,
     "server_id": 33,
     "type": "house",
@@ -21292,7 +21280,7 @@
     "server_id": 33,
     "type": "house",
     "name": "деп условия + страховка навсегд",
-    "owner": "Gilbert_McCloud",
+    "owner": "Frost_Rampage",
     "status": "Занято",
     "x": 2639.0,
     "y": 2029.23,
@@ -22308,27 +22296,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1358,
+    "id": 234,
     "server_id": 33,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1110.55,
-    "y": -1554.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 20,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Doctor_Drey",
+    "name": ".:: Kabanov House ::.",
+    "owner": "Alexander_Kabanov",
     "status": "Аукцион",
-    "x": 2150.22,
-    "y": -1285.04,
-    "price": 1500000000,
+    "x": 416.519,
+    "y": -1154.58,
+    "price": 3700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22401,6 +22377,18 @@
     "x": 465.75,
     "y": 1147.6,
     "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 572,
+    "server_id": 33,
+    "type": "house",
+    "name": "СФ 572",
+    "owner": "Dota_Plus",
+    "status": "Аукцион",
+    "x": -2789.17,
+    "y": -181.2929,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22500,6 +22488,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1639,
+    "server_id": 33,
+    "type": "house",
+    "name": "mer$$ary",
+    "owner": "Tea_Spirit",
+    "status": "Аукцион",
+    "x": 1974.97,
+    "y": -1671.19,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1691,
     "server_id": 33,
     "type": "house",
@@ -22520,7 +22520,19 @@
     "status": "Аукцион",
     "x": -36.13628,
     "y": 2350.517,
-    "price": 7500123003,
+    "price": 7000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 204,
+    "server_id": 33,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "David_Beckham",
+    "status": "Аукцион",
+    "x": 1502.14,
+    "y": -1278.58,
+    "price": 8900000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25592,18 +25604,6 @@
     "status": "Занято",
     "x": 1433.75,
     "y": -1739.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 204,
-    "server_id": 33,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "David_Beckham",
-    "status": "Занято",
-    "x": 1502.14,
-    "y": -1278.58,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -4860,18 +4860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 408,
-    "server_id": 23,
-    "type": "house",
-    "name": "Delgado",
-    "owner": "Lovec_Domikov",
-    "status": "Занято",
-    "x": 1428.29,
-    "y": 355.7619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 409,
     "server_id": 23,
     "type": "house",
@@ -5440,7 +5428,7 @@
     "server_id": 23,
     "type": "house",
     "name": "monohouse",
-    "owner": "Tripplicate_Sabotaj",
+    "owner": "Ryzen_Treadreaper",
     "status": "Занято",
     "x": 2040.69,
     "y": 695.8619,
@@ -5452,7 +5440,7 @@
     "server_id": 23,
     "type": "house",
     "name": "вещи бп",
-    "owner": "Tripplicate_Sabotaj",
+    "owner": "Ryzen_Treadreaper",
     "status": "Занято",
     "x": 2069.02,
     "y": 696.2709,
@@ -6016,7 +6004,7 @@
     "server_id": 23,
     "type": "house",
     "name": "VipFarmHouse",
-    "owner": "Metadon_Nenentori",
+    "owner": "Denchik_Feramonov",
     "status": "Занято",
     "x": 1314.4,
     "y": 1930.11,
@@ -11400,6 +11388,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 955,
+    "server_id": 23,
+    "type": "house",
+    "name": "CARL УЖЕ НЕ ДОБЕРМАН",
+    "owner": "Carl_Doberman",
+    "status": "Занято",
+    "x": -2159.6,
+    "y": 946.984,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 956,
     "server_id": 23,
     "type": "house",
@@ -12616,7 +12616,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Grant_Morales",
+    "owner": "Geo_Bellaflores",
     "status": "Занято",
     "x": -1970.43,
     "y": 1273.05,
@@ -16036,7 +16036,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Lv by Tripple",
-    "owner": "Tripplicate_Sabotaj",
+    "owner": "Ryzen_Treadreaper",
     "status": "Занято",
     "x": 1665.6,
     "y": 2569.42,
@@ -16228,7 +16228,7 @@
     "server_id": 23,
     "type": "house",
     "name": "MCD FOREVER",
-    "owner": "Tripplicate_Sabotaj",
+    "owner": "Ryzen_Treadreaper",
     "status": "Занято",
     "x": 2043.3,
     "y": 776.101,
@@ -21144,6 +21144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 408,
+    "server_id": 23,
+    "type": "house",
+    "name": "Delgado",
+    "owner": "Lovec_Domikov",
+    "status": "Аукцион",
+    "x": 1428.29,
+    "y": 355.7619,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 688,
     "server_id": 23,
     "type": "house",
@@ -21153,18 +21165,6 @@
     "x": 1285.0,
     "y": 2610.59,
     "price": 450000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 955,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alexey_Bomjarow",
-    "status": "Аукцион",
-    "x": -2159.6,
-    "y": 946.984,
-    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21188,7 +21188,7 @@
     "status": "Аукцион",
     "x": -2174.971,
     "y": -29.964,
-    "price": 270000,
+    "price": 260000,
     "district": "Сан-Андреас"
   },
   {
@@ -21204,18 +21204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
-    "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Shady_Records",
-    "status": "Аукцион",
-    "x": 1031.61,
-    "y": 1354.3,
-    "price": 210000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 467,
     "server_id": 23,
     "type": "business",
@@ -21224,7 +21212,7 @@
     "status": "Аукцион",
     "x": -2015.06,
     "y": -2.1872,
-    "price": 240000,
+    "price": 230000,
     "district": "Сан-Андреас"
   },
   {
@@ -22736,6 +22724,18 @@
     "status": "Занято",
     "x": 1019.18,
     "y": -1871.74,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 285,
+    "server_id": 23,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Shady_Records",
+    "status": "Занято",
+    "x": 1031.61,
+    "y": 1354.3,
     "price": 0,
     "district": "Сан-Андреас"
   },
