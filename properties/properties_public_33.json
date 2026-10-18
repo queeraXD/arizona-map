@@ -2808,6 +2808,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 234,
+    "server_id": 33,
+    "type": "house",
+    "name": ".:: Kabanov House ::.",
+    "owner": "Alexander_Kabanov",
+    "status": "Занято",
+    "x": 416.519,
+    "y": -1154.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 235,
     "server_id": 33,
     "type": "house",
@@ -6852,6 +6864,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 572,
+    "server_id": 33,
+    "type": "house",
+    "name": "СФ 572",
+    "owner": "Alessandro_Merza",
+    "status": "Занято",
+    "x": -2789.17,
+    "y": -181.2929,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 573,
     "server_id": 33,
     "type": "house",
@@ -7580,18 +7604,6 @@
     "status": "Занято",
     "x": -324.3099,
     "y": 1165.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 635,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sax_Reyx",
-    "status": "Занято",
-    "x": -369.302,
-    "y": 1169.02,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12048,18 +12060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1013,
-    "server_id": 33,
-    "type": "house",
-    "name": "ДОМИК ЯНЫКА",
-    "owner": "Viktor_Yanukovych",
-    "status": "Занято",
-    "x": -2506.37,
-    "y": 1141.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1014,
     "server_id": 33,
     "type": "house",
@@ -15475,18 +15475,6 @@
     "owner": "Sber_Brooks",
     "status": "Занято",
     "x": -2524.31,
-    "y": -145.865,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1299,
-    "server_id": 33,
-    "type": "house",
-    "name": "Домик Яныка",
-    "owner": "Viktor_Yanukovych",
-    "status": "Занято",
-    "x": -2541.46,
     "y": -145.865,
     "price": 0,
     "district": "Сан-Андреас"
@@ -19188,6 +19176,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1639,
+    "server_id": 33,
+    "type": "house",
+    "name": "mer$$ary",
+    "owner": "Tea_Spirit",
+    "status": "Занято",
+    "x": 1974.97,
+    "y": -1671.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1640,
     "server_id": 33,
     "type": "house",
@@ -22428,27 +22428,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 234,
+    "id": 635,
     "server_id": 33,
     "type": "house",
-    "name": ".:: Kabanov House ::.",
-    "owner": "Alexander_Kabanov",
+    "name": "Дом",
+    "owner": "Sax_Reyx",
     "status": "Аукцион",
-    "x": 416.519,
-    "y": -1154.58,
-    "price": 3700000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 572,
-    "server_id": 33,
-    "type": "house",
-    "name": "СФ 572",
-    "owner": "Dota_Plus",
-    "status": "Аукцион",
-    "x": -2789.17,
-    "y": -181.2929,
-    "price": 20000000,
+    "x": -369.302,
+    "y": 1169.02,
+    "price": 9999999999,
     "district": "Сан-Андреас"
   },
   {
@@ -22488,6 +22476,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1013,
+    "server_id": 33,
+    "type": "house",
+    "name": "ДОМИК ЯНЫКА",
+    "owner": "Viktor_Yanukovych",
+    "status": "Аукцион",
+    "x": -2506.37,
+    "y": 1141.87,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1299,
+    "server_id": 33,
+    "type": "house",
+    "name": "Домик Яныка",
+    "owner": "Viktor_Yanukovych",
+    "status": "Аукцион",
+    "x": -2541.46,
+    "y": -145.865,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1413,
     "server_id": 33,
     "type": "house",
@@ -22497,30 +22509,6 @@
     "x": 1105.59,
     "y": -1569.98,
     "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1639,
-    "server_id": 33,
-    "type": "house",
-    "name": "mer$$ary",
-    "owner": "Tea_Spirit",
-    "status": "Аукцион",
-    "x": 1974.97,
-    "y": -1671.19,
-    "price": 800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 204,
-    "server_id": 33,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "David_Beckham",
-    "status": "Аукцион",
-    "x": 1502.14,
-    "y": -1278.58,
-    "price": 8900000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23572,7 +23560,7 @@
     "server_id": 33,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Ilya_Twinki",
+    "owner": "Black_Force",
     "status": "Занято",
     "x": 1288.03,
     "y": 315.808,
@@ -25604,6 +25592,18 @@
     "status": "Занято",
     "x": 1433.75,
     "y": -1739.79,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 204,
+    "server_id": 33,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "David_Beckham",
+    "status": "Занято",
+    "x": 1502.14,
+    "y": -1278.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
