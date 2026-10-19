@@ -8943,7 +8943,7 @@
     "id": 745,
     "server_id": 23,
     "type": "house",
-    "name": "@Nurjon_07 - тг если что",
+    "name": "дом Капитана",
     "owner": "Star_Captain",
     "status": "Занято",
     "x": -2710.75,
@@ -9808,7 +9808,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Brus_Walker",
+    "owner": "Brus_Oushen",
     "status": "Занято",
     "x": -2621.01,
     "y": -173.2859,
@@ -9964,7 +9964,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Brus_Walker",
+    "owner": "Brus_Oushen",
     "status": "Занято",
     "x": -2723.16,
     "y": -16.7231,
@@ -12676,7 +12676,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Geo_Bellaflores",
+    "owner": "Geo_Miller",
     "status": "Занято",
     "x": -1970.43,
     "y": 1273.05,
@@ -15292,7 +15292,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Perignon <З",
-    "owner": "Brus_Walker",
+    "owner": "Brus_Oushen",
     "status": "Занято",
     "x": -2689.53,
     "y": 74.5092,
@@ -15448,7 +15448,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Brus_Walker",
+    "owner": "Brus_Oushen",
     "status": "Занято",
     "x": -2623.43,
     "y": -99.4082,
@@ -19476,6 +19476,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1624,
+    "server_id": 23,
+    "type": "house",
+    "name": "Gachi house",
+    "owner": "Billy_Miligan",
+    "status": "Занято",
+    "x": -2843.69,
+    "y": -2269.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1625,
     "server_id": 23,
     "type": "house",
@@ -21156,27 +21168,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1624,
-    "server_id": 23,
-    "type": "house",
-    "name": "Gachi house",
-    "owner": "Billy_Miligan",
-    "status": "Аукцион",
-    "x": -2843.69,
-    "y": -2269.19,
-    "price": 540000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 49,
+    "id": 147,
     "server_id": 23,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "William_McDaniel",
+    "name": "Отель",
+    "owner": "Shady_Records",
     "status": "Аукцион",
-    "x": 2045.05,
-    "y": -1908.03,
-    "price": 9000000000,
+    "x": -2174.971,
+    "y": -29.964,
+    "price": 260000,
     "district": "Сан-Андреас"
   },
   {
@@ -21189,6 +21189,30 @@
     "x": 2170.48,
     "y": 542.934,
     "price": 6750000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 285,
+    "server_id": 23,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Shady_Records",
+    "status": "Аукцион",
+    "x": 1031.61,
+    "y": 1354.3,
+    "price": 210000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 467,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Shady_Records",
+    "status": "Аукцион",
+    "x": -2015.06,
+    "y": -2.1872,
+    "price": 230000,
     "district": "Сан-Андреас"
   },
   {
@@ -22704,18 +22728,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
-    "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Shady_Records",
-    "status": "Занято",
-    "x": 1031.61,
-    "y": 1354.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 286,
     "server_id": 23,
     "type": "business",
@@ -22844,6 +22856,18 @@
     "status": "Занято",
     "x": 1567.98,
     "y": -1897.55,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 49,
+    "server_id": 23,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Spiridon_Taft",
+    "status": "Занято",
+    "x": 2045.05,
+    "y": -1908.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23688,18 +23712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 147,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Shady_Records",
-    "status": "Занято",
-    "x": -2174.971,
-    "y": -29.964,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 148,
     "server_id": 23,
     "type": "business",
@@ -23924,18 +23936,6 @@
     "status": "Занято",
     "x": 1365.16,
     "y": -1859.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 467,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Shady_Records",
-    "status": "Занято",
-    "x": -2015.06,
-    "y": -2.1872,
     "price": 0,
     "district": "Сан-Андреас"
   },

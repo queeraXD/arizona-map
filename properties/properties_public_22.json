@@ -11620,7 +11620,7 @@
     "server_id": 22,
     "type": "house",
     "name": "Residence of the Revival",
-    "owner": "Lombard_Ghetto",
+    "owner": "Dimon_Revival",
     "status": "Занято",
     "x": -2472.46,
     "y": 2450.19,
@@ -11656,7 +11656,7 @@
     "server_id": 22,
     "type": "house",
     "name": "Residence of the Revival",
-    "owner": "Lombard_Ghetto",
+    "owner": "Dimon_Revival",
     "status": "Занято",
     "x": -2348.76,
     "y": 2423.25,
@@ -19164,6 +19164,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1597,
+    "server_id": 22,
+    "type": "house",
+    "name": "Набор архитектора ",
+    "owner": "Yuna_Gasay",
+    "status": "Занято",
+    "x": 1542.36,
+    "y": 1996.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1598,
     "server_id": 22,
     "type": "house",
@@ -22032,15 +22044,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1597,
+    "id": 209,
     "server_id": 22,
-    "type": "house",
-    "name": "Набор архитектора ",
-    "owner": "Yuna_Gasay",
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Dimon_NaBukhanke",
     "status": "Аукцион",
-    "x": 1542.36,
-    "y": 1996.35,
-    "price": 1250000000,
+    "x": 1976.18,
+    "y": -1980.19,
+    "price": 8000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25184,18 +25196,6 @@
     "status": "Занято",
     "x": 194.751,
     "y": -273.823,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 209,
-    "server_id": 22,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Dimon_NaBukhanke",
-    "status": "Занято",
-    "x": 1976.18,
-    "y": -1980.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

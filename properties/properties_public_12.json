@@ -10392,18 +10392,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 866,
-    "server_id": 12,
-    "type": "house",
-    "name": "Broker 6",
-    "owner": "Dylan_Broker",
-    "status": "Занято",
-    "x": -340.7749,
-    "y": 2565.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 867,
     "server_id": 12,
     "type": "house",
@@ -19516,7 +19504,7 @@
     "server_id": 12,
     "type": "house",
     "name": "House",
-    "owner": "Farmila_Farmilich",
+    "owner": "Drago_Femboy",
     "status": "Занято",
     "x": 957.505,
     "y": 2215.29,
@@ -22944,30 +22932,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1912,
-    "server_id": 12,
-    "type": "house",
-    "name": "Логово Крипто #1",
-    "owner": "Crypto_Milliarder",
-    "status": "Занято",
-    "x": 2643.81,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1913,
-    "server_id": 12,
-    "type": "house",
-    "name": "Логово Крипто #2",
-    "owner": "Crypto_Milliarder",
-    "status": "Занято",
-    "x": 2636.26,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1914,
     "server_id": 12,
     "type": "house",
@@ -22992,18 +22956,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1916,
-    "server_id": 12,
-    "type": "house",
-    "name": "Логово Крипто #3",
-    "owner": "Crypto_Milliarder",
-    "status": "Занято",
-    "x": 2608.38,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1917,
     "server_id": 12,
     "type": "house",
@@ -23012,18 +22964,6 @@
     "status": "Занято",
     "x": 2601.64,
     "y": 2203.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1918,
-    "server_id": 12,
-    "type": "house",
-    "name": "Логово Крипто #5",
-    "owner": "Crypto_Milliarder",
-    "status": "Занято",
-    "x": 2601.64,
-    "y": 2194.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23112,18 +23052,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1926,
-    "server_id": 12,
-    "type": "house",
-    "name": "Логово Крипто #6",
-    "owner": "Crypto_Milliarder",
-    "status": "Занято",
-    "x": 2601.64,
-    "y": 2204.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1927,
     "server_id": 12,
     "type": "house",
@@ -23184,18 +23112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1932,
-    "server_id": 12,
-    "type": "house",
-    "name": "Логово Крипто #7",
-    "owner": "Crypto_Milliarder",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2180.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1933,
     "server_id": 12,
     "type": "house",
@@ -23204,42 +23120,6 @@
     "status": "Занято",
     "x": 2591.62,
     "y": 2188.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1934,
-    "server_id": 12,
-    "type": "house",
-    "name": "Логово Крипто #8",
-    "owner": "Crypto_Milliarder",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2197.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1935,
-    "server_id": 12,
-    "type": "house",
-    "name": "Логово Крипто #9",
-    "owner": "Crypto_Milliarder",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2206.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1936,
-    "server_id": 12,
-    "type": "house",
-    "name": "Логово Крипто #10",
-    "owner": "Crypto_Milliarder",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2215.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23817,6 +23697,126 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 866,
+    "server_id": 12,
+    "type": "house",
+    "name": "Broker 6",
+    "owner": "Dylan_Broker",
+    "status": "Аукцион",
+    "x": -340.7749,
+    "y": 2565.41,
+    "price": 1285000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1912,
+    "server_id": 12,
+    "type": "house",
+    "name": "Логово Крипто #1",
+    "owner": "Crypto_Milliarder",
+    "status": "Аукцион",
+    "x": 2643.81,
+    "y": 2195.56,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1913,
+    "server_id": 12,
+    "type": "house",
+    "name": "Логово Крипто #2",
+    "owner": "Crypto_Milliarder",
+    "status": "Аукцион",
+    "x": 2636.26,
+    "y": 2195.56,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1916,
+    "server_id": 12,
+    "type": "house",
+    "name": "Логово Крипто #3",
+    "owner": "Crypto_Milliarder",
+    "status": "Аукцион",
+    "x": 2608.38,
+    "y": 2195.56,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1918,
+    "server_id": 12,
+    "type": "house",
+    "name": "Логово Крипто #5",
+    "owner": "Crypto_Milliarder",
+    "status": "Аукцион",
+    "x": 2601.64,
+    "y": 2194.66,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1926,
+    "server_id": 12,
+    "type": "house",
+    "name": "Логово Крипто #6",
+    "owner": "Crypto_Milliarder",
+    "status": "Аукцион",
+    "x": 2601.64,
+    "y": 2204.01,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1932,
+    "server_id": 12,
+    "type": "house",
+    "name": "Логово Крипто #7",
+    "owner": "Crypto_Milliarder",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2180.53,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1934,
+    "server_id": 12,
+    "type": "house",
+    "name": "Логово Крипто #8",
+    "owner": "Crypto_Milliarder",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2197.28,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1935,
+    "server_id": 12,
+    "type": "house",
+    "name": "Логово Крипто #9",
+    "owner": "Crypto_Milliarder",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2206.64,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1936,
+    "server_id": 12,
+    "type": "house",
+    "name": "Логово Крипто #10",
+    "owner": "Crypto_Milliarder",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2215.97,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
