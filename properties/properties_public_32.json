@@ -5292,6 +5292,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 442,
+    "server_id": 32,
+    "type": "house",
+    "name": "Сдез Скиф",
+    "owner": "Kansai_Gremory",
+    "status": "Занято",
+    "x": 2389.24,
+    "y": -1037.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 443,
     "server_id": 32,
     "type": "house",
@@ -6012,18 +6024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 503,
-    "server_id": 32,
-    "type": "house",
-    "name": "Noveria",
-    "owner": "Riley_Wilsone",
-    "status": "Занято",
-    "x": 1341.49,
-    "y": 1930.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 504,
     "server_id": 32,
     "type": "house",
@@ -6068,18 +6068,6 @@
     "status": "Занято",
     "x": 1364.26,
     "y": 2022.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 508,
-    "server_id": 32,
-    "type": "house",
-    "name": "Noveria",
-    "owner": "Riley_Wilsone",
-    "status": "Занято",
-    "x": 1320.53,
-    "y": 2028.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8967,8 +8955,8 @@
     "id": 752,
     "server_id": 32,
     "type": "house",
-    "name": "Cameron Empire",
-    "owner": "Alex_Cameron",
+    "name": "Morgue empire",
+    "owner": "Wicked_Morgue",
     "status": "Занято",
     "x": -2641.07,
     "y": 935.7189,
@@ -10900,7 +10888,7 @@
     "server_id": 32,
     "type": "house",
     "name": "PARBAR",
-    "owner": "Roman_Parbar",
+    "owner": "Duke_Rybron",
     "status": "Занято",
     "x": -2159.76,
     "y": 1066.95,
@@ -15772,7 +15760,7 @@
     "server_id": 32,
     "type": "house",
     "name": "dream corp.",
-    "owner": "White_Notwanted",
+    "owner": "White_Underground",
     "status": "Занято",
     "x": 1488.61,
     "y": 360.9039,
@@ -22500,15 +22488,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 442,
+    "id": 503,
     "server_id": 32,
     "type": "house",
-    "name": "bull office",
-    "owner": "Goldik_Gold",
+    "name": "Noveria",
+    "owner": "Secret_Sunrlse",
     "status": "Аукцион",
-    "x": 2389.24,
-    "y": -1037.06,
-    "price": 1500000000,
+    "x": 1341.49,
+    "y": 1930.03,
+    "price": 2200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 508,
+    "server_id": 32,
+    "type": "house",
+    "name": "Noveria",
+    "owner": "Secret_Sunrlse",
+    "status": "Аукцион",
+    "x": 1320.53,
+    "y": 2028.12,
+    "price": 2200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22521,6 +22521,18 @@
     "x": -986.9279,
     "y": -1877.55,
     "price": 210000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 335,
+    "server_id": 32,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Aleksandr_Amurov",
+    "status": "Аукцион",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26525,18 +26537,6 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "Implored_Space",
-    "status": "Занято",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 335,
-    "server_id": 32,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Aleksandr_Amurov",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

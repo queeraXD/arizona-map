@@ -3600,18 +3600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 300,
-    "server_id": 23,
-    "type": "house",
-    "name": "Sklim Monopoly ",
-    "owner": "Robet_Below",
-    "status": "Занято",
-    "x": 2109.6,
-    "y": -1081.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 301,
     "server_id": 23,
     "type": "house",
@@ -4892,18 +4880,6 @@
     "status": "Занято",
     "x": 1413.46,
     "y": 362.799,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 408,
-    "server_id": 23,
-    "type": "house",
-    "name": "Delgado",
-    "owner": "Lovec_Domikov",
-    "status": "Занято",
-    "x": 1428.29,
-    "y": 355.7619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16164,18 +16140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1348,
-    "server_id": 23,
-    "type": "house",
-    "name": "с набором архитектора и деп ",
-    "owner": "Goha_Stepanov",
-    "status": "Занято",
-    "x": 1515.98,
-    "y": 2610.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1349,
     "server_id": 23,
     "type": "house",
@@ -19476,18 +19440,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1624,
-    "server_id": 23,
-    "type": "house",
-    "name": "Gachi house",
-    "owner": "Billy_Miligan",
-    "status": "Занято",
-    "x": -2843.69,
-    "y": -2269.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1625,
     "server_id": 23,
     "type": "house",
@@ -21168,15 +21120,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 199,
+    "id": 300,
     "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Yurchik_Lvovskiy",
+    "type": "house",
+    "name": "Sklim Monopoly ",
+    "owner": "Robet_Below",
     "status": "Аукцион",
-    "x": 1771.74,
-    "y": -1903.27,
-    "price": 110000,
+    "x": 2109.6,
+    "y": -1081.15,
+    "price": 900123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 408,
+    "server_id": 23,
+    "type": "house",
+    "name": "Delgado",
+    "owner": "Lovec_Domikov",
+    "status": "Аукцион",
+    "x": 1428.29,
+    "y": 355.7619,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1348,
+    "server_id": 23,
+    "type": "house",
+    "name": "с набором архитектора и деп ",
+    "owner": "Goha_Stepanov",
+    "status": "Аукцион",
+    "x": 1515.98,
+    "y": 2610.18,
+    "price": 2200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1624,
+    "server_id": 23,
+    "type": "house",
+    "name": "Gachi house",
+    "owner": "Billy_Miligan",
+    "status": "Аукцион",
+    "x": -2843.69,
+    "y": -2269.19,
+    "price": 540000,
     "district": "Сан-Андреас"
   },
   {
@@ -24200,6 +24188,18 @@
     "status": "Занято",
     "x": -1826.43,
     "y": -566.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 199,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Yurchik_Lvovskiy",
+    "status": "Занято",
+    "x": 1771.74,
+    "y": -1903.27,
     "price": 0,
     "district": "Сан-Андреас"
   },

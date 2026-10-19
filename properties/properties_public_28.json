@@ -2500,7 +2500,7 @@
     "server_id": 28,
     "type": "house",
     "name": ":uf259:Amado:uf259:",
-    "owner": "Amado_Carillo",
+    "owner": "Choppa_Lawson",
     "status": "Занято",
     "x": 1298.77,
     "y": -799.3189,
@@ -2619,8 +2619,8 @@
     "id": 218,
     "server_id": 28,
     "type": "house",
-    "name": "The Family Estate Lawson",
-    "owner": "Choppa_Lawson",
+    "name": "Помоечка Граймса)",
+    "owner": "Michael_Grimes",
     "status": "Занято",
     "x": 836.2189,
     "y": -894.2999,
@@ -7632,18 +7632,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 637,
-    "server_id": 28,
-    "type": "house",
-    "name": "Flamingo",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": -362.6669,
-    "y": 1110.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 638,
     "server_id": 28,
     "type": "house",
@@ -9116,18 +9104,6 @@
     "status": "Занято",
     "x": -2726.67,
     "y": 822.992,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 761,
-    "server_id": 28,
-    "type": "house",
-    "name": "Кабаны и его лесная братва",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": -2700.33,
-    "y": 820.8649,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11868,18 +11844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 991,
-    "server_id": 28,
-    "type": "house",
-    "name": "FLORIDA COMPANY 2",
-    "owner": "Flo_Rida",
-    "status": "Занято",
-    "x": 977.3939,
-    "y": -771.3049,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 992,
     "server_id": 28,
     "type": "house",
@@ -12932,18 +12896,6 @@
     "status": "Занято",
     "x": -2884.2,
     "y": 995.635,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1080,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дaча в San-Fierro",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": -2876.04,
-    "y": 980.9829,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16032,18 +15984,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1338,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": 1664.81,
-    "y": 2846.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1339,
     "server_id": 28,
     "type": "house",
@@ -16088,18 +16028,6 @@
     "status": "Занято",
     "x": 1665.6,
     "y": 2569.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1343,
-    "server_id": 28,
-    "type": "house",
-    "name": "SkyLake",
-    "owner": "Hiro_SkyLake",
-    "status": "Занято",
-    "x": 1646.47,
-    "y": 2569.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19008,18 +18936,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1586,
-    "server_id": 28,
-    "type": "house",
-    "name": "Бристоль и его команда ",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1205.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1587,
     "server_id": 28,
     "type": "house",
@@ -21228,18 +21144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1772,
-    "server_id": 28,
-    "type": "house",
-    "name": "майнинг 1лвл",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": 1868.35,
-    "y": -2037.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1773,
     "server_id": 28,
     "type": "house",
@@ -22368,6 +22272,90 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 637,
+    "server_id": 28,
+    "type": "house",
+    "name": "Flamingo",
+    "owner": "Aleksei_Saranskiy",
+    "status": "Аукцион",
+    "x": -362.6669,
+    "y": 1110.63,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 761,
+    "server_id": 28,
+    "type": "house",
+    "name": "Кабаны и его лесная братва",
+    "owner": "Aleksei_Saranskiy",
+    "status": "Аукцион",
+    "x": -2700.33,
+    "y": 820.8649,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 991,
+    "server_id": 28,
+    "type": "house",
+    "name": "FLORIDA COMPANY 2",
+    "owner": "Flo_Rida",
+    "status": "Аукцион",
+    "x": 977.3939,
+    "y": -771.3049,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1080,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дaча в San-Fierro",
+    "owner": "Aleksei_Saranskiy",
+    "status": "Аукцион",
+    "x": -2876.04,
+    "y": 980.9829,
+    "price": 850000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1338,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Aleksei_Saranskiy",
+    "status": "Аукцион",
+    "x": 1664.81,
+    "y": 2846.08,
+    "price": 195000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1343,
+    "server_id": 28,
+    "type": "house",
+    "name": "SkyLake",
+    "owner": "Hiro_SkyLake",
+    "status": "Аукцион",
+    "x": 1646.47,
+    "y": 2569.59,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1586,
+    "server_id": 28,
+    "type": "house",
+    "name": "Бристоль и его команда ",
+    "owner": "Aleksei_Saranskiy",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1205.32,
+    "price": 310000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1699,
     "server_id": 28,
     "type": "house",
@@ -22377,6 +22365,18 @@
     "x": -923.741,
     "y": -496.97,
     "price": 300123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1772,
+    "server_id": 28,
+    "type": "house",
+    "name": "майнинг 1лвл",
+    "owner": "Aleksei_Saranskiy",
+    "status": "Аукцион",
+    "x": 1868.35,
+    "y": -2037.99,
+    "price": 225000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23800,7 +23800,7 @@
     "server_id": 28,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Antony_Abudabi",
+    "owner": "Ivan_Graf",
     "status": "Занято",
     "x": 2170.48,
     "y": 542.934,

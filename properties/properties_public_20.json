@@ -5160,30 +5160,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 430,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Занято",
-    "x": 248.332,
-    "y": -33.1693,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 431,
-    "server_id": 20,
-    "type": "house",
-    "name": "Аполлон",
-    "owner": "Apolon_Lorenso",
-    "status": "Занято",
-    "x": 253.3269,
-    "y": -22.4484,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 432,
     "server_id": 20,
     "type": "house",
@@ -5824,7 +5800,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Мирни скуф",
-    "owner": "Vanya_Pryanik",
+    "owner": "Maks_Vandetta",
     "status": "Занято",
     "x": 2122.4,
     "y": 731.726,
@@ -8864,18 +8840,6 @@
     "status": "Занято",
     "x": -2857.66,
     "y": 957.028,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 739,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kaspyskiy_Gruz",
-    "status": "Занято",
-    "x": -2845.31,
-    "y": 928.414,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15708,6 +15672,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1309,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Foxy_Mortan",
+    "status": "Занято",
+    "x": -2515.38,
+    "y": -170.9069,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1310,
     "server_id": 20,
     "type": "house",
@@ -20008,7 +19984,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Blackwood Team!",
-    "owner": "Lars_Blackwood",
+    "owner": "Shaggy_Blackwood",
     "status": "Занято",
     "x": 2476.31,
     "y": -1417.72,
@@ -22356,15 +22332,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1309,
+    "id": 430,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
-    "owner": "Michael_Kitsune",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
     "status": "Аукцион",
-    "x": -2515.38,
-    "y": -170.9069,
-    "price": 400000000,
+    "x": 248.332,
+    "y": -33.1693,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 431,
+    "server_id": 20,
+    "type": "house",
+    "name": "Аполлон",
+    "owner": "Apolon_Lorenso",
+    "status": "Аукцион",
+    "x": 253.3269,
+    "y": -22.4484,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 739,
+    "server_id": 20,
+    "type": "house",
+    "name": "Майнинг №1 (видяхи 5лвл)",
+    "owner": "Kaspyskiy_Gruz",
+    "status": "Аукцион",
+    "x": -2845.31,
+    "y": 928.414,
+    "price": 3123123123,
     "district": "Сан-Андреас"
   },
   {
