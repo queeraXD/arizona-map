@@ -2907,7 +2907,7 @@
     "id": 242,
     "server_id": 20,
     "type": "house",
-    "name": "Дом культуры.",
+    "name": "<-дом охраняется лео кусли",
     "owner": "Radovan_Karadzic",
     "status": "Занято",
     "x": 255.1679,
@@ -6284,6 +6284,18 @@
     "status": "Занято",
     "x": 1641.14,
     "y": 2149.78,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 524,
+    "server_id": 20,
+    "type": "house",
+    "name": "ВСЕ УЛУЧШЕНИЕ",
+    "owner": "Shawty_LowSkill",
+    "status": "Занято",
+    "x": 1596.98,
+    "y": 2147.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11340,6 +11352,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 946,
+    "server_id": 20,
+    "type": "house",
+    "name": "домик",
+    "owner": "dakol",
+    "status": "Занято",
+    "x": -2282.42,
+    "y": 999.619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 947,
     "server_id": 20,
     "type": "house",
@@ -15680,18 +15704,6 @@
     "status": "Занято",
     "x": -2515.38,
     "y": -189.2209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1309,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michael_Kitsune",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -170.9069,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22344,27 +22356,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 524,
+    "id": 1309,
     "server_id": 20,
     "type": "house",
-    "name": "ВСЕ УЛУЧШЕНИЕ",
-    "owner": "Makson_Brabus",
+    "name": "Дом",
+    "owner": "Michael_Kitsune",
     "status": "Аукцион",
-    "x": 1596.98,
-    "y": 2147.31,
-    "price": 450123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 946,
-    "server_id": 20,
-    "type": "house",
-    "name": "домик",
-    "owner": "dakol",
-    "status": "Аукцион",
-    "x": -2282.42,
-    "y": 999.619,
-    "price": 1000000000,
+    "x": -2515.38,
+    "y": -170.9069,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {

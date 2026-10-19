@@ -3012,18 +3012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 251,
-    "server_id": 26,
-    "type": "house",
-    "name": "2ww",
-    "owner": "Phantom_Aufpz",
-    "status": "Занято",
-    "x": 2480.55,
-    "y": 126.995,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 252,
     "server_id": 26,
     "type": "house",
@@ -4359,7 +4347,7 @@
     "id": 363,
     "server_id": 26,
     "type": "house",
-    "name": "Дом",
+    "name": "дайте дениг",
     "owner": "Igor_Schwarz",
     "status": "Занято",
     "x": 822.473,
@@ -12003,7 +11991,7 @@
     "id": 1001,
     "server_id": 26,
     "type": "house",
-    "name": "дарк ку всем",
+    "name": "morph home",
     "owner": "Morph_Nevermore",
     "status": "Занято",
     "x": -2369.51,
@@ -14872,7 +14860,7 @@
     "server_id": 26,
     "type": "house",
     "name": "№9 Velasco | аксы и скины",
-    "owner": "Roman_Dostoevski",
+    "owner": "Inquisitor_Angles",
     "status": "Занято",
     "x": -2383.14,
     "y": 1262.97,
@@ -15100,7 +15088,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Vishnevsky ",
-    "owner": "Dimka_Mclarren",
+    "owner": "Dima_Visnevskiy",
     "status": "Занято",
     "x": -2358.62,
     "y": 656.7349,
@@ -16828,7 +16816,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Прогрев корпорейшн",
-    "owner": "Sael_Souka",
+    "owner": "Sakimori_Souka",
     "status": "Занято",
     "x": 1110.53,
     "y": -1578.45,
@@ -17744,18 +17732,6 @@
     "status": "Занято",
     "x": 883.95,
     "y": 2104.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1480,
-    "server_id": 26,
-    "type": "house",
-    "name": "MANTO home",
-    "owner": "Vastapero_Manto",
-    "status": "Занято",
-    "x": 883.95,
-    "y": 2131.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22695,8 +22671,8 @@
     "id": 1893,
     "server_id": 26,
     "type": "house",
-    "name": "@Nekit_Pyshkin",
-    "owner": "Itachi_Sharingan",
+    "name": "Suprovech Corp",
+    "owner": "Stormy_Suprovech",
     "status": "Занято",
     "x": -2927.52,
     "y": -2261.42,
@@ -25176,6 +25152,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 251,
+    "server_id": 26,
+    "type": "house",
+    "name": "2ww",
+    "owner": "Phantom_Aufpz",
+    "status": "Аукцион",
+    "x": 2480.55,
+    "y": 126.995,
+    "price": 12000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1480,
+    "server_id": 26,
+    "type": "house",
+    "name": "MANTO home",
+    "owner": "Vastapero_Manto",
+    "status": "Аукцион",
+    "x": 883.95,
+    "y": 2131.46,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1531,
     "server_id": 26,
     "type": "house",
@@ -25188,87 +25188,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
+    "id": 89,
     "server_id": 26,
     "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Ilya_Andreev",
+    "name": "Магазин одежды",
+    "owner": "Phantom_Aufpz",
     "status": "Аукцион",
-    "x": 31.576,
-    "y": -2638.06,
-    "price": 300000,
+    "x": 2102.49,
+    "y": 2257.4,
+    "price": 130000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 56,
-    "server_id": 26,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ilya_Andreev",
-    "status": "Аукцион",
-    "x": 1671.52,
-    "y": 1814.33,
-    "price": 300000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 58,
-    "server_id": 26,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ilya_Andreev",
-    "status": "Аукцион",
-    "x": -19.209,
-    "y": 1175.23,
-    "price": 400000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 64,
-    "server_id": 26,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Ilya_Andreev",
-    "status": "Аукцион",
-    "x": -1465.86,
-    "y": 1873.41,
-    "price": 200000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 81,
-    "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ilya_Andreev",
-    "status": "Аукцион",
-    "x": 2101.89,
-    "y": 2228.81,
-    "price": 200000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 180,
+    "id": 195,
     "server_id": 26,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Ilya_Andreev",
+    "owner": "Cody_Heart",
     "status": "Аукцион",
-    "x": -63.12,
-    "y": 1208.9,
-    "price": 300000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 231,
-    "server_id": 26,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Ilya_Andreev",
-    "status": "Аукцион",
-    "x": 1186.48,
-    "y": -1512.85,
-    "price": 300000,
+    "x": -1548.81,
+    "y": 673.91,
+    "price": 89000,
     "district": "Сан-Андреас"
   },
   {
@@ -26076,6 +26016,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 231,
+    "server_id": 26,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Ilya_Andreev",
+    "status": "Занято",
+    "x": 1186.48,
+    "y": -1512.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 257,
     "server_id": 26,
     "type": "business",
@@ -26180,18 +26132,6 @@
     "status": "Занято",
     "x": 461.259,
     "y": -1500.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 89,
-    "server_id": 26,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Phantom_Aufpz",
-    "status": "Занято",
-    "x": 2102.49,
-    "y": 2257.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26508,6 +26448,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 27,
+    "server_id": 26,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Ilya_Andreev",
+    "status": "Занято",
+    "x": 31.576,
+    "y": -2638.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 28,
     "server_id": 26,
     "type": "business",
@@ -26624,6 +26576,18 @@
     "status": "Занято",
     "x": -1320.49,
     "y": 2698.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 64,
+    "server_id": 26,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Ilya_Andreev",
+    "status": "Занято",
+    "x": -1465.86,
+    "y": 1873.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26960,6 +26924,18 @@
     "status": "Занято",
     "x": 2638.3,
     "y": 1671.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 81,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Ilya_Andreev",
+    "status": "Занято",
+    "x": 2101.89,
+    "y": 2228.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27432,6 +27408,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 56,
+    "server_id": 26,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ilya_Andreev",
+    "status": "Занято",
+    "x": 1671.52,
+    "y": 1814.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 57,
     "server_id": 26,
     "type": "business",
@@ -27440,6 +27428,18 @@
     "status": "Занято",
     "x": 2085.84,
     "y": 2486.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 58,
+    "server_id": 26,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ilya_Andreev",
+    "status": "Занято",
+    "x": -19.209,
+    "y": 1175.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27996,6 +27996,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 180,
+    "server_id": 26,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Ilya_Andreev",
+    "status": "Занято",
+    "x": -63.12,
+    "y": 1208.9,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 181,
     "server_id": 26,
     "type": "business",
@@ -28160,18 +28172,6 @@
     "status": "Занято",
     "x": -2022.61,
     "y": 459.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 195,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Cody_Heart",
-    "status": "Занято",
-    "x": -1548.81,
-    "y": 673.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28672,7 +28672,7 @@
     "server_id": 26,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Stormy_Suprovech",
+    "owner": "Itachi_Sharingan",
     "status": "Занято",
     "x": -1084.85,
     "y": -3129.33,
