@@ -1452,18 +1452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 121,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом ТикТокера Raifox",
-    "owner": "Raifox_Mami",
-    "status": "Занято",
-    "x": 1854.06,
-    "y": -1914.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 122,
     "server_id": 32,
     "type": "house",
@@ -4839,7 +4827,7 @@
     "id": 403,
     "server_id": 32,
     "type": "house",
-    "name": "[10] FF Community (M. W.)",
+    "name": "02 sea ohaus ",
     "owner": "Jennyfer_Lover",
     "status": "Занято",
     "x": 2411.22,
@@ -5300,6 +5288,18 @@
     "status": "Занято",
     "x": -691.8779,
     "y": 939.5889,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 442,
+    "server_id": 32,
+    "type": "house",
+    "name": "bull office",
+    "owner": "Goldik_Gold",
+    "status": "Занято",
+    "x": 2389.24,
+    "y": -1037.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6027,8 +6027,8 @@
     "id": 503,
     "server_id": 32,
     "type": "house",
-    "name": "хинкальная",
-    "owner": "Raifox_Mami",
+    "name": "Noveria",
+    "owner": "Riley_Wilsone",
     "status": "Занято",
     "x": 1341.49,
     "y": 1930.03,
@@ -8424,18 +8424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 705,
-    "server_id": 32,
-    "type": "house",
-    "name": "West LV",
-    "owner": "Kyle_Blaze",
-    "status": "Занято",
-    "x": 1554.44,
-    "y": 2610.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 706,
     "server_id": 32,
     "type": "house",
@@ -8696,18 +8684,6 @@
     "status": "Занято",
     "x": 1654.69,
     "y": 2801.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 729,
-    "server_id": 32,
-    "type": "house",
-    "name": "$Barrington$ LV",
-    "owner": "Kyle_Blaze",
-    "status": "Занято",
-    "x": 1637.76,
-    "y": 2802.02,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11620,7 +11596,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Александр ",
-    "owner": "Aleksander_Monopoly",
+    "owner": "Neicool_Youngs",
     "status": "Занято",
     "x": -2478.74,
     "y": 2488.76,
@@ -12159,7 +12135,7 @@
     "id": 1018,
     "server_id": 32,
     "type": "house",
-    "name": "FF community (Женечкин<3)",
+    "name": "01 sea ohaus ",
     "owner": "Jennyfer_Lover",
     "status": "Занято",
     "x": -2541.3,
@@ -18471,7 +18447,7 @@
     "id": 1574,
     "server_id": 32,
     "type": "house",
-    "name": "майнинг 3",
+    "name": "Revenant Famq(Mining 1)",
     "owner": "Kirito_Revenant",
     "status": "Занято",
     "x": 2787.95,
@@ -18956,18 +18932,6 @@
     "status": "Занято",
     "x": 2537.03,
     "y": 1236.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1615,
-    "server_id": 32,
-    "type": "house",
-    "name": "Жена Автомаляра",
-    "owner": "Kyle_Blaze",
-    "status": "Занято",
-    "x": 2537.03,
-    "y": 1235.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22500,15 +22464,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 442,
+    "id": 121,
     "server_id": 32,
     "type": "house",
-    "name": "bull office",
-    "owner": "Goldik_Gold",
+    "name": "Дом ТикТокера Raifox",
+    "owner": "Raifox_Mami",
     "status": "Аукцион",
-    "x": 2389.24,
-    "y": -1037.06,
-    "price": 1500000000,
+    "x": 1854.06,
+    "y": -1914.52,
+    "price": 9999999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 705,
+    "server_id": 32,
+    "type": "house",
+    "name": "West LV",
+    "owner": "Kyle_Blaze",
+    "status": "Аукцион",
+    "x": 1554.44,
+    "y": 2610.42,
+    "price": 2800123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 729,
+    "server_id": 32,
+    "type": "house",
+    "name": "$Barrington$ LV",
+    "owner": "Kyle_Blaze",
+    "status": "Аукцион",
+    "x": 1637.76,
+    "y": 2802.02,
+    "price": 2800123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22520,7 +22508,19 @@
     "status": "Аукцион",
     "x": 276.325,
     "y": -1620.47,
-    "price": 1000000123,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1615,
+    "server_id": 32,
+    "type": "house",
+    "name": "Жена Автомаляра",
+    "owner": "Kyle_Blaze",
+    "status": "Аукцион",
+    "x": 2537.03,
+    "y": 1235.31,
+    "price": 1800123123,
     "district": "Сан-Андреас"
   },
   {

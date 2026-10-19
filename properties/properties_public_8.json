@@ -732,6 +732,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 61,
+    "server_id": 8,
+    "type": "house",
+    "name": "Candy Squad",
+    "owner": "Skezz_Young",
+    "status": "Занято",
+    "x": 2513.55,
+    "y": -1650.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 62,
     "server_id": 8,
     "type": "house",
@@ -5984,30 +5996,6 @@
     "status": "Занято",
     "x": 1409.02,
     "y": 1919.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 500,
-    "server_id": 8,
-    "type": "house",
-    "name": "Ульяновск 73 | LA ELITE | 3",
-    "owner": "Mark_Golovanskiy",
-    "status": "Занято",
-    "x": 1407.95,
-    "y": 1897.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 501,
-    "server_id": 8,
-    "type": "house",
-    "name": "Ульяновск 73 | LA ELITE | 4",
-    "owner": "Mark_Golovanskiy",
-    "status": "Занято",
-    "x": 1364.67,
-    "y": 1896.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25776,15 +25764,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 61,
+    "id": 500,
     "server_id": 8,
     "type": "house",
-    "name": "Candy Squad",
-    "owner": "Skezz_Young",
+    "name": "Ульяновск 73 | LA ELITE | 3",
+    "owner": "Mark_Golovanskiy",
     "status": "Аукцион",
-    "x": 2513.55,
-    "y": -1650.3,
-    "price": 5000000000,
+    "x": 1407.95,
+    "y": 1897.05,
+    "price": 1350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 501,
+    "server_id": 8,
+    "type": "house",
+    "name": "Ульяновск 73 | LA ELITE | 4",
+    "owner": "Mark_Golovanskiy",
+    "status": "Аукцион",
+    "x": 1364.67,
+    "y": 1896.72,
+    "price": 1350000000,
     "district": "Сан-Андреас"
   },
   {
