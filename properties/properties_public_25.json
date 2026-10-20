@@ -504,6 +504,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 42,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Saloedov",
+    "status": "Занято",
+    "x": 2550.99,
+    "y": -1233.79,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 43,
     "server_id": 25,
     "type": "house",
@@ -2739,8 +2751,8 @@
     "id": 229,
     "server_id": 25,
     "type": "house",
-    "name": "SYNDICATE «xReez» MINNG10 $VW",
-    "owner": "Aurelien_Bettencourt",
+    "name": "ANTICOCIAL",
+    "owner": "Lans_Bespredelov",
     "status": "Занято",
     "x": 699.8419,
     "y": -1059.95,
@@ -9684,18 +9696,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 808,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kairat_Nurtas",
-    "status": "Занято",
-    "x": -2722.88,
-    "y": -127.9029,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 809,
     "server_id": 25,
     "type": "house",
@@ -9788,18 +9788,6 @@
     "status": "Занято",
     "x": -2688.33,
     "y": -175.0939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 817,
-    "server_id": 25,
-    "type": "house",
-    "name": "вечер в хату только не вам ",
-    "owner": "Kairat_Nurtas",
-    "status": "Занято",
-    "x": -2621.01,
-    "y": -173.2859,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9992,6 +9980,18 @@
     "status": "Занято",
     "x": -2234.63,
     "y": 870.7579,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 834,
+    "server_id": 25,
+    "type": "house",
+    "name": "Деп Услови, Гараж, Подв майн",
+    "owner": "Vizart_Wemp",
+    "status": "Занято",
+    "x": -2233.89,
+    "y": 849.1599,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11984,18 +11984,6 @@
     "status": "Занято",
     "x": -2369.51,
     "y": 1121.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1002,
-    "server_id": 25,
-    "type": "house",
-    "name": "[Steiner] House",
-    "owner": "Kairat_Nurtas",
-    "status": "Занято",
-    "x": -2413.55,
-    "y": 1137.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21192,18 +21180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1769,
-    "server_id": 25,
-    "type": "house",
-    "name": "черный и так ебашит",
-    "owner": "Kairat_Nurtas",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2150.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1770,
     "server_id": 25,
     "type": "house",
@@ -22947,7 +22923,7 @@
     "id": 1917,
     "server_id": 25,
     "type": "house",
-    "name": "005",
+    "name": "Набор творчества",
     "owner": "Christian_Gilbert",
     "status": "Занято",
     "x": 1751.46,
@@ -23748,27 +23724,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 42,
+    "id": 808,
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Vladimir_Saloedov",
+    "owner": "Kairat_Nurtas",
     "status": "Аукцион",
-    "x": 2550.99,
-    "y": -1233.79,
-    "price": 999999999,
+    "x": -2722.88,
+    "y": -127.9029,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 834,
+    "id": 817,
     "server_id": 25,
     "type": "house",
-    "name": "Деп Услови, Гараж, Подв майн",
-    "owner": "Vizart_Wemp",
+    "name": "вечер в хату только не вам ",
+    "owner": "Kairat_Nurtas",
     "status": "Аукцион",
-    "x": -2233.89,
-    "y": 849.1599,
-    "price": 300000000,
+    "x": -2621.01,
+    "y": -173.2859,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1002,
+    "server_id": 25,
+    "type": "house",
+    "name": "[Steiner] House",
+    "owner": "Kairat_Nurtas",
+    "status": "Аукцион",
+    "x": -2413.55,
+    "y": 1137.33,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1769,
+    "server_id": 25,
+    "type": "house",
+    "name": "черный и так ебашит",
+    "owner": "Kairat_Nurtas",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2150.0,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {

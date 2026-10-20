@@ -3276,18 +3276,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 273,
-    "server_id": 29,
-    "type": "house",
-    "name": "Johnson House",
-    "owner": "Frederic_Johnson",
-    "status": "Занято",
-    "x": 2626.07,
-    "y": -1112.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 274,
     "server_id": 29,
     "type": "house",
@@ -3920,6 +3908,18 @@
     "status": "Занято",
     "x": 340.0769,
     "y": 33.6021,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 327,
+    "server_id": 29,
+    "type": "house",
+    "name": "ROLAND 1",
+    "owner": "Alfred_Roland",
+    "status": "Занято",
+    "x": 342.376,
+    "y": 62.625,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8380,7 +8380,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Brian_Lorenzo",
+    "owner": "Trc_Usdt",
     "status": "Занято",
     "x": 1417.82,
     "y": 2567.98,
@@ -8528,18 +8528,6 @@
     "status": "Занято",
     "x": 1607.08,
     "y": 2679.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 712,
-    "server_id": 29,
-    "type": "house",
-    "name": "Блядишник",
-    "owner": "Swat_Bondovsky",
-    "status": "Занято",
-    "x": 1573.09,
-    "y": 2658.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9056,18 +9044,6 @@
     "status": "Занято",
     "x": -2791.58,
     "y": -145.9559,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 756,
-    "server_id": 29,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Trc_Usdt",
-    "status": "Занято",
-    "x": -2731.47,
-    "y": 723.703,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11324,18 +11300,6 @@
     "status": "Занято",
     "x": -2295.25,
     "y": 969.6619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 945,
-    "server_id": 29,
-    "type": "house",
-    "name": "Rafael house",
-    "owner": "Trc_Usdt",
-    "status": "Занято",
-    "x": -2281.96,
-    "y": 979.2269,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21132,15 +21096,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 327,
+    "id": 273,
     "server_id": 29,
     "type": "house",
-    "name": "ROLAND 1",
-    "owner": "Alfred_Roland",
+    "name": "Johnson House",
+    "owner": "Frederic_Johnson",
     "status": "Аукцион",
-    "x": 342.376,
-    "y": 62.625,
-    "price": 777777777,
+    "x": 2626.07,
+    "y": -1112.56,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 712,
+    "server_id": 29,
+    "type": "house",
+    "name": "Блядишник",
+    "owner": "Swat_Bondovsky",
+    "status": "Аукцион",
+    "x": 1573.09,
+    "y": 2658.39,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 756,
+    "server_id": 29,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Trc_Usdt",
+    "status": "Аукцион",
+    "x": -2731.47,
+    "y": 723.703,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 945,
+    "server_id": 29,
+    "type": "house",
+    "name": "Rafael house",
+    "owner": "Trc_Usdt",
+    "status": "Аукцион",
+    "x": -2281.96,
+    "y": 979.2269,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 217,
+    "server_id": 29,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Ferdinando_Varacalli",
+    "status": "Аукцион",
+    "x": 2537.82,
+    "y": 2137.12,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24308,18 +24320,6 @@
     "status": "Занято",
     "x": 2327.86,
     "y": 2421.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 217,
-    "server_id": 29,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Ferdinando_Varacalli",
-    "status": "Занято",
-    "x": 2537.82,
-    "y": 2137.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
