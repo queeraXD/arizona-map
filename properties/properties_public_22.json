@@ -8868,18 +8868,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 739,
-    "server_id": 22,
-    "type": "house",
-    "name": "BLASE №5",
-    "owner": "Blase_Revival",
-    "status": "Занято",
-    "x": -2845.31,
-    "y": 928.414,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 740,
     "server_id": 22,
     "type": "house",
@@ -10264,7 +10252,7 @@
     "server_id": 22,
     "type": "house",
     "name": "BLASE №6",
-    "owner": "Blase_Revival",
+    "owner": "Dimon_Revival",
     "status": "Занято",
     "x": -2479.74,
     "y": 2449.0,
@@ -12992,18 +12980,6 @@
     "status": "Занято",
     "x": -2844.68,
     "y": 921.177,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1084,
-    "server_id": 22,
-    "type": "house",
-    "name": "BLASE №9",
-    "owner": "Blase_Revival",
-    "status": "Занято",
-    "x": -2844.09,
-    "y": 914.401,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17700,18 +17676,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1476,
-    "server_id": 22,
-    "type": "house",
-    "name": "<3 Домик Орбита <3",
-    "owner": "December_Orbit",
-    "status": "Занято",
-    "x": 937.3469,
-    "y": 1872.822,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1477,
     "server_id": 22,
     "type": "house",
@@ -22032,6 +21996,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 739,
+    "server_id": 22,
+    "type": "house",
+    "name": "BLASE №5",
+    "owner": "Blase_Revival",
+    "status": "Аукцион",
+    "x": -2845.31,
+    "y": 928.414,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1044,
     "server_id": 22,
     "type": "house",
@@ -22044,15 +22020,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 209,
+    "id": 1084,
     "server_id": 22,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Dimon_NaBukhanke",
+    "type": "house",
+    "name": "BLASE №9",
+    "owner": "Blase_Revival",
     "status": "Аукцион",
-    "x": 1976.18,
-    "y": -1980.19,
-    "price": 8000000000,
+    "x": -2844.09,
+    "y": 914.401,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1476,
+    "server_id": 22,
+    "type": "house",
+    "name": "<3 Домик Орбита <3",
+    "owner": "December_Orbit",
+    "status": "Аукцион",
+    "x": 937.3469,
+    "y": 1872.822,
+    "price": 210000,
     "district": "Сан-Андреас"
   },
   {
@@ -25196,6 +25184,18 @@
     "status": "Занято",
     "x": 194.751,
     "y": -273.823,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 209,
+    "server_id": 22,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Dimon_NaBukhanke",
+    "status": "Занято",
+    "x": 1976.18,
+    "y": -1980.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

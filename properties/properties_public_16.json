@@ -12468,18 +12468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1040,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sanya_Minomet",
-    "status": "Занято",
-    "x": -1727.98,
-    "y": 1138.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1041,
     "server_id": 16,
     "type": "house",
@@ -22464,6 +22452,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1040,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sanya_Minomet",
+    "status": "Аукцион",
+    "x": -1727.98,
+    "y": 1138.91,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 16,
     "type": "business",
@@ -24136,7 +24136,7 @@
     "server_id": 16,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Ice_Winter",
+    "owner": "Ice_Markelovani",
     "status": "Занято",
     "x": 2045.05,
     "y": -1908.03,
@@ -24220,7 +24220,7 @@
     "server_id": 16,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Ice_Winter",
+    "owner": "Ice_Markelovani",
     "status": "Занято",
     "x": 1872.26,
     "y": 2071.74,

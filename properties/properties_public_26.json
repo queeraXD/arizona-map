@@ -1539,7 +1539,7 @@
     "id": 128,
     "server_id": 26,
     "type": "house",
-    "name": "Gang The Rifa",
+    "name": "Притон Rifa",
     "owner": "Antonio_Trump",
     "status": "Занято",
     "x": 1801.93,
@@ -1599,8 +1599,8 @@
     "id": 133,
     "server_id": 26,
     "type": "house",
-    "name": "Прокурор местный тут",
-    "owner": "Igor_Prokuratura",
+    "name": "Gang the Rifa",
+    "owner": "Antonio_Trump",
     "status": "Занято",
     "x": 1762.4,
     "y": -2102.1,
@@ -5115,7 +5115,7 @@
     "id": 427,
     "server_id": 26,
     "type": "house",
-    "name": "PaFoSi House",
+    "name": "Tumanovv.",
     "owner": "Gorod_Tumanov",
     "status": "Занято",
     "x": 271.57,
@@ -6368,6 +6368,18 @@
     "status": "Занято",
     "x": 1929.81,
     "y": 2774.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 532,
+    "server_id": 26,
+    "type": "house",
+    "name": "FORMULA1",
+    "owner": "Adolf_Zitraks",
+    "status": "Занято",
+    "x": 1931.33,
+    "y": 2721.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21720,6 +21732,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1818,
+    "server_id": 26,
+    "type": "house",
+    "name": "Douglas",
+    "owner": "Dmitriy_Avery",
+    "status": "Занято",
+    "x": 2368.76,
+    "y": 962.8369,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1819,
     "server_id": 26,
     "type": "house",
@@ -25104,18 +25128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 532,
-    "server_id": 26,
-    "type": "house",
-    "name": "FORMULA1",
-    "owner": "Christopher_McLarren",
-    "status": "Аукцион",
-    "x": 1931.33,
-    "y": 2721.72,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 771,
     "server_id": 26,
     "type": "house",
@@ -25176,15 +25188,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1818,
+    "id": 209,
     "server_id": 26,
-    "type": "house",
-    "name": "Douglas",
-    "owner": "Dmitriy_Avery",
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Phantom_Aufpz",
     "status": "Аукцион",
-    "x": 2368.76,
-    "y": 962.8369,
-    "price": 4000,
+    "x": 1976.18,
+    "y": -1980.19,
+    "price": 7000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -28328,18 +28340,6 @@
     "status": "Занято",
     "x": 194.751,
     "y": -273.823,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 209,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Phantom_Aufpz",
-    "status": "Занято",
-    "x": 1976.18,
-    "y": -1980.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

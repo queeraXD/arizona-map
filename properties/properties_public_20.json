@@ -9688,7 +9688,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Домик",
-    "owner": "Nexus_Jerry",
+    "owner": "Alexey_Plachik",
     "status": "Занято",
     "x": -2722.88,
     "y": -127.9029,
@@ -11336,6 +11336,18 @@
     "status": "Занято",
     "x": -2281.96,
     "y": 979.2269,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 946,
+    "server_id": 20,
+    "type": "house",
+    "name": "домик",
+    "owner": "dakol",
+    "status": "Занято",
+    "x": -2282.42,
+    "y": 999.619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19608,18 +19620,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1636,
-    "server_id": 20,
-    "type": "house",
-    "name": "art majest пиши дс spacexgod.",
-    "owner": "Echo_Terror",
-    "status": "Занято",
-    "x": 2781.94,
-    "y": -1333.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1637,
     "server_id": 20,
     "type": "house",
@@ -20863,18 +20863,6 @@
     "owner": "Solo_Asala",
     "status": "Занято",
     "x": 2476.46,
-    "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1741,
-    "server_id": 20,
-    "type": "house",
-    "name": "SAMJEV",
-    "owner": "Echo_Terror",
-    "status": "Занято",
-    "x": 2492.25,
     "y": -1398.81,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22356,15 +22344,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 946,
+    "id": 1636,
     "server_id": 20,
     "type": "house",
-    "name": "домик",
-    "owner": "dakol",
+    "name": "art majest пиши дс spacexgod.",
+    "owner": "Echo_Terror",
     "status": "Аукцион",
-    "x": -2282.42,
-    "y": 999.619,
-    "price": 1000000000,
+    "x": 2781.94,
+    "y": -1333.44,
+    "price": 333333333,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1741,
+    "server_id": 20,
+    "type": "house",
+    "name": "SAMJEV",
+    "owner": "Echo_Terror",
+    "status": "Аукцион",
+    "x": 2492.25,
+    "y": -1398.81,
+    "price": 222222222,
     "district": "Сан-Андреас"
   },
   {

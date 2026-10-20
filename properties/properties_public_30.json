@@ -2520,30 +2520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 210,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mini_Pekka",
-    "status": "Занято",
-    "x": 1112.41,
-    "y": -742.067,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 211,
-    "server_id": 30,
-    "type": "house",
-    "name": "Ash & Особняк ВВ(Sell 17ккк)",
-    "owner": "Ash_Devilside",
-    "status": "Занято",
-    "x": 1034.62,
-    "y": -812.7239,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 212,
     "server_id": 30,
     "type": "house",
@@ -6876,18 +6852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 573,
-    "server_id": 30,
-    "type": "house",
-    "name": "4дом",
-    "owner": "Aleksej_Lova",
-    "status": "Занято",
-    "x": -169.026,
-    "y": 2707.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 574,
     "server_id": 30,
     "type": "house",
@@ -7880,18 +7844,6 @@
     "status": "Занято",
     "x": 1978.35,
     "y": 665.8079,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 657,
-    "server_id": 30,
-    "type": "house",
-    "name": "набор архитектора",
-    "owner": "Vladislav_Potter",
-    "status": "Занято",
-    "x": 1030.52,
-    "y": 1928.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11427,8 +11379,8 @@
     "id": 952,
     "server_id": 30,
     "type": "house",
-    "name": "Kunimen",
-    "owner": "Rustam_Anderson",
+    "name": "OG AIRLINES",
+    "owner": "Kachika_Folium",
     "status": "Занято",
     "x": -2159.84,
     "y": 1001.99,
@@ -20584,7 +20536,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Destroyers",
-    "owner": "Alex_Destroyer",
+    "owner": "Sergio_Tohok",
     "status": "Занято",
     "x": 2824.04,
     "y": 2268.69,
@@ -22761,6 +22713,54 @@
     "x": 2063.18,
     "y": 2204.3,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 210,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mini_Pekka",
+    "status": "Аукцион",
+    "x": 1112.41,
+    "y": -742.067,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 211,
+    "server_id": 30,
+    "type": "house",
+    "name": "Ash & Особняк ВВ(Sell 17ккк)",
+    "owner": "Ash_Devilside",
+    "status": "Аукцион",
+    "x": 1034.62,
+    "y": -812.7239,
+    "price": 220000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 573,
+    "server_id": 30,
+    "type": "house",
+    "name": "4дом",
+    "owner": "Aleksej_Lova",
+    "status": "Аукцион",
+    "x": -169.026,
+    "y": 2707.24,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 657,
+    "server_id": 30,
+    "type": "house",
+    "name": "набор архитектора",
+    "owner": "Vladislav_Potter",
+    "status": "Аукцион",
+    "x": 1030.52,
+    "y": 1928.08,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
