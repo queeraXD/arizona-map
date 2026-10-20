@@ -504,18 +504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 42,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Saloedov",
-    "status": "Занято",
-    "x": 2550.99,
-    "y": -1233.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 43,
     "server_id": 25,
     "type": "house",
@@ -6520,7 +6508,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Семья ",
-    "owner": "Adrian_Ghost",
+    "owner": "Savva_Cekalin",
     "status": "Занято",
     "x": 1950.41,
     "y": 2663.21,
@@ -10004,18 +9992,6 @@
     "status": "Занято",
     "x": -2234.63,
     "y": 870.7579,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 834,
-    "server_id": 25,
-    "type": "house",
-    "name": "Деп Услови, Гараж, Подв майн",
-    "owner": "Vizart_Wemp",
-    "status": "Занято",
-    "x": -2233.89,
-    "y": 849.1599,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16260,6 +16236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1356,
+    "server_id": 25,
+    "type": "house",
+    "name": "WrightFamily",
+    "owner": "Alan_Wright",
+    "status": "Занято",
+    "x": -726.984,
+    "y": 1260.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1357,
     "server_id": 25,
     "type": "house",
@@ -22296,6 +22284,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1862,
+    "server_id": 25,
+    "type": "house",
+    "name": "1862",
+    "owner": "Wadimka_Trubchanin",
+    "status": "Занято",
+    "x": 2473.15,
+    "y": -1410.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1863,
     "server_id": 25,
     "type": "house",
@@ -23748,27 +23748,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1356,
+    "id": 42,
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
+    "owner": "Vladimir_Saloedov",
     "status": "Аукцион",
-    "x": -726.984,
-    "y": 1260.69,
-    "price": 10000000,
+    "x": 2550.99,
+    "y": -1233.79,
+    "price": 999999999,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1862,
+    "id": 834,
     "server_id": 25,
     "type": "house",
-    "name": "1862",
-    "owner": "Wadimka_Trubchanin",
+    "name": "Деп Услови, Гараж, Подв майн",
+    "owner": "Vizart_Wemp",
     "status": "Аукцион",
-    "x": 2473.15,
-    "y": -1410.35,
-    "price": 1000000000,
+    "x": -2233.89,
+    "y": 849.1599,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {

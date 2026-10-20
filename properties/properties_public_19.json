@@ -2856,18 +2856,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 238,
-    "server_id": 19,
-    "type": "house",
-    "name": "инта/подвал/подвал для майнинга",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 1095.35,
-    "y": -646.234,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 239,
     "server_id": 19,
     "type": "house",
@@ -11276,18 +11264,6 @@
     "status": "Занято",
     "x": -2282.42,
     "y": 999.619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 947,
-    "server_id": 19,
-    "type": "house",
-    "name": "marcel",
-    "owner": "Vincent_Haines",
-    "status": "Занято",
-    "x": -2239.15,
-    "y": 943.854,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21324,18 +21300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1787,
-    "server_id": 19,
-    "type": "house",
-    "name": "Pumbich / benzongggg",
-    "owner": "Pum_Ba",
-    "status": "Занято",
-    "x": 1382.15,
-    "y": -1088.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1788,
     "server_id": 19,
     "type": "house",
@@ -21948,6 +21912,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 238,
+    "server_id": 19,
+    "type": "house",
+    "name": "инта/подвал/подвал для майнинга",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": 1095.35,
+    "y": -646.234,
+    "price": 6500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 347,
     "server_id": 19,
     "type": "house",
@@ -22020,6 +21996,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 947,
+    "server_id": 19,
+    "type": "house",
+    "name": "marcel",
+    "owner": "Vincent_Haines",
+    "status": "Аукцион",
+    "x": -2239.15,
+    "y": 943.854,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1094,
     "server_id": 19,
     "type": "house",
@@ -22053,6 +22041,18 @@
     "x": 2707.31,
     "y": -1224.7,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1787,
+    "server_id": 19,
+    "type": "house",
+    "name": "Pumbich / benzongggg",
+    "owner": "Pum_Ba",
+    "status": "Аукцион",
+    "x": 1382.15,
+    "y": -1088.78,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -22156,7 +22156,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Penny_Wise",
+    "owner": "Miles_Grant",
     "status": "Занято",
     "x": -1508.91,
     "y": 2610.7,

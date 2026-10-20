@@ -6936,18 +6936,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 578,
-    "server_id": 5,
-    "type": "house",
-    "name": "ДОМ В ЛВ 0",
-    "owner": "Vlad_Mafik",
-    "status": "Занято",
-    "x": -232.7579,
-    "y": 2807.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 579,
     "server_id": 5,
     "type": "house",
@@ -12900,18 +12888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1075,
-    "server_id": 5,
-    "type": "house",
-    "name": "666",
-    "owner": "Vlad_Mafik",
-    "status": "Занято",
-    "x": 1786.98,
-    "y": 2767.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1076,
     "server_id": 5,
     "type": "house",
@@ -13172,18 +13148,6 @@
     "status": "Занято",
     "x": 1733.42,
     "y": 2814.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1098,
-    "server_id": 5,
-    "type": "house",
-    "name": "Кайф хата",
-    "owner": "Vlad_Mafik",
-    "status": "Занято",
-    "x": 1734.18,
-    "y": 2812.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23952,18 +23916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1996,
-    "server_id": 5,
-    "type": "house",
-    "name": "boss",
-    "owner": "Vlad_Mafik",
-    "status": "Занято",
-    "x": 2648.31,
-    "y": 2029.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1997,
     "server_id": 5,
     "type": "house",
@@ -25113,6 +25065,54 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 578,
+    "server_id": 5,
+    "type": "house",
+    "name": "ДОМ В ЛВ 0",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -232.7579,
+    "y": 2807.55,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1075,
+    "server_id": 5,
+    "type": "house",
+    "name": "666",
+    "owner": "Vlad_Mafik",
+    "status": "Аукцион",
+    "x": 1786.98,
+    "y": 2767.43,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1098,
+    "server_id": 5,
+    "type": "house",
+    "name": "Кайф хата",
+    "owner": "Vlad_Mafik",
+    "status": "Аукцион",
+    "x": 1734.18,
+    "y": 2812.16,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1996,
+    "server_id": 5,
+    "type": "house",
+    "name": "boss",
+    "owner": "Vlad_Mafik",
+    "status": "Аукцион",
+    "x": 2648.31,
+    "y": 2029.24,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27292,7 +27292,7 @@
     "server_id": 5,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Akayo_Advent",
+    "owner": "Valera_Selyuk",
     "status": "Занято",
     "x": 157.238,
     "y": -1808.59,
