@@ -2736,18 +2736,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 230,
-    "server_id": 33,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Wpe_Club",
-    "status": "Занято",
-    "x": 648.1329,
-    "y": -1058.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 231,
     "server_id": 33,
     "type": "house",
@@ -2780,18 +2768,6 @@
     "status": "Занято",
     "x": 470.8739,
     "y": -1164.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 234,
-    "server_id": 33,
-    "type": "house",
-    "name": ".:: Kabanov House ::.",
-    "owner": "Alexander_Kabanov",
-    "status": "Занято",
-    "x": 416.519,
-    "y": -1154.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2924,18 +2900,6 @@
     "status": "Занято",
     "x": 398.14,
     "y": -1271.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 246,
-    "server_id": 33,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Wpe_Club",
-    "status": "Занято",
-    "x": 431.881,
-    "y": -1253.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15396,6 +15360,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1290,
+    "server_id": 33,
+    "type": "house",
+    "name": "Хата Васька лічна ",
+    "owner": "Vasya_Barabula",
+    "status": "Занято",
+    "x": -2576.54,
+    "y": -82.9039,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1291,
     "server_id": 33,
     "type": "house",
@@ -15487,42 +15463,6 @@
     "owner": "Sber_Brooks",
     "status": "Занято",
     "x": -2524.31,
-    "y": -145.865,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1299,
-    "server_id": 33,
-    "type": "house",
-    "name": "Домик Яныка",
-    "owner": "Viktor_Yanukovych",
-    "status": "Занято",
-    "x": -2541.46,
-    "y": -145.865,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1300,
-    "server_id": 33,
-    "type": "house",
-    "name": "Домик Яныка",
-    "owner": "Viktor_Yanukovych",
-    "status": "Занято",
-    "x": -2558.69,
-    "y": -145.865,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1301,
-    "server_id": 33,
-    "type": "house",
-    "name": "Домик Яныка",
-    "owner": "Viktor_Yanukovych",
-    "status": "Занято",
-    "x": -2576.54,
     "y": -145.865,
     "price": 0,
     "district": "Сан-Андреас"
@@ -16856,18 +16796,6 @@
     "status": "Занято",
     "x": 1115.72,
     "y": -1570.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1413,
-    "server_id": 33,
-    "type": "house",
-    "name": "Barrington Chill",
-    "owner": "Gilbert_McCloud",
-    "status": "Занято",
-    "x": 1105.59,
-    "y": -1569.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19812,18 +19740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1691,
-    "server_id": 33,
-    "type": "house",
-    "name": "Drey FAM",
-    "owner": "Hrvoje_Brozovic",
-    "status": "Занято",
-    "x": 1110.52,
-    "y": -1554.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1692,
     "server_id": 33,
     "type": "house",
@@ -22464,6 +22380,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 230,
+    "server_id": 33,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Wpe_Club",
+    "status": "Аукцион",
+    "x": 648.1329,
+    "y": -1058.27,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 234,
+    "server_id": 33,
+    "type": "house",
+    "name": ".:: Kabanov House ::.",
+    "owner": "Alexander_Kabanov",
+    "status": "Аукцион",
+    "x": 416.519,
+    "y": -1154.58,
+    "price": 3700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 246,
+    "server_id": 33,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Wpe_Club",
+    "status": "Аукцион",
+    "x": 431.881,
+    "y": -1253.44,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1012,
     "server_id": 33,
     "type": "house",
@@ -22476,15 +22428,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1290,
+    "id": 1299,
     "server_id": 33,
     "type": "house",
-    "name": "Хата Васька лічна ",
-    "owner": "Vasya_Barabula",
+    "name": "Домик Яныка",
+    "owner": "Viktor_Yanukovych",
+    "status": "Аукцион",
+    "x": -2541.46,
+    "y": -145.865,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1300,
+    "server_id": 33,
+    "type": "house",
+    "name": "Домик Яныка",
+    "owner": "Viktor_Yanukovych",
+    "status": "Аукцион",
+    "x": -2558.69,
+    "y": -145.865,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1301,
+    "server_id": 33,
+    "type": "house",
+    "name": "Домик Яныка",
+    "owner": "Viktor_Yanukovych",
     "status": "Аукцион",
     "x": -2576.54,
-    "y": -82.9039,
-    "price": 476000000,
+    "y": -145.865,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1413,
+    "server_id": 33,
+    "type": "house",
+    "name": "Barrington Chill",
+    "owner": "Gilbert_McCloud",
+    "status": "Аукцион",
+    "x": 1105.59,
+    "y": -1569.98,
+    "price": 1200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22512,15 +22500,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 105,
+    "id": 1691,
+    "server_id": 33,
+    "type": "house",
+    "name": "Drey FAM",
+    "owner": "Hrvoje_Brozovic",
+    "status": "Аукцион",
+    "x": 1110.52,
+    "y": -1554.05,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 90,
     "server_id": 33,
     "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Clyde_Evervess",
+    "name": "Магазин одежды",
+    "owner": "Jack_Mestniy",
     "status": "Аукцион",
-    "x": -2588.35,
-    "y": 59.904,
+    "x": 2802.89,
+    "y": 2430.66,
     "price": 7500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 111,
+    "server_id": 33,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Jack_Mestniy",
+    "status": "Аукцион",
+    "x": -2768.275,
+    "y": 788.7758,
+    "price": 9500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23268,6 +23280,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 105,
+    "server_id": 33,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Clyde_Evervess",
+    "status": "Занято",
+    "x": -2588.35,
+    "y": 59.904,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 134,
     "server_id": 33,
     "type": "business",
@@ -23444,18 +23468,6 @@
     "status": "Занято",
     "x": 2102.49,
     "y": 2257.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 90,
-    "server_id": 33,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Jack_Mestniy",
-    "status": "Занято",
-    "x": 2802.89,
-    "y": 2430.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24356,18 +24368,6 @@
     "status": "Занято",
     "x": -2443.85,
     "y": 755.418,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 111,
-    "server_id": 33,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Jack_Mestniy",
-    "status": "Занято",
-    "x": -2768.275,
-    "y": 788.7758,
     "price": 0,
     "district": "Сан-Андреас"
   },
