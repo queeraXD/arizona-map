@@ -504,6 +504,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 42,
+    "server_id": 7,
+    "type": "house",
+    "name": "Козочкин Дом",
+    "owner": "Nadezhda_Righter",
+    "status": "Занято",
+    "x": 2550.93,
+    "y": -1235.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 43,
     "server_id": 7,
     "type": "house",
@@ -4808,18 +4820,6 @@
     "status": "Занято",
     "x": 2438.82,
     "y": -54.6911,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 402,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Absolute_Solver",
-    "status": "Занято",
-    "x": 2448.44,
-    "y": -11.0635,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25536,15 +25536,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 42,
+    "id": 402,
     "server_id": 7,
     "type": "house",
-    "name": "Belfort",
-    "owner": "Martin_Belfort",
+    "name": "Дом",
+    "owner": "Absolute_Solver",
     "status": "Аукцион",
-    "x": 2550.93,
-    "y": -1235.19,
-    "price": 5500000000,
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 7000000000,
     "district": "Сан-Андреас"
   },
   {
