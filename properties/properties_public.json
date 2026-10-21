@@ -7596,6 +7596,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 635,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sax_Reyx",
+    "status": "Занято",
+    "x": -369.302,
+    "y": 1169.02,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 636,
     "server_id": 33,
     "type": "house",
@@ -11272,7 +11284,7 @@
     "server_id": 33,
     "type": "house",
     "name": "House Miller",
-    "owner": "Waypmen_Jylik",
+    "owner": "Three_Umph",
     "status": "Занято",
     "x": -2281.96,
     "y": 979.2269,
@@ -11288,6 +11300,18 @@
     "status": "Занято",
     "x": -2282.42,
     "y": 999.619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 947,
+    "server_id": 33,
+    "type": "house",
+    "name": "Energy Squad",
+    "owner": "Evan_Backer",
+    "status": "Занято",
+    "x": -2239.15,
+    "y": 943.854,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11932,7 +11956,7 @@
     "server_id": 33,
     "type": "house",
     "name": "ЛУДОМАН",
-    "owner": "Majami_Boston",
+    "owner": "Three_Umph",
     "status": "Занято",
     "x": -2369.51,
     "y": 1121.8,
@@ -15588,18 +15612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1306,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alehandro_First",
-    "status": "Занято",
-    "x": -2541.36,
-    "y": -198.7969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1307,
     "server_id": 33,
     "type": "house",
@@ -15896,6 +15908,18 @@
     "status": "Занято",
     "x": 1564.78,
     "y": 2776.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1332,
+    "server_id": 33,
+    "type": "house",
+    "name": "Вiльча ",
+    "owner": "Abloh_Virgil",
+    "status": "Занято",
+    "x": 1565.47,
+    "y": 2757.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21012,6 +21036,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1789,
+    "server_id": 33,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vlad_Lanisterr",
+    "status": "Занято",
+    "x": 2617.68,
+    "y": 2195.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1790,
     "server_id": 33,
     "type": "house",
@@ -22452,18 +22488,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1332,
-    "server_id": 33,
-    "type": "house",
-    "name": "Вiльча ",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1565.47,
-    "y": 2757.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 234,
     "server_id": 33,
     "type": "house",
@@ -22476,75 +22500,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 635,
+    "id": 1306,
     "server_id": 33,
     "type": "house",
     "name": "Дом",
-    "owner": "Sax_Reyx",
+    "owner": "Alehandro_First",
     "status": "Аукцион",
-    "x": -369.302,
-    "y": 1169.02,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 947,
-    "server_id": 33,
-    "type": "house",
-    "name": "Energy Squad",
-    "owner": "RedBull_Energy",
-    "status": "Аукцион",
-    "x": -2239.15,
-    "y": 943.854,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1789,
-    "server_id": 33,
-    "type": "house",
-    "name": "Дом",
-    "owner": "RedBull_Energy",
-    "status": "Аукцион",
-    "x": 2617.68,
-    "y": 2195.56,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 90,
-    "server_id": 33,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Jack_Mestniy",
-    "status": "Аукцион",
-    "x": 2802.89,
-    "y": 2430.66,
-    "price": 7000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 111,
-    "server_id": 33,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Jack_Mestniy",
-    "status": "Аукцион",
-    "x": -2768.275,
-    "y": 788.7758,
-    "price": 9000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 464,
-    "server_id": 33,
-    "type": "business",
-    "name": "Аренда сетов",
-    "owner": "Milkey_Galante",
-    "status": "Аукцион",
-    "x": 1210.84,
-    "y": 206.113,
-    "price": 420000,
+    "x": -2541.36,
+    "y": -198.7969,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23484,6 +23448,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 90,
+    "server_id": 33,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Jack_Mestniy",
+    "status": "Занято",
+    "x": 2802.89,
+    "y": 2430.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 119,
     "server_id": 33,
     "type": "business",
@@ -24380,6 +24356,18 @@
     "status": "Занято",
     "x": -2443.85,
     "y": 755.418,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 111,
+    "server_id": 33,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Jack_Mestniy",
+    "status": "Занято",
+    "x": -2768.275,
+    "y": 788.7758,
     "price": 0,
     "district": "Сан-Андреас"
   },
