@@ -12348,6 +12348,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1030,
+    "server_id": 2,
+    "type": "house",
+    "name": "Продается",
+    "owner": "Leo_Dexter",
+    "status": "Занято",
+    "x": -2840.12,
+    "y": 867.0339,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1031,
     "server_id": 2,
     "type": "house",
@@ -13256,30 +13268,6 @@
     "status": "Занято",
     "x": 1802.79,
     "y": -1300.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1107,
-    "server_id": 2,
-    "type": "house",
-    "name": "La Feat Mafia",
-    "owner": "Nick_Hawk",
-    "status": "Занято",
-    "x": 1817.8,
-    "y": -1276.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1108,
-    "server_id": 2,
-    "type": "house",
-    "name": "La Feat Mafia",
-    "owner": "Nick_Hawk",
-    "status": "Занято",
-    "x": 1817.78,
-    "y": -1286.87,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23940,15 +23928,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1030,
+    "id": 1107,
     "server_id": 2,
     "type": "house",
-    "name": "Продается",
-    "owner": "Leo_Dexter",
+    "name": "La Feat Mafia",
+    "owner": "Nick_Hawk",
     "status": "Аукцион",
-    "x": -2840.12,
-    "y": 867.0339,
-    "price": 900,
+    "x": 1817.8,
+    "y": -1276.42,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1108,
+    "server_id": 2,
+    "type": "house",
+    "name": "La Feat Mafia",
+    "owner": "Nick_Hawk",
+    "status": "Аукцион",
+    "x": 1817.78,
+    "y": -1286.87,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
