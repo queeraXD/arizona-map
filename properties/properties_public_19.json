@@ -2724,6 +2724,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 227,
+    "server_id": 19,
+    "type": "house",
+    "name": "инта/гараж/вентиляция/шкаф",
+    "owner": "Kedroviy_Oreh",
+    "status": "Занято",
+    "x": 1045.07,
+    "y": -642.3309,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 228,
     "server_id": 19,
     "type": "house",
@@ -4252,7 +4264,7 @@
     "server_id": 19,
     "type": "house",
     "name": "pod vv sadness house",
-    "owner": "Nova_Sadness",
+    "owner": "Black_Pill",
     "status": "Занято",
     "x": 1288.34,
     "y": -873.7819,
@@ -20016,18 +20028,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1670,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~",
-    "owner": "Anthony_Garfild",
-    "status": "Занято",
-    "x": 1832.59,
-    "y": 2742.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1671,
     "server_id": 19,
     "type": "house",
@@ -20607,8 +20607,8 @@
     "id": 1719,
     "server_id": 19,
     "type": "house",
-    "name": "sadness monopoly",
-    "owner": "Nova_Sadness",
+    "name": "Видюхи",
+    "owner": "Batai_Belov",
     "status": "Занято",
     "x": 1534.72,
     "y": 2026.91,
@@ -20619,8 +20619,8 @@
     "id": 1720,
     "server_id": 19,
     "type": "house",
-    "name": "sadness monopoly",
-    "owner": "Nova_Sadness",
+    "name": "Видюхи",
+    "owner": "Batai_Belov",
     "status": "Занято",
     "x": 1542.27,
     "y": 2026.95,
@@ -21056,18 +21056,6 @@
     "status": "Занято",
     "x": 2707.31,
     "y": -1200.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1757,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~",
-    "owner": "Yoshiro_Kalimov",
-    "status": "Занято",
-    "x": 2690.54,
-    "y": -1224.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22044,15 +22032,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 227,
+    "id": 1670,
     "server_id": 19,
     "type": "house",
-    "name": "инта/гараж/вентиляция/шкаф",
-    "owner": "Kedroviy_Oreh",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1832.59,
+    "y": 2742.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1757,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Yoshiro_Kalimov",
     "status": "Аукцион",
-    "x": 1045.07,
-    "y": -642.3309,
-    "price": 3333333333,
+    "x": 2690.54,
+    "y": -1224.74,
+    "price": 1000123,
     "district": "Сан-Андреас"
   },
   {

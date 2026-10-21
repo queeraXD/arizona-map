@@ -3276,6 +3276,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 273,
+    "server_id": 29,
+    "type": "house",
+    "name": "Johnson House",
+    "owner": "Frederic_Johnson",
+    "status": "Занято",
+    "x": 2626.07,
+    "y": -1112.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 274,
     "server_id": 29,
     "type": "house",
@@ -6708,6 +6720,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 560,
+    "server_id": 29,
+    "type": "house",
+    "name": "Flecsika 6",
+    "owner": "Ric_Cobra",
+    "status": "Занято",
+    "x": 227.699,
+    "y": 1070.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 561,
     "server_id": 29,
     "type": "house",
@@ -6744,6 +6768,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 564,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Niko_Negroni",
+    "status": "Занято",
+    "x": 258.3089,
+    "y": 1151.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 565,
     "server_id": 29,
     "type": "house",
@@ -6752,6 +6788,18 @@
     "status": "Занято",
     "x": 244.8269,
     "y": 1130.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 566,
+    "server_id": 29,
+    "type": "house",
+    "name": "Flecsika 3",
+    "owner": "Goky_Ass",
+    "status": "Занято",
+    "x": 232.205,
+    "y": 1151.6,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8860,7 +8908,7 @@
     "server_id": 29,
     "type": "house",
     "name": "HouseBrubus",
-    "owner": "Turbo_Ashot",
+    "owner": "Night_Sosiska",
     "status": "Занято",
     "x": -2882.27,
     "y": 779.971,
@@ -11296,7 +11344,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Azi ",
-    "owner": "Azi_Bazarov",
+    "owner": "Aza_Corvus",
     "status": "Занято",
     "x": -2281.96,
     "y": 979.2269,
@@ -12952,7 +13000,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Azzziiz",
-    "owner": "Azi_Bazarov",
+    "owner": "Aza_Corvus",
     "status": "Занято",
     "x": -2844.68,
     "y": 921.177,
@@ -14228,18 +14276,6 @@
     "status": "Занято",
     "x": -2791.85,
     "y": -41.8134,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1190,
-    "server_id": 29,
-    "type": "house",
-    "name": "Монополия имени Сетха Торреса",
-    "owner": "Ford_Belford",
-    "status": "Занято",
-    "x": -2791.58,
-    "y": -35.9182,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21096,51 +21132,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 273,
+    "id": 1190,
     "server_id": 29,
     "type": "house",
-    "name": "Johnson House",
-    "owner": "Frederic_Johnson",
+    "name": "Монополия имени Сетха Торреса",
+    "owner": "Ford_Belford",
     "status": "Аукцион",
-    "x": 2626.07,
-    "y": -1112.56,
-    "price": 800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 560,
-    "server_id": 29,
-    "type": "house",
-    "name": "Flecsika 6",
-    "owner": "Frederic_Johnson",
-    "status": "Аукцион",
-    "x": 227.699,
-    "y": 1070.82,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 564,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Frederic_Johnson",
-    "status": "Аукцион",
-    "x": 258.3089,
-    "y": 1151.77,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 566,
-    "server_id": 29,
-    "type": "house",
-    "name": "Flecsika 3",
-    "owner": "Frederic_Johnson",
-    "status": "Аукцион",
-    "x": 232.205,
-    "y": 1151.6,
-    "price": 400000000,
+    "x": -2791.58,
+    "y": -35.9182,
+    "price": 3500,
     "district": "Сан-Андреас"
   },
   {
@@ -22312,7 +22312,7 @@
     "server_id": 29,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Lucky_Lucky",
+    "owner": "Red_Col",
     "status": "Занято",
     "x": 1929.45,
     "y": -1776.22,

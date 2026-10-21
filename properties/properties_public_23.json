@@ -12228,18 +12228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1020,
-    "server_id": 23,
-    "type": "house",
-    "name": "Sweet home",
-    "owner": "Aurora_Doberman",
-    "status": "Занято",
-    "x": -2542.49,
-    "y": 942.4849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1021,
     "server_id": 23,
     "type": "house",
@@ -15704,6 +15692,18 @@
     "status": "Занято",
     "x": -2515.38,
     "y": -170.9069,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1310,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jaycee_Nenentori",
+    "status": "Занято",
+    "x": 161.531,
+    "y": -1455.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21156,27 +21156,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1310,
+    "id": 1020,
     "server_id": 23,
     "type": "house",
-    "name": "Дом",
-    "owner": "Jaycee_Nenentori",
+    "name": "Sweet home",
+    "owner": "Aurora_Doberman",
     "status": "Аукцион",
-    "x": 161.531,
-    "y": -1455.85,
-    "price": 5000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 333,
-    "server_id": 23,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Heart_Shape",
-    "status": "Аукцион",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 400000,
+    "x": -2542.49,
+    "y": 942.4849,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25157,6 +25145,18 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "Aleksey_Osobov",
+    "status": "Занято",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 333,
+    "server_id": 23,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Heart_Shape",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

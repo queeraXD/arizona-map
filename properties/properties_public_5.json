@@ -10288,7 +10288,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Зловещие руины",
-    "owner": "Naru_Sato",
+    "owner": "Cameron_Strange",
     "status": "Занято",
     "x": -1289.37,
     "y": -2102.77,
@@ -11588,6 +11588,18 @@
     "status": "Занято",
     "x": -2224.93,
     "y": 903.1439,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 966,
+    "server_id": 5,
+    "type": "house",
+    "name": "Берлога Айса!",
+    "owner": "Andrei_Ice",
+    "status": "Занято",
+    "x": -2234.15,
+    "y": 888.869,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23484,18 +23496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1958,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Brat_Profit",
-    "status": "Занято",
-    "x": 2476.46,
-    "y": -1376.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1959,
     "server_id": 5,
     "type": "house",
@@ -25104,15 +25104,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 966,
+    "id": 1958,
     "server_id": 5,
     "type": "house",
-    "name": "Берлога Айса!",
-    "owner": "Andrei_Ice",
+    "name": "Дом",
+    "owner": "Brat_Profit",
     "status": "Аукцион",
-    "x": -2234.15,
-    "y": 888.869,
-    "price": 2200000000,
+    "x": 2476.46,
+    "y": -1376.54,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
