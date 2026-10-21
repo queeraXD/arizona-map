@@ -6696,18 +6696,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 558,
-    "server_id": 15,
-    "type": "house",
-    "name": "Killnet The House (4/12)",
-    "owner": "Dmitry_Ackerman",
-    "status": "Занято",
-    "x": 707.2509,
-    "y": 1284.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 559,
     "server_id": 15,
     "type": "house",
@@ -9216,18 +9204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 768,
-    "server_id": 15,
-    "type": "house",
-    "name": "Parker Monopoly",
-    "owner": "Son_Parker",
-    "status": "Занято",
-    "x": -2594.19,
-    "y": 733.1779,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 769,
     "server_id": 15,
     "type": "house",
@@ -9272,18 +9248,6 @@
     "status": "Занято",
     "x": -2622.52,
     "y": 766.299,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 773,
-    "server_id": 15,
-    "type": "house",
-    "name": "Parker Monopoly",
-    "owner": "Son_Parker",
-    "status": "Занято",
-    "x": -2622.52,
-    "y": 782.702,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15591,8 +15555,8 @@
     "id": 1300,
     "server_id": 15,
     "type": "house",
-    "name": "Поместье Тук-тука",
-    "owner": "Yukion_Tokado",
+    "name": "SANTALEFTABODY",
+    "owner": "Santa_Kitsune",
     "status": "Занято",
     "x": -2904.81,
     "y": 1111.63,
@@ -21321,6 +21285,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 558,
+    "server_id": 15,
+    "type": "house",
+    "name": "Killnet The House (4/12)",
+    "owner": "Dmitry_Ackerman",
+    "status": "Аукцион",
+    "x": 707.2509,
+    "y": 1284.74,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 768,
+    "server_id": 15,
+    "type": "house",
+    "name": "Parker Monopoly",
+    "owner": "Son_Parker",
+    "status": "Аукцион",
+    "x": -2594.19,
+    "y": 733.1779,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 773,
+    "server_id": 15,
+    "type": "house",
+    "name": "Parker Monopoly",
+    "owner": "Son_Parker",
+    "status": "Аукцион",
+    "x": -2622.52,
+    "y": 782.702,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {

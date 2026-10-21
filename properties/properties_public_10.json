@@ -7875,8 +7875,8 @@
     "id": 656,
     "server_id": 10,
     "type": "house",
-    "name": "Продан",
-    "owner": "Morty_Trappal",
+    "name": "Деп условия",
+    "owner": "White_Ring",
     "status": "Занято",
     "x": 1978.35,
     "y": 665.8079,
@@ -15540,6 +15540,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1296,
+    "server_id": 10,
+    "type": "house",
+    "name": "Ахуенный гаражик",
+    "owner": "Brat_Familia",
+    "status": "Занято",
+    "x": -2590.53,
+    "y": -158.559,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1297,
     "server_id": 10,
     "type": "house",
@@ -21804,30 +21816,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1819,
-    "server_id": 10,
-    "type": "house",
-    "name": "TRAP HOUSE",
-    "owner": "Morty_Trappal",
-    "status": "Занято",
-    "x": 2487.31,
-    "y": -1424.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1820,
-    "server_id": 10,
-    "type": "house",
-    "name": "TRAP HOUSE",
-    "owner": "Morty_Trappal",
-    "status": "Занято",
-    "x": 2492.11,
-    "y": -1424.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1821,
     "server_id": 10,
     "type": "house",
@@ -21904,7 +21892,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Blessing",
-    "owner": "Rage_Blessing",
+    "owner": "Federico_Makadami",
     "status": "Занято",
     "x": 2495.33,
     "y": -1391.71,
@@ -23340,15 +23328,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1296,
+    "id": 1819,
     "server_id": 10,
     "type": "house",
-    "name": "Ахуенный гаражик",
-    "owner": "Brat_Familia",
+    "name": "TRAP HOUSE",
+    "owner": "Morty_Trappal",
     "status": "Аукцион",
-    "x": -2590.53,
-    "y": -158.559,
-    "price": 500500500,
+    "x": 2487.31,
+    "y": -1424.58,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1820,
+    "server_id": 10,
+    "type": "house",
+    "name": "TRAP HOUSE",
+    "owner": "Morty_Trappal",
+    "status": "Аукцион",
+    "x": 2492.11,
+    "y": -1424.58,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 10,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Aura_Baltassare",
+    "status": "Аукцион",
+    "x": 2351.41,
+    "y": 2405.59,
+    "price": 8123123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 193,
+    "server_id": 10,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Aura_Baltassare",
+    "status": "Аукцион",
+    "x": 2405.02,
+    "y": -1933.97,
+    "price": 8123123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 328,
+    "server_id": 10,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Aura_Baltassare",
+    "status": "Аукцион",
+    "x": -2245.69,
+    "y": 2282.04,
+    "price": 7123123123,
     "district": "Сан-Андреас"
   },
   {
@@ -26196,18 +26232,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 184,
-    "server_id": 10,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Aura_Baltassare",
-    "status": "Занято",
-    "x": 2351.41,
-    "y": 2405.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 185,
     "server_id": 10,
     "type": "business",
@@ -26300,18 +26324,6 @@
     "status": "Занято",
     "x": 1136.97,
     "y": -1456.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 193,
-    "server_id": 10,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Aura_Baltassare",
-    "status": "Занято",
-    "x": 2405.02,
-    "y": -1933.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26600,18 +26612,6 @@
     "status": "Занято",
     "x": 563.087,
     "y": 864.122,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 328,
-    "server_id": 10,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Aura_Baltassare",
-    "status": "Занято",
-    "x": -2245.69,
-    "y": 2282.04,
     "price": 0,
     "district": "Сан-Андреас"
   },

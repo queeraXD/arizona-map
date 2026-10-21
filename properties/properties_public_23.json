@@ -4012,7 +4012,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Коалиция TankOV",
-    "owner": "WebCam_Tank",
+    "owner": "Miu_Tank",
     "status": "Занято",
     "x": 807.215,
     "y": 372.506,
@@ -4024,7 +4024,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Коалиция TankOV",
-    "owner": "WebCam_Tank",
+    "owner": "Miu_Tank",
     "status": "Занято",
     "x": 805.4329,
     "y": 358.6799,
@@ -10080,18 +10080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 840,
-    "server_id": 23,
-    "type": "house",
-    "name": "Маркеловани",
-    "owner": "Thorne_Daggerfall",
-    "status": "Занято",
-    "x": -2188.13,
-    "y": 1107.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 841,
     "server_id": 23,
     "type": "house",
@@ -15708,18 +15696,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1310,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jaycee_Nenentori",
-    "status": "Занято",
-    "x": 161.531,
-    "y": -1455.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1311,
     "server_id": 23,
     "type": "house",
@@ -19476,18 +19452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1624,
-    "server_id": 23,
-    "type": "house",
-    "name": "Gachi house",
-    "owner": "Billy_Miligan",
-    "status": "Занято",
-    "x": -2843.69,
-    "y": -2269.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1625,
     "server_id": 23,
     "type": "house",
@@ -19752,6 +19716,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1649,
+    "server_id": 23,
+    "type": "house",
+    "name": "ДЕП УСLОВИЕ",
+    "owner": "Ney_Markelovani",
+    "status": "Занято",
+    "x": 2473.08,
+    "y": -1417.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1650,
     "server_id": 23,
     "type": "house",
@@ -19984,7 +19960,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Коалиция TankOV",
-    "owner": "WebCam_Tank",
+    "owner": "Miu_Tank",
     "status": "Занято",
     "x": 2473.17,
     "y": -1398.81,
@@ -21156,15 +21132,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1649,
+    "id": 840,
     "server_id": 23,
     "type": "house",
-    "name": "ДЕП УСLОВИЕ",
-    "owner": "Ney_Markelovani",
+    "name": "Маркеловани",
+    "owner": "Thorne_Daggerfall",
     "status": "Аукцион",
-    "x": 2473.08,
-    "y": -1417.44,
-    "price": 500228228,
+    "x": -2188.13,
+    "y": 1107.64,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1310,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jaycee_Nenentori",
+    "status": "Аукцион",
+    "x": 161.531,
+    "y": -1455.85,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1624,
+    "server_id": 23,
+    "type": "house",
+    "name": "Gachi house",
+    "owner": "Billy_Miligan",
+    "status": "Аукцион",
+    "x": -2843.69,
+    "y": -2269.19,
+    "price": 550000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 126,
+    "server_id": 23,
+    "type": "business",
+    "name": "Предприятие",
+    "owner": "Heart_Shape",
+    "status": "Аукцион",
+    "x": -2127.71,
+    "y": -750.902,
+    "price": 1100000,
     "district": "Сан-Андреас"
   },
   {
@@ -21180,6 +21192,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 217,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Heart_Shape",
+    "status": "Аукцион",
+    "x": 2537.82,
+    "y": 2137.12,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 285,
     "server_id": 23,
     "type": "business",
@@ -21189,6 +21213,18 @@
     "x": 1031.61,
     "y": 1354.3,
     "price": 190000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 333,
+    "server_id": 23,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Heart_Shape",
+    "status": "Аукцион",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 450000,
     "district": "Сан-Андреас"
   },
   {
@@ -22256,18 +22292,6 @@
     "status": "Занято",
     "x": -86.149,
     "y": 2.603,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 126,
-    "server_id": 23,
-    "type": "business",
-    "name": "Предприятие",
-    "owner": "Heart_Shape",
-    "status": "Занято",
-    "x": -2127.71,
-    "y": -750.902,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24336,18 +24360,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 217,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Heart_Shape",
-    "status": "Занято",
-    "x": 2537.82,
-    "y": 2137.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 218,
     "server_id": 23,
     "type": "business",
@@ -25145,18 +25157,6 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "Aleksey_Osobov",
-    "status": "Занято",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 333,
-    "server_id": 23,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Heart_Shape",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

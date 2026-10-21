@@ -3636,30 +3636,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 303,
-    "server_id": 28,
-    "type": "house",
-    "name": "THEODOR CAPITALIST",
-    "owner": "Venom_Exe",
-    "status": "Занято",
-    "x": 2081.98,
-    "y": -1086.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 304,
-    "server_id": 28,
-    "type": "house",
-    "name": "THEODOR CAPITALIST",
-    "owner": "Venom_Exe",
-    "status": "Занято",
-    "x": 2074.85,
-    "y": -1083.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 305,
     "server_id": 28,
     "type": "house",
@@ -5108,18 +5084,6 @@
     "status": "Занято",
     "x": 313.3909,
     "y": -121.1949,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 426,
-    "server_id": 28,
-    "type": "house",
-    "name": "Блядское логово",
-    "owner": "Larres_Juarez",
-    "status": "Занято",
-    "x": 295.144,
-    "y": -54.6627,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7620,18 +7584,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 635,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Numbing_Mist",
-    "status": "Занято",
-    "x": -369.302,
-    "y": 1169.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 636,
     "server_id": 28,
     "type": "house",
@@ -7856,18 +7808,6 @@
     "status": "Занято",
     "x": 2065.71,
     "y": 650.2559,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 655,
-    "server_id": 28,
-    "type": "house",
-    "name": "Блядское логово",
-    "owner": "Larres_Juarez",
-    "status": "Занято",
-    "x": 2013.32,
-    "y": 730.669,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15028,7 +14968,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Hellpine",
-    "owner": "Dom_Dom",
+    "owner": "Dildo_Bpope",
     "status": "Занято",
     "x": -2340.08,
     "y": 679.963,
@@ -15272,18 +15212,6 @@
     "status": "Занято",
     "x": -2690.78,
     "y": 102.2819,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1274,
-    "server_id": 28,
-    "type": "house",
-    "name": "Monopoly",
-    "owner": "Papochka_Lincoln",
-    "status": "Занято",
-    "x": -2689.51,
-    "y": 96.3162,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18399,7 +18327,7 @@
     "id": 1534,
     "server_id": 28,
     "type": "house",
-    "name": "$ ROCKSTAR $",
+    "name": "Замок Бояр",
     "owner": "Lector_Castle",
     "status": "Занято",
     "x": 952.5469,
@@ -22380,6 +22308,102 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 303,
+    "server_id": 28,
+    "type": "house",
+    "name": "THEODOR CAPITALIST",
+    "owner": "Venom_Exe",
+    "status": "Аукцион",
+    "x": 2081.98,
+    "y": -1086.5,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 304,
+    "server_id": 28,
+    "type": "house",
+    "name": "THEODOR CAPITALIST",
+    "owner": "Venom_Exe",
+    "status": "Аукцион",
+    "x": 2074.85,
+    "y": -1083.23,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 426,
+    "server_id": 28,
+    "type": "house",
+    "name": "Блядское логово",
+    "owner": "Larres_Juarez",
+    "status": "Аукцион",
+    "x": 295.144,
+    "y": -54.6627,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 635,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Numbing_Mist",
+    "status": "Аукцион",
+    "x": -369.302,
+    "y": 1169.02,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 655,
+    "server_id": 28,
+    "type": "house",
+    "name": "Блядское логово",
+    "owner": "Larres_Juarez",
+    "status": "Аукцион",
+    "x": 2013.32,
+    "y": 730.669,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1274,
+    "server_id": 28,
+    "type": "house",
+    "name": "Monopoly",
+    "owner": "Papochka_Lincoln",
+    "status": "Аукцион",
+    "x": -2689.51,
+    "y": 96.3162,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 33,
+    "server_id": 28,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Ghoul_Kaneki",
+    "status": "Аукцион",
+    "x": 1199.32,
+    "y": -918.586,
+    "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 68,
+    "server_id": 28,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Papochka_Queen",
+    "status": "Аукцион",
+    "x": -1508.91,
+    "y": 2610.7,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 28,
     "type": "business",
@@ -22448,18 +22472,6 @@
     "status": "Занято",
     "x": -316.162,
     "y": 829.757,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 68,
-    "server_id": 28,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Papochka_Queen",
-    "status": "Занято",
-    "x": -1508.91,
-    "y": 2610.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23972,18 +23984,6 @@
     "status": "Занято",
     "x": 1001.25,
     "y": 820.343,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 33,
-    "server_id": 28,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ghoul_Kaneki",
-    "status": "Занято",
-    "x": 1199.32,
-    "y": -918.586,
     "price": 0,
     "district": "Сан-Андреас"
   },
