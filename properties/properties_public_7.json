@@ -6456,18 +6456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 539,
-    "server_id": 7,
-    "type": "house",
-    "name": "Буль Буль",
-    "owner": "Misha_Krupskiu",
-    "status": "Занято",
-    "x": 2037.05,
-    "y": 2663.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 540,
     "server_id": 7,
     "type": "house",
@@ -25524,6 +25512,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 539,
+    "server_id": 7,
+    "type": "house",
+    "name": "Буль Буль",
+    "owner": "Misha_Krupskiu",
+    "status": "Аукцион",
+    "x": 2037.05,
+    "y": 2663.99,
+    "price": 8000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1306,
     "server_id": 7,
     "type": "house",
@@ -28804,7 +28804,7 @@
     "server_id": 7,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Pietro_Amato",
+    "owner": "Cody_Ortega",
     "status": "Занято",
     "x": -2245.69,
     "y": 2282.04,

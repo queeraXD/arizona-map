@@ -4108,7 +4108,7 @@
     "server_id": 11,
     "type": "house",
     "name": "342 салам ",
-    "owner": "Blatnoyi_Markelovani",
+    "owner": "Blatnoyi_Monopoly",
     "status": "Занято",
     "x": 705.4279,
     "y": 292.096,
@@ -7648,7 +7648,7 @@
     "server_id": 11,
     "type": "house",
     "name": "GOTOSQUAD DEATHBRIGADE",
-    "owner": "Roman_Winchester",
+    "owner": "Apollo_Caballero",
     "status": "Занято",
     "x": -362.6669,
     "y": 1110.63,
@@ -8044,7 +8044,7 @@
     "server_id": 11,
     "type": "house",
     "name": "бобо",
-    "owner": "Roman_Winchester",
+    "owner": "Apollo_Caballero",
     "status": "Занято",
     "x": 1084.33,
     "y": 2031.72,
@@ -17256,18 +17256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1450,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом престорелых",
-    "owner": "Eternal_Despaired",
-    "status": "Занято",
-    "x": 761.075,
-    "y": -1563.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1451,
     "server_id": 11,
     "type": "house",
@@ -19280,18 +19268,6 @@
     "status": "Занято",
     "x": 2017.54,
     "y": -1114.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1619,
-    "server_id": 11,
-    "type": "house",
-    "name": "Берлога",
-    "owner": "Tiger_Markelovani",
-    "status": "Занято",
-    "x": 2017.54,
-    "y": -1119.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24645,6 +24621,30 @@
     "x": 0.0,
     "y": -2133.38,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1450,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом престорелых",
+    "owner": "Eternal_Despaired",
+    "status": "Аукцион",
+    "x": 761.075,
+    "y": -1563.99,
+    "price": 777777777,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1619,
+    "server_id": 11,
+    "type": "house",
+    "name": "Берлога",
+    "owner": "Tiger_Markelovani",
+    "status": "Аукцион",
+    "x": 2017.54,
+    "y": -1119.56,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {

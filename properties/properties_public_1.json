@@ -6612,18 +6612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 551,
-    "server_id": 1,
-    "type": "house",
-    "name": "Rimuru House",
-    "owner": "Rimuru_Tempeste",
-    "status": "Занято",
-    "x": 536.656,
-    "y": 1138.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 552,
     "server_id": 1,
     "type": "house",
@@ -9940,7 +9928,7 @@
     "server_id": 1,
     "type": "house",
     "name": "База в SF",
-    "owner": "Sega_XxL",
+    "owner": "Jon_Hilfiger",
     "status": "Занято",
     "x": -2721.08,
     "y": -44.7512,
@@ -10904,6 +10892,18 @@
     "status": "Занято",
     "x": -775.4949,
     "y": 1447.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 910,
+    "server_id": 1,
+    "type": "house",
+    "name": "Moore Family",
+    "owner": "Ksu_Moore",
+    "status": "Занято",
+    "x": -2620.59,
+    "y": 833.729,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15879,8 +15879,8 @@
     "id": 1325,
     "server_id": 1,
     "type": "house",
-    "name": "Дом",
-    "owner": "Daniil_Vanhelsing",
+    "name": "Doserovich",
+    "owner": "Mavrik_Doserovich",
     "status": "Занято",
     "x": -2240.51,
     "y": 753.6329,
@@ -18324,6 +18324,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1529,
+    "server_id": 1,
+    "type": "house",
+    "name": "Ivansqvad House",
+    "owner": "Yan_Ne",
+    "status": "Занято",
+    "x": 1068.42,
+    "y": -1081.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1530,
     "server_id": 1,
     "type": "house",
@@ -20020,7 +20032,7 @@
     "server_id": 1,
     "type": "house",
     "name": "дом",
-    "owner": "Viktor_Saveliev",
+    "owner": "Kirill_Aka",
     "status": "Занято",
     "x": 530.929,
     "y": 1336.33,
@@ -24144,27 +24156,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 910,
+    "id": 551,
     "server_id": 1,
     "type": "house",
-    "name": "Moore Family",
-    "owner": "Ksu_Moore",
+    "name": "Rimuru House",
+    "owner": "Rimuru_Tempeste",
     "status": "Аукцион",
-    "x": -2620.59,
-    "y": 833.729,
-    "price": 45000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1529,
-    "server_id": 1,
-    "type": "house",
-    "name": "Ivansqvad House",
-    "owner": "Yan_Ne",
-    "status": "Аукцион",
-    "x": 1068.42,
-    "y": -1081.34,
-    "price": 155000,
+    "x": 536.656,
+    "y": 1138.79,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
