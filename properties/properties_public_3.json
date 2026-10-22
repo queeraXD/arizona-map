@@ -6688,7 +6688,7 @@
     "server_id": 3,
     "type": "house",
     "name": "rodion.food",
-    "owner": "Kirill_Poko",
+    "owner": "Make_Donskia",
     "status": "Занято",
     "x": 312.3569,
     "y": 1068.43,
@@ -24012,18 +24012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 251,
-    "server_id": 3,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Serega_Yudin",
-    "status": "Аукцион",
-    "x": -930.703,
-    "y": 13.1137,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 263,
     "server_id": 3,
     "type": "business",
@@ -24033,18 +24021,6 @@
     "x": -2572.55,
     "y": 2391.86,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 268,
-    "server_id": 3,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Takeru_Rize",
-    "status": "Аукцион",
-    "x": 8.3996,
-    "y": 1212.035,
-    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24772,8 +24748,8 @@
     "server_id": 3,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "armour",
-    "status": "Занято",
+    "owner": "Государство",
+    "status": "Свободно",
     "x": -1686.44,
     "y": 1325.38,
     "price": 0,
@@ -25472,6 +25448,18 @@
     "status": "Занято",
     "x": 2170.48,
     "y": 542.934,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 251,
+    "server_id": 3,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Serega_Yudin",
+    "status": "Занято",
+    "x": -930.703,
+    "y": 13.1137,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26684,6 +26672,18 @@
     "status": "Занято",
     "x": 2272.941,
     "y": -1795.335,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 268,
+    "server_id": 3,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Pomelka_Anderson",
+    "status": "Занято",
+    "x": 8.3996,
+    "y": 1212.035,
     "price": 0,
     "district": "Сан-Андреас"
   },
