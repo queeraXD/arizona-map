@@ -2812,7 +2812,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Querti Empire",
-    "owner": "Dave_Kanadi",
+    "owner": "Leonardoo_DeRossi",
     "status": "Занято",
     "x": 416.519,
     "y": -1154.58,
@@ -4899,7 +4899,7 @@
     "id": 408,
     "server_id": 1,
     "type": "house",
-    "name": "cuerto squad",
+    "name": "Arsen_Bosso",
     "owner": "Arsen_Bosso",
     "status": "Занято",
     "x": 1428.29,
@@ -6648,18 +6648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 554,
-    "server_id": 1,
-    "type": "house",
-    "name": "Домик-5",
-    "owner": "Aleksandr_Blake",
-    "status": "Занято",
-    "x": 352.9729,
-    "y": 1099.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 555,
     "server_id": 1,
     "type": "house",
@@ -6692,18 +6680,6 @@
     "status": "Занято",
     "x": 354.923,
     "y": 1164.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 558,
-    "server_id": 1,
-    "type": "house",
-    "name": "Домик-4",
-    "owner": "Aleksandr_Blake",
-    "status": "Занято",
-    "x": 312.3569,
-    "y": 1068.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9348,18 +9324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 779,
-    "server_id": 1,
-    "type": "house",
-    "name": "Домик",
-    "owner": "Aleksandr_Blake",
-    "status": "Занято",
-    "x": -2568.95,
-    "y": 794.1749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 780,
     "server_id": 1,
     "type": "house",
@@ -10904,6 +10868,18 @@
     "status": "Занято",
     "x": -775.4949,
     "y": 1447.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 910,
+    "server_id": 1,
+    "type": "house",
+    "name": "Moore Family",
+    "owner": "Ksu_Moore",
+    "status": "Занято",
+    "x": -2620.59,
+    "y": 833.729,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13048,7 +13024,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Dillinger/9338008",
-    "owner": "Alexander_Cromwell",
+    "owner": "Haruki_Shindo",
     "status": "Занято",
     "x": -2541.36,
     "y": -118.828,
@@ -14820,6 +14796,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1237,
+    "server_id": 1,
+    "type": "house",
+    "name": "Arsen_Bosso_Home 14",
+    "owner": "Arsen_Bosso",
+    "status": "Занято",
+    "x": -2623.45,
+    "y": 131.47,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1238,
     "server_id": 1,
     "type": "house",
@@ -15380,18 +15368,6 @@
     "status": "Занято",
     "x": -2478.93,
     "y": 1141.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1285,
-    "server_id": 1,
-    "type": "house",
-    "name": "Домик-3",
-    "owner": "Aleksandr_Blake",
-    "status": "Занято",
-    "x": -2468.55,
-    "y": 1141.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24144,27 +24120,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 910,
+    "id": 554,
     "server_id": 1,
     "type": "house",
-    "name": "Moore Family",
-    "owner": "Ksu_Moore",
+    "name": "Домик-5",
+    "owner": "Aleksandr_Blake",
     "status": "Аукцион",
-    "x": -2620.59,
-    "y": 833.729,
-    "price": 4000000000,
+    "x": 352.9729,
+    "y": 1099.58,
+    "price": 2200000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1237,
+    "id": 558,
     "server_id": 1,
     "type": "house",
-    "name": "братики санторелли",
-    "owner": "Norman_Schwarzkopf",
+    "name": "Домик-4",
+    "owner": "Aleksandr_Blake",
     "status": "Аукцион",
-    "x": -2623.45,
-    "y": 131.47,
-    "price": 1250000000,
+    "x": 312.3569,
+    "y": 1068.43,
+    "price": 2200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 779,
+    "server_id": 1,
+    "type": "house",
+    "name": "Домик",
+    "owner": "Aleksandr_Blake",
+    "status": "Аукцион",
+    "x": -2568.95,
+    "y": 794.1749,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1285,
+    "server_id": 1,
+    "type": "house",
+    "name": "Домик-3",
+    "owner": "Aleksandr_Blake",
+    "status": "Аукцион",
+    "x": -2468.55,
+    "y": 1141.92,
+    "price": 2200000000,
     "district": "Сан-Андреас"
   },
   {

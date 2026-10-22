@@ -3300,18 +3300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 275,
-    "server_id": 3,
-    "type": "house",
-    "name": "Бомжатня",
-    "owner": "Stop_Loss",
-    "status": "Занято",
-    "x": 2579.67,
-    "y": -1033.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 276,
     "server_id": 3,
     "type": "house",
@@ -6700,7 +6688,7 @@
     "server_id": 3,
     "type": "house",
     "name": "rodion.food",
-    "owner": "Make_Donskia",
+    "owner": "Kirill_Poko",
     "status": "Занято",
     "x": 312.3569,
     "y": 1068.43,
@@ -24000,6 +23988,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 275,
+    "server_id": 3,
+    "type": "house",
+    "name": "Бомжатня",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2579.67,
+    "y": -1033.2,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 574,
     "server_id": 3,
     "type": "house",
@@ -24012,27 +24012,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 195,
+    "id": 251,
     "server_id": 3,
     "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Egors_Aldento",
+    "name": "АЗС/Магазин механики",
+    "owner": "Serega_Yudin",
     "status": "Аукцион",
-    "x": -1548.81,
-    "y": 673.91,
-    "price": 130000,
+    "x": -930.703,
+    "y": 13.1137,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 358,
+    "id": 263,
     "server_id": 3,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "Egors_Aldento",
+    "name": "АЗС/Магазин механики",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 173000,
+    "x": -2572.55,
+    "y": 2391.86,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 268,
+    "server_id": 3,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Takeru_Rize",
+    "status": "Аукцион",
+    "x": 8.3996,
+    "y": 1212.035,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 299,
+    "server_id": 3,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1876.07,
+    "y": 2234.15,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24404,18 +24428,6 @@
     "status": "Занято",
     "x": 2330.78,
     "y": 2165.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 299,
-    "server_id": 3,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Gee_Gun",
-    "status": "Занято",
-    "x": 1876.07,
-    "y": 2234.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25464,18 +25476,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 251,
-    "server_id": 3,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Serega_Yudin",
-    "status": "Занято",
-    "x": -930.703,
-    "y": 13.1137,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 252,
     "server_id": 3,
     "type": "business",
@@ -25520,18 +25520,6 @@
     "status": "Занято",
     "x": 58.9409,
     "y": 1221.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 263,
-    "server_id": 3,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Stop_Loss",
-    "status": "Занято",
-    "x": -2572.55,
-    "y": 2391.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26136,6 +26124,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 358,
+    "server_id": 3,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Egors_Aldento",
+    "status": "Занято",
+    "x": -2103.59,
+    "y": -2342.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 39,
     "server_id": 3,
     "type": "business",
@@ -26688,18 +26688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 268,
-    "server_id": 3,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Takeru_Rize",
-    "status": "Занято",
-    "x": 8.3996,
-    "y": 1212.035,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 269,
     "server_id": 3,
     "type": "business",
@@ -26996,6 +26984,18 @@
     "status": "Занято",
     "x": -2022.61,
     "y": 459.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 195,
+    "server_id": 3,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Egors_Aldento",
+    "status": "Занято",
+    "x": -1548.81,
+    "y": 673.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
