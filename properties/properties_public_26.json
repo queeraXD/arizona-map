@@ -3012,6 +3012,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 251,
+    "server_id": 26,
+    "type": "house",
+    "name": "2ww",
+    "owner": "Phantom_Aufpz",
+    "status": "Занято",
+    "x": 2480.55,
+    "y": 126.995,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 252,
     "server_id": 26,
     "type": "house",
@@ -8084,18 +8096,6 @@
     "status": "Занято",
     "x": 928.6199,
     "y": 2006.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 675,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Yarik_Gilson",
-    "status": "Занято",
-    "x": 930.306,
-    "y": 2027.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24408,18 +24408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2037,
-    "server_id": 26,
-    "type": "house",
-    "name": "с подвалом",
-    "owner": "Lex_Fonc",
-    "status": "Занято",
-    "x": 25.7653,
-    "y": 1346.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2038,
     "server_id": 26,
     "type": "house",
@@ -25176,15 +25164,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 251,
+    "id": 675,
     "server_id": 26,
     "type": "house",
-    "name": "2ww",
-    "owner": "Phantom_Aufpz",
+    "name": "Дом",
+    "owner": "Aperol_Spritz",
     "status": "Аукцион",
-    "x": 2480.55,
-    "y": 126.995,
-    "price": 800000000,
+    "x": 930.306,
+    "y": 2027.86,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2037,
+    "server_id": 26,
+    "type": "house",
+    "name": "с подвалом",
+    "owner": "Lex_Fonc",
+    "status": "Аукцион",
+    "x": 25.7653,
+    "y": 1346.04,
+    "price": 1000123,
     "district": "Сан-Андреас"
   },
   {

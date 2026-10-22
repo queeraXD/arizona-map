@@ -3876,18 +3876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 323,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Idushchijkreke",
-    "status": "Занято",
-    "x": 776.6719,
-    "y": -503.492,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 324,
     "server_id": 8,
     "type": "house",
@@ -6668,6 +6656,18 @@
     "status": "Занято",
     "x": 346.957,
     "y": 1127.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 556,
+    "server_id": 8,
+    "type": "house",
+    "name": "Трэп хата Поднебесье",
+    "owner": "Blake_Negodnicov",
+    "status": "Занято",
+    "x": 354.923,
+    "y": 1164.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15504,6 +15504,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1294,
+    "server_id": 8,
+    "type": "house",
+    "name": "Cheremushka Xata",
+    "owner": "Ivy_Weet",
+    "status": "Занято",
+    "x": -2372.53,
+    "y": 644.0689,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1295,
     "server_id": 8,
     "type": "house",
@@ -22060,7 +22072,7 @@
     "server_id": 8,
     "type": "house",
     "name": "несправедливость шипучка",
-    "owner": "Alexey_Frakoz",
+    "owner": "Kedroviy_Oreh",
     "status": "Занято",
     "x": 2473.09,
     "y": -1424.57,
@@ -22976,18 +22988,6 @@
     "status": "Занято",
     "x": 2788.02,
     "y": 2260.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1918,
-    "server_id": 8,
-    "type": "house",
-    "name": "Ферма видеокарт №12",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 2788.23,
-    "y": 2260.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25764,39 +25764,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 556,
+    "id": 323,
     "server_id": 8,
     "type": "house",
-    "name": "Трэп хата Поднебесье",
-    "owner": "Blake_Negodnicov",
+    "name": "Дом",
+    "owner": "Vova_Idushchijkreke",
     "status": "Аукцион",
-    "x": 354.923,
-    "y": 1164.67,
-    "price": 500000000,
+    "x": 776.6719,
+    "y": -503.492,
+    "price": 3999999999,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1294,
+    "id": 1918,
     "server_id": 8,
     "type": "house",
-    "name": "Cheremushka Xata",
-    "owner": "Ivy_Weet",
+    "name": "Ферма видеокарт №12",
+    "owner": "Viper_Darkness",
     "status": "Аукцион",
-    "x": -2372.53,
-    "y": 644.0689,
-    "price": 450000000,
+    "x": 2788.23,
+    "y": 2260.97,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 295,
+    "id": 103,
     "server_id": 8,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "Stiles_Lancaster",
+    "name": "Магазин 24/7",
+    "owner": "Natsu_Dragnilka",
     "status": "Аукцион",
-    "x": 2392.56,
-    "y": 2042.21,
-    "price": 10000000000,
+    "x": -1686.44,
+    "y": 1325.38,
+    "price": 440000,
     "district": "Сан-Андреас"
   },
   {
@@ -26516,18 +26516,6 @@
     "status": "Занято",
     "x": -1735.96,
     "y": 897.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 103,
-    "server_id": 8,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Natsu_Dragnilka",
-    "status": "Занято",
-    "x": -1686.44,
-    "y": 1325.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27860,6 +27848,18 @@
     "status": "Занято",
     "x": 2472.77,
     "y": 2034.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 295,
+    "server_id": 8,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Napoleon_Banopart",
+    "status": "Занято",
+    "x": 2392.56,
+    "y": 2042.21,
     "price": 0,
     "district": "Сан-Андреас"
   },

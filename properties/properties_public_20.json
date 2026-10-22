@@ -11352,18 +11352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 946,
-    "server_id": 20,
-    "type": "house",
-    "name": "домик",
-    "owner": "dakol",
-    "status": "Занято",
-    "x": -2282.42,
-    "y": 999.619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 947,
     "server_id": 20,
     "type": "house",
@@ -12020,6 +12008,18 @@
     "status": "Занято",
     "x": -2369.51,
     "y": 1121.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1002,
+    "server_id": 20,
+    "type": "house",
+    "name": "Monarch empire",
+    "owner": "Lemon_Monarch",
+    "status": "Занято",
+    "x": -2413.55,
+    "y": 1137.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15464,18 +15464,6 @@
     "status": "Занято",
     "x": -2558.72,
     "y": -79.9783,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1290,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mike_Popsik",
-    "status": "Занято",
-    "x": -2576.54,
-    "y": -82.9039,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22356,15 +22344,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1002,
+    "id": 946,
     "server_id": 20,
     "type": "house",
-    "name": "Мирни скуф",
-    "owner": "Niko_Serg",
+    "name": "домик",
+    "owner": "dakol",
     "status": "Аукцион",
-    "x": -2413.55,
-    "y": 1137.33,
-    "price": 500000000,
+    "x": -2282.42,
+    "y": 999.619,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1290,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mike_Popsik",
+    "status": "Аукцион",
+    "x": -2576.54,
+    "y": -82.9039,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
