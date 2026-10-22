@@ -12324,18 +12324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1028,
-    "server_id": 2,
-    "type": "house",
-    "name": "Дом Leonardo",
-    "owner": "Leonardo_Gardano",
-    "status": "Занято",
-    "x": -2879.94,
-    "y": 797.5089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1029,
     "server_id": 2,
     "type": "house",
@@ -23964,27 +23952,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 113,
+    "id": 1028,
     "server_id": 2,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Marina_Bybova",
+    "type": "house",
+    "name": "Дом Leonardo",
+    "owner": "Leonardo_Gardano",
     "status": "Аукцион",
-    "x": -1808.68,
-    "y": 945.944,
-    "price": 380000,
+    "x": -2879.94,
+    "y": 797.5089,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 271,
+    "id": 80,
     "server_id": 2,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Marina_Bybova",
+    "owner": "Evgenii_Streltcov",
     "status": "Аукцион",
-    "x": -1912.17,
-    "y": 827.954,
-    "price": 380000,
+    "x": 2638.3,
+    "y": 1671.86,
+    "price": 260000,
     "district": "Сан-Андреас"
   },
   {
@@ -25704,18 +25692,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 80,
-    "server_id": 2,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Evgenii_Streltcov",
-    "status": "Занято",
-    "x": 2638.3,
-    "y": 1671.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 81,
     "server_id": 2,
     "type": "business",
@@ -25860,6 +25836,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 113,
+    "server_id": 2,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Marina_Bybova",
+    "status": "Занято",
+    "x": -1808.68,
+    "y": 945.944,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 114,
     "server_id": 2,
     "type": "business",
@@ -26000,6 +25988,18 @@
     "status": "Занято",
     "x": -53.8409,
     "y": 1189.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 271,
+    "server_id": 2,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Marina_Bybova",
+    "status": "Занято",
+    "x": -1912.17,
+    "y": 827.954,
     "price": 0,
     "district": "Сан-Андреас"
   },

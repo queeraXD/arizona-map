@@ -6012,6 +6012,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 501,
+    "server_id": 8,
+    "type": "house",
+    "name": "|| Night Empire ||",
+    "owner": "Meteor_Night",
+    "status": "Занято",
+    "x": 1364.67,
+    "y": 1896.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 502,
     "server_id": 8,
     "type": "house",
@@ -6656,18 +6668,6 @@
     "status": "Занято",
     "x": 346.957,
     "y": 1127.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 556,
-    "server_id": 8,
-    "type": "house",
-    "name": "Трэп хата Поднебесье",
-    "owner": "Blake_Negodnicov",
-    "status": "Занято",
-    "x": 354.923,
-    "y": 1164.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15504,18 +15504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1294,
-    "server_id": 8,
-    "type": "house",
-    "name": "Cheremushka Xata",
-    "owner": "Ivy_Weet",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 644.0689,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1295,
     "server_id": 8,
     "type": "house",
@@ -20164,7 +20152,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Pivo",
-    "owner": "Haruki_Yoshida",
+    "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": -2556.01,
     "y": 896.6389,
@@ -25776,15 +25764,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 501,
+    "id": 556,
     "server_id": 8,
     "type": "house",
-    "name": "|| Night Empire ||",
-    "owner": "Meteor_Night",
+    "name": "Трэп хата Поднебесье",
+    "owner": "Blake_Negodnicov",
     "status": "Аукцион",
-    "x": 1364.67,
-    "y": 1896.72,
-    "price": 1500000000,
+    "x": 354.923,
+    "y": 1164.67,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1294,
+    "server_id": 8,
+    "type": "house",
+    "name": "Cheremushka Xata",
+    "owner": "Ivy_Weet",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 644.0689,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 295,
+    "server_id": 8,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Stiles_Lancaster",
+    "status": "Аукцион",
+    "x": 2392.56,
+    "y": 2042.21,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27848,18 +27860,6 @@
     "status": "Занято",
     "x": 2472.77,
     "y": 2034.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 295,
-    "server_id": 8,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Stiles_Lancaster",
-    "status": "Занято",
-    "x": 2392.56,
-    "y": 2042.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
