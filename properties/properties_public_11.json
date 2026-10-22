@@ -6852,18 +6852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 571,
-    "server_id": 11,
-    "type": "house",
-    "name": "MONOPOLY Empire | Kratos",
-    "owner": "Kratos_Monopoly",
-    "status": "Занято",
-    "x": 532.2399,
-    "y": 1301.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 572,
     "server_id": 11,
     "type": "house",
@@ -8036,18 +8024,6 @@
     "status": "Занято",
     "x": 1030.09,
     "y": 2028.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 670,
-    "server_id": 11,
-    "type": "house",
-    "name": "бобо",
-    "owner": "Apollo_Caballero",
-    "status": "Занято",
-    "x": 1084.33,
-    "y": 2031.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14163,8 +14139,8 @@
     "id": 1192,
     "server_id": 11,
     "type": "house",
-    "name": "Arasaka Tower",
-    "owner": "Arima_Arasaka",
+    "name": "ROTENBERG",
+    "owner": "Donatello_Rotenberg",
     "status": "Занято",
     "x": -2791.88,
     "y": -94.7822,
@@ -14187,8 +14163,8 @@
     "id": 1194,
     "server_id": 11,
     "type": "house",
-    "name": "Arasaka Tower",
-    "owner": "Arima_Arasaka",
+    "name": "ROTENBERG",
+    "owner": "Donatello_Rotenberg",
     "status": "Занято",
     "x": -2791.71,
     "y": -82.4804,
@@ -16660,7 +16636,7 @@
     "server_id": 11,
     "type": "house",
     "name": "STAFF",
-    "owner": "Jey_Staff",
+    "owner": "Denchik_Staff",
     "status": "Занято",
     "x": 1112.2,
     "y": -1575.21,
@@ -17252,18 +17228,6 @@
     "status": "Занято",
     "x": 771.122,
     "y": -1510.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1450,
-    "server_id": 11,
-    "type": "house",
-    "name": "    ",
-    "owner": "Fluori_Hayes",
-    "status": "Занято",
-    "x": 761.075,
-    "y": -1563.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21744,6 +21708,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1824,
+    "server_id": 11,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Bogdan_Markelovani",
+    "status": "Занято",
+    "x": 2517.04,
+    "y": 1653.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1825,
     "server_id": 11,
     "type": "house",
@@ -24636,15 +24612,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1824,
+    "id": 571,
     "server_id": 11,
     "type": "house",
-    "name": "деп условия",
-    "owner": "Bogdan_Markelovani",
+    "name": "MONOPOLY Empire | Kratos",
+    "owner": "Kratos_Monopoly",
     "status": "Аукцион",
-    "x": 2517.04,
-    "y": 1653.77,
-    "price": 160000000,
+    "x": 532.2399,
+    "y": 1301.69,
+    "price": 900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 670,
+    "server_id": 11,
+    "type": "house",
+    "name": "бобо",
+    "owner": "Apollo_Caballero",
+    "status": "Аукцион",
+    "x": 1084.33,
+    "y": 2031.72,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1450,
+    "server_id": 11,
+    "type": "house",
+    "name": "    ",
+    "owner": "Fluori_Hayes",
+    "status": "Аукцион",
+    "x": 761.075,
+    "y": -1563.99,
+    "price": 1400000000,
     "district": "Сан-Андреас"
   },
   {

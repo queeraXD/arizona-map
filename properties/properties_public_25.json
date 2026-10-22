@@ -3732,18 +3732,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 311,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом возле ПВЗ",
-    "owner": "Sinister_Yava",
-    "status": "Занято",
-    "x": 263.9849,
-    "y": -283.7479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 312,
     "server_id": 25,
     "type": "house",
@@ -6516,18 +6504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 546,
-    "server_id": 25,
-    "type": "house",
-    "name": "Rubio",
-    "owner": "sektant",
-    "status": "Занято",
-    "x": -18.3805,
-    "y": 1115.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 547,
     "server_id": 25,
     "type": "house",
@@ -6999,7 +6975,7 @@
     "id": 586,
     "server_id": 25,
     "type": "house",
-    "name": "Empire wx3dx 2/15",
+    "name": "Ночный бал",
     "owner": "Timur_Ugliai",
     "status": "Занято",
     "x": -582.4019,
@@ -7916,18 +7892,6 @@
     "status": "Занято",
     "x": 985.838,
     "y": 1901.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 663,
-    "server_id": 25,
-    "type": "house",
-    "name": "Лас вентурас",
-    "owner": "Michael_Rapaport",
-    "status": "Занято",
-    "x": 985.0139,
-    "y": 1930.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10647,7 +10611,7 @@
     "id": 892,
     "server_id": 25,
     "type": "house",
-    "name": "Empire wx3dx 7/15",
+    "name": "Empire wx3dx 1/15",
     "owner": "Timur_Ugliai",
     "status": "Занято",
     "x": -2058.54,
@@ -10683,7 +10647,7 @@
     "id": 895,
     "server_id": 25,
     "type": "house",
-    "name": "Empire wx3dx 3/15",
+    "name": "Empire wx3dx 2/15",
     "owner": "Timur_Ugliai",
     "status": "Занято",
     "x": -2067.89,
@@ -10695,7 +10659,7 @@
     "id": 896,
     "server_id": 25,
     "type": "house",
-    "name": "Empire wx3dx 4/15",
+    "name": "Empire wx3dx 3/15",
     "owner": "Timur_Ugliai",
     "status": "Занято",
     "x": -2045.65,
@@ -10719,8 +10683,8 @@
     "id": 898,
     "server_id": 25,
     "type": "house",
-    "name": "chichas house",
-    "owner": "Ansari_Chicha",
+    "name": "Empire wx3dx 4/15",
+    "owner": "Timur_Ugliai",
     "status": "Занято",
     "x": -2043.12,
     "y": -2559.13,
@@ -19179,7 +19143,7 @@
     "id": 1605,
     "server_id": 25,
     "type": "house",
-    "name": "Empire wx3dx 5/15",
+    "name": "Рок н Ролл теряем контроль",
     "owner": "Timur_Ugliai",
     "status": "Занято",
     "x": 2621.06,
@@ -19251,7 +19215,7 @@
     "id": 1611,
     "server_id": 25,
     "type": "house",
-    "name": "Empire wx3dx 6/15",
+    "name": "Рок н Ролл теряем контроль",
     "owner": "Timur_Ugliai",
     "status": "Занято",
     "x": 2571.53,
@@ -23700,6 +23664,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 311,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом возле ПВЗ",
+    "owner": "Sinister_Yava",
+    "status": "Аукцион",
+    "x": 263.9849,
+    "y": -283.7479,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 340,
     "server_id": 25,
     "type": "house",
@@ -23733,6 +23709,30 @@
     "x": 719.0629,
     "y": 300.639,
     "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 546,
+    "server_id": 25,
+    "type": "house",
+    "name": "Rubio",
+    "owner": "sektant",
+    "status": "Аукцион",
+    "x": -18.3805,
+    "y": 1115.67,
+    "price": 123123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 663,
+    "server_id": 25,
+    "type": "house",
+    "name": "Лас вентурас",
+    "owner": "Michael_Rapaport",
+    "status": "Аукцион",
+    "x": 985.0139,
+    "y": 1930.67,
+    "price": 5000,
     "district": "Сан-Андреас"
   },
   {
@@ -23793,6 +23793,18 @@
     "x": -88.742,
     "y": 1378.27,
     "price": 270000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 87,
+    "server_id": 25,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Keks_Uralsky",
+    "status": "Аукцион",
+    "x": -91.2371,
+    "y": 1188.43,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -24068,18 +24080,6 @@
     "status": "Занято",
     "x": 385.891,
     "y": -1817.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 87,
-    "server_id": 25,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Keks_Uralsky",
-    "status": "Занято",
-    "x": -91.2371,
-    "y": 1188.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26212,7 +26212,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Отель",
-    "owner": "Sam_Dream",
+    "owner": "Farma_Zone",
     "status": "Занято",
     "x": 1486.788,
     "y": -1585.277,

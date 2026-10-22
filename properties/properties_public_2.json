@@ -2080,7 +2080,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Liqud",
-    "owner": "Moscow_Stoner",
+    "owner": "Ryan_Safonov",
     "status": "Занято",
     "x": 794.132,
     "y": -1707.45,
@@ -7656,18 +7656,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 639,
-    "server_id": 2,
-    "type": "house",
-    "name": "Stics",
-    "owner": "Sherlock_Stics",
-    "status": "Занято",
-    "x": -278.9989,
-    "y": 1003.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 640,
     "server_id": 2,
     "type": "house",
@@ -8308,7 +8296,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Винни & Молля <3",
-    "owner": "David_Riverro",
+    "owner": "Molly_Riverro",
     "status": "Занято",
     "x": 1316.23,
     "y": 2524.48,
@@ -12336,18 +12324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1030,
-    "server_id": 2,
-    "type": "house",
-    "name": "Продается",
-    "owner": "Leo_Dexter",
-    "status": "Занято",
-    "x": -2840.12,
-    "y": 867.0339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1031,
     "server_id": 2,
     "type": "house",
@@ -16040,18 +16016,6 @@
     "status": "Занято",
     "x": -2524.33,
     "y": -198.7969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1339,
-    "server_id": 2,
-    "type": "house",
-    "name": "Stics",
-    "owner": "Sherlock_Stics",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -189.2819,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23256,18 +23220,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1944,
-    "server_id": 2,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Twink_Awardosa",
-    "status": "Занято",
-    "x": 2610.33,
-    "y": 2133.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1945,
     "server_id": 2,
     "type": "house",
@@ -23964,15 +23916,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 80,
+    "id": 639,
     "server_id": 2,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Evgenii_Streltcov",
+    "type": "house",
+    "name": "Stics",
+    "owner": "Sherlock_Stics",
     "status": "Аукцион",
-    "x": 2638.3,
-    "y": 1671.86,
-    "price": 200000,
+    "x": -278.9989,
+    "y": 1003.39,
+    "price": 6000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1030,
+    "server_id": 2,
+    "type": "house",
+    "name": "Продается",
+    "owner": "Leo_Dexter",
+    "status": "Аукцион",
+    "x": -2840.12,
+    "y": 867.0339,
+    "price": 900,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1339,
+    "server_id": 2,
+    "type": "house",
+    "name": "Stics",
+    "owner": "Sherlock_Stics",
+    "status": "Аукцион",
+    "x": -2515.38,
+    "y": -189.2819,
+    "price": 2300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1944,
+    "server_id": 2,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Twink_Awardosa",
+    "status": "Аукцион",
+    "x": 2610.33,
+    "y": 2133.12,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25688,6 +25676,18 @@
     "status": "Занято",
     "x": 2884.55,
     "y": 2454.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 80,
+    "server_id": 2,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Evgenii_Streltcov",
+    "status": "Занято",
+    "x": 2638.3,
+    "y": 1671.86,
     "price": 0,
     "district": "Сан-Андреас"
   },

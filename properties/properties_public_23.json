@@ -3604,7 +3604,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Sklim Monopoly ",
-    "owner": "Robet_Below",
+    "owner": "Fereva_Blackwood",
     "status": "Занято",
     "x": 2109.6,
     "y": -1081.15,
@@ -9615,8 +9615,8 @@
     "id": 801,
     "server_id": 23,
     "type": "house",
-    "name": "Коалиция TankOV",
-    "owner": "Miu_Tank",
+    "name": "халупка",
+    "owner": "Exe_Rapire",
     "status": "Занято",
     "x": -2340.03,
     "y": 820.0209,
@@ -15708,6 +15708,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1310,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jaycee_Nenentori",
+    "status": "Занято",
+    "x": 161.531,
+    "y": -1455.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1311,
     "server_id": 23,
     "type": "house",
@@ -16683,7 +16695,7 @@
     "id": 1392,
     "server_id": 23,
     "type": "house",
-    "name": "Business House",
+    "name": "SIBIRSKAYA BAZA",
     "owner": "Sibirskaya_Anarchya",
     "status": "Занято",
     "x": 1112.2,
@@ -19740,18 +19752,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1649,
-    "server_id": 23,
-    "type": "house",
-    "name": "ДЕП УСLОВИЕ",
-    "owner": "Ney_Markelovani",
-    "status": "Занято",
-    "x": 2473.08,
-    "y": -1417.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1650,
     "server_id": 23,
     "type": "house",
@@ -21156,15 +21156,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1310,
+    "id": 1649,
     "server_id": 23,
     "type": "house",
-    "name": "Дом",
-    "owner": "Jaycee_Nenentori",
+    "name": "ДЕП УСLОВИЕ",
+    "owner": "Ney_Markelovani",
     "status": "Аукцион",
-    "x": 161.531,
-    "y": -1455.85,
-    "price": 7000000000,
+    "x": 2473.08,
+    "y": -1417.44,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 217,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Ozon_Job",
+    "status": "Аукцион",
+    "x": 2537.82,
+    "y": 2137.12,
+    "price": 8000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24332,18 +24344,6 @@
     "status": "Занято",
     "x": 2327.86,
     "y": 2421.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 217,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Ozon_Job",
-    "status": "Занято",
-    "x": 2537.82,
-    "y": 2137.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
