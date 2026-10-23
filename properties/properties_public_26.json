@@ -7200,18 +7200,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 600,
-    "server_id": 26,
-    "type": "house",
-    "name": "держу с 14.09.26",
-    "owner": "Zotti_Eoo",
-    "status": "Занято",
-    "x": -2792.84,
-    "y": -153.048,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 601,
     "server_id": 26,
     "type": "house",
@@ -23796,6 +23784,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1984,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ivan_Fugo",
+    "status": "Занято",
+    "x": -759.104,
+    "y": 2765.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1985,
     "server_id": 26,
     "type": "house",
@@ -24056,18 +24056,6 @@
     "status": "Занято",
     "x": 1794.47,
     "y": 2863.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2007,
-    "server_id": 26,
-    "type": "house",
-    "name": "Подарок от Jack_Eyes",
-    "owner": "[27]Rich_Doc",
-    "status": "Занято",
-    "x": 1783.7,
-    "y": 2868.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24404,6 +24392,18 @@
     "status": "Занято",
     "x": -788.341,
     "y": 1448.37,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2037,
+    "server_id": 26,
+    "type": "house",
+    "name": "с подвалом",
+    "owner": "[07]Papa_Hapa",
+    "status": "Занято",
+    "x": 25.7653,
+    "y": 1346.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25164,27 +25164,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2037,
+    "id": 600,
     "server_id": 26,
     "type": "house",
-    "name": "с подвалом",
+    "name": "держу с 14.09.26",
     "owner": "Государство",
     "status": "Свободно",
-    "x": 25.7653,
-    "y": 1346.04,
+    "x": -2792.84,
+    "y": -153.048,
     "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1984,
+    "id": 2007,
     "server_id": 26,
     "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
+    "name": "Подарок от Jack_Eyes",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1783.7,
+    "y": 2868.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 27,
+    "server_id": 26,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Ilya_Andreev",
     "status": "Аукцион",
-    "x": -759.104,
-    "y": 2765.4,
-    "price": 10123123,
+    "x": 31.576,
+    "y": -2638.06,
+    "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 56,
+    "server_id": 26,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ilya_Andreev",
+    "status": "Аукцион",
+    "x": 1671.52,
+    "y": 1814.33,
+    "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 64,
+    "server_id": 26,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Ilya_Andreev",
+    "status": "Аукцион",
+    "x": -1465.86,
+    "y": 1873.41,
+    "price": 175000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 81,
+    "server_id": 26,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Ilya_Andreev",
+    "status": "Аукцион",
+    "x": 2101.89,
+    "y": 2228.81,
+    "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 180,
+    "server_id": 26,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Ilya_Andreev",
+    "status": "Аукцион",
+    "x": -63.12,
+    "y": 1208.9,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -26436,18 +26496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
-    "server_id": 26,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Ilya_Andreev",
-    "status": "Занято",
-    "x": 31.576,
-    "y": -2638.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 28,
     "server_id": 26,
     "type": "business",
@@ -26564,18 +26612,6 @@
     "status": "Занято",
     "x": -1320.49,
     "y": 2698.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 64,
-    "server_id": 26,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Ilya_Andreev",
-    "status": "Занято",
-    "x": -1465.86,
-    "y": 1873.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26912,18 +26948,6 @@
     "status": "Занято",
     "x": 2638.3,
     "y": 1671.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 81,
-    "server_id": 26,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ilya_Andreev",
-    "status": "Занято",
-    "x": 2101.89,
-    "y": 2228.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27392,18 +27416,6 @@
     "status": "Занято",
     "x": 2262.75,
     "y": 2036.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 56,
-    "server_id": 26,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ilya_Andreev",
-    "status": "Занято",
-    "x": 1671.52,
-    "y": 1814.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27980,18 +27992,6 @@
     "status": "Занято",
     "x": 1521.99,
     "y": -1025.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 180,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Ilya_Andreev",
-    "status": "Занято",
-    "x": -63.12,
-    "y": 1208.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
