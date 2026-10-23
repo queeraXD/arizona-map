@@ -2103,7 +2103,7 @@
     "id": 175,
     "server_id": 4,
     "type": "house",
-    "name": "SELL: 1,5kkk. House:house:",
+    "name": "House",
     "owner": "Matvei_Anderson",
     "status": "Занято",
     "x": 790.9739,
@@ -4524,6 +4524,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 377,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": 2258.04,
+    "y": 167.8099,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 378,
     "server_id": 4,
     "type": "house",
@@ -4716,6 +4728,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 394,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": 2197.81,
+    "y": -60.608,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 395,
     "server_id": 4,
     "type": "house",
@@ -4752,6 +4776,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 398,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": 2367.38,
+    "y": -48.8526,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 399,
     "server_id": 4,
     "type": "house",
@@ -4772,6 +4808,18 @@
     "status": "Занято",
     "x": 2415.43,
     "y": -51.5713,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 401,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": 2438.82,
+    "y": -54.6911,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16236,6 +16284,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1358,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается дом",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": 2285.88,
+    "y": 161.7709,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1359,
     "server_id": 4,
     "type": "house",
@@ -16856,18 +16916,6 @@
     "status": "Занято",
     "x": 2394.87,
     "y": -1133.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1411,
-    "server_id": 4,
-    "type": "house",
-    "name": "Song_Beerov",
-    "owner": "Eturn_Hypoup",
-    "status": "Занято",
-    "x": 2407.96,
-    "y": -1106.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17540,6 +17588,18 @@
     "status": "Занято",
     "x": 745.6749,
     "y": -590.9829,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1468,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": 2373.85,
+    "y": 21.9458,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25188,86 +25248,38 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 377,
+    "id": 1411,
     "server_id": 4,
     "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
+    "name": "Song_Beerov",
+    "owner": "Eturn_Hypoup",
     "status": "Аукцион",
-    "x": 2258.04,
-    "y": 167.8099,
-    "price": 6300000000,
+    "x": 2407.96,
+    "y": -1106.97,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 394,
+    "id": 57,
     "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ramil_Orlov",
     "status": "Аукцион",
-    "x": 2197.81,
-    "y": -60.608,
-    "price": 6300000000,
+    "x": 2085.84,
+    "y": 2486.25,
+    "price": 199999,
     "district": "Сан-Андреас"
   },
   {
-    "id": 398,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Аукцион",
-    "x": 2367.38,
-    "y": -48.8526,
-    "price": 6400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 401,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Аукцион",
-    "x": 2438.82,
-    "y": -54.6911,
-    "price": 6200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1358,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается дом",
-    "owner": "Doctor_Infernales",
-    "status": "Аукцион",
-    "x": 2285.88,
-    "y": 161.7709,
-    "price": 3200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1468,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Аукцион",
-    "x": 2373.85,
-    "y": 21.9458,
-    "price": 3200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 184,
+    "id": 218,
     "server_id": 4,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Doctor_Infernales",
+    "owner": "Meo_Wizard",
     "status": "Аукцион",
-    "x": 2351.41,
-    "y": 2405.59,
+    "x": 1500.24,
+    "y": -1628.79,
     "price": 10000000000,
     "district": "Сан-Андреас"
   },
@@ -27492,18 +27504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
-    "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ramil_Orlov",
-    "status": "Занято",
-    "x": 2085.84,
-    "y": 2486.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 58,
     "server_id": 4,
     "type": "business",
@@ -28116,6 +28116,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 184,
+    "server_id": 4,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Doctor_Infernales",
+    "status": "Занято",
+    "x": 2351.41,
+    "y": 2405.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 185,
     "server_id": 4,
     "type": "business",
@@ -28436,18 +28448,6 @@
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 218,
-    "server_id": 4,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Meo_Wizard",
-    "status": "Занято",
-    "x": 1500.24,
-    "y": -1628.79,
     "price": 0,
     "district": "Сан-Андреас"
   },

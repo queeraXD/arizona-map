@@ -2340,18 +2340,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 195,
-    "server_id": 8,
-    "type": "house",
-    "name": "Eighteent home | Niclupp",
-    "owner": "Martine_Negodnicov",
-    "status": "Занято",
-    "x": 192.8079,
-    "y": -1770.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 196,
     "server_id": 8,
     "type": "house",
@@ -3872,6 +3860,18 @@
     "status": "Занято",
     "x": 795.195,
     "y": -506.406,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 323,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Idushchijkreke",
+    "status": "Занято",
+    "x": 776.6719,
+    "y": -503.492,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6992,6 +6992,18 @@
     "status": "Занято",
     "x": -279.3829,
     "y": 2722.05,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 584,
+    "server_id": 8,
+    "type": "house",
+    "name": "потом придумаю",
+    "owner": "Leo_Forza",
+    "status": "Занято",
+    "x": -219.5899,
+    "y": 2767.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18588,18 +18600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1552,
-    "server_id": 8,
-    "type": "house",
-    "name": "cuerto squad",
-    "owner": "Klaus_Mercer",
-    "status": "Занято",
-    "x": 2044.67,
-    "y": -991.322,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1553,
     "server_id": 8,
     "type": "house",
@@ -19292,18 +19292,6 @@
     "status": "Занято",
     "x": 2532.52,
     "y": 719.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1611,
-    "server_id": 8,
-    "type": "house",
-    "name": "hellwood",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 2540.04,
-    "y": 713.263,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20144,6 +20132,18 @@
     "status": "Занято",
     "x": -2541.5,
     "y": 896.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1682,
+    "server_id": 8,
+    "type": "house",
+    "name": "Pivo",
+    "owner": "Sota_Noguchi",
+    "status": "Занято",
+    "x": -2556.01,
+    "y": 896.6389,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23568,18 +23568,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1968,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lovec_Otelya",
-    "status": "Занято",
-    "x": 2516.33,
-    "y": 1643.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1969,
     "server_id": 8,
     "type": "house",
@@ -24464,18 +24452,6 @@
     "status": "Занято",
     "x": 2601.05,
     "y": -1233.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2043,
-    "server_id": 8,
-    "type": "house",
-    "name": "10 лвл",
-    "owner": "rockstar",
-    "status": "Занято",
-    "x": 2594.5,
-    "y": -1229.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25752,63 +25728,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 323,
+    "id": 195,
+    "server_id": 8,
+    "type": "house",
+    "name": "Eighteent home | Niclupp",
+    "owner": "Martine_Negodnicov",
+    "status": "Аукцион",
+    "x": 192.8079,
+    "y": -1770.02,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1552,
+    "server_id": 8,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Klaus_Mercer",
+    "status": "Аукцион",
+    "x": 2044.67,
+    "y": -991.322,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1611,
+    "server_id": 8,
+    "type": "house",
+    "name": "hellwood",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": 2540.04,
+    "y": 713.263,
+    "price": 200000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1968,
     "server_id": 8,
     "type": "house",
     "name": "Дом",
-    "owner": "Vova_Idushchijkreke",
+    "owner": "Lovec_Otelya",
     "status": "Аукцион",
-    "x": 776.6719,
-    "y": -503.492,
-    "price": 3999999999,
+    "x": 2516.33,
+    "y": 1643.58,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 584,
+    "id": 2043,
     "server_id": 8,
     "type": "house",
-    "name": "потом придумаю",
-    "owner": "Vova_Strange",
+    "name": "владелец дома пиздабол",
+    "owner": "rockstar",
     "status": "Аукцион",
-    "x": -219.5899,
-    "y": 2767.46,
-    "price": 400000000,
+    "x": 2594.5,
+    "y": -1229.21,
+    "price": 450123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1682,
-    "server_id": 8,
-    "type": "house",
-    "name": "Pivo",
-    "owner": "Vanechka_Implored",
-    "status": "Аукцион",
-    "x": -2556.01,
-    "y": 896.6389,
-    "price": 350123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 194,
+    "id": 103,
     "server_id": 8,
     "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Bag_Dominate",
+    "name": "Магазин 24/7",
+    "owner": "Natsu_Dragnilka",
     "status": "Аукцион",
-    "x": -2022.61,
-    "y": 459.31,
-    "price": 6500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 252,
-    "server_id": 8,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Mark_Golovanskiy",
-    "status": "Аукцион",
-    "x": -2975.86,
-    "y": 623.271,
-    "price": 4500000000,
+    "x": -1686.44,
+    "y": 1325.38,
+    "price": 440100,
     "district": "Сан-Андреас"
   },
   {
@@ -26532,18 +26520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 103,
-    "server_id": 8,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Natsu_Dragnilka",
-    "status": "Занято",
-    "x": -1686.44,
-    "y": 1325.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 104,
     "server_id": 8,
     "type": "business",
@@ -27248,6 +27224,18 @@
     "status": "Занято",
     "x": -930.703,
     "y": 13.1137,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 252,
+    "server_id": 8,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Akio_Washington",
+    "status": "Занято",
+    "x": -2975.86,
+    "y": 623.271,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28588,7 +28576,7 @@
     "server_id": 8,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Akio_Washington",
+    "owner": "Mark_Golovanskiy",
     "status": "Занято",
     "x": 1521.99,
     "y": -1025.07,
@@ -28760,6 +28748,18 @@
     "status": "Занято",
     "x": 2405.02,
     "y": -1933.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 194,
+    "server_id": 8,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Bag_Dominate",
+    "status": "Занято",
+    "x": -2022.61,
+    "y": 459.31,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -6516,18 +6516,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 545,
-    "server_id": 18,
-    "type": "house",
-    "name": "Media House",
-    "owner": "Rostislav_Osmonov",
-    "status": "Занято",
-    "x": -36.0457,
-    "y": 1115.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 546,
     "server_id": 18,
     "type": "house",
@@ -8252,18 +8240,6 @@
     "status": "Занято",
     "x": 1313.78,
     "y": 2610.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 690,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Crystal_Grimm",
-    "status": "Занято",
-    "x": 1344.65,
-    "y": 2609.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17904,18 +17880,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1496,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mega_Fame",
-    "status": "Занято",
-    "x": 2601.05,
-    "y": -1229.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1497,
     "server_id": 18,
     "type": "house",
@@ -22200,6 +22164,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 545,
+    "server_id": 18,
+    "type": "house",
+    "name": "Media House",
+    "owner": "Rostislav_Osmonov",
+    "status": "Аукцион",
+    "x": -36.0457,
+    "y": 1115.65,
+    "price": 3100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 690,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mish_Kish",
+    "status": "Аукцион",
+    "x": 1344.65,
+    "y": 2609.95,
+    "price": 6000123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 791,
     "server_id": 18,
     "type": "house",
@@ -22209,6 +22197,18 @@
     "x": -2566.54,
     "y": 896.6409,
     "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1496,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mega_Fame",
+    "status": "Аукцион",
+    "x": 2601.05,
+    "y": -1229.25,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25060,7 +25060,7 @@
     "server_id": 18,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Sam_Bergstrom",
+    "owner": "Business_Rampage",
     "status": "Занято",
     "x": 2351.41,
     "y": 2405.59,

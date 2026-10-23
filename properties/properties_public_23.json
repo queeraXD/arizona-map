@@ -10083,7 +10083,7 @@
     "id": 840,
     "server_id": 23,
     "type": "house",
-    "name": "Skywalker Dynasty",
+    "name": "Skywalker Empire",
     "owner": "Kosoy_Skywalker",
     "status": "Занято",
     "x": -2188.13,
@@ -11216,18 +11216,6 @@
     "status": "Занято",
     "x": -2126.66,
     "y": 755.6099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 936,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом Пузика",
-    "owner": "Puzotriyas_Veis",
-    "status": "Занято",
-    "x": -2127.05,
-    "y": 773.752,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16164,6 +16152,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1348,
+    "server_id": 23,
+    "type": "house",
+    "name": "с набором архитектора и деп ",
+    "owner": "Goha_Ermolaev",
+    "status": "Занято",
+    "x": 1515.98,
+    "y": 2610.18,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1349,
     "server_id": 23,
     "type": "house",
@@ -16683,8 +16683,8 @@
     "id": 1392,
     "server_id": 23,
     "type": "house",
-    "name": "SIBIRSKAYA BAZA",
-    "owner": "Sibirskaya_Anarchya",
+    "name": "Стерлик база",
+    "owner": "Daniil_Khaibullin",
     "status": "Занято",
     "x": 1112.2,
     "y": -1575.21,
@@ -19464,18 +19464,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1624,
-    "server_id": 23,
-    "type": "house",
-    "name": "Gachi house",
-    "owner": "Billy_Miligan",
-    "status": "Занято",
-    "x": -2843.69,
-    "y": -2269.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1625,
     "server_id": 23,
     "type": "house",
@@ -21156,27 +21144,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1348,
+    "id": 936,
     "server_id": 23,
     "type": "house",
-    "name": "с набором архитектора и деп ",
-    "owner": "Goha_Stepanov",
+    "name": "Дом Пузика",
+    "owner": "Puzotriyas_Veis",
     "status": "Аукцион",
-    "x": 1515.98,
-    "y": 2610.18,
-    "price": 2100123123,
+    "x": -2127.05,
+    "y": 773.752,
+    "price": 650000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 147,
+    "id": 1624,
     "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Shady_Records",
+    "type": "house",
+    "name": "Gachi house",
+    "owner": "Billy_Miligan",
     "status": "Аукцион",
-    "x": -2174.971,
-    "y": -29.964,
-    "price": 240000,
+    "x": -2843.69,
+    "y": -2269.19,
+    "price": 550000,
     "district": "Сан-Андреас"
   },
   {
@@ -21192,27 +21180,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
+    "id": 333,
     "server_id": 23,
     "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Shady_Records",
+    "name": "Нефтевышка",
+    "owner": "Heart_Shape",
     "status": "Аукцион",
-    "x": 1031.61,
-    "y": 1354.3,
-    "price": 180000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 467,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Shady_Records",
-    "status": "Аукцион",
-    "x": -2015.06,
-    "y": -2.1872,
-    "price": 210000,
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 400000,
     "district": "Сан-Андреас"
   },
   {
@@ -22740,6 +22716,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 285,
+    "server_id": 23,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Shady_Records",
+    "status": "Занято",
+    "x": 1031.61,
+    "y": 1354.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 286,
     "server_id": 23,
     "type": "business",
@@ -23724,6 +23712,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 147,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Shady_Records",
+    "status": "Занято",
+    "x": -2174.971,
+    "y": -29.964,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 148,
     "server_id": 23,
     "type": "business",
@@ -23936,6 +23936,18 @@
     "status": "Занято",
     "x": 1365.16,
     "y": -1859.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 467,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Dima_Nekras",
+    "status": "Занято",
+    "x": -2015.06,
+    "y": -2.1872,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25145,18 +25157,6 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "Aleksey_Osobov",
-    "status": "Занято",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 333,
-    "server_id": 23,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Heart_Shape",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

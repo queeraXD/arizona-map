@@ -2928,18 +2928,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 244,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом Майкла",
-    "owner": "Air_Markelovani",
-    "status": "Занято",
-    "x": 354.445,
-    "y": -1280.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 245,
     "server_id": 11,
     "type": "house",
@@ -3488,18 +3476,6 @@
     "status": "Занято",
     "x": 726.442,
     "y": -1276.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 291,
-    "server_id": 11,
-    "type": "house",
-    "name": "Lогово Рошана",
-    "owner": "Cricket_Temporal",
-    "status": "Занято",
-    "x": 2498.96,
-    "y": -1065.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11592,18 +11568,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 967,
-    "server_id": 11,
-    "type": "house",
-    "name": "5kkk",
-    "owner": "Nasok_Sasok",
-    "status": "Занято",
-    "x": -2626.71,
-    "y": 2318.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 968,
     "server_id": 11,
     "type": "house",
@@ -15252,18 +15216,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1283,
-    "server_id": 11,
-    "type": "house",
-    "name": "SF [1283]",
-    "owner": "DemCho_Savchenko",
-    "status": "Занято",
-    "x": -2564.26,
-    "y": 992.2529,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1284,
     "server_id": 11,
     "type": "house",
@@ -15332,6 +15284,18 @@
     "status": "Занято",
     "x": -2433.03,
     "y": 1264.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1290,
+    "server_id": 11,
+    "type": "house",
+    "name": "PermVolf",
+    "owner": "Jeremy_Permskiy",
+    "status": "Занято",
+    "x": -2433.73,
+    "y": 1281.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21780,18 +21744,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1829,
-    "server_id": 11,
-    "type": "house",
-    "name": "МАЙНИНГ №4 +ДЕП",
-    "owner": "Cricket_Temporal",
-    "status": "Занято",
-    "x": 2503.42,
-    "y": 1643.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1830,
     "server_id": 11,
     "type": "house",
@@ -24624,15 +24576,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1290,
+    "id": 244,
     "server_id": 11,
     "type": "house",
-    "name": "PermVolf",
-    "owner": "Jeremy_Permskiy",
+    "name": "Дом Майкла",
+    "owner": "Air_Markelovani",
     "status": "Аукцион",
-    "x": -2433.73,
-    "y": 1281.36,
-    "price": 380000000,
+    "x": 354.445,
+    "y": -1280.53,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 291,
+    "server_id": 11,
+    "type": "house",
+    "name": "Lогово Рошана",
+    "owner": "Cricket_Temporal",
+    "status": "Аукцион",
+    "x": 2498.96,
+    "y": -1065.56,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 967,
+    "server_id": 11,
+    "type": "house",
+    "name": "5kkk",
+    "owner": "Nasok_Sasok",
+    "status": "Аукцион",
+    "x": -2626.71,
+    "y": 2318.8,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1283,
+    "server_id": 11,
+    "type": "house",
+    "name": "SF [1283]",
+    "owner": "DemCho_Savchenko",
+    "status": "Аукцион",
+    "x": -2564.26,
+    "y": 992.2529,
+    "price": 250123123,
     "district": "Сан-Андреас"
   },
   {
@@ -24644,19 +24632,31 @@
     "status": "Аукцион",
     "x": 761.075,
     "y": -1563.99,
-    "price": 1000000000,
+    "price": 970000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 94,
+    "id": 1829,
     "server_id": 11,
-    "type": "business",
-    "name": "Бар",
+    "type": "house",
+    "name": "МАЙНИНГ №4 +ДЕП",
     "owner": "Cricket_Temporal",
     "status": "Аукцион",
-    "x": 1966.2,
-    "y": 1623.14,
-    "price": 7000000000,
+    "x": 2503.42,
+    "y": 1643.58,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 198,
+    "server_id": 11,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Lovlya_Vip",
+    "status": "Аукцион",
+    "x": -1826.43,
+    "y": -566.68,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24968,6 +24968,18 @@
     "status": "Занято",
     "x": 2506.95,
     "y": 2120.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 94,
+    "server_id": 11,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Andrey_Dom",
+    "status": "Занято",
+    "x": 1966.2,
+    "y": 1623.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27656,18 +27668,6 @@
     "status": "Занято",
     "x": -2400.04,
     "y": 337.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 198,
-    "server_id": 11,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Lovlya_Vip",
-    "status": "Занято",
-    "x": -1826.43,
-    "y": -566.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
