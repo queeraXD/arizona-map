@@ -4188,18 +4188,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 349,
-    "server_id": 14,
-    "type": "house",
-    "name": "империя боби боби",
-    "owner": "Bobby_Bobby",
-    "status": "Занято",
-    "x": 1242.29,
-    "y": -878.2819,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 350,
     "server_id": 14,
     "type": "house",
@@ -9748,7 +9736,7 @@
     "server_id": 14,
     "type": "house",
     "name": "fedor krytoy",
-    "owner": "Takashi_West",
+    "owner": "Cucci_Mane",
     "status": "Занято",
     "x": -2723.62,
     "y": -162.701,
@@ -11272,7 +11260,7 @@
     "server_id": 14,
     "type": "house",
     "name": "fedor krytoy",
-    "owner": "Takashi_West",
+    "owner": "Cucci_Mane",
     "status": "Занято",
     "x": -2066.59,
     "y": 796.82,
@@ -15000,6 +14988,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1250,
+    "server_id": 14,
+    "type": "house",
+    "name": "Simpsons House II",
+    "owner": "Connor_Simpson",
+    "status": "Занято",
+    "x": -2511.07,
+    "y": 1054.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1251,
     "server_id": 14,
     "type": "house",
@@ -17319,8 +17319,8 @@
     "id": 1444,
     "server_id": 14,
     "type": "house",
-    "name": "$$$",
-    "owner": "Andriy_Luzhansky",
+    "name": "дом занят",
+    "owner": "Kostya_Sanchez",
     "status": "Занято",
     "x": 884.517,
     "y": 2295.31,
@@ -22960,7 +22960,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Курт Кобейка",
-    "owner": "Vitay_Scaletta",
+    "owner": "Leonid_Odessit",
     "status": "Занято",
     "x": 1772.08,
     "y": 2871.2,
@@ -23108,18 +23108,6 @@
     "status": "Занято",
     "x": 1763.13,
     "y": 2871.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1932,
-    "server_id": 14,
-    "type": "house",
-    "name": "нг инта + деп условия",
-    "owner": "Connor_Korolevw",
-    "status": "Занято",
-    "x": 1783.74,
-    "y": 2868.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23688,15 +23676,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1250,
+    "id": 349,
     "server_id": 14,
     "type": "house",
-    "name": "YNGFAMQ-100",
-    "owner": "Ruff_Wayy",
+    "name": "империя боби боби",
+    "owner": "Bobby_Bobby",
     "status": "Аукцион",
-    "x": -2511.07,
-    "y": 1054.04,
-    "price": 6000,
+    "x": 1242.29,
+    "y": -878.2819,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1932,
+    "server_id": 14,
+    "type": "house",
+    "name": "нг инта + деп условия",
+    "owner": "Connor_Korolevw",
+    "status": "Аукцион",
+    "x": 1783.74,
+    "y": 2868.73,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {

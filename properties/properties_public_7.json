@@ -3135,7 +3135,7 @@
     "id": 261,
     "server_id": 7,
     "type": "house",
-    "name": "NGG52",
+    "name": "zeus",
     "owner": "Sky_God",
     "status": "Занято",
     "x": 2374.1,
@@ -4824,6 +4824,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 402,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Absolute_Solver",
+    "status": "Занято",
+    "x": 2448.44,
+    "y": -11.0635,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 403,
     "server_id": 7,
     "type": "house",
@@ -6308,6 +6320,18 @@
     "status": "Занято",
     "x": 2049.55,
     "y": 2763.94,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 527,
+    "server_id": 7,
+    "type": "house",
+    "name": "Dream House",
+    "owner": "Milana_MacLeod",
+    "status": "Занято",
+    "x": 2039.57,
+    "y": 2766.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18732,6 +18756,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1563,
+    "server_id": 7,
+    "type": "house",
+    "name": "gothvalue house",
+    "owner": "Roy_Allen",
+    "status": "Занято",
+    "x": 2572.33,
+    "y": -1091.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1564,
     "server_id": 7,
     "type": "house",
@@ -23220,18 +23256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1938,
-    "server_id": 7,
-    "type": "house",
-    "name": "*Witchblade*house",
-    "owner": "Extra_Witchblade",
-    "status": "Занято",
-    "x": -317.8989,
-    "y": 877.572,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1939,
     "server_id": 7,
     "type": "house",
@@ -23312,18 +23336,6 @@
     "status": "Занято",
     "x": 1737.12,
     "y": 2800.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1946,
-    "server_id": 7,
-    "type": "house",
-    "name": "Лисяндия",
-    "owner": "Victoria_Kennedy",
-    "status": "Занято",
-    "x": 1731.11,
-    "y": 2823.49,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25512,39 +25524,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 402,
+    "id": 1938,
     "server_id": 7,
     "type": "house",
-    "name": "Дом",
-    "owner": "Absolute_Solver",
+    "name": "*Witchblade*house",
+    "owner": "Extra_Witchblade",
     "status": "Аукцион",
-    "x": 2448.44,
-    "y": -11.0635,
-    "price": 7200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 527,
-    "server_id": 7,
-    "type": "house",
-    "name": "Dream House",
-    "owner": "Milana_MacLeod",
-    "status": "Аукцион",
-    "x": 2039.57,
-    "y": 2766.53,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1563,
-    "server_id": 7,
-    "type": "house",
-    "name": "gothvalue house",
-    "owner": "Roy_Allen",
-    "status": "Аукцион",
-    "x": 2572.33,
-    "y": -1091.83,
+    "x": -317.8989,
+    "y": 877.572,
     "price": 5800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1946,
+    "server_id": 7,
+    "type": "house",
+    "name": "Лисяндия",
+    "owner": "Victoria_Kennedy",
+    "status": "Аукцион",
+    "x": 1731.11,
+    "y": 2823.49,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {

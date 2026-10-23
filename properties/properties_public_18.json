@@ -4680,30 +4680,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 390,
-    "server_id": 18,
-    "type": "house",
-    "name": ":lh::lo::lf::lf::lm::la::ln:",
-    "owner": "Aleksandr_Hoffman",
-    "status": "Занято",
-    "x": 2293.78,
-    "y": -124.593,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 391,
-    "server_id": 18,
-    "type": "house",
-    "name": ":lh::lo::lf::lf::lm::la::ln:",
-    "owner": "Aleksandr_Hoffman",
-    "status": "Занято",
-    "x": 2272.35,
-    "y": -118.814,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 392,
     "server_id": 18,
     "type": "house",
@@ -6543,8 +6519,8 @@
     "id": 545,
     "server_id": 18,
     "type": "house",
-    "name": "Дом",
-    "owner": "Crystal_Grimm",
+    "name": "Media House",
+    "owner": "Rostislav_Osmonov",
     "status": "Занято",
     "x": -36.0457,
     "y": 1115.65,
@@ -9488,18 +9464,6 @@
     "status": "Занято",
     "x": -2583.75,
     "y": 896.255,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 791,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nurse_Harrow",
-    "status": "Занято",
-    "x": -2566.54,
-    "y": 896.6409,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22209,6 +22173,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 390,
+    "server_id": 18,
+    "type": "house",
+    "name": ":lh::lo::lf::lf::lm::la::ln:",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2293.78,
+    "y": -124.593,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 391,
+    "server_id": 18,
+    "type": "house",
+    "name": ":lh::lo::lf::lf::lm::la::ln:",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2272.35,
+    "y": -118.814,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 791,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nurse_Harrow",
+    "status": "Аукцион",
+    "x": -2566.54,
+    "y": 896.6409,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
