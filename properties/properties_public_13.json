@@ -11412,18 +11412,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 951,
-    "server_id": 13,
-    "type": "house",
-    "name": "maqson",
-    "owner": "Maqson_Salo",
-    "status": "Занято",
-    "x": -2230.74,
-    "y": 1027.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 952,
     "server_id": 13,
     "type": "house",
@@ -12216,6 +12204,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1018,
+    "server_id": 13,
+    "type": "house",
+    "name": "KorolHouse",
+    "owner": "Egor_Baltin",
+    "status": "Занято",
+    "x": -2541.3,
+    "y": 987.9089,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1019,
     "server_id": 13,
     "type": "house",
@@ -12352,7 +12352,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом мечты с:",
-    "owner": "Pierre_LaParrish",
+    "owner": "Pierre_Kavkaz",
     "status": "Занято",
     "x": 1955.61,
     "y": -303.604,
@@ -12644,18 +12644,6 @@
     "status": "Занято",
     "x": -1901.98,
     "y": 1239.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1055,
-    "server_id": 13,
-    "type": "house",
-    "name": "maqson",
-    "owner": "Maqson_Salo",
-    "status": "Занято",
-    "x": -1901.0,
-    "y": 1203.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14928,18 +14916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1245,
-    "server_id": 13,
-    "type": "house",
-    "name": "K-13",
-    "owner": "Maqson_Salo",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1244.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1246,
     "server_id": 13,
     "type": "house",
@@ -17012,18 +16988,6 @@
     "status": "Занято",
     "x": 885.4229,
     "y": 2153.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1419,
-    "server_id": 13,
-    "type": "house",
-    "name": "maqson",
-    "owner": "Maqson_Salo",
-    "status": "Занято",
-    "x": 885.424,
-    "y": 2180.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20224,22 +20188,10 @@
     "server_id": 13,
     "type": "house",
     "name": "дом лисалисаковича",
-    "owner": "Igor_Zayats",
+    "owner": "Aperol_Spritz",
     "status": "Занято",
     "x": 2437.04,
     "y": 1210.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1687,
-    "server_id": 13,
-    "type": "house",
-    "name": "FAMILY UNDERWORLD",
-    "owner": "Simpson_Nikson",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1205.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21840,18 +21792,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1822,
-    "server_id": 13,
-    "type": "house",
-    "name": "maqson",
-    "owner": "Maqson_Salo",
-    "status": "Занято",
-    "x": 1778.53,
-    "y": 2736.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1823,
     "server_id": 13,
     "type": "house",
@@ -22228,7 +22168,7 @@
     "server_id": 13,
     "type": "house",
     "name": "choppergroves",
-    "owner": "Choppa_Triada",
+    "owner": "Choppa_Excellent",
     "status": "Занято",
     "x": 2620.35,
     "y": 2148.96,
@@ -23280,15 +23220,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1018,
+    "id": 951,
     "server_id": 13,
     "type": "house",
-    "name": "KorolHouse",
-    "owner": "Zheka_Zhuk",
+    "name": "maqson",
+    "owner": "Maqson_Salo",
     "status": "Аукцион",
-    "x": -2541.3,
-    "y": 987.9089,
-    "price": 400000000,
+    "x": -2230.74,
+    "y": 1027.64,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1055,
+    "server_id": 13,
+    "type": "house",
+    "name": "maqson",
+    "owner": "Maqson_Salo",
+    "status": "Аукцион",
+    "x": -1901.0,
+    "y": 1203.07,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1245,
+    "server_id": 13,
+    "type": "house",
+    "name": "K-13",
+    "owner": "Maqson_Salo",
+    "status": "Аукцион",
+    "x": -2383.14,
+    "y": 1244.71,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1419,
+    "server_id": 13,
+    "type": "house",
+    "name": "maqson",
+    "owner": "Maqson_Salo",
+    "status": "Аукцион",
+    "x": 885.424,
+    "y": 2180.92,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1687,
+    "server_id": 13,
+    "type": "house",
+    "name": "FAMILY UNDERWORLD",
+    "owner": "Simpson_Nikson",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1205.19,
+    "price": 299999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1822,
+    "server_id": 13,
+    "type": "house",
+    "name": "maqson",
+    "owner": "Maqson_Salo",
+    "status": "Аукцион",
+    "x": 1778.53,
+    "y": 2736.02,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {

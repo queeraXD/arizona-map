@@ -3684,18 +3684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 307,
-    "server_id": 32,
-    "type": "house",
-    "name": "60ккк",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": 1846.61,
-    "y": 82.9356,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 308,
     "server_id": 32,
     "type": "house",
@@ -13956,18 +13944,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1169,
-    "server_id": 32,
-    "type": "house",
-    "name": "60ккк",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": -986.9279,
-    "y": -1877.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1170,
     "server_id": 32,
     "type": "house",
@@ -22404,6 +22380,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 307,
+    "server_id": 32,
+    "type": "house",
+    "name": "60ккк",
+    "owner": "Anton_Mas",
+    "status": "Аукцион",
+    "x": 1846.61,
+    "y": 82.9356,
+    "price": 500000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 549,
     "server_id": 32,
     "type": "house",
@@ -22425,6 +22413,18 @@
     "x": -2282.07,
     "y": 1089.04,
     "price": 2200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1169,
+    "server_id": 32,
+    "type": "house",
+    "name": "60ккк",
+    "owner": "Anton_Mas",
+    "status": "Аукцион",
+    "x": -986.9279,
+    "y": -1877.55,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -22524,15 +22524,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 235,
+    "id": 125,
     "server_id": 32,
     "type": "business",
-    "name": "Школа танцев",
-    "owner": "Rick_San",
+    "name": "Аренда транспорта",
+    "owner": "Aaron_Real",
     "status": "Аукцион",
-    "x": -2285.79,
-    "y": 582.738,
-    "price": 211000,
+    "x": -1757.81,
+    "y": 964.127,
+    "price": 210000,
     "district": "Сан-Андреас"
   },
   {
@@ -22545,18 +22545,6 @@
     "x": 670.993,
     "y": -519.331,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 271,
-    "server_id": 32,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Destonium_Laminos",
-    "status": "Аукцион",
-    "x": -1912.17,
-    "y": 827.954,
-    "price": 9000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24600,6 +24588,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 271,
+    "server_id": 32,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Vanlin_Kinoshita",
+    "status": "Занято",
+    "x": -1912.17,
+    "y": 827.954,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 272,
     "server_id": 32,
     "type": "business",
@@ -24836,18 +24836,6 @@
     "status": "Занято",
     "x": -2455.77,
     "y": 799.522,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 125,
-    "server_id": 32,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Aaron_Real",
-    "status": "Занято",
-    "x": -1757.81,
-    "y": 964.127,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25928,6 +25916,18 @@
     "status": "Занято",
     "x": 602.322,
     "y": -1572.9,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 235,
+    "server_id": 32,
+    "type": "business",
+    "name": "Школа танцев",
+    "owner": "Rick_San",
+    "status": "Занято",
+    "x": -2285.79,
+    "y": 582.738,
     "price": 0,
     "district": "Сан-Андреас"
   },
