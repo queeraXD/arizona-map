@@ -2944,7 +2944,7 @@
     "server_id": 15,
     "type": "house",
     "name": "хата лаксайда со взяток",
-    "owner": "Ilya_Laxyd",
+    "owner": "Ilya_Laxydovich",
     "status": "Занято",
     "x": 398.14,
     "y": -1271.38,
@@ -3240,18 +3240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 270,
-    "server_id": 15,
-    "type": "house",
-    "name": "REJECT CORP",
-    "owner": "Richard_Encanto",
-    "status": "Занято",
-    "x": 2628.1,
-    "y": -1067.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 271,
     "server_id": 15,
     "type": "house",
@@ -3320,6 +3308,18 @@
     "status": "Занято",
     "x": 2561.86,
     "y": -1034.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 277,
+    "server_id": 15,
+    "type": "house",
+    "name": "FARMILA",
+    "owner": "Sakura_Morita",
+    "status": "Занято",
+    "x": 2549.37,
+    "y": -1032.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6684,6 +6684,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 558,
+    "server_id": 15,
+    "type": "house",
+    "name": "Killnet The House (4/12)",
+    "owner": "Dmitry_Ackerman",
+    "status": "Занято",
+    "x": 707.2509,
+    "y": 1284.74,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 559,
     "server_id": 15,
     "type": "house",
@@ -10012,7 +10024,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Фармильня Султана",
-    "owner": "Euphoria_Euthanasia",
+    "owner": "Dekulakization_Fi",
     "status": "Занято",
     "x": -2284.87,
     "y": 849.708,
@@ -21288,27 +21300,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 277,
+    "id": 270,
     "server_id": 15,
     "type": "house",
-    "name": "FARMILA",
-    "owner": "Sakura_Morita",
+    "name": "REJECT CORP",
+    "owner": "Chapmen_McCloud",
     "status": "Аукцион",
-    "x": 2549.37,
-    "y": -1032.24,
-    "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 558,
-    "server_id": 15,
-    "type": "house",
-    "name": "Killnet The House (4/12)",
-    "owner": "Dmitry_Ackerman",
-    "status": "Аукцион",
-    "x": 707.2509,
-    "y": 1284.74,
-    "price": 1000000000,
+    "x": 2628.1,
+    "y": -1067.95,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {

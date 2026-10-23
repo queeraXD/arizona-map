@@ -3688,7 +3688,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Gachi house",
-    "owner": "Ioan_Darkside",
+    "owner": "Joo_Darkside",
     "status": "Занято",
     "x": 1891.77,
     "y": -1070.63,
@@ -10516,7 +10516,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Рори ВанЛав SaxaraP",
-    "owner": "Valera_Sakai",
+    "owner": "Owen_Kilimanjaro",
     "status": "Занято",
     "x": -197.4149,
     "y": 2529.87,
@@ -10576,7 +10576,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Possible Mansion Estate",
-    "owner": "Hunter_Knyazev",
+    "owner": "Paradox_Dark",
     "status": "Занято",
     "x": -2632.38,
     "y": 2376.1,
@@ -17256,18 +17256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1440,
-    "server_id": 4,
-    "type": "house",
-    "name": "Dekey house",
-    "owner": "Larney_Dekey",
-    "status": "Занято",
-    "x": 2066.8,
-    "y": -1554.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1441,
     "server_id": 4,
     "type": "house",
@@ -17932,7 +17920,7 @@
     "server_id": 4,
     "type": "house",
     "name": "BUGROV CREAWS ПОЖИВАЕТ",
-    "owner": "Bibon_Darkside",
+    "owner": "Vasya_Astrales",
     "status": "Занято",
     "x": 1866.03,
     "y": -1979.65,
@@ -24592,7 +24580,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Allford Empire",
-    "owner": "Valera_Sakai",
+    "owner": "Owen_Kilimanjaro",
     "status": "Занято",
     "x": -150.001,
     "y": 2687.78,
@@ -25260,6 +25248,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1440,
+    "server_id": 4,
+    "type": "house",
+    "name": "Dekey house",
+    "owner": "Larney_Dekey",
+    "status": "Аукцион",
+    "x": 2066.8,
+    "y": -1554.09,
+    "price": 3000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 57,
     "server_id": 4,
     "type": "business",
@@ -25269,18 +25269,6 @@
     "x": 2085.84,
     "y": 2486.25,
     "price": 199999,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 218,
-    "server_id": 4,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Meo_Wizard",
-    "status": "Аукцион",
-    "x": 1500.24,
-    "y": -1628.79,
-    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -28448,6 +28436,18 @@
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 218,
+    "server_id": 4,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Meo_Wizard",
+    "status": "Занято",
+    "x": 1500.24,
+    "y": -1628.79,
     "price": 0,
     "district": "Сан-Андреас"
   },

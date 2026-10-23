@@ -1408,7 +1408,7 @@
     "server_id": 30,
     "type": "house",
     "name": "tkachbossik",
-    "owner": "Andrey_Tkach",
+    "owner": "Junior_Flare",
     "status": "Занято",
     "x": -2402.41,
     "y": 886.161,
@@ -6348,18 +6348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 529,
-    "server_id": 30,
-    "type": "house",
-    "name": "Kympintyao FARM!",
-    "owner": "Misha_Kimpintyao",
-    "status": "Занято",
-    "x": 1992.58,
-    "y": 2764.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 530,
     "server_id": 30,
     "type": "house",
@@ -9440,18 +9428,6 @@
     "status": "Занято",
     "x": -2513.51,
     "y": 885.7399,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 787,
-    "server_id": 30,
-    "type": "house",
-    "name": "Логово Кабана",
-    "owner": "Sasha_Shlyapkin",
-    "status": "Занято",
-    "x": -2543.58,
-    "y": 922.2329,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20164,7 +20140,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Дом",
-    "owner": "danya_bogomolov",
+    "owner": "Mononoke_Mori",
     "status": "Занято",
     "x": 1797.68,
     "y": 2764.35,
@@ -20667,8 +20643,8 @@
     "id": 1727,
     "server_id": 30,
     "type": "house",
-    "name": "3дом",
-    "owner": "Aleksej_Lova",
+    "name": "Выкуплю ваши дома! /call 414",
+    "owner": "Axid_Prime",
     "status": "Занято",
     "x": 1794.46,
     "y": 2863.44,
@@ -20776,7 +20752,7 @@
     "server_id": 30,
     "type": "house",
     "name": "2дом ",
-    "owner": "Aleksej_Lova",
+    "owner": "Matvey_Kingman",
     "status": "Занято",
     "x": 1796.74,
     "y": 2861.53,
@@ -21684,18 +21660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1818,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Shuyali_Yato",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2188.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1819,
     "server_id": 30,
     "type": "house",
@@ -21816,23 +21780,11 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1829,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Balenciaga_Owner",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2189.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1830,
     "server_id": 30,
     "type": "house",
     "name": "Зилаксера оксикодон",
-    "owner": "Zilaxera_Oxycodon",
+    "owner": "streetphotographer",
     "status": "Занято",
     "x": 2574.99,
     "y": 2203.06,
@@ -22752,6 +22704,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 529,
+    "server_id": 30,
+    "type": "house",
+    "name": "Kympintyao FARM!",
+    "owner": "Misha_Kimpintyao",
+    "status": "Аукцион",
+    "x": 1992.58,
+    "y": 2764.63,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 787,
+    "server_id": 30,
+    "type": "house",
+    "name": "Логово Кабана",
+    "owner": "Sasha_Shlyapkin",
+    "status": "Аукцион",
+    "x": -2543.58,
+    "y": 922.2329,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 991,
     "server_id": 30,
     "type": "house",
@@ -22761,6 +22737,42 @@
     "x": 977.3939,
     "y": -771.3049,
     "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1818,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Shuyali_Yato",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2188.04,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1829,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Balenciaga_Owner",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2189.99,
+    "price": 999999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 111,
+    "server_id": 30,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Kedroviy_Oreh",
+    "status": "Аукцион",
+    "x": -2767.51,
+    "y": 788.72,
+    "price": 9999999999,
     "district": "Сан-Андреас"
   },
   {
@@ -22792,7 +22804,7 @@
     "server_id": 30,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Meow_Zakatov",
+    "owner": "Ernesto_Chezare",
     "status": "Занято",
     "x": 242.897,
     "y": -178.385,
@@ -24608,18 +24620,6 @@
     "status": "Занято",
     "x": -2443.85,
     "y": 755.418,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 111,
-    "server_id": 30,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": -2767.51,
-    "y": 788.72,
     "price": 0,
     "district": "Сан-Андреас"
   },

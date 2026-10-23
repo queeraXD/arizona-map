@@ -3456,18 +3456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 288,
-    "server_id": 29,
-    "type": "house",
-    "name": "Домик Анюты",
-    "owner": "Itachi_Gallagher",
-    "status": "Занято",
-    "x": 2512.81,
-    "y": -1027.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 289,
     "server_id": 29,
     "type": "house",
@@ -15348,18 +15336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1280,
-    "server_id": 29,
-    "type": "house",
-    "name": "earthMONOPOLY",
-    "owner": "Itachi_Gallagher",
-    "status": "Занято",
-    "x": -2725.79,
-    "y": -36.4976,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1281,
     "server_id": 29,
     "type": "house",
@@ -17300,18 +17276,6 @@
     "status": "Занято",
     "x": 689.755,
     "y": 1297.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1443,
-    "server_id": 29,
-    "type": "house",
-    "name": "Shweps",
-    "owner": "Aoki_Shweps",
-    "status": "Занято",
-    "x": 688.802,
-    "y": 1276.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19560,18 +19524,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1631,
-    "server_id": 29,
-    "type": "house",
-    "name": "jeffrey",
-    "owner": "Leonid_Odessit",
-    "status": "Занято",
-    "x": 2417.74,
-    "y": 964.4739,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1632,
     "server_id": 29,
     "type": "house",
@@ -19932,18 +19884,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1662,
-    "server_id": 29,
-    "type": "house",
-    "name": "Набор архитектора + депозит",
-    "owner": "Lonny_Liberty",
-    "status": "Занято",
-    "x": 2473.16,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1663,
     "server_id": 29,
     "type": "house",
@@ -20100,18 +20040,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1676,
-    "server_id": 29,
-    "type": "house",
-    "name": "пусто",
-    "owner": "Lonny_Liberty",
-    "status": "Занято",
-    "x": 2473.02,
-    "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1677,
     "server_id": 29,
     "type": "house",
@@ -20143,18 +20071,6 @@
     "owner": "Tawakashi_Shadowraze",
     "status": "Занято",
     "x": 2492.06,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1680,
-    "server_id": 29,
-    "type": "house",
-    "name": "пусто",
-    "owner": "Lonny_Liberty",
-    "status": "Занято",
-    "x": 2487.31,
     "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21141,6 +21057,90 @@
     "x": 2063.18,
     "y": 2204.3,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 288,
+    "server_id": 29,
+    "type": "house",
+    "name": "Домик Анюты",
+    "owner": "Itachi_Gallagher",
+    "status": "Аукцион",
+    "x": 2512.81,
+    "y": -1027.56,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1280,
+    "server_id": 29,
+    "type": "house",
+    "name": "earthMONOPOLY",
+    "owner": "Itachi_Gallagher",
+    "status": "Аукцион",
+    "x": -2725.79,
+    "y": -36.4976,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1443,
+    "server_id": 29,
+    "type": "house",
+    "name": "Shweps",
+    "owner": "Aoki_Shweps",
+    "status": "Аукцион",
+    "x": 688.802,
+    "y": 1276.88,
+    "price": 800000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1631,
+    "server_id": 29,
+    "type": "house",
+    "name": "waldemarfam",
+    "owner": "Leonid_Odessit",
+    "status": "Аукцион",
+    "x": 2417.74,
+    "y": 964.4739,
+    "price": 12341234,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1662,
+    "server_id": 29,
+    "type": "house",
+    "name": "Набор архитектора + депозит",
+    "owner": "Lonny_Liberty",
+    "status": "Аукцион",
+    "x": 2473.16,
+    "y": -1383.37,
+    "price": 2600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1676,
+    "server_id": 29,
+    "type": "house",
+    "name": "пусто",
+    "owner": "Lonny_Liberty",
+    "status": "Аукцион",
+    "x": 2473.02,
+    "y": -1376.27,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1680,
+    "server_id": 29,
+    "type": "house",
+    "name": "пусто",
+    "owner": "Lonny_Liberty",
+    "status": "Аукцион",
+    "x": 2487.31,
+    "y": -1391.71,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
