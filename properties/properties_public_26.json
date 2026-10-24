@@ -312,18 +312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 26,
-    "server_id": 26,
-    "type": "house",
-    "name": "Гостинный Двор",
-    "owner": "Udo_Nakamura",
-    "status": "Занято",
-    "x": 2247.91,
-    "y": -1238.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 27,
     "server_id": 26,
     "type": "house",
@@ -944,6 +932,30 @@
     "status": "Занято",
     "x": 2306.91,
     "y": -1679.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 79,
+    "server_id": 26,
+    "type": "house",
+    "name": "nakamura",
+    "owner": "Udo_Nakamura",
+    "status": "Занято",
+    "x": 2282.13,
+    "y": -1641.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 80,
+    "server_id": 26,
+    "type": "house",
+    "name": "nakamura",
+    "owner": "Udo_Nakamura",
+    "status": "Занято",
+    "x": 2257.17,
+    "y": -1643.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3236,18 +3248,6 @@
     "status": "Занято",
     "x": 2549.37,
     "y": -1032.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 278,
-    "server_id": 26,
-    "type": "house",
-    "name": "By Spirit<3",
-    "owner": "Spirit_Openmind",
-    "status": "Занято",
-    "x": 2526.83,
-    "y": -1033.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14280,18 +14280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1199,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kedroviy_Openmind",
-    "status": "Занято",
-    "x": -2793.14,
-    "y": 110.911,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1200,
     "server_id": 26,
     "type": "house",
@@ -14804,6 +14792,18 @@
     "status": "Занято",
     "x": -2383.14,
     "y": 1299.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1243,
+    "server_id": 26,
+    "type": "house",
+    "name": "№12 Velasco | инвест",
+    "owner": "Morshynska_Voda",
+    "status": "Занято",
+    "x": -2383.14,
+    "y": 1318.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25080,27 +25080,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 79,
+    "id": 26,
     "server_id": 26,
     "type": "house",
-    "name": "nakamura",
+    "name": "Гостинный Двор",
     "owner": "Udo_Nakamura",
     "status": "Аукцион",
-    "x": 2282.13,
-    "y": -1641.68,
-    "price": 700000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 80,
-    "server_id": 26,
-    "type": "house",
-    "name": "nakamura",
-    "owner": "Udo_Nakamura",
-    "status": "Аукцион",
-    "x": 2257.17,
-    "y": -1643.95,
-    "price": 700000000,
+    "x": 2247.91,
+    "y": -1238.57,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25176,15 +25164,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1243,
+    "id": 278,
     "server_id": 26,
     "type": "house",
-    "name": "№12 Velasco | инвест",
-    "owner": "Wuddy_Overprice",
+    "name": "By Spirit<3",
+    "owner": "Spirit_Openmind",
     "status": "Аукцион",
-    "x": -2383.14,
-    "y": 1318.0,
-    "price": 200000000,
+    "x": 2526.83,
+    "y": -1033.53,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1199,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kedroviy_Openmind",
+    "status": "Аукцион",
+    "x": -2793.14,
+    "y": 110.911,
+    "price": 50123123,
     "district": "Сан-Андреас"
   },
   {
@@ -28660,7 +28660,7 @@
     "server_id": 26,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Koin_Morozov",
+    "owner": "Soshi_Morozov",
     "status": "Занято",
     "x": 168.415,
     "y": 3245.13,
