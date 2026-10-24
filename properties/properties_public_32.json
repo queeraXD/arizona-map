@@ -9700,7 +9700,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом на продаже",
-    "owner": "Kyle_Blaze",
+    "owner": "Rip_Blaze",
     "status": "Занято",
     "x": -2723.62,
     "y": -162.701,
@@ -10996,7 +10996,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом на продаже",
-    "owner": "Kyle_Blaze",
+    "owner": "Hasan_Boss",
     "status": "Занято",
     "x": -2282.07,
     "y": 1089.04,
@@ -14572,7 +14572,7 @@
     "server_id": 32,
     "type": "house",
     "name": "дом на продаже",
-    "owner": "Kyle_Blaze",
+    "owner": "Lalo_Salomanco",
     "status": "Занято",
     "x": -2477.93,
     "y": 1264.16,
@@ -19224,6 +19224,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1643,
+    "server_id": 32,
+    "type": "house",
+    "name": "Kayfman",
+    "owner": "Malinka_Nakamoto",
+    "status": "Занято",
+    "x": 1969.28,
+    "y": -1654.67,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1644,
     "server_id": 32,
     "type": "house",
@@ -20628,6 +20640,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1765,
+    "server_id": 32,
+    "type": "house",
+    "name": "Miner",
+    "owner": "Malinka_Nakamoto",
+    "status": "Занято",
+    "x": 1775.03,
+    "y": 2870.96,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1766,
     "server_id": 32,
     "type": "house",
@@ -20720,42 +20744,6 @@
     "status": "Занято",
     "x": 1731.02,
     "y": 2823.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1775,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Implored_Space",
-    "status": "Занято",
-    "x": 1734.09,
-    "y": 2812.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1776,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Implored_Space",
-    "status": "Занято",
-    "x": 1736.92,
-    "y": 2800.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1777,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Implored_Space",
-    "status": "Занято",
-    "x": 1743.13,
-    "y": 2778.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22440,18 +22428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1643,
-    "server_id": 32,
-    "type": "house",
-    "name": "Kayfman",
-    "owner": "Sqveal_Kayfman",
-    "status": "Аукцион",
-    "x": 1969.28,
-    "y": -1654.67,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1729,
     "server_id": 32,
     "type": "house",
@@ -22500,18 +22476,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1765,
-    "server_id": 32,
-    "type": "house",
-    "name": "Miner",
-    "owner": "Sekira_Page",
-    "status": "Аукцион",
-    "x": 1775.03,
-    "y": 2870.96,
-    "price": 1100000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1767,
     "server_id": 32,
     "type": "house",
@@ -22521,6 +22485,42 @@
     "x": 1803.41,
     "y": 2855.52,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1775,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Implored_Space",
+    "status": "Аукцион",
+    "x": 1734.09,
+    "y": 2812.14,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1776,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Implored_Space",
+    "status": "Аукцион",
+    "x": 1736.92,
+    "y": 2800.74,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1777,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Implored_Space",
+    "status": "Аукцион",
+    "x": 1743.13,
+    "y": 2778.58,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25252,7 +25252,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Отель",
-    "owner": "Sergio_Tohok",
+    "owner": "Anton_Mas",
     "status": "Занято",
     "x": -2412.91,
     "y": 350.083,

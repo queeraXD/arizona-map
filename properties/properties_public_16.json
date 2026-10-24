@@ -288,18 +288,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 24,
-    "server_id": 16,
-    "type": "house",
-    "name": "гетто хоум",
-    "owner": "Chesters_Markelovani",
-    "status": "Занято",
-    "x": 2230.01,
-    "y": -1281.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 25,
     "server_id": 16,
     "type": "house",
@@ -2544,6 +2532,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 212,
+    "server_id": 16,
+    "type": "house",
+    "name": "House Sbu Monopoiy",
+    "owner": "Sirius_Cybernetik",
+    "status": "Занято",
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 213,
     "server_id": 16,
     "type": "house",
@@ -3572,6 +3572,18 @@
     "status": "Занято",
     "x": 2092.26,
     "y": -1067.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 299,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bogdanchik_Escobar",
+    "status": "Занято",
+    "x": 2101.94,
+    "y": -1075.22,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6512,18 +6524,6 @@
     "status": "Занято",
     "x": 1921.69,
     "y": 2664.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 545,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Thomas_Kamazov",
-    "status": "Занято",
-    "x": -36.0457,
-    "y": 1115.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9843,7 +9843,7 @@
     "id": 822,
     "server_id": 16,
     "type": "house",
-    "name": "waldemarfam",
+    "name": "Дом",
     "owner": "Sanchez_Exodus",
     "status": "Занято",
     "x": -2691.24,
@@ -12440,6 +12440,18 @@
     "status": "Занято",
     "x": -1732.18,
     "y": 1114.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1040,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lem_Covalli",
+    "status": "Занято",
+    "x": -1727.98,
+    "y": 1138.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22416,39 +22428,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
+    "id": 24,
     "server_id": 16,
     "type": "house",
-    "name": "House Sbu Monopoiy",
-    "owner": "Sirius_Cybernetik",
+    "name": "гетто хоум",
+    "owner": "Chesters_Markelovani",
     "status": "Аукцион",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 1000000000,
+    "x": 2230.01,
+    "y": -1281.05,
+    "price": 655000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 299,
+    "id": 545,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Luminisent_London",
+    "owner": "Thomas_Kamazov",
     "status": "Аукцион",
-    "x": 2101.94,
-    "y": -1075.22,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1040,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sanya_Minomet",
-    "status": "Аукцион",
-    "x": -1727.98,
-    "y": 1138.91,
-    "price": 150000000,
+    "x": -36.0457,
+    "y": 1115.65,
+    "price": 444444444,
     "district": "Сан-Андреас"
   },
   {

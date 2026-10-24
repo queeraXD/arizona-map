@@ -6504,18 +6504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 542,
-    "server_id": 8,
-    "type": "house",
-    "name": "TITOVSKIY EMPIRE",
-    "owner": "Kreo_Kamera",
-    "status": "Занято",
-    "x": 1969.7,
-    "y": 2663.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 543,
     "server_id": 8,
     "type": "house",
@@ -9307,18 +9295,6 @@
     "owner": "Brandon_Sayrex",
     "status": "Занято",
     "x": -2590.92,
-    "y": 819.7999,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 776,
-    "server_id": 8,
-    "type": "house",
-    "name": "хапальня",
-    "owner": "Michael_Shtyh",
-    "status": "Занято",
-    "x": -2576.56,
     "y": 819.7999,
     "price": 0,
     "district": "Сан-Андреас"
@@ -12768,6 +12744,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1065,
+    "server_id": 8,
+    "type": "house",
+    "name": "...:::SHIDO:::...",
+    "owner": "Danny_White",
+    "status": "Занято",
+    "x": 1752.46,
+    "y": 2744.98,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1066,
     "server_id": 8,
     "type": "house",
@@ -15152,6 +15140,18 @@
     "status": "Занято",
     "x": -2840.23,
     "y": 866.8679,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1265,
+    "server_id": 8,
+    "type": "house",
+    "name": "Домик Ватковскова",
+    "owner": "Klaus_Mercer",
+    "status": "Занято",
+    "x": -2843.21,
+    "y": 904.3439,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18484,7 +18484,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Ыыы я пончик грув",
-    "owner": "Konchil_Nagrudi",
+    "owner": "Front_Yard",
     "status": "Занято",
     "x": 1969.33,
     "y": -1705.14,
@@ -19400,18 +19400,6 @@
     "status": "Занято",
     "x": 2660.33,
     "y": 742.544,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1621,
-    "server_id": 8,
-    "type": "house",
-    "name": "BTC фарм 3",
-    "owner": "Coll_Apse",
-    "status": "Занято",
-    "x": 2666.65,
-    "y": 750.096,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22372,7 +22360,7 @@
     "server_id": 8,
     "type": "house",
     "name": "майнинг + деп",
-    "owner": "Kosuke_Yamada",
+    "owner": "Bodya_Wolter",
     "status": "Занято",
     "x": 2492.14,
     "y": -1383.37,
@@ -25740,27 +25728,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1065,
+    "id": 542,
     "server_id": 8,
     "type": "house",
-    "name": "...:::SHIDO:::...",
-    "owner": "Martine_Negodnicov",
+    "name": "TITOVSKIY EMPIRE",
+    "owner": "Kreo_Kamera",
     "status": "Аукцион",
-    "x": 1752.46,
-    "y": 2744.98,
-    "price": 100000000,
+    "x": 1969.7,
+    "y": 2663.35,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1265,
+    "id": 776,
     "server_id": 8,
     "type": "house",
-    "name": "Домик Ватковскова",
-    "owner": "Gustavo_Abobbi",
+    "name": "Дом",
+    "owner": "Michael_Shtyh",
     "status": "Аукцион",
-    "x": -2843.21,
-    "y": 904.3439,
-    "price": 450000000,
+    "x": -2576.56,
+    "y": 819.7999,
+    "price": 220123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25776,6 +25764,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1621,
+    "server_id": 8,
+    "type": "house",
+    "name": "BTC фарм 3",
+    "owner": "Coll_Apse",
+    "status": "Аукцион",
+    "x": 2666.65,
+    "y": 750.096,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1816,
     "server_id": 8,
     "type": "house",
@@ -25785,6 +25785,18 @@
     "x": -2188.29,
     "y": 1108.05,
     "price": 300123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 179,
+    "server_id": 8,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Mark_Golovanskiy",
+    "status": "Аукцион",
+    "x": 1521.99,
+    "y": -1025.07,
+    "price": 4999999999,
     "district": "Сан-Андреас"
   },
   {
@@ -28568,18 +28580,6 @@
     "status": "Занято",
     "x": -172.597,
     "y": 1106.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 179,
-    "server_id": 8,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Mark_Golovanskiy",
-    "status": "Занято",
-    "x": 1521.99,
-    "y": -1025.07,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -804,18 +804,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 67,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladislav_Armatura",
-    "status": "Занято",
-    "x": 2413.9,
-    "y": -1646.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 68,
     "server_id": 10,
     "type": "house",
@@ -23352,6 +23340,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 67,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladislav_Armatura",
+    "status": "Аукцион",
+    "x": 2413.9,
+    "y": -1646.79,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 185,
     "server_id": 10,
     "type": "business",
@@ -24916,7 +24916,7 @@
     "server_id": 10,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Slavon_Winchester",
+    "owner": "Yozas_Investor",
     "status": "Занято",
     "x": -2111.89,
     "y": -733.419,
