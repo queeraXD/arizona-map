@@ -11580,18 +11580,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 966,
-    "server_id": 11,
-    "type": "house",
-    "name": "Ларци",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": -2632.31,
-    "y": 2375.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 967,
     "server_id": 11,
     "type": "house",
@@ -21736,7 +21724,7 @@
     "server_id": 11,
     "type": "house",
     "name": "деп условия",
-    "owner": "Mlxa_Ilchto",
+    "owner": "Mixa_Monopoly",
     "status": "Занято",
     "x": 2517.04,
     "y": 1653.77,
@@ -24624,6 +24612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 966,
+    "server_id": 11,
+    "type": "house",
+    "name": "Ларци",
+    "owner": "Zheka_Zhuk",
+    "status": "Аукцион",
+    "x": -2632.31,
+    "y": 2375.56,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1300,
     "server_id": 11,
     "type": "house",
@@ -24632,7 +24632,7 @@
     "status": "Аукцион",
     "x": -2476.97,
     "y": 1273.94,
-    "price": 250000000,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24645,18 +24645,6 @@
     "x": 2503.42,
     "y": 1643.58,
     "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 468,
-    "server_id": 11,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Artem_Cuertoo",
-    "status": "Аукцион",
-    "x": -172.597,
-    "y": 1106.0,
-    "price": 186105,
     "district": "Сан-Андреас"
   },
   {
@@ -27428,6 +27416,18 @@
     "status": "Занято",
     "x": -2015.06,
     "y": -2.1872,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 468,
+    "server_id": 11,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Artem_Cuertoo",
+    "status": "Занято",
+    "x": -172.597,
+    "y": 1106.0,
     "price": 0,
     "district": "Сан-Андреас"
   },

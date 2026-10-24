@@ -6412,7 +6412,7 @@
     "server_id": 30,
     "type": "house",
     "name": "virtiki v domiie",
-    "owner": "Goolub_Golubim",
+    "owner": "Jerry_Mopsikov",
     "status": "Занято",
     "x": 1969.86,
     "y": 2723.26,
@@ -8040,6 +8040,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 670,
+    "server_id": 30,
+    "type": "house",
+    "name": "Nikita_Inozemec",
+    "owner": "Nikita_Inozemec",
+    "status": "Занято",
+    "x": 1084.33,
+    "y": 2031.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 671,
     "server_id": 30,
     "type": "house",
@@ -8444,18 +8456,6 @@
     "status": "Занято",
     "x": -2192.57,
     "y": -2509.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 705,
-    "server_id": 30,
-    "type": "house",
-    "name": "Cicero Street #1",
-    "owner": "DThang_Monarch",
-    "status": "Занято",
-    "x": 1554.44,
-    "y": 2610.42,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8991,7 +8991,7 @@
     "id": 750,
     "server_id": 30,
     "type": "house",
-    "name": "Август обернётся Февралём",
+    "name": "Хата на Тата",
     "owner": "August_Johnson",
     "status": "Занято",
     "x": -2652.27,
@@ -18700,7 +18700,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Дом",
-    "owner": "Kaaga_Kageyama",
+    "owner": "Bluff_Bond",
     "status": "Занято",
     "x": 784.403,
     "y": 1954.29,
@@ -19831,18 +19831,6 @@
     "owner": "Matthew_Fox",
     "status": "Занято",
     "x": 2473.24,
-    "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1658,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Artem_Bogatiy",
-    "status": "Занято",
-    "x": 2476.37,
     "y": -1366.2,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22740,15 +22728,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 670,
+    "id": 705,
     "server_id": 30,
     "type": "house",
-    "name": "676767",
-    "owner": "Glebas_Kotelok",
+    "name": "ФУЛЛ ДОМ Кинотеар все",
+    "owner": "DThang_Monarch",
     "status": "Аукцион",
-    "x": 1084.33,
-    "y": 2031.72,
-    "price": 1000000000,
+    "x": 1554.44,
+    "y": 2610.42,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1658,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Artem_Bogatiy",
+    "status": "Аукцион",
+    "x": 2476.37,
+    "y": -1366.2,
+    "price": 1200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22760,7 +22760,19 @@
     "status": "Аукцион",
     "x": 2492.48,
     "y": -1417.27,
-    "price": 26500,
+    "price": 27500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 111,
+    "server_id": 30,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Misha_Kimpintyao",
+    "status": "Аукцион",
+    "x": -2767.51,
+    "y": 788.72,
+    "price": 220000,
     "district": "Сан-Андреас"
   },
   {
@@ -24608,18 +24620,6 @@
     "status": "Занято",
     "x": -2443.85,
     "y": 755.418,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 111,
-    "server_id": 30,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Misha_Kimpintyao",
-    "status": "Занято",
-    "x": -2767.51,
-    "y": 788.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26608,7 +26608,7 @@
     "server_id": 30,
     "type": "business",
     "name": "Склад Дальнобойщиков",
-    "owner": "Mark_Madison",
+    "owner": "Ernesto_Chezare",
     "status": "Занято",
     "x": -2114.84,
     "y": -2289.46,

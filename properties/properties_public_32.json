@@ -6576,6 +6576,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 549,
+    "server_id": 32,
+    "type": "house",
+    "name": "склад",
+    "owner": "Goldik_Gold",
+    "status": "Занято",
+    "x": 574.0339,
+    "y": 1156.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 550,
     "server_id": 32,
     "type": "house",
@@ -13008,30 +13020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1090,
-    "server_id": 32,
-    "type": "house",
-    "name": "Домик Дианочки 4",
-    "owner": "Dasha_Karpovich",
-    "status": "Занято",
-    "x": -2126.75,
-    "y": 832.6989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1091,
-    "server_id": 32,
-    "type": "house",
-    "name": "Домик Дианочки 3",
-    "owner": "Dasha_Karpovich",
-    "status": "Занято",
-    "x": -2129.67,
-    "y": 894.8569,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1092,
     "server_id": 32,
     "type": "house",
@@ -13088,18 +13076,6 @@
     "status": "Занято",
     "x": -2234.33,
     "y": 830.867,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1097,
-    "server_id": 32,
-    "type": "house",
-    "name": "деп условия и весь фарш",
-    "owner": "Asalbek_Jan",
-    "status": "Занято",
-    "x": -2223.62,
-    "y": 820.458,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20016,6 +19992,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1708,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Roronoa_Zoro",
+    "status": "Занято",
+    "x": 2473.2,
+    "y": -1398.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1709,
     "server_id": 32,
     "type": "house",
@@ -20252,18 +20240,6 @@
     "status": "Занято",
     "x": 2487.37,
     "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1729,
-    "server_id": 32,
-    "type": "house",
-    "name": "Домик Дианочки 2",
-    "owner": "Dasha_Karpovich",
-    "status": "Занято",
-    "x": 2476.46,
-    "y": -1383.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20624,18 +20600,6 @@
     "status": "Занято",
     "x": 1798.89,
     "y": 2812.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1762,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 1795.88,
-    "y": 2800.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21136,7 +21100,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Silent_Wolf",
+    "owner": "Veles_Sheld",
     "status": "Занято",
     "x": 2601.64,
     "y": 2213.3,
@@ -22392,15 +22356,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 549,
+    "id": 1090,
     "server_id": 32,
     "type": "house",
-    "name": "склад",
-    "owner": "Goldik_Gold",
+    "name": "Домик Дианочки 4",
+    "owner": "Dasha_Karpovich",
     "status": "Аукцион",
-    "x": 574.0339,
-    "y": 1156.0,
-    "price": 2500000000,
+    "x": -2126.75,
+    "y": 832.6989,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1091,
+    "server_id": 32,
+    "type": "house",
+    "name": "Домик Дианочки 3",
+    "owner": "Dasha_Karpovich",
+    "status": "Аукцион",
+    "x": -2129.67,
+    "y": 894.8569,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1097,
+    "server_id": 32,
+    "type": "house",
+    "name": "деп условия и весь фарш",
+    "owner": "Asalbek_Jan",
+    "status": "Аукцион",
+    "x": -2223.62,
+    "y": 820.458,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22464,14 +22452,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1708,
+    "id": 1729,
     "server_id": 32,
     "type": "house",
-    "name": "Дом",
-    "owner": "Roronoa_Zoro",
+    "name": "Домик Дианочки 2",
+    "owner": "Dasha_Karpovich",
     "status": "Аукцион",
-    "x": 2473.2,
-    "y": -1398.81,
+    "x": 2476.46,
+    "y": -1383.37,
     "price": 2000000000,
     "district": "Сан-Андреас"
   },
@@ -22497,6 +22485,18 @@
     "x": 1796.6,
     "y": 2803.6,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1762,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": 1795.88,
+    "y": 2800.79,
+    "price": 1100123123,
     "district": "Сан-Андреас"
   },
   {

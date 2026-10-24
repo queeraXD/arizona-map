@@ -12768,18 +12768,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1065,
-    "server_id": 8,
-    "type": "house",
-    "name": "...:::SHIDO:::...",
-    "owner": "Martine_Negodnicov",
-    "status": "Занято",
-    "x": 1752.46,
-    "y": 2744.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1066,
     "server_id": 8,
     "type": "house",
@@ -15159,7 +15147,7 @@
     "id": 1264,
     "server_id": 8,
     "type": "house",
-    "name": "Дом",
+    "name": "Criminals",
     "owner": "Daniel_Florest",
     "status": "Занято",
     "x": -2840.23,
@@ -19308,18 +19296,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1611,
-    "server_id": 8,
-    "type": "house",
-    "name": "hellwood",
-    "owner": "Philip_Morric",
-    "status": "Занято",
-    "x": 2540.04,
-    "y": 713.263,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1612,
     "server_id": 8,
     "type": "house",
@@ -21768,18 +21744,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1816,
-    "server_id": 8,
-    "type": "house",
-    "name": "BTC фарм 2",
-    "owner": "Toma_Hunter",
-    "status": "Занято",
-    "x": -2188.29,
-    "y": 1108.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1817,
     "server_id": 8,
     "type": "house",
@@ -24172,7 +24136,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Giudice Family",
-    "owner": "Jake_Giudice",
+    "owner": "Maik_Johnson",
     "status": "Занято",
     "x": 2533.0,
     "y": 1622.87,
@@ -25776,6 +25740,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1065,
+    "server_id": 8,
+    "type": "house",
+    "name": "...:::SHIDO:::...",
+    "owner": "Martine_Negodnicov",
+    "status": "Аукцион",
+    "x": 1752.46,
+    "y": 2744.98,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1265,
     "server_id": 8,
     "type": "house",
@@ -25788,15 +25764,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 179,
+    "id": 1611,
     "server_id": 8,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Mark_Golovanskiy",
+    "type": "house",
+    "name": "hellwood",
+    "owner": "Philip_Morric",
     "status": "Аукцион",
-    "x": 1521.99,
-    "y": -1025.07,
-    "price": 6100000000,
+    "x": 2540.04,
+    "y": 713.263,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1816,
+    "server_id": 8,
+    "type": "house",
+    "name": "BTC фарм 2",
+    "owner": "Toma_Hunter",
+    "status": "Аукцион",
+    "x": -2188.29,
+    "y": 1108.05,
+    "price": 300123123,
     "district": "Сан-Андреас"
   },
   {
@@ -28580,6 +28568,18 @@
     "status": "Занято",
     "x": -172.597,
     "y": 1106.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 179,
+    "server_id": 8,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Mark_Golovanskiy",
+    "status": "Занято",
+    "x": 1521.99,
+    "y": -1025.07,
     "price": 0,
     "district": "Сан-Андреас"
   },

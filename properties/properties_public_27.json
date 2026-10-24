@@ -304,7 +304,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Гараж Лады Весты",
-    "owner": "Liza_Vasylenko",
+    "owner": "Lada_Deportator",
     "status": "Занято",
     "x": 2250.11,
     "y": -1280.4,
@@ -5559,7 +5559,7 @@
     "id": 463,
     "server_id": 27,
     "type": "house",
-    "name": "Воу воу воу",
+    "name": "Дом",
     "owner": "Iflexick_Doc",
     "status": "Занято",
     "x": 2206.36,
@@ -15720,6 +15720,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1310,
+    "server_id": 27,
+    "type": "house",
+    "name": "Alevorov House",
+    "owner": "Mavrodi_Alevorov",
+    "status": "Занято",
+    "x": 161.531,
+    "y": -1455.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1311,
     "server_id": 27,
     "type": "house",
@@ -22812,18 +22824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1902,
-    "server_id": 27,
-    "type": "house",
-    "name": "Ren House (2/2)",
-    "owner": "Grey_Rock",
-    "status": "Занято",
-    "x": 1752.11,
-    "y": 2744.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1903,
     "server_id": 27,
     "type": "house",
@@ -23383,18 +23383,6 @@
     "owner": "Spencer_Suspected",
     "status": "Занято",
     "x": 2643.81,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1950,
-    "server_id": 27,
-    "type": "house",
-    "name": "CONTINENTAL FAMILY ",
-    "owner": "Evpantiy_Borz",
-    "status": "Занято",
-    "x": 2636.27,
     "y": 2195.56,
     "price": 0,
     "district": "Сан-Андреас"
@@ -24444,15 +24432,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1310,
+    "id": 1902,
     "server_id": 27,
     "type": "house",
-    "name": "Juice wrld Home",
-    "owner": "Sos_Krutoy",
+    "name": "Ren House (2/2)",
+    "owner": "Grey_Rock",
     "status": "Аукцион",
-    "x": 161.531,
-    "y": -1455.85,
-    "price": 1700000000,
+    "x": 1752.11,
+    "y": 2744.53,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1950,
+    "server_id": 27,
+    "type": "house",
+    "name": "CONTINENTAL FAMILY ",
+    "owner": "Evpantiy_Borz",
+    "status": "Аукцион",
+    "x": 2636.27,
+    "y": 2195.56,
+    "price": 750000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27640,7 +27640,7 @@
     "server_id": 27,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Pressure_Hemorrhage",
+    "owner": "Bava_Bava",
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,

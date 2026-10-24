@@ -2844,6 +2844,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 237,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ethan_Davenport",
+    "status": "Занято",
+    "x": 351.729,
+    "y": -1197.13,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 238,
     "server_id": 24,
     "type": "house",
@@ -6624,18 +6636,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 553,
-    "server_id": 24,
-    "type": "house",
-    "name": "Домик деревенщины Волошки ^___^",
-    "owner": "Dimka_Buryat",
-    "status": "Занято",
-    "x": -284.841,
-    "y": 867.7109,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 554,
     "server_id": 24,
     "type": "house",
@@ -6744,18 +6744,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 563,
-    "server_id": 24,
-    "type": "house",
-    "name": "Домик деревенщины Волошки ^___^",
-    "owner": "Dimka_Buryat",
-    "status": "Занято",
-    "x": -230.776,
-    "y": 884.166,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 564,
     "server_id": 24,
     "type": "house",
@@ -6800,18 +6788,6 @@
     "status": "Занято",
     "x": -216.6889,
     "y": 930.0839,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 568,
-    "server_id": 24,
-    "type": "house",
-    "name": "Holland Monopoly",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": -238.1499,
-    "y": 929.5269,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6939,7 +6915,7 @@
     "id": 579,
     "server_id": 24,
     "type": "house",
-    "name": "Holland Monopoly",
+    "name": "Anarhist Domination",
     "owner": "HeT_Kladov",
     "status": "Занято",
     "x": -2791.87,
@@ -20604,6 +20580,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1722,
+    "server_id": 24,
+    "type": "house",
+    "name": "By Spirit<3",
+    "owner": "Vasya_Biceps",
+    "status": "Занято",
+    "x": 1803.48,
+    "y": 2855.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1723,
     "server_id": 24,
     "type": "house",
@@ -21260,18 +21248,6 @@
     "status": "Занято",
     "x": -2280.84,
     "y": 1149.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1778,
-    "server_id": 24,
-    "type": "house",
-    "name": "FOSTER",
-    "owner": "Zheka_Zhuk",
-    "status": "Занято",
-    "x": -2325.95,
-    "y": 944.255,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21996,15 +21972,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 237,
+    "id": 553,
     "server_id": 24,
     "type": "house",
-    "name": "Дом",
-    "owner": "Ethan_Davenport",
+    "name": "Домик деревенщины Волошки ^___^",
+    "owner": "Dimka_Buryat",
     "status": "Аукцион",
-    "x": 351.729,
-    "y": -1197.13,
-    "price": 3500000000,
+    "x": -284.841,
+    "y": 867.7109,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 563,
+    "server_id": 24,
+    "type": "house",
+    "name": "Домик деревенщины Волошки ^___^",
+    "owner": "Dimka_Buryat",
+    "status": "Аукцион",
+    "x": -230.776,
+    "y": 884.166,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 568,
+    "server_id": 24,
+    "type": "house",
+    "name": "Holland Monopoly",
+    "owner": "Zheka_Zhuk",
+    "status": "Аукцион",
+    "x": -238.1499,
+    "y": 929.5269,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22032,15 +22032,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1722,
+    "id": 1778,
     "server_id": 24,
     "type": "house",
-    "name": "By Spirit<3",
-    "owner": "Spirit_Lovely",
+    "name": "FOSTER",
+    "owner": "Zheka_Zhuk",
     "status": "Аукцион",
-    "x": 1803.48,
-    "y": 2855.58,
-    "price": 100000000,
+    "x": -2325.95,
+    "y": 944.255,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22504,7 +22504,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Doctor_Venom",
+    "owner": "Daimler_Brooks",
     "status": "Занято",
     "x": 2481.67,
     "y": -1757.66,
@@ -24148,7 +24148,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Syzorp_DoubleCup",
+    "owner": "Ando_Khachoyan",
     "status": "Занято",
     "x": -2103.59,
     "y": -2342.04,
@@ -24160,7 +24160,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Daimler_Brooks",
+    "owner": "Ando_Khachoyan",
     "status": "Занято",
     "x": 559.489,
     "y": -1293.21,
