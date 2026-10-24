@@ -3063,7 +3063,7 @@
     "id": 255,
     "server_id": 32,
     "type": "house",
-    "name": "55ккк",
+    "name": "60ккк",
     "owner": "Ruslyana_Dredd",
     "status": "Занято",
     "x": 2005.97,
@@ -6572,6 +6572,18 @@
     "status": "Занято",
     "x": 570.7319,
     "y": 1174.37,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 549,
+    "server_id": 32,
+    "type": "house",
+    "name": "склад",
+    "owner": "Goldik_Gold",
+    "status": "Занято",
+    "x": 574.0339,
+    "y": 1156.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10980,6 +10992,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 921,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом на продаже",
+    "owner": "Kyle_Blaze",
+    "status": "Занято",
+    "x": -2282.07,
+    "y": 1089.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 922,
     "server_id": 32,
     "type": "house",
@@ -14576,6 +14600,18 @@
     "status": "Занято",
     "x": -2477.25,
     "y": 1244.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1223,
+    "server_id": 32,
+    "type": "house",
+    "name": "дом на продаже",
+    "owner": "Kyle_Blaze",
+    "status": "Занято",
+    "x": -2477.93,
+    "y": 1264.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20376,18 +20412,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1739,
-    "server_id": 32,
-    "type": "house",
-    "name": "Miner",
-    "owner": "Attack_YourHeart",
-    "status": "Занято",
-    "x": -827.5109,
-    "y": 2765.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1740,
     "server_id": 32,
     "type": "house",
@@ -20660,6 +20684,18 @@
     "status": "Занято",
     "x": 1802.71,
     "y": 2826.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1765,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sekira_Page",
+    "status": "Занято",
+    "x": 1775.03,
+    "y": 2870.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22392,30 +22428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 549,
-    "server_id": 32,
-    "type": "house",
-    "name": "склад",
-    "owner": "Goldik_Gold",
-    "status": "Аукцион",
-    "x": 574.0339,
-    "y": 1156.0,
-    "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 921,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом на продаже",
-    "owner": "Kyle_Blaze",
-    "status": "Аукцион",
-    "x": -2282.07,
-    "y": 1089.04,
-    "price": 2200123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1169,
     "server_id": 32,
     "type": "house",
@@ -22425,18 +22437,6 @@
     "x": -986.9279,
     "y": -1877.55,
     "price": 200000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1223,
-    "server_id": 32,
-    "type": "house",
-    "name": "дом на продаже",
-    "owner": "Kyle_Blaze",
-    "status": "Аукцион",
-    "x": -2477.93,
-    "y": 1264.16,
-    "price": 2200123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22476,6 +22476,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1739,
+    "server_id": 32,
+    "type": "house",
+    "name": "Miner",
+    "owner": "Attack_YourHeart",
+    "status": "Аукцион",
+    "x": -827.5109,
+    "y": 2765.18,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1758,
     "server_id": 32,
     "type": "house",
@@ -22497,18 +22509,6 @@
     "x": 1796.6,
     "y": 2803.6,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1765,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sekira_Page",
-    "status": "Аукцион",
-    "x": 1775.03,
-    "y": 2870.96,
-    "price": 1200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22545,18 +22545,6 @@
     "x": 670.993,
     "y": -519.331,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 335,
-    "server_id": 32,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Aleksandr_Amurov",
-    "status": "Аукцион",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23308,7 +23296,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Danya_Millioner",
+    "owner": "Nekich_Bossov",
     "status": "Занято",
     "x": -2588.35,
     "y": 59.904,
@@ -26537,6 +26525,18 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "Implored_Space",
+    "status": "Занято",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 335,
+    "server_id": 32,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Aleksandr_Amurov",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
