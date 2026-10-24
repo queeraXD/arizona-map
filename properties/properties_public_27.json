@@ -5763,7 +5763,7 @@
     "id": 480,
     "server_id": 27,
     "type": "house",
-    "name": "хата мистера 3",
+    "name": "Clown House ",
     "owner": "Xavier_Kawasaki",
     "status": "Занято",
     "x": 2256.91,
@@ -9764,6 +9764,18 @@
     "status": "Занято",
     "x": -2723.28,
     "y": -166.408,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 814,
+    "server_id": 27,
+    "type": "house",
+    "name": "ColtSity",
+    "owner": "Thor_Steinarr",
+    "status": "Занято",
+    "x": -2723.1,
+    "y": -178.8459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23544,18 +23556,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1964,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом Николаса 11",
-    "owner": "Spasibo_Leva",
-    "status": "Занято",
-    "x": 2591.63,
-    "y": 2180.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1965,
     "server_id": 27,
     "type": "house",
@@ -24444,18 +24444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 814,
-    "server_id": 27,
-    "type": "house",
-    "name": "ColtSity",
-    "owner": "Martin_Colt",
-    "status": "Аукцион",
-    "x": -2723.1,
-    "y": -178.8459,
-    "price": 850000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1310,
     "server_id": 27,
     "type": "house",
@@ -24465,6 +24453,18 @@
     "x": 161.531,
     "y": -1455.85,
     "price": 1700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1964,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом Николаса 11",
+    "owner": "Spasibo_Leva",
+    "status": "Аукцион",
+    "x": 2591.63,
+    "y": 2180.72,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {

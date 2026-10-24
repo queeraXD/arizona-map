@@ -1912,7 +1912,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Glu3er",
-    "owner": "Pop_Skill",
+    "owner": "Jace_Cortez",
     "status": "Занято",
     "x": 1196.02,
     "y": -1017.04,
@@ -2840,18 +2840,6 @@
     "status": "Занято",
     "x": 559.1019,
     "y": -1076.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 237,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ethan_Davenport",
-    "status": "Занято",
-    "x": 351.729,
-    "y": -1197.13,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5548,7 +5536,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Zitraks House",
-    "owner": "Night_Crystal",
+    "owner": "Syzorp_DoubleCup",
     "status": "Занято",
     "x": 2178.13,
     "y": 655.619,
@@ -6948,6 +6936,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 579,
+    "server_id": 24,
+    "type": "house",
+    "name": "Holland Monopoly",
+    "owner": "HeT_Kladov",
+    "status": "Занято",
+    "x": -2791.87,
+    "y": -160.4669,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 580,
     "server_id": 24,
     "type": "house",
@@ -6992,18 +6992,6 @@
     "status": "Занято",
     "x": -279.3829,
     "y": 2722.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 584,
-    "server_id": 24,
-    "type": "house",
-    "name": "Sharager 2/14 майнинг ",
-    "owner": "Ilya_Grant",
-    "status": "Занято",
-    "x": -219.5899,
-    "y": 2767.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7240,7 +7228,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Anarhist Domination",
-    "owner": "Surf_Curse",
+    "owner": "HeT_Kladov",
     "status": "Занято",
     "x": -1568.17,
     "y": 2629.75,
@@ -11780,18 +11768,6 @@
     "status": "Занято",
     "x": -251.3049,
     "y": 1049.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 984,
-    "server_id": 24,
-    "type": "house",
-    "name": "SWAT LEADERS",
-    "owner": "Enzo_Stark",
-    "status": "Занято",
-    "x": -258.97,
-    "y": 1083.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16588,7 +16564,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Anarhist Domination",
-    "owner": "Surf_Curse",
+    "owner": "HeT_Kladov",
     "status": "Занято",
     "x": 2518.62,
     "y": 58.2863,
@@ -22020,15 +21996,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 579,
+    "id": 237,
     "server_id": 24,
     "type": "house",
-    "name": "Holland Monopoly",
-    "owner": "Pasha_Caplya",
+    "name": "Дом",
+    "owner": "Ethan_Davenport",
     "status": "Аукцион",
-    "x": -2791.87,
-    "y": -160.4669,
-    "price": 150000123,
+    "x": 351.729,
+    "y": -1197.13,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 584,
+    "server_id": 24,
+    "type": "house",
+    "name": "Sharager 2/14 майнинг ",
+    "owner": "Ilya_Grant",
+    "status": "Аукцион",
+    "x": -219.5899,
+    "y": 2767.46,
+    "price": 180000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 984,
+    "server_id": 24,
+    "type": "house",
+    "name": "SWAT LEADERS",
+    "owner": "Enzo_Stark",
+    "status": "Аукцион",
+    "x": -258.97,
+    "y": 1083.44,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22040,19 +22040,7 @@
     "status": "Аукцион",
     "x": 1803.48,
     "y": 2855.58,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 80,
-    "server_id": 24,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Lucky_May",
-    "status": "Аукцион",
-    "x": 2638.3,
-    "y": 1671.86,
-    "price": 5500000000,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23768,6 +23756,18 @@
     "status": "Занято",
     "x": 2884.55,
     "y": 2454.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 80,
+    "server_id": 24,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Lucky_May",
+    "status": "Занято",
+    "x": 2638.3,
+    "y": 1671.86,
     "price": 0,
     "district": "Сан-Андреас"
   },

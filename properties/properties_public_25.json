@@ -4092,18 +4092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 341,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Adrenaline_Bishop",
-    "status": "Занято",
-    "x": 723.6119,
-    "y": 269.678,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 342,
     "server_id": 25,
     "type": "house",
@@ -5000,18 +4988,6 @@
     "status": "Занято",
     "x": 1294.67,
     "y": 174.8339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 418,
-    "server_id": 25,
-    "type": "house",
-    "name": "gangster lovit",
-    "owner": "Gangster_Babe",
-    "status": "Занято",
-    "x": 1283.69,
-    "y": 158.5379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15252,18 +15228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1274,
-    "server_id": 25,
-    "type": "house",
-    "name": "Ферма 9[7лвл]",
-    "owner": "kapn",
-    "status": "Занято",
-    "x": -2689.51,
-    "y": 96.3162,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1275,
     "server_id": 25,
     "type": "house",
@@ -15812,18 +15776,6 @@
     "status": "Занято",
     "x": 745.674,
     "y": -591.182,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1321,
-    "server_id": 25,
-    "type": "house",
-    "name": "gangster lovit",
-    "owner": "Gangster_Babe",
-    "status": "Занято",
-    "x": 1488.61,
-    "y": 360.9039,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18644,18 +18596,6 @@
     "status": "Занято",
     "x": 1555.97,
     "y": 2658.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1557,
-    "server_id": 25,
-    "type": "house",
-    "name": "САлам",
-    "owner": "Gangster_Babe",
-    "status": "Занято",
-    "x": 345.0509,
-    "y": -1298.03,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23748,6 +23688,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 341,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Adrenaline_Bishop",
+    "status": "Аукцион",
+    "x": 723.6119,
+    "y": 269.678,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 412,
     "server_id": 25,
     "type": "house",
@@ -23760,6 +23712,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 418,
+    "server_id": 25,
+    "type": "house",
+    "name": "gangster lovit",
+    "owner": "Gangster_Babe",
+    "status": "Аукцион",
+    "x": 1283.69,
+    "y": 158.5379,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 723,
     "server_id": 25,
     "type": "house",
@@ -23769,6 +23733,54 @@
     "x": 1652.34,
     "y": 2709.34,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1274,
+    "server_id": 25,
+    "type": "house",
+    "name": "waldemarfam",
+    "owner": "kapn",
+    "status": "Аукцион",
+    "x": -2689.51,
+    "y": 96.3162,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1321,
+    "server_id": 25,
+    "type": "house",
+    "name": "gangster lovit",
+    "owner": "Gangster_Babe",
+    "status": "Аукцион",
+    "x": 1488.61,
+    "y": 360.9039,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1557,
+    "server_id": 25,
+    "type": "house",
+    "name": "gangster lovit",
+    "owner": "Gangster_Babe",
+    "status": "Аукцион",
+    "x": 345.0509,
+    "y": -1298.03,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 86,
+    "server_id": 25,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Devilish_Smoke",
+    "status": "Аукцион",
+    "x": -88.742,
+    "y": 1378.27,
+    "price": 222222,
     "district": "Сан-Андреас"
   },
   {
@@ -24020,18 +24032,6 @@
     "status": "Занято",
     "x": 385.891,
     "y": -1817.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 86,
-    "server_id": 25,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Devilish_Smoke",
-    "status": "Занято",
-    "x": -88.742,
-    "y": 1378.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26596,7 +26596,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Zawa_Monolith",
+    "owner": "Force_Monolith",
     "status": "Занято",
     "x": 1104.78,
     "y": 1380.93,
