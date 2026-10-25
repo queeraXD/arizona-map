@@ -96,18 +96,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 8,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Normalnyi_Paren",
-    "status": "Занято",
-    "x": 2023.29,
-    "y": -1053.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 9,
     "server_id": 15,
     "type": "house",
@@ -3240,6 +3228,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 270,
+    "server_id": 15,
+    "type": "house",
+    "name": "REJECT CORP",
+    "owner": "Jimmy_Freeman",
+    "status": "Занято",
+    "x": 2628.1,
+    "y": -1067.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 271,
     "server_id": 15,
     "type": "house",
@@ -4952,18 +4952,6 @@
     "status": "Занято",
     "x": 1841.15,
     "y": 33.3628,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 414,
-    "server_id": 15,
-    "type": "house",
-    "name": "414",
-    "owner": "Sylvanas_Windrunner",
-    "status": "Занято",
-    "x": 1469.66,
-    "y": 351.2609,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7260,18 +7248,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 606,
-    "server_id": 15,
-    "type": "house",
-    "name": "606",
-    "owner": "Sylvanas_Windrunner",
-    "status": "Занято",
-    "x": -1589.79,
-    "y": 2706.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 607,
     "server_id": 15,
     "type": "house",
@@ -8808,18 +8784,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 735,
-    "server_id": 15,
-    "type": "house",
-    "name": "735",
-    "owner": "Sylvanas_Windrunner",
-    "status": "Занято",
-    "x": -2900.72,
-    "y": 1067.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 736,
     "server_id": 15,
     "type": "house",
@@ -10176,18 +10140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 849,
-    "server_id": 15,
-    "type": "house",
-    "name": "849",
-    "owner": "Sylvanas_Windrunner",
-    "status": "Занято",
-    "x": -2158.05,
-    "y": 1148.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 850,
     "server_id": 15,
     "type": "house",
@@ -10652,18 +10604,6 @@
     "status": "Занято",
     "x": -2101.45,
     "y": -2532.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 890,
-    "server_id": 15,
-    "type": "house",
-    "name": "890",
-    "owner": "Sylvanas_Windrunner",
-    "status": "Занято",
-    "x": -2087.62,
-    "y": -2510.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14600,18 +14540,6 @@
     "status": "Занято",
     "x": -2689.07,
     "y": 197.8249,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1219,
-    "server_id": 15,
-    "type": "house",
-    "name": "1219",
-    "owner": "Sylvanas_Windrunner",
-    "status": "Занято",
-    "x": -2678.16,
-    "y": 200.6159,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18724,7 +18652,7 @@
     "server_id": 15,
     "type": "house",
     "name": "GARD",
-    "owner": "Skelet_Prodakshen",
+    "owner": "Mass_Neck",
     "status": "Занято",
     "x": 1989.13,
     "y": 2665.19,
@@ -21312,27 +21240,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 270,
+    "id": 8,
     "server_id": 15,
     "type": "house",
-    "name": "REJECT CORP",
-    "owner": "Chapmen_McCloud",
+    "name": "Дом",
+    "owner": "Normalnyi_Paren",
     "status": "Аукцион",
-    "x": 2628.1,
-    "y": -1067.95,
-    "price": 1000000,
+    "x": 2023.29,
+    "y": -1053.16,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 75,
+    "id": 414,
     "server_id": 15,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Nex_Revenantsize",
+    "type": "house",
+    "name": "414",
+    "owner": "Sylvanas_Windrunner",
     "status": "Аукцион",
-    "x": 2556.26,
-    "y": 1872.19,
-    "price": 8500000000,
+    "x": 1469.66,
+    "y": 351.2609,
+    "price": 500000111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 606,
+    "server_id": 15,
+    "type": "house",
+    "name": "606",
+    "owner": "Sylvanas_Windrunner",
+    "status": "Аукцион",
+    "x": -1589.79,
+    "y": 2706.18,
+    "price": 500000111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 735,
+    "server_id": 15,
+    "type": "house",
+    "name": "735",
+    "owner": "Sylvanas_Windrunner",
+    "status": "Аукцион",
+    "x": -2900.72,
+    "y": 1067.02,
+    "price": 800000111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 849,
+    "server_id": 15,
+    "type": "house",
+    "name": "849",
+    "owner": "Sylvanas_Windrunner",
+    "status": "Аукцион",
+    "x": -2158.05,
+    "y": 1148.62,
+    "price": 500000111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 890,
+    "server_id": 15,
+    "type": "house",
+    "name": "890",
+    "owner": "Sylvanas_Windrunner",
+    "status": "Аукцион",
+    "x": -2087.62,
+    "y": -2510.66,
+    "price": 500000111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1219,
+    "server_id": 15,
+    "type": "house",
+    "name": "1219",
+    "owner": "Sylvanas_Windrunner",
+    "status": "Аукцион",
+    "x": -2678.16,
+    "y": 200.6159,
+    "price": 600000111,
     "district": "Сан-Андреас"
   },
   {
@@ -21992,6 +21980,18 @@
     "status": "Занято",
     "x": 2104.24,
     "y": 2678.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 75,
+    "server_id": 15,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Nex_Revenantsize",
+    "status": "Занято",
+    "x": 2556.26,
+    "y": 1872.19,
     "price": 0,
     "district": "Сан-Андреас"
   },

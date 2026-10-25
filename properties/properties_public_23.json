@@ -4336,7 +4336,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Facil Selling",
-    "owner": "Lifan_Wright",
+    "owner": "Facil_Dificil",
     "status": "Занято",
     "x": 903.398,
     "y": -1512.91,
@@ -4348,7 +4348,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Facil Selling",
-    "owner": "Lifan_Wright",
+    "owner": "Facil_Dificil",
     "status": "Занято",
     "x": 849.689,
     "y": -1519.95,
@@ -4360,7 +4360,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Lifan_Wright",
+    "owner": "Facil_Dificil",
     "status": "Занято",
     "x": 822.473,
     "y": -1505.52,
@@ -6068,18 +6068,6 @@
     "status": "Занято",
     "x": 1364.25,
     "y": 1969.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 506,
-    "server_id": 23,
-    "type": "house",
-    "name": "Osobov house NUMBER",
-    "owner": "Shadowraze_Osobov",
-    "status": "Занято",
-    "x": 1364.57,
-    "y": 2003.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10112,6 +10100,18 @@
     "status": "Занято",
     "x": 253.229,
     "y": -1269.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 844,
+    "server_id": 23,
+    "type": "house",
+    "name": "Kalashnikov",
+    "owner": "Nikolay_Station",
+    "status": "Занято",
+    "x": -2227.81,
+    "y": 1080.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14544,18 +14544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1216,
-    "server_id": 23,
-    "type": "house",
-    "name": "Osobov house SF",
-    "owner": "Shadowraze_Osobov",
-    "status": "Занято",
-    "x": -2840.23,
-    "y": 866.763,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1217,
     "server_id": 23,
     "type": "house",
@@ -17724,18 +17712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1482,
-    "server_id": 23,
-    "type": "house",
-    "name": "Osobov house LV",
-    "owner": "Shadowraze_Osobov",
-    "status": "Занято",
-    "x": 928.616,
-    "y": 2372.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1483,
     "server_id": 23,
     "type": "house",
@@ -18243,7 +18219,7 @@
     "id": 1525,
     "server_id": 23,
     "type": "house",
-    "name": "Дом",
+    "name": "MASON TOWER",
     "owner": "Rizan_Eternal",
     "status": "Занято",
     "x": -2355.53,
@@ -19860,18 +19836,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1662,
-    "server_id": 23,
-    "type": "house",
-    "name": "Osobov house Ghetto",
-    "owner": "Shadowraze_Osobov",
-    "status": "Занято",
-    "x": 2468.37,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1663,
     "server_id": 23,
     "type": "house",
@@ -21120,6 +21084,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 506,
+    "server_id": 23,
+    "type": "house",
+    "name": "Osobov house NUMBER",
+    "owner": "Shadowraze_Osobov",
+    "status": "Аукцион",
+    "x": 1364.57,
+    "y": 2003.7,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 762,
     "server_id": 23,
     "type": "house",
@@ -21129,18 +21105,6 @@
     "x": -2667.07,
     "y": 820.3189,
     "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 844,
-    "server_id": 23,
-    "type": "house",
-    "name": "Kalashnikov",
-    "owner": "Nikolay_Station",
-    "status": "Аукцион",
-    "x": -2227.81,
-    "y": 1080.63,
-    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21156,6 +21120,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1216,
+    "server_id": 23,
+    "type": "house",
+    "name": "Osobov house SF",
+    "owner": "Shadowraze_Osobov",
+    "status": "Аукцион",
+    "x": -2840.23,
+    "y": 866.763,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1348,
     "server_id": 23,
     "type": "house",
@@ -21168,39 +21144,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 147,
+    "id": 1482,
     "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Shady_Records",
+    "type": "house",
+    "name": "Osobov house LV",
+    "owner": "Shadowraze_Osobov",
     "status": "Аукцион",
-    "x": -2174.971,
-    "y": -29.964,
-    "price": 240000,
+    "x": 928.616,
+    "y": 2372.89,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
+    "id": 1662,
     "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Shady_Records",
+    "type": "house",
+    "name": "Osobov house Ghetto",
+    "owner": "Shadowraze_Osobov",
     "status": "Аукцион",
-    "x": 1031.61,
-    "y": 1354.3,
-    "price": 190000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 333,
-    "server_id": 23,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Heart_Shape",
-    "status": "Аукцион",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 444444,
+    "x": 2468.37,
+    "y": -1391.71,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22728,6 +22692,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 285,
+    "server_id": 23,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Shady_Records",
+    "status": "Занято",
+    "x": 1031.61,
+    "y": 1354.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 286,
     "server_id": 23,
     "type": "business",
@@ -23708,6 +23684,18 @@
     "status": "Занято",
     "x": 1785.504,
     "y": -1394.201,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 147,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Shady_Records",
+    "status": "Занято",
+    "x": -2174.971,
+    "y": -29.964,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25157,6 +25145,18 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "Aleksey_Osobov",
+    "status": "Занято",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 333,
+    "server_id": 23,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Heart_Shape",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
