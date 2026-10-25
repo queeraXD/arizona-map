@@ -2544,18 +2544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
-    "server_id": 16,
-    "type": "house",
-    "name": "House Sbu Monopoiy",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 213,
     "server_id": 16,
     "type": "house",
@@ -6536,6 +6524,18 @@
     "status": "Занято",
     "x": 1921.69,
     "y": 2664.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 545,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Thomas_Kamazov",
+    "status": "Занято",
+    "x": -36.0457,
+    "y": 1115.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22452,15 +22452,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 545,
+    "id": 212,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
-    "owner": "Thomas_Kamazov",
+    "name": "House Sbu Monopoiy",
+    "owner": "Sirius_Cybernetik",
     "status": "Аукцион",
-    "x": -36.0457,
-    "y": 1115.65,
-    "price": 400000000,
+    "x": 1017.07,
+    "y": -762.8809,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {

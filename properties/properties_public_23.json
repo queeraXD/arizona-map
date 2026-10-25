@@ -9028,7 +9028,7 @@
     "server_id": 23,
     "type": "house",
     "name": "особа Мажорки",
-    "owner": "Majorka_Infinitu",
+    "owner": "Majorka_Infinity",
     "status": "Занято",
     "x": -2641.07,
     "y": 935.7189,
@@ -10112,18 +10112,6 @@
     "status": "Занято",
     "x": 253.229,
     "y": -1269.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 844,
-    "server_id": 23,
-    "type": "house",
-    "name": "Kalashnikov",
-    "owner": "Nikolay_Station",
-    "status": "Занято",
-    "x": -2227.81,
-    "y": 1080.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12008,18 +11996,6 @@
     "status": "Занято",
     "x": -2413.55,
     "y": 1137.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1003,
-    "server_id": 23,
-    "type": "house",
-    "name": "House Ruslan №12",
-    "owner": "Seva_Hokage",
-    "status": "Занято",
-    "x": -2406.97,
-    "y": 1135.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16148,18 +16124,6 @@
     "status": "Занято",
     "x": 1513.34,
     "y": 2565.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1348,
-    "server_id": 23,
-    "type": "house",
-    "name": "с набором архитектора и деп ",
-    "owner": "Goha_Ermolaev",
-    "status": "Занято",
-    "x": 1515.98,
-    "y": 2610.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21168,6 +21132,78 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 844,
+    "server_id": 23,
+    "type": "house",
+    "name": "Kalashnikov",
+    "owner": "Nikolay_Station",
+    "status": "Аукцион",
+    "x": -2227.81,
+    "y": 1080.63,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1003,
+    "server_id": 23,
+    "type": "house",
+    "name": "House Ruslan №12",
+    "owner": "Seva_Hokage",
+    "status": "Аукцион",
+    "x": -2406.97,
+    "y": 1135.41,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1348,
+    "server_id": 23,
+    "type": "house",
+    "name": "с набором архитектора и деп ",
+    "owner": "Goha_Ermolaev",
+    "status": "Аукцион",
+    "x": 1515.98,
+    "y": 2610.18,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 147,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Shady_Records",
+    "status": "Аукцион",
+    "x": -2174.971,
+    "y": -29.964,
+    "price": 240000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 285,
+    "server_id": 23,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Shady_Records",
+    "status": "Аукцион",
+    "x": 1031.61,
+    "y": 1354.3,
+    "price": 190000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 333,
+    "server_id": 23,
+    "type": "business",
+    "name": "Нефтевышка",
+    "owner": "Heart_Shape",
+    "status": "Аукцион",
+    "x": 353.425,
+    "y": 1314.14,
+    "price": 444444,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 23,
     "type": "business",
@@ -22692,18 +22728,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
-    "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Shady_Records",
-    "status": "Занято",
-    "x": 1031.61,
-    "y": 1354.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 286,
     "server_id": 23,
     "type": "business",
@@ -23684,18 +23708,6 @@
     "status": "Занято",
     "x": 1785.504,
     "y": -1394.201,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 147,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Shady_Records",
-    "status": "Занято",
-    "x": -2174.971,
-    "y": -29.964,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25145,18 +25157,6 @@
     "type": "business",
     "name": "Нефтевышка",
     "owner": "Aleksey_Osobov",
-    "status": "Занято",
-    "x": 353.425,
-    "y": 1314.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 333,
-    "server_id": 23,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Heart_Shape",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,

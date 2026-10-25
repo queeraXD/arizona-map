@@ -3543,7 +3543,7 @@
     "id": 295,
     "server_id": 32,
     "type": "house",
-    "name": "Склад расходников",
+    "name": "Bara",
     "owner": "Bara_Vozdyx",
     "status": "Занято",
     "x": 2352.16,
@@ -3680,18 +3680,6 @@
     "status": "Занято",
     "x": 1895.99,
     "y": -1064.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 307,
-    "server_id": 32,
-    "type": "house",
-    "name": "60ккк",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": 1846.61,
-    "y": 82.9356,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11008,7 +10996,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Дом на продаже",
-    "owner": "Hasan_Boss",
+    "owner": "Vibe_Coder",
     "status": "Занято",
     "x": -2282.07,
     "y": 1089.04,
@@ -13116,18 +13104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1097,
-    "server_id": 32,
-    "type": "house",
-    "name": "деп условия и весь фарш",
-    "owner": "Maksim_Washington",
-    "status": "Занято",
-    "x": -2223.62,
-    "y": 820.458,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1098,
     "server_id": 32,
     "type": "house",
@@ -13976,18 +13952,6 @@
     "status": "Занято",
     "x": -1004.06,
     "y": -1875.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1169,
-    "server_id": 32,
-    "type": "house",
-    "name": "60ккк",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": -986.9279,
-    "y": -1877.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16728,18 +16692,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1398,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Malinka_Nakamoto",
-    "status": "Занято",
-    "x": 1110.55,
-    "y": -1554.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1399,
     "server_id": 32,
     "type": "house",
@@ -17564,6 +17516,18 @@
     "status": "Занято",
     "x": 885.7429,
     "y": 2267.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1469,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kiri_Vagon",
+    "status": "Занято",
+    "x": 884.517,
+    "y": 2295.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18867,8 +18831,8 @@
     "id": 1606,
     "server_id": 32,
     "type": "house",
-    "name": "деп усл 2 подвала",
-    "owner": "Jimba_Seller",
+    "name": "Малинки,Малинки,Такие вечеринки",
+    "owner": "Malinka_Nakamoto",
     "status": "Занято",
     "x": 1748.5,
     "y": 2758.71,
@@ -20088,6 +20052,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1708,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Roronoa_Zoro",
+    "status": "Занято",
+    "x": 2473.2,
+    "y": -1398.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1709,
     "server_id": 32,
     "type": "house",
@@ -20444,18 +20420,6 @@
     "status": "Занято",
     "x": -814.6309,
     "y": 2752.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1739,
-    "server_id": 32,
-    "type": "house",
-    "name": "Miner",
-    "owner": "Attack_YourHeart",
-    "status": "Занято",
-    "x": -827.5109,
-    "y": 2765.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20900,18 +20864,6 @@
     "status": "Занято",
     "x": 1736.92,
     "y": 2800.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1777,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nikolay_Savin",
-    "status": "Занято",
-    "x": 1743.13,
-    "y": 2778.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22500,39 +22452,99 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1469,
+    "id": 307,
     "server_id": 32,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 884.517,
-    "y": 2295.31,
-    "price": 0,
+    "name": "60ккк",
+    "owner": "Anton_Mas",
+    "status": "Аукцион",
+    "x": 1846.61,
+    "y": 82.9356,
+    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1708,
+    "id": 1097,
+    "server_id": 32,
+    "type": "house",
+    "name": "деп условия и весь фарш",
+    "owner": "Maksim_Washington",
+    "status": "Аукцион",
+    "x": -2223.62,
+    "y": 820.458,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1169,
+    "server_id": 32,
+    "type": "house",
+    "name": "60ккк",
+    "owner": "Anton_Mas",
+    "status": "Аукцион",
+    "x": -986.9279,
+    "y": -1877.55,
+    "price": 190000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1398,
+    "server_id": 32,
+    "type": "house",
+    "name": "Малинки,Малинки,Такие вечеринки",
+    "owner": "Malinka_Nakamoto",
+    "status": "Аукцион",
+    "x": 1110.55,
+    "y": -1554.05,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1739,
+    "server_id": 32,
+    "type": "house",
+    "name": "Miner",
+    "owner": "Attack_YourHeart",
+    "status": "Аукцион",
+    "x": -827.5109,
+    "y": 2765.18,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1777,
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Roronoa_Zoro",
+    "owner": "Nikolay_Savin",
     "status": "Аукцион",
-    "x": 2473.2,
-    "y": -1398.81,
+    "x": 1743.13,
+    "y": 2778.58,
     "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 97,
+    "id": 7,
     "server_id": 32,
     "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Franchesko_Santo",
+    "name": "Магазин 24/7",
+    "owner": "Kigo_Hozyainov",
     "status": "Аукцион",
-    "x": 208.11,
-    "y": -62.718,
+    "x": 1315.5,
+    "y": -898.048,
     "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 193,
+    "server_id": 32,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Smex_XaX",
+    "status": "Аукцион",
+    "x": 2405.02,
+    "y": -1933.97,
+    "price": 8000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22545,6 +22557,30 @@
     "x": 670.993,
     "y": -519.331,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 308,
+    "server_id": 32,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Franchesko_Santo",
+    "status": "Аукцион",
+    "x": -1992.94,
+    "y": 583.407,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 465,
+    "server_id": 32,
+    "type": "business",
+    "name": "Аренда сетов",
+    "owner": "Implored_Space",
+    "status": "Аукцион",
+    "x": 1244.25,
+    "y": 167.039,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22976,18 +23012,6 @@
     "status": "Занято",
     "x": 1352.4,
     "y": -1758.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 7,
-    "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Kigo_Hozyainov",
-    "status": "Занято",
-    "x": 1315.5,
-    "y": -898.048,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24888,6 +24912,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 97,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "GolD_Roger",
+    "status": "Занято",
+    "x": 208.11,
+    "y": -62.718,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 98,
     "server_id": 32,
     "type": "business",
@@ -25488,18 +25524,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 193,
-    "server_id": 32,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Smex_XaX",
-    "status": "Занято",
-    "x": 2405.02,
-    "y": -1933.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 194,
     "server_id": 32,
     "type": "business",
@@ -25624,7 +25648,7 @@
     "server_id": 32,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Arbuz_Arbuz",
+    "owner": "Inga_Ingannamorte",
     "status": "Занято",
     "x": 1502.14,
     "y": -1278.58,
@@ -26264,18 +26288,6 @@
     "status": "Занято",
     "x": -1996.36,
     "y": -50.6903,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 308,
-    "server_id": 32,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Franchesko_Santo",
-    "status": "Занято",
-    "x": -1992.94,
-    "y": 583.407,
     "price": 0,
     "district": "Сан-Андреас"
   },

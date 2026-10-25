@@ -8904,18 +8904,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 742,
-    "server_id": 29,
-    "type": "house",
-    "name": "HouseBrubus",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": -2882.27,
-    "y": 779.971,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 743,
     "server_id": 29,
     "type": "house",
@@ -9672,6 +9660,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 806,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Owner_Family",
+    "status": "Занято",
+    "x": -2723.93,
+    "y": -105.541,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 807,
     "server_id": 29,
     "type": "house",
@@ -9963,7 +9963,7 @@
     "id": 831,
     "server_id": 29,
     "type": "house",
-    "name": "#2016",
+    "name": "Прокуратра СФ",
     "owner": "Maxon_Mamolog",
     "status": "Занято",
     "x": -2723.0,
@@ -15207,7 +15207,7 @@
     "id": 1269,
     "server_id": 29,
     "type": "house",
-    "name": "Paskuda Home",
+    "name": "Lirika Home",
     "owner": "Lovetc_Liriki",
     "status": "Занято",
     "x": -2628.01,
@@ -17295,8 +17295,8 @@
     "id": 1443,
     "server_id": 29,
     "type": "house",
-    "name": "Shweps",
-    "owner": "Aoki_Shweps",
+    "name": ":arz: Max & Dio Unity :arz:",
+    "owner": "Dio_Monopoly",
     "status": "Занято",
     "x": 688.802,
     "y": 1276.88,
@@ -17624,18 +17624,6 @@
     "status": "Занято",
     "x": 884.517,
     "y": 2321.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1471,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": 929.5219,
-    "y": 2343.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20608,7 +20596,7 @@
     "server_id": 29,
     "type": "house",
     "name": "мио хом",
-    "owner": "Mio_Akiyama",
+    "owner": "Tsumugi_Kotobuki",
     "status": "Занято",
     "x": 148.4329,
     "y": 981.5,
@@ -21132,15 +21120,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 806,
+    "id": 742,
+    "server_id": 29,
+    "type": "house",
+    "name": "HouseBrubus",
+    "owner": "Night_Sosiska",
+    "status": "Аукцион",
+    "x": -2882.27,
+    "y": 779.971,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1471,
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Owner_Family",
+    "owner": "Night_Sosiska",
     "status": "Аукцион",
-    "x": -2723.93,
-    "y": -105.541,
-    "price": 312312313,
+    "x": 929.5219,
+    "y": 2343.43,
+    "price": 800123123,
     "district": "Сан-Андреас"
   },
   {

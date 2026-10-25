@@ -2400,18 +2400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 200,
-    "server_id": 28,
-    "type": "house",
-    "name": "Kend",
-    "owner": "Samuray_Kend",
-    "status": "Занято",
-    "x": 1468.62,
-    "y": -905.5709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 201,
     "server_id": 28,
     "type": "house",
@@ -10072,7 +10060,7 @@
     "server_id": 28,
     "type": "house",
     "name": "ХАТА КАПУСТЫ",
-    "owner": "Ogyrchik_Bankov",
+    "owner": "Sasha_Kapustovich",
     "status": "Занято",
     "x": -2066.54,
     "y": 745.802,
@@ -11096,18 +11084,6 @@
     "status": "Занято",
     "x": -2029.88,
     "y": 745.3209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 926,
-    "server_id": 28,
-    "type": "house",
-    "name": "home 4",
-    "owner": "Mister_Sheldon",
-    "status": "Занято",
-    "x": -2307.24,
-    "y": 944.2639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19704,6 +19680,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1643,
+    "server_id": 28,
+    "type": "house",
+    "name": "Поместья соупа",
+    "owner": "Nik_For",
+    "status": "Занято",
+    "x": 2816.66,
+    "y": 2274.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1644,
     "server_id": 28,
     "type": "house",
@@ -20036,18 +20024,6 @@
     "status": "Занято",
     "x": -789.7039,
     "y": 2757.18,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1672,
-    "server_id": 28,
-    "type": "house",
-    "name": "lexie ",
-    "owner": "Nik_For",
-    "status": "Занято",
-    "x": -789.7039,
-    "y": 2755.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20540,6 +20516,18 @@
     "status": "Занято",
     "x": 2473.95,
     "y": 997.5109,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1714,
+    "server_id": 28,
+    "type": "house",
+    "name": "антимонополия",
+    "owner": "Jose_Rose",
+    "status": "Занято",
+    "x": 1976.21,
+    "y": -1633.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22356,27 +22344,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1643,
+    "id": 200,
     "server_id": 28,
     "type": "house",
-    "name": "Поместья соупа",
-    "owner": "Lakoka_Delakoka",
+    "name": "Kend",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 2816.66,
-    "y": 2274.99,
+    "x": 1468.62,
+    "y": -905.5709,
     "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1714,
+    "id": 926,
     "server_id": 28,
     "type": "house",
-    "name": "антимонополия",
-    "owner": "Jose_Rose",
+    "name": "home 4",
+    "owner": "Mister_Sheldon",
     "status": "Аукцион",
-    "x": 1976.21,
-    "y": -1633.99,
-    "price": 500000000,
+    "x": -2307.24,
+    "y": 944.2639,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1672,
+    "server_id": 28,
+    "type": "house",
+    "name": "lexie ",
+    "owner": "Nik_For",
+    "status": "Аукцион",
+    "x": -789.7039,
+    "y": 2755.76,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {

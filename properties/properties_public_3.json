@@ -3303,7 +3303,7 @@
     "id": 275,
     "server_id": 3,
     "type": "house",
-    "name": "Бомжатня",
+    "name": "Admin House",
     "owner": "Mickey_Power",
     "status": "Занято",
     "x": 2579.67,
@@ -4256,18 +4256,6 @@
     "status": "Занято",
     "x": 1280.86,
     "y": -874.8439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 355,
-    "server_id": 3,
-    "type": "house",
-    "name": "Хата Capone + деп 1.",
-    "owner": "Maloi_Boy",
-    "status": "Занято",
-    "x": 1288.34,
-    "y": -873.7819,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9940,7 +9928,7 @@
     "server_id": 3,
     "type": "house",
     "name": "У Лила По Выгоде!",
-    "owner": "Lil_Halaveras",
+    "owner": "Lil_Mercenari",
     "status": "Занято",
     "x": -2721.08,
     "y": -44.7512,
@@ -17256,18 +17244,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1439,
-    "server_id": 3,
-    "type": "house",
-    "name": "бурмалда",
-    "owner": "Postavshik_Snaryadov",
-    "status": "Занято",
-    "x": 1743.6,
-    "y": 2733.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1440,
     "server_id": 3,
     "type": "house",
@@ -18876,18 +18852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1574,
-    "server_id": 3,
-    "type": "house",
-    "name": "1 of ?",
-    "owner": "Yaroslav_Fruktoviy",
-    "status": "Занято",
-    "x": -2689.48,
-    "y": 74.5314,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1575,
     "server_id": 3,
     "type": "house",
@@ -20024,18 +19988,6 @@
     "status": "Занято",
     "x": 2608.16,
     "y": -1233.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1670,
-    "server_id": 3,
-    "type": "house",
-    "name": "Veritas Familly",
-    "owner": "zentiva",
-    "status": "Занято",
-    "x": 2615.11,
-    "y": -1238.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22020,18 +21972,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1836,
-    "server_id": 3,
-    "type": "house",
-    "name": "The Dragon Empire",
-    "owner": "zentiva",
-    "status": "Занято",
-    "x": 2690.54,
-    "y": -1207.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1837,
     "server_id": 3,
     "type": "house",
@@ -24009,6 +23949,66 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 355,
+    "server_id": 3,
+    "type": "house",
+    "name": "Хата Capone + деп 1.",
+    "owner": "Maloi_Boy",
+    "status": "Аукцион",
+    "x": 1288.34,
+    "y": -873.7819,
+    "price": 400123213,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1439,
+    "server_id": 3,
+    "type": "house",
+    "name": "бурмалда",
+    "owner": "Postavshik_Snaryadov",
+    "status": "Аукцион",
+    "x": 1743.6,
+    "y": 2733.09,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1574,
+    "server_id": 3,
+    "type": "house",
+    "name": "1 of ?",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2689.48,
+    "y": 74.5314,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1670,
+    "server_id": 3,
+    "type": "house",
+    "name": "Veritas Familly",
+    "owner": "zentiva",
+    "status": "Аукцион",
+    "x": 2615.11,
+    "y": -1238.07,
+    "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1836,
+    "server_id": 3,
+    "type": "house",
+    "name": "The Dragon Empire",
+    "owner": "zentiva",
+    "status": "Аукцион",
+    "x": 2690.54,
+    "y": -1207.75,
+    "price": 150123123,
     "district": "Сан-Андреас"
   },
   {
