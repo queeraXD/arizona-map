@@ -1416,18 +1416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 118,
-    "server_id": 24,
-    "type": "house",
-    "name": "MANIAK FAMILY",
-    "owner": "ersultanfaizulaev",
-    "status": "Занято",
-    "x": 1913.53,
-    "y": -1911.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 119,
     "server_id": 24,
     "type": "house",
@@ -3260,18 +3248,6 @@
     "status": "Занято",
     "x": 2627.84,
     "y": -1085.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 273,
-    "server_id": 24,
-    "type": "house",
-    "name": "MANIAK FAMILY",
-    "owner": "ersultanfaizulaev",
-    "status": "Занято",
-    "x": 2626.07,
-    "y": -1112.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11744,6 +11720,18 @@
     "status": "Занято",
     "x": 2548.61,
     "y": 25.0862,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 990,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hell_Light",
+    "status": "Занято",
+    "x": 2556.37,
+    "y": 87.7666,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20548,7 +20536,7 @@
     "server_id": 24,
     "type": "house",
     "name": "ryodan fam",
-    "owner": "Pridavilo_Bobrom",
+    "owner": "Murmur_Qweenjan",
     "status": "Занято",
     "x": 1748.67,
     "y": 2867.69,
@@ -20912,18 +20900,6 @@
     "status": "Занято",
     "x": -1779.81,
     "y": 1158.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1761,
-    "server_id": 24,
-    "type": "house",
-    "name": "подвал + деп условия",
-    "owner": "Dodge_Faworite",
-    "status": "Занято",
-    "x": 2594.5,
-    "y": -1211.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21852,6 +21828,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 118,
+    "server_id": 24,
+    "type": "house",
+    "name": "MANIAK FAMILY",
+    "owner": "ersultanfaizulaev",
+    "status": "Аукцион",
+    "x": 1913.53,
+    "y": -1911.91,
+    "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 272,
     "server_id": 24,
     "type": "house",
@@ -21861,6 +21849,18 @@
     "x": 2626.19,
     "y": -1098.72,
     "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 273,
+    "server_id": 24,
+    "type": "house",
+    "name": "MANIAK FAMILY",
+    "owner": "ersultanfaizulaev",
+    "status": "Аукцион",
+    "x": 2626.07,
+    "y": -1112.56,
+    "price": 150123123,
     "district": "Сан-Андреас"
   },
   {
@@ -21972,18 +21972,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 990,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Hell_Light",
-    "status": "Аукцион",
-    "x": 2556.37,
-    "y": 87.7666,
-    "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1009,
     "server_id": 24,
     "type": "house",
@@ -22044,15 +22032,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 198,
+    "id": 1761,
     "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Tolsto_Pyz",
+    "type": "house",
+    "name": "подвал + деп условия",
+    "owner": "Dodge_Faworite",
     "status": "Аукцион",
-    "x": -1826.43,
-    "y": -566.68,
-    "price": 4000000000,
+    "x": 2594.5,
+    "y": -1211.77,
+    "price": 250123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22065,18 +22053,6 @@
     "x": 1433.75,
     "y": -1739.79,
     "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 206,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Uhodyashchiy_Zakat",
-    "status": "Аукцион",
-    "x": 1381.1,
-    "y": -1805.03,
-    "price": 6000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25092,6 +25068,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 198,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Tolsto_Pyz",
+    "status": "Занято",
+    "x": -1826.43,
+    "y": -566.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 199,
     "server_id": 24,
     "type": "business",
@@ -25160,6 +25148,18 @@
     "status": "Занято",
     "x": 1136.92,
     "y": -1750.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 206,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Uhodyashchiy_Zakat",
+    "status": "Занято",
+    "x": 1381.1,
+    "y": -1805.03,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -7116,6 +7116,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 594,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lersi_Dip",
+    "status": "Занято",
+    "x": -1446.67,
+    "y": 2636.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 595,
     "server_id": 28,
     "type": "house",
@@ -9108,18 +9120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 761,
-    "server_id": 28,
-    "type": "house",
-    "name": "Кабаны и его лесная братва",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": -2700.33,
-    "y": 820.8649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 762,
     "server_id": 28,
     "type": "house",
@@ -10304,54 +10304,6 @@
     "status": "Занято",
     "x": -218.123,
     "y": 2481.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 862,
-    "server_id": 28,
-    "type": "house",
-    "name": "Aurelios Workshop",
-    "owner": "Asumi_Arasaka",
-    "status": "Занято",
-    "x": -222.6519,
-    "y": 2496.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 863,
-    "server_id": 28,
-    "type": "house",
-    "name": "Aurelios Workshop",
-    "owner": "Asumi_Arasaka",
-    "status": "Занято",
-    "x": -236.8439,
-    "y": 2491.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 864,
-    "server_id": 28,
-    "type": "house",
-    "name": "Aurelios Workshop",
-    "owner": "Asumi_Arasaka",
-    "status": "Занято",
-    "x": -245.722,
-    "y": 2501.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 865,
-    "server_id": 28,
-    "type": "house",
-    "name": "Aurelios Workshop",
-    "owner": "Asumi_Arasaka",
-    "status": "Занято",
-    "x": -269.1889,
-    "y": 2504.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12920,18 +12872,6 @@
     "status": "Занято",
     "x": -2884.2,
     "y": 995.635,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1080,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дaча в San-Fierro",
-    "owner": "Aleksei_Saranskiy",
-    "status": "Занято",
-    "x": -2876.04,
-    "y": 980.9829,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19656,6 +19596,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1643,
+    "server_id": 28,
+    "type": "house",
+    "name": "Поместья соупа",
+    "owner": "Nik_For",
+    "status": "Занято",
+    "x": 2816.66,
+    "y": 2274.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1644,
     "server_id": 28,
     "type": "house",
@@ -19988,6 +19940,18 @@
     "status": "Занято",
     "x": -789.7039,
     "y": 2757.18,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1672,
+    "server_id": 28,
+    "type": "house",
+    "name": "lexie ",
+    "owner": "Adolf_Epstein",
+    "status": "Занято",
+    "x": -789.7039,
+    "y": 2755.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22308,15 +22272,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 594,
+    "id": 761,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
-    "owner": "Lersi_Dip",
+    "name": "Кабаны и его лесная братва",
+    "owner": "Aleksei_Saranskiy",
     "status": "Аукцион",
-    "x": -1446.67,
-    "y": 2636.7,
-    "price": 200000000,
+    "x": -2700.33,
+    "y": 820.8649,
+    "price": 425000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 862,
+    "server_id": 28,
+    "type": "house",
+    "name": "Aurelios Workshop",
+    "owner": "Asumi_Arasaka",
+    "status": "Аукцион",
+    "x": -222.6519,
+    "y": 2496.1,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 863,
+    "server_id": 28,
+    "type": "house",
+    "name": "Aurelios Workshop",
+    "owner": "Asumi_Arasaka",
+    "status": "Аукцион",
+    "x": -236.8439,
+    "y": 2491.76,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 864,
+    "server_id": 28,
+    "type": "house",
+    "name": "Aurelios Workshop",
+    "owner": "Asumi_Arasaka",
+    "status": "Аукцион",
+    "x": -245.722,
+    "y": 2501.72,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 865,
+    "server_id": 28,
+    "type": "house",
+    "name": "Aurelios Workshop",
+    "owner": "Asumi_Arasaka",
+    "status": "Аукцион",
+    "x": -269.1889,
+    "y": 2504.93,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1080,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дaча в San-Fierro",
+    "owner": "Aleksei_Saranskiy",
+    "status": "Аукцион",
+    "x": -2876.04,
+    "y": 980.9829,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22341,30 +22365,6 @@
     "x": -2621.02,
     "y": -134.798,
     "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1643,
-    "server_id": 28,
-    "type": "house",
-    "name": "Поместья соупа",
-    "owner": "Nik_For",
-    "status": "Аукцион",
-    "x": 2816.66,
-    "y": 2274.99,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1672,
-    "server_id": 28,
-    "type": "house",
-    "name": "lexie ",
-    "owner": "Nik_For",
-    "status": "Аукцион",
-    "x": -789.7039,
-    "y": 2755.76,
-    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23176,7 +23176,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Holy_Locket",
+    "owner": "Markus_Kudo",
     "status": "Занято",
     "x": -2016.84,
     "y": -29.087,
@@ -23272,7 +23272,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Holy_Locket",
+    "owner": "Lion_Carillo",
     "status": "Занято",
     "x": 695.01,
     "y": -500.134,
@@ -23980,7 +23980,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Travis_Viper",
+    "owner": "Kairo_Suzuya",
     "status": "Занято",
     "x": 1199.32,
     "y": -918.586,
@@ -24280,7 +24280,7 @@
     "server_id": 28,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Holy_Locket",
+    "owner": "Markus_Kudo",
     "status": "Занято",
     "x": -2062.52,
     "y": -60.6291,
