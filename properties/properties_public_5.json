@@ -3180,18 +3180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 265,
-    "server_id": 5,
-    "type": "house",
-    "name": "дом",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": 226.3999,
-    "y": -303.0809,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 266,
     "server_id": 5,
     "type": "house",
@@ -3352,7 +3340,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Soul x Maloletniy",
-    "owner": "Maloletniy_Cbager",
+    "owner": "Nikita_Alexandrow",
     "status": "Занято",
     "x": 2194.16,
     "y": -1000.94,
@@ -3700,7 +3688,7 @@
     "server_id": 5,
     "type": "house",
     "name": "ШКАФ",
-    "owner": "Declan_Davis",
+    "owner": "Wonder_Full",
     "status": "Занято",
     "x": 1912.61,
     "y": -1070.59,
@@ -16272,18 +16260,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1357,
-    "server_id": 5,
-    "type": "house",
-    "name": "Gentec",
-    "owner": "Wonder_Full",
-    "status": "Занято",
-    "x": -2590.53,
-    "y": -158.4909,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1358,
     "server_id": 5,
     "type": "house",
@@ -21244,7 +21220,7 @@
     "server_id": 5,
     "type": "house",
     "name": "NateSS (main) (not sell)",
-    "owner": "Nate_Sezon",
+    "owner": "Temich_Wenom",
     "status": "Занято",
     "x": -2355.59,
     "y": 251.6069,
@@ -25092,6 +25068,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 265,
+    "server_id": 5,
+    "type": "house",
+    "name": "дом",
+    "owner": "Kedroviy_Oreh",
+    "status": "Аукцион",
+    "x": 226.3999,
+    "y": -303.0809,
+    "price": 999999999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 807,
     "server_id": 5,
     "type": "house",
@@ -25100,7 +25088,19 @@
     "status": "Аукцион",
     "x": -2723.12,
     "y": -112.97,
-    "price": 1950000000,
+    "price": 1900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1357,
+    "server_id": 5,
+    "type": "house",
+    "name": "Gentec",
+    "owner": "Wonder_Full",
+    "status": "Аукцион",
+    "x": -2590.53,
+    "y": -158.4909,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25113,6 +25113,42 @@
     "x": 2519.54,
     "y": 1622.88,
     "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 182,
+    "server_id": 5,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Morphius_Mackenzie",
+    "status": "Аукцион",
+    "x": 1104.78,
+    "y": 1380.93,
+    "price": 130000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 271,
+    "server_id": 5,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Morphius_Mackenzie",
+    "status": "Аукцион",
+    "x": -1912.17,
+    "y": 827.954,
+    "price": 180000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 314,
+    "server_id": 5,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Jason_McDuck",
+    "status": "Аукцион",
+    "x": 1004.554,
+    "y": -1356.182,
+    "price": 300000,
     "district": "Сан-Андреас"
   },
   {
@@ -27144,18 +27180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 271,
-    "server_id": 5,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Morphius_Mackenzie",
-    "status": "Занято",
-    "x": -1912.17,
-    "y": 827.954,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 272,
     "server_id": 5,
     "type": "business",
@@ -27932,18 +27956,6 @@
     "status": "Занято",
     "x": 2029.71,
     "y": 986.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 182,
-    "server_id": 5,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Morphius_Mackenzie",
-    "status": "Занято",
-    "x": 1104.78,
-    "y": 1380.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28928,18 +28940,6 @@
     "status": "Занято",
     "x": 1332.48,
     "y": -1120.468,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 314,
-    "server_id": 5,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Jason_McDuck",
-    "status": "Занято",
-    "x": 1004.554,
-    "y": -1356.182,
     "price": 0,
     "district": "Сан-Андреас"
   },
