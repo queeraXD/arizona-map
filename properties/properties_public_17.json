@@ -2440,7 +2440,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Автогонки",
-    "owner": "Jackson_Sparks",
+    "owner": "Alexey_Memphis",
     "status": "Занято",
     "x": 1534.75,
     "y": -800.32,
@@ -2516,18 +2516,6 @@
     "status": "Занято",
     "x": 1093.81,
     "y": -806.668,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 210,
-    "server_id": 17,
-    "type": "house",
-    "name": "Автогонки",
-    "owner": "Shifu_Esquierwzz",
-    "status": "Занято",
-    "x": 1112.41,
-    "y": -742.067,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9087,7 +9075,7 @@
     "id": 757,
     "server_id": 17,
     "type": "house",
-    "name": "Дом",
+    "name": "DESKO HOUSE",
     "owner": "Blake_Desko",
     "status": "Занято",
     "x": -2738.32,
@@ -9692,18 +9680,6 @@
     "status": "Занято",
     "x": -2723.12,
     "y": -112.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 808,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Baron_Zeus",
-    "status": "Занято",
-    "x": -2722.88,
-    "y": -127.9029,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14604,18 +14580,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1218,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Akira_Lua",
-    "status": "Занято",
-    "x": -2634.61,
-    "y": 261.0169,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1219,
     "server_id": 17,
     "type": "house",
@@ -18768,18 +18732,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1565,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tima_Grishin",
-    "status": "Занято",
-    "x": 1849.39,
-    "y": -2028.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1566,
     "server_id": 17,
     "type": "house",
@@ -18992,18 +18944,6 @@
     "status": "Занято",
     "x": 1838.7,
     "y": -1994.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1584,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Diman_Dikiy",
-    "status": "Занято",
-    "x": 1835.7,
-    "y": -1987.13,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20708,18 +20648,6 @@
     "status": "Занято",
     "x": -789.7039,
     "y": 2757.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1727,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Misha_Blessed",
-    "status": "Занято",
-    "x": 1967.47,
-    "y": -1633.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22460,6 +22388,78 @@
     "status": "Занято",
     "x": 7.3323,
     "y": 1012.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 210,
+    "server_id": 17,
+    "type": "house",
+    "name": "Автогонки",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1112.41,
+    "y": -742.067,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 808,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2722.88,
+    "y": -127.9029,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1218,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2634.61,
+    "y": 261.0169,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1565,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1849.39,
+    "y": -2028.42,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1584,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1835.7,
+    "y": -1987.13,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1727,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1967.47,
+    "y": -1633.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
