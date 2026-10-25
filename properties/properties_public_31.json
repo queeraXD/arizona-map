@@ -144,18 +144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 12,
-    "server_id": 31,
-    "type": "house",
-    "name": "тут мафен живет",
-    "owner": "Vince_McMahon",
-    "status": "Занято",
-    "x": 2095.36,
-    "y": -1145.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 13,
     "server_id": 31,
     "type": "house",
@@ -2511,7 +2499,7 @@
     "id": 209,
     "server_id": 31,
     "type": "house",
-    "name": "Swarovski House",
+    "name": "миска рис",
     "owner": "Ga_Tila",
     "status": "Занято",
     "x": 1093.81,
@@ -9132,18 +9120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 762,
-    "server_id": 31,
-    "type": "house",
-    "name": "БлатХата",
-    "owner": "Inka_Ssator",
-    "status": "Занято",
-    "x": -2667.07,
-    "y": 820.3189,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 763,
     "server_id": 31,
     "type": "house",
@@ -9220,7 +9196,7 @@
     "server_id": 31,
     "type": "house",
     "name": "5 гм, деп, 2 подвала",
-    "owner": "Maksym_Farm",
+    "owner": "Sos_Krutoy",
     "status": "Занято",
     "x": -2594.19,
     "y": 768.164,
@@ -9320,18 +9296,6 @@
     "status": "Занято",
     "x": -2548.71,
     "y": 819.799,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 778,
-    "server_id": 31,
-    "type": "house",
-    "name": "Nakajima GANG",
-    "owner": "Inka_Ssator",
-    "status": "Занято",
-    "x": -2550.67,
-    "y": 794.174,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12692,18 +12656,6 @@
     "status": "Занято",
     "x": -2024.45,
     "y": 1275.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1060,
-    "server_id": 31,
-    "type": "house",
-    "name": "The Rockefeller",
-    "owner": "Mark_Rockefeller",
-    "status": "Занято",
-    "x": -2152.06,
-    "y": 1248.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23352,6 +23304,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 12,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vince_McMahon",
+    "status": "Аукцион",
+    "x": 2095.36,
+    "y": -1145.09,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 435,
     "server_id": 31,
     "type": "house",
@@ -23361,6 +23325,42 @@
     "x": 1106.54,
     "y": -299.712,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 762,
+    "server_id": 31,
+    "type": "house",
+    "name": "БлатХата",
+    "owner": "Inka_Ssator",
+    "status": "Аукцион",
+    "x": -2667.07,
+    "y": 820.3189,
+    "price": 1500228123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 778,
+    "server_id": 31,
+    "type": "house",
+    "name": "Nakajima GANG",
+    "owner": "Inka_Ssator",
+    "status": "Аукцион",
+    "x": -2550.67,
+    "y": 794.174,
+    "price": 1500228123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1060,
+    "server_id": 31,
+    "type": "house",
+    "name": "The Rockefeller",
+    "owner": "Mark_Rockefeller",
+    "status": "Аукцион",
+    "x": -2152.06,
+    "y": 1248.54,
+    "price": 7000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24088,7 +24088,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Antonio_DeLeonardis",
+    "owner": "Jacob_Chapman",
     "status": "Занято",
     "x": -1735.96,
     "y": 897.68,
@@ -25588,7 +25588,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Antonio_DeLeonardis",
+    "owner": "Jacob_Chapman",
     "status": "Занято",
     "x": 1671.52,
     "y": 1814.33,
@@ -27268,7 +27268,7 @@
     "server_id": 31,
     "type": "business",
     "name": "Рыболовный магазин",
-    "owner": "Antonio_DeLeonardis",
+    "owner": "Neo_Morrisonn",
     "status": "Занято",
     "x": -2057.44,
     "y": -2464.48,

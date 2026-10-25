@@ -1416,18 +1416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 118,
-    "server_id": 2,
-    "type": "house",
-    "name": "Mercedario_Benzario",
-    "owner": "Mercedes_Benz",
-    "status": "Занято",
-    "x": 1913.53,
-    "y": -1911.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 119,
     "server_id": 2,
     "type": "house",
@@ -7176,18 +7164,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 599,
-    "server_id": 2,
-    "type": "house",
-    "name": "Кладовка",
-    "owner": "Nox_Nostra",
-    "status": "Занято",
-    "x": -1482.54,
-    "y": 2702.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 600,
     "server_id": 2,
     "type": "house",
@@ -8320,7 +8296,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Винни & Молля <3",
-    "owner": "David_Riverro",
+    "owner": "Hanter_Quintero",
     "status": "Занято",
     "x": 1349.63,
     "y": 2567.69,
@@ -16011,7 +15987,7 @@
     "id": 1339,
     "server_id": 2,
     "type": "house",
-    "name": "Desert",
+    "name": "Desert House Family",
     "owner": "Set_Desert",
     "status": "Занято",
     "x": -2515.38,
@@ -18932,18 +18908,6 @@
     "status": "Занято",
     "x": -2238.79,
     "y": 998.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1583,
-    "server_id": 2,
-    "type": "house",
-    "name": "продам",
-    "owner": "Ris_Rais",
-    "status": "Занято",
-    "x": -2282.42,
-    "y": 999.3859,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23268,6 +23232,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1948,
+    "server_id": 2,
+    "type": "house",
+    "name": ":uf259:Rozov Collection:uf259:",
+    "owner": "Rozov_Nescam",
+    "status": "Занято",
+    "x": 2620.35,
+    "y": 2148.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1949,
     "server_id": 2,
     "type": "house",
@@ -23904,6 +23880,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 118,
+    "server_id": 2,
+    "type": "house",
+    "name": "Mercedario_Benzario",
+    "owner": "Mercedes_Benz",
+    "status": "Аукцион",
+    "x": 1913.53,
+    "y": -1911.91,
+    "price": 5500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 481,
     "server_id": 2,
     "type": "house",
@@ -23913,6 +23901,18 @@
     "x": 2228.36,
     "y": 734.7039,
     "price": 2500000228,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 599,
+    "server_id": 2,
+    "type": "house",
+    "name": "Кладовка",
+    "owner": "Nox_Nostra",
+    "status": "Аукцион",
+    "x": -1482.54,
+    "y": 2702.66,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23952,15 +23952,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1948,
+    "id": 1583,
     "server_id": 2,
     "type": "house",
-    "name": "дом нексайза",
-    "owner": "Andrew_Padington",
+    "name": "продам",
+    "owner": "Ris_Rais",
     "status": "Аукцион",
-    "x": 2620.35,
-    "y": 2148.89,
-    "price": 1500000000,
+    "x": -2282.42,
+    "y": 999.3859,
+    "price": 2500123123,
     "district": "Сан-Андреас"
   },
   {
@@ -26752,7 +26752,7 @@
     "server_id": 2,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Casper_Moneymaker",
+    "owner": "Gorila_Frank",
     "status": "Занято",
     "x": 1521.99,
     "y": -1025.07,
