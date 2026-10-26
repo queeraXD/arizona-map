@@ -12396,18 +12396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1034,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladislav_Greco",
-    "status": "Занято",
-    "x": -2029.92,
-    "y": 745.7719,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1035,
     "server_id": 3,
     "type": "house",
@@ -15559,18 +15547,6 @@
     "owner": "Orno_Dit",
     "status": "Занято",
     "x": -2576.47,
-    "y": -198.7969,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1298,
-    "server_id": 3,
-    "type": "house",
-    "name": "Shadow",
-    "owner": "Nicolas_Anthem",
-    "status": "Занято",
-    "x": -2558.68,
     "y": -198.7969,
     "price": 0,
     "district": "Сан-Андреас"
@@ -20164,7 +20140,7 @@
     "server_id": 3,
     "type": "house",
     "name": "[Family] Mercenari Compound",
-    "owner": "Ian_Knickerbocker",
+    "owner": "Danik_Brr",
     "status": "Занято",
     "x": 26.1798,
     "y": 1168.05,
@@ -24000,6 +23976,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1298,
+    "server_id": 3,
+    "type": "house",
+    "name": "Shadow",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2558.68,
+    "y": -198.7969,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1034,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladislav_Greco",
+    "status": "Аукцион",
+    "x": -2029.92,
+    "y": 745.7719,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1574,
     "server_id": 3,
     "type": "house",
@@ -24009,18 +24009,6 @@
     "x": -2689.48,
     "y": 74.5314,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 3,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Egors_Aldento",
-    "status": "Аукцион",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 145000,
     "district": "Сан-Андреас"
   },
   {
@@ -26120,6 +26108,18 @@
     "status": "Занято",
     "x": 693.619,
     "y": 1967.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 3,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Egors_Aldento",
+    "status": "Занято",
+    "x": -2103.59,
+    "y": -2342.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
