@@ -5284,7 +5284,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Santiz Empire",
-    "owner": "Farmer_McCloud",
+    "owner": "Vanilka_Minion",
     "status": "Занято",
     "x": 2513.33,
     "y": -28.4032,
@@ -6800,18 +6800,6 @@
     "status": "Занято",
     "x": 232.205,
     "y": 1151.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 567,
-    "server_id": 15,
-    "type": "house",
-    "name": "Деревня Шахтера",
-    "owner": "Turbo_Ww",
-    "status": "Занято",
-    "x": 471.803,
-    "y": 1414.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8820,18 +8808,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 735,
-    "server_id": 15,
-    "type": "house",
-    "name": "735",
-    "owner": "Sylvanas_Windrunner",
-    "status": "Занято",
-    "x": -2900.72,
-    "y": 1067.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 736,
     "server_id": 15,
     "type": "house",
@@ -10184,18 +10160,6 @@
     "status": "Занято",
     "x": -2157.62,
     "y": 1117.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 849,
-    "server_id": 15,
-    "type": "house",
-    "name": "849",
-    "owner": "Sylvanas_Windrunner",
-    "status": "Занято",
-    "x": -2158.05,
-    "y": 1148.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14464,7 +14428,7 @@
     "server_id": 15,
     "type": "house",
     "name": "ChaliyHouse",
-    "owner": "Roma_Chaliy",
+    "owner": "Maxim_Chaliy",
     "status": "Занято",
     "x": -2791.85,
     "y": 77.5951,
@@ -15560,18 +15524,6 @@
     "status": "Занято",
     "x": -2840.23,
     "y": 866.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1298,
-    "server_id": 15,
-    "type": "house",
-    "name": " СФ КЛАДЫ ОКРАИНА",
-    "owner": "Lir_Ika",
-    "status": "Занято",
-    "x": -2843.22,
-    "y": 904.429,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21324,6 +21276,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 567,
+    "server_id": 15,
+    "type": "house",
+    "name": "Деревня Шахтера",
+    "owner": "Turbo_Ww",
+    "status": "Аукцион",
+    "x": 471.803,
+    "y": 1414.46,
+    "price": 30123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 735,
+    "server_id": 15,
+    "type": "house",
+    "name": "735",
+    "owner": "Sylvanas_Windrunner",
+    "status": "Аукцион",
+    "x": -2900.72,
+    "y": 1067.02,
+    "price": 701000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 849,
+    "server_id": 15,
+    "type": "house",
+    "name": "849",
+    "owner": "Sylvanas_Windrunner",
+    "status": "Аукцион",
+    "x": -2158.05,
+    "y": 1148.62,
+    "price": 501000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1298,
+    "server_id": 15,
+    "type": "house",
+    "name": " СФ КЛАДЫ ОКРАИНА",
+    "owner": "Lir_Ika",
+    "status": "Аукцион",
+    "x": -2843.22,
+    "y": 904.429,
+    "price": 123123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 15,
     "type": "business",
@@ -23080,7 +23080,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Fofan_McGregor",
+    "owner": "Orsted_DragonGod",
     "status": "Занято",
     "x": 1872.26,
     "y": 2071.74,
