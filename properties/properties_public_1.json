@@ -4656,18 +4656,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 388,
-    "server_id": 1,
-    "type": "house",
-    "name": "BUNKER corp.",
-    "owner": "Leha_Bunker",
-    "status": "Занято",
-    "x": 2363.33,
-    "y": 116.068,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 389,
     "server_id": 1,
     "type": "house",
@@ -5964,6 +5952,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 497,
+    "server_id": 1,
+    "type": "house",
+    "name": "Деп условия,подвал",
+    "owner": "Dzheims_Alkatras",
+    "status": "Занято",
+    "x": 1439.79,
+    "y": 1951.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 498,
     "server_id": 1,
     "type": "house",
@@ -6600,18 +6600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 551,
-    "server_id": 1,
-    "type": "house",
-    "name": "Velikiy Corporation",
-    "owner": "Rimuru_Tempeste",
-    "status": "Занято",
-    "x": 536.656,
-    "y": 1138.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 552,
     "server_id": 1,
     "type": "house",
@@ -7016,30 +7004,6 @@
     "status": "Занято",
     "x": -306.5914,
     "y": 2739.557,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 586,
-    "server_id": 1,
-    "type": "house",
-    "name": "BUNKER corp.",
-    "owner": "Leha_Bunker",
-    "status": "Занято",
-    "x": -582.4019,
-    "y": 2712.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 587,
-    "server_id": 1,
-    "type": "house",
-    "name": "BUNKER corp.",
-    "owner": "Leha_Bunker",
-    "status": "Занято",
-    "x": -604.3229,
-    "y": 2716.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8620,7 +8584,7 @@
     "server_id": 1,
     "type": "house",
     "name": "BUNKER corp",
-    "owner": "Pharaon_MItnes",
+    "owner": "Kyosuke_Kudo",
     "status": "Занято",
     "x": 1608.55,
     "y": 2752.98,
@@ -8907,8 +8871,8 @@
     "id": 743,
     "server_id": 1,
     "type": "house",
-    "name": "BeerЛога",
-    "owner": "Kyosuke_Kudo",
+    "name": "лис",
+    "owner": "Miko_Lov",
     "status": "Занято",
     "x": -2884.17,
     "y": 743.6279,
@@ -11628,6 +11592,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 971,
+    "server_id": 1,
+    "type": "house",
+    "name": "Домик-2",
+    "owner": "Aleksandr_Blake",
+    "status": "Занято",
+    "x": 2532.51,
+    "y": 713.372,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 972,
     "server_id": 1,
     "type": "house",
@@ -13036,7 +13012,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Dillinger/9338008",
-    "owner": "Smena_Pola",
+    "owner": "Psycho_Therapist",
     "status": "Занято",
     "x": -2541.36,
     "y": -118.828,
@@ -16088,18 +16064,6 @@
     "status": "Занято",
     "x": -2233.26,
     "y": 830.567,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1344,
-    "server_id": 1,
-    "type": "house",
-    "name": "Castellano 20/83k",
-    "owner": "Zloy_Jon",
-    "status": "Занято",
-    "x": -2233.26,
-    "y": 848.986,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24144,27 +24108,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 497,
+    "id": 388,
     "server_id": 1,
     "type": "house",
-    "name": "Деп условия,подвал",
-    "owner": "[09]Fly_Ing",
+    "name": "BUNKER corp.",
+    "owner": "Leha_Bunker",
     "status": "Аукцион",
-    "x": 1439.79,
-    "y": 1951.65,
+    "x": 2363.33,
+    "y": 116.068,
+    "price": 5500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 551,
+    "server_id": 1,
+    "type": "house",
+    "name": "Velikiy Corporation",
+    "owner": "Rimuru_Tempeste",
+    "status": "Аукцион",
+    "x": 536.656,
+    "y": 1138.79,
+    "price": 3450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 586,
+    "server_id": 1,
+    "type": "house",
+    "name": "BUNKER corp.",
+    "owner": "Leha_Bunker",
+    "status": "Аукцион",
+    "x": -582.4019,
+    "y": 2712.93,
     "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 971,
+    "id": 587,
     "server_id": 1,
     "type": "house",
-    "name": "Домик-2",
-    "owner": "Aleksandr_Blake",
+    "name": "BUNKER corp.",
+    "owner": "Leha_Bunker",
     "status": "Аукцион",
-    "x": 2532.51,
-    "y": 713.372,
-    "price": 2000000000,
+    "x": -604.3229,
+    "y": 2716.72,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1344,
+    "server_id": 1,
+    "type": "house",
+    "name": "Castellano 20/83k",
+    "owner": "Zloy_Jon",
+    "status": "Аукцион",
+    "x": -2233.26,
+    "y": 848.986,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25996,7 +25996,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Kyosuke_Kudo",
+    "owner": "Tetsu_Sugimoto",
     "status": "Занято",
     "x": -2356.45,
     "y": 1008.19,

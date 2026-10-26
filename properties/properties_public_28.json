@@ -3748,7 +3748,7 @@
     "server_id": 28,
     "type": "house",
     "name": "TheProga",
-    "owner": "Proga_Soprano",
+    "owner": "Tony_Soprano",
     "status": "Занято",
     "x": 1934.05,
     "y": -1071.5,
@@ -5324,18 +5324,6 @@
     "status": "Занято",
     "x": 2370.23,
     "y": -1034.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 444,
-    "server_id": 28,
-    "type": "house",
-    "name": "Sund House",
-    "owner": "Sund_Box",
-    "status": "Занято",
-    "x": 2355.7,
-    "y": -1039.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8524,7 +8512,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Takeshi House 5",
-    "owner": "Proga_Soprano",
+    "owner": "Tony_Soprano",
     "status": "Занято",
     "x": 1610.94,
     "y": 2648.2,
@@ -9592,7 +9580,7 @@
     "server_id": 28,
     "type": "house",
     "name": "TheProga",
-    "owner": "Proga_Soprano",
+    "owner": "Tony_Soprano",
     "status": "Занято",
     "x": -2372.53,
     "y": 784.028,
@@ -15408,18 +15396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1285,
-    "server_id": 28,
-    "type": "house",
-    "name": "MVZ House",
-    "owner": "Bite_Donbass",
-    "status": "Занято",
-    "x": -2621.02,
-    "y": -134.798,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1286,
     "server_id": 28,
     "type": "house",
@@ -19680,30 +19656,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1642,
-    "server_id": 28,
-    "type": "house",
-    "name": ":UF259: Тёмный Друн :UF259:",
-    "owner": "Nik_For",
-    "status": "Занято",
-    "x": 2824.04,
-    "y": 2275.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1643,
-    "server_id": 28,
-    "type": "house",
-    "name": "Поместья соупа",
-    "owner": "Nik_For",
-    "status": "Занято",
-    "x": 2816.66,
-    "y": 2274.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1644,
     "server_id": 28,
     "type": "house",
@@ -19748,18 +19700,6 @@
     "status": "Занято",
     "x": 2794.3,
     "y": 2260.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1648,
-    "server_id": 28,
-    "type": "house",
-    "name": "[LV-1648] South East",
-    "owner": "Polina_Diablo",
-    "status": "Занято",
-    "x": 2788.04,
-    "y": 2260.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20540,6 +20480,18 @@
     "status": "Занято",
     "x": 2473.95,
     "y": 997.5109,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1714,
+    "server_id": 28,
+    "type": "house",
+    "name": "антимонополия",
+    "owner": "Akio_Watanabe",
+    "status": "Занято",
+    "x": 1976.21,
+    "y": -1633.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22356,6 +22308,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 444,
+    "server_id": 28,
+    "type": "house",
+    "name": "Sund House",
+    "owner": "Sund_Box",
+    "status": "Аукцион",
+    "x": 2355.7,
+    "y": -1039.24,
+    "price": 2200,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1285,
+    "server_id": 28,
+    "type": "house",
+    "name": "MVZ House",
+    "owner": "Bite_Donbass",
+    "status": "Аукцион",
+    "x": -2621.02,
+    "y": -134.798,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1446,
     "server_id": 28,
     "type": "house",
@@ -22364,19 +22340,43 @@
     "status": "Аукцион",
     "x": 885.4719,
     "y": 1895.58,
+    "price": 2500,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1642,
+    "server_id": 28,
+    "type": "house",
+    "name": ":UF259: Тёмный Друн :UF259:",
+    "owner": "Nik_For",
+    "status": "Аукцион",
+    "x": 2824.04,
+    "y": 2275.02,
     "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1714,
+    "id": 1643,
     "server_id": 28,
     "type": "house",
-    "name": "антимонополия",
-    "owner": "Jose_Rose",
+    "name": "Поместья соупа",
+    "owner": "Nik_For",
     "status": "Аукцион",
-    "x": 1976.21,
-    "y": -1633.99,
-    "price": 500000000,
+    "x": 2816.66,
+    "y": 2274.99,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1648,
+    "server_id": 28,
+    "type": "house",
+    "name": "[LV-1648] South East",
+    "owner": "Polina_Diablo",
+    "status": "Аукцион",
+    "x": 2788.04,
+    "y": 2260.95,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {

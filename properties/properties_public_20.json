@@ -3468,18 +3468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 289,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Japanase_Girl",
-    "status": "Занято",
-    "x": 2534.44,
-    "y": -1063.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 290,
     "server_id": 20,
     "type": "house",
@@ -11484,18 +11472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 957,
-    "server_id": 20,
-    "type": "house",
-    "name": "спалка",
-    "owner": "Tana_Lasuria",
-    "status": "Занято",
-    "x": -2211.09,
-    "y": 933.7139,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 958,
     "server_id": 20,
     "type": "house",
@@ -11968,7 +11944,7 @@
     "server_id": 20,
     "type": "house",
     "name": "top house",
-    "owner": "Akinator_Inator",
+    "owner": "Christopher_Trizzers",
     "status": "Занято",
     "x": -2373.39,
     "y": 834.4459,
@@ -12508,7 +12484,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Все подвалы гараж и крутая инта",
-    "owner": "Majorka_Kladmens",
+    "owner": "Cold_Brilliant",
     "status": "Занято",
     "x": -1742.51,
     "y": 1174.37,
@@ -15723,8 +15699,8 @@
     "id": 1310,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
-    "owner": "Danya_Archive",
+    "name": "бомжатник",
+    "owner": "Yuki_Yatoro",
     "status": "Занято",
     "x": -2515.38,
     "y": -153.9839,
@@ -19476,18 +19452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1624,
-    "server_id": 20,
-    "type": "house",
-    "name": "кнайт",
-    "owner": "Nepriyatniy_Chelovek",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2154.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1625,
     "server_id": 20,
     "type": "house",
@@ -20244,18 +20208,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1688,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bashkiria_Tatarstan",
-    "status": "Занято",
-    "x": 2613.5,
-    "y": 719.559,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1689,
     "server_id": 20,
     "type": "house",
@@ -20307,8 +20259,8 @@
     "id": 1693,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
-    "owner": "Bashkiria_Tatarstan",
+    "name": "exuberanteeee ",
+    "owner": "Afanasy_Exuberante",
     "status": "Занято",
     "x": 2579.08,
     "y": 719.564,
@@ -21320,6 +21272,18 @@
     "status": "Занято",
     "x": 1743.18,
     "y": 2778.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1778,
+    "server_id": 20,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Christopher_Trizzers",
+    "status": "Занято",
+    "x": 1754.51,
+    "y": 2736.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22344,6 +22308,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 289,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Japanase_Girl",
+    "status": "Аукцион",
+    "x": 2534.44,
+    "y": -1063.42,
+    "price": 300123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 957,
+    "server_id": 20,
+    "type": "house",
+    "name": "спалка",
+    "owner": "Tana_Lasuria",
+    "status": "Аукцион",
+    "x": -2211.09,
+    "y": 933.7139,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1596,
     "server_id": 20,
     "type": "house",
@@ -22356,15 +22344,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1778,
+    "id": 1624,
     "server_id": 20,
     "type": "house",
-    "name": "деп условия",
-    "owner": "Akinator_Inator",
+    "name": "кнайт",
+    "owner": "Nepriyatniy_Chelovek",
     "status": "Аукцион",
-    "x": 1754.51,
-    "y": 2736.01,
-    "price": 450000000,
+    "x": 2003.69,
+    "y": 2154.54,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1688,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Rampage_Cult",
+    "status": "Аукцион",
+    "x": 2613.5,
+    "y": 719.559,
+    "price": 2000,
     "district": "Сан-Андреас"
   },
   {
