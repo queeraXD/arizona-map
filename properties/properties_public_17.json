@@ -9424,7 +9424,7 @@
     "server_id": 17,
     "type": "house",
     "name": "ты тацнуй со мной нананнааа",
-    "owner": "Artemka_Starsik",
+    "owner": "Vkusno_Itochka",
     "status": "Занято",
     "x": -2513.5,
     "y": 867.418,
@@ -9692,18 +9692,6 @@
     "status": "Занято",
     "x": -2723.12,
     "y": -112.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 808,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": -2722.88,
-    "y": -127.9029,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10148,18 +10136,6 @@
     "status": "Занято",
     "x": -2209.65,
     "y": 1079.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 846,
-    "server_id": 17,
-    "type": "house",
-    "name": "Monopoly",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": -2191.59,
-    "y": 1080.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11184,18 +11160,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 932,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": -2017.94,
-    "y": 970.2399,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 933,
     "server_id": 17,
     "type": "house",
@@ -11420,18 +11384,6 @@
     "status": "Занято",
     "x": -2230.74,
     "y": 1027.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 952,
-    "server_id": 17,
-    "type": "house",
-    "name": "Джона Хата",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": -2159.84,
-    "y": 1001.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13476,18 +13428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1123,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Verify_Maratovich",
-    "status": "Занято",
-    "x": 1802.84,
-    "y": -1300.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1124,
     "server_id": 17,
     "type": "house",
@@ -14612,18 +14552,6 @@
     "status": "Занято",
     "x": -2630.92,
     "y": 253.0829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1218,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": -2634.61,
-    "y": 261.0169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22473,6 +22401,78 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 808,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Spike_Scout",
+    "status": "Аукцион",
+    "x": -2722.88,
+    "y": -127.9029,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 846,
+    "server_id": 17,
+    "type": "house",
+    "name": "Monopoly",
+    "owner": "Spike_Scout",
+    "status": "Аукцион",
+    "x": -2191.59,
+    "y": 1080.32,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 932,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Spike_Scout",
+    "status": "Аукцион",
+    "x": -2017.94,
+    "y": 970.2399,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 952,
+    "server_id": 17,
+    "type": "house",
+    "name": "Джона Хата",
+    "owner": "Spike_Scout",
+    "status": "Аукцион",
+    "x": -2159.84,
+    "y": 1001.99,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1123,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Verify_Maratovich",
+    "status": "Аукцион",
+    "x": 1802.84,
+    "y": -1300.9,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1218,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Spike_Scout",
+    "status": "Аукцион",
+    "x": -2634.61,
+    "y": 261.0169,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {

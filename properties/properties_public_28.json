@@ -2400,6 +2400,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 200,
+    "server_id": 28,
+    "type": "house",
+    "name": "Alabaev",
+    "owner": "Aleksey_Alabaev",
+    "status": "Занято",
+    "x": 1468.62,
+    "y": -905.5709,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 201,
     "server_id": 28,
     "type": "house",
@@ -5312,6 +5324,18 @@
     "status": "Занято",
     "x": 2370.23,
     "y": -1034.98,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 444,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sund_Box",
+    "status": "Занято",
+    "x": 2355.7,
+    "y": -1039.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14412,18 +14436,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1204,
-    "server_id": 28,
-    "type": "house",
-    "name": "топ хата",
-    "owner": "Nik_For",
-    "status": "Занято",
-    "x": -2791.59,
-    "y": 200.561,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1205,
     "server_id": 28,
     "type": "house",
@@ -15448,7 +15460,7 @@
     "server_id": 28,
     "type": "house",
     "name": "дом отдела",
-    "owner": "Ludwig_Beethoven",
+    "owner": "Racing_Bulls",
     "status": "Занято",
     "x": -2576.54,
     "y": -82.9039,
@@ -15712,7 +15724,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Lucifer_Asher",
+    "owner": "Raptor_Infinity",
     "status": "Занято",
     "x": -65.1806,
     "y": -1573.88,
@@ -19668,30 +19680,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1642,
-    "server_id": 28,
-    "type": "house",
-    "name": ":UF259: Тёмный Друн :UF259:",
-    "owner": "Nik_For",
-    "status": "Занято",
-    "x": 2824.04,
-    "y": 2275.02,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1643,
-    "server_id": 28,
-    "type": "house",
-    "name": "Поместья соупа",
-    "owner": "Nik_For",
-    "status": "Занято",
-    "x": 2816.66,
-    "y": 2274.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1644,
     "server_id": 28,
     "type": "house",
@@ -20484,18 +20472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1710,
-    "server_id": 28,
-    "type": "house",
-    "name": "FARMILA",
-    "owner": "Nik_For",
-    "status": "Занято",
-    "x": 2445.16,
-    "y": 1003.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1711,
     "server_id": 28,
     "type": "house",
@@ -20740,7 +20716,7 @@
     "server_id": 28,
     "type": "house",
     "name": "неприметный дом отдела",
-    "owner": "Ludwig_Beethoven",
+    "owner": "Iflexick_Nyshka",
     "status": "Занято",
     "x": 2615.11,
     "y": -1229.28,
@@ -21556,7 +21532,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Притон",
-    "owner": "Denny_Sweetline",
+    "owner": "Hans_Landaa",
     "status": "Занято",
     "x": -2843.69,
     "y": -2269.19,
@@ -22344,18 +22320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 444,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2355.7,
-    "y": -1039.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1866,
     "server_id": 28,
     "type": "house",
@@ -22368,15 +22332,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 200,
+    "id": 1204,
     "server_id": 28,
     "type": "house",
-    "name": "Kend",
-    "owner": "Государство",
+    "name": "топ хата",
+    "owner": "Nik_For",
     "status": "Аукцион",
-    "x": 1468.62,
-    "y": -905.5709,
-    "price": 10000000,
+    "x": -2791.59,
+    "y": 200.561,
+    "price": 279000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1642,
+    "server_id": 28,
+    "type": "house",
+    "name": ":UF259: Тёмный Друн :UF259:",
+    "owner": "Nik_For",
+    "status": "Аукцион",
+    "x": 2824.04,
+    "y": 2275.02,
+    "price": 199000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1643,
+    "server_id": 28,
+    "type": "house",
+    "name": "Поместья соупа",
+    "owner": "Nik_For",
+    "status": "Аукцион",
+    "x": 2816.66,
+    "y": 2274.99,
+    "price": 199000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1710,
+    "server_id": 28,
+    "type": "house",
+    "name": "FARMILA",
+    "owner": "Nik_For",
+    "status": "Аукцион",
+    "x": 2445.16,
+    "y": 1003.58,
+    "price": 279000000,
     "district": "Сан-Андреас"
   },
   {

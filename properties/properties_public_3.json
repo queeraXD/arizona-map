@@ -3300,18 +3300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 275,
-    "server_id": 3,
-    "type": "house",
-    "name": "Admin House",
-    "owner": "Primal_Peacemaker",
-    "status": "Занято",
-    "x": 2579.67,
-    "y": -1033.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 276,
     "server_id": 3,
     "type": "house",
@@ -5504,18 +5492,6 @@
     "status": "Занято",
     "x": 2094.12,
     "y": 650.4459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 459,
-    "server_id": 3,
-    "type": "house",
-    "name": "yagoda house",
-    "owner": "Yushin_Greco",
-    "status": "Занято",
-    "x": 2091.25,
-    "y": 694.6959,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18876,6 +18852,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1574,
+    "server_id": 3,
+    "type": "house",
+    "name": "Al-Sa_Xim",
+    "owner": "Rasalghul_Creed",
+    "status": "Занято",
+    "x": -2689.48,
+    "y": 74.5314,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1575,
     "server_id": 3,
     "type": "house",
@@ -19512,18 +19500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1628,
-    "server_id": 3,
-    "type": "house",
-    "name": "Деп_Условия",
-    "owner": "Yushin_Greco",
-    "status": "Занято",
-    "x": 1957.05,
-    "y": 677.9479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1629,
     "server_id": 3,
     "type": "house",
@@ -20012,18 +19988,6 @@
     "status": "Занято",
     "x": 2608.16,
     "y": -1233.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1670,
-    "server_id": 3,
-    "type": "house",
-    "name": "Veritas Familly",
-    "owner": "Vladislav_Greco",
-    "status": "Занято",
-    "x": 2615.11,
-    "y": -1238.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24000,15 +23964,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1574,
+    "id": 275,
     "server_id": 3,
     "type": "house",
-    "name": "1 of ?",
-    "owner": "Государство",
+    "name": "бава",
+    "owner": "Primal_Peacemaker",
     "status": "Аукцион",
-    "x": -2689.48,
-    "y": 74.5314,
-    "price": 10000000,
+    "x": 2579.67,
+    "y": -1033.2,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 459,
+    "server_id": 3,
+    "type": "house",
+    "name": "yagoda house",
+    "owner": "Yushin_Greco",
+    "status": "Аукцион",
+    "x": 2091.25,
+    "y": 694.6959,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1628,
+    "server_id": 3,
+    "type": "house",
+    "name": "Деп_Условия",
+    "owner": "Yushin_Greco",
+    "status": "Аукцион",
+    "x": 1957.05,
+    "y": 677.9479,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1670,
+    "server_id": 3,
+    "type": "house",
+    "name": "Veritas Familly",
+    "owner": "Vladislav_Greco",
+    "status": "Аукцион",
+    "x": 2615.11,
+    "y": -1238.07,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

@@ -5619,8 +5619,8 @@
     "id": 468,
     "server_id": 1,
     "type": "house",
-    "name": "Chapman Fam #1 | Wednesday",
-    "owner": "Wednesday_Addams",
+    "name": "дом легенд ",
+    "owner": "Maks_Ssoldatov",
     "status": "Занято",
     "x": 2368.36,
     "y": 654.8389,
@@ -7736,18 +7736,6 @@
     "status": "Занято",
     "x": 1956.63,
     "y": 714.864,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 645,
-    "server_id": 1,
-    "type": "house",
-    "name": "ЗОМБИ СМАЕВ",
-    "owner": "Inj_Ury",
-    "status": "Занято",
-    "x": 1978.33,
-    "y": 715.1459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11636,6 +11624,18 @@
     "status": "Занято",
     "x": 2571.53,
     "y": 719.5599,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 971,
+    "server_id": 1,
+    "type": "house",
+    "name": "Домик-2",
+    "owner": "Aleksandr_Blake",
+    "status": "Занято",
+    "x": 2532.51,
+    "y": 713.372,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20040,18 +20040,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1672,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "James_Stechkin",
-    "status": "Занято",
-    "x": 451.575,
-    "y": 1246.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1673,
     "server_id": 1,
     "type": "house",
@@ -20216,18 +20204,6 @@
     "status": "Занято",
     "x": 985.283,
     "y": 2367.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1687,
-    "server_id": 1,
-    "type": "house",
-    "name": "деп условия",
-    "owner": "Crystal_Moyot",
-    "status": "Занято",
-    "x": 932.8909,
-    "y": 2271.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24156,15 +24132,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 971,
+    "id": 645,
     "server_id": 1,
     "type": "house",
-    "name": "Домик-2",
-    "owner": "Aleksandr_Blake",
+    "name": "pes family",
+    "owner": "Inj_Ury",
     "status": "Аукцион",
-    "x": 2532.51,
-    "y": 713.372,
-    "price": 2000000000,
+    "x": 1978.33,
+    "y": 715.1459,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1672,
+    "server_id": 1,
+    "type": "house",
+    "name": "Дом",
+    "owner": "James_Stechkin",
+    "status": "Аукцион",
+    "x": 451.575,
+    "y": 1246.8,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1687,
+    "server_id": 1,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Crystal_Moyot",
+    "status": "Аукцион",
+    "x": 932.8909,
+    "y": 2271.17,
+    "price": 1801231231,
     "district": "Сан-Андреас"
   },
   {

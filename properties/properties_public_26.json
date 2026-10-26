@@ -3448,7 +3448,7 @@
     "server_id": 26,
     "type": "house",
     "name": "Дом",
-    "owner": "Maga_Smith",
+    "owner": "Euro_Vision",
     "status": "Занято",
     "x": 2491.35,
     "y": -1012.34,
@@ -4836,18 +4836,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 403,
-    "server_id": 26,
-    "type": "house",
-    "name": "База NATO",
-    "owner": "[06]Maria_Borowa",
-    "status": "Занято",
-    "x": 2411.22,
-    "y": -5.5777,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 404,
     "server_id": 26,
     "type": "house",
@@ -4863,7 +4851,7 @@
     "id": 405,
     "server_id": 26,
     "type": "house",
-    "name": "BURMALDA HOUSE",
+    "name": "Collins",
     "owner": "Ice_Collins",
     "status": "Занято",
     "x": 1451.08,
@@ -11708,6 +11696,18 @@
     "status": "Занято",
     "x": -2422.26,
     "y": 2491.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 978,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Занято",
+    "x": 459.147,
+    "y": 1339.13,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19492,7 +19492,7 @@
     "server_id": 26,
     "type": "house",
     "name": "mahonez",
-    "owner": "Sky_Winter",
+    "owner": "Sky_Mahonez",
     "status": "Занято",
     "x": -2471.71,
     "y": 895.239,
@@ -21604,7 +21604,7 @@
     "server_id": 26,
     "type": "house",
     "name": "lovla detalek",
-    "owner": "Maga_Smith",
+    "owner": "Emmanu_Later",
     "status": "Занято",
     "x": 2357.05,
     "y": 1041.02,
@@ -25140,27 +25140,27 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 403,
+    "server_id": 26,
+    "type": "house",
+    "name": "База NATO",
+    "owner": "[06]Maria_Borowa",
+    "status": "Аукцион",
+    "x": 2411.22,
+    "y": -5.5777,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 586,
     "server_id": 26,
     "type": "house",
     "name": "Дом",
-    "owner": "Michail_Shtyh",
+    "owner": "Sky_Mahonez",
     "status": "Аукцион",
     "x": -582.4019,
     "y": 2712.93,
-    "price": 50123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 978,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
-    "status": "Аукцион",
-    "x": 459.147,
-    "y": 1339.13,
-    "price": 250123123,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25185,42 +25185,6 @@
     "x": -767.0599,
     "y": 2765.41,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 27,
-    "server_id": 26,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Ilya_Andreev",
-    "status": "Аукцион",
-    "x": 31.576,
-    "y": -2638.06,
-    "price": 220000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 56,
-    "server_id": 26,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ilya_Andreev",
-    "status": "Аукцион",
-    "x": 1671.52,
-    "y": 1814.33,
-    "price": 220000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 180,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Ilya_Andreev",
-    "status": "Аукцион",
-    "x": -63.12,
-    "y": 1208.9,
-    "price": 130000,
     "district": "Сан-Андреас"
   },
   {
@@ -26472,6 +26436,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 27,
+    "server_id": 26,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Ilya_Andreev",
+    "status": "Занято",
+    "x": 31.576,
+    "y": -2638.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 28,
     "server_id": 26,
     "type": "business",
@@ -27420,6 +27396,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 56,
+    "server_id": 26,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ilya_Andreev",
+    "status": "Занято",
+    "x": 1671.52,
+    "y": 1814.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 57,
     "server_id": 26,
     "type": "business",
@@ -27992,6 +27980,18 @@
     "status": "Занято",
     "x": 1521.99,
     "y": -1025.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 180,
+    "server_id": 26,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Ilya_Andreev",
+    "status": "Занято",
+    "x": -63.12,
+    "y": 1208.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
