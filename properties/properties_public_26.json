@@ -6108,6 +6108,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 509,
+    "server_id": 26,
+    "type": "house",
+    "name": "Трап хата тундры",
+    "owner": "Udo_Nakamura",
+    "status": "Занято",
+    "x": -2219.84,
+    "y": -2400.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 510,
     "server_id": 26,
     "type": "house",
@@ -7016,18 +7028,6 @@
     "status": "Занято",
     "x": -306.5914,
     "y": 2739.557,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 586,
-    "server_id": 26,
-    "type": "house",
-    "name": "BadBoys house",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -582.4019,
-    "y": 2712.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8436,6 +8436,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 704,
+    "server_id": 26,
+    "type": "house",
+    "name": "nakamura",
+    "owner": "Udo_Nakamura",
+    "status": "Занято",
+    "x": -2192.57,
+    "y": -2509.96,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 705,
     "server_id": 26,
     "type": "house",
@@ -8468,6 +8480,18 @@
     "status": "Занято",
     "x": 1600.52,
     "y": 2609.73,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 708,
+    "server_id": 26,
+    "type": "house",
+    "name": "nakamura",
+    "owner": "Udo_Nakamura",
+    "status": "Занято",
+    "x": -2180.58,
+    "y": -2519.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8788,7 +8812,7 @@
     "server_id": 26,
     "type": "house",
     "name": "База NATO",
-    "owner": "Shkiper_Suon",
+    "owner": "Igor_Prokuratura",
     "status": "Занято",
     "x": -2900.72,
     "y": 1067.02,
@@ -11684,18 +11708,6 @@
     "status": "Занято",
     "x": -2422.26,
     "y": 2491.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 978,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": 459.147,
-    "y": 1339.13,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22192,7 +22204,7 @@
     "server_id": 26,
     "type": "house",
     "name": "майн",
-    "owner": "Annchesi_Onyxflare",
+    "owner": "Awe_Some",
     "status": "Занято",
     "x": 2003.68,
     "y": 2158.85,
@@ -25128,39 +25140,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 509,
+    "id": 586,
     "server_id": 26,
     "type": "house",
-    "name": "Трап хата тундры",
-    "owner": "Udo_Nakamura",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
     "status": "Аукцион",
-    "x": -2219.84,
-    "y": -2400.34,
-    "price": 395000000,
+    "x": -582.4019,
+    "y": 2712.93,
+    "price": 50123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 704,
+    "id": 978,
     "server_id": 26,
     "type": "house",
-    "name": "nakamura",
-    "owner": "Udo_Nakamura",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
     "status": "Аукцион",
-    "x": -2192.57,
-    "y": -2509.96,
-    "price": 395000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 708,
-    "server_id": 26,
-    "type": "house",
-    "name": "nakamura",
-    "owner": "Udo_Nakamura",
-    "status": "Аукцион",
-    "x": -2180.58,
-    "y": -2519.39,
-    "price": 395000000,
+    "x": 459.147,
+    "y": 1339.13,
+    "price": 250123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25185,6 +25185,42 @@
     "x": -767.0599,
     "y": 2765.41,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 27,
+    "server_id": 26,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Ilya_Andreev",
+    "status": "Аукцион",
+    "x": 31.576,
+    "y": -2638.06,
+    "price": 220000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 56,
+    "server_id": 26,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ilya_Andreev",
+    "status": "Аукцион",
+    "x": 1671.52,
+    "y": 1814.33,
+    "price": 220000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 180,
+    "server_id": 26,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Ilya_Andreev",
+    "status": "Аукцион",
+    "x": -63.12,
+    "y": 1208.9,
+    "price": 130000,
     "district": "Сан-Андреас"
   },
   {
@@ -26436,18 +26472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
-    "server_id": 26,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Ilya_Andreev",
-    "status": "Занято",
-    "x": 31.576,
-    "y": -2638.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 28,
     "server_id": 26,
     "type": "business",
@@ -27396,18 +27420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 56,
-    "server_id": 26,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ilya_Andreev",
-    "status": "Занято",
-    "x": 1671.52,
-    "y": 1814.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 57,
     "server_id": 26,
     "type": "business",
@@ -27980,18 +27992,6 @@
     "status": "Занято",
     "x": 1521.99,
     "y": -1025.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 180,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Ilya_Andreev",
-    "status": "Занято",
-    "x": -63.12,
-    "y": 1208.9,
     "price": 0,
     "district": "Сан-Андреас"
   },

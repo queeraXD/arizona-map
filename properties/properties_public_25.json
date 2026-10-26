@@ -4068,6 +4068,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 341,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Black_Rock",
+    "status": "Занято",
+    "x": 723.6119,
+    "y": 269.678,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 342,
     "server_id": 25,
     "type": "house",
@@ -6668,6 +6680,18 @@
     "status": "Занято",
     "x": 244.8269,
     "y": 1130.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 566,
+    "server_id": 25,
+    "type": "house",
+    "name": "OPG BUGROV",
+    "owner": "Tsunematsu_Requem",
+    "status": "Занято",
+    "x": 232.205,
+    "y": 1151.6,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9976,7 +10000,7 @@
     "server_id": 25,
     "type": "house",
     "name": "пристанище Hiroshima",
-    "owner": "Vito_Stark",
+    "owner": "Red_Rocket",
     "status": "Занято",
     "x": -2227.76,
     "y": 1107.37,
@@ -12508,7 +12532,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Vito_Stark",
+    "owner": "Red_Rocket",
     "status": "Занято",
     "x": -1901.0,
     "y": 1203.07,
@@ -15020,6 +15044,18 @@
     "status": "Занято",
     "x": -2356.74,
     "y": 580.0269,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1265,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Devilish_Smoke",
+    "status": "Занято",
+    "x": -2338.49,
+    "y": 580.0319,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19104,18 +19140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1606,
-    "server_id": 25,
-    "type": "house",
-    "name": "Captain Levi",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": 2621.06,
-    "y": 713.2249,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1607,
     "server_id": 25,
     "type": "house",
@@ -19876,7 +19900,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Stark",
-    "owner": "Vito_Stark",
+    "owner": "Leonid_Odessit",
     "status": "Занято",
     "x": 2357.05,
     "y": 1041.02,
@@ -19892,6 +19916,18 @@
     "status": "Занято",
     "x": 2357.04,
     "y": 1031.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1672,
+    "server_id": 25,
+    "type": "house",
+    "name": "Ferma 5/ресурсы",
+    "owner": "Vagulik_Yava",
+    "status": "Занято",
+    "x": 2357.04,
+    "y": 1021.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21040,7 +21076,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Vito_Stark",
+    "owner": "ImLeaving_ToTokyo",
     "status": "Занято",
     "x": 2003.69,
     "y": 2154.49,
@@ -23628,18 +23664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 341,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Adrenaline_Bishop",
-    "status": "Аукцион",
-    "x": 723.6119,
-    "y": 269.678,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 374,
     "server_id": 25,
     "type": "house",
@@ -23724,18 +23748,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 566,
-    "server_id": 25,
-    "type": "house",
-    "name": "OPG BUGROV",
-    "owner": "Tsunematsu_Requem",
-    "status": "Аукцион",
-    "x": 232.205,
-    "y": 1151.6,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 917,
     "server_id": 25,
     "type": "house",
@@ -23748,27 +23760,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1265,
+    "id": 1606,
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Devilish_Smoke",
+    "owner": "Michail_Shtyh",
     "status": "Аукцион",
-    "x": -2338.49,
-    "y": 580.0319,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1672,
-    "server_id": 25,
-    "type": "house",
-    "name": "Ferma 5/ресурсы",
-    "owner": "Vagulik_Yava",
-    "status": "Аукцион",
-    "x": 2357.04,
-    "y": 1021.88,
-    "price": 200123123,
+    "x": 2621.06,
+    "y": 713.2249,
+    "price": 120123123,
     "district": "Сан-Андреас"
   },
   {
