@@ -5068,7 +5068,7 @@
     "server_id": 11,
     "type": "house",
     "name": "Кефир Монополия",
-    "owner": "Elliot_Monopoly",
+    "owner": "Mysterious_Game",
     "status": "Занято",
     "x": 1312.43,
     "y": 170.811,
@@ -5192,18 +5192,6 @@
     "status": "Занято",
     "x": 2279.2,
     "y": -1076.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 433,
-    "server_id": 11,
-    "type": "house",
-    "name": "Потайная лавка",
-    "owner": "Elliot_Monopoly",
-    "status": "Занято",
-    "x": 2284.16,
-    "y": -1046.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6980,18 +6968,6 @@
     "status": "Занято",
     "x": -287.4519,
     "y": 2758.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 582,
-    "server_id": 11,
-    "type": "house",
-    "name": "Ку ",
-    "owner": "Elliot_Monopoly",
-    "status": "Занято",
-    "x": -275.376,
-    "y": 2736.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20484,6 +20460,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1720,
+    "server_id": 11,
+    "type": "house",
+    "name": "Arasaka Tower",
+    "owner": "Len_Monopoly",
+    "status": "Занято",
+    "x": 2461.41,
+    "y": 1682.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1721,
     "server_id": 11,
     "type": "house",
@@ -21552,6 +21540,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1810,
+    "server_id": 11,
+    "type": "house",
+    "name": "Arasaka Tower",
+    "owner": "Arima_Arasaka",
+    "status": "Занято",
+    "x": 2476.25,
+    "y": 1682.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1811,
     "server_id": 11,
     "type": "house",
@@ -21607,6 +21607,18 @@
     "owner": "August_Via",
     "status": "Занято",
     "x": 2501.33,
+    "y": 1682.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1816,
+    "server_id": 11,
+    "type": "house",
+    "name": "Arasaka Tower",
+    "owner": "Arima_Arasaka",
+    "status": "Занято",
+    "x": 2506.33,
     "y": 1682.87,
     "price": 0,
     "district": "Сан-Андреас"
@@ -24468,6 +24480,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 433,
+    "server_id": 11,
+    "type": "house",
+    "name": "Потайная лавка",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2284.16,
+    "y": -1046.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 582,
+    "server_id": 11,
+    "type": "house",
+    "name": "Ку ",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -275.376,
+    "y": 2736.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1087,
     "server_id": 11,
     "type": "house",
@@ -24609,90 +24645,6 @@
     "x": -2476.97,
     "y": 1273.94,
     "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1720,
-    "server_id": 11,
-    "type": "house",
-    "name": "Arasaka Tower",
-    "owner": "Arima_Arasaka",
-    "status": "Аукцион",
-    "x": 2461.41,
-    "y": 1682.87,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1810,
-    "server_id": 11,
-    "type": "house",
-    "name": "Arasaka Tower",
-    "owner": "Arima_Arasaka",
-    "status": "Аукцион",
-    "x": 2476.25,
-    "y": 1682.87,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1816,
-    "server_id": 11,
-    "type": "house",
-    "name": "Arasaka Tower",
-    "owner": "Arima_Arasaka",
-    "status": "Аукцион",
-    "x": 2506.33,
-    "y": 1682.87,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 92,
-    "server_id": 11,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Triumph_Monopoly",
-    "status": "Аукцион",
-    "x": 1951.44,
-    "y": 1342.93,
-    "price": 9000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 189,
-    "server_id": 11,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Triumph_Monopoly",
-    "status": "Аукцион",
-    "x": -1981.62,
-    "y": 174.636,
-    "price": 9000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 218,
-    "server_id": 11,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Triumph_Monopoly",
-    "status": "Аукцион",
-    "x": 1500.24,
-    "y": -1628.79,
-    "price": 9000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 266,
-    "server_id": 11,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Triumph_Monopoly",
-    "status": "Аукцион",
-    "x": 947.921,
-    "y": 1719.16,
-    "price": 9000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24980,6 +24932,18 @@
     "status": "Занято",
     "x": 2186.91,
     "y": 1113.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 92,
+    "server_id": 11,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Triumph_Monopoly",
+    "status": "Занято",
+    "x": 1951.44,
+    "y": 1342.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27588,6 +27552,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 189,
+    "server_id": 11,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Triumph_Monopoly",
+    "status": "Занято",
+    "x": -1981.62,
+    "y": 174.636,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 190,
     "server_id": 11,
     "type": "business",
@@ -27852,6 +27828,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 218,
+    "server_id": 11,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Triumph_Monopoly",
+    "status": "Занято",
+    "x": 1500.24,
+    "y": -1628.79,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 219,
     "server_id": 11,
     "type": "business",
@@ -27860,6 +27848,18 @@
     "status": "Занято",
     "x": 2824.77,
     "y": 1290.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 266,
+    "server_id": 11,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Triumph_Monopoly",
+    "status": "Занято",
+    "x": 947.921,
+    "y": 1719.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
