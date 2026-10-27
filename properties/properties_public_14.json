@@ -8232,18 +8232,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 686,
-    "server_id": 14,
-    "type": "house",
-    "name": "1/15(ресы)",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": 1223.02,
-    "y": 2616.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 687,
     "server_id": 14,
     "type": "house",
@@ -8800,7 +8788,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Exclusive Dynasty",
-    "owner": "Oleg_Riot",
+    "owner": "Kigo_Hozyainov",
     "status": "Занято",
     "x": -2904.9,
     "y": 1178.92,
@@ -9944,18 +9932,6 @@
     "status": "Занято",
     "x": -2721.08,
     "y": -44.7512,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 829,
-    "server_id": 14,
-    "type": "house",
-    "name": "Вера В Завтра",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": -2720.98,
-    "y": -23.3173,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23076,18 +23052,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1928,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Anthony_McKenzie",
-    "status": "Занято",
-    "x": 1728.1,
-    "y": 2834.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1929,
     "server_id": 14,
     "type": "house",
@@ -23697,6 +23661,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 686,
+    "server_id": 14,
+    "type": "house",
+    "name": "1/15(ресы)",
+    "owner": "OneWay_Ticket",
+    "status": "Аукцион",
+    "x": 1223.02,
+    "y": 2616.74,
+    "price": 999999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 829,
+    "server_id": 14,
+    "type": "house",
+    "name": "Вера В Завтра",
+    "owner": "OneWay_Ticket",
+    "status": "Аукцион",
+    "x": -2720.98,
+    "y": -23.3173,
+    "price": 999999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1928,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vetements_Antwerpen",
+    "status": "Аукцион",
+    "x": 1728.1,
+    "y": 2834.84,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {
