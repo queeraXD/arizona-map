@@ -1960,7 +1960,7 @@
     "server_id": 25,
     "type": "house",
     "name": "аксы",
-    "owner": "Luk_Desanta",
+    "owner": "Andrysha_Knyazev",
     "status": "Занято",
     "x": 980.997,
     "y": -1814.69,
@@ -8280,18 +8280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 690,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vagulik_Yava",
-    "status": "Занято",
-    "x": 1344.65,
-    "y": 2609.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 691,
     "server_id": 25,
     "type": "house",
@@ -8504,18 +8492,6 @@
     "status": "Занято",
     "x": -2180.58,
     "y": -2519.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 709,
-    "server_id": 25,
-    "type": "house",
-    "name": "Берлога пенсионеров",
-    "owner": "Leeee_Nefor",
-    "status": "Занято",
-    "x": 1666.97,
-    "y": 2610.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10980,14 +10956,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 916,
+    "id": 917,
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Vagulik_Yava",
+    "owner": "Ignat_Samper",
     "status": "Занято",
-    "x": -2159.79,
-    "y": 1030.66,
+    "x": -2169.66,
+    "y": 1027.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15152,18 +15128,6 @@
     "status": "Занято",
     "x": -2356.74,
     "y": 580.0269,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1265,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Devilish_Smoke",
-    "status": "Занято",
-    "x": -2338.49,
-    "y": 580.0319,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23760,51 +23724,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 917,
+    "id": 690,
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Ignat_Samper",
+    "owner": "Vagulik_Yava",
     "status": "Аукцион",
-    "x": -2169.66,
-    "y": 1027.11,
-    "price": 150123123,
+    "x": 1344.65,
+    "y": 2609.95,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 87,
+    "id": 709,
     "server_id": 25,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Keks_Uralsky",
+    "type": "house",
+    "name": "Берлога пенсионеров",
+    "owner": "Leeee_Nefor",
     "status": "Аукцион",
-    "x": -91.2371,
-    "y": 1188.43,
-    "price": 200000,
+    "x": 1666.97,
+    "y": 2610.19,
+    "price": 50123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 112,
+    "id": 916,
     "server_id": 25,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Keks_Uralsky",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vagulik_Yava",
     "status": "Аукцион",
-    "x": -2672.26,
-    "y": 258.431,
-    "price": 150000,
+    "x": -2159.79,
+    "y": 1030.66,
+    "price": 130123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 460,
+    "id": 1265,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Devilish_Smoke",
+    "status": "Аукцион",
+    "x": -2338.49,
+    "y": 580.0319,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
     "server_id": 25,
     "type": "business",
     "name": "Аренда транспорта",
     "owner": "Keks_Uralsky",
     "status": "Аукцион",
-    "x": 1586.208,
-    "y": -1394.485,
-    "price": 200000,
+    "x": 2085.84,
+    "y": 2486.25,
+    "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 70,
+    "server_id": 25,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Arthur_Keln",
+    "status": "Аукцион",
+    "x": 2515.7,
+    "y": 1088.17,
+    "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 93,
+    "server_id": 25,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Keks_Uralsky",
+    "status": "Аукцион",
+    "x": 2506.95,
+    "y": 2120.28,
+    "price": 150000,
     "district": "Сан-Андреас"
   },
   {
@@ -24060,6 +24060,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 87,
+    "server_id": 25,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Keks_Uralsky",
+    "status": "Занято",
+    "x": -91.2371,
+    "y": 1188.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 88,
     "server_id": 25,
     "type": "business",
@@ -24092,18 +24104,6 @@
     "status": "Занято",
     "x": 1951.44,
     "y": 1342.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 93,
-    "server_id": 25,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Keks_Uralsky",
-    "status": "Занято",
-    "x": 2506.95,
-    "y": 2120.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24392,18 +24392,6 @@
     "status": "Занято",
     "x": 2856.2,
     "y": 1264.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 70,
-    "server_id": 25,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Arthur_Keln",
-    "status": "Занято",
-    "x": 2515.7,
-    "y": 1088.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25656,6 +25644,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 112,
+    "server_id": 25,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Keks_Uralsky",
+    "status": "Занято",
+    "x": -2672.26,
+    "y": 258.431,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 113,
     "server_id": 25,
     "type": "business",
@@ -26004,18 +26004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
-    "server_id": 25,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Keks_Uralsky",
-    "status": "Занято",
-    "x": 2085.84,
-    "y": 2486.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 58,
     "server_id": 25,
     "type": "business",
@@ -26084,6 +26072,18 @@
     "status": "Занято",
     "x": 1864.59,
     "y": -1393.39,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 460,
+    "server_id": 25,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Keks_Uralsky",
+    "status": "Занято",
+    "x": 1586.208,
+    "y": -1394.485,
     "price": 0,
     "district": "Сан-Андреас"
   },

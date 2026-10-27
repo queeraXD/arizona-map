@@ -4924,10 +4924,22 @@
     "server_id": 23,
     "type": "house",
     "name": "Darkside",
-    "owner": "Marshall_Harrison",
+    "owner": "Pasha_Caplya",
     "status": "Занято",
     "x": 1402.4,
     "y": 333.4599,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 411,
+    "server_id": 23,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "CoMoB",
+    "status": "Занято",
+    "x": 1415.14,
+    "y": 324.105,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9804,18 +9816,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 818,
-    "server_id": 23,
-    "type": "house",
-    "name": "MMM",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": -2689.46,
-    "y": -167.298,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 819,
     "server_id": 23,
     "type": "house",
@@ -10784,18 +10784,6 @@
     "status": "Занято",
     "x": -2099.54,
     "y": 897.538,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 901,
-    "server_id": 23,
-    "type": "house",
-    "name": "Boltiq | DoDep",
-    "owner": "Majorka_Infinity",
-    "status": "Занято",
-    "x": -2075.14,
-    "y": 899.366,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11876,18 +11864,6 @@
     "status": "Занято",
     "x": 977.3939,
     "y": -771.3049,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 992,
-    "server_id": 23,
-    "type": "house",
-    "name": "Убежище для фарма",
-    "owner": "Cvetonka_Tuzikss",
-    "status": "Занято",
-    "x": -2048.11,
-    "y": 745.749,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15696,18 +15672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1310,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jaycee_Nenentori",
-    "status": "Занято",
-    "x": 161.531,
-    "y": -1455.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1311,
     "server_id": 23,
     "type": "house",
@@ -19464,18 +19428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1624,
-    "server_id": 23,
-    "type": "house",
-    "name": "Gachi house",
-    "owner": "Billy_Miligan",
-    "status": "Занято",
-    "x": -2843.69,
-    "y": -2269.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1625,
     "server_id": 23,
     "type": "house",
@@ -19964,6 +19916,18 @@
     "status": "Занято",
     "x": 2492.15,
     "y": -1398.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1668,
+    "server_id": 23,
+    "type": "house",
+    "name": "фарм 3",
+    "owner": "Artem_Syntax",
+    "status": "Занято",
+    "x": 2468.36,
+    "y": -1398.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21144,27 +21108,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 411,
+    "id": 818,
     "server_id": 23,
     "type": "house",
-    "name": "40 squad",
-    "owner": "CoMoB",
+    "name": "MMM",
+    "owner": "Kedroviy_Oreh",
     "status": "Аукцион",
-    "x": 1415.14,
-    "y": 324.105,
-    "price": 500000000,
+    "x": -2689.46,
+    "y": -167.298,
+    "price": 400123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1668,
+    "id": 901,
     "server_id": 23,
     "type": "house",
-    "name": "фарм 3",
-    "owner": "Artem_Syntax",
+    "name": "Boltiq | DoDep",
+    "owner": "Majorka_Infinity",
     "status": "Аукцион",
-    "x": 2468.36,
-    "y": -1398.82,
-    "price": 380000000,
+    "x": -2075.14,
+    "y": 899.366,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 992,
+    "server_id": 23,
+    "type": "house",
+    "name": "Убежище для фарма",
+    "owner": "Cvetonka_Tuzikss",
+    "status": "Аукцион",
+    "x": -2048.11,
+    "y": 745.749,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1310,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jaycee_Nenentori",
+    "status": "Аукцион",
+    "x": 161.531,
+    "y": -1455.85,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1624,
+    "server_id": 23,
+    "type": "house",
+    "name": "Gachi house",
+    "owner": "Billy_Miligan",
+    "status": "Аукцион",
+    "x": -2843.69,
+    "y": -2269.19,
+    "price": 500000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 147,
+    "server_id": 23,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Shady_Records",
+    "status": "Аукцион",
+    "x": -2174.971,
+    "y": -29.964,
+    "price": 230000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 285,
+    "server_id": 23,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Shady_Records",
+    "status": "Аукцион",
+    "x": 1031.61,
+    "y": 1354.3,
+    "price": 180000,
     "district": "Сан-Андреас"
   },
   {
@@ -22692,18 +22716,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 285,
-    "server_id": 23,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Shady_Records",
-    "status": "Занято",
-    "x": 1031.61,
-    "y": 1354.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 286,
     "server_id": 23,
     "type": "business",
@@ -23684,18 +23696,6 @@
     "status": "Занято",
     "x": 1785.504,
     "y": -1394.201,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 147,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Shady_Records",
-    "status": "Занято",
-    "x": -2174.971,
-    "y": -29.964,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -5487,8 +5487,8 @@
     "id": 457,
     "server_id": 3,
     "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Ixatoki",
+    "name": "Мой первый дом",
+    "owner": "Ferdinand_Espander",
     "status": "Занято",
     "x": 2069.02,
     "y": 696.2709,
@@ -14508,18 +14508,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1210,
-    "server_id": 3,
-    "type": "house",
-    "name": "Veritas Familly ",
-    "owner": "Aleksander_Hpen",
-    "status": "Занято",
-    "x": -2477.89,
-    "y": 1338.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1211,
     "server_id": 3,
     "type": "house",
@@ -19524,18 +19512,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1628,
-    "server_id": 3,
-    "type": "house",
-    "name": "Деп_Условия",
-    "owner": "Yushin_Greco",
-    "status": "Занято",
-    "x": 1957.05,
-    "y": 677.9479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1629,
     "server_id": 3,
     "type": "house",
@@ -24012,15 +23988,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 251,
+    "id": 1210,
+    "server_id": 3,
+    "type": "house",
+    "name": "Veritas Familly ",
+    "owner": "Aleksander_Hpen",
+    "status": "Аукцион",
+    "x": -2477.89,
+    "y": 1338.14,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1628,
+    "server_id": 3,
+    "type": "house",
+    "name": "Деп_Условия",
+    "owner": "Yushin_Greco",
+    "status": "Аукцион",
+    "x": 1957.05,
+    "y": 677.9479,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 248,
     "server_id": 3,
     "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Pomelka_Anderson",
+    "name": "Нефтевышка",
+    "owner": "Otto_Murphy",
     "status": "Аукцион",
-    "x": -930.703,
-    "y": 13.1137,
-    "price": 10000000000,
+    "x": -1084.85,
+    "y": -3129.33,
+    "price": 999999,
     "district": "Сан-Андреас"
   },
   {
@@ -25448,6 +25448,18 @@
     "status": "Занято",
     "x": 2170.48,
     "y": 542.934,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 251,
+    "server_id": 3,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Pomelka_Anderson",
+    "status": "Занято",
+    "x": -930.703,
+    "y": 13.1137,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27488,18 +27500,6 @@
     "status": "Занято",
     "x": 168.415,
     "y": 3245.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 248,
-    "server_id": 3,
-    "type": "business",
-    "name": "Нефтевышка",
-    "owner": "Otto_Murphy",
-    "status": "Занято",
-    "x": -1084.85,
-    "y": -3129.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
