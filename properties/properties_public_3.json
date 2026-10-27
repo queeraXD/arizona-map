@@ -3964,7 +3964,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Зюзя",
-    "owner": "Petarda_Grecha",
+    "owner": "Sebastian_Zyuzya",
     "status": "Занято",
     "x": 751.999,
     "y": 375.2529,
@@ -3976,7 +3976,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Зюзя",
-    "owner": "Petarda_Grecha",
+    "owner": "Sebastian_Zyuzya",
     "status": "Занято",
     "x": 758.6879,
     "y": 375.0509,
@@ -13852,7 +13852,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Архитектор",
-    "owner": "Tony_Barrero",
+    "owner": "Vladimir_Greco",
     "status": "Занято",
     "x": -2793.43,
     "y": -153.1119,
@@ -15920,18 +15920,6 @@
     "status": "Занято",
     "x": -2553.69,
     "y": 992.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1331,
-    "server_id": 3,
-    "type": "house",
-    "name": "Mercedes Benz base",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -2564.29,
-    "y": 992.2529,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19476,18 +19464,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1628,
-    "server_id": 3,
-    "type": "house",
-    "name": "Деп_Условия",
-    "owner": "Yushin_Greco",
-    "status": "Занято",
-    "x": 1957.05,
-    "y": 677.9479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1629,
     "server_id": 3,
     "type": "house",
@@ -23008,7 +22984,7 @@
     "server_id": 3,
     "type": "house",
     "name": "daetsuke",
-    "owner": "True_Adam",
+    "owner": "block",
     "status": "Занято",
     "x": 2540.69,
     "y": 1214.98,
@@ -23984,7 +23960,19 @@
     "status": "Аукцион",
     "x": -2383.14,
     "y": 1336.48,
-    "price": 800000000,
+    "price": 799999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1331,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": -2564.29,
+    "y": 992.2529,
+    "price": 150123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23996,7 +23984,19 @@
     "status": "Аукцион",
     "x": 86.263,
     "y": 1161.96,
-    "price": 350000000,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1628,
+    "server_id": 3,
+    "type": "house",
+    "name": "Деп_Условия",
+    "owner": "Yushin_Greco",
+    "status": "Аукцион",
+    "x": 1957.05,
+    "y": 677.9479,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24012,18 +24012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 251,
-    "server_id": 3,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Pomelka_Anderson",
-    "status": "Аукцион",
-    "x": -930.703,
-    "y": 13.1137,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 260,
     "server_id": 3,
     "type": "business",
@@ -24033,6 +24021,18 @@
     "x": 1020.4,
     "y": -1844.78,
     "price": 222222,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 286,
+    "server_id": 3,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Sak_Noel",
+    "status": "Аукцион",
+    "x": 1826.39,
+    "y": 626.525,
+    "price": 444444,
     "district": "Сан-Андреас"
   },
   {
@@ -25464,6 +25464,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 251,
+    "server_id": 3,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Andy_Parliament",
+    "status": "Занято",
+    "x": -930.703,
+    "y": 13.1137,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 252,
     "server_id": 3,
     "type": "business",
@@ -25556,18 +25568,6 @@
     "status": "Занято",
     "x": 1031.61,
     "y": 1354.3,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 286,
-    "server_id": 3,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Sak_Noel",
-    "status": "Занято",
-    "x": 1826.39,
-    "y": 626.525,
     "price": 0,
     "district": "Сан-Андреас"
   },

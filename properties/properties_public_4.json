@@ -7911,7 +7911,7 @@
     "id": 659,
     "server_id": 4,
     "type": "house",
-    "name": "autohotkey family",
+    "name": "Destruction",
     "owner": "Abyss_Destruction",
     "status": "Занято",
     "x": 1029.68,
@@ -8312,6 +8312,18 @@
     "status": "Занято",
     "x": 1274.87,
     "y": 2522.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 693,
+    "server_id": 4,
+    "type": "house",
+    "name": "SELL т.1444888/ds MrFox2121",
+    "owner": "Nicholas_Fox",
+    "status": "Занято",
+    "x": 1316.23,
+    "y": 2524.48,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14828,6 +14840,18 @@
     "status": "Занято",
     "x": -2383.14,
     "y": 1299.75,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1239,
+    "server_id": 4,
+    "type": "house",
+    "name": "ФАРМ",
+    "owner": "Sasha_Wizer",
+    "status": "Занято",
+    "x": -2383.14,
+    "y": 1318.02,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25212,18 +25236,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 693,
-    "server_id": 4,
-    "type": "house",
-    "name": "SELL т.1444888/ds MrFox2121",
-    "owner": "Nicholas_Fox",
-    "status": "Аукцион",
-    "x": 1316.23,
-    "y": 2524.48,
-    "price": 2800000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 844,
     "server_id": 4,
     "type": "house",
@@ -25232,18 +25244,6 @@
     "status": "Аукцион",
     "x": -2048.36,
     "y": 745.179,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1239,
-    "server_id": 4,
-    "type": "house",
-    "name": "дом шпица хомы и шнапса",
-    "owner": "Spitz_Elite",
-    "status": "Аукцион",
-    "x": -2383.14,
-    "y": 1318.02,
     "price": 400000000,
     "district": "Сан-Андреас"
   },
@@ -25260,15 +25260,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 148,
+    "id": 57,
     "server_id": 4,
     "type": "business",
-    "name": "Отель",
-    "owner": "Mogilki_Mogilki",
+    "name": "Аренда транспорта",
+    "owner": "Ramil_Orlov",
     "status": "Аукцион",
-    "x": -2013.727,
-    "y": -1012.418,
-    "price": 400000,
+    "x": 2085.84,
+    "y": 2486.25,
+    "price": 195555,
     "district": "Сан-Андреас"
   },
   {
@@ -26596,7 +26596,7 @@
     "server_id": 4,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Islam_Orlov",
+    "owner": "Ben_Wizard",
     "status": "Занято",
     "x": 2187.71,
     "y": 2469.57,
@@ -27492,18 +27492,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
-    "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ramil_Orlov",
-    "status": "Занято",
-    "x": 2085.84,
-    "y": 2486.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 58,
     "server_id": 4,
     "type": "business",
@@ -27544,7 +27532,7 @@
     "server_id": 4,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Edul_Abgaryan",
+    "owner": "Islam_Orlov",
     "status": "Занято",
     "x": -2455.77,
     "y": 799.522,
@@ -27800,6 +27788,18 @@
     "status": "Занято",
     "x": -2174.971,
     "y": -29.964,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 148,
+    "server_id": 4,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Mogilki_Mogilki",
+    "status": "Занято",
+    "x": -2013.727,
+    "y": -1012.418,
     "price": 0,
     "district": "Сан-Андреас"
   },

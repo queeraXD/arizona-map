@@ -7272,6 +7272,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 606,
+    "server_id": 15,
+    "type": "house",
+    "name": "Shrekus",
+    "owner": "Ranalda_Kitsune",
+    "status": "Занято",
+    "x": -1589.79,
+    "y": 2706.18,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 607,
     "server_id": 15,
     "type": "house",
@@ -10164,18 +10176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 849,
-    "server_id": 15,
-    "type": "house",
-    "name": "849",
-    "owner": "Larper_Kast",
-    "status": "Занято",
-    "x": -2158.05,
-    "y": 1148.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 850,
     "server_id": 15,
     "type": "house",
@@ -11500,7 +11500,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Дом",
-    "owner": "Lich_Vandar",
+    "owner": "Aizen_App",
     "status": "Занято",
     "x": -2168.74,
     "y": 743.76,
@@ -17296,7 +17296,7 @@
     "server_id": 15,
     "type": "house",
     "name": "деп условия",
-    "owner": "Alfi_Kast",
+    "owner": "Chat_Cmds",
     "status": "Занято",
     "x": 161.5729,
     "y": -1455.81,
@@ -21288,27 +21288,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 606,
-    "server_id": 15,
-    "type": "house",
-    "name": "606",
-    "owner": "Sylvanas_Windrunner",
-    "status": "Аукцион",
-    "x": -1589.79,
-    "y": 2706.18,
-    "price": 400000111,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 735,
     "server_id": 15,
     "type": "house",
     "name": "735",
-    "owner": "Sylvanas_Windrunner",
+    "owner": "Vlad_Montaro",
     "status": "Аукцион",
     "x": -2900.72,
     "y": 1067.02,
-    "price": 450000111,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 849,
+    "server_id": 15,
+    "type": "house",
+    "name": "849",
+    "owner": "Larper_Kast",
+    "status": "Аукцион",
+    "x": -2158.05,
+    "y": 1148.62,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21320,7 +21320,7 @@
     "status": "Аукцион",
     "x": -2087.62,
     "y": -2510.66,
-    "price": 450000111,
+    "price": 400000111,
     "district": "Сан-Андреас"
   },
   {

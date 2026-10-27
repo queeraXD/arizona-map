@@ -120,6 +120,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 10,
+    "server_id": 22,
+    "type": "house",
+    "name": "rabikarabik6",
+    "owner": "Hood_Richh",
+    "status": "Занято",
+    "x": 2050.88,
+    "y": -1065.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 11,
     "server_id": 22,
     "type": "house",
@@ -392,18 +404,6 @@
     "status": "Занято",
     "x": 2434.8,
     "y": -1289.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 34,
-    "server_id": 22,
-    "type": "house",
-    "name": "хуйня собачка",
-    "owner": "Anna_Utopova",
-    "status": "Занято",
-    "x": 2439.65,
-    "y": -1338.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -4864,7 +4864,7 @@
     "server_id": 22,
     "type": "house",
     "name": "bo$$",
-    "owner": "Naomi_Revival",
+    "owner": "Lana_Rossetti",
     "status": "Занято",
     "x": 1419.97,
     "y": 390.411,
@@ -8368,7 +8368,7 @@
     "server_id": 22,
     "type": "house",
     "name": "ПУСЬКА",
-    "owner": "Lana_Rossetti",
+    "owner": "Naomi_Revival",
     "status": "Занято",
     "x": 1407.6,
     "y": 2524.46,
@@ -9080,18 +9080,6 @@
     "status": "Занято",
     "x": -2738.32,
     "y": 746.648,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 758,
-    "server_id": 22,
-    "type": "house",
-    "name": "луня<3",
-    "owner": "Anna_Utopova",
-    "status": "Занято",
-    "x": -2738.31,
-    "y": 771.5869,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9956,18 +9944,6 @@
     "status": "Занято",
     "x": -2723.16,
     "y": -16.7231,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 831,
-    "server_id": 22,
-    "type": "house",
-    "name": "arsen_kosilka prime",
-    "owner": "KanekiKen_Anime",
-    "status": "Занято",
-    "x": -2723.0,
-    "y": 4.0472,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12512,18 +12488,6 @@
     "status": "Занято",
     "x": -1761.0,
     "y": 1174.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1044,
-    "server_id": 22,
-    "type": "house",
-    "name": "Benito lux rum",
-    "owner": "Benito_Karleone",
-    "status": "Занято",
-    "x": -1780.35,
-    "y": 1138.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17296,7 +17260,7 @@
     "server_id": 22,
     "type": "house",
     "name": "Дом",
-    "owner": "Darik_Donk",
+    "owner": "Jgun_Terply",
     "status": "Занято",
     "x": 689.755,
     "y": 1297.17,
@@ -17696,18 +17660,6 @@
     "status": "Занято",
     "x": -982.2169,
     "y": -1679.947,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1476,
-    "server_id": 22,
-    "type": "house",
-    "name": "<3 Домик Орбита <3",
-    "owner": "December_Orbit",
-    "status": "Занято",
-    "x": 937.3469,
-    "y": 1872.822,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19268,18 +19220,6 @@
     "status": "Занято",
     "x": 2824.04,
     "y": 2268.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1608,
-    "server_id": 22,
-    "type": "house",
-    "name": "revival ",
-    "owner": "Ilya_Polen",
-    "status": "Занято",
-    "x": 2816.49,
-    "y": 2268.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22020,15 +21960,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 10,
+    "id": 34,
     "server_id": 22,
     "type": "house",
-    "name": "rabikarabik6",
-    "owner": "Grey_Rock",
+    "name": "хуйня собачка",
+    "owner": "Anna_Utopova",
     "status": "Аукцион",
-    "x": 2050.88,
-    "y": -1065.7,
+    "x": 2439.65,
+    "y": -1338.73,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 758,
+    "server_id": 22,
+    "type": "house",
+    "name": "луня<3",
+    "owner": "Anna_Utopova",
+    "status": "Аукцион",
+    "x": -2738.31,
+    "y": 771.5869,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 831,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "KanekiKen_Anime",
+    "status": "Аукцион",
+    "x": -2723.0,
+    "y": 4.0472,
     "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1044,
+    "server_id": 22,
+    "type": "house",
+    "name": "Benito lux rum",
+    "owner": "Benito_Karleone",
+    "status": "Аукцион",
+    "x": -1780.35,
+    "y": 1138.77,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1476,
+    "server_id": 22,
+    "type": "house",
+    "name": "<3 Домик Орбита <3",
+    "owner": "December_Orbit",
+    "status": "Аукцион",
+    "x": 937.3469,
+    "y": 1872.822,
+    "price": 210000,
     "district": "Сан-Андреас"
   },
   {
@@ -22040,7 +22028,19 @@
     "status": "Аукцион",
     "x": 1414.42,
     "y": 1996.36,
-    "price": 800000000,
+    "price": 760000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1608,
+    "server_id": 22,
+    "type": "house",
+    "name": "revival ",
+    "owner": "Ilya_Polen",
+    "status": "Аукцион",
+    "x": 2816.49,
+    "y": 2268.83,
+    "price": 620000000,
     "district": "Сан-Андреас"
   },
   {
