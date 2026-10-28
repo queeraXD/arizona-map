@@ -6000,18 +6000,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 500,
-    "server_id": 8,
-    "type": "house",
-    "name": "|| Night Empire || ",
-    "owner": "Baron_Night",
-    "status": "Занято",
-    "x": 1407.95,
-    "y": 1897.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 501,
     "server_id": 8,
     "type": "house",
@@ -8823,8 +8811,8 @@
     "id": 735,
     "server_id": 8,
     "type": "house",
-    "name": "ИК-14",
-    "owner": "Camry_Gracia",
+    "name": "Хата штормика",
+    "owner": "Storm_NeSpirit",
     "status": "Занято",
     "x": -2900.72,
     "y": 1067.02,
@@ -16128,18 +16116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1346,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Finish_Quantum",
-    "status": "Занято",
-    "x": -2690.49,
-    "y": 64.5307,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1347,
     "server_id": 8,
     "type": "house",
@@ -19424,18 +19400,6 @@
     "status": "Занято",
     "x": 2660.33,
     "y": 742.544,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1621,
-    "server_id": 8,
-    "type": "house",
-    "name": "BTC фарм 3",
-    "owner": "Waer_Space",
-    "status": "Занято",
-    "x": 2666.65,
-    "y": 750.096,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25764,6 +25728,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 500,
+    "server_id": 8,
+    "type": "house",
+    "name": "|| Night Empire || ",
+    "owner": "Baron_Night",
+    "status": "Аукцион",
+    "x": 1407.95,
+    "y": 1897.05,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1003,
     "server_id": 8,
     "type": "house",
@@ -25772,7 +25748,31 @@
     "status": "Аукцион",
     "x": -2048.17,
     "y": 745.5999,
-    "price": 1000000000,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1346,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Finish_Quantum",
+    "status": "Аукцион",
+    "x": -2690.49,
+    "y": 64.5307,
+    "price": 450123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1621,
+    "server_id": 8,
+    "type": "house",
+    "name": "BTC фарм 3",
+    "owner": "Waer_Space",
+    "status": "Аукцион",
+    "x": 2666.65,
+    "y": 750.096,
+    "price": 175000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25784,7 +25784,19 @@
     "status": "Аукцион",
     "x": 2594.5,
     "y": -1229.21,
-    "price": 400000000,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
+    "server_id": 8,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Oliver_Kingside",
+    "status": "Аукцион",
+    "x": 2085.84,
+    "y": 2486.25,
+    "price": 350000,
     "district": "Сан-Андреас"
   },
   {
@@ -28004,18 +28016,6 @@
     "status": "Занято",
     "x": 1671.52,
     "y": 1814.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 57,
-    "server_id": 8,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Oliver_Kingside",
-    "status": "Занято",
-    "x": 2085.84,
-    "y": 2486.25,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -4956,18 +4956,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 413,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kigo_Hozyainov",
-    "status": "Занято",
-    "x": 1461.43,
-    "y": 341.859,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 414,
     "server_id": 6,
     "type": "house",
@@ -9088,7 +9076,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Corleone SF",
-    "owner": "Anafobia_Nakamura",
+    "owner": "Kigo_Hozyainov",
     "status": "Занято",
     "x": -2738.32,
     "y": 746.648,
@@ -14628,18 +14616,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1219,
-    "server_id": 6,
-    "type": "house",
-    "name": "ДОМ ПЕРВЫЙ",
-    "owner": "Michail_Immortalis",
-    "status": "Занято",
-    "x": -2558.52,
-    "y": -118.7259,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1220,
     "server_id": 6,
     "type": "house",
@@ -15351,8 +15327,8 @@
     "id": 1279,
     "server_id": 6,
     "type": "house",
-    "name": "Берлога Gibert Gerard ",
-    "owner": "Gibert_Gerard",
+    "name": "Моя берлога",
+    "owner": "Matt_Agesilay",
     "status": "Занято",
     "x": -2511.71,
     "y": 1045.42,
@@ -19800,18 +19776,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1650,
-    "server_id": 6,
-    "type": "house",
-    "name": "Мухи і Бджели",
-    "owner": "Dargin_Ec",
-    "status": "Занято",
-    "x": 884.517,
-    "y": 2076.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1651,
     "server_id": 6,
     "type": "house",
@@ -19827,7 +19791,7 @@
     "id": 1652,
     "server_id": 6,
     "type": "house",
-    "name": "крутий чел",
+    "name": "Yakuza",
     "owner": "Alexsandr_Yakuza",
     "status": "Занято",
     "x": 957.505,
@@ -21864,18 +21828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1822,
-    "server_id": 6,
-    "type": "house",
-    "name": "ДОМ ВТОРОЙ",
-    "owner": "Toma_Immortalis",
-    "status": "Занято",
-    "x": 2361.44,
-    "y": 1682.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1823,
     "server_id": 6,
     "type": "house",
@@ -22088,18 +22040,6 @@
     "status": "Занято",
     "x": 2357.74,
     "y": 1679.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1841,
-    "server_id": 6,
-    "type": "house",
-    "name": "ДОМ ПЯТЫЙ",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 2357.74,
-    "y": 1674.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22896,18 +22836,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1910,
-    "server_id": 6,
-    "type": "house",
-    "name": "ДОМ ЧЕТВЕРТЫЙ",
-    "owner": "Fallen_Castle",
-    "status": "Занято",
-    "x": -230.8439,
-    "y": 884.192,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1911,
     "server_id": 6,
     "type": "house",
@@ -23140,7 +23068,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Sweezy(доп.прода)",
-    "owner": "Anafobia_Nakamura",
+    "owner": "Grey_Rock",
     "status": "Занято",
     "x": 2608.25,
     "y": -1199.87,
@@ -24525,6 +24453,78 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 413,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kigo_Hozyainov",
+    "status": "Аукцион",
+    "x": 1461.43,
+    "y": 341.859,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1219,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Immortalis",
+    "status": "Аукцион",
+    "x": -2558.52,
+    "y": -118.7259,
+    "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1650,
+    "server_id": 6,
+    "type": "house",
+    "name": "Мухи і Бджели",
+    "owner": "Dargin_Ec",
+    "status": "Аукцион",
+    "x": 884.517,
+    "y": 2076.63,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1822,
+    "server_id": 6,
+    "type": "house",
+    "name": "ДОМ ВТОРОЙ",
+    "owner": "Toma_Immortalis",
+    "status": "Аукцион",
+    "x": 2361.44,
+    "y": 1682.88,
+    "price": 70123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1841,
+    "server_id": 6,
+    "type": "house",
+    "name": "ДОМ ПЯТЫЙ",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": 2357.74,
+    "y": 1674.26,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1910,
+    "server_id": 6,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Fallen_Castle",
+    "status": "Аукцион",
+    "x": -230.8439,
+    "y": 884.192,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {

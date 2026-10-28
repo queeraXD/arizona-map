@@ -6399,7 +6399,7 @@
     "id": 533,
     "server_id": 18,
     "type": "house",
-    "name": "Дом",
+    "name": "Chase Person:house:",
     "owner": "Chase_Mercy",
     "status": "Занято",
     "x": 1950.82,
@@ -8736,18 +8736,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 728,
-    "server_id": 18,
-    "type": "house",
-    "name": "Fernandes_Rampage",
-    "owner": "Fernandes_Rampage",
-    "status": "Занято",
-    "x": 1654.69,
-    "y": 2801.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 729,
     "server_id": 18,
     "type": "house",
@@ -8864,6 +8852,18 @@
     "status": "Занято",
     "x": -2857.66,
     "y": 957.028,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 739,
+    "server_id": 18,
+    "type": "house",
+    "name": "Chase Person:house:",
+    "owner": "Fora_Mercy",
+    "status": "Занято",
+    "x": -2845.31,
+    "y": 928.414,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18723,7 +18723,7 @@
     "id": 1562,
     "server_id": 18,
     "type": "house",
-    "name": "Shaw Empire",
+    "name": ":uf20c:Shaw Empire:uf20c:",
     "owner": "Robert_Rohs",
     "status": "Занято",
     "x": -2889.29,
@@ -19216,7 +19216,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Домик Алексы ",
-    "owner": "Alexa_Fujiwara",
+    "owner": "Harley_Quinny",
     "status": "Занято",
     "x": -2450.04,
     "y": 921.431,
@@ -19352,18 +19352,6 @@
     "status": "Занято",
     "x": 1849.2,
     "y": -2001.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1615,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Rostik_Rollsovskiy",
-    "status": "Занято",
-    "x": 1838.88,
-    "y": -1996.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21396,18 +21384,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1785,
-    "server_id": 18,
-    "type": "house",
-    "name": "набор архитектора2",
-    "owner": "Kekit_Kekitov",
-    "status": "Занято",
-    "x": 2634.48,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1786,
     "server_id": 18,
     "type": "house",
@@ -22200,15 +22176,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 739,
+    "id": 728,
+    "server_id": 18,
+    "type": "house",
+    "name": "Fernandes_Rampage",
+    "owner": "Fernandes_Rampage",
+    "status": "Аукцион",
+    "x": 1654.69,
+    "y": 2801.47,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1615,
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Lovlya_Vip",
+    "owner": "Rostik_Rollsovskiy",
     "status": "Аукцион",
-    "x": -2845.31,
-    "y": 928.414,
-    "price": 2000000000,
+    "x": 1838.88,
+    "y": -1996.04,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1785,
+    "server_id": 18,
+    "type": "house",
+    "name": "набор архитектора2",
+    "owner": "Kekit_Kekitov",
+    "status": "Аукцион",
+    "x": 2634.48,
+    "y": 2019.21,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {

@@ -1587,7 +1587,7 @@
     "id": 132,
     "server_id": 5,
     "type": "house",
-    "name": "деспаирище сучище",
+    "name": "Дом",
     "owner": "Despair_Empressions",
     "status": "Занято",
     "x": 1781.45,
@@ -22072,7 +22072,7 @@
     "server_id": 5,
     "type": "house",
     "name": "House#1839",
-    "owner": "Cepoe_More",
+    "owner": "Alian_Right",
     "status": "Занято",
     "x": 2816.49,
     "y": 2274.91,
@@ -22332,18 +22332,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1861,
-    "server_id": 5,
-    "type": "house",
-    "name": "Вип Халупа",
-    "owner": "Valera_Selyuk",
-    "status": "Занято",
-    "x": 2003.68,
-    "y": 2159.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1862,
     "server_id": 5,
     "type": "house",
@@ -22508,18 +22496,6 @@
     "status": "Занято",
     "x": 2441.54,
     "y": 1220.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1876,
-    "server_id": 5,
-    "type": "house",
-    "name": "Montan",
-    "owner": "Valera_Selyuk",
-    "status": "Занято",
-    "x": 2441.54,
-    "y": 1213.67,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25113,6 +25089,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1861,
+    "server_id": 5,
+    "type": "house",
+    "name": "Вип Халупа",
+    "owner": "Valera_Selyuk",
+    "status": "Аукцион",
+    "x": 2003.68,
+    "y": 2159.13,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1876,
+    "server_id": 5,
+    "type": "house",
+    "name": "Montan",
+    "owner": "Valera_Selyuk",
+    "status": "Аукцион",
+    "x": 2441.54,
+    "y": 1213.67,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

@@ -252,18 +252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 21,
-    "server_id": 13,
-    "type": "house",
-    "name": "Geng boys ХАТА",
-    "owner": "Loki_Daymas",
-    "status": "Занято",
-    "x": 2148.63,
-    "y": -1319.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 22,
     "server_id": 13,
     "type": "house",
@@ -9624,18 +9612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 802,
-    "server_id": 13,
-    "type": "house",
-    "name": "Юра",
-    "owner": "Pleasure_Day",
-    "status": "Занято",
-    "x": -2321.73,
-    "y": 820.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 803,
     "server_id": 13,
     "type": "house",
@@ -11932,7 +11908,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Берлога Зетсубо",
-    "owner": "Customazer_Laki",
+    "owner": "Stefan_Ridley",
     "status": "Занято",
     "x": -2321.64,
     "y": 797.465,
@@ -17228,6 +17204,30 @@
     "status": "Занято",
     "x": 885.7429,
     "y": 2267.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1436,
+    "server_id": 13,
+    "type": "house",
+    "name": "Резиденция Доктора ",
+    "owner": "Maikl_Morbius",
+    "status": "Занято",
+    "x": 884.517,
+    "y": 2295.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1437,
+    "server_id": 13,
+    "type": "house",
+    "name": "Резиденция Доктора ",
+    "owner": "Maikl_Morbius",
+    "status": "Занято",
+    "x": 884.517,
+    "y": 2321.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23268,27 +23268,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1436,
+    "id": 21,
     "server_id": 13,
     "type": "house",
-    "name": "Резиденция Доктора ",
-    "owner": "Maikl_Morbius",
+    "name": "Geng boys ХАТА",
+    "owner": "Loki_Daymas",
     "status": "Аукцион",
-    "x": 884.517,
-    "y": 2295.31,
-    "price": 4500,
+    "x": 2148.63,
+    "y": -1319.0,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1437,
+    "id": 802,
     "server_id": 13,
     "type": "house",
-    "name": "Резиденция Доктора ",
-    "owner": "Maikl_Morbius",
+    "name": "Юра",
+    "owner": "Pleasure_Day",
     "status": "Аукцион",
-    "x": 884.517,
-    "y": 2321.9,
-    "price": 4500,
+    "x": -2321.73,
+    "y": 820.036,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26512,7 +26512,7 @@
     "server_id": 13,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Pleasure_Day",
+    "owner": "Vadim_Nokano",
     "status": "Занято",
     "x": 1460.33,
     "y": 2784.8,
