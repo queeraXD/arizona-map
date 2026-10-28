@@ -4120,7 +4120,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Yaroslaw_Scam",
-    "owner": "Seva_Winchester",
+    "owner": "Tochka_Spawna",
     "status": "Занято",
     "x": 719.0629,
     "y": 300.639,
@@ -8508,18 +8508,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 709,
-    "server_id": 10,
-    "type": "house",
-    "name": "Слет",
-    "owner": "Yasmi_Blood",
-    "status": "Занято",
-    "x": 1666.97,
-    "y": 2610.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 710,
     "server_id": 10,
     "type": "house",
@@ -11136,6 +11124,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 929,
+    "server_id": 10,
+    "type": "house",
+    "name": "Hololive EN Justice",
+    "owner": "Morkovka_Lovec",
+    "status": "Занято",
+    "x": -2017.64,
+    "y": 1017.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 930,
     "server_id": 10,
     "type": "house",
@@ -11156,6 +11156,18 @@
     "status": "Занято",
     "x": -2017.56,
     "y": 982.8229,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 932,
+    "server_id": 10,
+    "type": "house",
+    "name": "PIVOHOUSE",
+    "owner": "Sluxa_Porp",
+    "status": "Занято",
+    "x": -2017.94,
+    "y": 970.2399,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11348,18 +11360,6 @@
     "status": "Занято",
     "x": -2239.31,
     "y": 962.374,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 949,
-    "server_id": 10,
-    "type": "house",
-    "name": "Paradise Family",
-    "owner": "Shadow_Dreams",
-    "status": "Занято",
-    "x": -2239.09,
-    "y": 980.309,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17148,6 +17148,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1432,
+    "server_id": 10,
+    "type": "house",
+    "name": "Vlad_Lovec SOLO ",
+    "owner": "Young_Ether",
+    "status": "Занято",
+    "x": 2809.53,
+    "y": -1303.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1433,
     "server_id": 10,
     "type": "house",
@@ -22152,14 +22164,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1850,
+    "id": 1851,
     "server_id": 10,
     "type": "house",
-    "name": "Инта+П+ПВ+Деп условия",
-    "owner": "Shadow_Dreams",
+    "name": "ютуб - @vanilkasamp",
+    "owner": "Vanilka_Minion",
     "status": "Занято",
-    "x": 1798.84,
-    "y": 2812.16,
+    "x": 1804.95,
+    "y": 2834.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23304,51 +23316,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 929,
+    "id": 709,
     "server_id": 10,
     "type": "house",
-    "name": "Hololive EN Justice",
-    "owner": "Morkovka_Lovec",
+    "name": "Слет",
+    "owner": "Yasmi_Blood",
     "status": "Аукцион",
-    "x": -2017.64,
-    "y": 1017.06,
+    "x": 1666.97,
+    "y": 2610.19,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 949,
+    "server_id": 10,
+    "type": "house",
+    "name": "Paradise Family",
+    "owner": "Shadow_Dreams",
+    "status": "Аукцион",
+    "x": -2239.09,
+    "y": 980.309,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1850,
+    "server_id": 10,
+    "type": "house",
+    "name": "Инта+П+ПВ+Деп условия",
+    "owner": "Shadow_Dreams",
+    "status": "Аукцион",
+    "x": 1798.84,
+    "y": 2812.16,
     "price": 50000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 932,
-    "server_id": 10,
-    "type": "house",
-    "name": "PIVOHOUSE",
-    "owner": "Sluxa_Porp",
-    "status": "Аукцион",
-    "x": -2017.94,
-    "y": 970.2399,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1432,
-    "server_id": 10,
-    "type": "house",
-    "name": "Vlad_Lovec SOLO ",
-    "owner": "Vlad_Lovec",
-    "status": "Аукцион",
-    "x": 2809.53,
-    "y": -1303.01,
-    "price": 75000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1851,
-    "server_id": 10,
-    "type": "house",
-    "name": "ютуб - @vanilkasamp",
-    "owner": "Vanilka_Minion",
-    "status": "Аукцион",
-    "x": 1804.95,
-    "y": 2834.83,
-    "price": 30000000,
     "district": "Сан-Андреас"
   },
   {
