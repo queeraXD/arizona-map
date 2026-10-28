@@ -11160,18 +11160,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 932,
-    "server_id": 10,
-    "type": "house",
-    "name": "PIVOHOUSE",
-    "owner": "Sluxa_Porp",
-    "status": "Занято",
-    "x": -2017.94,
-    "y": 970.2399,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 933,
     "server_id": 10,
     "type": "house",
@@ -19920,6 +19908,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1663,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vakhbet_Abedov",
+    "status": "Занято",
+    "x": 885.7429,
+    "y": 2267.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1664,
     "server_id": 10,
     "type": "house",
@@ -23316,6 +23316,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 932,
+    "server_id": 10,
+    "type": "house",
+    "name": "PIVOHOUSE",
+    "owner": "Sluxa_Porp",
+    "status": "Аукцион",
+    "x": -2017.94,
+    "y": 970.2399,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1432,
     "server_id": 10,
     "type": "house",
@@ -23324,19 +23336,7 @@
     "status": "Аукцион",
     "x": 2809.53,
     "y": -1303.01,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1663,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vakhbet_Abedov",
-    "status": "Аукцион",
-    "x": 885.7429,
-    "y": 2267.83,
-    "price": 300000000,
+    "price": 75000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23348,19 +23348,7 @@
     "status": "Аукцион",
     "x": 1804.95,
     "y": 2834.83,
-    "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 62,
-    "server_id": 10,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "David_Skyworth",
-    "status": "Аукцион",
-    "x": 2150.73,
-    "y": 2733.87,
-    "price": 165000,
+    "price": 30000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24716,6 +24704,18 @@
     "status": "Занято",
     "x": 663.131,
     "y": 1716.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 62,
+    "server_id": 10,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "David_Skyworth",
+    "status": "Занято",
+    "x": 2150.73,
+    "y": 2733.87,
     "price": 0,
     "district": "Сан-Андреас"
   },

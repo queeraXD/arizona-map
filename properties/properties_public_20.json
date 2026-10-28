@@ -5424,6 +5424,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 452,
+    "server_id": 20,
+    "type": "house",
+    "name": "dayz",
+    "owner": "Dima_Raigers",
+    "status": "Занято",
+    "x": 1844.5,
+    "y": 718.656,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 453,
     "server_id": 20,
     "type": "house",
@@ -15120,18 +15132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1261,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stu_LoveSosa",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 632.4099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1262,
     "server_id": 20,
     "type": "house",
@@ -21180,18 +21180,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1766,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vlad_Laker",
-    "status": "Занято",
-    "x": 1783.75,
-    "y": 2868.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1767,
     "server_id": 20,
     "type": "house",
@@ -21272,18 +21260,6 @@
     "status": "Занято",
     "x": 1796.59,
     "y": 2803.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1774,
-    "server_id": 20,
-    "type": "house",
-    "name": "NIko",
-    "owner": "Niko_Jetty",
-    "status": "Занято",
-    "x": 1786.74,
-    "y": 2767.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21448,7 +21424,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Холостяцкая берлога Тинейджа",
-    "owner": "Teenage_Syndrome",
+    "owner": "Rjey_Javelin",
     "status": "Занято",
     "x": 2623.65,
     "y": 2056.32,
@@ -22356,15 +22332,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 452,
+    "id": 1774,
     "server_id": 20,
     "type": "house",
-    "name": "sutener",
-    "owner": "Kigo_Hozyainov",
+    "name": "NIko",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 1786.74,
+    "y": 2767.29,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1261,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stu_LoveSosa",
     "status": "Аукцион",
-    "x": 1844.5,
-    "y": 718.656,
-    "price": 600000000,
+    "x": -2372.53,
+    "y": 632.4099,
+    "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1766,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vlad_Laker",
+    "status": "Аукцион",
+    "x": 1783.75,
+    "y": 2868.74,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24640,7 +24640,7 @@
     "server_id": 20,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Zamir_Zamirov",
+    "owner": "Lorian_Barrington",
     "status": "Занято",
     "x": -2455.77,
     "y": 799.522,

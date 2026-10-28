@@ -664,7 +664,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Дом",
-    "owner": "Mill_Love",
+    "owner": "Munuctp_Oboponbl",
     "status": "Занято",
     "x": 2149.86,
     "y": -1433.7,
@@ -3108,6 +3108,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 259,
+    "server_id": 30,
+    "type": "house",
+    "name": "BenzTruck",
+    "owner": "Benz_Truck",
+    "status": "Занято",
+    "x": 2089.57,
+    "y": -995.971,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 260,
     "server_id": 30,
     "type": "house",
@@ -4720,7 +4732,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Mill House",
-    "owner": "Mill_Love",
+    "owner": "Glory_Keyz",
     "status": "Занято",
     "x": 2197.81,
     "y": -60.608,
@@ -17500,7 +17512,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Майнинг 2",
-    "owner": "Sanya_Zubarev",
+    "owner": "Giantlike_Bear",
     "status": "Занято",
     "x": 932.8909,
     "y": 2271.17,
@@ -18692,18 +18704,6 @@
     "status": "Занято",
     "x": 793.343,
     "y": 1991.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1559,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Walter_Brayen",
-    "status": "Занято",
-    "x": 784.403,
-    "y": 1954.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22728,15 +22728,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 259,
+    "id": 1559,
     "server_id": 30,
     "type": "house",
-    "name": "Rubiasia",
-    "owner": "Nox_Nostra",
+    "name": "Дом",
+    "owner": "Walter_Brayen",
     "status": "Аукцион",
-    "x": 2089.57,
-    "y": -995.971,
-    "price": 1000000000,
+    "x": 784.403,
+    "y": 1954.29,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22748,7 +22748,7 @@
     "status": "Аукцион",
     "x": 766.9719,
     "y": 1989.95,
-    "price": 1000000000,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22760,7 +22760,19 @@
     "status": "Аукцион",
     "x": 2660.08,
     "y": 719.549,
-    "price": 1200000000,
+    "price": 900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 313,
+    "server_id": 30,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Walter_Brayen",
+    "status": "Аукцион",
+    "x": 1332.48,
+    "y": -1120.468,
+    "price": 215000,
     "district": "Сан-Андреас"
   },
   {
@@ -26564,18 +26576,6 @@
     "status": "Занято",
     "x": 641.4393,
     "y": -494.824,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 313,
-    "server_id": 30,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Walter_Brayen",
-    "status": "Занято",
-    "x": 1332.48,
-    "y": -1120.468,
     "price": 0,
     "district": "Сан-Андреас"
   },

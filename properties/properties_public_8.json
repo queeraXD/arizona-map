@@ -6000,6 +6000,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 500,
+    "server_id": 8,
+    "type": "house",
+    "name": "|| Night Empire || ",
+    "owner": "Baron_Night",
+    "status": "Занято",
+    "x": 1407.95,
+    "y": 1897.05,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 501,
     "server_id": 8,
     "type": "house",
@@ -9192,6 +9204,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 767,
+    "server_id": 8,
+    "type": "house",
+    "name": "GalanteKottage",
+    "owner": "Nico_Galante",
+    "status": "Занято",
+    "x": -2709.77,
+    "y": 803.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 768,
     "server_id": 8,
     "type": "house",
@@ -9600,6 +9624,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 802,
+    "server_id": 8,
+    "type": "house",
+    "name": "#SAMPERSKOE",
+    "owner": "Maks_Simmons",
+    "status": "Занято",
+    "x": -2321.73,
+    "y": 820.036,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 803,
     "server_id": 8,
     "type": "house",
@@ -9704,6 +9740,18 @@
     "status": "Занято",
     "x": -2721.11,
     "y": -146.664,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 812,
+    "server_id": 8,
+    "type": "house",
+    "name": "Деп шкаф",
+    "owner": "Ricky_Ross",
+    "status": "Занято",
+    "x": -2723.62,
+    "y": -162.701,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11972,6 +12020,18 @@
     "status": "Занято",
     "x": -2066.32,
     "y": 746.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1003,
+    "server_id": 8,
+    "type": "house",
+    "name": "Хатта",
+    "owner": "Philip_Morric",
+    "status": "Занято",
+    "x": -2048.17,
+    "y": 745.5999,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15099,8 +15159,8 @@
     "id": 1264,
     "server_id": 8,
     "type": "house",
-    "name": "Criminals",
-    "owner": "Daniel_Florest",
+    "name": "ЧСВ Марк",
+    "owner": "Mark_Wing",
     "status": "Занято",
     "x": -2840.23,
     "y": 866.8679,
@@ -15284,18 +15344,6 @@
     "status": "Занято",
     "x": -2461.71,
     "y": 1141.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1280,
-    "server_id": 8,
-    "type": "house",
-    "name": "Fanat&Finish Corp.",
-    "owner": "Fanat_Emmersonov",
-    "status": "Занято",
-    "x": -2451.31,
-    "y": 1141.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23004,18 +23052,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1925,
-    "server_id": 8,
-    "type": "house",
-    "name": "templarez mafia",
-    "owner": "Sakura_Moritaio",
-    "status": "Занято",
-    "x": 2816.49,
-    "y": 2275.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1926,
     "server_id": 8,
     "type": "house",
@@ -25692,63 +25728,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 500,
+    "id": 1280,
     "server_id": 8,
     "type": "house",
-    "name": "|| Night Empire || ",
-    "owner": "Baron_Night",
+    "name": "Fanat&Finish Corp.",
+    "owner": "Fanat_Emmersonov",
     "status": "Аукцион",
-    "x": 1407.95,
-    "y": 1897.05,
-    "price": 1000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 767,
-    "server_id": 8,
-    "type": "house",
-    "name": "GalanteKottage",
-    "owner": "Nico_Galante",
-    "status": "Аукцион",
-    "x": -2709.77,
-    "y": 803.08,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 802,
-    "server_id": 8,
-    "type": "house",
-    "name": "#SAMPERSKOE",
-    "owner": "Kreo_Kamera",
-    "status": "Аукцион",
-    "x": -2321.73,
-    "y": 820.036,
-    "price": 100123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 812,
-    "server_id": 8,
-    "type": "house",
-    "name": "Деп шкаф",
-    "owner": "Ricky_Ross",
-    "status": "Аукцион",
-    "x": -2723.62,
-    "y": -162.701,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1003,
-    "server_id": 8,
-    "type": "house",
-    "name": "Хатта",
-    "owner": "Philip_Morric",
-    "status": "Аукцион",
-    "x": -2048.17,
-    "y": 745.5999,
-    "price": 1000000000,
+    "x": -2451.31,
+    "y": 1141.77,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25773,6 +25761,18 @@
     "x": 2666.65,
     "y": 750.096,
     "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1925,
+    "server_id": 8,
+    "type": "house",
+    "name": "templarez mafia",
+    "owner": "Sakura_Moritaio",
+    "status": "Аукцион",
+    "x": 2816.49,
+    "y": 2275.04,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
