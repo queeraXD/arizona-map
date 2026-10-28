@@ -312,18 +312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 26,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dior_Bluberry",
-    "status": "Занято",
-    "x": 2247.91,
-    "y": -1238.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 27,
     "server_id": 15,
     "type": "house",
@@ -5283,7 +5271,7 @@
     "id": 440,
     "server_id": 15,
     "type": "house",
-    "name": "Bluberry House",
+    "name": "Дом",
     "owner": "Dior_Bluberry",
     "status": "Занято",
     "x": 2513.33,
@@ -12852,6 +12840,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1072,
+    "server_id": 15,
+    "type": "house",
+    "name": "Майнинг ферма ( № 2 )",
+    "owner": "Night_McCloud",
+    "status": "Занято",
+    "x": -2904.47,
+    "y": 1101.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1073,
     "server_id": 15,
     "type": "house",
@@ -15492,18 +15492,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1293,
-    "server_id": 15,
-    "type": "house",
-    "name": "Killnet The House (10/10)",
-    "owner": "Sergio_McCloud",
-    "status": "Занято",
-    "x": -2881.35,
-    "y": 790.5029,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1294,
     "server_id": 15,
     "type": "house",
@@ -15555,7 +15543,7 @@
     "id": 1298,
     "server_id": 15,
     "type": "house",
-    "name": " СФ КЛАДЫ ОКРАИНА",
+    "name": "Дом Montaro",
     "owner": "Vlad_Montaro",
     "status": "Занято",
     "x": -2843.22,
@@ -16700,18 +16688,6 @@
     "status": "Занято",
     "x": 1111.63,
     "y": -976.447,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1394,
-    "server_id": 15,
-    "type": "house",
-    "name": "Деревня Шахтера",
-    "owner": "Picyn_McCloud",
-    "status": "Занято",
-    "x": 469.8479,
-    "y": 1437.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21300,15 +21276,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1072,
+    "id": 26,
     "server_id": 15,
     "type": "house",
-    "name": "Майнинг ферма ( № 2 )",
-    "owner": "Night_McCloud",
+    "name": "Дом",
+    "owner": "Dior_Bluberry",
     "status": "Аукцион",
-    "x": -2904.47,
-    "y": 1101.11,
-    "price": 400123123,
+    "x": 2247.91,
+    "y": -1238.57,
+    "price": 750100100,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1293,
+    "server_id": 15,
+    "type": "house",
+    "name": "Killnet The House (10/10)",
+    "owner": "Sergio_McCloud",
+    "status": "Аукцион",
+    "x": -2881.35,
+    "y": 790.5029,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1394,
+    "server_id": 15,
+    "type": "house",
+    "name": "Деревня Шахтера",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 469.8479,
+    "y": 1437.4,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21316,11 +21316,11 @@
     "server_id": 15,
     "type": "house",
     "name": "<3 reizusobased <3",
-    "owner": "Artem_Cuerto",
+    "owner": "Vlad_Montaro",
     "status": "Аукцион",
     "x": 2826.08,
     "y": 2140.73,
-    "price": 200000000,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

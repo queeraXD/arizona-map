@@ -252,6 +252,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 21,
+    "server_id": 13,
+    "type": "house",
+    "name": "Geng boys ХАТА",
+    "owner": "Loki_Daymas",
+    "status": "Занято",
+    "x": 2148.63,
+    "y": -1319.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 22,
     "server_id": 13,
     "type": "house",
@@ -9612,6 +9624,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 802,
+    "server_id": 13,
+    "type": "house",
+    "name": "Юра",
+    "owner": "Dota_Tri",
+    "status": "Занято",
+    "x": -2321.73,
+    "y": 820.036,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 803,
     "server_id": 13,
     "type": "house",
@@ -11907,7 +11931,7 @@
     "id": 994,
     "server_id": 13,
     "type": "house",
-    "name": "Берлога Зетсубо",
+    "name": "Phobos",
     "owner": "Stefan_Ridley",
     "status": "Занято",
     "x": -2321.64,
@@ -12632,18 +12656,6 @@
     "status": "Занято",
     "x": -1901.98,
     "y": 1239.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1055,
-    "server_id": 13,
-    "type": "house",
-    "name": "maqson",
-    "owner": "Maqson_Salo",
-    "status": "Занято",
-    "x": -1901.0,
-    "y": 1203.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17004,18 +17016,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1419,
-    "server_id": 13,
-    "type": "house",
-    "name": "maqson",
-    "owner": "Maqson_Salo",
-    "status": "Занято",
-    "x": 885.424,
-    "y": 2180.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1420,
     "server_id": 13,
     "type": "house",
@@ -17343,8 +17343,8 @@
     "id": 1447,
     "server_id": 13,
     "type": "house",
-    "name": "сатоши сняли чсНО",
-    "owner": "Rostislav_Maskaradov",
+    "name": "     ",
+    "owner": "Parnassius_Mnemosyne",
     "status": "Занято",
     "x": 2781.95,
     "y": -1358.4,
@@ -19580,18 +19580,6 @@
     "status": "Занято",
     "x": 2787.91,
     "y": 2229.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1634,
-    "server_id": 13,
-    "type": "house",
-    "name": "Arm",
-    "owner": "Alpha_Arm",
-    "status": "Занято",
-    "x": 2794.19,
-    "y": 2221.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23268,27 +23256,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 21,
+    "id": 1055,
     "server_id": 13,
     "type": "house",
-    "name": "Geng boys ХАТА",
-    "owner": "Loki_Daymas",
+    "name": "maqson",
+    "owner": "Maqson_Salo",
     "status": "Аукцион",
-    "x": 2148.63,
-    "y": -1319.0,
-    "price": 2000000000,
+    "x": -1901.0,
+    "y": 1203.07,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 802,
+    "id": 1419,
     "server_id": 13,
     "type": "house",
-    "name": "Юра",
-    "owner": "Pleasure_Day",
+    "name": "maqson",
+    "owner": "Maqson_Salo",
     "status": "Аукцион",
-    "x": -2321.73,
-    "y": 820.036,
-    "price": 300000000,
+    "x": 885.424,
+    "y": 2180.92,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1634,
+    "server_id": 13,
+    "type": "house",
+    "name": "Arm",
+    "owner": "Alpha_Arm",
+    "status": "Аукцион",
+    "x": 2794.19,
+    "y": 2221.93,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23572,7 +23572,7 @@
     "server_id": 13,
     "type": "business",
     "name": "Бар",
-    "owner": "Cuerto_Artem",
+    "owner": "Sam_Gonchar",
     "status": "Занято",
     "x": 2186.91,
     "y": 1113.35,
