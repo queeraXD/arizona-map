@@ -252,18 +252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 21,
-    "server_id": 13,
-    "type": "house",
-    "name": "Geng boys ХАТА",
-    "owner": "Loki_Daymas",
-    "status": "Занято",
-    "x": 2148.63,
-    "y": -1319.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 22,
     "server_id": 13,
     "type": "house",
@@ -3428,6 +3416,18 @@
     "status": "Занято",
     "x": 2219.28,
     "y": -1031.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 286,
+    "server_id": 13,
+    "type": "house",
+    "name": "ХАТА",
+    "owner": "Seventh_Sonata",
+    "status": "Занято",
+    "x": 2259.37,
+    "y": -1019.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12460,7 +12460,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Shadow Company ",
-    "owner": "Shadow_Shinigami",
+    "owner": "Buka_KpacaBa",
     "status": "Занято",
     "x": -1732.18,
     "y": 1114.92,
@@ -23280,27 +23280,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 286,
+    "id": 21,
     "server_id": 13,
     "type": "house",
-    "name": "ХАТА",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2259.37,
-    "y": -1019.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 91,
-    "server_id": 13,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Sam_Gonchar",
+    "name": "Geng boys ХАТА",
+    "owner": "Loki_Daymas",
     "status": "Аукцион",
-    "x": 2186.91,
-    "y": 1113.35,
-    "price": 147000,
+    "x": 2148.63,
+    "y": -1319.0,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23576,6 +23564,18 @@
     "status": "Занято",
     "x": -36.098,
     "y": 2349.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 91,
+    "server_id": 13,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Sam_Gonchar",
+    "status": "Занято",
+    "x": 2186.91,
+    "y": 1113.35,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -2004,18 +2004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 167,
-    "server_id": 25,
-    "type": "house",
-    "name": "Охлы+Фриренсет",
-    "owner": "Necro_Fantasia",
-    "status": "Занято",
-    "x": 922.007,
-    "y": -1803.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 168,
     "server_id": 25,
     "type": "house",
@@ -10104,6 +10092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 842,
+    "server_id": 25,
+    "type": "house",
+    "name": "пристанище Hiroshima",
+    "owner": "Red_Rocket",
+    "status": "Занято",
+    "x": -2227.76,
+    "y": 1107.37,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 843,
     "server_id": 25,
     "type": "house",
@@ -10304,18 +10304,6 @@
     "status": "Занято",
     "x": -1432.72,
     "y": -953.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 861,
-    "server_id": 25,
-    "type": "house",
-    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
-    "owner": "Endru_Poloskyn",
-    "status": "Занято",
-    "x": -218.123,
-    "y": 2481.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21888,18 +21876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1828,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Giantlike_Bear",
-    "status": "Занято",
-    "x": 1414.44,
-    "y": 1996.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1829,
     "server_id": 25,
     "type": "house",
@@ -22280,18 +22256,6 @@
     "status": "Занято",
     "x": 2487.37,
     "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1861,
-    "server_id": 25,
-    "type": "house",
-    "name": "BUGROV",
-    "owner": "Bober_Lovec",
-    "status": "Занято",
-    "x": 2495.33,
-    "y": -1410.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23760,27 +23724,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 842,
+    "id": 167,
     "server_id": 25,
     "type": "house",
-    "name": "пристанище Hiroshima",
-    "owner": "Red_Rocket",
+    "name": "Охлы+Фриренсет",
+    "owner": "Necro_Fantasia",
     "status": "Аукцион",
-    "x": -2227.76,
-    "y": 1107.37,
+    "x": 922.007,
+    "y": -1803.89,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 861,
+    "server_id": 25,
+    "type": "house",
+    "name": "ДЕП.УСЛОВИЯ,МАЙНИНГ,ИНТА",
+    "owner": "Endru_Poloskyn",
+    "status": "Аукцион",
+    "x": -218.123,
+    "y": 2481.23,
     "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 86,
+    "id": 1828,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Giantlike_Bear",
+    "status": "Аукцион",
+    "x": 1414.44,
+    "y": 1996.36,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1861,
+    "server_id": 25,
+    "type": "house",
+    "name": "BUGROV",
+    "owner": "Bober_Lovec",
+    "status": "Аукцион",
+    "x": 2495.33,
+    "y": -1410.34,
+    "price": 25000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 70,
     "server_id": 25,
     "type": "business",
-    "name": "Бар",
-    "owner": "Devilish_Smoke",
+    "name": "Магазин 24/7",
+    "owner": "Arthur_Keln",
     "status": "Аукцион",
-    "x": -88.742,
-    "y": 1378.27,
-    "price": 6000000000,
+    "x": 2515.7,
+    "y": 1088.17,
+    "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 202,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Necro_Fantasia",
+    "status": "Аукцион",
+    "x": 1183.17,
+    "y": -1315.1,
+    "price": 100000,
     "district": "Сан-Андреас"
   },
   {
@@ -24020,6 +24032,18 @@
     "status": "Занято",
     "x": 385.891,
     "y": -1817.9,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 86,
+    "server_id": 25,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Alexander_Shpak",
+    "status": "Занято",
+    "x": -88.742,
+    "y": 1378.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24368,18 +24392,6 @@
     "status": "Занято",
     "x": 2856.2,
     "y": 1264.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 70,
-    "server_id": 25,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Arthur_Keln",
-    "status": "Занято",
-    "x": 2515.7,
-    "y": 1088.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25900,7 +25912,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Mono_Polist",
+    "owner": "Minoru_Roses",
     "status": "Занято",
     "x": 1393.84,
     "y": 400.944,
@@ -26788,7 +26800,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Minoru_Roses",
+    "owner": "Mono_Polist",
     "status": "Занято",
     "x": -1826.43,
     "y": -566.68,
@@ -26828,18 +26840,6 @@
     "status": "Занято",
     "x": -104.79,
     "y": -309.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 202,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Necro_Fantasia",
-    "status": "Занято",
-    "x": 1183.17,
-    "y": -1315.1,
     "price": 0,
     "district": "Сан-Андреас"
   },

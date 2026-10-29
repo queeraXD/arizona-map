@@ -4128,6 +4128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 344,
+    "server_id": 23,
+    "type": "house",
+    "name": "House Harder (ПВЗ)",
+    "owner": "Nox_Nostra",
+    "status": "Занято",
+    "x": 746.4089,
+    "y": 304.946,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 345,
     "server_id": 23,
     "type": "house",
@@ -4892,6 +4904,18 @@
     "status": "Занято",
     "x": 1428.29,
     "y": 355.7619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 409,
+    "server_id": 23,
+    "type": "house",
+    "name": "House harder (RC)",
+    "owner": "Nox_Nostra",
+    "status": "Занято",
+    "x": 1409.34,
+    "y": 346.8649,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8016,18 +8040,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 670,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Anabiose_Affective",
-    "status": "Занято",
-    "x": 1084.33,
-    "y": 2031.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 671,
     "server_id": 23,
     "type": "house",
@@ -9020,18 +9032,6 @@
     "status": "Занято",
     "x": -2642.31,
     "y": 728.0339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 754,
-    "server_id": 23,
-    "type": "house",
-    "name": "diablo",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": -2678.18,
-    "y": 722.1619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10290,8 +10290,8 @@
     "name": "Домик Дезоксида",
     "owner": "Dez_Oxid",
     "status": "Занято",
-    "x": -1432.211,
-    "y": -952.5333,
+    "x": -1432.21,
+    "y": -952.533,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19452,18 +19452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1624,
-    "server_id": 23,
-    "type": "house",
-    "name": "Gachi house",
-    "owner": "Billy_Miligan",
-    "status": "Занято",
-    "x": -2843.69,
-    "y": -2269.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1625,
     "server_id": 23,
     "type": "house",
@@ -19892,18 +19880,6 @@
     "status": "Занято",
     "x": 2495.37,
     "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1665,
-    "server_id": 23,
-    "type": "house",
-    "name": "Влож:КиберБроники 8 шт, и тд",
-    "owner": "Tom_Maslenikov",
-    "status": "Занято",
-    "x": 2476.32,
-    "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21108,27 +21084,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 344,
+    "id": 670,
     "server_id": 23,
     "type": "house",
-    "name": "House Harder (ПВЗ)",
-    "owner": "Nox_Nostra",
+    "name": "Дом",
+    "owner": "Anabiose_Affective",
     "status": "Аукцион",
-    "x": 746.4089,
-    "y": 304.946,
+    "x": 1084.33,
+    "y": 2031.72,
     "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 409,
+    "id": 754,
     "server_id": 23,
     "type": "house",
-    "name": "House harder (RC)",
-    "owner": "Nox_Nostra",
+    "name": "diablo",
+    "owner": "Naldon_Legenda",
     "status": "Аукцион",
-    "x": 1409.34,
-    "y": 346.8649,
-    "price": 300000000,
+    "x": -2678.18,
+    "y": 722.1619,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1624,
+    "server_id": 23,
+    "type": "house",
+    "name": "Gachi house",
+    "owner": "Billy_Miligan",
+    "status": "Аукцион",
+    "x": -2843.69,
+    "y": -2269.19,
+    "price": 490000,
     "district": "Сан-Андреас"
   },
   {
@@ -21156,6 +21144,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1665,
+    "server_id": 23,
+    "type": "house",
+    "name": "дом",
+    "owner": "Tom_Maslenikov",
+    "status": "Аукцион",
+    "x": 2476.32,
+    "y": -1391.71,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1666,
     "server_id": 23,
     "type": "house",
@@ -21168,15 +21168,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 359,
+    "id": 158,
     "server_id": 23,
     "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Albert_Ellington",
+    "name": "Отель",
+    "owner": "Naldon_Legenda",
     "status": "Аукцион",
-    "x": 1001.25,
-    "y": 820.343,
-    "price": 270000,
+    "x": 2272.941,
+    "y": -1795.335,
+    "price": 200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 276,
+    "server_id": 23,
+    "type": "business",
+    "name": "Магазин видеокарт",
+    "owner": "Naldon_Legenda",
+    "status": "Аукцион",
+    "x": 1081.24,
+    "y": -1696.78,
+    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
@@ -22764,6 +22776,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 359,
+    "server_id": 23,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Albert_Ellington",
+    "status": "Занято",
+    "x": 1001.25,
+    "y": 820.343,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 33,
     "server_id": 23,
     "type": "business",
@@ -23820,18 +23844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 158,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 2272.941,
-    "y": -1795.335,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 268,
     "server_id": 23,
     "type": "business",
@@ -24704,18 +24716,6 @@
     "status": "Занято",
     "x": -1440.58,
     "y": 2611.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 276,
-    "server_id": 23,
-    "type": "business",
-    "name": "Магазин видеокарт",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 1081.24,
-    "y": -1696.78,
     "price": 0,
     "district": "Сан-Андреас"
   },

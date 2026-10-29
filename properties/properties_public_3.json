@@ -7224,18 +7224,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 602,
-    "server_id": 3,
-    "type": "house",
-    "name": ":ls::la::lk:<3:ln::lo::le::ll:",
-    "owner": "Sak_Noel",
-    "status": "Занято",
-    "x": -1532.87,
-    "y": 2656.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 603,
     "server_id": 3,
     "type": "house",
@@ -10688,6 +10676,18 @@
     "status": "Занято",
     "x": -2075.03,
     "y": -2526.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 892,
+    "server_id": 3,
+    "type": "house",
+    "name": "У Свита по выгоде (Байкеры)",
+    "owner": "Postavshik_Snaryadov",
+    "status": "Занято",
+    "x": -2068.13,
+    "y": -2537.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14748,6 +14748,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1231,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Sorochenko",
+    "status": "Занято",
+    "x": -2383.14,
+    "y": 1336.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1232,
     "server_id": 3,
     "type": "house",
@@ -15124,7 +15136,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Rose",
-    "owner": "Soma_Rose",
+    "owner": "Vladimir_Greco",
     "status": "Занято",
     "x": -2504.46,
     "y": 821.3079,
@@ -15176,18 +15188,6 @@
     "status": "Занято",
     "x": -1565.13,
     "y": 2712.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1268,
-    "server_id": 3,
-    "type": "house",
-    "name": "WoodLand",
-    "owner": "Ice_Thugger",
-    "status": "Занято",
-    "x": -1587.02,
-    "y": 2650.18,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19704,6 +19704,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1645,
+    "server_id": 3,
+    "type": "house",
+    "name": "Arabaci",
+    "owner": "Tima_Mindless",
+    "status": "Занято",
+    "x": 2514.58,
+    "y": -1240.46,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1646,
     "server_id": 3,
     "type": "house",
@@ -23976,39 +23988,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 892,
+    "id": 602,
     "server_id": 3,
     "type": "house",
-    "name": "У Свита по выгоде (Байкеры)",
-    "owner": "Postavshik_Snaryadov",
+    "name": ":ls::la::lk:<3:ln::lo::le::ll:",
+    "owner": "Sak_Noel",
     "status": "Аукцион",
-    "x": -2068.13,
-    "y": -2537.5,
-    "price": 400000000,
+    "x": -1532.87,
+    "y": 2656.68,
+    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1231,
+    "id": 1268,
     "server_id": 3,
     "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Sorochenko",
+    "name": "WoodLand",
+    "owner": "Ice_Thugger",
     "status": "Аукцион",
-    "x": -2383.14,
-    "y": 1336.48,
-    "price": 800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1645,
-    "server_id": 3,
-    "type": "house",
-    "name": "Arabaci",
-    "owner": "Kaneke_Lesters",
-    "status": "Аукцион",
-    "x": 2514.58,
-    "y": -1240.46,
-    "price": 1000000000,
+    "x": -1587.02,
+    "y": 2650.18,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
