@@ -1540,7 +1540,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Крутие пацики",
-    "owner": "Tape_Bugrov",
+    "owner": "Tape_Chicha",
     "status": "Занято",
     "x": 1801.93,
     "y": -2099.13,
@@ -2691,8 +2691,8 @@
     "id": 225,
     "server_id": 25,
     "type": "house",
-    "name": "Кибитка",
-    "owner": "Tima_Dedrikob",
+    "name": "Forss Dinastiya",
+    "owner": "Force_Monolith",
     "status": "Занято",
     "x": 946.0869,
     "y": -710.3339,
@@ -6276,6 +6276,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 524,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Cer",
+    "status": "Занято",
+    "x": 1596.98,
+    "y": 2147.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 525,
     "server_id": 25,
     "type": "house",
@@ -7640,18 +7652,6 @@
     "status": "Занято",
     "x": -328.5119,
     "y": 1118.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 639,
-    "server_id": 25,
-    "type": "house",
-    "name": "refund",
-    "owner": "Podpal_Dryn",
-    "status": "Занято",
-    "x": -278.9989,
-    "y": 1003.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11980,7 +11980,7 @@
     "server_id": 25,
     "type": "house",
     "name": "[Steiner] House",
-    "owner": "Klinx_Radionov",
+    "owner": "Nikita_Nelubov",
     "status": "Занято",
     "x": -2413.55,
     "y": 1137.33,
@@ -12132,6 +12132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1015,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lan_Walker",
+    "status": "Занято",
+    "x": -2478.95,
+    "y": 1141.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1016,
     "server_id": 25,
     "type": "house",
@@ -12164,6 +12176,18 @@
     "status": "Занято",
     "x": -2541.3,
     "y": 987.9089,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1019,
+    "server_id": 25,
+    "type": "house",
+    "name": "СБР",
+    "owner": "Bogdan_Airmax",
+    "status": "Занято",
+    "x": -2542.09,
+    "y": 967.7059,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22236,6 +22260,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1861,
+    "server_id": 25,
+    "type": "house",
+    "name": "...... ",
+    "owner": "Vova_Cer",
+    "status": "Занято",
+    "x": 2495.33,
+    "y": -1410.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1862,
     "server_id": 25,
     "type": "house",
@@ -23708,19 +23744,19 @@
     "status": "Аукцион",
     "x": 922.007,
     "y": -1803.89,
-    "price": 500000000,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 524,
+    "id": 639,
     "server_id": 25,
     "type": "house",
-    "name": "Дом",
-    "owner": "Bobyr_Zabivnoy",
+    "name": "refund",
+    "owner": "Podpal_Dryn",
     "status": "Аукцион",
-    "x": 1596.98,
-    "y": 2147.31,
-    "price": 250000000,
+    "x": -278.9989,
+    "y": 1003.39,
+    "price": 100123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23732,79 +23768,19 @@
     "status": "Аукцион",
     "x": -2017.23,
     "y": 1000.07,
-    "price": 1000000000,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1015,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Artur_Stark",
-    "status": "Аукцион",
-    "x": -2478.95,
-    "y": 1141.58,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1019,
-    "server_id": 25,
-    "type": "house",
-    "name": "СБР",
-    "owner": "Bogdan_Airmax",
-    "status": "Аукцион",
-    "x": -2542.09,
-    "y": 967.7059,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1861,
-    "server_id": 25,
-    "type": "house",
-    "name": "ШКАФ",
-    "owner": "Sky_Adkins",
-    "status": "Аукцион",
-    "x": 2495.33,
-    "y": -1410.34,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 58,
-    "server_id": 25,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Necro_Fantasia",
-    "status": "Аукцион",
-    "x": -19.209,
-    "y": 1175.23,
-    "price": 210000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 70,
-    "server_id": 25,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Arthur_Keln",
-    "status": "Аукцион",
-    "x": 2515.7,
-    "y": 1088.17,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 202,
+    "id": 184,
     "server_id": 25,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Necro_Fantasia",
+    "owner": "Michael_Rapaport",
     "status": "Аукцион",
-    "x": 1183.17,
-    "y": -1315.1,
-    "price": 50000,
+    "x": 2351.41,
+    "y": 2405.59,
+    "price": 90001,
     "district": "Сан-Андреас"
   },
   {
@@ -24404,6 +24380,18 @@
     "status": "Занято",
     "x": 2856.2,
     "y": 1264.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 70,
+    "server_id": 25,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Arthur_Keln",
+    "status": "Занято",
+    "x": 2515.7,
+    "y": 1088.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26028,6 +26016,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 58,
+    "server_id": 25,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Maya_Kotlas",
+    "status": "Занято",
+    "x": -19.209,
+    "y": 1175.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 122,
     "server_id": 25,
     "type": "business",
@@ -26608,7 +26608,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Force_Monolith",
+    "owner": "Tima_Dedrikob",
     "status": "Занято",
     "x": 1104.78,
     "y": 1380.93,
@@ -26624,18 +26624,6 @@
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 184,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Michael_Rapaport",
-    "status": "Занято",
-    "x": 2351.41,
-    "y": 2405.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26840,6 +26828,18 @@
     "status": "Занято",
     "x": -104.79,
     "y": -309.98,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 202,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Michael_Rapaport",
+    "status": "Занято",
+    "x": 1183.17,
+    "y": -1315.1,
     "price": 0,
     "district": "Сан-Андреас"
   },

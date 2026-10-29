@@ -1948,7 +1948,7 @@
     "server_id": 2,
     "type": "house",
     "name": "memoryze squad",
-    "owner": "Sakura_Moris",
+    "owner": "Lucifer_Valmont",
     "status": "Занято",
     "x": 992.76,
     "y": -1817.58,
@@ -1960,7 +1960,7 @@
     "server_id": 2,
     "type": "house",
     "name": "!KOBAJIb Vilage!",
-    "owner": "Sakura_Moris",
+    "owner": "Lucifer_Valmont",
     "status": "Занято",
     "x": 980.997,
     "y": -1814.69,
@@ -1972,7 +1972,7 @@
     "server_id": 2,
     "type": "house",
     "name": "!KOBAJIb Vilage!",
-    "owner": "Sakura_Moris",
+    "owner": "Lucifer_Valmont",
     "status": "Занято",
     "x": 969.789,
     "y": -1811.54,
@@ -13608,18 +13608,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1135,
-    "server_id": 2,
-    "type": "house",
-    "name": "Штаб",
-    "owner": "Saymon_Kong",
-    "status": "Занято",
-    "x": 282.6799,
-    "y": -1618.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1136,
     "server_id": 2,
     "type": "house",
@@ -17128,7 +17116,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Дом",
-    "owner": "Fakel_Lang",
+    "owner": "Garik_Marani",
     "status": "Занято",
     "x": -2408.98,
     "y": 819.973,
@@ -17612,6 +17600,18 @@
     "status": "Занято",
     "x": -2682.92,
     "y": 192.815,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1469,
+    "server_id": 2,
+    "type": "house",
+    "name": "Pay_Visa Collection ",
+    "owner": "Pay_Visa",
+    "status": "Занято",
+    "x": -2672.07,
+    "y": 190.026,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18956,18 +18956,6 @@
     "status": "Занято",
     "x": -2238.79,
     "y": 980.575,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1582,
-    "server_id": 2,
-    "type": "house",
-    "name": "Nolan",
-    "owner": "Anar_Abdullaev",
-    "status": "Занято",
-    "x": -2238.79,
-    "y": 998.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20504,18 +20492,6 @@
     "status": "Занято",
     "x": 928.6149,
     "y": 2319.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1711,
-    "server_id": 2,
-    "type": "house",
-    "name": "Stics Empire",
-    "owner": "Sergei_Stics",
-    "status": "Занято",
-    "x": 928.0239,
-    "y": 2214.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22956,18 +22932,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1920,
-    "server_id": 2,
-    "type": "house",
-    "name": "ДОМ ДЛЯ МАЙНИНГА ",
-    "owner": "Marik_Marin",
-    "status": "Занято",
-    "x": 2623.65,
-    "y": 2058.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1921,
     "server_id": 2,
     "type": "house",
@@ -23940,15 +23904,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1469,
+    "id": 1135,
     "server_id": 2,
     "type": "house",
-    "name": "Pay_Visa Collection ",
-    "owner": "Pay_Visa",
+    "name": "Штаб",
+    "owner": "Saymon_Kong",
     "status": "Аукцион",
-    "x": -2672.07,
-    "y": 190.026,
-    "price": 3000000000,
+    "x": 282.6799,
+    "y": -1618.43,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1582,
+    "server_id": 2,
+    "type": "house",
+    "name": "Nolan",
+    "owner": "Vardik_Shakur",
+    "status": "Аукцион",
+    "x": -2238.79,
+    "y": 998.76,
+    "price": 4000123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1711,
+    "server_id": 2,
+    "type": "house",
+    "name": "Stics Empire",
+    "owner": "Sergei_Stics",
+    "status": "Аукцион",
+    "x": 928.0239,
+    "y": 2214.39,
+    "price": 2500000228,
     "district": "Сан-Андреас"
   },
   {
@@ -23960,7 +23948,31 @@
     "status": "Аукцион",
     "x": 1796.54,
     "y": 2803.61,
-    "price": 1750123123,
+    "price": 1500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1920,
+    "server_id": 2,
+    "type": "house",
+    "name": "ДОМ ДЛЯ МАЙНИНГА ",
+    "owner": "Marik_Marin",
+    "status": "Аукцион",
+    "x": 2623.65,
+    "y": 2058.1,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 179,
+    "server_id": 2,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Gorila_Frank",
+    "status": "Аукцион",
+    "x": 1521.99,
+    "y": -1025.07,
+    "price": 8999999999,
     "district": "Сан-Андреас"
   },
   {
@@ -26744,18 +26756,6 @@
     "status": "Занято",
     "x": -172.597,
     "y": 1106.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 179,
-    "server_id": 2,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Gorila_Frank",
-    "status": "Занято",
-    "x": 1521.99,
-    "y": -1025.07,
     "price": 0,
     "district": "Сан-Андреас"
   },

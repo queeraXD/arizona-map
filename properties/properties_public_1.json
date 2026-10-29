@@ -372,18 +372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 31,
-    "server_id": 1,
-    "type": "house",
-    "name": "BUNKER corp.",
-    "owner": "Leha_Bunker",
-    "status": "Занято",
-    "x": 2110.99,
-    "y": -1244.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 32,
     "server_id": 1,
     "type": "house",
@@ -5484,18 +5472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 457,
-    "server_id": 1,
-    "type": "house",
-    "name": "есть деп ",
-    "owner": "Lukss_Brooklyn",
-    "status": "Занято",
-    "x": 2069.02,
-    "y": 696.2709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 458,
     "server_id": 1,
     "type": "house",
@@ -7048,7 +7024,7 @@
     "server_id": 1,
     "type": "house",
     "name": "BUNKER corp.",
-    "owner": "Psycho_Therapist",
+    "owner": "Forest_Groove",
     "status": "Занято",
     "x": -604.3229,
     "y": 2716.72,
@@ -8920,7 +8896,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Doserovich",
-    "owner": "Mavrik_Doserovich",
+    "owner": "Kraft_Doserovich",
     "status": "Занято",
     "x": -2884.17,
     "y": 743.6279,
@@ -10564,7 +10540,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Дом",
-    "owner": "Maddox_Blather",
+    "owner": "Kane_Blather",
     "status": "Занято",
     "x": -884.2219,
     "y": 1537.12,
@@ -24144,6 +24120,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 31,
+    "server_id": 1,
+    "type": "house",
+    "name": "BUNKER corp.",
+    "owner": "Leha_Bunker",
+    "status": "Аукцион",
+    "x": 2110.99,
+    "y": -1244.14,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 457,
+    "server_id": 1,
+    "type": "house",
+    "name": "есть деп ",
+    "owner": "Lukss_Brooklyn",
+    "status": "Аукцион",
+    "x": 2069.02,
+    "y": 696.2709,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1257,
     "server_id": 1,
     "type": "house",
@@ -24152,7 +24152,7 @@
     "status": "Аукцион",
     "x": -2477.91,
     "y": 1301.24,
-    "price": 23000,
+    "price": 22000,
     "district": "Сан-Андреас"
   },
   {
@@ -24164,7 +24164,19 @@
     "status": "Аукцион",
     "x": -2233.26,
     "y": 848.986,
-    "price": 3000123123,
+    "price": 3000123132,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 185,
+    "server_id": 1,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Fentoms_Tempest",
+    "status": "Аукцион",
+    "x": 2599.42,
+    "y": 1060.38,
+    "price": 165000,
     "district": "Сан-Андреас"
   },
   {
@@ -27020,18 +27032,6 @@
     "status": "Занято",
     "x": 2351.41,
     "y": 2405.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 185,
-    "server_id": 1,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Fentoms_Tempest",
-    "status": "Занято",
-    "x": 2599.42,
-    "y": 1060.38,
     "price": 0,
     "district": "Сан-Андреас"
   },

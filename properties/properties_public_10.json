@@ -4116,18 +4116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 343,
-    "server_id": 10,
-    "type": "house",
-    "name": "Yaroslaw_Scam",
-    "owner": "Tochka_Spawna",
-    "status": "Занято",
-    "x": 719.0629,
-    "y": 300.639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 344,
     "server_id": 10,
     "type": "house",
@@ -7724,18 +7712,6 @@
     "status": "Занято",
     "x": 1897.15,
     "y": 736.687,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 644,
-    "server_id": 10,
-    "type": "house",
-    "name": "Коммуналка Бибуса",
-    "owner": "Manual_Insane",
-    "status": "Занято",
-    "x": 1956.63,
-    "y": 714.864,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11448,18 +11424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 955,
-    "server_id": 10,
-    "type": "house",
-    "name": "Hololive EN",
-    "owner": "Rick_Roll",
-    "status": "Занято",
-    "x": -2159.6,
-    "y": 946.984,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 956,
     "server_id": 10,
     "type": "house",
@@ -14604,18 +14568,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1218,
-    "server_id": 10,
-    "type": "house",
-    "name": "potato ",
-    "owner": "Aleksei_Valiullin",
-    "status": "Занято",
-    "x": -2476.96,
-    "y": 1274.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1219,
     "server_id": 10,
     "type": "house",
@@ -15176,18 +15128,6 @@
     "status": "Занято",
     "x": -2690.48,
     "y": 123.705,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1266,
-    "server_id": 10,
-    "type": "house",
-    "name": "relax ",
-    "owner": "Aleksei_Valiullin",
-    "status": "Занято",
-    "x": -2686.95,
-    "y": 115.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16976,6 +16916,18 @@
     "status": "Занято",
     "x": 1515.91,
     "y": 2610.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1416,
+    "server_id": 10,
+    "type": "house",
+    "name": "Lazzarelli Empire",
+    "owner": "Vakhbet_Abedov",
+    "status": "Занято",
+    "x": 1513.3,
+    "y": 2565.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22176,18 +22128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1850,
-    "server_id": 10,
-    "type": "house",
-    "name": "Инта+П+ПВ+Деп условия",
-    "owner": "Deafen_Wainwright",
-    "status": "Занято",
-    "x": 1798.84,
-    "y": 2812.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1851,
     "server_id": 10,
     "type": "house",
@@ -22735,18 +22675,6 @@
     "owner": "Dima_Fentyrse",
     "status": "Занято",
     "x": 2627.03,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1897,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Metka_Doma",
-    "status": "Занято",
-    "x": 2617.64,
     "y": 2019.21,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23340,15 +23268,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1416,
+    "id": 343,
     "server_id": 10,
     "type": "house",
-    "name": "Lazzarelli Empire",
-    "owner": "Vakhbet_Abedov",
+    "name": "Yaroslaw_Scam",
+    "owner": "Tochka_Spawna",
     "status": "Аукцион",
-    "x": 1513.3,
-    "y": 2565.43,
-    "price": 600000000,
+    "x": 719.0629,
+    "y": 300.639,
+    "price": 20000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 644,
+    "server_id": 10,
+    "type": "house",
+    "name": "Коммуналка Бибуса",
+    "owner": "Manual_Insane",
+    "status": "Аукцион",
+    "x": 1956.63,
+    "y": 714.864,
+    "price": 10123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 955,
+    "server_id": 10,
+    "type": "house",
+    "name": "Hololive EN",
+    "owner": "Rick_Roll",
+    "status": "Аукцион",
+    "x": -2159.6,
+    "y": 946.984,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1218,
+    "server_id": 10,
+    "type": "house",
+    "name": "potato ",
+    "owner": "Aleksei_Valiullin",
+    "status": "Аукцион",
+    "x": -2476.96,
+    "y": 1274.1,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1266,
+    "server_id": 10,
+    "type": "house",
+    "name": "relax ",
+    "owner": "Aleksei_Valiullin",
+    "status": "Аукцион",
+    "x": -2686.95,
+    "y": 115.4,
+    "price": 30000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1850,
+    "server_id": 10,
+    "type": "house",
+    "name": "Инта+П+ПВ+Деп условия",
+    "owner": "Deafen_Wainwright",
+    "status": "Аукцион",
+    "x": 1798.84,
+    "y": 2812.16,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1897,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Metka_Doma",
+    "status": "Аукцион",
+    "x": 2617.64,
+    "y": 2019.21,
+    "price": 40000000,
     "district": "Сан-Андреас"
   },
   {
