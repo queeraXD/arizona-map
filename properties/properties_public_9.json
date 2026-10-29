@@ -5904,18 +5904,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 492,
-    "server_id": 9,
-    "type": "house",
-    "name": "фарм",
-    "owner": "Ban_Kir",
-    "status": "Занято",
-    "x": 2042.4,
-    "y": 731.6829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 493,
     "server_id": 9,
     "type": "house",
@@ -7044,18 +7032,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 587,
-    "server_id": 9,
-    "type": "house",
-    "name": "райский уголок ",
-    "owner": "Ban_Kir",
-    "status": "Занято",
-    "x": -604.3229,
-    "y": 2716.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 588,
     "server_id": 9,
     "type": "house",
@@ -7904,18 +7880,6 @@
     "status": "Занято",
     "x": 1028.89,
     "y": 1905.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 659,
-    "server_id": 9,
-    "type": "house",
-    "name": "Домик",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 1029.68,
-    "y": 1876.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12448,7 +12412,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Дом",
-    "owner": "Moon_Solo",
+    "owner": "Greatt_Solo",
     "status": "Занято",
     "x": 2022.8,
     "y": 2133.59,
@@ -13256,18 +13220,6 @@
     "status": "Занято",
     "x": -1732.31,
     "y": 1115.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1106,
-    "server_id": 9,
-    "type": "house",
-    "name": "Willen Farm",
-    "owner": "Sergio_Tohok",
-    "status": "Занято",
-    "x": -1728.01,
-    "y": 1138.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18327,8 +18279,8 @@
     "id": 1528,
     "server_id": 9,
     "type": "house",
-    "name": "block house",
-    "owner": "Epileptic_Kid",
+    "name": "Compton St.",
+    "owner": "Ryder_Compton",
     "status": "Занято",
     "x": 2433.93,
     "y": -1320.66,
@@ -20940,18 +20892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1746,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 531.333,
-    "y": 1336.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1747,
     "server_id": 9,
     "type": "house",
@@ -20979,7 +20919,7 @@
     "id": 1750,
     "server_id": 9,
     "type": "house",
-    "name": "Дача",
+    "name": "Стриптиз-клуб",
     "owner": "Brayn_Gold",
     "status": "Занято",
     "x": 707.137,
@@ -23208,18 +23148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1938,
-    "server_id": 9,
-    "type": "house",
-    "name": "Madrid",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": 2492.12,
-    "y": -1417.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1939,
     "server_id": 9,
     "type": "house",
@@ -23925,6 +23853,78 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 492,
+    "server_id": 9,
+    "type": "house",
+    "name": "фарм",
+    "owner": "Ban_Kir",
+    "status": "Аукцион",
+    "x": 2042.4,
+    "y": 731.6829,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 587,
+    "server_id": 9,
+    "type": "house",
+    "name": "райский уголок ",
+    "owner": "Ban_Kir",
+    "status": "Аукцион",
+    "x": -604.3229,
+    "y": 2716.72,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 659,
+    "server_id": 9,
+    "type": "house",
+    "name": "Домик",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 1029.68,
+    "y": 1876.28,
+    "price": 2500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1106,
+    "server_id": 9,
+    "type": "house",
+    "name": "Willen Farm",
+    "owner": "Sergio_Tohok",
+    "status": "Аукцион",
+    "x": -1728.01,
+    "y": 1138.81,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1746,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": 531.333,
+    "y": 1336.2,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1938,
+    "server_id": 9,
+    "type": "house",
+    "name": "Madrid",
+    "owner": "Night_Sosiska",
+    "status": "Аукцион",
+    "x": 2492.12,
+    "y": -1417.45,
+    "price": 1600123123,
     "district": "Сан-Андреас"
   },
   {

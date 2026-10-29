@@ -876,18 +876,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 73,
-    "server_id": 24,
-    "type": "house",
-    "name": "Tayson_Mafia",
-    "owner": "Capitan_Deeplace",
-    "status": "Занято",
-    "x": 2402.54,
-    "y": -1714.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 74,
     "server_id": 24,
     "type": "house",
@@ -4292,18 +4280,6 @@
     "status": "Занято",
     "x": 1288.35,
     "y": -873.8729,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 24,
-    "type": "house",
-    "name": "Х2 рем,7-8 ур карты набор творч",
-    "owner": "Raiku_Sotto",
-    "status": "Занято",
-    "x": 1059.29,
-    "y": -1105.3,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9244,7 +9220,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Wanted Corporation",
-    "owner": "Sos_Krutoy",
+    "owner": "VIktor_Worowskoy",
     "status": "Занято",
     "x": -2622.52,
     "y": 782.702,
@@ -9987,7 +9963,7 @@
     "id": 835,
     "server_id": 24,
     "type": "house",
-    "name": "домик егорика 2",
+    "name": "eloqunce",
     "owner": "Balenciaga_Xpander",
     "status": "Занято",
     "x": -2281.59,
@@ -10844,6 +10820,18 @@
     "status": "Занято",
     "x": -2126.89,
     "y": 996.109,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 908,
+    "server_id": 24,
+    "type": "house",
+    "name": "Ресурсы",
+    "owner": "Daniil_Kostalev",
+    "status": "Занято",
+    "x": -2126.98,
+    "y": 1014.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12928,7 +12916,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Змейка СФ",
-    "owner": "Bespredel_Deeplace",
+    "owner": "Mortyy_Deeplace",
     "status": "Занято",
     "x": -2860.63,
     "y": 963.5679,
@@ -18636,18 +18624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1558,
-    "server_id": 24,
-    "type": "house",
-    "name": "<3 Sovhoz Corporation <3",
-    "owner": "Planka_Blueberry",
-    "status": "Занято",
-    "x": 580.674,
-    "y": -1149.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1559,
     "server_id": 24,
     "type": "house",
@@ -21996,6 +21972,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 73,
+    "server_id": 24,
+    "type": "house",
+    "name": "Tayson_Mafia",
+    "owner": "Capitan_Deeplace",
+    "status": "Аукцион",
+    "x": 2402.54,
+    "y": -1714.82,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 24,
+    "type": "house",
+    "name": "Х2 рем,7-8 ур карты набор творч",
+    "owner": "Raiku_Sotto",
+    "status": "Аукцион",
+    "x": 1059.29,
+    "y": -1105.3,
+    "price": 510000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 385,
     "server_id": 24,
     "type": "house",
@@ -22004,7 +22004,7 @@
     "status": "Аукцион",
     "x": 2363.19,
     "y": 187.2169,
-    "price": 500000000,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22028,19 +22028,31 @@
     "status": "Аукцион",
     "x": 1570.38,
     "y": 2711.11,
-    "price": 500000000,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 908,
+    "id": 1558,
     "server_id": 24,
     "type": "house",
-    "name": "Ресурсы",
-    "owner": "Daniil_Kostalev",
+    "name": "<3 Sovhoz Corporation <3",
+    "owner": "Planka_Blueberry",
     "status": "Аукцион",
-    "x": -2126.98,
-    "y": 1014.21,
-    "price": 400000000,
+    "x": 580.674,
+    "y": -1149.68,
+    "price": 1700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 185,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "ersultanfaizulaev",
+    "status": "Аукцион",
+    "x": 2599.42,
+    "y": 1060.38,
+    "price": 1000123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23764,7 +23776,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Lucky_May",
+    "owner": "Trauma_Wasted",
     "status": "Занято",
     "x": 2638.3,
     "y": 1671.86,
@@ -24896,18 +24908,6 @@
     "status": "Занято",
     "x": 2351.41,
     "y": 2405.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 185,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "ersultanfaizulaev",
-    "status": "Занято",
-    "x": 2599.42,
-    "y": 1060.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
