@@ -3876,6 +3876,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 323,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vova_Idushchijkreke",
+    "status": "Занято",
+    "x": 776.6719,
+    "y": -503.492,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 324,
     "server_id": 8,
     "type": "house",
@@ -5996,18 +6008,6 @@
     "status": "Занято",
     "x": 1407.95,
     "y": 1897.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 501,
-    "server_id": 8,
-    "type": "house",
-    "name": "|| Night Empire ||",
-    "owner": "Meteor_Night",
-    "status": "Занято",
-    "x": 1364.67,
-    "y": 1896.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15147,7 +15147,7 @@
     "id": 1264,
     "server_id": 8,
     "type": "house",
-    "name": "ЧСВ Марк",
+    "name": "ex. Mark Quincy DS zhdanpv",
     "owner": "Mark_Wing",
     "status": "Занято",
     "x": -2840.23,
@@ -18444,6 +18444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1539,
+    "server_id": 8,
+    "type": "house",
+    "name": "Milagro and Yor",
+    "owner": "Kazu_Predator",
+    "status": "Занято",
+    "x": -2437.46,
+    "y": 2354.94,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1540,
     "server_id": 8,
     "type": "house",
@@ -19303,18 +19315,6 @@
     "owner": "Seduce_Dominator",
     "status": "Занято",
     "x": 2540.04,
-    "y": 713.263,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1612,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Luminisent_London",
-    "status": "Занято",
-    "x": 2532.51,
     "y": 713.263,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22980,18 +22980,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1918,
-    "server_id": 8,
-    "type": "house",
-    "name": "Лв край",
-    "owner": "Necro_Fantasia",
-    "status": "Занято",
-    "x": 2788.23,
-    "y": 2260.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1919,
     "server_id": 8,
     "type": "house",
@@ -24468,6 +24456,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2043,
+    "server_id": 8,
+    "type": "house",
+    "name": "склад",
+    "owner": "Philip_Morric",
+    "status": "Занято",
+    "x": 2594.5,
+    "y": -1229.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 2044,
     "server_id": 8,
     "type": "house",
@@ -24668,6 +24668,18 @@
     "status": "Занято",
     "x": 2615.11,
     "y": -1233.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2062,
+    "server_id": 8,
+    "type": "house",
+    "name": "Teo House",
+    "owner": "Waer_Space",
+    "status": "Занято",
+    "x": 2615.11,
+    "y": -1229.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25728,27 +25740,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 323,
+    "id": 501,
     "server_id": 8,
     "type": "house",
-    "name": "Дом",
-    "owner": "Vova_Idushchijkreke",
+    "name": "|| Night Empire ||",
+    "owner": "Meteor_Night",
     "status": "Аукцион",
-    "x": 776.6719,
-    "y": -503.492,
-    "price": 3999999999,
+    "x": 1364.67,
+    "y": 1896.72,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1539,
+    "id": 1612,
     "server_id": 8,
     "type": "house",
-    "name": "Milagro and Yor",
-    "owner": "Kazu_Predator",
+    "name": "Дом",
+    "owner": "Luminisent_London",
     "status": "Аукцион",
-    "x": -2437.46,
-    "y": 2354.94,
-    "price": 200123123,
+    "x": 2532.51,
+    "y": 713.263,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1918,
+    "server_id": 8,
+    "type": "house",
+    "name": "Лв край",
+    "owner": "Necro_Fantasia",
+    "status": "Аукцион",
+    "x": 2788.23,
+    "y": 2260.97,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25761,30 +25785,6 @@
     "x": 2816.49,
     "y": 2275.04,
     "price": 600000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2043,
-    "server_id": 8,
-    "type": "house",
-    "name": "склад",
-    "owner": "Philip_Morric",
-    "status": "Аукцион",
-    "x": 2594.5,
-    "y": -1229.21,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2062,
-    "server_id": 8,
-    "type": "house",
-    "name": "Teo House",
-    "owner": "Waer_Space",
-    "status": "Аукцион",
-    "x": 2615.11,
-    "y": -1229.32,
-    "price": 210123123,
     "district": "Сан-Андреас"
   },
   {

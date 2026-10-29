@@ -2404,7 +2404,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Sha_Zaconchitsya",
+    "owner": "Nurse_Harrow",
     "status": "Занято",
     "x": 1468.62,
     "y": -905.5709,
@@ -9380,6 +9380,18 @@
     "status": "Занято",
     "x": -2541.25,
     "y": 750.9169,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 782,
+    "server_id": 18,
+    "type": "house",
+    "name": "Тут проживает dneprovskiy",
+    "owner": "Artem_Dneprovskiy",
+    "status": "Занято",
+    "x": -2541.25,
+    "y": 785.179,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20175,7 +20187,7 @@
     "id": 1685,
     "server_id": 18,
     "type": "house",
-    "name": "Small Dick House",
+    "name": "Blackwood Empire",
     "owner": "Norman_Blackwood",
     "status": "Занято",
     "x": -760.692,
@@ -20868,6 +20880,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1743,
+    "server_id": 18,
+    "type": "house",
+    "name": "Кибитка",
+    "owner": "Rostik_Rollsovskiy",
+    "status": "Занято",
+    "x": 1740.81,
+    "y": 2863.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1744,
     "server_id": 18,
     "type": "house",
@@ -21360,6 +21384,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1785,
+    "server_id": 18,
+    "type": "house",
+    "name": "набор архитектора2",
+    "owner": "Kekit_Kekitov",
+    "status": "Занято",
+    "x": 2634.48,
+    "y": 2019.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1787,
     "server_id": 18,
     "type": "house",
@@ -21536,6 +21572,18 @@
     "status": "Занято",
     "x": 2623.65,
     "y": 2056.22,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1802,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lucien_Eanes",
+    "status": "Занято",
+    "x": 2623.65,
+    "y": 2074.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22128,18 +22176,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 782,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Rostik_Rollsovskiy",
-    "status": "Аукцион",
-    "x": -2541.25,
-    "y": 785.179,
-    "price": 2800000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1496,
     "server_id": 18,
     "type": "house",
@@ -22164,30 +22200,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1743,
-    "server_id": 18,
-    "type": "house",
-    "name": "Кибитка",
-    "owner": "Rostik_Rollsovskiy",
-    "status": "Аукцион",
-    "x": 1740.81,
-    "y": 2863.31,
-    "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1785,
-    "server_id": 18,
-    "type": "house",
-    "name": "набор архитектора2",
-    "owner": "Kekit_Kekitov",
-    "status": "Аукцион",
-    "x": 2634.48,
-    "y": 2019.21,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1786,
     "server_id": 18,
     "type": "house",
@@ -22196,18 +22208,6 @@
     "status": "Аукцион",
     "x": 2643.6,
     "y": 2019.38,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1802,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lucien_Eanes",
-    "status": "Аукцион",
-    "x": 2623.65,
-    "y": 2074.85,
     "price": 3000000000,
     "district": "Сан-Андреас"
   },
@@ -24916,7 +24916,7 @@
     "server_id": 18,
     "type": "business",
     "name": "Отель",
-    "owner": "Young_Shaw",
+    "owner": "Sim_Carta",
     "status": "Занято",
     "x": 1858.639,
     "y": 2159.243,

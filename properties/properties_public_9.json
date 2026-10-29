@@ -2148,6 +2148,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 179,
+    "server_id": 9,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Piggly_Viggly",
+    "status": "Занято",
+    "x": 656.023,
+    "y": -1636.08,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 180,
     "server_id": 9,
     "type": "house",
@@ -3176,6 +3188,30 @@
     "status": "Занято",
     "x": 226.3999,
     "y": -303.0809,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 266,
+    "server_id": 9,
+    "type": "house",
+    "name": "Кровь за Кровь 3",
+    "owner": "Harry_Corleone",
+    "status": "Занято",
+    "x": 1233.88,
+    "y": -1009.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 267,
+    "server_id": 9,
+    "type": "house",
+    "name": "Кровь за Кровь 2",
+    "owner": "Harry_Corleone",
+    "status": "Занято",
+    "x": 1226.88,
+    "y": -1010.94,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7292,18 +7328,6 @@
     "status": "Занято",
     "x": -821.0969,
     "y": 1603.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 611,
-    "server_id": 9,
-    "type": "house",
-    "name": "Daddy house",
-    "owner": "Cherry_Wine",
-    "status": "Занято",
-    "x": -828.8829,
-    "y": 1604.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13864,7 +13888,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Обычная квартира 2.0",
-    "owner": "Alex_Statham",
+    "owner": "Hisoka_Morou",
     "status": "Занято",
     "x": 1802.85,
     "y": -1300.85,
@@ -19872,6 +19896,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1661,
+    "server_id": 9,
+    "type": "house",
+    "name": "Кровь за Кровь 1",
+    "owner": "Harry_Corleone",
+    "status": "Занято",
+    "x": 1227.26,
+    "y": -1017.22,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1662,
     "server_id": 9,
     "type": "house",
@@ -23856,39 +23892,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 179,
+    "id": 611,
     "server_id": 9,
     "type": "house",
-    "name": "Дом Йоу :uf259:",
-    "owner": "Mason_Vance",
+    "name": "Daddy house",
+    "owner": "Cherry_Wine",
     "status": "Аукцион",
-    "x": 656.023,
-    "y": -1636.08,
-    "price": 1800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 266,
-    "server_id": 9,
-    "type": "house",
-    "name": "Кровь за Кровь 3",
-    "owner": "Harry_Corleone",
-    "status": "Аукцион",
-    "x": 1233.88,
-    "y": -1009.86,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 267,
-    "server_id": 9,
-    "type": "house",
-    "name": "Кровь за Кровь 2",
-    "owner": "Harry_Corleone",
-    "status": "Аукцион",
-    "x": 1226.88,
-    "y": -1010.94,
-    "price": 2000000000,
+    "x": -828.8829,
+    "y": 1604.01,
+    "price": 1200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23904,18 +23916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1661,
-    "server_id": 9,
-    "type": "house",
-    "name": "Кровь за Кровь 1",
-    "owner": "Harry_Corleone",
-    "status": "Аукцион",
-    "x": 1227.26,
-    "y": -1017.22,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1746,
     "server_id": 9,
     "type": "house",
@@ -23925,6 +23925,18 @@
     "x": 531.333,
     "y": 1336.2,
     "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 27,
+    "server_id": 9,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Stefanio_Yosioka",
+    "status": "Аукцион",
+    "x": 31.576,
+    "y": -2638.06,
+    "price": 372754,
     "district": "Сан-Андреас"
   },
   {
@@ -25172,18 +25184,6 @@
     "status": "Занято",
     "x": -1675.75,
     "y": 431.923,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 27,
-    "server_id": 9,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Stefanio_Yosioka",
-    "status": "Занято",
-    "x": 31.576,
-    "y": -2638.06,
     "price": 0,
     "district": "Сан-Андреас"
   },

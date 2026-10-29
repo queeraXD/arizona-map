@@ -9564,18 +9564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 797,
-    "server_id": 27,
-    "type": "house",
-    "name": "@CitrusCG",
-    "owner": "Citrus_Company",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 740.5089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 798,
     "server_id": 27,
     "type": "house",
@@ -10464,18 +10452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 872,
-    "server_id": 27,
-    "type": "house",
-    "name": "мой дом",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -298.635,
-    "y": 2565.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 873,
     "server_id": 27,
     "type": "house",
@@ -11156,6 +11132,18 @@
     "status": "Занято",
     "x": -2017.64,
     "y": 1017.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 930,
+    "server_id": 27,
+    "type": "house",
+    "name": "cuerto sqd",
+    "owner": "Konstantin_Bee",
+    "status": "Занято",
+    "x": -2017.23,
+    "y": 1000.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12596,18 +12584,6 @@
     "status": "Занято",
     "x": -1939.33,
     "y": 1227.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1051,
-    "server_id": 27,
-    "type": "house",
-    "name": "ферма №2",
-    "owner": "Kenake_Sparkquz",
-    "status": "Занято",
-    "x": -1955.43,
-    "y": 1222.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14904,18 +14880,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1243,
-    "server_id": 27,
-    "type": "house",
-    "name": "Mister Plus House",
-    "owner": "Pretty_Girls",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1318.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1244,
     "server_id": 27,
     "type": "house",
@@ -15008,18 +14972,6 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1226.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1252,
-    "server_id": 27,
-    "type": "house",
-    "name": "ХАТА",
-    "owner": "Pretty_Girls",
-    "status": "Занято",
-    "x": -2358.52,
-    "y": 679.963,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23604,18 +23556,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1968,
-    "server_id": 27,
-    "type": "house",
-    "name": "брынза",
-    "owner": "Dimka_Buryat",
-    "status": "Занято",
-    "x": -2018.55,
-    "y": 849.3389,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1969,
     "server_id": 27,
     "type": "house",
@@ -24456,15 +24396,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 930,
+    "id": 797,
     "server_id": 27,
     "type": "house",
-    "name": "cuerto sqd",
-    "owner": "Konstantin_Bee",
+    "name": "@CitrusCG",
+    "owner": "Citrus_Company",
     "status": "Аукцион",
-    "x": -2017.23,
-    "y": 1000.07,
-    "price": 1000000000,
+    "x": -2368.82,
+    "y": 740.5089,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 872,
+    "server_id": 27,
+    "type": "house",
+    "name": "мой дом",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -298.635,
+    "y": 2565.81,
+    "price": 350123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1051,
+    "server_id": 27,
+    "type": "house",
+    "name": "ферма №2",
+    "owner": "Leon_Mazdavodov",
+    "status": "Аукцион",
+    "x": -1955.43,
+    "y": 1222.45,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1243,
+    "server_id": 27,
+    "type": "house",
+    "name": "Mister Plus House",
+    "owner": "Pretty_Girls",
+    "status": "Аукцион",
+    "x": -2383.14,
+    "y": 1318.0,
+    "price": 800123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1252,
+    "server_id": 27,
+    "type": "house",
+    "name": "ХАТА",
+    "owner": "Pretty_Girls",
+    "status": "Аукцион",
+    "x": -2358.52,
+    "y": 679.963,
+    "price": 800123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1968,
+    "server_id": 27,
+    "type": "house",
+    "name": "брынза",
+    "owner": "Dimka_Buryat",
+    "status": "Аукцион",
+    "x": -2018.55,
+    "y": 849.3389,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
