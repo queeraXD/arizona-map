@@ -1536,6 +1536,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 128,
+    "server_id": 25,
+    "type": "house",
+    "name": "Vazquez",
+    "owner": "Tape_Bugrov",
+    "status": "Занято",
+    "x": 1801.93,
+    "y": -2099.13,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 129,
     "server_id": 25,
     "type": "house",
@@ -4803,7 +4815,7 @@
     "id": 401,
     "server_id": 25,
     "type": "house",
-    "name": "Кибитка",
+    "name": "Trap House",
     "owner": "Genri_Thomasino",
     "status": "Занято",
     "x": 2438.82,
@@ -6120,6 +6132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 511,
+    "server_id": 25,
+    "type": "house",
+    "name": "V $ X V PRiNCE",
+    "owner": "Klerk_Montana",
+    "status": "Занято",
+    "x": 1684.51,
+    "y": 2046.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 512,
     "server_id": 25,
     "type": "house",
@@ -6260,6 +6284,18 @@
     "status": "Занято",
     "x": 1641.14,
     "y": 2149.78,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 524,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bobyr_Zabivnoy",
+    "status": "Занято",
+    "x": 1596.98,
+    "y": 2147.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11460,6 +11496,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 960,
+    "server_id": 25,
+    "type": "house",
+    "name": "FEOFILOV",
+    "owner": "Farma_Zone",
+    "status": "Занято",
+    "x": -2158.94,
+    "y": 769.9379,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 961,
     "server_id": 25,
     "type": "house",
@@ -14284,7 +14332,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Vashniy",
-    "owner": "Konstantin_Vashniy",
+    "owner": "Red_Rocket",
     "status": "Занято",
     "x": -2792.84,
     "y": 85.0083,
@@ -22236,6 +22284,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1861,
+    "server_id": 25,
+    "type": "house",
+    "name": "BUGROV",
+    "owner": "Bober_Lovec",
+    "status": "Занято",
+    "x": 2495.33,
+    "y": -1410.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1862,
     "server_id": 25,
     "type": "house",
@@ -23700,42 +23760,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 128,
-    "server_id": 25,
-    "type": "house",
-    "name": "Vazquez",
-    "owner": "sektant",
-    "status": "Аукцион",
-    "x": 1801.93,
-    "y": -2099.13,
-    "price": 150123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 511,
-    "server_id": 25,
-    "type": "house",
-    "name": "V $ X V PRiNCE",
-    "owner": "Stars_Truck",
-    "status": "Аукцион",
-    "x": 1684.51,
-    "y": 2046.57,
-    "price": 2100000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 524,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Bobyr_Zabivnoy",
-    "status": "Аукцион",
-    "x": 1596.98,
-    "y": 2147.31,
-    "price": 290000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 842,
     "server_id": 25,
     "type": "house",
@@ -23748,51 +23772,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 960,
-    "server_id": 25,
-    "type": "house",
-    "name": "FEOFILOV",
-    "owner": "Farma_Zone",
-    "status": "Аукцион",
-    "x": -2158.94,
-    "y": 769.9379,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1861,
-    "server_id": 25,
-    "type": "house",
-    "name": "BUGROV",
-    "owner": "Bober_Lovec",
-    "status": "Аукцион",
-    "x": 2495.33,
-    "y": -1410.34,
-    "price": 75000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 70,
+    "id": 86,
     "server_id": 25,
     "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Arthur_Keln",
+    "name": "Бар",
+    "owner": "Devilish_Smoke",
     "status": "Аукцион",
-    "x": 2515.7,
-    "y": 1088.17,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 182,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Force_Monolith",
-    "status": "Аукцион",
-    "x": 1104.78,
-    "y": 1380.93,
-    "price": 8000000000,
+    "x": -88.742,
+    "y": 1378.27,
+    "price": 6000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24032,18 +24020,6 @@
     "status": "Занято",
     "x": 385.891,
     "y": -1817.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 86,
-    "server_id": 25,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Devilish_Smoke",
-    "status": "Занято",
-    "x": -88.742,
-    "y": 1378.27,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24392,6 +24368,18 @@
     "status": "Занято",
     "x": 2856.2,
     "y": 1264.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 70,
+    "server_id": 25,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Arthur_Keln",
+    "status": "Занято",
+    "x": 2515.7,
+    "y": 1088.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26600,6 +26588,18 @@
     "status": "Занято",
     "x": 2029.71,
     "y": 986.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 182,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Force_Monolith",
+    "status": "Занято",
+    "x": 1104.78,
+    "y": 1380.93,
     "price": 0,
     "district": "Сан-Андреас"
   },

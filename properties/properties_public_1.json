@@ -372,6 +372,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 31,
+    "server_id": 1,
+    "type": "house",
+    "name": "BUNKER corp.",
+    "owner": "Leha_Bunker",
+    "status": "Занято",
+    "x": 2110.99,
+    "y": -1244.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 32,
     "server_id": 1,
     "type": "house",
@@ -11616,6 +11628,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 971,
+    "server_id": 1,
+    "type": "house",
+    "name": "Домик-2",
+    "owner": "Andrey_Kyper",
+    "status": "Занято",
+    "x": 2532.51,
+    "y": 713.372,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 972,
     "server_id": 1,
     "type": "house",
@@ -14624,6 +14648,18 @@
     "status": "Занято",
     "x": -2686.85,
     "y": 115.581,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1223,
+    "server_id": 1,
+    "type": "house",
+    "name": "BUNKER corp.",
+    "owner": "Leha_Bunker",
+    "status": "Занято",
+    "x": -2691.1,
+    "y": 123.7009,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18595,6 +18631,18 @@
     "owner": "Tweenky_Twix",
     "status": "Занято",
     "x": -2173.22,
+    "y": 1079.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1555,
+    "server_id": 1,
+    "type": "house",
+    "name": "Bandit",
+    "owner": "Shadow_Master",
+    "status": "Занято",
+    "x": -2191.37,
     "y": 1079.99,
     "price": 0,
     "district": "Сан-Андреас"
@@ -24108,87 +24156,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 31,
-    "server_id": 1,
-    "type": "house",
-    "name": "BUNKER corp.",
-    "owner": "Leha_Bunker",
-    "status": "Аукцион",
-    "x": 2110.99,
-    "y": -1244.14,
-    "price": 5000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 587,
     "server_id": 1,
     "type": "house",
     "name": "BUNKER corp.",
-    "owner": "Leha_Bunker",
+    "owner": "Psycho_Therapist",
     "status": "Аукцион",
     "x": -604.3229,
     "y": 2716.72,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 971,
-    "server_id": 1,
-    "type": "house",
-    "name": "Домик-2",
-    "owner": "Aleksandr_Blake",
-    "status": "Аукцион",
-    "x": 2532.51,
-    "y": 713.372,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1223,
-    "server_id": 1,
-    "type": "house",
-    "name": "BUNKER corp.",
-    "owner": "Leha_Bunker",
-    "status": "Аукцион",
-    "x": -2691.1,
-    "y": 123.7009,
-    "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1555,
-    "server_id": 1,
-    "type": "house",
-    "name": "Bandit",
-    "owner": "Shadow_Master",
-    "status": "Аукцион",
-    "x": -2191.37,
-    "y": 1079.99,
-    "price": 4000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 184,
-    "server_id": 1,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Fentoms_Tempest",
-    "status": "Аукцион",
-    "x": 2351.41,
-    "y": 2405.59,
-    "price": 165000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 185,
-    "server_id": 1,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Fentoms_Tempest",
-    "status": "Аукцион",
-    "x": 2599.42,
-    "y": 1060.38,
-    "price": 165000,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27032,6 +27008,30 @@
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 1,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Fentoms_Tempest",
+    "status": "Занято",
+    "x": 2351.41,
+    "y": 2405.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 185,
+    "server_id": 1,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Fentoms_Tempest",
+    "status": "Занято",
+    "x": 2599.42,
+    "y": 1060.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
