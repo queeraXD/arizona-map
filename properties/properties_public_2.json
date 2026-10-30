@@ -7108,7 +7108,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Hashimoto House",
-    "owner": "Yuma_Hashimoto",
+    "owner": "Mul_Holland",
     "status": "Занято",
     "x": -2219.86,
     "y": -2400.42,
@@ -9476,18 +9476,6 @@
     "status": "Занято",
     "x": -2580.91,
     "y": 920.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 790,
-    "server_id": 2,
-    "type": "house",
-    "name": "Чупачанга",
-    "owner": "Timmi_Vizard",
-    "status": "Занято",
-    "x": -2583.75,
-    "y": 896.255,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14604,18 +14592,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1218,
-    "server_id": 2,
-    "type": "house",
-    "name": "Чупачанга",
-    "owner": "Timmi_Vizard",
-    "status": "Занято",
-    "x": -2351.14,
-    "y": 1318.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1219,
     "server_id": 2,
     "type": "house",
@@ -14648,18 +14624,6 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1263.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1222,
-    "server_id": 2,
-    "type": "house",
-    "name": "Чупачанга",
-    "owner": "Timmi_Vizard",
-    "status": "Занято",
-    "x": -2351.14,
-    "y": 1244.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16767,8 +16731,8 @@
     "id": 1398,
     "server_id": 2,
     "type": "house",
-    "name": "Домик дяди жени",
-    "owner": "Goldrey_Hower",
+    "name": "двести пьяная",
+    "owner": "Teo_Rave",
     "status": "Занято",
     "x": 2526.14,
     "y": 750.096,
@@ -20520,18 +20484,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1711,
-    "server_id": 2,
-    "type": "house",
-    "name": "Stics Empire",
-    "owner": "Sergei_Stics",
-    "status": "Занято",
-    "x": 928.0239,
-    "y": 2214.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1712,
     "server_id": 2,
     "type": "house",
@@ -22347,7 +22299,7 @@
     "id": 1867,
     "server_id": 2,
     "type": "house",
-    "name": "Клуб \\\"Street Racers\\\"",
+    "name": "Дом",
     "owner": "Egga_Lakers",
     "status": "Занято",
     "x": 2492.19,
@@ -23961,6 +23913,54 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 790,
+    "server_id": 2,
+    "type": "house",
+    "name": "Чупачанга",
+    "owner": "Timmi_Vizard",
+    "status": "Аукцион",
+    "x": -2583.75,
+    "y": 896.255,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1218,
+    "server_id": 2,
+    "type": "house",
+    "name": "Чупачанга",
+    "owner": "Timmi_Vizard",
+    "status": "Аукцион",
+    "x": -2351.14,
+    "y": 1318.07,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1222,
+    "server_id": 2,
+    "type": "house",
+    "name": "Чупачанга",
+    "owner": "Timmi_Vizard",
+    "status": "Аукцион",
+    "x": -2351.14,
+    "y": 1244.74,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1711,
+    "server_id": 2,
+    "type": "house",
+    "name": "Stics Empire",
+    "owner": "Sergei_Stics",
+    "status": "Аукцион",
+    "x": 928.0239,
+    "y": 2214.39,
+    "price": 2500000228,
     "district": "Сан-Андреас"
   },
   {
@@ -26752,7 +26752,7 @@
     "server_id": 2,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Gorila_Frank",
+    "owner": "Sber_Prime",
     "status": "Занято",
     "x": 1521.99,
     "y": -1025.07,

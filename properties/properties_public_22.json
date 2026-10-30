@@ -456,18 +456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 38,
-    "server_id": 22,
-    "type": "house",
-    "name": "Набор архитектора",
-    "owner": "Alexey_Popovich",
-    "status": "Занято",
-    "x": 2387.86,
-    "y": -1328.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 39,
     "server_id": 22,
     "type": "house",
@@ -5552,18 +5540,6 @@
     "status": "Занято",
     "x": 2178.13,
     "y": 655.619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 463,
-    "server_id": 22,
-    "type": "house",
-    "name": "Xard",
-    "owner": "Alexey_Popovich",
-    "status": "Занято",
-    "x": 2206.36,
-    "y": 656.3729,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12524,18 +12500,6 @@
     "status": "Занято",
     "x": -1761.0,
     "y": 1174.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1044,
-    "server_id": 22,
-    "type": "house",
-    "name": "Benito lux rum",
-    "owner": "Benito_Karleone",
-    "status": "Занято",
-    "x": -1780.35,
-    "y": 1138.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22029,6 +21993,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 38,
+    "server_id": 22,
+    "type": "house",
+    "name": "Набор архитектора",
+    "owner": "Alexey_Popovich",
+    "status": "Аукцион",
+    "x": 2387.86,
+    "y": -1328.4,
+    "price": 2800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 463,
+    "server_id": 22,
+    "type": "house",
+    "name": "Xard",
+    "owner": "Alexey_Popovich",
+    "status": "Аукцион",
+    "x": 2206.36,
+    "y": 656.3729,
+    "price": 900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1044,
+    "server_id": 22,
+    "type": "house",
+    "name": "Benito lux rum",
+    "owner": "Benito_Karleone",
+    "status": "Аукцион",
+    "x": -1780.35,
+    "y": 1138.77,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {

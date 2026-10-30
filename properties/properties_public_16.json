@@ -3076,7 +3076,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Katana_Kessinger",
+    "owner": "Egor_Destoryer",
     "status": "Занято",
     "x": 2109.07,
     "y": -1000.65,
@@ -3560,6 +3560,18 @@
     "status": "Занято",
     "x": 2082.69,
     "y": -1040.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 297,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Zheka_Zhuk",
+    "status": "Занято",
+    "x": 2105.31,
+    "y": -1056.48,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8616,6 +8628,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 719,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Papa_Aqyla",
+    "status": "Занято",
+    "x": 1608.55,
+    "y": 2752.98,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 720,
     "server_id": 16,
     "type": "house",
@@ -11736,18 +11760,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 983,
-    "server_id": 16,
-    "type": "house",
-    "name": "Крафтус",
-    "owner": "Guram_Black",
-    "status": "Занято",
-    "x": -251.3049,
-    "y": 1049.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 984,
     "server_id": 16,
     "type": "house",
@@ -12044,6 +12056,18 @@
     "status": "Занято",
     "x": -2549.0,
     "y": 1145.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1009,
+    "server_id": 16,
+    "type": "house",
+    "name": "AMD DOMINATION",
+    "owner": "Amd_Vega",
+    "status": "Занято",
+    "x": -2517.07,
+    "y": 1142.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15136,7 +15160,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Matwei_Gonzales",
+    "owner": "Egor_Destoryer",
     "status": "Занято",
     "x": -2383.14,
     "y": 1226.31,
@@ -19536,6 +19560,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1634,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Danila_Mazzerati",
+    "status": "Занято",
+    "x": 1974.77,
+    "y": -1671.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1635,
     "server_id": 16,
     "type": "house",
@@ -21336,18 +21372,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1786,
-    "server_id": 16,
-    "type": "house",
-    "name": "домик",
-    "owner": "Guram_Black",
-    "status": "Занято",
-    "x": 2643.82,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1787,
     "server_id": 16,
     "type": "house",
@@ -22380,30 +22404,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 297,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Zheka_Zhuk",
-    "status": "Аукцион",
-    "x": 2105.31,
-    "y": -1056.48,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 719,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Papa_Aqyla",
-    "status": "Аукцион",
-    "x": 1608.55,
-    "y": 2752.98,
-    "price": 500123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 722,
     "server_id": 16,
     "type": "house",
@@ -22428,27 +22428,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1009,
+    "id": 983,
     "server_id": 16,
     "type": "house",
-    "name": "AMD DOMINATION",
-    "owner": "Amd_Vega",
+    "name": "Крафтус",
+    "owner": "Guram_Black",
     "status": "Аукцион",
-    "x": -2517.07,
-    "y": 1142.17,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1634,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Danila_Mazzerati",
-    "status": "Аукцион",
-    "x": 1974.77,
-    "y": -1671.19,
-    "price": 3500,
+    "x": -251.3049,
+    "y": 1049.71,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22461,6 +22449,18 @@
     "x": 2610.33,
     "y": 2151.71,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1786,
+    "server_id": 16,
+    "type": "house",
+    "name": "домик",
+    "owner": "Guram_Black",
+    "status": "Аукцион",
+    "x": 2643.82,
+    "y": 2195.56,
+    "price": 170000000,
     "district": "Сан-Андреас"
   },
   {

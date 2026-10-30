@@ -2508,6 +2508,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 209,
+    "server_id": 31,
+    "type": "house",
+    "name": "миска рис",
+    "owner": "Ga_Tila",
+    "status": "Занято",
+    "x": 1093.81,
+    "y": -806.668,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 210,
     "server_id": 31,
     "type": "house",
@@ -7212,6 +7224,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 602,
+    "server_id": 31,
+    "type": "house",
+    "name": "Метка Автоугон",
+    "owner": "Mark_Rockefeller",
+    "status": "Занято",
+    "x": -1532.87,
+    "y": 2656.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 603,
     "server_id": 31,
     "type": "house",
@@ -7496,18 +7520,6 @@
     "status": "Занято",
     "x": 4.1448,
     "y": 1344.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 627,
-    "server_id": 31,
-    "type": "house",
-    "name": "Хата Legita N2",
-    "owner": "Domino_Inarchive",
-    "status": "Занято",
-    "x": 4.7234,
-    "y": 1381.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9152,18 +9164,6 @@
     "status": "Занято",
     "x": -2645.56,
     "y": 803.083,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 765,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Misha_Nikollenko",
-    "status": "Занято",
-    "x": -2660.11,
-    "y": 803.0839,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12844,7 +12844,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Суета",
-    "owner": "Igor_Moskvin",
+    "owner": "Dima_Moskvin",
     "status": "Занято",
     "x": -2900.53,
     "y": 1080.98,
@@ -15619,6 +15619,18 @@
     "owner": "Casper_Qonstatez",
     "status": "Занято",
     "x": -2576.42,
+    "y": -198.7969,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1305,
+    "server_id": 31,
+    "type": "house",
+    "name": "Traffic Devils",
+    "owner": "Ice_Ghost",
+    "status": "Занято",
+    "x": -2558.56,
     "y": -198.7969,
     "price": 0,
     "district": "Сан-Андреас"
@@ -18456,6 +18468,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1543,
+    "server_id": 31,
+    "type": "house",
+    "name": "обувная коробка в пустыне",
+    "owner": "Ga_Tila",
+    "status": "Занято",
+    "x": -1427.16,
+    "y": 2171.35,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1544,
     "server_id": 31,
     "type": "house",
@@ -20596,7 +20620,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Daniels_Wick",
+    "owner": "Karri_Kingston",
     "status": "Занято",
     "x": 2495.3,
     "y": -1359.4,
@@ -21920,6 +21944,18 @@
     "status": "Занято",
     "x": 2629.73,
     "y": 2029.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1836,
+    "server_id": 31,
+    "type": "house",
+    "name": "майнинг 1/15",
+    "owner": "Unwritten_Reply",
+    "status": "Занято",
+    "x": 2623.65,
+    "y": 2039.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,51 +23316,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 209,
+    "id": 627,
     "server_id": 31,
     "type": "house",
-    "name": "миска рис",
-    "owner": "Ga_Tila",
+    "name": "Хата Legita N2",
+    "owner": "Domino_Inarchive",
     "status": "Аукцион",
-    "x": 1093.81,
-    "y": -806.668,
-    "price": 500067,
+    "x": 4.7234,
+    "y": 1381.21,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 602,
+    "id": 765,
     "server_id": 31,
     "type": "house",
-    "name": "Метка Автоугон",
-    "owner": "Mark_Rockefeller",
+    "name": "Дом",
+    "owner": "Misha_Nikollenko",
     "status": "Аукцион",
-    "x": -1532.87,
-    "y": 2656.68,
-    "price": 8000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1305,
-    "server_id": 31,
-    "type": "house",
-    "name": "Traffic Devils",
-    "owner": "Naruto_Mercy",
-    "status": "Аукцион",
-    "x": -2558.56,
-    "y": -198.7969,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1543,
-    "server_id": 31,
-    "type": "house",
-    "name": "обувная коробка в пустыне",
-    "owner": "Ga_Tila",
-    "status": "Аукцион",
-    "x": -1427.16,
-    "y": 2171.35,
-    "price": 6500000000,
+    "x": -2660.11,
+    "y": 803.0839,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23332,23 +23344,11 @@
     "server_id": 31,
     "type": "house",
     "name": "забирайте",
-    "owner": "Xaruto_Ayataki",
+    "owner": "Naruto_Mercy",
     "status": "Аукцион",
     "x": 2492.16,
     "y": -1424.57,
-    "price": 1600000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1836,
-    "server_id": 31,
-    "type": "house",
-    "name": "майнинг 1/15",
-    "owner": "Unwritten_Reply",
-    "status": "Аукцион",
-    "x": 2623.65,
-    "y": 2039.71,
-    "price": 1000123123,
+    "price": 2200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23361,18 +23361,6 @@
     "x": -2449.79,
     "y": 895.234,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 310,
-    "server_id": 31,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Antonio_DeLeonardis",
-    "status": "Аукцион",
-    "x": -1784.542,
-    "y": -594.7703,
-    "price": 385000,
     "district": "Сан-Андреас"
   },
   {
@@ -27140,6 +27128,18 @@
     "status": "Занято",
     "x": -1546.291,
     "y": 591.9938,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 310,
+    "server_id": 31,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Antonio_DeLeonardis",
+    "status": "Занято",
+    "x": -1784.542,
+    "y": -594.7703,
     "price": 0,
     "district": "Сан-Андреас"
   },

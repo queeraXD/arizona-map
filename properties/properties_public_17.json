@@ -2520,18 +2520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 210,
-    "server_id": 17,
-    "type": "house",
-    "name": "Автогонки",
-    "owner": "Artemka_Starsik",
-    "status": "Занято",
-    "x": 1112.41,
-    "y": -742.067,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 211,
     "server_id": 17,
     "type": "house",
@@ -3996,18 +3984,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 333,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Slishu_Forbs",
-    "status": "Занято",
-    "x": 787.895,
-    "y": 376.4259,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 334,
     "server_id": 17,
     "type": "house",
@@ -4112,18 +4088,6 @@
     "status": "Занято",
     "x": 705.4279,
     "y": 292.096,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 343,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": 719.0629,
-    "y": 300.639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11004,30 +10968,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 917,
-    "server_id": 17,
-    "type": "house",
-    "name": "// photo squad //",
-    "owner": "Farmila_Vagos",
-    "status": "Занято",
-    "x": -2169.66,
-    "y": 1027.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 918,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Farmila_Vagos",
-    "status": "Занято",
-    "x": -2282.05,
-    "y": 1023.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 919,
     "server_id": 17,
     "type": "house",
@@ -12656,18 +12596,6 @@
     "status": "Занято",
     "x": -1901.98,
     "y": 1239.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1055,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": -1901.0,
-    "y": 1203.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15056,6 +14984,18 @@
     "status": "Занято",
     "x": -2541.52,
     "y": -118.7259,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1255,
+    "server_id": 17,
+    "type": "house",
+    "name": "хата бонуса 2",
+    "owner": "Camedoz_Bonus",
+    "status": "Занято",
+    "x": -2524.4,
+    "y": -118.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22464,15 +22404,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1255,
+    "id": 210,
+    "server_id": 17,
+    "type": "house",
+    "name": "Автогонки",
+    "owner": "Artemka_Starsik",
+    "status": "Аукцион",
+    "x": 1112.41,
+    "y": -742.067,
+    "price": 1500000022,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 333,
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Radik_Lonely",
+    "owner": "Slishu_Forbs",
     "status": "Аукцион",
-    "x": -2524.4,
-    "y": -118.73,
-    "price": 100000000,
+    "x": 787.895,
+    "y": 376.4259,
+    "price": 250123132,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 343,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Spike_Scout",
+    "status": "Аукцион",
+    "x": 719.0629,
+    "y": 300.639,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 917,
+    "server_id": 17,
+    "type": "house",
+    "name": "// photo squad //",
+    "owner": "Farmila_Vagos",
+    "status": "Аукцион",
+    "x": -2169.66,
+    "y": 1027.11,
+    "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 918,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Farmila_Vagos",
+    "status": "Аукцион",
+    "x": -2282.05,
+    "y": 1023.01,
+    "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1055,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Spike_Scout",
+    "status": "Аукцион",
+    "x": -1901.0,
+    "y": 1203.07,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25540,7 +25540,7 @@
     "server_id": 17,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Lovec_Pisunov",
+    "owner": "Ruslan_Zvekor",
     "status": "Занято",
     "x": 1183.17,
     "y": -1315.1,
