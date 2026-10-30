@@ -171,8 +171,8 @@
     "id": 14,
     "server_id": 9,
     "type": "house",
-    "name": "BebraSquad",
-    "owner": "Maksimka_Frag",
+    "name": "hornyhouse",
+    "owner": "Horny_Swedovv",
     "status": "Занято",
     "x": 2091.5,
     "y": -1184.36,
@@ -4900,7 +4900,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Подвал/майнинг/Деп условия",
-    "owner": "Alpha_Blake",
+    "owner": "Maksim_Klinkov",
     "status": "Занято",
     "x": 1428.29,
     "y": 355.7619,
@@ -5900,6 +5900,18 @@
     "status": "Занято",
     "x": 1756.79,
     "y": 66.9654,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 492,
+    "server_id": 9,
+    "type": "house",
+    "name": "Pafos House 8",
+    "owner": "Henry_Bronin",
+    "status": "Занято",
+    "x": 2042.4,
+    "y": 731.6829,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11112,18 +11124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 928,
-    "server_id": 9,
-    "type": "house",
-    "name": "дом Martelli",
-    "owner": "Chopes_Escape",
-    "status": "Занято",
-    "x": -1860.83,
-    "y": 1114.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 929,
     "server_id": 9,
     "type": "house",
@@ -11260,7 +11260,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Просто дом",
-    "owner": "Loud_Silence",
+    "owner": "Sasha_Lutsyk",
     "status": "Занято",
     "x": -2048.26,
     "y": 796.4689,
@@ -13256,18 +13256,6 @@
     "status": "Занято",
     "x": -1728.01,
     "y": 1138.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1107,
-    "server_id": 9,
-    "type": "house",
-    "name": "Surname",
-    "owner": "Pierce_Walker",
-    "status": "Занято",
-    "x": -1728.16,
-    "y": 1159.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21048,18 +21036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1757,
-    "server_id": 9,
-    "type": "house",
-    "name": "yamamoto №1",
-    "owner": "Cherry_Wine",
-    "status": "Занято",
-    "x": 883.95,
-    "y": 2104.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1758,
     "server_id": 9,
     "type": "house",
@@ -23268,18 +23244,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1944,
-    "server_id": 9,
-    "type": "house",
-    "name": "AKITO 5/8",
-    "owner": "Akito_Furin",
-    "status": "Занято",
-    "x": 1752.07,
-    "y": 2744.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1945,
     "server_id": 9,
     "type": "house",
@@ -23916,15 +23880,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 492,
+    "id": 928,
     "server_id": 9,
     "type": "house",
-    "name": "фарм",
-    "owner": "Niko_Colombo",
+    "name": "cuerto sqd",
+    "owner": "Konstantin_Pinko",
     "status": "Аукцион",
-    "x": 2042.4,
-    "y": 731.6829,
-    "price": 2000000000,
+    "x": -1860.83,
+    "y": 1114.77,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1107,
+    "server_id": 9,
+    "type": "house",
+    "name": "Surname",
+    "owner": "Night_Sosiska",
+    "status": "Аукцион",
+    "x": -1728.16,
+    "y": 1159.08,
+    "price": 2000123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1757,
+    "server_id": 9,
+    "type": "house",
+    "name": "yamamoto №1",
+    "owner": "Cherry_Wine",
+    "status": "Аукцион",
+    "x": 883.95,
+    "y": 2104.88,
+    "price": 1300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1944,
+    "server_id": 9,
+    "type": "house",
+    "name": "AKITO 5/8",
+    "owner": "Akito_Furin",
+    "status": "Аукцион",
+    "x": 1752.07,
+    "y": 2744.52,
+    "price": 1800000000,
     "district": "Сан-Андреас"
   },
   {

@@ -48,18 +48,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 4,
-    "server_id": 8,
-    "type": "house",
-    "name": "~ShelbyHouse~ #13",
-    "owner": "Roxy_Reynolds",
-    "status": "Занято",
-    "x": 1955.12,
-    "y": -1115.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 5,
     "server_id": 8,
     "type": "house",
@@ -19336,7 +19324,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Дом",
-    "owner": "Luminisent_London",
+    "owner": "Biggy_Bear",
     "status": "Занято",
     "x": 2532.51,
     "y": 713.263,
@@ -21012,18 +21000,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1752,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом Лоуренсов",
-    "owner": "Ralph_Laurence",
-    "status": "Занято",
-    "x": 884.517,
-    "y": 2076.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1753,
     "server_id": 8,
     "type": "house",
@@ -21892,7 +21868,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Freim",
-    "owner": "Freim_Norton",
+    "owner": "Freim_Nesquik",
     "status": "Занято",
     "x": 1542.27,
     "y": 2026.81,
@@ -23352,18 +23328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1947,
-    "server_id": 8,
-    "type": "house",
-    "name": "Старпер",
-    "owner": "Miss_Pacman",
-    "status": "Занято",
-    "x": 2003.68,
-    "y": 2163.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1948,
     "server_id": 8,
     "type": "house",
@@ -23788,7 +23752,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Дом",
-    "owner": "Kirya_Coffiano",
+    "owner": "Kolya_Infinity",
     "status": "Занято",
     "x": 2481.36,
     "y": 1682.87,
@@ -25776,6 +25740,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 4,
+    "server_id": 8,
+    "type": "house",
+    "name": "~ShelbyHouse~ #13",
+    "owner": "Roxy_Reynolds",
+    "status": "Аукцион",
+    "x": 1955.12,
+    "y": -1115.4,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1752,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом Лоуренсов",
+    "owner": "Ralph_Laurence",
+    "status": "Аукцион",
+    "x": 884.517,
+    "y": 2076.63,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1947,
+    "server_id": 8,
+    "type": "house",
+    "name": "Старпер",
+    "owner": "Miss_Pacman",
+    "status": "Аукцион",
+    "x": 2003.68,
+    "y": 2163.47,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 2062,
     "server_id": 8,
     "type": "house",
@@ -25784,7 +25784,31 @@
     "status": "Аукцион",
     "x": 2615.11,
     "y": -1229.32,
-    "price": 150123123,
+    "price": 175123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 51,
+    "server_id": 8,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Maksimka_Konoplev",
+    "status": "Аукцион",
+    "x": 385.891,
+    "y": -1817.9,
+    "price": 570000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 312,
+    "server_id": 8,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Orochimaru_Mikami",
+    "status": "Аукцион",
+    "x": 641.4393,
+    "y": -494.824,
+    "price": 300000,
     "district": "Сан-Андреас"
   },
   {
@@ -26012,18 +26036,6 @@
     "status": "Занято",
     "x": 2309.79,
     "y": -1643.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 51,
-    "server_id": 8,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Maksimka_Konoplev",
-    "status": "Занято",
-    "x": 385.891,
-    "y": -1817.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -29576,18 +29588,6 @@
     "status": "Занято",
     "x": -20.8111,
     "y": -1548.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 312,
-    "server_id": 8,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Orochimaru_Mikami",
-    "status": "Занято",
-    "x": 641.4393,
-    "y": -494.824,
     "price": 0,
     "district": "Сан-Андреас"
   },

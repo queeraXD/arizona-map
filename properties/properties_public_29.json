@@ -2412,18 +2412,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 201,
-    "server_id": 29,
-    "type": "house",
-    "name": "VV ХОЛОСТЯЦКАЯ БЕРЛОГА 201 VV",
-    "owner": "Vecher_Vadim",
-    "status": "Занято",
-    "x": 1536.32,
-    "y": -884.789,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 202,
     "server_id": 29,
     "type": "house",
@@ -6388,7 +6376,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Morozov Основа",
-    "owner": "Trofim_Morozov",
+    "owner": "Medved_Laposos",
     "status": "Занято",
     "x": 1931.33,
     "y": 2721.72,
@@ -9616,7 +9604,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Дом",
-    "owner": "Snake_Jilli",
+    "owner": "Nekiy_Molla",
     "status": "Занято",
     "x": -2340.03,
     "y": 820.0209,
@@ -9992,18 +9980,6 @@
     "status": "Занято",
     "x": -2234.38,
     "y": 888.869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 833,
-    "server_id": 29,
-    "type": "house",
-    "name": "sell krack",
-    "owner": "Mitch_Modes",
-    "status": "Занято",
-    "x": -2234.63,
-    "y": 870.7579,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12664,7 +12640,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Lucifer",
-    "owner": "Lucifer_Pride",
+    "owner": "Undying_Haze",
     "status": "Занято",
     "x": -1927.71,
     "y": 1252.78,
@@ -14376,18 +14352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1199,
-    "server_id": 29,
-    "type": "house",
-    "name": "pes family",
-    "owner": "Sakha_Sire",
-    "status": "Занято",
-    "x": -2793.14,
-    "y": 110.911,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1200,
     "server_id": 29,
     "type": "house",
@@ -15108,18 +15072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1261,
-    "server_id": 29,
-    "type": "house",
-    "name": "Rafael house",
-    "owner": "Yamato_Ross",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 632.4099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1262,
     "server_id": 29,
     "type": "house",
@@ -15280,7 +15232,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Lucifer",
-    "owner": "Lucifer_Pride",
+    "owner": "Medved_Laposos",
     "status": "Занято",
     "x": -2689.53,
     "y": 74.5092,
@@ -17228,18 +17180,6 @@
     "status": "Занято",
     "x": 1109.01,
     "y": -1575.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1438,
-    "server_id": 29,
-    "type": "house",
-    "name": "XIII",
-    "owner": "Kamazik_Gornii",
-    "status": "Занято",
-    "x": 459.147,
-    "y": 1339.13,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21132,6 +21072,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 201,
+    "server_id": 29,
+    "type": "house",
+    "name": "VV ХОЛОСТЯЦКАЯ БЕРЛОГА 201 VV",
+    "owner": "Vecher_Vadim",
+    "status": "Аукцион",
+    "x": 1536.32,
+    "y": -884.789,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 833,
+    "server_id": 29,
+    "type": "house",
+    "name": "sell krack",
+    "owner": "Mitch_Modes",
+    "status": "Аукцион",
+    "x": -2234.63,
+    "y": 870.7579,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 945,
     "server_id": 29,
     "type": "house",
@@ -21140,7 +21104,43 @@
     "status": "Аукцион",
     "x": -2281.96,
     "y": 979.2269,
-    "price": 600000000,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1199,
+    "server_id": 29,
+    "type": "house",
+    "name": "pes family",
+    "owner": "Sakha_Sire",
+    "status": "Аукцион",
+    "x": -2793.14,
+    "y": 110.911,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1261,
+    "server_id": 29,
+    "type": "house",
+    "name": "Rafael house",
+    "owner": "Yamato_Ross",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 632.4099,
+    "price": 20123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1438,
+    "server_id": 29,
+    "type": "house",
+    "name": "XIII",
+    "owner": "Kamazik_Gornii",
+    "status": "Аукцион",
+    "x": 459.147,
+    "y": 1339.13,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22564,7 +22564,7 @@
     "server_id": 29,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Sanya_Arbalet",
+    "owner": "Zarabotal_Narulil",
     "status": "Занято",
     "x": 2170.48,
     "y": 542.934,
