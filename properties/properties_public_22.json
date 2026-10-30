@@ -348,18 +348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 29,
-    "server_id": 22,
-    "type": "house",
-    "name": "Balas gangs",
-    "owner": "Artem_Dobrenko",
-    "status": "Занято",
-    "x": 2191.78,
-    "y": -1239.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 30,
     "server_id": 22,
     "type": "house",
@@ -452,6 +440,18 @@
     "status": "Занято",
     "x": 2389.73,
     "y": -1346.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 38,
+    "server_id": 22,
+    "type": "house",
+    "name": "Набор архитектора",
+    "owner": "Alexey_Popovich",
+    "status": "Занято",
+    "x": 2387.86,
+    "y": -1328.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5540,6 +5540,18 @@
     "status": "Занято",
     "x": 2178.13,
     "y": 655.619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 463,
+    "server_id": 22,
+    "type": "house",
+    "name": "Xard",
+    "owner": "Alexey_Popovich",
+    "status": "Занято",
+    "x": 2206.36,
+    "y": 656.3729,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17460,18 +17472,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1457,
-    "server_id": 22,
-    "type": "house",
-    "name": "заячья берлога",
-    "owner": "Banny_Avtomatov",
-    "status": "Занято",
-    "x": 981.5859,
-    "y": 2414.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1458,
     "server_id": 22,
     "type": "house",
@@ -22020,27 +22020,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 38,
+    "id": 1457,
     "server_id": 22,
     "type": "house",
-    "name": "Набор архитектора",
-    "owner": "Alexey_Popovich",
-    "status": "Аукцион",
-    "x": 2387.86,
-    "y": -1328.4,
-    "price": 2500000000,
+    "name": "заячья берлога",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 981.5859,
+    "y": 2414.26,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 463,
+    "id": 29,
     "server_id": 22,
     "type": "house",
-    "name": "Xard",
-    "owner": "Alexey_Popovich",
+    "name": "Balas gangs",
+    "owner": "Artem_Dobrenko",
     "status": "Аукцион",
-    "x": 2206.36,
-    "y": 656.3729,
-    "price": 800000000,
+    "x": 2191.78,
+    "y": -1239.23,
+    "price": 650000000,
     "district": "Сан-Андреас"
   },
   {

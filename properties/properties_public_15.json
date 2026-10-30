@@ -10500,18 +10500,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 876,
-    "server_id": 15,
-    "type": "house",
-    "name": "Evelone House",
-    "owner": "Sango_Lizergin",
-    "status": "Занято",
-    "x": -2187.1,
-    "y": 795.702,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 877,
     "server_id": 15,
     "type": "house",
@@ -13304,18 +13292,6 @@
     "status": "Занято",
     "x": 1817.83,
     "y": -1276.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1110,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kostya_Vert",
-    "status": "Занято",
-    "x": 1817.72,
-    "y": -1286.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21324,15 +21300,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 85,
+    "id": 876,
     "server_id": 15,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Gabriel_Emiral",
+    "type": "house",
+    "name": "Evelone House",
+    "owner": "Sango_Lizergin",
     "status": "Аукцион",
-    "x": -1213.8,
-    "y": 1830.33,
-    "price": 8000000000,
+    "x": -2187.1,
+    "y": 795.702,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1110,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kostya_Vert",
+    "status": "Аукцион",
+    "x": 1817.72,
+    "y": -1286.74,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23108,6 +23096,18 @@
     "status": "Занято",
     "x": -858.014,
     "y": 1535.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 85,
+    "server_id": 15,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Uzbek_Escobar",
+    "status": "Занято",
+    "x": -1213.8,
+    "y": 1830.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
