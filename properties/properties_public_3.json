@@ -7852,7 +7852,7 @@
     "server_id": 3,
     "type": "house",
     "name": "conscience",
-    "owner": "Xavier_Quantrill",
+    "owner": "Conscience_Ash",
     "status": "Занято",
     "x": 2065.71,
     "y": 650.2559,
@@ -14760,18 +14760,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1231,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Sorochenko",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1336.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1232,
     "server_id": 3,
     "type": "house",
@@ -15628,7 +15616,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Miers",
-    "owner": "Xavier_Quantrill",
+    "owner": "Conscience_Ash",
     "status": "Занято",
     "x": -2515.38,
     "y": -154.031,
@@ -16388,6 +16376,18 @@
     "status": "Занято",
     "x": 99.2854,
     "y": 1162.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1367,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом андрея",
+    "owner": "Shin_McMillan",
+    "status": "Занято",
+    "x": 86.263,
+    "y": 1161.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19508,6 +19508,18 @@
     "status": "Занято",
     "x": 1957.05,
     "y": 691.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1628,
+    "server_id": 3,
+    "type": "house",
+    "name": "Деп_Условия",
+    "owner": "Yushin_Greco",
+    "status": "Занято",
+    "x": 1957.05,
+    "y": 677.9479,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23988,27 +24000,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1367,
+    "id": 1231,
     "server_id": 3,
     "type": "house",
-    "name": "Дом андрея",
-    "owner": "Shin_McMillan",
+    "name": "Дом",
+    "owner": "Vladimir_Sorochenko",
     "status": "Аукцион",
-    "x": 86.263,
-    "y": 1161.96,
-    "price": 4500,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1628,
-    "server_id": 3,
-    "type": "house",
-    "name": "Деп_Условия",
-    "owner": "Yushin_Greco",
-    "status": "Аукцион",
-    "x": 1957.05,
-    "y": 677.9479,
-    "price": 500000000,
+    "x": -2383.14,
+    "y": 1336.48,
+    "price": 799999999,
     "district": "Сан-Андреас"
   },
   {
@@ -25336,7 +25336,7 @@
     "server_id": 3,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Xavier_Quantrill",
+    "owner": "Conscience_Ash",
     "status": "Занято",
     "x": 2187.71,
     "y": 2469.57,

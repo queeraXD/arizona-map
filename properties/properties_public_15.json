@@ -6672,18 +6672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 556,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dante_Giordano",
-    "status": "Занято",
-    "x": 346.957,
-    "y": 1127.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 557,
     "server_id": 15,
     "type": "house",
@@ -10496,18 +10484,6 @@
     "status": "Занято",
     "x": -236.106,
     "y": 2540.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 876,
-    "server_id": 15,
-    "type": "house",
-    "name": "Evelone House",
-    "owner": "Sup_Luit",
-    "status": "Занято",
-    "x": -2187.1,
-    "y": 795.702,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14708,18 +14684,6 @@
     "status": "Занято",
     "x": -2372.53,
     "y": 644.0209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1227,
-    "server_id": 15,
-    "type": "house",
-    "name": "Слет",
-    "owner": "Sup_Luit",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 632.439,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21309,6 +21273,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 556,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dante_Giordano",
+    "status": "Аукцион",
+    "x": 346.957,
+    "y": 1127.69,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 876,
+    "server_id": 15,
+    "type": "house",
+    "name": "Evelone House",
+    "owner": "Sup_Luit",
+    "status": "Аукцион",
+    "x": -2187.1,
+    "y": 795.702,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1227,
+    "server_id": 15,
+    "type": "house",
+    "name": "Слет",
+    "owner": "Sup_Luit",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 632.439,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {

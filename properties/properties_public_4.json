@@ -6924,6 +6924,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 577,
+    "server_id": 4,
+    "type": "house",
+    "name": "деп условия подвалы",
+    "owner": "Adam_Rich",
+    "status": "Занято",
+    "x": -201.6629,
+    "y": 2772.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 578,
     "server_id": 4,
     "type": "house",
@@ -8612,6 +8624,18 @@
     "status": "Занято",
     "x": 1599.4,
     "y": 2757.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 719,
+    "server_id": 4,
+    "type": "house",
+    "name": "Disney Brootherhood",
+    "owner": "Valera_Miler",
+    "status": "Занято",
+    "x": 1608.55,
+    "y": 2752.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12324,6 +12348,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1030,
+    "server_id": 4,
+    "type": "house",
+    "name": "Ферма н1",
+    "owner": "Adam_Rich",
+    "status": "Занято",
+    "x": 1762.67,
+    "y": 2871.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1031,
     "server_id": 4,
     "type": "house",
@@ -14100,6 +14136,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1179,
+    "server_id": 4,
+    "type": "house",
+    "name": "--Vespuchos--",
+    "owner": "Mur_Mur",
+    "status": "Занято",
+    "x": -2872.5,
+    "y": 697.593,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1180,
     "server_id": 4,
     "type": "house",
@@ -14792,18 +14840,6 @@
     "status": "Занято",
     "x": -2383.14,
     "y": 1281.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1238,
-    "server_id": 4,
-    "type": "house",
-    "name": "Fern",
-    "owner": "Dimas_Owner",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1299.75,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20328,6 +20364,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1700,
+    "server_id": 4,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Adam_Rich",
+    "status": "Занято",
+    "x": 2700.21,
+    "y": -1224.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1701,
     "server_id": 4,
     "type": "house",
@@ -25188,51 +25236,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 577,
+    "id": 1238,
     "server_id": 4,
     "type": "house",
-    "name": "деп условия подвалы",
-    "owner": "Adam_Rich",
+    "name": "Fern",
+    "owner": "Dimas_Owner",
     "status": "Аукцион",
-    "x": -201.6629,
-    "y": 2772.17,
-    "price": 3800,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 719,
-    "server_id": 4,
-    "type": "house",
-    "name": "Disney Brootherhood",
-    "owner": "Valera_Miler",
-    "status": "Аукцион",
-    "x": 1608.55,
-    "y": 2752.98,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1030,
-    "server_id": 4,
-    "type": "house",
-    "name": "Ферма н1",
-    "owner": "Adam_Rich",
-    "status": "Аукцион",
-    "x": 1762.67,
-    "y": 2871.14,
-    "price": 3800,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1179,
-    "server_id": 4,
-    "type": "house",
-    "name": "--Vespuchos--",
-    "owner": "martinerose",
-    "status": "Аукцион",
-    "x": -2872.5,
-    "y": 697.593,
-    "price": 200000000,
+    "x": -2383.14,
+    "y": 1299.75,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25248,26 +25260,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1700,
-    "server_id": 4,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Adam_Rich",
-    "status": "Аукцион",
-    "x": 2700.21,
-    "y": -1224.76,
-    "price": 3800,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 259,
+    "id": 184,
     "server_id": 4,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "Down_Town",
+    "name": "Ларек с уличной едой",
+    "owner": "Doctor_Infernales",
     "status": "Аукцион",
-    "x": 1404.09,
-    "y": 51.2512,
+    "x": 2351.41,
+    "y": 2405.59,
     "price": 10000000000,
     "district": "Сан-Андреас"
   },
@@ -27264,6 +27264,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 259,
+    "server_id": 4,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Down_Town",
+    "status": "Занято",
+    "x": 1404.09,
+    "y": 51.2512,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 260,
     "server_id": 4,
     "type": "business",
@@ -28100,18 +28112,6 @@
     "status": "Занято",
     "x": 1575.5,
     "y": 1844.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 184,
-    "server_id": 4,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2351.41,
-    "y": 2405.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
