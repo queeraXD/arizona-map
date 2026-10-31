@@ -5019,8 +5019,8 @@
     "id": 418,
     "server_id": 14,
     "type": "house",
-    "name": "Дом Блесседа Рембо",
-    "owner": "Olga_Kunilingus",
+    "name": "Юрец",
+    "owner": "Yura_Tsunami",
     "status": "Занято",
     "x": 725.953,
     "y": -1276.33,
@@ -6720,6 +6720,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 560,
+    "server_id": 14,
+    "type": "house",
+    "name": "wanset",
+    "owner": "Arseniy_Medvedev",
+    "status": "Занято",
+    "x": 227.699,
+    "y": 1070.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 561,
     "server_id": 14,
     "type": "house",
@@ -7124,6 +7136,18 @@
     "status": "Занято",
     "x": -1446.67,
     "y": 2636.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 595,
+    "server_id": 14,
+    "type": "house",
+    "name": "домик гномик 3",
+    "owner": "Anton_Antix",
+    "status": "Занято",
+    "x": -1444.99,
+    "y": 2653.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11308,7 +11332,7 @@
     "server_id": 14,
     "type": "house",
     "name": "ФУЛ МАЙНИНГ ФЕРМА 8ЛВЛ БТК #6",
-    "owner": "Vlad_Merres",
+    "owner": "Marci_Seller",
     "status": "Занято",
     "x": -2295.25,
     "y": 969.6619,
@@ -14948,18 +14972,6 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1263.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1248,
-    "server_id": 14,
-    "type": "house",
-    "name": "Селл, фулл улучш",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": -2351.14,
-    "y": 1244.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18648,6 +18660,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1556,
+    "server_id": 14,
+    "type": "house",
+    "name": "Продается, звоните!",
+    "owner": "Constellate_Tears",
+    "status": "Занято",
+    "x": 2571.53,
+    "y": 713.2839,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1557,
     "server_id": 14,
     "type": "house",
@@ -20796,18 +20820,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1736,
-    "server_id": 14,
-    "type": "house",
-    "name": "#2016",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": 2594.5,
-    "y": -1200.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1737,
     "server_id": 14,
     "type": "house",
@@ -22704,18 +22716,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1900,
-    "server_id": 14,
-    "type": "house",
-    "name": "#2016",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": 2468.41,
-    "y": -1417.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1901,
     "server_id": 14,
     "type": "house",
@@ -23664,39 +23664,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 560,
+    "id": 1248,
     "server_id": 14,
     "type": "house",
-    "name": "wanset",
-    "owner": "Constellate_Tears",
+    "name": "Селл, фулл улучш",
+    "owner": "Sirius_Cybernetik",
     "status": "Аукцион",
-    "x": 227.699,
-    "y": 1070.82,
-    "price": 200000000,
+    "x": -2351.14,
+    "y": 1244.64,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 595,
+    "id": 1736,
     "server_id": 14,
     "type": "house",
-    "name": "домик гномик 3",
-    "owner": "Constellate_Tears",
+    "name": "#2016",
+    "owner": "OneWay_Ticket",
     "status": "Аукцион",
-    "x": -1444.99,
-    "y": 2653.32,
-    "price": 200000000,
+    "x": 2594.5,
+    "y": -1200.03,
+    "price": 700123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1556,
+    "id": 1900,
     "server_id": 14,
     "type": "house",
-    "name": "Продается, звоните!",
-    "owner": "Constellate_Tears",
+    "name": "#2016",
+    "owner": "OneWay_Ticket",
     "status": "Аукцион",
-    "x": 2571.53,
-    "y": 713.2839,
-    "price": 200000000,
+    "x": 2468.41,
+    "y": -1417.44,
+    "price": 700123123,
     "district": "Сан-Андреас"
   },
   {

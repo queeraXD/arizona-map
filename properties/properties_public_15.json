@@ -1132,7 +1132,7 @@
     "server_id": 15,
     "type": "house",
     "name": "нико дом не продам",
-    "owner": "Laurence_Rousset",
+    "owner": "Kizyak_Hellsing",
     "status": "Занято",
     "x": 2696.51,
     "y": -1990.42,
@@ -1904,18 +1904,6 @@
     "status": "Занято",
     "x": 1189.28,
     "y": -1017.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 159,
-    "server_id": 15,
-    "type": "house",
-    "name": "Grant+",
-    "owner": "Grant_McCloud",
-    "status": "Занято",
-    "x": 1196.02,
-    "y": -1017.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10500,18 +10488,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 876,
-    "server_id": 15,
-    "type": "house",
-    "name": "Evelone House",
-    "owner": "Sango_Lizergin",
-    "status": "Занято",
-    "x": -2187.1,
-    "y": 795.702,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 877,
     "server_id": 15,
     "type": "house",
@@ -11644,7 +11620,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Disney",
-    "owner": "Laurence_Rousset",
+    "owner": "Tom_Sosison",
     "status": "Занято",
     "x": -2348.76,
     "y": 2423.25,
@@ -16936,7 +16912,7 @@
     "server_id": 15,
     "type": "house",
     "name": "1413",
-    "owner": "Ludik_NeTokado",
+    "owner": "Laurence_Rousset",
     "status": "Занято",
     "x": 928.6149,
     "y": 2319.31,
@@ -18716,18 +18692,6 @@
     "status": "Занято",
     "x": 852.385,
     "y": -1436.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1562,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tom_Sosison",
-    "status": "Занято",
-    "x": 1989.13,
-    "y": 2665.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21312,6 +21276,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 159,
+    "server_id": 15,
+    "type": "house",
+    "name": "Grant+",
+    "owner": "Grant_McCloud",
+    "status": "Аукцион",
+    "x": 1196.02,
+    "y": -1017.04,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 876,
+    "server_id": 15,
+    "type": "house",
+    "name": "Evelone House",
+    "owner": "Sango_Lizergin",
+    "status": "Аукцион",
+    "x": -2187.1,
+    "y": 795.702,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1221,
     "server_id": 15,
     "type": "house",
@@ -21320,6 +21308,18 @@
     "status": "Аукцион",
     "x": -2660.73,
     "y": 200.576,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1562,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tom_Sosison",
+    "status": "Аукцион",
+    "x": 1989.13,
+    "y": 2665.19,
     "price": 500000000,
     "district": "Сан-Андреас"
   },
@@ -23092,7 +23092,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Ludik_NeTokado",
+    "owner": "Sup_Luit",
     "status": "Занято",
     "x": -858.014,
     "y": 1535.4,

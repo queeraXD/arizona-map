@@ -856,7 +856,7 @@
     "server_id": 12,
     "type": "house",
     "name": "#attwood",
-    "owner": "Incosinuss_Miracle",
+    "owner": "Rinat_Attwood",
     "status": "Занято",
     "x": 2384.66,
     "y": -1673.94,
@@ -6867,7 +6867,7 @@
     "id": 572,
     "server_id": 12,
     "type": "house",
-    "name": "ФК,деп условия",
+    "name": "фредберский сарай",
     "owner": "Freddy_Rain",
     "status": "Занято",
     "x": -150.0549,
@@ -9432,18 +9432,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 786,
-    "server_id": 12,
-    "type": "house",
-    "name": "Деп условия, подвал для майнинг",
-    "owner": "Urban_Savchenko",
-    "status": "Занято",
-    "x": -2513.51,
-    "y": 885.7399,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 787,
     "server_id": 12,
     "type": "house",
@@ -9980,18 +9968,6 @@
     "status": "Занято",
     "x": -2723.0,
     "y": 4.0472,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 832,
-    "server_id": 12,
-    "type": "house",
-    "name": "HOMESFg",
-    "owner": "Urban_Savchenko",
-    "status": "Занято",
-    "x": -2234.38,
-    "y": 888.869,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14304,6 +14280,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1192,
+    "server_id": 12,
+    "type": "house",
+    "name": "Hearts Corp.",
+    "owner": "Crystal_Kasiliks",
+    "status": "Занято",
+    "x": -2791.85,
+    "y": -134.4649,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1193,
     "server_id": 12,
     "type": "house",
@@ -14380,7 +14368,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Дом",
-    "owner": "Klade_Bueno",
+    "owner": "Andrey_ThrillSmoke",
     "status": "Занято",
     "x": -2791.91,
     "y": -24.3973,
@@ -22924,7 +22912,7 @@
     "server_id": 12,
     "type": "house",
     "name": "МишелинПилотСпорт4есс",
-    "owner": "Michelin_PilotSport",
+    "owner": "Marat_Klubnika",
     "status": "Занято",
     "x": 2643.81,
     "y": 2195.56,
@@ -23796,15 +23784,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1192,
+    "id": 786,
     "server_id": 12,
     "type": "house",
-    "name": "Hearts Corp.",
-    "owner": "Crystal_Kasiliks",
-    "status": "Аукцион",
-    "x": -2791.85,
-    "y": -134.4649,
-    "price": 3500,
+    "name": "Деп условия, подвал для майнинг",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2513.51,
+    "y": 885.7399,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 832,
+    "server_id": 12,
+    "type": "house",
+    "name": "HOMESFg",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2234.38,
+    "y": 888.869,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
