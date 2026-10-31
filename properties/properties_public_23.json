@@ -3540,6 +3540,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 295,
+    "server_id": 23,
+    "type": "house",
+    "name": "ХАТА ПОТУЖНОГО БОССА",
+    "owner": "Avangard_Bedolaga",
+    "status": "Занято",
+    "x": 2352.16,
+    "y": -1170.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 296,
     "server_id": 23,
     "type": "house",
@@ -7824,18 +7836,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 653,
-    "server_id": 23,
-    "type": "house",
-    "name": "не продавать",
-    "owner": "Desappear_Pluggstar",
-    "status": "Занято",
-    "x": 1977.75,
-    "y": 677.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 654,
     "server_id": 23,
     "type": "house",
@@ -9036,18 +9036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 754,
-    "server_id": 23,
-    "type": "house",
-    "name": "Perignon <З",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": -2678.18,
-    "y": 722.1619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 755,
     "server_id": 23,
     "type": "house",
@@ -9436,7 +9424,7 @@
     "server_id": 23,
     "type": "house",
     "name": "House Fixy №3",
-    "owner": "Jordan_Bruno",
+    "owner": "Meow_Zakatov",
     "status": "Занято",
     "x": -2543.58,
     "y": 922.2329,
@@ -19224,18 +19212,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1605,
-    "server_id": 23,
-    "type": "house",
-    "name": "не продавать",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 2537.03,
-    "y": 1242.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1606,
     "server_id": 23,
     "type": "house",
@@ -19256,6 +19232,18 @@
     "status": "Занято",
     "x": 2537.03,
     "y": 1236.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1608,
+    "server_id": 23,
+    "type": "house",
+    "name": "Притон дровосека",
+    "owner": "Avangard_Bedolaga",
+    "status": "Занято",
+    "x": 2541.52,
+    "y": 1232.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19660,7 +19648,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Фарм 2",
-    "owner": "Anton_Sabiny",
+    "owner": "Hiroto_Holiday",
     "status": "Занято",
     "x": 2487.29,
     "y": -1376.27,
@@ -21132,15 +21120,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 295,
+    "id": 653,
     "server_id": 23,
     "type": "house",
-    "name": "ХАТА ПОТУЖНОГО БОССА",
-    "owner": "Avangard_Bedolaga",
+    "name": "boss",
+    "owner": "Desappear_Pluggstar",
     "status": "Аукцион",
-    "x": 2352.16,
-    "y": -1170.38,
-    "price": 800123123,
+    "x": 1977.75,
+    "y": 677.4,
+    "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 754,
+    "server_id": 23,
+    "type": "house",
+    "name": "Perignon <З",
+    "owner": "Heron_Miller",
+    "status": "Аукцион",
+    "x": -2678.18,
+    "y": 722.1619,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21156,27 +21156,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1608,
+    "id": 1605,
     "server_id": 23,
     "type": "house",
-    "name": "Притон дровосека",
-    "owner": "Turbo_Ww",
+    "name": "не продавать",
+    "owner": "Naldon_Legenda",
     "status": "Аукцион",
-    "x": 2541.52,
-    "y": 1232.98,
-    "price": 50123213,
+    "x": 2537.03,
+    "y": 1242.37,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 66,
+    "id": 158,
     "server_id": 23,
     "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Jerry_Burberry",
+    "name": "Отель",
+    "owner": "Naldon_Legenda",
     "status": "Аукцион",
-    "x": 2085.67,
-    "y": 2054.97,
-    "price": 250000,
+    "x": 2272.941,
+    "y": -1795.335,
+    "price": 200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 276,
+    "server_id": 23,
+    "type": "business",
+    "name": "Магазин видеокарт",
+    "owner": "Naldon_Legenda",
+    "status": "Аукцион",
+    "x": 1081.24,
+    "y": -1696.78,
+    "price": 450000,
     "district": "Сан-Андреас"
   },
   {
@@ -21224,6 +21236,18 @@
     "status": "Занято",
     "x": 2539.54,
     "y": 2083.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 66,
+    "server_id": 23,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Jerry_Burberry",
+    "status": "Занято",
+    "x": 2085.67,
+    "y": 2054.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23820,18 +23844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 158,
-    "server_id": 23,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 2272.941,
-    "y": -1795.335,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 268,
     "server_id": 23,
     "type": "business",
@@ -24704,18 +24716,6 @@
     "status": "Занято",
     "x": -1440.58,
     "y": 2611.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 276,
-    "server_id": 23,
-    "type": "business",
-    "name": "Магазин видеокарт",
-    "owner": "Naldon_Legenda",
-    "status": "Занято",
-    "x": 1081.24,
-    "y": -1696.78,
     "price": 0,
     "district": "Сан-Андреас"
   },

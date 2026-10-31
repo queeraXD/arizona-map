@@ -5880,18 +5880,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 490,
-    "server_id": 6,
-    "type": "house",
-    "name": "$Roken House$",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 2065.03,
-    "y": 730.408,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 491,
     "server_id": 6,
     "type": "house",
@@ -14988,18 +14976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1249,
-    "server_id": 6,
-    "type": "house",
-    "name": "МГЕ Берлога",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -2477.23,
-    "y": 1281.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1250,
     "server_id": 6,
     "type": "house",
@@ -16839,23 +16815,11 @@
     "id": 1404,
     "server_id": 6,
     "type": "house",
-    "name": "улица пантеров",
-    "owner": "Blade_Cursedov",
+    "name": "Берлога Киритыча ",
+    "owner": "Kirito_Apple",
     "status": "Занято",
     "x": 2407.92,
     "y": -1106.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1405,
-    "server_id": 6,
-    "type": "house",
-    "name": "улица пантеров",
-    "owner": "Blade_Cursedov",
-    "status": "Занято",
-    "x": 2438.63,
-    "y": -1105.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16868,18 +16832,6 @@
     "status": "Занято",
     "x": 2457.0,
     "y": -1102.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1407,
-    "server_id": 6,
-    "type": "house",
-    "name": "улица пантеров",
-    "owner": "Blade_Cursedov",
-    "status": "Занято",
-    "x": 2470.6,
-    "y": -1105.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23704,7 +23656,7 @@
     "server_id": 6,
     "type": "house",
     "name": "босяк",
-    "owner": "Kayden_Break",
+    "owner": "Hiroto_SaintRose",
     "status": "Занято",
     "x": 2647.11,
     "y": 2233.03,
@@ -24516,6 +24468,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 490,
+    "server_id": 6,
+    "type": "house",
+    "name": "$Roken House$",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": 2065.03,
+    "y": 730.408,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1249,
+    "server_id": 6,
+    "type": "house",
+    "name": "МГЕ Берлога",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -2477.23,
+    "y": 1281.47,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1286,
     "server_id": 6,
     "type": "house",
@@ -24525,6 +24501,42 @@
     "x": -2510.9,
     "y": 942.8469,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1405,
+    "server_id": 6,
+    "type": "house",
+    "name": "улица пантеров",
+    "owner": "Blade_Cursedov",
+    "status": "Аукцион",
+    "x": 2438.63,
+    "y": -1105.79,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1407,
+    "server_id": 6,
+    "type": "house",
+    "name": "улица пантеров",
+    "owner": "Blade_Cursedov",
+    "status": "Аукцион",
+    "x": 2470.6,
+    "y": -1105.32,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 253,
+    "server_id": 6,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Isaac_Kolomensku",
+    "status": "Аукцион",
+    "x": 441.766,
+    "y": 313.07,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -25976,18 +25988,6 @@
     "status": "Занято",
     "x": -2975.86,
     "y": 623.271,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 253,
-    "server_id": 6,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Isaac_Kolomensku",
-    "status": "Занято",
-    "x": 441.766,
-    "y": 313.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
