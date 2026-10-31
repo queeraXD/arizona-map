@@ -2796,18 +2796,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 233,
-    "server_id": 21,
-    "type": "house",
-    "name": "awertx boss",
-    "owner": "Depressant_Ofisnik",
-    "status": "Занято",
-    "x": 470.8739,
-    "y": -1164.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 234,
     "server_id": 21,
     "type": "house",
@@ -6308,6 +6296,18 @@
     "status": "Занято",
     "x": 1595.81,
     "y": 2123.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 526,
+    "server_id": 21,
+    "type": "house",
+    "name": "кастом гараж,деп усл,майн",
+    "owner": "Robert_Devil",
+    "status": "Занято",
+    "x": 2049.55,
+    "y": 2763.94,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11124,18 +11124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 929,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -2017.64,
-    "y": 1017.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 930,
     "server_id": 21,
     "type": "house",
@@ -12212,18 +12200,6 @@
     "status": "Занято",
     "x": -2542.09,
     "y": 967.7059,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1020,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": -2542.49,
-    "y": 942.4849,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15340,7 +15316,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Кочевники",
-    "owner": "Parliament_Arias",
+    "owner": "Sanek_Pozitiv",
     "status": "Занято",
     "x": -2725.79,
     "y": -36.4976,
@@ -18555,7 +18531,7 @@
     "id": 1548,
     "server_id": 21,
     "type": "house",
-    "name": "Morenno",
+    "name": "Миколаїв",
     "owner": "Dmytro_Stomat",
     "status": "Занято",
     "x": -2786.76,
@@ -21924,15 +21900,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 526,
+    "id": 233,
     "server_id": 21,
     "type": "house",
-    "name": "кастом гараж,деп усл,майн",
-    "owner": "Konstantin_Pinko",
+    "name": "awertx boss",
+    "owner": "Depressant_Ofisnik",
     "status": "Аукцион",
-    "x": 2049.55,
-    "y": 2763.94,
-    "price": 300000000,
+    "x": 470.8739,
+    "y": -1164.12,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 929,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -2017.64,
+    "y": 1017.06,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1020,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": -2542.49,
+    "y": 942.4849,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {

@@ -2664,18 +2664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 222,
-    "server_id": 31,
-    "type": "house",
-    "name": "Kazakh Corparation",
-    "owner": "Silvio_Salamanca",
-    "status": "Занято",
-    "x": 891.1149,
-    "y": -782.806,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 223,
     "server_id": 31,
     "type": "house",
@@ -2895,7 +2883,7 @@
     "id": 242,
     "server_id": 31,
     "type": "house",
-    "name": "Юпи.",
+    "name": "Юпи. sell - 40kkk",
     "owner": "Youpi_Yoy",
     "status": "Занято",
     "x": 255.1679,
@@ -2907,7 +2895,7 @@
     "id": 243,
     "server_id": 31,
     "type": "house",
-    "name": "Юпи.",
+    "name": "Юпи. sell - 40kkk",
     "owner": "Youpi_Yoy",
     "status": "Занято",
     "x": 298.0239,
@@ -3392,6 +3380,18 @@
     "status": "Занято",
     "x": 2208.54,
     "y": -1025.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 284,
+    "server_id": 31,
+    "type": "house",
+    "name": "lxve cvlt (2/15)",
+    "owner": "Patrick_Mercer",
+    "status": "Занято",
+    "x": 2462.37,
+    "y": -1011.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6224,6 +6224,18 @@
     "status": "Занято",
     "x": 1596.87,
     "y": 2093.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 521,
+    "server_id": 31,
+    "type": "house",
+    "name": "Traffic Devils Берлога",
+    "owner": "Morro_Laportovich",
+    "status": "Занято",
+    "x": 1639.79,
+    "y": 2102.8,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9204,18 +9216,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 772,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Eternal_Envy",
-    "status": "Занято",
-    "x": -2622.52,
-    "y": 766.299,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 773,
     "server_id": 31,
     "type": "house",
@@ -9732,6 +9732,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 816,
+    "server_id": 31,
+    "type": "house",
+    "name": "4 дом",
+    "owner": "Torino_Shakur",
+    "status": "Занято",
+    "x": -2688.33,
+    "y": -175.0939,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 817,
     "server_id": 31,
     "type": "house",
@@ -10059,7 +10071,7 @@
     "id": 844,
     "server_id": 31,
     "type": "house",
-    "name": "temshik",
+    "name": "г5м, деп усл, вент, теплица",
     "owner": "Bog_Arizonu",
     "status": "Занято",
     "x": -2227.81,
@@ -19008,18 +19020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1592,
-    "server_id": 31,
-    "type": "house",
-    "name": "Saber Family",
-    "owner": "Footjob_Queen",
-    "status": "Занято",
-    "x": 2441.54,
-    "y": 1224.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1593,
     "server_id": 31,
     "type": "house",
@@ -21312,18 +21312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1788,
-    "server_id": 31,
-    "type": "house",
-    "name": "lxve cvlt (4/15)",
-    "owner": "Jackson_Jey",
-    "status": "Занято",
-    "x": -2325.84,
-    "y": 944.255,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1789,
     "server_id": 31,
     "type": "house",
@@ -22220,18 +22208,6 @@
     "status": "Занято",
     "x": -2786.76,
     "y": 119.805,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1864,
-    "server_id": 31,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Gryzovik_Oxota",
-    "status": "Занято",
-    "x": -216.6309,
-    "y": 930.1619,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23268,39 +23244,27 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 222,
+    "server_id": 31,
+    "type": "house",
+    "name": "Kazakh Corparation",
+    "owner": "Silvio_Salamanca",
+    "status": "Аукцион",
+    "x": 891.1149,
+    "y": -782.806,
+    "price": 130000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 233,
     "server_id": 31,
     "type": "house",
-    "name": "House of Gods Knights | 3",
-    "owner": "Государство",
+    "name": "особка ВВ",
+    "owner": "Mark_Rockefeller",
     "status": "Аукцион",
     "x": 470.8739,
     "y": -1164.12,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 284,
-    "server_id": 31,
-    "type": "house",
-    "name": "lxve cvlt (2/15)",
-    "owner": "Night_Sosiska",
-    "status": "Аукцион",
-    "x": 2462.37,
-    "y": -1011.12,
-    "price": 1400123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 521,
-    "server_id": 31,
-    "type": "house",
-    "name": "Traffic Devils Берлога",
-    "owner": "Iflexick_Doc",
-    "status": "Аукцион",
-    "x": 1639.79,
-    "y": 2102.8,
-    "price": 500123123,
+    "price": 7000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23319,36 +23283,48 @@
     "id": 626,
     "server_id": 31,
     "type": "house",
-    "name": "Хата Legita №4",
-    "owner": "Flow_State",
+    "name": "продажа в тг @vladik1d",
+    "owner": "Porovozik_Bdsm",
     "status": "Аукцион",
     "x": 4.1448,
     "y": 1344.59,
-    "price": 1000000000,
+    "price": 1700000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 816,
+    "id": 772,
     "server_id": 31,
     "type": "house",
-    "name": "4 дом",
-    "owner": "Porovozik_Bdsm",
+    "name": "Дом",
+    "owner": "Eternal_Envy",
     "status": "Аукцион",
-    "x": -2688.33,
-    "y": -175.0939,
-    "price": 2000123123,
+    "x": -2622.52,
+    "y": 766.299,
+    "price": 555555555,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1592,
+    "server_id": 31,
+    "type": "house",
+    "name": "Saber Family",
+    "owner": "Footjob_Queen",
+    "status": "Аукцион",
+    "x": 2441.54,
+    "y": 1224.14,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
     "id": 1634,
     "server_id": 31,
     "type": "house",
-    "name": "Хата Legita №3",
-    "owner": "loVec_DomoV",
+    "name": "продажа в тг @vladik1d",
+    "owner": "Porovozik_Bdsm",
     "status": "Аукцион",
     "x": 21.3752,
     "y": 1344.13,
-    "price": 700000000,
+    "price": 1700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23360,6 +23336,30 @@
     "status": "Аукцион",
     "x": 2417.74,
     "y": 1004.44,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1788,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jackson_Jey",
+    "status": "Аукцион",
+    "x": -2325.84,
+    "y": 944.255,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1864,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gryzovik_Oxota",
+    "status": "Аукцион",
+    "x": -216.6309,
+    "y": 930.1619,
     "price": 1000000000,
     "district": "Сан-Андреас"
   },
