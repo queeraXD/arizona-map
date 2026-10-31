@@ -12960,6 +12960,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1082,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом Salo_Nozis",
+    "owner": "Rino_Offline",
+    "status": "Занято",
+    "x": -2860.63,
+    "y": 963.5679,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1083,
     "server_id": 19,
     "type": "house",
@@ -15464,18 +15476,6 @@
     "status": "Занято",
     "x": -2590.53,
     "y": -105.9329,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1293,
-    "server_id": 19,
-    "type": "house",
-    "name": "SVICOV DINASTY",
-    "owner": "Seledka_Karpunin",
-    "status": "Занято",
-    "x": -2576.46,
-    "y": -118.7259,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18096,18 +18096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1512,
-    "server_id": 19,
-    "type": "house",
-    "name": "velarde",
-    "owner": "Seledka_Karpunin",
-    "status": "Занято",
-    "x": 2824.04,
-    "y": 2274.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1513,
     "server_id": 19,
     "type": "house",
@@ -18667,6 +18655,18 @@
     "owner": "Drake_Thorndike",
     "status": "Занято",
     "x": 1945.53,
+    "y": 663.577,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1560,
+    "server_id": 19,
+    "type": "house",
+    "name": "ХАТА РЕГИ",
+    "owner": "Vados_BlackStar",
+    "status": "Занято",
+    "x": 1952.15,
     "y": 663.577,
     "price": 0,
     "district": "Сан-Андреас"
@@ -19700,6 +19700,30 @@
     "status": "Занято",
     "x": 1783.76,
     "y": 2868.78,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1647,
+    "server_id": 19,
+    "type": "house",
+    "name": "TRC-20 [01]",
+    "owner": "Michail_Shtyh",
+    "status": "Занято",
+    "x": 1772.08,
+    "y": 2871.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1648,
+    "server_id": 19,
+    "type": "house",
+    "name": "House",
+    "owner": "Michail_Shtyh",
+    "status": "Занято",
+    "x": 1775.03,
+    "y": 2870.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21984,54 +22008,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1082,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом Salo_Nozis",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2860.63,
-    "y": 963.5679,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1560,
-    "server_id": 19,
-    "type": "house",
-    "name": "ХАТА РЕГИ",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1952.15,
-    "y": 663.577,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1647,
-    "server_id": 19,
-    "type": "house",
-    "name": "TRC-20 [01]",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1772.08,
-    "y": 2871.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1648,
-    "server_id": 19,
-    "type": "house",
-    "name": "House",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1775.03,
-    "y": 2870.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 834,
     "server_id": 19,
     "type": "house",
@@ -22053,6 +22029,30 @@
     "x": -2476.94,
     "y": 1311.03,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1293,
+    "server_id": 19,
+    "type": "house",
+    "name": "SVICOV DINASTY",
+    "owner": "Seledka_Karpunin",
+    "status": "Аукцион",
+    "x": -2576.46,
+    "y": -118.7259,
+    "price": 35000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1512,
+    "server_id": 19,
+    "type": "house",
+    "name": "velarde",
+    "owner": "Seledka_Karpunin",
+    "status": "Аукцион",
+    "x": 2824.04,
+    "y": 2274.94,
+    "price": 35000123,
     "district": "Сан-Андреас"
   },
   {
