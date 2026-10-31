@@ -9711,8 +9711,8 @@
     "id": 809,
     "server_id": 9,
     "type": "house",
-    "name": "123123",
-    "owner": "Leva_King",
+    "name": "Cook",
+    "owner": "Neo_Cook",
     "status": "Занято",
     "x": -2720.98,
     "y": -120.787,
@@ -11264,6 +11264,18 @@
     "status": "Занято",
     "x": -2066.59,
     "y": 796.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 940,
+    "server_id": 9,
+    "type": "house",
+    "name": "123123",
+    "owner": "Leva_King",
+    "status": "Занято",
+    "x": -2048.26,
+    "y": 796.4689,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21048,18 +21060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1757,
-    "server_id": 9,
-    "type": "house",
-    "name": "Welcome",
-    "owner": "Onyx_Deluxe",
-    "status": "Занято",
-    "x": 883.95,
-    "y": 2104.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1758,
     "server_id": 9,
     "type": "house",
@@ -23916,15 +23916,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 940,
+    "id": 1757,
     "server_id": 9,
     "type": "house",
-    "name": "Просто дом",
-    "owner": "Sasha_Lutsyk",
+    "name": "Welcome",
+    "owner": "Onyx_Deluxe",
     "status": "Аукцион",
-    "x": -2048.26,
-    "y": 796.4689,
-    "price": 1400100100,
+    "x": 883.95,
+    "y": 2104.88,
+    "price": 1600123000,
     "district": "Сан-Андреас"
   },
   {

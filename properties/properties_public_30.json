@@ -1875,8 +1875,8 @@
     "id": 156,
     "server_id": 30,
     "type": "house",
-    "name": "База Фармилы",
-    "owner": "Ethan_Gibson",
+    "name": "Ash & Afrodita <3",
+    "owner": "Ash_Devilside",
     "status": "Занято",
     "x": 1118.12,
     "y": -1022.04,
@@ -1887,8 +1887,8 @@
     "id": 157,
     "server_id": 30,
     "type": "house",
-    "name": "Когда то здесь будет X2",
-    "owner": "Ethan_Gibson",
+    "name": "Ash & Afrodita <3",
+    "owner": "Ash_Devilside",
     "status": "Занято",
     "x": 1127.97,
     "y": -1022.01,
@@ -2540,6 +2540,18 @@
     "status": "Занято",
     "x": 1034.62,
     "y": -812.7239,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 212,
+    "server_id": 30,
+    "type": "house",
+    "name": "Harrington Academy",
+    "owner": "Glory_Keyz",
+    "status": "Занято",
+    "x": 1017.07,
+    "y": -762.8809,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -4692,18 +4704,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 392,
-    "server_id": 30,
-    "type": "house",
-    "name": "Chhhhrist! #1",
-    "owner": "Christ_Longland",
-    "status": "Занято",
-    "x": 2245.44,
-    "y": -122.1439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 393,
     "server_id": 30,
     "type": "house",
@@ -6411,7 +6411,7 @@
     "id": 537,
     "server_id": 30,
     "type": "house",
-    "name": "Дом",
+    "name": "Las Venturas",
     "owner": "Francesco_Flawless",
     "status": "Занято",
     "x": 2066.1,
@@ -12764,18 +12764,6 @@
     "status": "Занято",
     "x": 2247.5,
     "y": -1470.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1068,
-    "server_id": 30,
-    "type": "house",
-    "name": "Mining Love",
-    "owner": "Danya_Patanin",
-    "status": "Занято",
-    "x": 2263.93,
-    "y": -1469.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19404,18 +19392,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1623,
-    "server_id": 30,
-    "type": "house",
-    "name": ":snake:ЗМЕЙКА:snake:",
-    "owner": "Duha_Exe",
-    "status": "Занято",
-    "x": -2016.35,
-    "y": 897.4979,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1625,
     "server_id": 30,
     "type": "house",
@@ -21888,6 +21864,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1839,
+    "server_id": 30,
+    "type": "house",
+    "name": "Героиновый притон",
+    "owner": "Afro_Samurai",
+    "status": "Занято",
+    "x": 2613.64,
+    "y": 2042.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1840,
     "server_id": 30,
     "type": "house",
@@ -22692,15 +22680,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
+    "id": 392,
     "server_id": 30,
     "type": "house",
-    "name": "Harrington Academy",
-    "owner": "Glory_Keyz",
+    "name": "Chhhhrist! #1",
+    "owner": "Christ_Longland",
     "status": "Аукцион",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 5123123123,
+    "x": 2245.44,
+    "y": -122.1439,
+    "price": 6000000001,
     "district": "Сан-Андреас"
   },
   {
@@ -22712,7 +22700,7 @@
     "status": "Аукцион",
     "x": 1283.69,
     "y": 158.5379,
-    "price": 850123123,
+    "price": 800123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22740,6 +22728,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1068,
+    "server_id": 30,
+    "type": "house",
+    "name": "Mining Love",
+    "owner": "Danya_Patanin",
+    "status": "Аукцион",
+    "x": 2263.93,
+    "y": -1469.55,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1622,
     "server_id": 30,
     "type": "house",
@@ -22748,19 +22748,19 @@
     "status": "Аукцион",
     "x": -2018.55,
     "y": 849.405,
-    "price": 850123123,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1839,
+    "id": 1623,
     "server_id": 30,
     "type": "house",
-    "name": "Героиновый притон",
-    "owner": "Afro_Samurai",
+    "name": ":snake:ЗМЕЙКА:snake:",
+    "owner": "Duha_Exe",
     "status": "Аукцион",
-    "x": 2613.64,
-    "y": 2042.16,
-    "price": 800000000,
+    "x": -2016.35,
+    "y": 897.4979,
+    "price": 1100000000,
     "district": "Сан-Андреас"
   },
   {

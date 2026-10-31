@@ -2116,7 +2116,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Дом",
-    "owner": "Shin_Nestero",
+    "owner": "Stive_Jones",
     "status": "Занято",
     "x": 692.926,
     "y": -1602.6,
@@ -9816,6 +9816,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 818,
+    "server_id": 14,
+    "type": "house",
+    "name": "* S U P E R   H O U S E *",
+    "owner": "Lovec_Pisunovv",
+    "status": "Аукцион",
+    "x": -2689.46,
+    "y": -167.298,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 819,
     "server_id": 14,
     "type": "house",
@@ -14964,6 +14976,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1248,
+    "server_id": 14,
+    "type": "house",
+    "name": "Селл, фулл улучш",
+    "owner": "Sirius_Cybernetik",
+    "status": "Занято",
+    "x": -2351.14,
+    "y": 1244.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1249,
     "server_id": 14,
     "type": "house",
@@ -15475,18 +15499,6 @@
     "owner": "Don_Diha",
     "status": "Занято",
     "x": -2356.88,
-    "y": 580.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1292,
-    "server_id": 14,
-    "type": "house",
-    "name": "KINDER SURPRISE WAR",
-    "owner": "Andriy_Luzhansky",
-    "status": "Занято",
-    "x": -2338.39,
     "y": 580.036,
     "price": 0,
     "district": "Сан-Андреас"
@@ -17480,18 +17492,6 @@
     "status": "Занято",
     "x": 2755.71,
     "y": -1400.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1459,
-    "server_id": 14,
-    "type": "house",
-    "name": "Korol 1",
-    "owner": "Dimka_Korol",
-    "status": "Занято",
-    "x": 2756.29,
-    "y": -1302.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20808,18 +20808,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1736,
-    "server_id": 14,
-    "type": "house",
-    "name": "#2016",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": 2594.5,
-    "y": -1200.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1737,
     "server_id": 14,
     "type": "house",
@@ -22716,18 +22704,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1900,
-    "server_id": 14,
-    "type": "house",
-    "name": "#2016",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": 2468.41,
-    "y": -1417.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1901,
     "server_id": 14,
     "type": "house",
@@ -23676,27 +23652,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 818,
+    "id": 1292,
     "server_id": 14,
     "type": "house",
-    "name": "* S U P E R   H O U S E *",
-    "owner": "Lovec_Pisunovv",
+    "name": "KINDER SURPRISE WAR",
+    "owner": "Andriy_Luzhansky",
     "status": "Аукцион",
-    "x": -2689.46,
-    "y": -167.298,
-    "price": 300000000,
+    "x": -2338.39,
+    "y": 580.036,
+    "price": 8200,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1248,
+    "id": 1459,
     "server_id": 14,
     "type": "house",
-    "name": "Селл, фулл улучш",
-    "owner": "Sirius_Cybernetik",
+    "name": "Korol 1",
+    "owner": "Dimka_Korol",
     "status": "Аукцион",
-    "x": -2351.14,
-    "y": 1244.64,
-    "price": 500000000,
+    "x": 2756.29,
+    "y": -1302.52,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1736,
+    "server_id": 14,
+    "type": "house",
+    "name": "#2016",
+    "owner": "OneWay_Ticket",
+    "status": "Аукцион",
+    "x": 2594.5,
+    "y": -1200.03,
+    "price": 700123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1900,
+    "server_id": 14,
+    "type": "house",
+    "name": "#2016",
+    "owner": "OneWay_Ticket",
+    "status": "Аукцион",
+    "x": 2468.41,
+    "y": -1417.44,
+    "price": 800123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23709,6 +23709,18 @@
     "x": 2405.02,
     "y": -1933.97,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 200,
+    "server_id": 14,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Ikegami_Akane",
+    "status": "Аукцион",
+    "x": -1983.44,
+    "y": 127.66,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26756,18 +26768,6 @@
     "status": "Занято",
     "x": 1771.74,
     "y": -1903.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 200,
-    "server_id": 14,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Ikegami_Akane",
-    "status": "Занято",
-    "x": -1983.44,
-    "y": 127.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
