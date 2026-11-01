@@ -3924,18 +3924,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 327,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Afro_Boss",
-    "status": "Аукцион",
-    "x": 342.376,
-    "y": 62.625,
-    "price": 150123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 328,
     "server_id": 11,
     "type": "house",
@@ -4036,7 +4024,7 @@
     "server_id": 11,
     "type": "house",
     "name": "$$Bear Production$$",
-    "owner": "Henry_Lee",
+    "owner": "Air_Markelovani",
     "status": "Занято",
     "x": 783.875,
     "y": 353.0289,
@@ -5061,18 +5049,6 @@
     "x": 1308.05,
     "y": 152.9629,
     "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 422,
-    "server_id": 11,
-    "type": "house",
-    "name": "Кефир Монополия",
-    "owner": "Aperol_Spritz",
-    "status": "Аукцион",
-    "x": 1312.43,
-    "y": 170.811,
-    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -9580,7 +9556,7 @@
     "server_id": 11,
     "type": "house",
     "name": "Morgan Empire | Aomi",
-    "owner": "Kaito_Zambidis",
+    "owner": "Aomi_Morgan",
     "status": "Занято",
     "x": -2368.82,
     "y": 763.504,
@@ -15459,8 +15435,8 @@
     "id": 1300,
     "server_id": 11,
     "type": "house",
-    "name": "Дом",
-    "owner": "Mihail_Shymacher",
+    "name": "Это мой дом тут",
+    "owner": "Konstantin_Zhuriy",
     "status": "Занято",
     "x": -2476.97,
     "y": 1273.94,
@@ -18616,7 +18592,7 @@
     "server_id": 11,
     "type": "house",
     "name": "Tony Montana",
-    "owner": "Henry_Lee",
+    "owner": "Air_Markelovani",
     "status": "Занято",
     "x": 2099.91,
     "y": -1051.82,
@@ -23525,10 +23501,10 @@
     "type": "house",
     "name": "core",
     "owner": "Apollo_Caballero",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1787.71,
     "y": 2770.02,
-    "price": 300000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -24648,6 +24624,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 327,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Afro_Boss",
+    "status": "Аукцион",
+    "x": 342.376,
+    "y": 62.625,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 422,
+    "server_id": 11,
+    "type": "house",
+    "name": "Кефир Монополия",
+    "owner": "Aperol_Spritz",
+    "status": "Аукцион",
+    "x": 1312.43,
+    "y": 170.811,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 11,
     "type": "business",
@@ -25288,7 +25288,7 @@
     "server_id": 11,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Chiryliya_Markovskiy",
+    "owner": "Alexx_Monopoly",
     "status": "Занято",
     "x": 1657.04,
     "y": 1741.65,

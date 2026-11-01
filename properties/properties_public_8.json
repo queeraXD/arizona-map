@@ -2616,18 +2616,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 218,
-    "server_id": 8,
-    "type": "house",
-    "name": "Patay Dodiks Family",
-    "owner": "Kopchi_Maybach",
-    "status": "Занято",
-    "x": 836.2189,
-    "y": -894.2999,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 219,
     "server_id": 8,
     "type": "house",
@@ -13320,18 +13308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1111,
-    "server_id": 8,
-    "type": "house",
-    "name": "Мафия ЛКН",
-    "owner": "Vladosio_Negodnicov",
-    "status": "Занято",
-    "x": 1748.71,
-    "y": 2758.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1112,
     "server_id": 8,
     "type": "house",
@@ -17836,7 +17812,7 @@
     "server_id": 8,
     "type": "house",
     "name": "АЛКО ХАТА",
-    "owner": "Repantinio_Quattroki",
+    "owner": "Nysson_Redrock",
     "status": "Занято",
     "x": 535.0469,
     "y": -1174.01,
@@ -18812,18 +18788,6 @@
     "status": "Занято",
     "x": 1921.74,
     "y": 2665.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1569,
-    "server_id": 8,
-    "type": "house",
-    "name": "Omori Family",
-    "owner": "Phantom_Power",
-    "status": "Занято",
-    "x": 662.4359,
-    "y": -1466.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23092,7 +23056,7 @@
     "server_id": 8,
     "type": "house",
     "name": "templarez mafia",
-    "owner": "Goro_Lunterra",
+    "owner": "Actavis_Wizzard",
     "status": "Занято",
     "x": 2816.49,
     "y": 2275.04,
@@ -25156,7 +25120,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Trip",
-    "owner": "Majorka_Twix",
+    "owner": "Tea_Monomax",
     "status": "Занято",
     "x": 2601.05,
     "y": -1203.11,
@@ -25785,6 +25749,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 218,
+    "server_id": 8,
+    "type": "house",
+    "name": "Patay Dodiks Family",
+    "owner": "Kopchi_Maybach",
+    "status": "Аукцион",
+    "x": 836.2189,
+    "y": -894.2999,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1111,
+    "server_id": 8,
+    "type": "house",
+    "name": "Мафия ЛКН",
+    "owner": "Vladosio_Negodnicov",
+    "status": "Аукцион",
+    "x": 1748.71,
+    "y": 2758.46,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1569,
+    "server_id": 8,
+    "type": "house",
+    "name": "Omori Family",
+    "owner": "Phantom_Power",
+    "status": "Аукцион",
+    "x": 662.4359,
+    "y": -1466.7,
+    "price": 500123123,
     "district": "Сан-Андреас"
   },
   {
@@ -26608,7 +26608,7 @@
     "server_id": 8,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Luminisent_London",
+    "owner": "Avo_Sanders",
     "status": "Занято",
     "x": -1531.05,
     "y": 2591.72,
