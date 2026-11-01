@@ -7972,7 +7972,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Suicide",
-    "owner": "Auto_Heal",
+    "owner": "Sergio_Tohok",
     "status": "Занято",
     "x": 984.2709,
     "y": 1978.33,
@@ -11328,18 +11328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 944,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия 944",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2029.87,
-    "y": 796.638,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 945,
     "server_id": 5,
     "type": "house",
@@ -11360,6 +11348,18 @@
     "status": "Занято",
     "x": -2066.61,
     "y": 796.3289,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 947,
+    "server_id": 5,
+    "type": "house",
+    "name": "my house, my life",
+    "owner": "Maboy_Presli",
+    "status": "Занято",
+    "x": -2112.59,
+    "y": 796.4169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14916,6 +14916,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1247,
+    "server_id": 5,
+    "type": "house",
+    "name": "house CROWLEY",
+    "owner": "Vlad_Crowley",
+    "status": "Занято",
+    "x": -2477.89,
+    "y": 1338.18,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1248,
     "server_id": 5,
     "type": "house",
@@ -16196,18 +16208,6 @@
     "status": "Занято",
     "x": -2576.33,
     "y": -118.8089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1357,
-    "server_id": 5,
-    "type": "house",
-    "name": "Без названия 1357",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": -2590.53,
-    "y": -158.4909,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23727,7 +23727,7 @@
     "id": 1984,
     "server_id": 5,
     "type": "house",
-    "name": "Дом",
+    "name": "биток",
     "owner": "Artem_Harrington",
     "status": "Занято",
     "x": 2642.43,
@@ -25032,15 +25032,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 947,
+    "id": 944,
     "server_id": 5,
     "type": "house",
-    "name": "my house, my life",
-    "owner": "Sort_Lorento",
+    "name": "Без названия 944",
+    "owner": "Igoryan_Toretto",
     "status": "Аукцион",
-    "x": -2112.59,
-    "y": 796.4169,
-    "price": 500000000,
+    "x": -2029.87,
+    "y": 796.638,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25060,11 +25060,11 @@
     "server_id": 5,
     "type": "house",
     "name": "UCHIHA",
-    "owner": "Cor_Wus",
+    "owner": "Evgeniy_Warden",
     "status": "Аукцион",
     "x": -2372.79,
     "y": 613.934,
-    "price": 1100000000,
+    "price": 1400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25080,18 +25080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1247,
-    "server_id": 5,
-    "type": "house",
-    "name": "Берлога Айса!!!",
-    "owner": "Andrei_Ice",
-    "status": "Аукцион",
-    "x": -2477.89,
-    "y": 1338.18,
-    "price": 1490000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1309,
     "server_id": 5,
     "type": "house",
@@ -25100,7 +25088,7 @@
     "status": "Аукцион",
     "x": -2542.51,
     "y": 967.59,
-    "price": 1490000000,
+    "price": 1595000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25112,31 +25100,19 @@
     "status": "Аукцион",
     "x": -2541.66,
     "y": 975.664,
-    "price": 1490000000,
+    "price": 1595000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 44,
+    "id": 1357,
     "server_id": 5,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Kellai_LaMonte",
+    "type": "house",
+    "name": "Без названия 1357",
+    "owner": "Igoryan_Toretto",
     "status": "Аукцион",
-    "x": 1224.56,
-    "y": 249.852,
-    "price": 428000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 258,
-    "server_id": 5,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Wonder_Full",
-    "status": "Аукцион",
-    "x": -2479.24,
-    "y": 2317.84,
-    "price": 385000,
+    "x": -2590.53,
+    "y": -158.4909,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25668,6 +25644,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 44,
+    "server_id": 5,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Kellai_LaMonte",
+    "status": "Занято",
+    "x": 1224.56,
+    "y": 249.852,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 45,
     "server_id": 5,
     "type": "business",
@@ -25952,6 +25940,18 @@
     "status": "Занято",
     "x": -1531.05,
     "y": 2591.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 258,
+    "server_id": 5,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Sokoll_Nurminskiy",
+    "status": "Занято",
+    "x": -2479.24,
+    "y": 2317.84,
     "price": 0,
     "district": "Сан-Андреас"
   },

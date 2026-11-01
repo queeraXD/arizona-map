@@ -2448,18 +2448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 204,
-    "server_id": 22,
-    "type": "house",
-    "name": "СПОРТИК",
-    "owner": "Erick_Martins",
-    "status": "Занято",
-    "x": 1527.47,
-    "y": -772.895,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 205,
     "server_id": 22,
     "type": "house",
@@ -3536,18 +3524,6 @@
     "status": "Занято",
     "x": 2347.94,
     "y": -1202.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 295,
-    "server_id": 22,
-    "type": "house",
-    "name": "[$] House №2 [$]",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": 2352.16,
-    "y": -1170.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5196,18 +5172,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 433,
-    "server_id": 22,
-    "type": "house",
-    "name": "Доман",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": 2284.16,
-    "y": -1046.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 434,
     "server_id": 22,
     "type": "house",
@@ -5552,6 +5516,18 @@
     "status": "Занято",
     "x": 2178.13,
     "y": 655.619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 463,
+    "server_id": 22,
+    "type": "house",
+    "name": "Xard",
+    "owner": "Alexey_Popovich",
+    "status": "Занято",
+    "x": 2206.36,
+    "y": 656.3729,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5972,18 +5948,6 @@
     "status": "Занято",
     "x": 1412.66,
     "y": 1951.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 499,
-    "server_id": 22,
-    "type": "house",
-    "name": "СПОРТИК",
-    "owner": "Erick_Martins",
-    "status": "Занято",
-    "x": 1409.02,
-    "y": 1919.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6524,18 +6488,6 @@
     "status": "Занято",
     "x": 1921.69,
     "y": 2664.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 545,
-    "server_id": 22,
-    "type": "house",
-    "name": "СПОРТИК",
-    "owner": "Erick_Martins",
-    "status": "Занято",
-    "x": -36.0457,
-    "y": 1115.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13052,18 +13004,6 @@
     "status": "Занято",
     "x": -2158.98,
     "y": 866.3289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1089,
-    "server_id": 22,
-    "type": "house",
-    "name": "Логово Воробьёвых",
-    "owner": "Fake_Duck",
-    "status": "Занято",
-    "x": -2158.92,
-    "y": 830.585,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22032,15 +21972,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 463,
+    "id": 204,
     "server_id": 22,
     "type": "house",
-    "name": "Xard",
-    "owner": "Alexey_Popovich",
+    "name": "СПОРТИК",
+    "owner": "Erick_Martins",
     "status": "Аукцион",
-    "x": 2206.36,
-    "y": 656.3729,
-    "price": 600000000,
+    "x": 1527.47,
+    "y": -772.895,
+    "price": 2500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 295,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Grafi_Kus",
+    "status": "Аукцион",
+    "x": 2352.16,
+    "y": -1170.38,
+    "price": 300123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 433,
+    "server_id": 22,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": 2284.16,
+    "y": -1046.07,
+    "price": 180123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 499,
+    "server_id": 22,
+    "type": "house",
+    "name": "СПОРТИК",
+    "owner": "Erick_Martins",
+    "status": "Аукцион",
+    "x": 1409.02,
+    "y": 1919.98,
+    "price": 700123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 545,
+    "server_id": 22,
+    "type": "house",
+    "name": "СПОРТИК",
+    "owner": "Erick_Martins",
+    "status": "Аукцион",
+    "x": -36.0457,
+    "y": 1115.65,
+    "price": 700123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1089,
+    "server_id": 22,
+    "type": "house",
+    "name": "Логово Воробьёвых",
+    "owner": "Fake_Duck",
+    "status": "Аукцион",
+    "x": -2158.92,
+    "y": 830.585,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

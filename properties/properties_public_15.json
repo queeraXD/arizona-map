@@ -3324,6 +3324,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 277,
+    "server_id": 15,
+    "type": "house",
+    "name": "FARMILA",
+    "owner": "Oleg_McCloud",
+    "status": "Занято",
+    "x": 2549.37,
+    "y": -1032.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 278,
     "server_id": 15,
     "type": "house",
@@ -4340,6 +4352,18 @@
     "status": "Занято",
     "x": 849.689,
     "y": -1519.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 363,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Happy_Man",
+    "status": "Занято",
+    "x": 822.473,
+    "y": -1505.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8020,7 +8044,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Mamora",
-    "owner": "Mamora_Kast",
+    "owner": "Akashi_Crips",
     "status": "Занято",
     "x": 1084.33,
     "y": 2031.72,
@@ -10160,6 +10184,18 @@
     "status": "Занято",
     "x": -2157.62,
     "y": 1117.52,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 849,
+    "server_id": 15,
+    "type": "house",
+    "name": "849",
+    "owner": "Boba_McCloud",
+    "status": "Занято",
+    "x": -2158.05,
+    "y": 1148.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14752,7 +14788,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Mamora",
-    "owner": "Mamora_Kast",
+    "owner": "Akashi_Crips",
     "status": "Занято",
     "x": -2301.85,
     "y": 580.036,
@@ -16908,6 +16944,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1413,
+    "server_id": 15,
+    "type": "house",
+    "name": "1413",
+    "owner": "Emperor_Beyfong",
+    "status": "Занято",
+    "x": 928.6149,
+    "y": 2319.31,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1414,
     "server_id": 15,
     "type": "house",
@@ -18576,18 +18624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1553,
-    "server_id": 15,
-    "type": "house",
-    "name": "<3 reizusobased <3",
-    "owner": "Nikola_Res",
-    "status": "Занято",
-    "x": 2826.08,
-    "y": 2140.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1554,
     "server_id": 15,
     "type": "house",
@@ -18680,6 +18716,18 @@
     "status": "Занято",
     "x": 852.385,
     "y": -1436.23,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1562,
+    "server_id": 15,
+    "type": "house",
+    "name": "логово Никона Громова",
+    "owner": "Elisey_Gromov",
+    "status": "Занято",
+    "x": 1989.13,
+    "y": 2665.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21264,87 +21312,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 277,
+    "id": 1553,
     "server_id": 15,
     "type": "house",
-    "name": "FARMILA",
-    "owner": "Nikita_Isaev",
+    "name": "<3 reizusobased <3",
+    "owner": "Nikola_Res",
     "status": "Аукцион",
-    "x": 2549.37,
-    "y": -1032.24,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 363,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Happy_Man",
-    "status": "Аукцион",
-    "x": 822.473,
-    "y": -1505.52,
-    "price": 500000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 849,
-    "server_id": 15,
-    "type": "house",
-    "name": "849",
-    "owner": "Boba_McCloud",
-    "status": "Аукцион",
-    "x": -2158.05,
-    "y": 1148.62,
-    "price": 500000123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1413,
-    "server_id": 15,
-    "type": "house",
-    "name": "1413",
-    "owner": "Laurence_Rousset",
-    "status": "Аукцион",
-    "x": 928.6149,
-    "y": 2319.31,
-    "price": 590000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1562,
-    "server_id": 15,
-    "type": "house",
-    "name": "логово Никона Громова",
-    "owner": "Nikon_Gromov",
-    "status": "Аукцион",
-    "x": 1989.13,
-    "y": 2665.19,
-    "price": 650000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 66,
-    "server_id": 15,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Kio_Tokado",
-    "status": "Аукцион",
-    "x": 2085.67,
-    "y": 2054.97,
-    "price": 300000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 84,
-    "server_id": 15,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Sup_Luit",
-    "status": "Аукцион",
-    "x": -858.014,
-    "y": 1535.4,
-    "price": 10000000000,
+    "x": 2826.08,
+    "y": 2140.73,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21392,6 +21368,18 @@
     "status": "Занято",
     "x": 2539.54,
     "y": 2083.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 66,
+    "server_id": 15,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Kio_Tokado",
+    "status": "Занято",
+    "x": 2085.67,
+    "y": 2054.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23096,6 +23084,18 @@
     "status": "Занято",
     "x": 1872.26,
     "y": 2071.74,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 84,
+    "server_id": 15,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Chokolad_SmokyCloud",
+    "status": "Занято",
+    "x": -858.014,
+    "y": 1535.4,
     "price": 0,
     "district": "Сан-Андреас"
   },

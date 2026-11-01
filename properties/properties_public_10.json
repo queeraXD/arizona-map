@@ -4116,18 +4116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 343,
-    "server_id": 10,
-    "type": "house",
-    "name": "Yatoro House",
-    "owner": "Yatoro_Ishikawa",
-    "status": "Занято",
-    "x": 719.0629,
-    "y": 300.639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 344,
     "server_id": 10,
     "type": "house",
@@ -7911,7 +7899,7 @@
     "id": 659,
     "server_id": 10,
     "type": "house",
-    "name": "Hopper Gang",
+    "name": "Beheaded",
     "owner": "Headless_Angel",
     "status": "Занято",
     "x": 1029.68,
@@ -7928,18 +7916,6 @@
     "status": "Занято",
     "x": 1030.21,
     "y": 1848.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 661,
-    "server_id": 10,
-    "type": "house",
-    "name": "Hopper Gang",
-    "owner": "Metka_Doma",
-    "status": "Занято",
-    "x": 984.2689,
-    "y": 1878.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8504,18 +8480,6 @@
     "status": "Занято",
     "x": -2180.58,
     "y": -2519.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 709,
-    "server_id": 10,
-    "type": "house",
-    "name": "Слет",
-    "owner": "Shadow_Dreams",
-    "status": "Занято",
-    "x": 1666.97,
-    "y": 2610.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15552,6 +15516,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1298,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Young_Skyworth",
+    "status": "Занято",
+    "x": -2576.4,
+    "y": -198.798,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1299,
     "server_id": 10,
     "type": "house",
@@ -20916,6 +20892,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1746,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Conor_Notorious",
+    "status": "Занято",
+    "x": -594.7739,
+    "y": -1056.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1747,
     "server_id": 10,
     "type": "house",
@@ -22152,18 +22140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1850,
-    "server_id": 10,
-    "type": "house",
-    "name": "Инта+П+ПВ+Деп условия",
-    "owner": "Deafen_Wainwright",
-    "status": "Занято",
-    "x": 1798.84,
-    "y": 2812.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1851,
     "server_id": 10,
     "type": "house",
@@ -23316,6 +23292,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 343,
+    "server_id": 10,
+    "type": "house",
+    "name": "Yatoro House",
+    "owner": "Yatoro_Ishikawa",
+    "status": "Аукцион",
+    "x": 719.0629,
+    "y": 300.639,
+    "price": 110000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 661,
+    "server_id": 10,
+    "type": "house",
+    "name": "Hopper Gang",
+    "owner": "Metka_Doma",
+    "status": "Аукцион",
+    "x": 984.2689,
+    "y": 1878.91,
+    "price": 99000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 709,
+    "server_id": 10,
+    "type": "house",
+    "name": "Слет",
+    "owner": "Shadow_Dreams",
+    "status": "Аукцион",
+    "x": 1666.97,
+    "y": 2610.19,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 834,
     "server_id": 10,
     "type": "house",
@@ -23328,27 +23340,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1298,
+    "id": 1850,
     "server_id": 10,
     "type": "house",
-    "name": "Дом",
-    "owner": "Polyflux_Neverslide",
+    "name": "Инта+П+ПВ+Деп условия",
+    "owner": "Deafen_Wainwright",
     "status": "Аукцион",
-    "x": -2576.4,
-    "y": -198.798,
-    "price": 50123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1746,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Conor_Notorious",
-    "status": "Аукцион",
-    "x": -594.7739,
-    "y": -1056.88,
-    "price": 1500123123,
+    "x": 1798.84,
+    "y": 2812.16,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
