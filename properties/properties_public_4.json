@@ -8580,18 +8580,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 719,
-    "server_id": 4,
-    "type": "house",
-    "name": "Disney Brootherhood",
-    "owner": "Valera_Miler",
-    "status": "Занято",
-    "x": 1608.55,
-    "y": 2752.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 720,
     "server_id": 4,
     "type": "house",
@@ -15480,18 +15468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1295,
-    "server_id": 4,
-    "type": "house",
-    "name": "Ворота Серёги",
-    "owner": "Sergio_Ramus",
-    "status": "Занято",
-    "x": -2738.31,
-    "y": 754.997,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1296,
     "server_id": 4,
     "type": "house",
@@ -19708,7 +19684,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Hasselhoff",
-    "owner": "Davide_Hasselhoff",
+    "owner": "Benjamin_GotBenz",
     "status": "Занято",
     "x": -2541.54,
     "y": -118.7259,
@@ -25224,6 +25200,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 719,
+    "server_id": 4,
+    "type": "house",
+    "name": "Disney Brootherhood",
+    "owner": "Valera_Miler",
+    "status": "Аукцион",
+    "x": 1608.55,
+    "y": 2752.98,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1295,
+    "server_id": 4,
+    "type": "house",
+    "name": "Ворота Серёги",
+    "owner": "Sergio_Ramus",
+    "status": "Аукцион",
+    "x": -2738.31,
+    "y": 754.997,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1358,
     "server_id": 4,
     "type": "house",
@@ -25260,6 +25260,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 57,
+    "server_id": 4,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ramil_Orlov",
+    "status": "Аукцион",
+    "x": 2085.84,
+    "y": 2486.25,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 184,
     "server_id": 4,
     "type": "business",
@@ -25268,18 +25280,6 @@
     "status": "Аукцион",
     "x": 2351.41,
     "y": 2405.59,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 259,
-    "server_id": 4,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Down_Town",
-    "status": "Аукцион",
-    "x": 1404.09,
-    "y": 51.2512,
     "price": 10000000000,
     "district": "Сан-Андреас"
   },
@@ -27276,6 +27276,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 259,
+    "server_id": 4,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Down_Town",
+    "status": "Занято",
+    "x": 1404.09,
+    "y": 51.2512,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 260,
     "server_id": 4,
     "type": "business",
@@ -27488,18 +27500,6 @@
     "status": "Занято",
     "x": 1671.52,
     "y": 1814.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 57,
-    "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ramil_Orlov",
-    "status": "Занято",
-    "x": 2085.84,
-    "y": 2486.25,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -6807,7 +6807,7 @@
     "id": 567,
     "server_id": 5,
     "type": "house",
-    "name": "sofner",
+    "name": "mining farm / sofner",
     "owner": "Moksy_Diez",
     "status": "Занято",
     "x": 227.792,
@@ -7312,7 +7312,7 @@
     "server_id": 5,
     "type": "house",
     "name": "SEKTA HOUSE",
-    "owner": "Alejandro_Kortag",
+    "owner": "Alejo_Kortag",
     "status": "Занято",
     "x": -795.984,
     "y": 2259.11,
@@ -10527,7 +10527,7 @@
     "id": 877,
     "server_id": 5,
     "type": "house",
-    "name": "Наша халупка",
+    "name": "биток",
     "owner": "Artem_Harrington",
     "status": "Занято",
     "x": -197.4149,
@@ -11328,6 +11328,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 944,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия 944",
+    "owner": "Igoryan_Toretto",
+    "status": "Занято",
+    "x": -2029.87,
+    "y": 796.638,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 945,
     "server_id": 5,
     "type": "house",
@@ -11348,18 +11360,6 @@
     "status": "Занято",
     "x": -2066.61,
     "y": 796.3289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 947,
-    "server_id": 5,
-    "type": "house",
-    "name": "my house, my life",
-    "owner": "Sort_Lorento",
-    "status": "Занято",
-    "x": -2112.59,
-    "y": 796.4169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11576,18 +11576,6 @@
     "status": "Занято",
     "x": -2224.93,
     "y": 903.1439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 966,
-    "server_id": 5,
-    "type": "house",
-    "name": "GLO",
-    "owner": "Hermes_Trismegistus",
-    "status": "Занято",
-    "x": -2234.15,
-    "y": 888.869,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12092,18 +12080,6 @@
     "status": "Занято",
     "x": -1727.78,
     "y": 1158.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1010,
-    "server_id": 5,
-    "type": "house",
-    "name": "фул",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": -1728.19,
-    "y": 1138.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16220,6 +16196,18 @@
     "status": "Занято",
     "x": -2576.33,
     "y": -118.8089,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1357,
+    "server_id": 5,
+    "type": "house",
+    "name": "Без названия 1357",
+    "owner": "Igoryan_Toretto",
+    "status": "Занято",
+    "x": -2590.53,
+    "y": -158.4909,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25044,15 +25032,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 944,
+    "id": 947,
     "server_id": 5,
     "type": "house",
-    "name": "Без названия 944",
-    "owner": "Igoryan_Toretto",
+    "name": "my house, my life",
+    "owner": "Sort_Lorento",
     "status": "Аукцион",
-    "x": -2029.87,
-    "y": 796.638,
-    "price": 1500000000,
+    "x": -2112.59,
+    "y": 796.4169,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 966,
+    "server_id": 5,
+    "type": "house",
+    "name": "GLO",
+    "owner": "Hermes_Trismegistus",
+    "status": "Аукцион",
+    "x": -2234.15,
+    "y": 888.869,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25064,7 +25064,19 @@
     "status": "Аукцион",
     "x": -2372.79,
     "y": 613.934,
-    "price": 1200000000,
+    "price": 1100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1010,
+    "server_id": 5,
+    "type": "house",
+    "name": "фул",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": -1728.19,
+    "y": 1138.95,
+    "price": 1000123000,
     "district": "Сан-Андреас"
   },
   {
@@ -25076,7 +25088,7 @@
     "status": "Аукцион",
     "x": -2477.89,
     "y": 1338.18,
-    "price": 1599000000,
+    "price": 1490000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25088,7 +25100,7 @@
     "status": "Аукцион",
     "x": -2542.51,
     "y": 967.59,
-    "price": 1599000000,
+    "price": 1490000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25100,19 +25112,31 @@
     "status": "Аукцион",
     "x": -2541.66,
     "y": 975.664,
-    "price": 1599000000,
+    "price": 1490000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1357,
+    "id": 44,
     "server_id": 5,
-    "type": "house",
-    "name": "Без названия 1357",
-    "owner": "Igoryan_Toretto",
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Kellai_LaMonte",
     "status": "Аукцион",
-    "x": -2590.53,
-    "y": -158.4909,
-    "price": 1500000000,
+    "x": 1224.56,
+    "y": 249.852,
+    "price": 428000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 258,
+    "server_id": 5,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Wonder_Full",
+    "status": "Аукцион",
+    "x": -2479.24,
+    "y": 2317.84,
+    "price": 385000,
     "district": "Сан-Андреас"
   },
   {
@@ -25644,18 +25668,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 44,
-    "server_id": 5,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Kellai_LaMonte",
-    "status": "Занято",
-    "x": 1224.56,
-    "y": 249.852,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 45,
     "server_id": 5,
     "type": "business",
@@ -25940,18 +25952,6 @@
     "status": "Занято",
     "x": -1531.05,
     "y": 2591.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 258,
-    "server_id": 5,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Wonder_Full",
-    "status": "Занято",
-    "x": -2479.24,
-    "y": 2317.84,
     "price": 0,
     "district": "Сан-Андреас"
   },

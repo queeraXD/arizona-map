@@ -420,18 +420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
-    "server_id": 3,
-    "type": "house",
-    "name": "Masker",
-    "owner": "Procuratura_Poccuu",
-    "status": "Занято",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 36,
     "server_id": 3,
     "type": "house",
@@ -5340,18 +5328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 445,
-    "server_id": 3,
-    "type": "house",
-    "name": "Lester",
-    "owner": "F_Lester",
-    "status": "Занято",
-    "x": 2439.9,
-    "y": -1010.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 446,
     "server_id": 3,
     "type": "house",
@@ -9939,8 +9915,8 @@
     "id": 828,
     "server_id": 3,
     "type": "house",
-    "name": "Притон",
-    "owner": "Raiden_TheRipper",
+    "name": "Олений клуб",
+    "owner": "Retsu_Kaiou",
     "status": "Занято",
     "x": -2721.08,
     "y": -44.7512,
@@ -10124,6 +10100,18 @@
     "status": "Занято",
     "x": -2029.87,
     "y": 820.181,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 844,
+    "server_id": 3,
+    "type": "house",
+    "name": "Олений клуб",
+    "owner": "Mon_Vizzion",
+    "status": "Занято",
+    "x": -2066.56,
+    "y": 819.965,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12208,7 +12196,7 @@
     "server_id": 3,
     "type": "house",
     "name": "MIUMIU",
-    "owner": "Aquarell_Allure",
+    "owner": "Postavshik_Snaryadov",
     "status": "Занято",
     "x": -2160.16,
     "y": 1048.92,
@@ -16908,6 +16896,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1411,
+    "server_id": 3,
+    "type": "house",
+    "name": "НЕ ПРОДАЁТСЯ!",
+    "owner": "Maks_Dobroo",
+    "status": "Занято",
+    "x": 2824.04,
+    "y": 2275.02,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1412,
     "server_id": 3,
     "type": "house",
@@ -18576,6 +18576,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1551,
+    "server_id": 3,
+    "type": "house",
+    "name": "Lar house",
+    "owner": "Martin_Scallete",
+    "status": "Занято",
+    "x": -2338.35,
+    "y": 580.0349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1552,
     "server_id": 3,
     "type": "house",
@@ -18764,18 +18776,6 @@
     "status": "Занято",
     "x": -1728.34,
     "y": 1158.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1568,
-    "server_id": 3,
-    "type": "house",
-    "name": "Veritas Familly ",
-    "owner": "Aleksander_Hpen",
-    "status": "Занято",
-    "x": -1728.34,
-    "y": 1139.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23976,39 +23976,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 844,
+    "id": 35,
     "server_id": 3,
     "type": "house",
-    "name": "Олений клуб",
-    "owner": "zentiva",
+    "name": "Masker",
+    "owner": "Procuratura_Poccuu",
     "status": "Аукцион",
-    "x": -2066.56,
-    "y": 819.965,
-    "price": 200123123,
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1411,
+    "id": 445,
     "server_id": 3,
     "type": "house",
-    "name": "Дом продается",
-    "owner": "Postavshik_Snaryadov",
+    "name": "Lester",
+    "owner": "F_Lester",
     "status": "Аукцион",
-    "x": 2824.04,
-    "y": 2275.02,
-    "price": 400000000,
+    "x": 2439.9,
+    "y": -1010.88,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1551,
+    "id": 1568,
     "server_id": 3,
     "type": "house",
-    "name": "Lar house",
-    "owner": "Wiu_Wiu",
+    "name": "Veritas Familly ",
+    "owner": "Aleksander_Hpen",
     "status": "Аукцион",
-    "x": -2338.35,
-    "y": 580.0349,
-    "price": 450123123,
+    "x": -1728.34,
+    "y": 1139.04,
+    "price": 850000000,
     "district": "Сан-Андреас"
   },
   {

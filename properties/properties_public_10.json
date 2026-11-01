@@ -3456,6 +3456,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 288,
+    "server_id": 10,
+    "type": "house",
+    "name": "Хата Klosses",
+    "owner": "Molochniy_Zub",
+    "status": "Занято",
+    "x": 2512.81,
+    "y": -1027.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 289,
     "server_id": 10,
     "type": "house",
@@ -7036,7 +7048,7 @@
     "server_id": 10,
     "type": "house",
     "name": "СКЛАДЫ oooes",
-    "owner": "Kolhoznik_Dementor",
+    "owner": "Madara_Posuda",
     "status": "Занято",
     "x": -604.3229,
     "y": 2716.72,
@@ -7728,6 +7740,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 645,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nikita_Finisko",
+    "status": "Занято",
+    "x": 1978.33,
+    "y": 715.1459,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 646,
     "server_id": 10,
     "type": "house",
@@ -7880,6 +7904,18 @@
     "status": "Занято",
     "x": 1028.89,
     "y": 1905.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 659,
+    "server_id": 10,
+    "type": "house",
+    "name": "Hopper Gang",
+    "owner": "Headless_Angel",
+    "status": "Занято",
+    "x": 1029.68,
+    "y": 1876.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9968,18 +10004,6 @@
     "status": "Занято",
     "x": -2234.63,
     "y": 870.7579,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 834,
-    "server_id": 10,
-    "type": "house",
-    "name": "nikomiryt",
-    "owner": "Podpal_Dryn",
-    "status": "Занято",
-    "x": -2233.89,
-    "y": 849.1599,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15528,18 +15552,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1298,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Polyflux_Neverslide",
-    "status": "Занято",
-    "x": -2576.4,
-    "y": -198.798,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1299,
     "server_id": 10,
     "type": "house",
@@ -20904,18 +20916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1746,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Conor_Notorious",
-    "status": "Занято",
-    "x": -594.7739,
-    "y": -1056.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1747,
     "server_id": 10,
     "type": "house",
@@ -22368,6 +22368,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1868,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Andrey_Whitehat",
+    "status": "Занято",
+    "x": 1783.77,
+    "y": 2755.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1869,
     "server_id": 10,
     "type": "house",
@@ -23304,51 +23316,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 288,
+    "id": 834,
     "server_id": 10,
     "type": "house",
-    "name": "Хата Klosses",
-    "owner": "Государство",
+    "name": "nikomiryt",
+    "owner": "Podpal_Dryn",
     "status": "Аукцион",
-    "x": 2512.81,
-    "y": -1027.56,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 645,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 1978.33,
-    "y": 715.1459,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 659,
-    "server_id": 10,
-    "type": "house",
-    "name": "Hopper Gang",
-    "owner": "Corpse_Routine",
-    "status": "Аукцион",
-    "x": 1029.68,
-    "y": 1876.28,
+    "x": -2233.89,
+    "y": 849.1599,
     "price": 80123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1868,
+    "id": 1298,
     "server_id": 10,
     "type": "house",
     "name": "Дом",
-    "owner": "Государство",
+    "owner": "Polyflux_Neverslide",
     "status": "Аукцион",
-    "x": 1783.77,
-    "y": 2755.93,
-    "price": 10000000,
+    "x": -2576.4,
+    "y": -198.798,
+    "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1746,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Conor_Notorious",
+    "status": "Аукцион",
+    "x": -594.7739,
+    "y": -1056.88,
+    "price": 1500123123,
     "district": "Сан-Андреас"
   },
   {
