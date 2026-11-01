@@ -2091,7 +2091,7 @@
     "id": 174,
     "server_id": 8,
     "type": "house",
-    "name": "flocka squad",
+    "name": "Приют для мажориков",
     "owner": "Camry_Gracia",
     "status": "Занято",
     "x": 794.9689,
@@ -13264,11 +13264,11 @@
     "server_id": 8,
     "type": "house",
     "name": "Майнинг 1",
-    "owner": "Vazylinovoe_Drizlo",
-    "status": "Аукцион",
+    "owner": "Tea_Monomax",
+    "status": "Занято",
     "x": 1739.68,
     "y": 2792.03,
-    "price": 100000000,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -13325,10 +13325,10 @@
     "type": "house",
     "name": "Мафия ЛКН",
     "owner": "Vladosio_Negodnicov",
-    "status": "Аукцион",
+    "status": "Занято",
     "x": 1748.71,
     "y": 2758.46,
-    "price": 400123132,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -19327,6 +19327,18 @@
     "owner": "Seduce_Dominator",
     "status": "Занято",
     "x": 2540.04,
+    "y": 713.263,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1612,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Daniil_Polkun",
+    "status": "Занято",
+    "x": 2532.51,
     "y": 713.263,
     "price": 0,
     "district": "Сан-Андреас"
@@ -25776,18 +25788,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1612,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Daniil_Polkun",
-    "status": "Аукцион",
-    "x": 2532.51,
-    "y": 713.263,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 0,
     "server_id": 8,
     "type": "business",
@@ -29576,6 +29576,18 @@
     "status": "Занято",
     "x": -20.8111,
     "y": -1548.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 312,
+    "server_id": 8,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Orochimaru_Mikami",
+    "status": "Занято",
+    "x": 641.4393,
+    "y": -494.824,
     "price": 0,
     "district": "Сан-Андреас"
   },
