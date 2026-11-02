@@ -1995,8 +1995,8 @@
     "id": 166,
     "server_id": 2,
     "type": "house",
-    "name": "деп 9",
-    "owner": "Derrick_Reed",
+    "name": "Remoseless ",
+    "owner": "Kizaru_Remoseless",
     "status": "Занято",
     "x": 933.973,
     "y": -1804.54,
@@ -2007,8 +2007,8 @@
     "id": 167,
     "server_id": 2,
     "type": "house",
-    "name": "Дом",
-    "owner": "Derrick_Reed",
+    "name": "Remoseless ",
+    "owner": "Kizaru_Remoseless",
     "status": "Занято",
     "x": 922.007,
     "y": -1803.89,
@@ -2019,8 +2019,8 @@
     "id": 168,
     "server_id": 2,
     "type": "house",
-    "name": "деп 10",
-    "owner": "Derrick_Reed",
+    "name": "Remoseless ",
+    "owner": "Kizaru_Remoseless",
     "status": "Занято",
     "x": 910.28,
     "y": -1802.68,
@@ -2028,11 +2028,23 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 169,
+    "server_id": 2,
+    "type": "house",
+    "name": "Remoseless ",
+    "owner": "Kizaru_Remoseless",
+    "status": "Занято",
+    "x": 883.2899,
+    "y": -1800.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 170,
     "server_id": 2,
     "type": "house",
-    "name": "!KOBAJIb Vilage!",
-    "owner": "Yura_Kovalevich",
+    "name": "Remoseless ",
+    "owner": "Kizaru_Remoseless",
     "status": "Занято",
     "x": 866.827,
     "y": -1798.91,
@@ -14607,7 +14619,7 @@
     "id": 1219,
     "server_id": 2,
     "type": "house",
-    "name": "True Home Whitty",
+    "name": "Чупачанга",
     "owner": "Timmi_Vizard",
     "status": "Занято",
     "x": -2351.14,
@@ -20472,18 +20484,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1710,
-    "server_id": 2,
-    "type": "house",
-    "name": "Саваге",
-    "owner": "Gabba_Core",
-    "status": "Занято",
-    "x": 928.6149,
-    "y": 2319.31,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1711,
     "server_id": 2,
     "type": "house",
@@ -20512,7 +20512,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Гх6, Деп, П+П, 2 видюхи 3+1 ур",
-    "owner": "Ksusha_Smetanka",
+    "owner": "Trap_Tovarovv",
     "status": "Занято",
     "x": 885.901,
     "y": 1953.21,
@@ -22764,18 +22764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1905,
-    "server_id": 2,
-    "type": "house",
-    "name": "[ Dynasty Keyni ]",
-    "owner": "Keyni_Host",
-    "status": "Занято",
-    "x": 1799.71,
-    "y": 2814.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1906,
     "server_id": 2,
     "type": "house",
@@ -23928,18 +23916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 169,
-    "server_id": 2,
-    "type": "house",
-    "name": "!KOBAJIb Vilage!",
-    "owner": "Yura_Kovalevich",
-    "status": "Аукцион",
-    "x": 883.2899,
-    "y": -1800.01,
-    "price": 722222,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1455,
     "server_id": 2,
     "type": "house",
@@ -23948,7 +23924,7 @@
     "status": "Аукцион",
     "x": 1685.41,
     "y": 2093.78,
-    "price": 3000000000,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23960,7 +23936,43 @@
     "status": "Аукцион",
     "x": 1680.31,
     "y": 2069.24,
-    "price": 3000000000,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1710,
+    "server_id": 2,
+    "type": "house",
+    "name": "Саваге",
+    "owner": "Gabba_Core",
+    "status": "Аукцион",
+    "x": 928.6149,
+    "y": 2319.31,
+    "price": 2222222222,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1905,
+    "server_id": 2,
+    "type": "house",
+    "name": "[ Dynasty Keyni ]",
+    "owner": "Keyni_Host",
+    "status": "Аукцион",
+    "x": 1799.71,
+    "y": 2814.92,
+    "price": 1700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 219,
+    "server_id": 2,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Heavy_Traffic",
+    "status": "Аукцион",
+    "x": 2824.77,
+    "y": 1290.68,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27152,18 +27164,6 @@
     "status": "Занято",
     "x": 1500.24,
     "y": -1628.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 219,
-    "server_id": 2,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Heavy_Traffic",
-    "status": "Занято",
-    "x": 2824.77,
-    "y": 1290.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
