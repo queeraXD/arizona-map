@@ -6036,18 +6036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 503,
-    "server_id": 13,
-    "type": "house",
-    "name": "Йоу",
-    "owner": "Slava_Rosticks",
-    "status": "Занято",
-    "x": 1341.49,
-    "y": 1930.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 504,
     "server_id": 13,
     "type": "house",
@@ -12435,7 +12423,7 @@
     "id": 1036,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
+    "name": "Crim Empire",
     "owner": "Endi_Crim",
     "status": "Занято",
     "x": 1952.56,
@@ -16728,6 +16716,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1394,
+    "server_id": 13,
+    "type": "house",
+    "name": "2121",
+    "owner": "Win_Chester",
+    "status": "Занято",
+    "x": 1109.01,
+    "y": -1575.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1395,
     "server_id": 13,
     "type": "house",
@@ -17744,18 +17744,6 @@
     "status": "Занято",
     "x": 2372.84,
     "y": -1051.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1480,
-    "server_id": 13,
-    "type": "house",
-    "name": "инкассатор",
-    "owner": "Tony_Nagga",
-    "status": "Занято",
-    "x": 2362.62,
-    "y": -1046.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20104,7 +20092,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Badshah_Leciq",
+    "owner": "Keny_Berzloy",
     "status": "Занято",
     "x": 2006.88,
     "y": 2132.9,
@@ -23280,15 +23268,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1394,
+    "id": 503,
     "server_id": 13,
     "type": "house",
-    "name": "2121",
-    "owner": "Win_Chester",
+    "name": "Йоу",
+    "owner": "Slava_Rosticks",
     "status": "Аукцион",
-    "x": 1109.01,
-    "y": -1575.2,
-    "price": 71000,
+    "x": 1341.49,
+    "y": 1930.03,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1480,
+    "server_id": 13,
+    "type": "house",
+    "name": "инкассатор",
+    "owner": "Tony_Nagga",
+    "status": "Аукцион",
+    "x": 2362.62,
+    "y": -1046.45,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {

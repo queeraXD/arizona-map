@@ -6612,6 +6612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 551,
+    "server_id": 1,
+    "type": "house",
+    "name": "Velikiy Corporation",
+    "owner": "Rimuru_Tempeste",
+    "status": "Занято",
+    "x": 536.656,
+    "y": 1138.79,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 552,
     "server_id": 1,
     "type": "house",
@@ -7552,7 +7564,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Buttowski Family",
-    "owner": "Shako_Buttowski",
+    "owner": "Link_Sociative",
     "status": "Занято",
     "x": -258.752,
     "y": 1151.06,
@@ -9944,18 +9956,6 @@
     "status": "Занято",
     "x": -2720.98,
     "y": -23.3173,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 830,
-    "server_id": 1,
-    "type": "house",
-    "name": "ТопХАУС",
-    "owner": "Ysmi_Prime",
-    "status": "Занято",
-    "x": -2723.16,
-    "y": -16.7231,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16104,23 +16104,11 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1344,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": -2233.26,
-    "y": 848.986,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1345,
     "server_id": 1,
     "type": "house",
     "name": "Ehoo Mining 1",
-    "owner": "Vanya_Gonjubas",
+    "owner": "Mavrik_Doserovich",
     "status": "Занято",
     "x": -2233.82,
     "y": 870.525,
@@ -18488,18 +18476,6 @@
     "status": "Занято",
     "x": 2572.39,
     "y": -1091.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1543,
-    "server_id": 1,
-    "type": "house",
-    "name": "© логово самурая ©",
-    "owner": "Sergio_Tohok",
-    "status": "Занято",
-    "x": 2374.02,
-    "y": -1138.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22380,18 +22356,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1868,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 2487.39,
-    "y": -1417.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1869,
     "server_id": 1,
     "type": "house",
@@ -24156,15 +24120,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 551,
+    "id": 830,
     "server_id": 1,
     "type": "house",
-    "name": "Velikiy Corporation",
-    "owner": "Rimuru_Tempeste",
+    "name": "ТопХАУС",
+    "owner": "Ysmi_Prime",
     "status": "Аукцион",
-    "x": 536.656,
-    "y": 1138.79,
-    "price": 3000000000,
+    "x": -2723.16,
+    "y": -16.7231,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1344,
+    "server_id": 1,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": -2233.26,
+    "y": 848.986,
+    "price": 2200123000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1543,
+    "server_id": 1,
+    "type": "house",
+    "name": "© логово самурая ©",
+    "owner": "Sergio_Tohok",
+    "status": "Аукцион",
+    "x": 2374.02,
+    "y": -1138.92,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1868,
+    "server_id": 1,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 2487.39,
+    "y": -1417.44,
+    "price": 2000123000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 185,
+    "server_id": 1,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Fentoms_Tempest",
+    "status": "Аукцион",
+    "x": 2599.42,
+    "y": 1060.38,
+    "price": 165000,
     "district": "Сан-Андреас"
   },
   {
@@ -27020,18 +27032,6 @@
     "status": "Занято",
     "x": 2351.41,
     "y": 2405.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 185,
-    "server_id": 1,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Fentoms_Tempest",
-    "status": "Занято",
-    "x": 2599.42,
-    "y": 1060.38,
     "price": 0,
     "district": "Сан-Андреас"
   },

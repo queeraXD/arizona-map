@@ -1152,18 +1152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 96,
-    "server_id": 12,
-    "type": "house",
-    "name": "Владение Антона Чигура",
-    "owner": "Vittore_Smith",
-    "status": "Занято",
-    "x": 2673.33,
-    "y": -2020.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 97,
     "server_id": 12,
     "type": "house",
@@ -3484,7 +3472,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Дом",
-    "owner": "Misha_Obramov",
+    "owner": "Zerkalo_Yroda",
     "status": "Занято",
     "x": -2094.27,
     "y": 822.929,
@@ -6900,18 +6888,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 575,
-    "server_id": 12,
-    "type": "house",
-    "name": "Владение Антона Чигура",
-    "owner": "Vittore_Smith",
-    "status": "Занято",
-    "x": -155.673,
-    "y": 2758.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 576,
     "server_id": 12,
     "type": "house",
@@ -7148,18 +7124,6 @@
     "status": "Занято",
     "x": -1444.99,
     "y": 2653.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 596,
-    "server_id": 12,
-    "type": "house",
-    "name": "Владение Антона Чигура",
-    "owner": "Vittore_Smith",
-    "status": "Занято",
-    "x": -1459.18,
-    "y": 2653.51,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7424,18 +7388,6 @@
     "status": "Занято",
     "x": -2523.5,
     "y": 2239.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 619,
-    "server_id": 12,
-    "type": "house",
-    "name": "Владение Антона Чигура",
-    "owner": "Vittore_Smith",
-    "status": "Занято",
-    "x": -906.119,
-    "y": 1514.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10908,18 +10860,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 909,
-    "server_id": 12,
-    "type": "house",
-    "name": "Владение Антона Чигура",
-    "owner": "Vittore_Smith",
-    "status": "Занято",
-    "x": -2168.8,
-    "y": 796.5159,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 910,
     "server_id": 12,
     "type": "house",
@@ -11468,18 +11408,6 @@
     "status": "Занято",
     "x": -2159.6,
     "y": 946.984,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 956,
-    "server_id": 12,
-    "type": "house",
-    "name": "Владение Антона Чигура",
-    "owner": "Vittore_Smith",
-    "status": "Занято",
-    "x": -2192.67,
-    "y": 934.1019,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14176,7 +14104,7 @@
     "server_id": 12,
     "type": "house",
     "name": "Дом",
-    "owner": "Misha_Obramov",
+    "owner": "Pinki_Rizov",
     "status": "Занято",
     "x": -460.5369,
     "y": -1469.34,
@@ -17444,18 +17372,6 @@
     "status": "Занято",
     "x": 2249.33,
     "y": -1060.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1454,
-    "server_id": 12,
-    "type": "house",
-    "name": "Владение Антона Чигура",
-    "owner": "Vittore_Smith",
-    "status": "Занято",
-    "x": 2319.77,
-    "y": -1053.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23817,6 +23733,90 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 96,
+    "server_id": 12,
+    "type": "house",
+    "name": "Владение Антона Чигура",
+    "owner": "Vittore_Smith",
+    "status": "Аукцион",
+    "x": 2673.33,
+    "y": -2020.14,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 575,
+    "server_id": 12,
+    "type": "house",
+    "name": "Владение Антона Чигура",
+    "owner": "Vittore_Smith",
+    "status": "Аукцион",
+    "x": -155.673,
+    "y": 2758.71,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 596,
+    "server_id": 12,
+    "type": "house",
+    "name": "Владение Антона Чигура",
+    "owner": "Vittore_Smith",
+    "status": "Аукцион",
+    "x": -1459.18,
+    "y": 2653.51,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 619,
+    "server_id": 12,
+    "type": "house",
+    "name": "Владение Антона Чигура",
+    "owner": "Vittore_Smith",
+    "status": "Аукцион",
+    "x": -906.119,
+    "y": 1514.71,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 909,
+    "server_id": 12,
+    "type": "house",
+    "name": "Владение Антона Чигура",
+    "owner": "Vittore_Smith",
+    "status": "Аукцион",
+    "x": -2168.8,
+    "y": 796.5159,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 956,
+    "server_id": 12,
+    "type": "house",
+    "name": "Владение Антона Чигура",
+    "owner": "Vittore_Smith",
+    "status": "Аукцион",
+    "x": -2192.67,
+    "y": 934.1019,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1454,
+    "server_id": 12,
+    "type": "house",
+    "name": "Владение Антона Чигура",
+    "owner": "Vittore_Smith",
+    "status": "Аукцион",
+    "x": 2319.77,
+    "y": -1053.32,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {

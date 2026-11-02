@@ -4116,18 +4116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 343,
-    "server_id": 25,
-    "type": "house",
-    "name": "Берлога",
-    "owner": "Payper_Lovit",
-    "status": "Занято",
-    "x": 719.0629,
-    "y": 300.639,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 344,
     "server_id": 25,
     "type": "house",
@@ -4292,18 +4280,6 @@
     "status": "Занято",
     "x": 1288.35,
     "y": -873.8729,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Leo_Briz",
-    "status": "Занято",
-    "x": 1059.29,
-    "y": -1105.3,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7944,18 +7920,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 662,
-    "server_id": 25,
-    "type": "house",
-    "name": ">>CROSS<<",
-    "owner": "Geoffrey_Cross",
-    "status": "Занято",
-    "x": 985.838,
-    "y": 1901.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 663,
     "server_id": 25,
     "type": "house",
@@ -9608,18 +9572,6 @@
     "status": "Занято",
     "x": -2358.42,
     "y": 820.0349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 801,
-    "server_id": 25,
-    "type": "house",
-    "name": ">>CROSS<<",
-    "owner": "Geoffrey_Cross",
-    "status": "Занято",
-    "x": -2340.03,
-    "y": 820.0209,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12172,7 +12124,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Дом",
-    "owner": "Lan_Walker",
+    "owner": "Feldan_Lizalov",
     "status": "Занято",
     "x": -2478.95,
     "y": 1141.58,
@@ -22084,7 +22036,7 @@
     "server_id": 25,
     "type": "house",
     "name": "-_-Barrington Empire-_-",
-    "owner": "NeDominic_Barrington",
+    "owner": "Leo_Briz",
     "status": "Занято",
     "x": 2487.28,
     "y": -1417.44,
@@ -22612,7 +22564,7 @@
     "server_id": 25,
     "type": "house",
     "name": "-_-Barrington Empire-_-",
-    "owner": "NeDominic_Barrington",
+    "owner": "Mapson_Rofls",
     "status": "Занято",
     "x": 2468.41,
     "y": -1366.2,
@@ -23769,6 +23721,66 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 343,
+    "server_id": 25,
+    "type": "house",
+    "name": "Берлога",
+    "owner": "Payper_Lovit",
+    "status": "Аукцион",
+    "x": 719.0629,
+    "y": 300.639,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Leo_Briz",
+    "status": "Аукцион",
+    "x": 1059.29,
+    "y": -1105.3,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 662,
+    "server_id": 25,
+    "type": "house",
+    "name": ">>CROSS<<",
+    "owner": "Geoffrey_Cross",
+    "status": "Аукцион",
+    "x": 985.838,
+    "y": 1901.11,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 801,
+    "server_id": 25,
+    "type": "house",
+    "name": ">>CROSS<<",
+    "owner": "Geoffrey_Cross",
+    "status": "Аукцион",
+    "x": -2340.03,
+    "y": 820.0209,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Michael_Rapaport",
+    "status": "Аукцион",
+    "x": 2351.41,
+    "y": 2405.59,
+    "price": 85000,
     "district": "Сан-Андреас"
   },
   {
@@ -25540,7 +25552,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Wyatt_Jack",
+    "owner": "Payper_Lovit",
     "status": "Занято",
     "x": -858.014,
     "y": 1535.4,
@@ -26616,18 +26628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 184,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Michael_Rapaport",
-    "status": "Занято",
-    "x": 2351.41,
-    "y": 2405.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 185,
     "server_id": 25,
     "type": "business",
@@ -26896,7 +26896,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Wyatt_Jack",
+    "owner": "Sirius_Cybernetik",
     "status": "Занято",
     "x": 196.119,
     "y": -116.76,
