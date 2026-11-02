@@ -12972,6 +12972,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1083,
+    "server_id": 27,
+    "type": "house",
+    "name": "Фарзмилка №3",
+    "owner": "Zetkov_Legionovich",
+    "status": "Занято",
+    "x": -2844.68,
+    "y": 921.177,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1084,
     "server_id": 27,
     "type": "house",
@@ -22560,18 +22572,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1886,
-    "server_id": 27,
-    "type": "house",
-    "name": "Чиллхаус",
-    "owner": "Andre_Company",
-    "status": "Занято",
-    "x": -2223.81,
-    "y": 795.7009,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1887,
     "server_id": 27,
     "type": "house",
@@ -22603,18 +22603,6 @@
     "owner": "Sage_Company",
     "status": "Занято",
     "x": -2223.58,
-    "y": 744.0079,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1890,
-    "server_id": 27,
-    "type": "house",
-    "name": "Охегахаю смотря на SWAGA",
-    "owner": "Sage_Company",
-    "status": "Занято",
-    "x": -2205.46,
     "y": 744.0079,
     "price": 0,
     "district": "Сан-Андреас"
@@ -24420,18 +24408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1083,
-    "server_id": 27,
-    "type": "house",
-    "name": "Фарзмилка №3",
-    "owner": "Despair_Empressions",
-    "status": "Аукцион",
-    "x": -2844.68,
-    "y": 921.177,
-    "price": 600123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1243,
     "server_id": 27,
     "type": "house",
@@ -24465,6 +24441,30 @@
     "x": 2440.7,
     "y": 1214.9,
     "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1886,
+    "server_id": 27,
+    "type": "house",
+    "name": "Чиллхаус",
+    "owner": "Andre_Company",
+    "status": "Аукцион",
+    "x": -2223.81,
+    "y": 795.7009,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1890,
+    "server_id": 27,
+    "type": "house",
+    "name": "Охегахаю смотря на SWAGA",
+    "owner": "Sage_Company",
+    "status": "Аукцион",
+    "x": -2205.46,
+    "y": 744.0079,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26548,7 +26548,7 @@
     "server_id": 27,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Tetsuya_Kuroku",
+    "owner": "Deus_Vult",
     "status": "Занято",
     "x": 2366.7,
     "y": 2071.11,

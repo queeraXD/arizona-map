@@ -120,6 +120,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 10,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mesa_Vinovata",
+    "status": "Занято",
+    "x": 2050.88,
+    "y": -1065.7,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 11,
     "server_id": 17,
     "type": "house",
@@ -6736,7 +6748,7 @@
     "server_id": 17,
     "type": "house",
     "name": "депозитные условия подвалы",
-    "owner": "Anubis_Sonoko",
+    "owner": "Inkmate_Sonoko",
     "status": "Занято",
     "x": 227.792,
     "y": 1167.82,
@@ -9780,6 +9792,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 816,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Spike_Scout",
+    "status": "Занято",
+    "x": -2688.33,
+    "y": -175.0939,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 817,
     "server_id": 17,
     "type": "house",
@@ -10484,18 +10508,6 @@
     "status": "Занято",
     "x": -236.106,
     "y": 2540.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 876,
-    "server_id": 17,
-    "type": "house",
-    "name": "QUELTROX",
-    "owner": "Queltrox_Tiktok",
-    "status": "Занято",
-    "x": -2791.86,
-    "y": -134.468,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15108,6 +15120,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1261,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Blood_Prince",
+    "status": "Занято",
+    "x": -2524.3,
+    "y": -198.7969,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1262,
     "server_id": 17,
     "type": "house",
@@ -15440,6 +15464,18 @@
     "status": "Занято",
     "x": -2351.14,
     "y": 1318.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1290,
+    "server_id": 17,
+    "type": "house",
+    "name": "Добро Пожалувать Друзья",
+    "owner": "Pahan_Solod",
+    "status": "Занято",
+    "x": -2351.14,
+    "y": 1299.74,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21300,6 +21336,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1785,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "dracula",
+    "status": "Занято",
+    "x": 1736.42,
+    "y": 2803.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1786,
     "server_id": 17,
     "type": "house",
@@ -22404,51 +22452,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 10,
+    "id": 876,
     "server_id": 17,
     "type": "house",
-    "name": "Дом",
-    "owner": "Egor_Sagrada",
+    "name": "QUELTROX",
+    "owner": "Queltrox_Tiktok",
     "status": "Аукцион",
-    "x": 2050.88,
-    "y": -1065.7,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 816,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Spike_Scout",
-    "status": "Аукцион",
-    "x": -2688.33,
-    "y": -175.0939,
-    "price": 230000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1261,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Blood_Prince",
-    "status": "Аукцион",
-    "x": -2524.3,
-    "y": -198.7969,
-    "price": 70000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1290,
-    "server_id": 17,
-    "type": "house",
-    "name": "Добро Пожалувать Друзья",
-    "owner": "Pahan_Solod",
-    "status": "Аукцион",
-    "x": -2351.14,
-    "y": 1299.74,
-    "price": 5000,
+    "x": -2791.86,
+    "y": -134.468,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22461,18 +22473,6 @@
     "x": 884.517,
     "y": 2295.31,
     "price": 11111111,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1785,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "dracula",
-    "status": "Аукцион",
-    "x": 1736.42,
-    "y": 2803.6,
-    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
