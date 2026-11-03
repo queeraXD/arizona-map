@@ -3072,18 +3072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 257,
-    "server_id": 29,
-    "type": "house",
-    "name": "ukoHa",
-    "owner": "God_Like",
-    "status": "Занято",
-    "x": 2122.32,
-    "y": -970.3649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 258,
     "server_id": 29,
     "type": "house",
@@ -9684,18 +9672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 808,
-    "server_id": 29,
-    "type": "house",
-    "name": "Cardone 2",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": -2722.88,
-    "y": -127.9029,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 809,
     "server_id": 29,
     "type": "house",
@@ -15948,6 +15924,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1331,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Занято",
+    "x": 1564.78,
+    "y": 2776.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1332,
     "server_id": 29,
     "type": "house",
@@ -18448,7 +18436,7 @@
     "server_id": 29,
     "type": "house",
     "name": "Hentai House",
-    "owner": "Glory_Keyz",
+    "owner": "Michail_Shtyh",
     "status": "Занято",
     "x": -12.2384,
     "y": 2346.33,
@@ -21132,15 +21120,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1331,
+    "id": 257,
     "server_id": 29,
     "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
+    "name": "ukoHa",
+    "owner": "God_Like",
     "status": "Аукцион",
-    "x": 1564.78,
-    "y": 2776.57,
-    "price": 500123123,
+    "x": 2122.32,
+    "y": -970.3649,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 808,
+    "server_id": 29,
+    "type": "house",
+    "name": "Cardone 2",
+    "owner": "Kedroviy_Oreh",
+    "status": "Аукцион",
+    "x": -2722.88,
+    "y": -127.9029,
+    "price": 400123123,
     "district": "Сан-Андреас"
   },
   {

@@ -5856,18 +5856,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 488,
-    "server_id": 19,
-    "type": "house",
-    "name": "selection",
-    "owner": "Black_Selection",
-    "status": "Занято",
-    "x": 2093.41,
-    "y": 730.4819,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 489,
     "server_id": 19,
     "type": "house",
@@ -8856,18 +8844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 738,
-    "server_id": 19,
-    "type": "house",
-    "name": "Clementine №2",
-    "owner": "Black_Selection",
-    "status": "Занято",
-    "x": -2857.66,
-    "y": 957.028,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 739,
     "server_id": 19,
     "type": "house",
@@ -11332,7 +11308,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Берлога SF",
-    "owner": "Aero_Castle",
+    "owner": "Black_Selection",
     "status": "Занято",
     "x": -2281.96,
     "y": 979.2269,
@@ -12208,7 +12184,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Diyar_Deadlin",
+    "owner": "Black_Selection",
     "status": "Занято",
     "x": -2541.3,
     "y": 987.9089,
@@ -12980,18 +12956,6 @@
     "status": "Занято",
     "x": -2860.63,
     "y": 963.5679,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1083,
-    "server_id": 19,
-    "type": "house",
-    "name": "60 squad",
-    "owner": "Black_Selection",
-    "status": "Занято",
-    "x": -2844.68,
-    "y": 921.177,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18684,6 +18648,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1558,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Занято",
+    "x": 1938.74,
+    "y": 663.577,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1559,
     "server_id": 19,
     "type": "house",
@@ -18883,6 +18859,18 @@
     "owner": "Airtouch_Oerokhalifa",
     "status": "Занято",
     "x": 1915.89,
+    "y": 742.875,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1576,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Crew_Xrp",
+    "status": "Занято",
+    "x": 1908.99,
     "y": 742.875,
     "price": 0,
     "district": "Сан-Андреас"
@@ -19984,7 +19972,7 @@
     "server_id": 19,
     "type": "house",
     "name": "саня 3",
-    "owner": "Dark_Carter",
+    "owner": "Yoshihito_Hideyoshi",
     "status": "Занято",
     "x": 1840.9,
     "y": 2751.13,
@@ -20608,7 +20596,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Diyar_Deadlin",
+    "owner": "Yoshihito_Hideyoshi",
     "status": "Занято",
     "x": 1542.27,
     "y": 2026.95,
@@ -22032,27 +22020,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1558,
+    "id": 488,
     "server_id": 19,
     "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
+    "name": "selection",
+    "owner": "Black_Selection",
     "status": "Аукцион",
-    "x": 1938.74,
-    "y": 663.577,
-    "price": 10123123,
+    "x": 2093.41,
+    "y": 730.4819,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1576,
+    "id": 738,
     "server_id": 19,
     "type": "house",
-    "name": "Дом",
-    "owner": "Michail_Shtyh",
+    "name": "Clementine №2",
+    "owner": "Black_Selection",
     "status": "Аукцион",
-    "x": 1908.99,
-    "y": 742.875,
-    "price": 10123123,
+    "x": -2857.66,
+    "y": 957.028,
+    "price": 80000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1083,
+    "server_id": 19,
+    "type": "house",
+    "name": "60 squad",
+    "owner": "Black_Selection",
+    "status": "Аукцион",
+    "x": -2844.68,
+    "y": 921.177,
+    "price": 80000000,
     "district": "Сан-Андреас"
   },
   {

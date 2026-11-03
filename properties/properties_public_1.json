@@ -5928,6 +5928,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 494,
+    "server_id": 1,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Did_Inside",
+    "status": "Занято",
+    "x": 1464.71,
+    "y": 1895.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 495,
     "server_id": 1,
     "type": "house",
@@ -6320,18 +6332,6 @@
     "status": "Занято",
     "x": 2039.57,
     "y": 2766.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 528,
-    "server_id": 1,
-    "type": "house",
-    "name": "Detroit",
-    "owner": "Lawrence_Detroit",
-    "status": "Занято",
-    "x": 2018.48,
-    "y": 2766.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9952,7 +9952,7 @@
     "server_id": 1,
     "type": "house",
     "name": "ТопХАУС",
-    "owner": "Ysmi_Prime",
+    "owner": "Hedo_Inside",
     "status": "Занято",
     "x": -2723.16,
     "y": -16.7231,
@@ -16104,18 +16104,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1344,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": -2233.26,
-    "y": 848.986,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1345,
     "server_id": 1,
     "type": "house",
@@ -18656,6 +18644,18 @@
     "status": "Занято",
     "x": -2238.31,
     "y": 1135.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1557,
+    "server_id": 1,
+    "type": "house",
+    "name": "MooreTM",
+    "owner": "Did_Inside",
+    "status": "Занято",
+    "x": -2280.84,
+    "y": 1112.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24144,27 +24144,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 494,
+    "id": 528,
     "server_id": 1,
     "type": "house",
-    "name": "Дом",
-    "owner": "Did_Inside",
+    "name": "Detroit",
+    "owner": "Lawrence_Detroit",
     "status": "Аукцион",
-    "x": 1464.71,
-    "y": 1895.06,
-    "price": 2500000000,
+    "x": 2018.48,
+    "y": 2766.55,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1557,
+    "id": 1344,
     "server_id": 1,
     "type": "house",
-    "name": "MooreTM",
-    "owner": "Did_Inside",
+    "name": "Дом",
+    "owner": "Despair_Empressions",
     "status": "Аукцион",
-    "x": -2280.84,
-    "y": 1112.58,
-    "price": 2000000000,
+    "x": -2233.26,
+    "y": 848.986,
+    "price": 2000100100,
     "district": "Сан-Андреас"
   },
   {

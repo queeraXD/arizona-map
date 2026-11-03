@@ -4320,18 +4320,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 360,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 648.853,
-    "y": -1489.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 361,
     "server_id": 16,
     "type": "house",
@@ -5072,18 +5060,6 @@
     "status": "Занято",
     "x": 1312.43,
     "y": 170.811,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 423,
-    "server_id": 16,
-    "type": "house",
-    "name": "ДОМ НИКОЛАЯ",
-    "owner": "Jonathan_California",
-    "status": "Занято",
-    "x": 1316.66,
-    "y": 179.7579,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10012,7 +9988,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Pavel_Muhin",
+    "owner": "Image_Material",
     "status": "Занято",
     "x": -2233.89,
     "y": 849.1599,
@@ -15667,6 +15643,18 @@
     "owner": "Krabs_Weeknd",
     "status": "Занято",
     "x": -2168.83,
+    "y": 821.1359,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1307,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Esctasy_Weeknd",
+    "status": "Занято",
+    "x": -2187.2,
     "y": 821.1359,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22452,15 +22440,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1307,
+    "id": 360,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Martin_Sherlock",
+    "owner": "Vanechka_Implored",
     "status": "Аукцион",
-    "x": -2187.2,
-    "y": 821.1359,
-    "price": 180000000,
+    "x": 648.853,
+    "y": -1489.64,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 423,
+    "server_id": 16,
+    "type": "house",
+    "name": "ДОМ НИКОЛАЯ",
+    "owner": "Jonathan_California",
+    "status": "Аукцион",
+    "x": 1316.66,
+    "y": 179.7579,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {

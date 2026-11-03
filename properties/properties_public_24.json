@@ -10888,7 +10888,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Майнинг дом Ферма",
-    "owner": "Kola_Samurai",
+    "owner": "Pharmacy_Throat",
     "status": "Занято",
     "x": -2168.8,
     "y": 796.5159,
@@ -11036,18 +11036,6 @@
     "status": "Занято",
     "x": -2282.07,
     "y": 1089.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 922,
-    "server_id": 24,
-    "type": "house",
-    "name": "5 уровень майнинга",
-    "owner": "Sladkiy_Twix",
-    "status": "Занято",
-    "x": -2280.46,
-    "y": 1130.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11780,18 +11768,6 @@
     "status": "Занято",
     "x": -251.3049,
     "y": 1049.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 984,
-    "server_id": 24,
-    "type": "house",
-    "name": "SWAT LEADERS",
-    "owner": "Psychopath_Withdrawn",
-    "status": "Занято",
-    "x": -258.97,
-    "y": 1083.44,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15624,6 +15600,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1304,
+    "server_id": 24,
+    "type": "house",
+    "name": "Бигхаус",
+    "owner": "Danu_Torasov",
+    "status": "Занято",
+    "x": -2576.42,
+    "y": -198.7969,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1305,
     "server_id": 24,
     "type": "house",
@@ -17240,18 +17228,6 @@
     "status": "Занято",
     "x": 1115.72,
     "y": -1570.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1440,
-    "server_id": 24,
-    "type": "house",
-    "name": "mangekyou",
-    "owner": "Kirill_Krosti",
-    "status": "Занято",
-    "x": 1105.59,
-    "y": -1569.98,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21336,18 +21312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1783,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Daimler_Brooks",
-    "status": "Занято",
-    "x": -2223.86,
-    "y": 795.7059,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1784,
     "server_id": 24,
     "type": "house",
@@ -22020,15 +21984,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1304,
+    "id": 922,
     "server_id": 24,
     "type": "house",
-    "name": "Бигхаус",
-    "owner": "Pakaz_Savchenko",
+    "name": "5 уровень майнинга",
+    "owner": "Sladkiy_Twix",
     "status": "Аукцион",
-    "x": -2576.42,
-    "y": -198.7969,
-    "price": 200123123,
+    "x": -2280.46,
+    "y": 1130.83,
+    "price": 45000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 984,
+    "server_id": 24,
+    "type": "house",
+    "name": "SWAT LEADERS",
+    "owner": "Psychopath_Withdrawn",
+    "status": "Аукцион",
+    "x": -258.97,
+    "y": 1083.44,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1440,
+    "server_id": 24,
+    "type": "house",
+    "name": "mangekyou",
+    "owner": "Kirill_Krosti",
+    "status": "Аукцион",
+    "x": 1105.59,
+    "y": -1569.98,
+    "price": 3100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22036,11 +22024,23 @@
     "server_id": 24,
     "type": "house",
     "name": "Woody",
-    "owner": "Pasha_Caplya",
+    "owner": "Kolia_Mur",
     "status": "Аукцион",
     "x": 1734.18,
     "y": 2811.86,
-    "price": 100123123,
+    "price": 190000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1783,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Daimler_Brooks",
+    "status": "Аукцион",
+    "x": -2223.86,
+    "y": 795.7059,
+    "price": 10000001,
     "district": "Сан-Андреас"
   },
   {
