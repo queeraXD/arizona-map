@@ -7608,18 +7608,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 634,
-    "server_id": 7,
-    "type": "house",
-    "name": "Ферма",
-    "owner": "Gosha_PolnyGaz",
-    "status": "Занято",
-    "x": -324.3099,
-    "y": 1165.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 635,
     "server_id": 7,
     "type": "house",
@@ -10779,8 +10767,8 @@
     "id": 898,
     "server_id": 7,
     "type": "house",
-    "name": "Sladkiy Mining",
-    "owner": "Mother_Teresa",
+    "name": "My Universe",
+    "owner": "Tony_Cayenne",
     "status": "Занято",
     "x": -2472.49,
     "y": 2451.18,
@@ -14508,18 +14496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1209,
-    "server_id": 7,
-    "type": "house",
-    "name": "Aragon",
-    "owner": "Marco_Luebbe",
-    "status": "Занято",
-    "x": -2351.14,
-    "y": 1317.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1210,
     "server_id": 7,
     "type": "house",
@@ -15668,18 +15644,6 @@
     "status": "Занято",
     "x": -2619.74,
     "y": 845.0319,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1306,
-    "server_id": 7,
-    "type": "house",
-    "name": "с набором архитектора в доме",
-    "owner": "Alexandr_Weiss",
-    "status": "Занято",
-    "x": -2592.73,
-    "y": 855.1409,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17276,18 +17240,6 @@
     "status": "Занято",
     "x": 264.0669,
     "y": -1765.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1440,
-    "server_id": 7,
-    "type": "house",
-    "name": "деп условия + кратос",
-    "owner": "Antonio_Finance",
-    "status": "Занято",
-    "x": 2186.26,
-    "y": -997.273,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23172,6 +23124,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1932,
+    "server_id": 7,
+    "type": "house",
+    "name": "Продаю ",
+    "owner": "Aarne_Mircea",
+    "status": "Занято",
+    "x": 2541.53,
+    "y": 1231.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1933,
     "server_id": 7,
     "type": "house",
@@ -23972,18 +23936,6 @@
     "status": "Занято",
     "x": 2476.56,
     "y": -1398.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2000,
-    "server_id": 7,
-    "type": "house",
-    "name": "логово мигрантов",
-    "owner": "Marco_Luebbe",
-    "status": "Занято",
-    "x": 2476.28,
-    "y": -1410.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25524,6 +25476,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 634,
+    "server_id": 7,
+    "type": "house",
+    "name": "Ферма",
+    "owner": "Gosha_PolnyGaz",
+    "status": "Аукцион",
+    "x": -324.3099,
+    "y": 1165.32,
+    "price": 6000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1209,
+    "server_id": 7,
+    "type": "house",
+    "name": "Aragon",
+    "owner": "Marco_Luebbe",
+    "status": "Аукцион",
+    "x": -2351.14,
+    "y": 1317.97,
+    "price": 2700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1306,
+    "server_id": 7,
+    "type": "house",
+    "name": "с набором архитектора в доме",
+    "owner": "Alexandr_Weiss",
+    "status": "Аукцион",
+    "x": -2592.73,
+    "y": 855.1409,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1440,
+    "server_id": 7,
+    "type": "house",
+    "name": "деп условия + кратос",
+    "owner": "Antonio_Finance",
+    "status": "Аукцион",
+    "x": 2186.26,
+    "y": -997.273,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1485,
     "server_id": 7,
     "type": "house",
@@ -25536,15 +25536,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1932,
+    "id": 2000,
     "server_id": 7,
     "type": "house",
-    "name": "Продаю ",
-    "owner": "Akira_Nanashko",
+    "name": "логово мигрантов",
+    "owner": "Marco_Luebbe",
     "status": "Аукцион",
-    "x": 2541.53,
-    "y": 1231.65,
-    "price": 2400000000,
+    "x": 2476.28,
+    "y": -1410.34,
+    "price": 2700000000,
     "district": "Сан-Андреас"
   },
   {

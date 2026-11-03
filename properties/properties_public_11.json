@@ -264,6 +264,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 22,
+    "server_id": 11,
+    "type": "house",
+    "name": "котяра",
+    "owner": "Kotik_MeiMei",
+    "status": "Занято",
+    "x": 2191.59,
+    "y": -1275.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 23,
     "server_id": 11,
     "type": "house",
@@ -2832,18 +2844,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 237,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergio_Tohok",
-    "status": "Занято",
-    "x": 351.729,
-    "y": -1197.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 238,
     "server_id": 11,
     "type": "house",
@@ -4016,18 +4016,6 @@
     "status": "Занято",
     "x": 805.4329,
     "y": 358.6799,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 336,
-    "server_id": 11,
-    "type": "house",
-    "name": "$$Bear Production$$",
-    "owner": "Air_Markelovani",
-    "status": "Занято",
-    "x": 783.875,
-    "y": 353.0289,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17607,8 +17595,8 @@
     "id": 1482,
     "server_id": 11,
     "type": "house",
-    "name": "Дом",
-    "owner": "Kotik_MeiMei",
+    "name": "Берлога Каймана",
+    "owner": "Cayman_Monopoly",
     "status": "Занято",
     "x": 1980.37,
     "y": -1718.93,
@@ -18579,8 +18567,8 @@
     "id": 1563,
     "server_id": 11,
     "type": "house",
-    "name": "Buldozer Dynasty",
-    "owner": "Gordey_Silverhand",
+    "name": "Momozono Empire",
+    "owner": "Tomoe_Momozono",
     "status": "Занято",
     "x": 2099.91,
     "y": -1051.82,
@@ -24612,15 +24600,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 22,
+    "id": 237,
     "server_id": 11,
     "type": "house",
     "name": "Дом",
-    "owner": "Rina_Marinina",
+    "owner": "Sergio_Tohok",
     "status": "Аукцион",
-    "x": 2191.59,
-    "y": -1275.87,
-    "price": 500000000,
+    "x": 351.729,
+    "y": -1197.13,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 336,
+    "server_id": 11,
+    "type": "house",
+    "name": "$$Bear Production$$",
+    "owner": "Air_Markelovani",
+    "status": "Аукцион",
+    "x": 783.875,
+    "y": 353.0289,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24644,7 +24644,7 @@
     "status": "Аукцион",
     "x": -2464.03,
     "y": 2486.08,
-    "price": 500000000,
+    "price": 499666444,
     "district": "Сан-Андреас"
   },
   {
@@ -28192,7 +28192,7 @@
     "server_id": 11,
     "type": "business",
     "name": "Магазин видеокарт",
-    "owner": "Mauricio_Monopoly",
+    "owner": "Vitaliy_Propionat",
     "status": "Занято",
     "x": 1081.24,
     "y": -1696.78,

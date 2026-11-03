@@ -1380,18 +1380,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 115,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nurse_Harrow",
-    "status": "Занято",
-    "x": 2284.61,
-    "y": -1906.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 116,
     "server_id": 20,
     "type": "house",
@@ -6160,7 +6148,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Домик пивасика",
-    "owner": "Jenny_Rockets",
+    "owner": "Tony_Reklezz",
     "status": "Занято",
     "x": 1548.62,
     "y": 2125.54,
@@ -9216,18 +9204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 768,
-    "server_id": 20,
-    "type": "house",
-    "name": "Хата Диаса и Русика<3",
-    "owner": "Rjey_Javelin",
-    "status": "Занято",
-    "x": -2594.19,
-    "y": 733.1779,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 769,
     "server_id": 20,
     "type": "house",
@@ -9436,7 +9412,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Боль пабло",
-    "owner": "Vadim_Banan",
+    "owner": "Jenny_Rockets",
     "status": "Занято",
     "x": -2513.51,
     "y": 885.7399,
@@ -9624,18 +9600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 802,
-    "server_id": 20,
-    "type": "house",
-    "name": "emotion ",
-    "owner": "Rjey_Javelin",
-    "status": "Занято",
-    "x": -2321.73,
-    "y": 820.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 803,
     "server_id": 20,
     "type": "house",
@@ -9704,18 +9668,6 @@
     "status": "Занято",
     "x": -2722.88,
     "y": -127.9029,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 809,
-    "server_id": 20,
-    "type": "house",
-    "name": "Rezonance",
-    "owner": "Channi_Mursh",
-    "status": "Занято",
-    "x": -2720.98,
-    "y": -120.787,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10124,18 +10076,6 @@
     "status": "Занято",
     "x": 253.229,
     "y": -1269.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 844,
-    "server_id": 20,
-    "type": "house",
-    "name": "Zverev",
-    "owner": "Channi_Mursh",
-    "status": "Занято",
-    "x": -2227.81,
-    "y": 1080.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10900,7 +10840,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Knight",
-    "owner": "Noro_Unholly",
+    "owner": "Marrakesh_Reklezz",
     "status": "Занято",
     "x": -2126.98,
     "y": 1014.21,
@@ -15579,8 +15519,8 @@
     "id": 1298,
     "server_id": 20,
     "type": "house",
-    "name": "Мой домик",
-    "owner": "Maxim_Jesterovich",
+    "name": "Слет",
+    "owner": "Bob_Legenda",
     "status": "Занято",
     "x": -2524.31,
     "y": -145.865,
@@ -19320,18 +19260,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1610,
-    "server_id": 20,
-    "type": "house",
-    "name": "омайгад",
-    "owner": "Rjey_Javelin",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2140.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1611,
     "server_id": 20,
     "type": "house",
@@ -21228,18 +21156,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1769,
-    "server_id": 20,
-    "type": "house",
-    "name": "доммой",
-    "owner": "Noro_Unholly",
-    "status": "Занято",
-    "x": 1801.88,
-    "y": 2823.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1770,
     "server_id": 20,
     "type": "house",
@@ -22353,6 +22269,90 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 115,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nurse_Harrow",
+    "status": "Аукцион",
+    "x": 2284.61,
+    "y": -1906.6,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 768,
+    "server_id": 20,
+    "type": "house",
+    "name": "Хата Диаса и Русика<3",
+    "owner": "Rjey_Javelin",
+    "status": "Аукцион",
+    "x": -2594.19,
+    "y": 733.1779,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 802,
+    "server_id": 20,
+    "type": "house",
+    "name": "emotion ",
+    "owner": "Rjey_Javelin",
+    "status": "Аукцион",
+    "x": -2321.73,
+    "y": 820.036,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 809,
+    "server_id": 20,
+    "type": "house",
+    "name": "Rezonance",
+    "owner": "Channi_Mursh",
+    "status": "Аукцион",
+    "x": -2720.98,
+    "y": -120.787,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 844,
+    "server_id": 20,
+    "type": "house",
+    "name": "Zverev",
+    "owner": "Channi_Mursh",
+    "status": "Аукцион",
+    "x": -2227.81,
+    "y": 1080.63,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1610,
+    "server_id": 20,
+    "type": "house",
+    "name": "омайгад",
+    "owner": "Rjey_Javelin",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2140.69,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1769,
+    "server_id": 20,
+    "type": "house",
+    "name": "доммой",
+    "owner": "Noro_Unholly",
+    "status": "Аукцион",
+    "x": 1801.88,
+    "y": 2823.5,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
