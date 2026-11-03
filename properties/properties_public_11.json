@@ -3756,18 +3756,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 313,
-    "server_id": 11,
-    "type": "house",
-    "name": "KingOf_Monopoly",
-    "owner": "Kingof_Monopoly",
-    "status": "Занято",
-    "x": 1939.25,
-    "y": -1066.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 314,
     "server_id": 11,
     "type": "house",
@@ -5168,6 +5156,18 @@
     "status": "Занято",
     "x": 248.332,
     "y": -33.1693,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 431,
+    "server_id": 11,
+    "type": "house",
+    "name": "Monopoly Empire || Baphomet",
+    "owner": "Alexey_Litvinenko",
+    "status": "Занято",
+    "x": 253.3269,
+    "y": -22.4484,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9104,18 +9104,6 @@
     "status": "Занято",
     "x": -2738.32,
     "y": 801.5289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 760,
-    "server_id": 11,
-    "type": "house",
-    "name": "Умный дом",
-    "owner": "Navalil_Djazy",
-    "status": "Занято",
-    "x": -2726.67,
-    "y": 822.992,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14488,7 +14476,7 @@
     "server_id": 11,
     "type": "house",
     "name": "...",
-    "owner": "Ekiniy_Marsyak",
+    "owner": "Brat_Rostovskogo",
     "status": "Занято",
     "x": -2863.62,
     "y": 829.8859,
@@ -17624,6 +17612,18 @@
     "status": "Занято",
     "x": 1973.43,
     "y": -1560.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1482,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kotik_MeiMei",
+    "status": "Занято",
+    "x": 1980.37,
+    "y": -1718.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24624,27 +24624,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 431,
+    "id": 313,
     "server_id": 11,
     "type": "house",
-    "name": "Monopoly Empire || Baphomet",
-    "owner": "Lux_Hotel",
+    "name": "KingOf_Monopoly",
+    "owner": "Kingof_Monopoly",
     "status": "Аукцион",
-    "x": 253.3269,
-    "y": -22.4484,
-    "price": 100000000,
+    "x": 1939.25,
+    "y": -1066.56,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1482,
+    "id": 760,
     "server_id": 11,
     "type": "house",
-    "name": "Дом",
-    "owner": "Dimka_Buryat",
+    "name": "Умный дом",
+    "owner": "Navalil_Djazy",
     "status": "Аукцион",
-    "x": 1980.37,
-    "y": -1718.93,
-    "price": 700000000,
+    "x": -2726.67,
+    "y": 822.992,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

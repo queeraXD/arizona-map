@@ -108,6 +108,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 9,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Domkrat_Shixty",
+    "status": "Занято",
+    "x": 2036.07,
+    "y": -1059.32,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 10,
     "server_id": 16,
     "type": "house",
@@ -1992,6 +2004,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 167,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Akira_Fritz",
+    "status": "Занято",
+    "x": 922.007,
+    "y": -1803.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 168,
     "server_id": 16,
     "type": "house",
@@ -2859,8 +2883,8 @@
     "id": 240,
     "server_id": 16,
     "type": "house",
-    "name": "<3 California Domination <3",
-    "owner": "Ivan_California",
+    "name": "GARAY HOUSE",
+    "owner": "Garay_Smith",
     "status": "Занято",
     "x": 219.24,
     "y": -1249.8,
@@ -3284,6 +3308,18 @@
     "status": "Занято",
     "x": 2579.67,
     "y": -1033.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 276,
+    "server_id": 16,
+    "type": "house",
+    "name": "Озерная 18/1",
+    "owner": "Marvin_Babetape",
+    "status": "Занято",
+    "x": 2561.86,
+    "y": -1034.31,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5727,7 +5763,7 @@
     "id": 480,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
+    "name": "///",
     "owner": "Roman_Sixteen",
     "status": "Занято",
     "x": 2256.91,
@@ -7076,6 +7112,18 @@
     "status": "Занято",
     "x": -1478.59,
     "y": 2547.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 593,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "esea",
+    "status": "Занято",
+    "x": -1449.95,
+    "y": 2562.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10916,6 +10964,18 @@
     "status": "Занято",
     "x": -2159.76,
     "y": 1066.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 915,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Itsuki_Holmes",
+    "status": "Занято",
+    "x": -2159.89,
+    "y": 1048.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15607,18 +15667,6 @@
     "owner": "Krabs_Weeknd",
     "status": "Занято",
     "x": -2168.83,
-    "y": 821.1359,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1307,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Martin_Sherlock",
-    "status": "Занято",
-    "x": -2187.2,
     "y": 821.1359,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22404,75 +22452,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 9,
+    "id": 1307,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "esea",
+    "owner": "Martin_Sherlock",
     "status": "Аукцион",
-    "x": 2036.07,
-    "y": -1059.32,
-    "price": 111111111,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 167,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Akira_Fritz",
-    "status": "Аукцион",
-    "x": 922.007,
-    "y": -1803.89,
-    "price": 8000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 276,
-    "server_id": 16,
-    "type": "house",
-    "name": "Озерная 18/1",
-    "owner": "Marvin_Babetape",
-    "status": "Аукцион",
-    "x": 2561.86,
-    "y": -1034.31,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 593,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "esea",
-    "status": "Аукцион",
-    "x": -1449.95,
-    "y": 2562.85,
-    "price": 111111111,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 915,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Itsuki_Holmes",
-    "status": "Аукцион",
-    "x": -2159.89,
-    "y": 1048.63,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 95,
-    "server_id": 16,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Routine_Swarovski",
-    "status": "Аукцион",
-    "x": 1833.77,
-    "y": -1843.24,
-    "price": 350000,
+    "x": -2187.2,
+    "y": 821.1359,
+    "price": 180000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24788,6 +24776,18 @@
     "status": "Занято",
     "x": 1586.208,
     "y": -1394.485,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 95,
+    "server_id": 16,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Routine_Swarovski",
+    "status": "Занято",
+    "x": 1833.77,
+    "y": -1843.24,
     "price": 0,
     "district": "Сан-Андреас"
   },

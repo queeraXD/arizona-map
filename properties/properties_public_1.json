@@ -5928,18 +5928,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 494,
-    "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Did_Inside",
-    "status": "Занято",
-    "x": 1464.71,
-    "y": 1895.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 495,
     "server_id": 1,
     "type": "house",
@@ -6332,6 +6320,18 @@
     "status": "Занято",
     "x": 2039.57,
     "y": 2766.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 528,
+    "server_id": 1,
+    "type": "house",
+    "name": "Detroit",
+    "owner": "Lawrence_Detroit",
+    "status": "Занято",
+    "x": 2018.48,
+    "y": 2766.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7544,6 +7544,18 @@
     "status": "Занято",
     "x": -207.4239,
     "y": 1119.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 630,
+    "server_id": 1,
+    "type": "house",
+    "name": "Buttowski Family",
+    "owner": "Corvus_Club",
+    "status": "Занято",
+    "x": -258.752,
+    "y": 1151.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15375,7 +15387,7 @@
     "id": 1284,
     "server_id": 1,
     "type": "house",
-    "name": "pes family",
+    "name": "FVelasco",
     "owner": "Frank_Velasco",
     "status": "Занято",
     "x": -2478.93,
@@ -17776,7 +17788,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Дом",
-    "owner": "Mike_Samurai",
+    "owner": "Inj_Ury",
     "status": "Занято",
     "x": 2510.57,
     "y": -1132.72,
@@ -18316,7 +18328,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Kudos | Monopoly",
-    "owner": "Kyosuke_Kudo",
+    "owner": "Emilia_Bell",
     "status": "Занято",
     "x": 1068.42,
     "y": -1081.34,
@@ -24132,27 +24144,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 528,
+    "id": 494,
     "server_id": 1,
     "type": "house",
-    "name": "Home Kord Company",
+    "name": "Дом",
     "owner": "Did_Inside",
     "status": "Аукцион",
-    "x": 2018.48,
-    "y": 2766.55,
-    "price": 1500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 630,
-    "server_id": 1,
-    "type": "house",
-    "name": "Buttowski Family",
-    "owner": "Link_Sociative",
-    "status": "Аукцион",
-    "x": -258.752,
-    "y": 1151.06,
-    "price": 700000000,
+    "x": 1464.71,
+    "y": 1895.06,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24164,7 +24164,7 @@
     "status": "Аукцион",
     "x": -2280.84,
     "y": 1112.58,
-    "price": 1500000000,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {

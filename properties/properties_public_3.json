@@ -420,6 +420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 35,
+    "server_id": 3,
+    "type": "house",
+    "name": "Masker",
+    "owner": "Simon_Rileey",
+    "status": "Занято",
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 36,
     "server_id": 3,
     "type": "house",
@@ -7083,7 +7095,7 @@
     "id": 591,
     "server_id": 3,
     "type": "house",
-    "name": "Дом с набором архитектора",
+    "name": "Дом",
     "owner": "New_Gen",
     "status": "Занято",
     "x": -1476.21,
@@ -7095,7 +7107,7 @@
     "id": 592,
     "server_id": 3,
     "type": "house",
-    "name": "Дом с набором архитектора",
+    "name": "Дом",
     "owner": "New_Gen",
     "status": "Занято",
     "x": -1478.59,
@@ -7107,7 +7119,7 @@
     "id": 593,
     "server_id": 3,
     "type": "house",
-    "name": "Дом с набором архитектора",
+    "name": "Дом",
     "owner": "New_Gen",
     "status": "Занято",
     "x": -1449.95,
@@ -18400,7 +18412,7 @@
     "server_id": 3,
     "type": "house",
     "name": "Masker",
-    "owner": "Procuratura_Poccuu",
+    "owner": "Simon_Rileey",
     "status": "Занято",
     "x": -761.627,
     "y": 1613.16,
@@ -18776,6 +18788,18 @@
     "status": "Занято",
     "x": -1728.34,
     "y": 1158.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1568,
+    "server_id": 3,
+    "type": "house",
+    "name": "Veritas Familly ",
+    "owner": "Aleksander_Hpen",
+    "status": "Занято",
+    "x": -1728.34,
+    "y": 1139.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23976,18 +24000,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
-    "server_id": 3,
-    "type": "house",
-    "name": "Masker",
-    "owner": "Procuratura_Poccuu",
-    "status": "Аукцион",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 801,
     "server_id": 3,
     "type": "house",
@@ -23997,30 +24009,6 @@
     "x": -2340.03,
     "y": 820.0209,
     "price": 700123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1568,
-    "server_id": 3,
-    "type": "house",
-    "name": "Veritas Familly ",
-    "owner": "Aleksander_Hpen",
-    "status": "Аукцион",
-    "x": -1728.34,
-    "y": 1139.04,
-    "price": 800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 271,
-    "server_id": 3,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Big_Brr",
-    "status": "Аукцион",
-    "x": -1912.17,
-    "y": 827.954,
-    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -26048,6 +26036,18 @@
     "status": "Занято",
     "x": -53.8409,
     "y": 1189.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 271,
+    "server_id": 3,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Big_Brr",
+    "status": "Занято",
+    "x": -1912.17,
+    "y": 827.954,
     "price": 0,
     "district": "Сан-Андреас"
   },

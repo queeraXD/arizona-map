@@ -12,18 +12,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Astro_Jack",
-    "status": "Занято",
-    "x": 1906.0,
-    "y": -1113.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2,
     "server_id": 20,
     "type": "house",
@@ -1380,18 +1368,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 115,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nurse_Harrow",
-    "status": "Занято",
-    "x": 2284.61,
-    "y": -1906.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 116,
     "server_id": 20,
     "type": "house",
@@ -1875,8 +1851,8 @@
     "id": 156,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
-    "owner": "Marvin_Capone",
+    "name": "Los-Santos Home",
+    "owner": "Never_Johnson",
     "status": "Занято",
     "x": 1118.12,
     "y": -1022.04,
@@ -1887,8 +1863,8 @@
     "id": 157,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
-    "owner": "Marvin_Capone",
+    "name": "Los-Santos Home",
+    "owner": "Never_Johnson",
     "status": "Занято",
     "x": 1127.97,
     "y": -1022.01,
@@ -5480,18 +5456,6 @@
     "status": "Занято",
     "x": 2040.69,
     "y": 695.8619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 457,
-    "server_id": 20,
-    "type": "house",
-    "name": "Тут обитает риз картель",
-    "owner": "Riz_Cartel",
-    "status": "Занято",
-    "x": 2069.02,
-    "y": 696.2709,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15484,7 +15448,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Antisocial",
-    "owner": "Eclipse_Mint",
+    "owner": "Charlie_Pace",
     "status": "Занято",
     "x": -2590.53,
     "y": -95.5792,
@@ -21100,7 +21064,7 @@
     "server_id": 20,
     "type": "house",
     "name": "ыыы",
-    "owner": "Mallory_Ryuichi",
+    "owner": "Yarik_Berserk",
     "status": "Занято",
     "x": -768.6959,
     "y": 2765.4,
@@ -22320,6 +22284,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Astro_Jack",
+    "status": "Аукцион",
+    "x": 1906.0,
+    "y": -1113.0,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 115,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nurse_Harrow",
+    "status": "Аукцион",
+    "x": 2284.61,
+    "y": -1906.6,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 457,
+    "server_id": 20,
+    "type": "house",
+    "name": "Тут обитает риз картель",
+    "owner": "Riz_Cartel",
+    "status": "Аукцион",
+    "x": 2069.02,
+    "y": 696.2709,
+    "price": 650123132,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 908,
     "server_id": 20,
     "type": "house",
@@ -22352,7 +22352,7 @@
     "status": "Аукцион",
     "x": 2659.15,
     "y": 1978.84,
-    "price": 450123123,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23920,7 +23920,7 @@
     "server_id": 20,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Nays_Demure",
+    "owner": "Matvey_Demure",
     "status": "Занято",
     "x": 1948.4,
     "y": 2068.87,
