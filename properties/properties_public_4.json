@@ -3192,18 +3192,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 266,
-    "server_id": 4,
-    "type": "house",
-    "name": "DOMIK FRIREN",
-    "owner": "Rento_Hirano",
-    "status": "Занято",
-    "x": 1233.88,
-    "y": -1009.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 267,
     "server_id": 4,
     "type": "house",
@@ -4524,18 +4512,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 377,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2258.04,
-    "y": 167.8099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 378,
     "server_id": 4,
     "type": "house",
@@ -4728,18 +4704,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 394,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2197.81,
-    "y": -60.608,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 395,
     "server_id": 4,
     "type": "house",
@@ -4776,18 +4740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 398,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2367.38,
-    "y": -48.8526,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 399,
     "server_id": 4,
     "type": "house",
@@ -4808,18 +4760,6 @@
     "status": "Занято",
     "x": 2415.43,
     "y": -51.5713,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 401,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2438.82,
-    "y": -54.6911,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11236,7 +11176,7 @@
     "server_id": 4,
     "type": "house",
     "name": "депозит Алекс Баринов",
-    "owner": "Aleks_Barinov",
+    "owner": "PePe_BataFa",
     "status": "Занято",
     "x": -2187.23,
     "y": 796.314,
@@ -12532,7 +12472,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Leonid_Morens",
-    "owner": "Lionid_Morens",
+    "owner": "Miyabi_Hoshimi",
     "status": "Занято",
     "x": 1803.59,
     "y": 2855.04,
@@ -12687,7 +12627,7 @@
     "id": 1058,
     "server_id": 4,
     "type": "house",
-    "name": "Kharkiv",
+    "name": "Defenders CREW",
     "owner": "Jayson_Defender",
     "status": "Занято",
     "x": -2468.29,
@@ -16284,18 +16224,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1358,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2285.88,
-    "y": 161.7709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1359,
     "server_id": 4,
     "type": "house",
@@ -17116,7 +17044,7 @@
     "server_id": 4,
     "type": "house",
     "name": "UZB",
-    "owner": "Jon_Holand",
+    "owner": "Ryuu_Kurozumi",
     "status": "Занято",
     "x": 2044.82,
     "y": -991.2899,
@@ -17600,18 +17528,6 @@
     "status": "Занято",
     "x": 745.6749,
     "y": -590.9829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1468,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2373.85,
-    "y": 21.9458,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22372,7 +22288,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Castellum Solis Comburentis",
-    "owner": "Vakh_Ephemeral",
+    "owner": "Agares_Infernales",
     "status": "Занято",
     "x": 2063.18,
     "y": 2204.3,
@@ -25260,6 +25176,90 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 266,
+    "server_id": 4,
+    "type": "house",
+    "name": "DOMIK FRIREN",
+    "owner": "Rento_Hirano",
+    "status": "Аукцион",
+    "x": 1233.88,
+    "y": -1009.86,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 377,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2258.04,
+    "y": 167.8099,
+    "price": 6100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 394,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2197.81,
+    "y": -60.608,
+    "price": 6100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 398,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2367.38,
+    "y": -48.8526,
+    "price": 6200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 401,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2438.82,
+    "y": -54.6911,
+    "price": 6000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1358,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2285.88,
+    "y": 161.7709,
+    "price": 3200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1468,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2373.85,
+    "y": 21.9458,
+    "price": 3200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 4,
     "type": "business",
@@ -25672,7 +25672,7 @@
     "server_id": 4,
     "type": "business",
     "name": "Бар LUX",
-    "owner": "Vakh_Ephemeral",
+    "owner": "Agares_Infernales",
     "status": "Занято",
     "x": 914.224,
     "y": -1004.63,
@@ -27928,7 +27928,7 @@
     "server_id": 4,
     "type": "business",
     "name": "Отель",
-    "owner": "Giuso_Destruction",
+    "owner": "Fanfel_Wizard",
     "status": "Занято",
     "x": 8.3996,
     "y": 1212.035,

@@ -9480,18 +9480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 790,
-    "server_id": 2,
-    "type": "house",
-    "name": "Чупачанга",
-    "owner": "Timmi_Vizard",
-    "status": "Занято",
-    "x": -2583.75,
-    "y": 896.255,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 791,
     "server_id": 2,
     "type": "house",
@@ -10707,7 +10695,7 @@
     "id": 893,
     "server_id": 2,
     "type": "house",
-    "name": "в ПРОДАЖЕ 3ККК",
+    "name": "Дом",
     "owner": "Nick_Hawk",
     "status": "Занято",
     "x": -2464.55,
@@ -17448,6 +17436,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1455,
+    "server_id": 2,
+    "type": "house",
+    "name": "::Kititsa Fams::",
+    "owner": "Lu_Black",
+    "status": "Занято",
+    "x": 1685.41,
+    "y": 2093.78,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1456,
     "server_id": 2,
     "type": "house",
@@ -20444,18 +20444,6 @@
     "status": "Занято",
     "x": 928.616,
     "y": 2372.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1706,
-    "server_id": 2,
-    "type": "house",
-    "name": "Дом Goblir для жизни Goblirti",
-    "owner": "Simpson_Nikson",
-    "status": "Занято",
-    "x": 927.994,
-    "y": 2414.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23952,15 +23940,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1455,
+    "id": 790,
     "server_id": 2,
     "type": "house",
-    "name": "::Kititsa Fams::",
-    "owner": "Lu_Black",
+    "name": "Чупачанга",
+    "owner": "Timmi_Vizard",
     "status": "Аукцион",
-    "x": 1685.41,
-    "y": 2093.78,
-    "price": 1900000000,
+    "x": -2583.75,
+    "y": 896.255,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1706,
+    "server_id": 2,
+    "type": "house",
+    "name": "Дом Goblir для жизни Goblirti",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 927.994,
+    "y": 2414.26,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24292,7 +24292,7 @@
     "server_id": 2,
     "type": "business",
     "name": "Бар",
-    "owner": "Rase_Gremory",
+    "owner": "Bop",
     "status": "Занято",
     "x": 1940.01,
     "y": -2116.01,

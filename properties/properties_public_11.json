@@ -264,18 +264,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 22,
-    "server_id": 11,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Rina_Marinina",
-    "status": "Занято",
-    "x": 2191.59,
-    "y": -1275.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 23,
     "server_id": 11,
     "type": "house",
@@ -5332,7 +5320,7 @@
     "server_id": 11,
     "type": "house",
     "name": "Eva.",
-    "owner": "Eva_Sebastianova",
+    "owner": "Randy_Rich",
     "status": "Занято",
     "x": 2355.7,
     "y": -1039.24,
@@ -11676,18 +11664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 975,
-    "server_id": 11,
-    "type": "house",
-    "name": "xxx ",
-    "owner": "Rina_Marinina",
-    "status": "Занято",
-    "x": -2464.03,
-    "y": 2486.08,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 976,
     "server_id": 11,
     "type": "house",
@@ -13395,7 +13371,7 @@
     "id": 1129,
     "server_id": 11,
     "type": "house",
-    "name": "промо kelvin",
+    "name": "Дом",
     "owner": "Vovka_Ivanov",
     "status": "Занято",
     "x": 1817.73,
@@ -22456,7 +22432,7 @@
     "server_id": 11,
     "type": "house",
     "name": "RedSuns",
-    "owner": "Jeims_Kingston",
+    "owner": "Pasha_Caplya",
     "status": "Занято",
     "x": -2710.68,
     "y": 722.861,
@@ -24636,6 +24612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 22,
+    "server_id": 11,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Rina_Marinina",
+    "status": "Аукцион",
+    "x": 2191.59,
+    "y": -1275.87,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 966,
     "server_id": 11,
     "type": "house",
@@ -24644,7 +24632,19 @@
     "status": "Аукцион",
     "x": -2632.31,
     "y": 2375.56,
-    "price": 400123123,
+    "price": 300123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 975,
+    "server_id": 11,
+    "type": "house",
+    "name": "xxx ",
+    "owner": "Rina_Marinina",
+    "status": "Аукцион",
+    "x": -2464.03,
+    "y": 2486.08,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27304,7 +27304,7 @@
     "server_id": 11,
     "type": "business",
     "name": "Отель",
-    "owner": "Elina_Karamyan",
+    "owner": "Necro_Fantasia",
     "status": "Занято",
     "x": 2272.941,
     "y": -1795.335,
