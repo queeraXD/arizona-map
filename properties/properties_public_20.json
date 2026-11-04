@@ -3352,7 +3352,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "General_Busterenko",
+    "owner": "Vladimir_Korenevskiy",
     "status": "Занято",
     "x": 2194.19,
     "y": -999.3109,
@@ -5480,18 +5480,6 @@
     "status": "Занято",
     "x": 2040.69,
     "y": 695.8619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 457,
-    "server_id": 20,
-    "type": "house",
-    "name": "Тут обитает риз картель",
-    "owner": "Alik_Bulkin",
-    "status": "Занято",
-    "x": 2069.02,
-    "y": 696.2709,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10131,8 +10119,8 @@
     "id": 844,
     "server_id": 20,
     "type": "house",
-    "name": "Zverev",
-    "owner": "Vadim_Banan",
+    "name": "nur1kkov",
+    "owner": "John_Neo",
     "status": "Занято",
     "x": -2227.81,
     "y": 1080.63,
@@ -20724,18 +20712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1727,
-    "server_id": 20,
-    "type": "house",
-    "name": "милиардыы",
-    "owner": "Pestynov_Diima",
-    "status": "Занято",
-    "x": 2487.38,
-    "y": -1410.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1728,
     "server_id": 20,
     "type": "house",
@@ -21224,18 +21200,6 @@
     "status": "Занято",
     "x": 1804.99,
     "y": 2834.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1769,
-    "server_id": 20,
-    "type": "house",
-    "name": "доммой",
-    "owner": "Noro_Unholly",
-    "status": "Занято",
-    "x": 1801.88,
-    "y": 2823.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22353,6 +22317,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 457,
+    "server_id": 20,
+    "type": "house",
+    "name": "Тут обитает риз картель",
+    "owner": "Alik_Bulkin",
+    "status": "Аукцион",
+    "x": 2069.02,
+    "y": 696.2709,
+    "price": 750000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1727,
+    "server_id": 20,
+    "type": "house",
+    "name": "милиардыы",
+    "owner": "Pestynov_Diima",
+    "status": "Аукцион",
+    "x": 2487.38,
+    "y": -1410.34,
+    "price": 555555555,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1769,
+    "server_id": 20,
+    "type": "house",
+    "name": "доммой",
+    "owner": "Noro_Unholly",
+    "status": "Аукцион",
+    "x": 1801.88,
+    "y": 2823.5,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

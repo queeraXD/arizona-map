@@ -6144,18 +6144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 512,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Spike_Scout",
-    "status": "Занято",
-    "x": 1685.41,
-    "y": 2093.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 513,
     "server_id": 17,
     "type": "house",
@@ -9796,7 +9784,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Spike_Scout",
+    "owner": "Vlad_Blayer",
     "status": "Занято",
     "x": -2688.33,
     "y": -175.0939,
@@ -9855,7 +9843,7 @@
     "id": 821,
     "server_id": 17,
     "type": "house",
-    "name": "ДОМ ДРУЗЕЙ",
+    "name": "HOUSE ",
     "owner": "Pavell_Toretto",
     "status": "Занято",
     "x": -2689.56,
@@ -10184,6 +10172,18 @@
     "status": "Занято",
     "x": -2157.62,
     "y": 1117.52,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 849,
+    "server_id": 17,
+    "type": "house",
+    "name": "$ GhostSquad $",
+    "owner": "Vanechka_Implored",
+    "status": "Занято",
+    "x": -2158.05,
+    "y": 1148.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14496,18 +14496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1209,
-    "server_id": 17,
-    "type": "house",
-    "name": "Заходи если что",
-    "owner": "Danila_Musornulsya",
-    "status": "Занято",
-    "x": -2791.59,
-    "y": 200.447,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1210,
     "server_id": 17,
     "type": "house",
@@ -14600,18 +14588,6 @@
     "status": "Занято",
     "x": -2630.92,
     "y": 253.0829,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1218,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Danila_Musornulsya",
-    "status": "Занято",
-    "x": -2634.61,
-    "y": 261.0169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15156,6 +15132,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1264,
+    "server_id": 17,
+    "type": "house",
+    "name": "деп условия",
+    "owner": "Vanechka_Implored",
+    "status": "Занято",
+    "x": -2576.37,
+    "y": -198.972,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1265,
     "server_id": 17,
     "type": "house",
@@ -15368,18 +15356,6 @@
     "status": "Занято",
     "x": -2383.14,
     "y": 1244.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1283,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Desperate_Shade",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1262.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19692,18 +19668,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1643,
-    "server_id": 17,
-    "type": "house",
-    "name": "Ghetto Home Cash",
-    "owner": "Vasya_Ftb",
-    "status": "Занято",
-    "x": 2476.25,
-    "y": -1424.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1644,
     "server_id": 17,
     "type": "house",
@@ -22452,27 +22416,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 849,
+    "id": 512,
     "server_id": 17,
     "type": "house",
-    "name": "$ GhostSquad $",
-    "owner": "Vanechka_Implored",
+    "name": "Дом",
+    "owner": "Spike_Scout",
     "status": "Аукцион",
-    "x": -2158.05,
-    "y": 1148.62,
-    "price": 250123123,
+    "x": 1685.41,
+    "y": 2093.71,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1264,
+    "id": 1209,
     "server_id": 17,
     "type": "house",
-    "name": "деп условия",
-    "owner": "Vanechka_Implored",
+    "name": "Заходи если что",
+    "owner": "Danila_Musornulsya",
     "status": "Аукцион",
-    "x": -2576.37,
-    "y": -198.972,
-    "price": 250123123,
+    "x": -2791.59,
+    "y": 200.447,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1218,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Danila_Musornulsya",
+    "status": "Аукцион",
+    "x": -2634.61,
+    "y": 261.0169,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1283,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Desperate_Shade",
+    "status": "Аукцион",
+    "x": -2383.14,
+    "y": 1262.99,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1643,
+    "server_id": 17,
+    "type": "house",
+    "name": "Ghetto Home Cash",
+    "owner": "Vasya_Ftb",
+    "status": "Аукцион",
+    "x": 2476.25,
+    "y": -1424.41,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
