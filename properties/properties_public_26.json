@@ -420,18 +420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
-    "server_id": 26,
-    "type": "house",
-    "name": "Трэп хата",
-    "owner": "Nolan_Daniels",
-    "status": "Занято",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 36,
     "server_id": 26,
     "type": "house",
@@ -828,6 +816,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 69,
+    "server_id": 26,
+    "type": "house",
+    "name": "troupkillaz clvn",
+    "owner": "Trewor_Getman",
+    "status": "Занято",
+    "x": 2362.87,
+    "y": -1643.14,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 70,
     "server_id": 26,
     "type": "house",
@@ -939,7 +939,7 @@
     "id": 79,
     "server_id": 26,
     "type": "house",
-    "name": "nakamura",
+    "name": "Babaev Monopoly",
     "owner": "Babaevskiy_Babaev",
     "status": "Занято",
     "x": 2282.13,
@@ -1208,18 +1208,6 @@
     "status": "Занято",
     "x": 2650.38,
     "y": -2021.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 102,
-    "server_id": 26,
-    "type": "house",
-    "name": "McLarren ",
-    "owner": "Gabriel_McLarren",
-    "status": "Занято",
-    "x": 2522.7,
-    "y": -2018.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -1532,6 +1520,18 @@
     "status": "Занято",
     "x": 1801.93,
     "y": -2099.13,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 129,
+    "server_id": 26,
+    "type": "house",
+    "name": "AK-47",
+    "owner": "Subkhan_Mamedov",
+    "status": "Занято",
+    "x": 1804.13,
+    "y": -2124.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11376,6 +11376,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 951,
+    "server_id": 26,
+    "type": "house",
+    "name": "possible x mclarren",
+    "owner": "Mionio_Lutmun",
+    "status": "Занято",
+    "x": -2230.74,
+    "y": 1027.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 952,
     "server_id": 26,
     "type": "house",
@@ -12212,6 +12224,18 @@
     "status": "Занято",
     "x": -2511.33,
     "y": 951.2239,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1022,
+    "server_id": 26,
+    "type": "house",
+    "name": "mclarren x possible",
+    "owner": "Andreo_Chesterfield",
+    "status": "Занято",
+    "x": -2511.04,
+    "y": 942.551,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23763,7 +23787,7 @@
     "id": 1985,
     "server_id": 26,
     "type": "house",
-    "name": "Халупа",
+    "name": "ШАБАШКА",
     "owner": "Georgi_Tevzadze",
     "status": "Занято",
     "x": -789.703,
@@ -25140,51 +25164,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 69,
+    "id": 35,
     "server_id": 26,
     "type": "house",
-    "name": "troupkillaz clvn",
-    "owner": "Lovec_Pisunov",
-    "status": "Аукцион",
-    "x": 2362.87,
-    "y": -1643.14,
-    "price": 100000000,
+    "name": "Трэп хата",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 129,
+    "id": 102,
     "server_id": 26,
     "type": "house",
-    "name": "AK-47",
-    "owner": "Feldan_Lizalov",
-    "status": "Аукцион",
-    "x": 1804.13,
-    "y": -2124.36,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 951,
-    "server_id": 26,
-    "type": "house",
-    "name": "possible x mclarren",
-    "owner": "Mionio_Lutmun",
-    "status": "Аукцион",
-    "x": -2230.74,
-    "y": 1027.64,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1022,
-    "server_id": 26,
-    "type": "house",
-    "name": "mclarren x possible",
-    "owner": "Crepuscular_Fading",
-    "status": "Аукцион",
-    "x": -2511.04,
-    "y": 942.551,
-    "price": 30000000,
+    "name": "McLarren ",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2522.7,
+    "y": -2018.96,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {

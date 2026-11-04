@@ -6267,7 +6267,7 @@
     "id": 522,
     "server_id": 7,
     "type": "house",
-    "name": "BB Mesa",
+    "name": "Дом",
     "owner": "Gatila_Sebekov",
     "status": "Занято",
     "x": 1645.49,
@@ -14496,6 +14496,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1209,
+    "server_id": 7,
+    "type": "house",
+    "name": "Aragon",
+    "owner": "Akira_Nanashko",
+    "status": "Занято",
+    "x": -2351.14,
+    "y": 1317.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1210,
     "server_id": 7,
     "type": "house",
@@ -15644,6 +15656,18 @@
     "status": "Занято",
     "x": -2619.74,
     "y": 845.0319,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1306,
+    "server_id": 7,
+    "type": "house",
+    "name": "с набором архитектора в доме",
+    "owner": "Alexandr_Weiss",
+    "status": "Занято",
+    "x": -2592.73,
+    "y": 855.1409,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17240,6 +17264,18 @@
     "status": "Занято",
     "x": 264.0669,
     "y": -1765.46,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1440,
+    "server_id": 7,
+    "type": "house",
+    "name": "Финансовый ловец",
+    "owner": "Antonio_Finance",
+    "status": "Занято",
+    "x": 2186.26,
+    "y": -997.273,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23127,7 +23163,7 @@
     "id": 1932,
     "server_id": 7,
     "type": "house",
-    "name": "Продаю ",
+    "name": "БИТОК 5",
     "owner": "Aarne_Mircea",
     "status": "Занято",
     "x": 2541.53,
@@ -23936,6 +23972,18 @@
     "status": "Занято",
     "x": 2476.56,
     "y": -1398.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2000,
+    "server_id": 7,
+    "type": "house",
+    "name": "логово мигрантов",
+    "owner": "Marco_Luebbe",
+    "status": "Занято",
+    "x": 2476.28,
+    "y": -1410.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25488,42 +25536,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1209,
-    "server_id": 7,
-    "type": "house",
-    "name": "Aragon",
-    "owner": "Marco_Luebbe",
-    "status": "Аукцион",
-    "x": -2351.14,
-    "y": 1317.97,
-    "price": 2700000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1306,
-    "server_id": 7,
-    "type": "house",
-    "name": "с набором архитектора в доме",
-    "owner": "Alexandr_Weiss",
-    "status": "Аукцион",
-    "x": -2592.73,
-    "y": 855.1409,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1440,
-    "server_id": 7,
-    "type": "house",
-    "name": "деп условия + кратос",
-    "owner": "Antonio_Finance",
-    "status": "Аукцион",
-    "x": 2186.26,
-    "y": -997.273,
-    "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1485,
     "server_id": 7,
     "type": "house",
@@ -25533,18 +25545,6 @@
     "x": 397.2869,
     "y": 1157.75,
     "price": 4500228228,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2000,
-    "server_id": 7,
-    "type": "house",
-    "name": "логово мигрантов",
-    "owner": "Marco_Luebbe",
-    "status": "Аукцион",
-    "x": 2476.28,
-    "y": -1410.34,
-    "price": 2700000000,
     "district": "Сан-Андреас"
   },
   {

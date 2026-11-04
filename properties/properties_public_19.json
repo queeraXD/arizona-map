@@ -3300,6 +3300,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 275,
+    "server_id": 19,
+    "type": "house",
+    "name": "бубенчики",
+    "owner": "Black_Selection",
+    "status": "Занято",
+    "x": 2579.67,
+    "y": -1033.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 276,
     "server_id": 19,
     "type": "house",
@@ -7180,7 +7192,7 @@
     "server_id": 19,
     "type": "house",
     "name": "Voorhez monopoly",
-    "owner": "Jaison_Voorhez",
+    "owner": "Kakashke_Vkarmashke",
     "status": "Занято",
     "x": -1482.54,
     "y": 2702.66,
@@ -11316,18 +11328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 945,
-    "server_id": 19,
-    "type": "house",
-    "name": "Берлога SF",
-    "owner": "Black_Selection",
-    "status": "Занято",
-    "x": -2281.96,
-    "y": 979.2269,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 946,
     "server_id": 19,
     "type": "house",
@@ -12176,18 +12176,6 @@
     "status": "Занято",
     "x": -2563.4,
     "y": 1148.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1018,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Black_Selection",
-    "status": "Занято",
-    "x": -2541.3,
-    "y": 987.9089,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19836,18 +19824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1658,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Seledka_Karpunin",
-    "status": "Занято",
-    "x": 1888.17,
-    "y": 2798.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1659,
     "server_id": 19,
     "type": "house",
@@ -19976,18 +19952,6 @@
     "status": "Занято",
     "x": 1838.71,
     "y": 2749.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1670,
-    "server_id": 19,
-    "type": "house",
-    "name": "~ Apartments Asylum Family ~",
-    "owner": "Seledka_Karpunin",
-    "status": "Занято",
-    "x": 1832.59,
-    "y": 2742.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22008,14 +21972,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 275,
+    "id": 945,
     "server_id": 19,
     "type": "house",
-    "name": "бубенчики",
+    "name": "Берлога SF",
     "owner": "Black_Selection",
     "status": "Аукцион",
-    "x": 2579.67,
-    "y": -1033.2,
+    "x": -2281.96,
+    "y": 979.2269,
     "price": 80000000,
     "district": "Сан-Андреас"
   },
@@ -22028,6 +21992,18 @@
     "status": "Аукцион",
     "x": -2373.18,
     "y": 851.663,
+    "price": 80000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1018,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Black_Selection",
+    "status": "Аукцион",
+    "x": -2541.3,
+    "y": 987.9089,
     "price": 80000000,
     "district": "Сан-Андреас"
   },
@@ -22053,6 +22029,42 @@
     "x": 1736.48,
     "y": 2803.62,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1658,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Seledka_Karpunin",
+    "status": "Аукцион",
+    "x": 1888.17,
+    "y": 2798.67,
+    "price": 20123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1670,
+    "server_id": 19,
+    "type": "house",
+    "name": "~ Apartments Asylum Family ~",
+    "owner": "Seledka_Karpunin",
+    "status": "Аукцион",
+    "x": 1832.59,
+    "y": 2742.84,
+    "price": 20123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2,
+    "server_id": 19,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Tokyo_Amoore",
+    "status": "Аукцион",
+    "x": 242.897,
+    "y": -178.385,
+    "price": 513000,
     "district": "Сан-Андреас"
   },
   {
@@ -22092,6 +22104,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 212,
+    "server_id": 19,
+    "type": "business",
+    "name": "Риелторское агентство",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2240.77,
+    "y": 577.863,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 19,
     "type": "business",
@@ -22112,18 +22136,6 @@
     "status": "Занято",
     "x": 2333.5,
     "y": 61.624,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2,
-    "server_id": 19,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Tokyo_Amoore",
-    "status": "Занято",
-    "x": 242.897,
-    "y": -178.385,
     "price": 0,
     "district": "Сан-Андреас"
   },
