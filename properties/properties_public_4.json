@@ -7116,18 +7116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 597,
-    "server_id": 4,
-    "type": "house",
-    "name": "Fifteen squad",
-    "owner": "Hiroto_Chandler",
-    "status": "Занято",
-    "x": -1450.71,
-    "y": 2691.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 598,
     "server_id": 4,
     "type": "house",
@@ -15636,18 +15624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1308,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Eternal_Recurrence",
-    "status": "Занято",
-    "x": -2303.44,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1309,
     "server_id": 4,
     "type": "house",
@@ -17048,6 +17024,18 @@
     "status": "Занято",
     "x": 2049.25,
     "y": -987.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1427,
+    "server_id": 4,
+    "type": "house",
+    "name": "UZB",
+    "owner": "Swiksi_Extazzy",
+    "status": "Занято",
+    "x": 2044.82,
+    "y": -991.2899,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23704,7 +23692,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Rostics",
-    "owner": "Sid_Mayski",
+    "owner": "Kenzo_Monlight",
     "status": "Занято",
     "x": 2492.23,
     "y": -1398.81,
@@ -25212,6 +25200,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 597,
+    "server_id": 4,
+    "type": "house",
+    "name": "Fifteen squad",
+    "owner": "Hiroto_Chandler",
+    "status": "Аукцион",
+    "x": -1450.71,
+    "y": 2691.05,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1308,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Eternal_Recurrence",
+    "status": "Аукцион",
+    "x": -2303.44,
+    "y": 656.7349,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1358,
     "server_id": 4,
     "type": "house",
@@ -25221,18 +25233,6 @@
     "x": 2285.88,
     "y": 161.7709,
     "price": 3200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1427,
-    "server_id": 4,
-    "type": "house",
-    "name": "UZB",
-    "owner": "Ryuu_Kurozumi",
-    "status": "Аукцион",
-    "x": 2044.82,
-    "y": -991.2899,
-    "price": 50123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25252,11 +25252,11 @@
     "server_id": 4,
     "type": "house",
     "name": "чорне сердечко",
-    "owner": "Ryuu_Kurozumi",
+    "owner": "Orochimaru_Uchiha",
     "status": "Аукцион",
     "x": 2495.3,
     "y": -1376.27,
-    "price": 50123123,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25264,23 +25264,11 @@
     "server_id": 4,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Cuttle_Pleiades",
+    "owner": "Hugo_Hefner",
     "status": "Аукцион",
     "x": 2262.75,
     "y": 2036.09,
-    "price": 1,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 297,
-    "server_id": 4,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Ben_Wizard",
-    "status": "Аукцион",
-    "x": 2330.78,
-    "y": 2165.8,
-    "price": 350000,
+    "price": 177777,
     "district": "Сан-Андреас"
   },
   {
@@ -25640,6 +25628,18 @@
     "status": "Занято",
     "x": 816.203,
     "y": -1386.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 297,
+    "server_id": 4,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Ben_Wizard",
+    "status": "Занято",
+    "x": 2330.78,
+    "y": 2165.8,
     "price": 0,
     "district": "Сан-Андреас"
   },

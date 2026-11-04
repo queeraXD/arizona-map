@@ -4548,6 +4548,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 379,
+    "server_id": 10,
+    "type": "house",
+    "name": "Dollars",
+    "owner": "Travka_Dollars",
+    "status": "Занято",
+    "x": 2269.37,
+    "y": 110.9479,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 380,
     "server_id": 10,
     "type": "house",
@@ -4700,6 +4712,18 @@
     "status": "Занято",
     "x": 2245.44,
     "y": -122.1439,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 393,
+    "server_id": 10,
+    "type": "house",
+    "name": "Хатина скраю",
+    "owner": "Tatarstan_Marlow",
+    "status": "Занято",
+    "x": 2203.11,
+    "y": -89.2798,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7920,18 +7944,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 662,
-    "server_id": 10,
-    "type": "house",
-    "name": "Тут был морковка ловец",
-    "owner": "Christoper_Scamov",
-    "status": "Занято",
-    "x": 985.838,
-    "y": 1901.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 663,
     "server_id": 10,
     "type": "house",
@@ -9084,18 +9096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 759,
-    "server_id": 10,
-    "type": "house",
-    "name": "MAJOROV TEAM 3",
-    "owner": "Metka_Doma",
-    "status": "Занято",
-    "x": -2738.32,
-    "y": 801.5289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 760,
     "server_id": 10,
     "type": "house",
@@ -9999,7 +9999,7 @@
     "id": 835,
     "server_id": 10,
     "type": "house",
-    "name": "сартир",
+    "name": "мини-пентхаус",
     "owner": "Toni_Mantane",
     "status": "Занято",
     "x": -2281.59,
@@ -12660,18 +12660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1058,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kosynoki_Rambery",
-    "status": "Занято",
-    "x": -2028.67,
-    "y": 1275.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1059,
     "server_id": 10,
     "type": "house",
@@ -15008,18 +14996,6 @@
     "status": "Занято",
     "x": -2358.47,
     "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1254,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом шнюковской трости",
-    "owner": "martinerose",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 643.856,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19016,18 +18992,6 @@
     "status": "Занято",
     "x": 901.5,
     "y": -1514.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1588,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stu_Loving",
-    "status": "Занято",
-    "x": -2139.98,
-    "y": 1190.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23328,27 +23292,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 379,
+    "id": 662,
     "server_id": 10,
     "type": "house",
-    "name": "Пивной майнинг 8 лвл",
-    "owner": "Государство",
+    "name": "Тут был морковка ловец",
+    "owner": "Christoper_Scamov",
     "status": "Аукцион",
-    "x": 2269.37,
-    "y": 110.9479,
-    "price": 10000000,
+    "x": 985.838,
+    "y": 1901.11,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 393,
+    "id": 759,
     "server_id": 10,
     "type": "house",
-    "name": "Хатина скраю",
-    "owner": "Государство",
+    "name": "MAJOROV TEAM 3",
+    "owner": "Metka_Doma",
     "status": "Аукцион",
-    "x": 2203.11,
-    "y": -89.2798,
-    "price": 10000000,
+    "x": -2738.32,
+    "y": 801.5289,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1058,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kosynoki_Rambery",
+    "status": "Аукцион",
+    "x": -2028.67,
+    "y": 1275.96,
+    "price": 5000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1254,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом шнюковской трости",
+    "owner": "martinerose",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 643.856,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1588,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stu_Loving",
+    "status": "Аукцион",
+    "x": -2139.98,
+    "y": 1190.38,
+    "price": 50123123,
     "district": "Сан-Андреас"
   },
   {
