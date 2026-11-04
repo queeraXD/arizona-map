@@ -3660,18 +3660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 305,
-    "server_id": 8,
-    "type": "house",
-    "name": "hazard ",
-    "owner": "Roxy_Hazard",
-    "status": "Занято",
-    "x": 2060.47,
-    "y": -1076.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 306,
     "server_id": 8,
     "type": "house",
@@ -11692,7 +11680,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Дом милый дом",
-    "owner": "Aladincik_Hokage",
+    "owner": "Mark_Golovanskiy",
     "status": "Занято",
     "x": -2464.03,
     "y": 2486.08,
@@ -12020,6 +12008,18 @@
     "status": "Занято",
     "x": -2066.32,
     "y": 746.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1003,
+    "server_id": 8,
+    "type": "house",
+    "name": "склад",
+    "owner": "Philip_Morric",
+    "status": "Занято",
+    "x": -2048.17,
+    "y": 745.5999,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18804,18 +18804,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1569,
-    "server_id": 8,
-    "type": "house",
-    "name": "Omori Family",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 662.4359,
-    "y": -1466.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1570,
     "server_id": 8,
     "type": "house",
@@ -25239,8 +25227,8 @@
     "id": 2106,
     "server_id": 8,
     "type": "house",
-    "name": "Старый ",
-    "owner": "Caspian_Cargo",
+    "name": "Дом",
+    "owner": "Evgeniy_Diablo",
     "status": "Занято",
     "x": 74.7917,
     "y": 1065.96,
@@ -25776,15 +25764,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1003,
+    "id": 305,
     "server_id": 8,
     "type": "house",
-    "name": "склад",
-    "owner": "Philip_Morric",
+    "name": "hazard ",
+    "owner": "Aladincik_Hokage",
     "status": "Аукцион",
-    "x": -2048.17,
-    "y": 745.5999,
-    "price": 500000000,
+    "x": 2060.47,
+    "y": -1076.7,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1569,
+    "server_id": 8,
+    "type": "house",
+    "name": "Omori Family",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": 662.4359,
+    "y": -1466.7,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {

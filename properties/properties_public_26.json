@@ -420,6 +420,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 35,
+    "server_id": 26,
+    "type": "house",
+    "name": "Трэп хата",
+    "owner": "Maka_NoCap",
+    "status": "Занято",
+    "x": 2439.59,
+    "y": -1357.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 36,
     "server_id": 26,
     "type": "house",
@@ -1208,6 +1220,18 @@
     "status": "Занято",
     "x": 2650.38,
     "y": -2021.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 102,
+    "server_id": 26,
+    "type": "house",
+    "name": "McLarren ",
+    "owner": "Starry_Horse",
+    "status": "Занято",
+    "x": 2522.7,
+    "y": -2018.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25164,27 +25188,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 35,
+    "id": 27,
     "server_id": 26,
-    "type": "house",
-    "name": "Трэп хата",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2439.59,
-    "y": -1357.21,
-    "price": 0,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Ilya_Andreev",
+    "status": "Аукцион",
+    "x": 31.576,
+    "y": -2638.06,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 102,
+    "id": 56,
     "server_id": 26,
-    "type": "house",
-    "name": "McLarren ",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2522.7,
-    "y": -2018.96,
-    "price": 0,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ilya_Andreev",
+    "status": "Аукцион",
+    "x": 1671.52,
+    "y": 1814.33,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -26436,18 +26460,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
-    "server_id": 26,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Ilya_Andreev",
-    "status": "Занято",
-    "x": 31.576,
-    "y": -2638.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 28,
     "server_id": 26,
     "type": "business",
@@ -27392,18 +27404,6 @@
     "status": "Занято",
     "x": 2262.75,
     "y": 2036.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 56,
-    "server_id": 26,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ilya_Andreev",
-    "status": "Занято",
-    "x": 1671.52,
-    "y": 1814.33,
     "price": 0,
     "district": "Сан-Андреас"
   },

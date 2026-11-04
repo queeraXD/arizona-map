@@ -2580,6 +2580,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 215,
+    "server_id": 25,
+    "type": "house",
+    "name": "-- VIZART --",
+    "owner": "Yulichka_Wemp",
+    "status": "Занято",
+    "x": 924.3809,
+    "y": -853.1829,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 216,
     "server_id": 25,
     "type": "house",
@@ -4072,7 +4084,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Outside Monopoly",
-    "owner": "Luca_Alexandrescu",
+    "owner": "Payper_Lovit",
     "status": "Занято",
     "x": 747.122,
     "y": 278.2139,
@@ -6123,7 +6135,7 @@
     "id": 512,
     "server_id": 25,
     "type": "house",
-    "name": "лучший друг :::: Klerk_Montana",
+    "name": "Дом",
     "owner": "Jora_Pectori",
     "status": "Занято",
     "x": 1685.41,
@@ -8068,7 +8080,7 @@
     "server_id": 25,
     "type": "house",
     "name": "OPG BUGROV / 10 lvl / редкие ма",
-    "owner": "Payper_Lovit",
+    "owner": "Routine_Swarovski",
     "status": "Занято",
     "x": 928.6199,
     "y": 2006.45,
@@ -10860,6 +10872,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 908,
+    "server_id": 25,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kirill_Asovets",
+    "status": "Занято",
+    "x": -2126.98,
+    "y": 1014.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 909,
     "server_id": 25,
     "type": "house",
@@ -10960,7 +10984,7 @@
     "server_id": 25,
     "type": "house",
     "name": "cocojambo",
-    "owner": "Dobrynya_Bechbar",
+    "owner": "Routine_Swarovski",
     "status": "Занято",
     "x": -2169.66,
     "y": 1027.11,
@@ -15487,6 +15511,18 @@
     "owner": "Tsunematsu_Requem",
     "status": "Занято",
     "x": -2541.53,
+    "y": -118.7269,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1296,
+    "server_id": 25,
+    "type": "house",
+    "name": "Trap House",
+    "owner": "Genri_Thomasino",
+    "status": "Занято",
+    "x": -2524.33,
     "y": -118.7269,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22143,7 +22179,7 @@
     "id": 1855,
     "server_id": 25,
     "type": "house",
-    "name": "-_-Barrington Empire-_-",
+    "name": "фармилка бтс",
     "owner": "Wadimka_Trubchanin",
     "status": "Занято",
     "x": 2476.29,
@@ -23676,18 +23712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 215,
-    "server_id": 25,
-    "type": "house",
-    "name": "-- VIZART --",
-    "owner": "Yulichka_Wemp",
-    "status": "Аукцион",
-    "x": 924.3809,
-    "y": -853.1829,
-    "price": 1800000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 408,
     "server_id": 25,
     "type": "house",
@@ -23700,18 +23724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 908,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kinematograf_Nograf",
-    "status": "Аукцион",
-    "x": -2126.98,
-    "y": 1014.21,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1050,
     "server_id": 25,
     "type": "house",
@@ -23721,18 +23733,6 @@
     "x": -1970.42,
     "y": 1222.87,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1296,
-    "server_id": 25,
-    "type": "house",
-    "name": "Trap House",
-    "owner": "Genri_Thomasino",
-    "status": "Аукцион",
-    "x": -2524.33,
-    "y": -118.7269,
-    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23769,6 +23769,30 @@
     "x": 1748.41,
     "y": 2758.69,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Michael_Rapaport",
+    "status": "Аукцион",
+    "x": 2351.41,
+    "y": 2405.59,
+    "price": 77000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 202,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Michael_Rapaport",
+    "status": "Аукцион",
+    "x": 1183.17,
+    "y": -1315.1,
+    "price": 95000,
     "district": "Сан-Андреас"
   },
   {
@@ -26616,18 +26640,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 184,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Michael_Rapaport",
-    "status": "Занято",
-    "x": 2351.41,
-    "y": 2405.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 185,
     "server_id": 25,
     "type": "business",
@@ -26828,18 +26840,6 @@
     "status": "Занято",
     "x": -104.79,
     "y": -309.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 202,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Michael_Rapaport",
-    "status": "Занято",
-    "x": 1183.17,
-    "y": -1315.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
