@@ -6540,18 +6540,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 545,
-    "server_id": 22,
-    "type": "house",
-    "name": "ШЛЯПА ПЕНИСОВ",
-    "owner": "Rab_Alony",
-    "status": "Занято",
-    "x": -36.0457,
-    "y": 1115.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 546,
     "server_id": 22,
     "type": "house",
@@ -7928,6 +7916,18 @@
     "status": "Занято",
     "x": 1030.21,
     "y": 1848.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 661,
+    "server_id": 22,
+    "type": "house",
+    "name": "Подвал,охранна,деп условия.",
+    "owner": "Laki_Winston",
+    "status": "Занято",
+    "x": 984.2689,
+    "y": 1878.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10580,18 +10580,6 @@
     "status": "Занято",
     "x": 2847.13,
     "y": -1309.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 883,
-    "server_id": 22,
-    "type": "house",
-    "name": "$_$",
-    "owner": "Mario_Revival",
-    "status": "Занято",
-    "x": 2852.5,
-    "y": -1365.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20104,7 +20092,7 @@
     "server_id": 22,
     "type": "house",
     "name": "кайф ",
-    "owner": "Sanya_Kawasaki",
+    "owner": "Have_Demorgan",
     "status": "Занято",
     "x": 2357.04,
     "y": 1021.85,
@@ -22032,15 +22020,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 661,
+    "id": 545,
     "server_id": 22,
     "type": "house",
-    "name": "Подвал,охранна,деп условия.",
-    "owner": "Laki_Winston",
+    "name": "ШЛЯПА ПЕНИСОВ",
+    "owner": "Rab_Alony",
     "status": "Аукцион",
-    "x": 984.2689,
-    "y": 1878.91,
-    "price": 750123123,
+    "x": -36.0457,
+    "y": 1115.65,
+    "price": 725123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 883,
+    "server_id": 22,
+    "type": "house",
+    "name": "$_$",
+    "owner": "Mario_Revival",
+    "status": "Аукцион",
+    "x": 2852.5,
+    "y": -1365.96,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
