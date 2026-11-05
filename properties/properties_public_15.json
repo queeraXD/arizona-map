@@ -352,7 +352,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Алабаевка",
-    "owner": "Sutzuki_Tanaka",
+    "owner": "Suzuki_Tanaka",
     "status": "Занято",
     "x": 2191.87,
     "y": -1236.89,
@@ -1824,18 +1824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 152,
-    "server_id": 15,
-    "type": "house",
-    "name": "#SAMPERSKOE",
-    "owner": "Sup_Luit",
-    "status": "Занято",
-    "x": 1103.22,
-    "y": -1069.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 153,
     "server_id": 15,
     "type": "house",
@@ -2883,7 +2871,7 @@
     "id": 240,
     "server_id": 15,
     "type": "house",
-    "name": "Дом",
+    "name": "Поместье Lex(а)",
     "owner": "Lex_Blackwell",
     "status": "Занято",
     "x": 219.24,
@@ -6444,18 +6432,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 537,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом Шахтера",
-    "owner": "Manchez_Moonlight",
-    "status": "Занято",
-    "x": 2066.1,
-    "y": 2721.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 538,
     "server_id": 15,
     "type": "house",
@@ -9224,6 +9200,18 @@
     "status": "Занято",
     "x": -2594.19,
     "y": 733.1779,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 769,
+    "server_id": 15,
+    "type": "house",
+    "name": "|UZB MONOPOLY|",
+    "owner": "Uzbek_Escobar",
+    "status": "Занято",
+    "x": -2594.19,
+    "y": 768.164,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13028,6 +13016,18 @@
     "status": "Занято",
     "x": -2158.02,
     "y": 889.281,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1088,
+    "server_id": 15,
+    "type": "house",
+    "name": "Стимовская библиотека:)",
+    "owner": "Lam_Miller",
+    "status": "Занято",
+    "x": -2158.98,
+    "y": 866.3289,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17316,18 +17316,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1446,
-    "server_id": 15,
-    "type": "house",
-    "name": "Killside",
-    "owner": "Sup_Luit",
-    "status": "Занято",
-    "x": 345.091,
-    "y": -1298.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1447,
     "server_id": 15,
     "type": "house",
@@ -21300,27 +21288,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 769,
+    "id": 152,
     "server_id": 15,
     "type": "house",
-    "name": "FRINS 1",
-    "owner": "Remontage_Quinfrize",
+    "name": "#SAMPERSKOE",
+    "owner": "Sup_Luit",
     "status": "Аукцион",
-    "x": -2594.19,
-    "y": 768.164,
-    "price": 250000000,
+    "x": 1103.22,
+    "y": -1069.38,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1088,
+    "id": 537,
     "server_id": 15,
     "type": "house",
-    "name": "Стимовская библиотека:)",
-    "owner": "Lam_Miller",
+    "name": "$]Manchez House[$]",
+    "owner": "Manchez_Moonlight",
     "status": "Аукцион",
-    "x": -2158.98,
-    "y": 866.3289,
-    "price": 400000000,
+    "x": 2066.1,
+    "y": 2721.71,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1446,
+    "server_id": 15,
+    "type": "house",
+    "name": "Killside",
+    "owner": "Sup_Luit",
+    "status": "Аукцион",
+    "x": 345.091,
+    "y": -1298.09,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {

@@ -7152,18 +7152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 596,
-    "server_id": 24,
-    "type": "house",
-    "name": "ХАТА ОБЕРОНА",
-    "owner": "Capitan_Deeplace",
-    "status": "Занято",
-    "x": -1459.18,
-    "y": 2653.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 597,
     "server_id": 24,
     "type": "house",
@@ -10892,6 +10880,18 @@
     "status": "Занято",
     "x": -2126.98,
     "y": 1014.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 909,
+    "server_id": 24,
+    "type": "house",
+    "name": "Майнинг дом Ферма",
+    "owner": "Beve_Cardinale",
+    "status": "Занято",
+    "x": -2168.8,
+    "y": 796.5159,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21360,6 +21360,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1783,
+    "server_id": 24,
+    "type": "house",
+    "name": "беве",
+    "owner": "Tony_Madrosso",
+    "status": "Занято",
+    "x": -2223.86,
+    "y": 795.7059,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1784,
     "server_id": 24,
     "type": "house",
@@ -22020,27 +22032,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 909,
+    "id": 596,
     "server_id": 24,
     "type": "house",
-    "name": "Майнинг дом Ферма",
-    "owner": "Beve_Cardinale",
+    "name": "ХАТА ОБЕРОНА",
+    "owner": "Capitan_Deeplace",
     "status": "Аукцион",
-    "x": -2168.8,
-    "y": 796.5159,
-    "price": 250000000,
+    "x": -1459.18,
+    "y": 2653.51,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1783,
+    "id": 185,
     "server_id": 24,
-    "type": "house",
-    "name": "беве",
-    "owner": "Beve_Cardinale",
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Ilya_Grant",
     "status": "Аукцион",
-    "x": -2223.86,
-    "y": 795.7059,
-    "price": 250000000,
+    "x": 2599.42,
+    "y": 1060.38,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24896,18 +24908,6 @@
     "status": "Занято",
     "x": 2351.41,
     "y": 2405.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 185,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Ilya_Grant",
-    "status": "Занято",
-    "x": 2599.42,
-    "y": 1060.38,
     "price": 0,
     "district": "Сан-Андреас"
   },

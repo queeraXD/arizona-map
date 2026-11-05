@@ -3220,7 +3220,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Akiyama 1",
-    "owner": "Wiu_Qiu",
+    "owner": "Pasha_Caplya",
     "status": "Занято",
     "x": 1188.36,
     "y": -1011.85,
@@ -4556,18 +4556,6 @@
     "status": "Занято",
     "x": 2269.37,
     "y": 110.9479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 380,
-    "server_id": 10,
-    "type": "house",
-    "name": "Paradise",
-    "owner": "Routine_Swarovski",
-    "status": "Занято",
-    "x": 2249.24,
-    "y": 111.165,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11608,7 +11596,7 @@
     "server_id": 10,
     "type": "house",
     "name": "MAJOROV TEAM 1 ",
-    "owner": "Gladiator_Majorov",
+    "owner": "Explosive_Box",
     "status": "Занято",
     "x": -2424.9,
     "y": 2448.35,
@@ -11732,18 +11720,6 @@
     "status": "Занято",
     "x": -2278.66,
     "y": 747.7299,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 980,
-    "server_id": 10,
-    "type": "house",
-    "name": "LoveOver",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": -2278.21,
-    "y": 768.1019,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12632,18 +12608,6 @@
     "status": "Занято",
     "x": -1901.98,
     "y": 1239.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1055,
-    "server_id": 10,
-    "type": "house",
-    "name": "WinCheSters Miner",
-    "owner": "Routine_Swarovski",
-    "status": "Занято",
-    "x": -1901.0,
-    "y": 1203.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15076,7 +15040,7 @@
     "server_id": 10,
     "type": "house",
     "name": "beer",
-    "owner": "Beer_Gold",
+    "owner": "Pasha_Caplya",
     "status": "Занято",
     "x": -2356.88,
     "y": 580.0349,
@@ -19080,18 +19044,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1592,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 2154.11,
-    "y": -979.911,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1593,
     "server_id": 10,
     "type": "house",
@@ -19516,7 +19468,7 @@
     "server_id": 10,
     "type": "house",
     "name": "AntiHab ghetto",
-    "owner": "Explosive_Box",
+    "owner": "Troy_Vex",
     "status": "Занято",
     "x": 1969.98,
     "y": -1671.19,
@@ -21796,7 +21748,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Cody Gregory house",
-    "owner": "Jason_Joestar",
+    "owner": "Explosive_Box",
     "status": "Занято",
     "x": 2476.24,
     "y": -1424.58,
@@ -23340,6 +23292,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 380,
+    "server_id": 10,
+    "type": "house",
+    "name": "Paradise",
+    "owner": "Routine_Swarovski",
+    "status": "Аукцион",
+    "x": 2249.24,
+    "y": 111.165,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 759,
     "server_id": 10,
     "type": "house",
@@ -23348,7 +23312,43 @@
     "status": "Аукцион",
     "x": -2738.32,
     "y": 801.5289,
+    "price": 60000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 980,
+    "server_id": 10,
+    "type": "house",
+    "name": "LoveOver",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": -2278.21,
+    "y": 768.1019,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1055,
+    "server_id": 10,
+    "type": "house",
+    "name": "WinCheSters Miner",
+    "owner": "Routine_Swarovski",
+    "status": "Аукцион",
+    "x": -1901.0,
+    "y": 1203.07,
     "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1592,
+    "server_id": 10,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": 2154.11,
+    "y": -979.911,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {

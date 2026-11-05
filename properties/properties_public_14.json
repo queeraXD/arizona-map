@@ -12624,18 +12624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1052,
-    "server_id": 14,
-    "type": "house",
-    "name": "Arasaka Tower",
-    "owner": "Lovec_Pisunovv",
-    "status": "Занято",
-    "x": -2793.14,
-    "y": -127.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1053,
     "server_id": 14,
     "type": "house",
@@ -15224,18 +15212,6 @@
     "status": "Занято",
     "x": -2502.97,
     "y": 921.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1269,
-    "server_id": 14,
-    "type": "house",
-    "name": "подвал+майнинг",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": -2471.76,
-    "y": 895.234,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19956,6 +19932,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1663,
+    "server_id": 14,
+    "type": "house",
+    "name": "Hood Impire",
+    "owner": "Malenkaya_Omejka",
+    "status": "Занято",
+    "x": 1949.21,
+    "y": 742.875,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1664,
     "server_id": 14,
     "type": "house",
@@ -23688,15 +23676,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1663,
+    "id": 1052,
     "server_id": 14,
     "type": "house",
-    "name": "Hood Impire",
-    "owner": "Hood_Soul",
+    "name": "Arasaka Tower",
+    "owner": "Lovec_Pisunovv",
     "status": "Аукцион",
-    "x": 1949.21,
-    "y": 742.875,
-    "price": 350000000,
+    "x": -2793.14,
+    "y": -127.12,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1269,
+    "server_id": 14,
+    "type": "house",
+    "name": "подвал+майнинг",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": -2471.76,
+    "y": 895.234,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24376,7 +24376,7 @@
     "server_id": 14,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Sexy_Altushka",
+    "owner": "Papochka_Mur",
     "status": "Занято",
     "x": -179.189,
     "y": 1133.15,

@@ -11572,7 +11572,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Трэп хата(хозяина закадировали)",
-    "owner": "Diz_Flury",
+    "owner": "Stas_Refund",
     "status": "Занято",
     "x": -2223.85,
     "y": 795.8759,
@@ -14924,18 +14924,6 @@
     "status": "Занято",
     "x": -2689.48,
     "y": 96.0317,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1244,
-    "server_id": 6,
-    "type": "house",
-    "name": "Pisoq house",
-    "owner": "Ilja_Breazy",
-    "status": "Занято",
-    "x": -2689.67,
-    "y": 74.5082,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19148,6 +19136,18 @@
     "status": "Занято",
     "x": 1112.2,
     "y": -1557.42,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1596,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Richard_Falcone",
+    "status": "Занято",
+    "x": 1115.72,
+    "y": -1562.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23436,18 +23436,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1956,
-    "server_id": 6,
-    "type": "house",
-    "name": "@hold0nio",
-    "owner": "Reptilian_Club",
-    "status": "Занято",
-    "x": 2617.69,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1957,
     "server_id": 6,
     "type": "house",
@@ -24516,27 +24504,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1596,
+    "id": 1244,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Richard_Falcone",
+    "name": "Pisoq house",
+    "owner": "Ilja_Breazy",
     "status": "Аукцион",
-    "x": 1115.72,
-    "y": -1562.69,
-    "price": 5500000000,
+    "x": -2689.67,
+    "y": 74.5082,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 193,
+    "id": 1956,
     "server_id": 6,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Fallen_Castle",
+    "type": "house",
+    "name": "@hold0nio",
+    "owner": "Reptilian_Club",
     "status": "Аукцион",
-    "x": 2405.02,
-    "y": -1933.97,
-    "price": 10000000000,
+    "x": 2617.69,
+    "y": 2195.56,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27488,6 +27476,18 @@
     "status": "Занято",
     "x": 1136.97,
     "y": -1456.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 193,
+    "server_id": 6,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Fallen_Castle",
+    "status": "Занято",
+    "x": 2405.02,
+    "y": -1933.97,
     "price": 0,
     "district": "Сан-Андреас"
   },

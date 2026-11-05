@@ -3576,6 +3576,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 298,
+    "server_id": 28,
+    "type": "house",
+    "name": "Деп условия и все улучшения",
+    "owner": "Akio_Watanabe",
+    "status": "Занято",
+    "x": 2092.26,
+    "y": -1067.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 299,
     "server_id": 28,
     "type": "house",
@@ -6120,18 +6132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 511,
-    "server_id": 28,
-    "type": "house",
-    "name": "Деп условия и тд, топ хата",
-    "owner": "Mac_Scofield",
-    "status": "Занято",
-    "x": 1684.51,
-    "y": 2046.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 512,
     "server_id": 28,
     "type": "house",
@@ -6744,18 +6744,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 563,
-    "server_id": 28,
-    "type": "house",
-    "name": "Деп условия и все улучшения",
-    "owner": "Mac_Scofield",
-    "status": "Занято",
-    "x": 263.622,
-    "y": 1171.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 564,
     "server_id": 28,
     "type": "house",
@@ -6800,18 +6788,6 @@
     "status": "Занято",
     "x": 386.686,
     "y": 1272.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 568,
-    "server_id": 28,
-    "type": "house",
-    "name": "Деп условия и все улучшения",
-    "owner": "Mac_Scofield",
-    "status": "Занято",
-    "x": 404.363,
-    "y": 1243.78,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10116,6 +10092,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 844,
+    "server_id": 28,
+    "type": "house",
+    "name": "Brazzzers",
+    "owner": "Necruis_Soprano",
+    "status": "Занято",
+    "x": -2227.81,
+    "y": 1080.63,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 845,
+    "server_id": 28,
+    "type": "house",
+    "name": "Интерпол",
+    "owner": "Wirtixx_Interpol",
+    "status": "Занято",
+    "x": -2209.65,
+    "y": 1079.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 846,
     "server_id": 28,
     "type": "house",
@@ -12116,6 +12116,18 @@
     "status": "Занято",
     "x": -2506.37,
     "y": 1141.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1014,
+    "server_id": 28,
+    "type": "house",
+    "name": "Гараж хайп",
+    "owner": "Matthew_Cross",
+    "status": "Занято",
+    "x": -2493.38,
+    "y": 1141.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15304,7 +15316,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Под охраной коров!",
-    "owner": "Sasha_Cold",
+    "owner": "Sinister_Christmas",
     "status": "Занято",
     "x": -2725.79,
     "y": -36.4976,
@@ -17380,7 +17392,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Absense_Mind",
+    "owner": "Turbo_Ww",
     "status": "Занято",
     "x": 885.4249,
     "y": 2238.86,
@@ -19060,7 +19072,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Bloodamare ASC House",
-    "owner": "Sinister_Christmas",
+    "owner": "Lovec_Pisunov",
     "status": "Занято",
     "x": 1781.62,
     "y": 2747.35,
@@ -19600,7 +19612,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Bloodamare ASC House",
-    "owner": "Stop_Loss",
+    "owner": "Amm_Amm",
     "status": "Занято",
     "x": 2816.49,
     "y": 2268.64,
@@ -22332,51 +22344,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 298,
+    "id": 511,
+    "server_id": 28,
+    "type": "house",
+    "name": "Деп условия и тд, топ хата",
+    "owner": "Mac_Scofield",
+    "status": "Аукцион",
+    "x": 1684.51,
+    "y": 2046.57,
+    "price": 275000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 563,
     "server_id": 28,
     "type": "house",
     "name": "Деп условия и все улучшения",
-    "owner": "Liam_Brown",
+    "owner": "Mac_Scofield",
     "status": "Аукцион",
-    "x": 2092.26,
-    "y": -1067.44,
-    "price": 250000000,
+    "x": 263.622,
+    "y": 1171.51,
+    "price": 285000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 844,
+    "id": 568,
     "server_id": 28,
     "type": "house",
-    "name": "Продам",
-    "owner": "Wirtixx_Interpol",
+    "name": "Деп условия и все улучшения",
+    "owner": "Mac_Scofield",
     "status": "Аукцион",
-    "x": -2227.81,
-    "y": 1080.63,
-    "price": 200100100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 845,
-    "server_id": 28,
-    "type": "house",
-    "name": "Интерпол",
-    "owner": "Wirtixx_Interpol",
-    "status": "Аукцион",
-    "x": -2209.65,
-    "y": 1079.99,
-    "price": 200100100,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1014,
-    "server_id": 28,
-    "type": "house",
-    "name": "Гараж хайп",
-    "owner": "Hisiyamu_Yutaka",
-    "status": "Аукцион",
-    "x": -2493.38,
-    "y": 1141.59,
-    "price": 250000000,
+    "x": 404.363,
+    "y": 1243.78,
+    "price": 275000000,
     "district": "Сан-Андреас"
   },
   {
