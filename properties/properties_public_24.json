@@ -540,18 +540,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 45,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Egor_Kirillov",
-    "status": "Занято",
-    "x": 2467.61,
-    "y": -1200.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 46,
     "server_id": 24,
     "type": "house",
@@ -7152,6 +7140,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 596,
+    "server_id": 24,
+    "type": "house",
+    "name": "ХАТА ОБЕРОНА",
+    "owner": "Capitan_Deeplace",
+    "status": "Занято",
+    "x": -1459.18,
+    "y": 2653.51,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 597,
     "server_id": 24,
     "type": "house",
@@ -8700,18 +8700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 726,
-    "server_id": 24,
-    "type": "house",
-    "name": "хата думы и харингтона",
-    "owner": "Egor_Kirillov",
-    "status": "Занято",
-    "x": 1735.65,
-    "y": 2691.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 727,
     "server_id": 24,
     "type": "house",
@@ -8780,18 +8768,6 @@
     "status": "Занято",
     "x": -2622.35,
     "y": -198.1479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 733,
-    "server_id": 24,
-    "type": "house",
-    "name": "Майнинг свита",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": -2904.9,
-    "y": 1178.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11956,7 +11932,7 @@
     "server_id": 24,
     "type": "house",
     "name": "...",
-    "owner": "Dankut_Wanted",
+    "owner": "Iflexick_Doc",
     "status": "Занято",
     "x": -2373.18,
     "y": 851.663,
@@ -18063,7 +18039,7 @@
     "id": 1507,
     "server_id": 24,
     "type": "house",
-    "name": "Дом",
+    "name": "дарк ку всем",
     "owner": "Drug_Over",
     "status": "Занято",
     "x": -2355.59,
@@ -22032,27 +22008,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 596,
+    "id": 45,
     "server_id": 24,
     "type": "house",
-    "name": "ХАТА ОБЕРОНА",
-    "owner": "Capitan_Deeplace",
+    "name": "Дом",
+    "owner": "Egor_Kirillov",
     "status": "Аукцион",
-    "x": -1459.18,
-    "y": 2653.51,
-    "price": 200000000,
+    "x": 2467.61,
+    "y": -1200.41,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 185,
+    "id": 726,
+    "server_id": 24,
+    "type": "house",
+    "name": "хата думы и харингтона",
+    "owner": "Egor_Kirillov",
+    "status": "Аукцион",
+    "x": 1735.65,
+    "y": 2691.22,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 733,
+    "server_id": 24,
+    "type": "house",
+    "name": "Майнинг свита",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": -2904.9,
+    "y": 1178.92,
+    "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 111,
+    "server_id": 24,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Noko_Maniak",
+    "status": "Аукцион",
+    "x": -2767.51,
+    "y": 788.72,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 189,
     "server_id": 24,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Ilya_Grant",
+    "owner": "Vlad_Ural",
     "status": "Аукцион",
-    "x": 2599.42,
-    "y": 1060.38,
-    "price": 3000000000,
+    "x": -1981.62,
+    "y": 174.636,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 200,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Vlad_Ural",
+    "status": "Аукцион",
+    "x": -1983.44,
+    "y": 127.66,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22156,7 +22180,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Pharmacy_Throat",
+    "owner": "Noko_Rabiz",
     "status": "Занято",
     "x": -2163.47,
     "y": 129.382,
@@ -23572,7 +23596,7 @@
     "server_id": 24,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Aksay_Outcast",
+    "owner": "Tomas_Scott",
     "status": "Занято",
     "x": 1019.18,
     "y": -1871.74,
@@ -23680,7 +23704,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Quatchunky_Crystal",
+    "owner": "Alt_Venom",
     "status": "Занято",
     "x": 1367.55,
     "y": 248.241,
@@ -23904,18 +23928,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 111,
-    "server_id": 24,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Noko_Rabiz",
-    "status": "Занято",
-    "x": -2767.51,
-    "y": 788.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 112,
     "server_id": 24,
     "type": "business",
@@ -24040,7 +24052,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Nik_Extazz",
+    "owner": "Sunrise_Extazz",
     "status": "Занято",
     "x": 2330.59,
     "y": 2533.61,
@@ -24912,6 +24924,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 185,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Budek_Pawsovich",
+    "status": "Занято",
+    "x": 2599.42,
+    "y": 1060.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 186,
     "server_id": 24,
     "type": "business",
@@ -24944,18 +24968,6 @@
     "status": "Занято",
     "x": -88.37,
     "y": 101.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 189,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Vlad_Ural",
-    "status": "Занято",
-    "x": -1981.62,
-    "y": 174.636,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25076,18 +25088,6 @@
     "status": "Занято",
     "x": 1771.74,
     "y": -1903.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 200,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Vlad_Ural",
-    "status": "Занято",
-    "x": -1983.44,
-    "y": 127.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
