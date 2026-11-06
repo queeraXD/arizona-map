@@ -2416,7 +2416,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Логово Кладменов",
-    "owner": "Ayame_Hotaru",
+    "owner": "Link_Sociative",
     "status": "Занято",
     "x": 1536.32,
     "y": -884.789,
@@ -6332,6 +6332,18 @@
     "status": "Занято",
     "x": 2039.57,
     "y": 2766.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 528,
+    "server_id": 1,
+    "type": "house",
+    "name": "Дом",
+    "owner": "William_Spaqetti",
+    "status": "Занято",
+    "x": 2018.48,
+    "y": 2766.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15972,6 +15984,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1333,
+    "server_id": 1,
+    "type": "house",
+    "name": "Майнинг 3",
+    "owner": "Olexander_Buze",
+    "status": "Занято",
+    "x": -2159.24,
+    "y": 753.7299,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1334,
     "server_id": 1,
     "type": "house",
@@ -17768,6 +17792,18 @@
     "status": "Занято",
     "x": 2488.06,
     "y": -1135.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1484,
+    "server_id": 1,
+    "type": "house",
+    "name": ": Bergstrom house :",
+    "owner": "Grom_Soho",
+    "status": "Занято",
+    "x": 2510.57,
+    "y": -1132.72,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24132,39 +24168,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 528,
+    "id": 185,
     "server_id": 1,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lawrence_Detroit",
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Fentoms_Tempest",
     "status": "Аукцион",
-    "x": 2018.48,
-    "y": 2766.55,
-    "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1333,
-    "server_id": 1,
-    "type": "house",
-    "name": "ХАТА ПО КАЙФУ",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -2159.24,
-    "y": 753.7299,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1484,
-    "server_id": 1,
-    "type": "house",
-    "name": ": Bergstrom house :",
-    "owner": "Partizan_Uinston",
-    "status": "Аукцион",
-    "x": 2510.57,
-    "y": -1132.72,
-    "price": 2500000000,
+    "x": 2599.42,
+    "y": 1060.38,
+    "price": 160000,
     "district": "Сан-Андреас"
   },
   {
@@ -27020,18 +27032,6 @@
     "status": "Занято",
     "x": 2351.41,
     "y": 2405.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 185,
-    "server_id": 1,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Fentoms_Tempest",
-    "status": "Занято",
-    "x": 2599.42,
-    "y": 1060.38,
     "price": 0,
     "district": "Сан-Андреас"
   },

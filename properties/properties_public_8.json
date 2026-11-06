@@ -8796,6 +8796,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 733,
+    "server_id": 8,
+    "type": "house",
+    "name": "Желище",
+    "owner": "Cupsize_Ebet",
+    "status": "Занято",
+    "x": -2904.9,
+    "y": 1178.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 734,
     "server_id": 8,
     "type": "house",
@@ -13332,18 +13344,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1113,
-    "server_id": 8,
-    "type": "house",
-    "name": "Oreshnik",
-    "owner": "Ibrahim_Oreshnik",
-    "status": "Занято",
-    "x": 1751.56,
-    "y": 2747.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1114,
     "server_id": 8,
     "type": "house",
@@ -13472,6 +13472,18 @@
     "status": "Занято",
     "x": -2905.26,
     "y": 1171.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1125,
+    "server_id": 8,
+    "type": "house",
+    "name": "Желище по соседству",
+    "owner": "Cupsize_Ebet",
+    "status": "Занято",
+    "x": -2905.01,
+    "y": 1164.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15140,18 +15152,6 @@
     "status": "Занято",
     "x": -2840.23,
     "y": 866.8679,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1265,
-    "server_id": 8,
-    "type": "house",
-    "name": "Домик Ватковскова",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": -2843.21,
-    "y": 904.3439,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17048,18 +17048,6 @@
     "status": "Занято",
     "x": 732.716,
     "y": -1476.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1424,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": 646.0679,
-    "y": -1117.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22980,18 +22968,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1918,
-    "server_id": 8,
-    "type": "house",
-    "name": "Лв край",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": 2788.23,
-    "y": 2260.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1919,
     "server_id": 8,
     "type": "house",
@@ -23755,18 +23731,6 @@
     "owner": "Alvaro_Kray",
     "status": "Занято",
     "x": 2486.21,
-    "y": 1682.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1983,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": 2481.36,
     "y": 1682.87,
     "price": 0,
     "district": "Сан-Андреас"
@@ -24700,7 +24664,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Ghostmare gang",
-    "owner": "Vex_Ghostmare",
+    "owner": "Dirty_Stu",
     "status": "Занято",
     "x": 2615.11,
     "y": -1229.32,
@@ -25764,27 +25728,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 733,
+    "id": 1113,
     "server_id": 8,
     "type": "house",
-    "name": "Желище",
-    "owner": "Cupsize_Ebet",
+    "name": "Oreshnik",
+    "owner": "Ibrahim_Oreshnik",
     "status": "Аукцион",
-    "x": -2904.9,
-    "y": 1178.92,
-    "price": 350132123,
+    "x": 1751.56,
+    "y": 2747.21,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1125,
+    "id": 1265,
     "server_id": 8,
     "type": "house",
-    "name": "Желище по соседству",
-    "owner": "Cupsize_Ebet",
+    "name": "Домик Ватковскова",
+    "owner": "Kolya_Infinity",
     "status": "Аукцион",
-    "x": -2905.01,
-    "y": 1164.84,
-    "price": 350123123,
+    "x": -2843.21,
+    "y": 904.3439,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1424,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kolya_Infinity",
+    "status": "Аукцион",
+    "x": 646.0679,
+    "y": -1117.34,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1918,
+    "server_id": 8,
+    "type": "house",
+    "name": "Лв край",
+    "owner": "Kolya_Infinity",
+    "status": "Аукцион",
+    "x": 2788.23,
+    "y": 2260.97,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1983,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kolya_Infinity",
+    "status": "Аукцион",
+    "x": 2481.36,
+    "y": 1682.87,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {

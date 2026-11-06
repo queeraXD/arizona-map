@@ -216,6 +216,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 18,
+    "server_id": 28,
+    "type": "house",
+    "name": "Реп Треп Движуха",
+    "owner": "Stu_Qarabas",
+    "status": "Занято",
+    "x": 2126.67,
+    "y": -1320.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 19,
     "server_id": 28,
     "type": "house",
@@ -6744,18 +6756,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 563,
-    "server_id": 28,
-    "type": "house",
-    "name": "Деп условия и все улучшения",
-    "owner": "Mac_Scofield",
-    "status": "Занято",
-    "x": 263.622,
-    "y": 1171.51,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 564,
     "server_id": 28,
     "type": "house",
@@ -8004,18 +8004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 668,
-    "server_id": 28,
-    "type": "house",
-    "name": "antirat squad",
-    "owner": "Jinatsu_Mode",
-    "status": "Занято",
-    "x": 1028.83,
-    "y": 2005.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 669,
     "server_id": 28,
     "type": "house",
@@ -9092,18 +9080,6 @@
     "status": "Занято",
     "x": -2738.31,
     "y": 771.5869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 759,
-    "server_id": 28,
-    "type": "house",
-    "name": "antirat squad",
-    "owner": "Jinatsu_Mode",
-    "status": "Занято",
-    "x": -2738.32,
-    "y": 801.5289,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10904,18 +10880,6 @@
     "status": "Занято",
     "x": -2126.8,
     "y": 1032.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 911,
-    "server_id": 28,
-    "type": "house",
-    "name": "gangster lovit",
-    "owner": "Hisiyamu_Yutaka",
-    "status": "Занято",
-    "x": -2126.55,
-    "y": 1050.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14823,8 +14787,8 @@
     "id": 1237,
     "server_id": 28,
     "type": "house",
-    "name": "тралалело тралала",
-    "owner": "Sinister_Christmas",
+    "name": "Дом фармацевта)",
+    "owner": "Kyoka_Farmatsevt",
     "status": "Занято",
     "x": -2433.71,
     "y": 1244.56,
@@ -22356,15 +22320,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 18,
+    "id": 563,
     "server_id": 28,
     "type": "house",
-    "name": "Реп Треп Движуха",
-    "owner": "Stu_Qarabas",
+    "name": "Деп условия и все улучшения",
+    "owner": "Mac_Scofield",
     "status": "Аукцион",
-    "x": 2126.67,
-    "y": -1320.71,
-    "price": 500123213,
+    "x": 263.622,
+    "y": 1171.51,
+    "price": 275000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 668,
+    "server_id": 28,
+    "type": "house",
+    "name": "antirat squad",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1028.83,
+    "y": 2005.54,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 759,
+    "server_id": 28,
+    "type": "house",
+    "name": "antirat squad",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2738.32,
+    "y": 801.5289,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 911,
+    "server_id": 28,
+    "type": "house",
+    "name": "gangster lovit",
+    "owner": "Hisiyamu_Yutaka",
+    "status": "Аукцион",
+    "x": -2126.55,
+    "y": 1050.82,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

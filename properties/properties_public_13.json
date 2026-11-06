@@ -48,18 +48,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 4,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dimka_Vjopekartinka",
-    "status": "Занято",
-    "x": 1955.12,
-    "y": -1115.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 5,
     "server_id": 13,
     "type": "house",
@@ -8872,7 +8860,7 @@
     "server_id": 13,
     "type": "house",
     "name": "House",
-    "owner": "method",
+    "owner": "Techno_Music",
     "status": "Занято",
     "x": -2845.31,
     "y": 928.414,
@@ -15600,18 +15588,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1300,
-    "server_id": 13,
-    "type": "house",
-    "name": "Хата Андрея",
-    "owner": "Dodge_Dead",
-    "status": "Занято",
-    "x": -2558.71,
-    "y": -118.7259,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1301,
     "server_id": 13,
     "type": "house",
@@ -22080,18 +22056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1842,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dodge_Dead",
-    "status": "Занято",
-    "x": 2629.86,
-    "y": 2185.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1843,
     "server_id": 13,
     "type": "house",
@@ -22196,18 +22160,6 @@
     "status": "Занято",
     "x": 2610.33,
     "y": 2133.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1852,
-    "server_id": 13,
-    "type": "house",
-    "name": "Хата Андрея",
-    "owner": "Dodge_Dead",
-    "status": "Занято",
-    "x": 2620.35,
-    "y": 2130.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,6 +23232,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 4,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dimka_Vjopekartinka",
+    "status": "Аукцион",
+    "x": 1955.12,
+    "y": -1115.4,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1300,
+    "server_id": 13,
+    "type": "house",
+    "name": "Хата Андрея",
+    "owner": "Dodge_Dead",
+    "status": "Аукцион",
+    "x": -2558.71,
+    "y": -118.7259,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1637,
     "server_id": 13,
     "type": "house",
@@ -23289,6 +23265,30 @@
     "x": 2816.49,
     "y": 2268.87,
     "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1842,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dodge_Dead",
+    "status": "Аукцион",
+    "x": 2629.86,
+    "y": 2185.54,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1852,
+    "server_id": 13,
+    "type": "house",
+    "name": "Хата Андрея",
+    "owner": "Dodge_Dead",
+    "status": "Аукцион",
+    "x": 2620.35,
+    "y": 2130.64,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
