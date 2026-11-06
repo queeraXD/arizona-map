@@ -36,18 +36,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 3,
-    "server_id": 14,
-    "type": "house",
-    "name": "Горячий Домик",
-    "owner": "Sergio_Tohok",
-    "status": "Занято",
-    "x": 1939.18,
-    "y": -1114.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 4,
     "server_id": 14,
     "type": "house",
@@ -1684,7 +1672,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Дом Жонсона ",
-    "owner": "Axaxa_Axaxaxa",
+    "owner": "Jin_Tonik",
     "status": "Занято",
     "x": 1674.01,
     "y": -2122.19,
@@ -11164,7 +11152,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Дом",
-    "owner": "Connor_Korolevw",
+    "owner": "Anton_Setnikov",
     "status": "Занято",
     "x": -2017.23,
     "y": 1000.07,
@@ -11972,18 +11960,6 @@
     "status": "Занято",
     "x": -2373.39,
     "y": 834.4459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 998,
-    "server_id": 14,
-    "type": "house",
-    "name": "Кошачий домик",
-    "owner": "Filin_Cokits",
-    "status": "Занято",
-    "x": -2373.18,
-    "y": 851.663,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20712,18 +20688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1726,
-    "server_id": 14,
-    "type": "house",
-    "name": "Временно (Не Продаеться) 1",
-    "owner": "Kostik_Podpal",
-    "status": "Занято",
-    "x": 2517.04,
-    "y": 1674.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1727,
     "server_id": 14,
     "type": "house",
@@ -23697,6 +23661,42 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 3,
+    "server_id": 14,
+    "type": "house",
+    "name": "Горячий Домик",
+    "owner": "Sergio_Tohok",
+    "status": "Аукцион",
+    "x": 1939.18,
+    "y": -1114.48,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 998,
+    "server_id": 14,
+    "type": "house",
+    "name": "Кошачий домик",
+    "owner": "Filin_Cokits",
+    "status": "Аукцион",
+    "x": -2373.18,
+    "y": 851.663,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1726,
+    "server_id": 14,
+    "type": "house",
+    "name": "Временно (Не Продаеться) 1",
+    "owner": "Kostik_Podpal",
+    "status": "Аукцион",
+    "x": 2517.04,
+    "y": 1674.29,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
