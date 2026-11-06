@@ -5271,7 +5271,7 @@
     "id": 440,
     "server_id": 15,
     "type": "house",
-    "name": "логово логичного гения",
+    "name": "Мое логово",
     "owner": "Dior_Bluberry",
     "status": "Занято",
     "x": 2513.33,
@@ -6008,6 +6008,18 @@
     "status": "Занято",
     "x": 1364.67,
     "y": 1896.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 502,
+    "server_id": 15,
+    "type": "house",
+    "name": "wasap",
+    "owner": "Draids_Neitwork",
+    "status": "Занято",
+    "x": 1364.3,
+    "y": 1931.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9924,6 +9936,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 829,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Xavier_Croft",
+    "status": "Занято",
+    "x": -2720.98,
+    "y": -23.3173,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 830,
     "server_id": 15,
     "type": "house",
@@ -10148,6 +10172,18 @@
     "status": "Занято",
     "x": -2157.62,
     "y": 1117.52,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 849,
+    "server_id": 15,
+    "type": "house",
+    "name": "849",
+    "owner": "Boba_McCloud",
+    "status": "Занято",
+    "x": -2158.05,
+    "y": 1148.62,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11127,7 +11163,7 @@
     "id": 932,
     "server_id": 15,
     "type": "house",
-    "name": "эту хату мне муж купил)",
+    "name": "Дом викули",
     "owner": "Vikulya_Tokado",
     "status": "Занято",
     "x": -2017.94,
@@ -14540,6 +14576,18 @@
     "status": "Занято",
     "x": -2791.59,
     "y": 200.6089,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1217,
+    "server_id": 15,
+    "type": "house",
+    "name": "Xxx_Vais_xxX",
+    "owner": "Grant_Rakuzan",
+    "status": "Занято",
+    "x": -2791.86,
+    "y": 212.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18852,18 +18900,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1578,
-    "server_id": 15,
-    "type": "house",
-    "name": "Normal House",
-    "owner": "Kizyak_Hellsing",
-    "status": "Занято",
-    "x": 2407.67,
-    "y": -1106.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1579,
     "server_id": 15,
     "type": "house",
@@ -18884,18 +18920,6 @@
     "status": "Занято",
     "x": 2457.02,
     "y": -1102.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1581,
-    "server_id": 15,
-    "type": "house",
-    "name": "<3 Erhakov House <3",
-    "owner": "Kizyak_Hellsing",
-    "status": "Занято",
-    "x": 2471.05,
-    "y": -1105.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21264,54 +21288,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 502,
-    "server_id": 15,
-    "type": "house",
-    "name": "wasap",
-    "owner": "Sergio_McCloud",
-    "status": "Аукцион",
-    "x": 1364.3,
-    "y": 1931.64,
-    "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 829,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Xavier_Croft",
-    "status": "Аукцион",
-    "x": -2720.98,
-    "y": -23.3173,
-    "price": 480000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 849,
-    "server_id": 15,
-    "type": "house",
-    "name": "849",
-    "owner": "Boba_McCloud",
-    "status": "Аукцион",
-    "x": -2158.05,
-    "y": 1148.62,
-    "price": 450000123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1217,
-    "server_id": 15,
-    "type": "house",
-    "name": "Xxx_Vais_xxX",
-    "owner": "Grant_Rakuzan",
-    "status": "Аукцион",
-    "x": -2791.86,
-    "y": 212.0,
-    "price": 1723123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1238,
     "server_id": 15,
     "type": "house",
@@ -21320,7 +21296,31 @@
     "status": "Аукцион",
     "x": -2018.54,
     "y": 832.182,
-    "price": 20000000,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1578,
+    "server_id": 15,
+    "type": "house",
+    "name": "Normal House",
+    "owner": "Kizyak_Hellsing",
+    "status": "Аукцион",
+    "x": 2407.67,
+    "y": -1106.97,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1581,
+    "server_id": 15,
+    "type": "house",
+    "name": "<3 Erhakov House <3",
+    "owner": "Kizyak_Hellsing",
+    "status": "Аукцион",
+    "x": 2471.05,
+    "y": -1105.32,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
