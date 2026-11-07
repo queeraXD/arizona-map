@@ -1908,18 +1908,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 159,
-    "server_id": 24,
-    "type": "house",
-    "name": "Glu3er",
-    "owner": "Jace_Cortez",
-    "status": "Занято",
-    "x": 1196.02,
-    "y": -1017.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 160,
     "server_id": 24,
     "type": "house",
@@ -6020,6 +6008,18 @@
     "status": "Занято",
     "x": 1364.67,
     "y": 1896.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 502,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Luminisent_London",
+    "status": "Занято",
+    "x": 1364.3,
+    "y": 1931.64,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18672,6 +18672,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1558,
+    "server_id": 24,
+    "type": "house",
+    "name": "<3 Extazz Corporation <3",
+    "owner": "Roy_Rogers",
+    "status": "Занято",
+    "x": 580.674,
+    "y": -1149.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1559,
     "server_id": 24,
     "type": "house",
@@ -21048,18 +21060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1758,
-    "server_id": 24,
-    "type": "house",
-    "name": "Майнинг ",
-    "owner": "Sonic_Arctic",
-    "status": "Занято",
-    "x": 2601.05,
-    "y": -1207.49,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1759,
     "server_id": 24,
     "type": "house",
@@ -22020,63 +22020,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 502,
+    "id": 159,
     "server_id": 24,
     "type": "house",
-    "name": "Дом",
-    "owner": "Luminisent_London",
+    "name": "Glu3er",
+    "owner": "Jace_Cortez",
     "status": "Аукцион",
-    "x": 1364.3,
-    "y": 1931.64,
-    "price": 500123123,
+    "x": 1196.02,
+    "y": -1017.04,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1558,
+    "id": 1758,
     "server_id": 24,
     "type": "house",
-    "name": "<3 Extazz Corporation <3",
-    "owner": "Roy_Rogers",
+    "name": "Майнинг ",
+    "owner": "Sonic_Arctic",
     "status": "Аукцион",
-    "x": 580.674,
-    "y": -1149.68,
-    "price": 1700000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 102,
-    "server_id": 24,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Pika_Shu",
-    "status": "Аукцион",
-    "x": -1735.96,
-    "y": 897.68,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 266,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Itsuki_Blackseeker",
-    "status": "Аукцион",
-    "x": 947.921,
-    "y": 1719.16,
-    "price": 5123123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 293,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Pika_Shu",
-    "status": "Аукцион",
-    "x": 563.087,
-    "y": 864.122,
-    "price": 10000000000,
+    "x": 2601.05,
+    "y": -1207.49,
+    "price": 450123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22180,7 +22144,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Noko_Rabiz",
+    "owner": "Boris_Simon",
     "status": "Занято",
     "x": -2163.47,
     "y": 129.382,
@@ -22784,6 +22748,18 @@
     "status": "Занято",
     "x": -2242.28,
     "y": -170.898,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 102,
+    "server_id": 24,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Toru_Davenport",
+    "status": "Занято",
+    "x": -1735.96,
+    "y": 897.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25272,6 +25248,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 266,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Itsuki_Blackseeker",
+    "status": "Занято",
+    "x": 947.921,
+    "y": 1719.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 267,
     "server_id": 24,
     "type": "business",
@@ -25292,6 +25280,18 @@
     "status": "Занято",
     "x": -243.623,
     "y": -1364.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 293,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Pika_Shu",
+    "status": "Занято",
+    "x": 563.087,
+    "y": 864.122,
     "price": 0,
     "district": "Сан-Андреас"
   },
