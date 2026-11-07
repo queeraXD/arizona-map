@@ -9196,7 +9196,7 @@
     "server_id": 12,
     "type": "house",
     "name": "WallStreet BTC",
-    "owner": "Marchello_WallStreet",
+    "owner": "Kedroviy_Oreh",
     "status": "Занято",
     "x": -2709.77,
     "y": 803.08,
@@ -22920,18 +22920,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1912,
-    "server_id": 12,
-    "type": "house",
-    "name": "МишелинПилотСпорт4есс",
-    "owner": "Hiroto_Glendale",
-    "status": "Занято",
-    "x": 2643.81,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1913,
     "server_id": 12,
     "type": "house",
@@ -23792,7 +23780,7 @@
     "status": "Аукцион",
     "x": 2065.03,
     "y": 730.408,
-    "price": 20000000,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23804,7 +23792,19 @@
     "status": "Аукцион",
     "x": 1733.37,
     "y": 2814.94,
-    "price": 300000000,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1912,
+    "server_id": 12,
+    "type": "house",
+    "name": "МишелинПилотСпорт4есс",
+    "owner": "Hiroto_Glendale",
+    "status": "Аукцион",
+    "x": 2643.81,
+    "y": 2195.56,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23816,19 +23816,7 @@
     "status": "Аукцион",
     "x": 2591.62,
     "y": 2189.85,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 80,
-    "server_id": 12,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Fyodor_Krylov",
-    "status": "Аукцион",
-    "x": 2638.3,
-    "y": 1671.86,
-    "price": 10000000000,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25544,6 +25532,18 @@
     "status": "Занято",
     "x": 2884.55,
     "y": 2454.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 80,
+    "server_id": 12,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Fyodor_Krylov",
+    "status": "Занято",
+    "x": 2638.3,
+    "y": 1671.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
