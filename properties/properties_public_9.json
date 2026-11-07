@@ -768,18 +768,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 64,
-    "server_id": 9,
-    "type": "house",
-    "name": "Курилка<<Последний Вздох>>",
-    "owner": "Valeron_Hajiyev",
-    "status": "Занято",
-    "x": 2459.5,
-    "y": -1691.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 65,
     "server_id": 9,
     "type": "house",
@@ -3555,7 +3543,7 @@
     "id": 296,
     "server_id": 9,
     "type": "house",
-    "name": "гетто 2",
+    "name": "Дом Тик-Токера dimonfsd<3",
     "owner": "Tyler_Heysam",
     "status": "Занято",
     "x": 2082.69,
@@ -3752,6 +3740,18 @@
     "status": "Занято",
     "x": 1934.05,
     "y": -1071.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 313,
+    "server_id": 9,
+    "type": "house",
+    "name": "гетто",
+    "owner": "Duster_Monopoly",
+    "status": "Занято",
+    "x": 1939.25,
+    "y": -1066.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11112,18 +11112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 928,
-    "server_id": 9,
-    "type": "house",
-    "name": "Reserford",
-    "owner": "Dima_Abdula",
-    "status": "Занято",
-    "x": -1860.83,
-    "y": 1114.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 929,
     "server_id": 9,
     "type": "house",
@@ -17016,18 +17004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1420,
-    "server_id": 9,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tarakan_Prox",
-    "status": "Занято",
-    "x": 1109.03,
-    "y": -1557.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1421,
     "server_id": 9,
     "type": "house",
@@ -18632,18 +18608,6 @@
     "status": "Занято",
     "x": 1863.78,
     "y": -1597.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1555,
-    "server_id": 9,
-    "type": "house",
-    "name": "VEGAS LS",
-    "owner": "Tarakan_Prox",
-    "status": "Занято",
-    "x": 1910.0,
-    "y": -1597.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22932,6 +22896,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1916,
+    "server_id": 9,
+    "type": "house",
+    "name": "Хата гетто у гурама",
+    "owner": "Duster_Monopoly",
+    "status": "Занято",
+    "x": 2487.35,
+    "y": -1391.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1917,
     "server_id": 9,
     "type": "house",
@@ -23904,27 +23880,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 313,
+    "id": 64,
     "server_id": 9,
     "type": "house",
-    "name": "гетто",
-    "owner": "Nikit_Marchenko",
+    "name": "Курилка<<Последний Вздох>>",
+    "owner": "Valeron_Hajiyev",
     "status": "Аукцион",
-    "x": 1939.25,
-    "y": -1066.56,
+    "x": 2459.5,
+    "y": -1691.26,
+    "price": 500000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 928,
+    "server_id": 9,
+    "type": "house",
+    "name": "Reserford",
+    "owner": "Dima_Abdula",
+    "status": "Аукцион",
+    "x": -1860.83,
+    "y": 1114.77,
     "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1916,
+    "id": 1420,
     "server_id": 9,
     "type": "house",
-    "name": "Хата гетто у гурама",
-    "owner": "Duster_Monopoly",
+    "name": "Дом",
+    "owner": "Tarakan_Prox",
     "status": "Аукцион",
-    "x": 2487.35,
-    "y": -1391.71,
-    "price": 3000000000,
+    "x": 1109.03,
+    "y": -1557.39,
+    "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1555,
+    "server_id": 9,
+    "type": "house",
+    "name": "VEGAS LS",
+    "owner": "Tarakan_Prox",
+    "status": "Аукцион",
+    "x": 1910.0,
+    "y": -1597.41,
+    "price": 50000,
     "district": "Сан-Андреас"
   },
   {

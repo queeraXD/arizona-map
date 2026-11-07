@@ -5880,18 +5880,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 490,
-    "server_id": 12,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Techno_Music",
-    "status": "Занято",
-    "x": 2065.03,
-    "y": 730.408,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 491,
     "server_id": 12,
     "type": "house",
@@ -20628,18 +20616,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1719,
-    "server_id": 12,
-    "type": "house",
-    "name": "mdmazing",
-    "owner": "Maksim_Telegin",
-    "status": "Занято",
-    "x": -814.6069,
-    "y": 2752.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1720,
     "server_id": 12,
     "type": "house",
@@ -22296,6 +22272,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1858,
+    "server_id": 12,
+    "type": "house",
+    "name": "Anderson Family",
+    "owner": "Ivan_Pobig",
+    "status": "Занято",
+    "x": 1796.76,
+    "y": 2861.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1859,
     "server_id": 12,
     "type": "house",
@@ -23247,7 +23235,7 @@
     "id": 1938,
     "server_id": 12,
     "type": "house",
-    "name": "#ZaQ/Attwood",
+    "name": "Особа №1",
     "owner": "Zak_Attwood",
     "status": "Занято",
     "x": 88.3722,
@@ -23808,15 +23796,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1858,
+    "id": 490,
     "server_id": 12,
     "type": "house",
-    "name": "Anderson Family",
-    "owner": "Polina_Rokerha",
+    "name": "Дом",
+    "owner": "Techno_Music",
     "status": "Аукцион",
-    "x": 1796.76,
-    "y": 2861.56,
-    "price": 200000000,
+    "x": 2065.03,
+    "y": 730.408,
+    "price": 15123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1719,
+    "server_id": 12,
+    "type": "house",
+    "name": "mdmazing",
+    "owner": "Maksim_Telegin",
+    "status": "Аукцион",
+    "x": -814.6069,
+    "y": 2752.79,
+    "price": 20000000,
     "district": "Сан-Андреас"
   },
   {

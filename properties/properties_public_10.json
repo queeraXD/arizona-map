@@ -4548,30 +4548,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 379,
-    "server_id": 10,
-    "type": "house",
-    "name": "ТАТАТРСТАН",
-    "owner": "Tatarstan_Marlow",
-    "status": "Занято",
-    "x": 2269.37,
-    "y": 110.9479,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 380,
-    "server_id": 10,
-    "type": "house",
-    "name": "ТАТАРСТАН",
-    "owner": "Tatarstan_Marlow",
-    "status": "Занято",
-    "x": 2249.24,
-    "y": 111.165,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 381,
     "server_id": 10,
     "type": "house",
@@ -4712,18 +4688,6 @@
     "status": "Занято",
     "x": 2245.44,
     "y": -122.1439,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 393,
-    "server_id": 10,
-    "type": "house",
-    "name": "ТАТАРСТАН",
-    "owner": "Tatarstan_Marlow",
-    "status": "Занято",
-    "x": 2203.11,
-    "y": -89.2798,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6364,7 +6328,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Дом",
-    "owner": "Shayn_Skins",
+    "owner": "Not_See",
     "status": "Занято",
     "x": 1967.26,
     "y": 2766.48,
@@ -16860,18 +16824,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1406,
-    "server_id": 10,
-    "type": "house",
-    "name": "НОВЫЕ ВИДЕО НА КАНАЛЕ DATAZERO",
-    "owner": "Vakhbet_Abedov",
-    "status": "Занято",
-    "x": -2240.51,
-    "y": 786.1489,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1407,
     "server_id": 10,
     "type": "house",
@@ -17872,7 +17824,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Дом",
-    "owner": "Shayn_Skins",
+    "owner": "Not_See",
     "status": "Занято",
     "x": -2593.42,
     "y": 874.7509,
@@ -23349,6 +23301,54 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 379,
+    "server_id": 10,
+    "type": "house",
+    "name": "ТАТАТРСТАН",
+    "owner": "Tatarstan_Marlow",
+    "status": "Аукцион",
+    "x": 2269.37,
+    "y": 110.9479,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 380,
+    "server_id": 10,
+    "type": "house",
+    "name": "ТАТАРСТАН",
+    "owner": "Tatarstan_Marlow",
+    "status": "Аукцион",
+    "x": 2249.24,
+    "y": 111.165,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 393,
+    "server_id": 10,
+    "type": "house",
+    "name": "ТАТАРСТАН",
+    "owner": "Tatarstan_Marlow",
+    "status": "Аукцион",
+    "x": 2203.11,
+    "y": -89.2798,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1406,
+    "server_id": 10,
+    "type": "house",
+    "name": "НОВЫЕ ВИДЕО НА КАНАЛЕ DATAZERO",
+    "owner": "Vakhbet_Abedov",
+    "status": "Аукцион",
+    "x": -2240.51,
+    "y": 786.1489,
+    "price": 70000000,
     "district": "Сан-Андреас"
   },
   {

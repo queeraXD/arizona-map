@@ -3160,7 +3160,7 @@
     "server_id": 23,
     "type": "house",
     "name": "#EVIL",
-    "owner": "Evil_Lie",
+    "owner": "Tune_Yadets",
     "status": "Занято",
     "x": 235.1909,
     "y": -308.6579,
@@ -3604,7 +3604,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Sklim Monopoly ",
-    "owner": "Fereva_Blackwood",
+    "owner": "Mega_Fame",
     "status": "Занято",
     "x": 2109.6,
     "y": -1081.15,
@@ -4108,7 +4108,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Домик Для своих мечт",
-    "owner": "Stefan_Novaire",
+    "owner": "Loomside_Ones",
     "status": "Занято",
     "x": 705.4279,
     "y": 292.096,
@@ -6060,6 +6060,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 505,
+    "server_id": 23,
+    "type": "house",
+    "name": "Kiki House",
+    "owner": "Mish_Kish",
+    "status": "Занято",
+    "x": 1364.25,
+    "y": 1969.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 506,
     "server_id": 23,
     "type": "house",
@@ -6572,6 +6584,18 @@
     "status": "Занято",
     "x": 570.7319,
     "y": 1174.37,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 549,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Cody_Makavelli",
+    "status": "Занято",
+    "x": 574.0339,
+    "y": 1156.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7348,7 +7372,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Коалиция TankOV",
-    "owner": "Gladiat_Tank",
+    "owner": "Demon_Dipsize",
     "status": "Занято",
     "x": -884.163,
     "y": 1553.25,
@@ -9532,7 +9556,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Идилия Паулы №4",
-    "owner": "Demon_Dipsize",
+    "owner": "Gladiat_Tank",
     "status": "Занято",
     "x": -2368.82,
     "y": 711.7169,
@@ -11919,7 +11943,7 @@
     "id": 997,
     "server_id": 23,
     "type": "house",
-    "name": "Osobov house SF",
+    "name": "Коалиция TankOV",
     "owner": "Gladiat_Tank",
     "status": "Занято",
     "x": -2373.39,
@@ -19212,18 +19236,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1605,
-    "server_id": 23,
-    "type": "house",
-    "name": "Помойка бомжика",
-    "owner": "Tune_Yadets",
-    "status": "Занято",
-    "x": 2537.03,
-    "y": 1242.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1606,
     "server_id": 23,
     "type": "house",
@@ -19692,6 +19704,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1649,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alexandr_Frai",
+    "status": "Занято",
+    "x": 2473.08,
+    "y": -1417.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1650,
     "server_id": 23,
     "type": "house",
@@ -19879,18 +19903,6 @@
     "owner": "Van_Couver",
     "status": "Занято",
     "x": 2476.32,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1666,
-    "server_id": 23,
-    "type": "house",
-    "name": "House harder (Гетто)",
-    "owner": "Nikitka_Litkin",
-    "status": "Занято",
-    "x": 2495.35,
     "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
@@ -21096,30 +21108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 505,
-    "server_id": 23,
-    "type": "house",
-    "name": "Kiki House",
-    "owner": "Mish_Kish",
-    "status": "Аукцион",
-    "x": 1364.25,
-    "y": 1969.15,
-    "price": 350000123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 549,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Barry_DjoBarry",
-    "status": "Аукцион",
-    "x": 574.0339,
-    "y": 1156.0,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 841,
     "server_id": 23,
     "type": "house",
@@ -21129,6 +21117,18 @@
     "x": -2208.08,
     "y": 1108.05,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1605,
+    "server_id": 23,
+    "type": "house",
+    "name": "Помойка бомжика",
+    "owner": "Tune_Yadets",
+    "status": "Аукцион",
+    "x": 2537.03,
+    "y": 1242.37,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21156,15 +21156,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1649,
+    "id": 1666,
     "server_id": 23,
     "type": "house",
-    "name": "Дом",
-    "owner": "Mish_Kish",
+    "name": "House harder (Гетто)",
+    "owner": "Nikitka_Litkin",
     "status": "Аукцион",
-    "x": 2473.08,
-    "y": -1417.44,
-    "price": 200123123,
+    "x": 2495.35,
+    "y": -1391.71,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {

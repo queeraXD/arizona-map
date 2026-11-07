@@ -3216,6 +3216,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 268,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Maison_Makasin",
+    "status": "Занято",
+    "x": 1188.36,
+    "y": -1011.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 269,
     "server_id": 27,
     "type": "house",
@@ -5548,7 +5560,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Дом",
-    "owner": "Trefliks_Gawnuk",
+    "owner": "Dimka_Buryat",
     "status": "Занято",
     "x": 2206.36,
     "y": 656.3729,
@@ -12596,18 +12608,6 @@
     "status": "Занято",
     "x": -2793.14,
     "y": -127.0989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1053,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "BopB3aKoHe",
-    "status": "Занято",
-    "x": -1930.04,
-    "y": 1190.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22203,7 +22203,7 @@
     "id": 1854,
     "server_id": 27,
     "type": "house",
-    "name": "Дом",
+    "name": "Хлам",
     "owner": "Genry_Walter",
     "status": "Занято",
     "x": -2449.8,
@@ -23496,18 +23496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1962,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "BopB3aKoHe",
-    "status": "Занято",
-    "x": 2591.62,
-    "y": 2208.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1963,
     "server_id": 27,
     "type": "house",
@@ -24420,18 +24408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 268,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Adobe_Firefly",
-    "status": "Аукцион",
-    "x": 1188.36,
-    "y": -1011.85,
-    "price": 200000123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 760,
     "server_id": 27,
     "type": "house",
@@ -24440,7 +24416,7 @@
     "status": "Аукцион",
     "x": -2726.67,
     "y": 822.992,
-    "price": 700000000,
+    "price": 550000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24452,7 +24428,19 @@
     "status": "Аукцион",
     "x": -2689.39,
     "y": -152.796,
-    "price": 700000000,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1053,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "BopB3aKoHe",
+    "status": "Аукцион",
+    "x": -1930.04,
+    "y": 1190.53,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24464,7 +24452,19 @@
     "status": "Аукцион",
     "x": 2608.15,
     "y": -1200.06,
-    "price": 700000000,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1962,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "BopB3aKoHe",
+    "status": "Аукцион",
+    "x": 2591.62,
+    "y": 2208.64,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
