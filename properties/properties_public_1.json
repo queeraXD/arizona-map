@@ -2412,6 +2412,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 201,
+    "server_id": 1,
+    "type": "house",
+    "name": "хата 3",
+    "owner": "James_Toodesky",
+    "status": "Занято",
+    "x": 1536.32,
+    "y": -884.789,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 202,
     "server_id": 1,
     "type": "house",
@@ -4548,18 +4560,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 381,
-    "server_id": 1,
-    "type": "house",
-    "name": "Extazy Empire",
-    "owner": "Aleks_Big",
-    "status": "Занято",
-    "x": 2324.6,
-    "y": 116.079,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 382,
     "server_id": 1,
     "type": "house",
@@ -6620,18 +6620,6 @@
     "status": "Занято",
     "x": 378.1589,
     "y": 1123.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 554,
-    "server_id": 1,
-    "type": "house",
-    "name": "No_name062",
-    "owner": "Arkadiy_Victorovich",
-    "status": "Занято",
-    "x": 352.9729,
-    "y": 1099.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16536,6 +16524,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1381,
+    "server_id": 1,
+    "type": "house",
+    "name": "Grek",
+    "owner": "Chico_Casino",
+    "status": "Занято",
+    "x": 2700.21,
+    "y": -1220.46,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1382,
     "server_id": 1,
     "type": "house",
@@ -21760,7 +21760,7 @@
     "server_id": 1,
     "type": "house",
     "name": "Хатка Какаша енд Гони",
-    "owner": "Nyrlan_Gribogye",
+    "owner": "Mavrik_Doserovich",
     "status": "Занято",
     "x": 2437.23,
     "y": 1211.04,
@@ -24132,18 +24132,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 201,
-    "server_id": 1,
-    "type": "house",
-    "name": "Логово Кладменов",
-    "owner": "Link_Sociative",
-    "status": "Аукцион",
-    "x": 1536.32,
-    "y": -884.789,
-    "price": 3500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 254,
     "server_id": 1,
     "type": "house",
@@ -24152,19 +24140,43 @@
     "status": "Аукцион",
     "x": 2373.96,
     "y": 71.0979,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 381,
+    "server_id": 1,
+    "type": "house",
+    "name": "Extazy Empire",
+    "owner": "Aleks_Big",
+    "status": "Аукцион",
+    "x": 2324.6,
+    "y": 116.079,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 554,
+    "server_id": 1,
+    "type": "house",
+    "name": "No_name062",
+    "owner": "Arkadiy_Victorovich",
+    "status": "Аукцион",
+    "x": 352.9729,
+    "y": 1099.58,
     "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1381,
+    "id": 185,
     "server_id": 1,
-    "type": "house",
-    "name": "Grek",
-    "owner": "Mini_Monimo",
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Fentoms_Tempest",
     "status": "Аукцион",
-    "x": 2700.21,
-    "y": -1220.46,
-    "price": 10000000,
+    "x": 2599.42,
+    "y": 1060.38,
+    "price": 160000,
     "district": "Сан-Андреас"
   },
   {
@@ -24856,7 +24868,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Cameron_Wright",
+    "owner": "Fentoms_Tempest",
     "status": "Занято",
     "x": -227.385,
     "y": 2711.95,
@@ -25864,7 +25876,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Cameron_Wright",
+    "owner": "Fentoms_Tempest",
     "status": "Занято",
     "x": 172.348,
     "y": 1177.63,
@@ -26680,7 +26692,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Отель",
-    "owner": "Cameron_Wright",
+    "owner": "Fentoms_Tempest",
     "status": "Занято",
     "x": 1785.504,
     "y": -1394.201,
@@ -26944,7 +26956,7 @@
     "server_id": 1,
     "type": "business",
     "name": "Отель",
-    "owner": "Cameron_Wright",
+    "owner": "Fentoms_Tempest",
     "status": "Занято",
     "x": -172.597,
     "y": 1106.0,
@@ -27020,18 +27032,6 @@
     "status": "Занято",
     "x": 2351.41,
     "y": 2405.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 185,
-    "server_id": 1,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Fentoms_Tempest",
-    "status": "Занято",
-    "x": 2599.42,
-    "y": 1060.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
