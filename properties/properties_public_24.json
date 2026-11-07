@@ -5964,18 +5964,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 497,
-    "server_id": 24,
-    "type": "house",
-    "name": "Сника",
-    "owner": "Snickers_Mef",
-    "status": "Занято",
-    "x": 1439.79,
-    "y": 1951.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 498,
     "server_id": 24,
     "type": "house",
@@ -15120,18 +15108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1261,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом Бриджа",
-    "owner": "Jill_Extazz",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 632.4099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1262,
     "server_id": 24,
     "type": "house",
@@ -17572,7 +17548,7 @@
     "server_id": 24,
     "type": "house",
     "name": "  12",
-    "owner": "Eldarhan_Pupkovich",
+    "owner": "Viper_Darkness",
     "status": "Занято",
     "x": 2532.24,
     "y": 750.0969,
@@ -19228,7 +19204,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Дом",
-    "owner": "Tenzel_Outlaw",
+    "owner": "Dota_Bot",
     "status": "Занято",
     "x": 1111.5,
     "y": -976.4459,
@@ -19360,7 +19336,7 @@
     "server_id": 24,
     "type": "house",
     "name": "$ Outlaw Monopoly Cosmo $",
-    "owner": "Tenzel_Outlaw",
+    "owner": "Dota_Bot",
     "status": "Занято",
     "x": -2852.63,
     "y": -2329.54,
@@ -19760,18 +19736,6 @@
     "status": "Занято",
     "x": 2476.27,
     "y": -1376.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1649,
-    "server_id": 24,
-    "type": "house",
-    "name": "8 lvl LS GETTO ",
-    "owner": "Egor_Kirillov",
-    "status": "Занято",
-    "x": 2468.41,
-    "y": -1366.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22032,6 +21996,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 497,
+    "server_id": 24,
+    "type": "house",
+    "name": "Сника",
+    "owner": "Snickers_Mef",
+    "status": "Аукцион",
+    "x": 1439.79,
+    "y": 1951.65,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1261,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом Бриджа",
+    "owner": "Jill_Extazz",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 632.4099,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1507,
     "server_id": 24,
     "type": "house",
@@ -22044,6 +22032,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1649,
+    "server_id": 24,
+    "type": "house",
+    "name": "8 lvl LS GETTO ",
+    "owner": "Egor_Kirillov",
+    "status": "Аукцион",
+    "x": 2468.41,
+    "y": -1366.45,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 293,
     "server_id": 24,
     "type": "business",
@@ -22052,19 +22052,7 @@
     "status": "Аукцион",
     "x": 563.087,
     "y": 864.122,
-    "price": 7000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 296,
-    "server_id": 24,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Feldan_Lizalov",
-    "status": "Аукцион",
-    "x": 2366.7,
-    "y": 2071.11,
-    "price": 5000000000,
+    "price": 6000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24140,6 +24128,18 @@
     "status": "Занято",
     "x": 2392.56,
     "y": 2042.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 296,
+    "server_id": 24,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Mishka_Deeplace",
+    "status": "Занято",
+    "x": 2366.7,
+    "y": 2071.11,
     "price": 0,
     "district": "Сан-Андреас"
   },

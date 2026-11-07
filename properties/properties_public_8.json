@@ -6648,18 +6648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 556,
-    "server_id": 8,
-    "type": "house",
-    "name": "Трэп хата Поднебесье",
-    "owner": "Emissary_Stardust",
-    "status": "Занято",
-    "x": 354.923,
-    "y": 1164.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 557,
     "server_id": 8,
     "type": "house",
@@ -6692,6 +6680,18 @@
     "status": "Занято",
     "x": 707.2949,
     "y": 1284.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 560,
+    "server_id": 8,
+    "type": "house",
+    "name": "Finish&Fanat",
+    "owner": "Fanat_Emmersonov",
+    "status": "Занято",
+    "x": 222.9839,
+    "y": 1109.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8752,7 +8752,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Желище",
-    "owner": "Unmarked_Cassette",
+    "owner": "Reyvex_Schweden",
     "status": "Занято",
     "x": -2904.9,
     "y": 1178.92,
@@ -12036,10 +12036,22 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1008,
+    "server_id": 8,
+    "type": "house",
+    "name": "Гараж лимонный",
+    "owner": "Okinawa_Satan",
+    "status": "Занято",
+    "x": -2412.85,
+    "y": 920.864,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1009,
     "server_id": 8,
     "type": "house",
-    "name": "гараж, майнинг",
+    "name": "Сатанизм",
     "owner": "Okinawa_Satan",
     "status": "Занято",
     "x": -2431.21,
@@ -12152,6 +12164,18 @@
     "status": "Занято",
     "x": -2511.16,
     "y": 943.0679,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1019,
+    "server_id": 8,
+    "type": "house",
+    "name": "ЕГО ИМЯ РОБЕРТ ПОЛСОН",
+    "owner": "Richord_Wolf",
+    "status": "Занято",
+    "x": -2541.67,
+    "y": 967.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13420,7 +13444,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Желище по соседству",
-    "owner": "Unmarked_Cassette",
+    "owner": "Reyvex_Schweden",
     "status": "Занято",
     "x": -2905.01,
     "y": 1164.84,
@@ -17292,6 +17316,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1448,
+    "server_id": 8,
+    "type": "house",
+    "name": "Ghostmare house",
+    "owner": "Vex_Ghostmare",
+    "status": "Занято",
+    "x": 2775.88,
+    "y": -1245.37,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1449,
     "server_id": 8,
     "type": "house",
@@ -17996,6 +18032,18 @@
     "status": "Занято",
     "x": 2663.18,
     "y": -1207.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1508,
+    "server_id": 8,
+    "type": "house",
+    "name": "Finish&Fanat",
+    "owner": "Finish_Quantum",
+    "status": "Занято",
+    "x": 2663.18,
+    "y": -1216.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24460,7 +24508,7 @@
     "server_id": 8,
     "type": "house",
     "name": "притон",
-    "owner": "Kyle_Houmiex",
+    "owner": "Benjamin_Monopolli",
     "status": "Занято",
     "x": 2594.5,
     "y": -1207.54,
@@ -24608,6 +24656,18 @@
     "status": "Занято",
     "x": 2615.11,
     "y": -1233.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2062,
+    "server_id": 8,
+    "type": "house",
+    "name": "Ghostmare gang",
+    "owner": "Vitalik_Scaletto",
+    "status": "Занято",
+    "x": 2615.11,
+    "y": -1229.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25692,15 +25752,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 560,
+    "id": 556,
     "server_id": 8,
     "type": "house",
-    "name": "гей клуб",
-    "owner": "Dirty_Stu",
+    "name": "Трэп хата Поднебесье",
+    "owner": "Ophiterian_Cryolith",
     "status": "Аукцион",
-    "x": 222.9839,
-    "y": 1109.19,
-    "price": 100123213,
+    "x": 354.923,
+    "y": 1164.67,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25716,54 +25776,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1008,
-    "server_id": 8,
-    "type": "house",
-    "name": "Гараж лимонный",
-    "owner": "Orochimaru_Mikami",
-    "status": "Аукцион",
-    "x": -2412.85,
-    "y": 920.864,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1019,
-    "server_id": 8,
-    "type": "house",
-    "name": "ЕГО ИМЯ РОБЕРТ ПОЛСОН",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -2541.67,
-    "y": 967.65,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1448,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дисневское Жилище",
-    "owner": "Dirty_Stu",
-    "status": "Аукцион",
-    "x": 2775.88,
-    "y": -1245.37,
-    "price": 100123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1508,
-    "server_id": 8,
-    "type": "house",
-    "name": "домик",
-    "owner": "Dirty_Stu",
-    "status": "Аукцион",
-    "x": 2663.18,
-    "y": -1216.34,
-    "price": 100123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2043,
     "server_id": 8,
     "type": "house",
@@ -25776,30 +25788,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2062,
-    "server_id": 8,
-    "type": "house",
-    "name": "Ghostmare gang",
-    "owner": "Dirty_Stu",
-    "status": "Аукцион",
-    "x": 2615.11,
-    "y": -1229.32,
-    "price": 100123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 120,
-    "server_id": 8,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Joni_Disney",
-    "status": "Аукцион",
-    "x": -2718.47,
-    "y": 50.452,
-    "price": 249999,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 146,
     "server_id": 8,
     "type": "business",
@@ -25809,18 +25797,6 @@
     "x": 1785.504,
     "y": -1394.201,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 312,
-    "server_id": 8,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Orochimaru_Mikami",
-    "status": "Аукцион",
-    "x": 641.4393,
-    "y": -494.824,
-    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26780,6 +26756,18 @@
     "status": "Занято",
     "x": -1694.58,
     "y": 951.914,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 120,
+    "server_id": 8,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Joni_Disney",
+    "status": "Занято",
+    "x": -2718.47,
+    "y": 50.452,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -29588,6 +29576,18 @@
     "status": "Занято",
     "x": -20.8111,
     "y": -1548.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 312,
+    "server_id": 8,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Orochimaru_Mikami",
+    "status": "Занято",
+    "x": 641.4393,
+    "y": -494.824,
     "price": 0,
     "district": "Сан-Андреас"
   },
