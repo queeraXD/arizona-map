@@ -3555,7 +3555,7 @@
     "id": 296,
     "server_id": 13,
     "type": "house",
-    "name": "REXZ",
+    "name": "Домик Альфредо",
     "owner": "Alfredo_Viceman",
     "status": "Занято",
     "x": 2082.69,
@@ -3584,18 +3584,6 @@
     "status": "Занято",
     "x": 2092.26,
     "y": -1067.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 299,
-    "server_id": 13,
-    "type": "house",
-    "name": "Blackwood Empire<3",
-    "owner": "Hed_Hood",
-    "status": "Занято",
-    "x": 2101.94,
-    "y": -1075.22,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13020,18 +13008,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1086,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dimka_Vjopekartinka",
-    "status": "Занято",
-    "x": 1781.15,
-    "y": 2747.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1087,
     "server_id": 13,
     "type": "house",
@@ -17376,18 +17352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1449,
-    "server_id": 13,
-    "type": "house",
-    "name": "Blackwood Empire<3",
-    "owner": "Eco_Blackwood",
-    "status": "Занято",
-    "x": 2809.53,
-    "y": -1324.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1450,
     "server_id": 13,
     "type": "house",
@@ -17396,42 +17360,6 @@
     "status": "Занято",
     "x": 2782.15,
     "y": -1306.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1451,
-    "server_id": 13,
-    "type": "house",
-    "name": "Blackwood Empire<3",
-    "owner": "Eco_Blackwood",
-    "status": "Занято",
-    "x": 2809.53,
-    "y": -1302.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1452,
-    "server_id": 13,
-    "type": "house",
-    "name": "Blackwood Empire<3",
-    "owner": "Eco_Blackwood",
-    "status": "Занято",
-    "x": 2782.16,
-    "y": -1281.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1453,
-    "server_id": 13,
-    "type": "house",
-    "name": "Blackwood Empire<3",
-    "owner": "Eco_Blackwood",
-    "status": "Занято",
-    "x": 2809.53,
-    "y": -1280.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18015,8 +17943,8 @@
     "id": 1502,
     "server_id": 13,
     "type": "house",
-    "name": "tik tok spuxx samp",
-    "owner": "Alexander_Gang",
+    "name": "Домик Альфредо",
+    "owner": "Alfredo_Viceman",
     "status": "Занято",
     "x": 2147.77,
     "y": -1366.12,
@@ -21976,7 +21904,7 @@
     "server_id": 13,
     "type": "house",
     "name": "хата попугая",
-    "owner": "Federico_Fellinnii",
+    "owner": "Shadan_Prince",
     "status": "Занято",
     "x": 1763.11,
     "y": 2871.21,
@@ -23268,6 +23196,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 299,
+    "server_id": 13,
+    "type": "house",
+    "name": "Blackwood Empire<3",
+    "owner": "Hed_Hood",
+    "status": "Аукцион",
+    "x": 2101.94,
+    "y": -1075.22,
+    "price": 9000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 982,
     "server_id": 13,
     "type": "house",
@@ -23276,7 +23216,67 @@
     "status": "Аукцион",
     "x": -2286.53,
     "y": 796.7609,
-    "price": 750000000,
+    "price": 730000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1086,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dimka_Vjopekartinka",
+    "status": "Аукцион",
+    "x": 1781.15,
+    "y": 2747.27,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1449,
+    "server_id": 13,
+    "type": "house",
+    "name": "Blackwood Empire<3",
+    "owner": "Eco_Blackwood",
+    "status": "Аукцион",
+    "x": 2809.53,
+    "y": -1324.81,
+    "price": 16000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1451,
+    "server_id": 13,
+    "type": "house",
+    "name": "Blackwood Empire<3",
+    "owner": "Eco_Blackwood",
+    "status": "Аукцион",
+    "x": 2809.53,
+    "y": -1302.98,
+    "price": 16000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1452,
+    "server_id": 13,
+    "type": "house",
+    "name": "Blackwood Empire<3",
+    "owner": "Eco_Blackwood",
+    "status": "Аукцион",
+    "x": 2782.16,
+    "y": -1281.25,
+    "price": 16000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1453,
+    "server_id": 13,
+    "type": "house",
+    "name": "Blackwood Empire<3",
+    "owner": "Eco_Blackwood",
+    "status": "Аукцион",
+    "x": 2809.53,
+    "y": -1280.85,
+    "price": 16000,
     "district": "Сан-Андреас"
   },
   {

@@ -2523,8 +2523,8 @@
     "id": 210,
     "server_id": 27,
     "type": "house",
-    "name": "anime girl",
-    "owner": "Shrek_Bop",
+    "name": "By Poco",
+    "owner": "Poco_Yo",
     "status": "Занято",
     "x": 1112.41,
     "y": -742.067,
@@ -10672,7 +10672,7 @@
     "server_id": 27,
     "type": "house",
     "name": "qqq",
-    "owner": "Connor_Morris",
+    "owner": "Cult_Necromancy",
     "status": "Занято",
     "x": -2101.45,
     "y": -2532.4,
@@ -10712,6 +10712,18 @@
     "status": "Занято",
     "x": -2058.54,
     "y": -2503.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 893,
+    "server_id": 27,
+    "type": "house",
+    "name": "Oxycodon",
+    "owner": "Cynep_Cyc",
+    "status": "Занято",
+    "x": -2075.21,
+    "y": -2526.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20124,6 +20136,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1678,
+    "server_id": 27,
+    "type": "house",
+    "name": "Bitcoin Monopoly",
+    "owner": "Code_Io",
+    "status": "Занято",
+    "x": 1414.48,
+    "y": 2003.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1679,
     "server_id": 27,
     "type": "house",
@@ -22500,18 +22524,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1878,
-    "server_id": 27,
-    "type": "house",
-    "name": "Skromniy home ",
-    "owner": "ZalyTal_Limon",
-    "status": "Занято",
-    "x": -2172.74,
-    "y": 1163.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1879,
     "server_id": 27,
     "type": "house",
@@ -23440,7 +23452,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Дом Николаса 8",
-    "owner": "Cali_Fornia",
+    "owner": "Iflexick_Doc",
     "status": "Занято",
     "x": 2601.65,
     "y": 2203.96,
@@ -23464,7 +23476,7 @@
     "server_id": 27,
     "type": "house",
     "name": "magic city",
-    "owner": "Cali_Fornia",
+    "owner": "Nelda_BumbleBee",
     "status": "Занято",
     "x": 2601.64,
     "y": 2185.44,
@@ -23476,7 +23488,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Дом Николаса 9",
-    "owner": "Cali_Fornia",
+    "owner": "Techno_Music",
     "status": "Занято",
     "x": 2591.62,
     "y": 2216.05,
@@ -24408,30 +24420,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 893,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -2075.21,
-    "y": -2526.46,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1678,
-    "server_id": 27,
-    "type": "house",
-    "name": "Bitcoin Monopoly",
-    "owner": "Kot_Bopp",
-    "status": "Аукцион",
-    "x": 1414.48,
-    "y": 2003.91,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1737,
     "server_id": 27,
     "type": "house",
@@ -24444,6 +24432,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1878,
+    "server_id": 27,
+    "type": "house",
+    "name": "Skromniy home ",
+    "owner": "ZalyTal_Limon",
+    "status": "Аукцион",
+    "x": -2172.74,
+    "y": 1163.75,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1918,
     "server_id": 27,
     "type": "house",
@@ -24452,7 +24452,7 @@
     "status": "Аукцион",
     "x": 1855.38,
     "y": 2765.75,
-    "price": 400000000,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24464,7 +24464,19 @@
     "status": "Аукцион",
     "x": 2608.42,
     "y": 2195.56,
-    "price": 555000000,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 306,
+    "server_id": 27,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "bossov",
+    "status": "Аукцион",
+    "x": 2042.819,
+    "y": 2633.449,
+    "price": 7500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -28184,18 +28196,6 @@
     "status": "Занято",
     "x": 2837.842,
     "y": 1392.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 306,
-    "server_id": 27,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "bossov",
-    "status": "Занято",
-    "x": 2042.819,
-    "y": 2633.449,
     "price": 0,
     "district": "Сан-Андреас"
   },
