@@ -2944,7 +2944,7 @@
     "server_id": 9,
     "type": "house",
     "name": "Green House",
-    "owner": "Shuna_Seatto",
+    "owner": "Obscured_ByRain",
     "status": "Занято",
     "x": 398.14,
     "y": -1271.38,
@@ -22347,7 +22347,7 @@
     "id": 1865,
     "server_id": 9,
     "type": "house",
-    "name": "Дом",
+    "name": "Хата ",
     "owner": "Sam_Anos",
     "status": "Занято",
     "x": -789.898,
@@ -22940,6 +22940,18 @@
     "status": "Занято",
     "x": 2487.28,
     "y": -1398.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1916,
+    "server_id": 9,
+    "type": "house",
+    "name": "Хата гетто у гурама",
+    "owner": "Duster_Monopoly",
+    "status": "Занято",
+    "x": 2487.35,
+    "y": -1391.71,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23916,15 +23928,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1916,
+    "id": 8,
     "server_id": 9,
-    "type": "house",
-    "name": "Хата гетто у гурама",
-    "owner": "Duster_Monopoly",
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Stefanio_Yosioka",
     "status": "Аукцион",
-    "x": 2487.35,
-    "y": -1391.71,
-    "price": 2500000000,
+    "x": 2095.76,
+    "y": -1211.73,
+    "price": 396301,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 27,
+    "server_id": 9,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Stefanio_Yosioka",
+    "status": "Аукцион",
+    "x": 31.576,
+    "y": -2638.06,
+    "price": 396301,
     "district": "Сан-Андреас"
   },
   {
@@ -24368,18 +24392,6 @@
     "status": "Занято",
     "x": 1315.5,
     "y": -898.048,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 8,
-    "server_id": 9,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Stefanio_Yosioka",
-    "status": "Занято",
-    "x": 2095.76,
-    "y": -1211.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25176,18 +25188,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
-    "server_id": 9,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Stefanio_Yosioka",
-    "status": "Занято",
-    "x": 31.576,
-    "y": -2638.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 28,
     "server_id": 9,
     "type": "business",
@@ -25720,7 +25720,7 @@
     "server_id": 9,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Artur_Fujikawa",
+    "owner": "Dolietawsch_Division",
     "status": "Занято",
     "x": -2335.81,
     "y": -166.667,

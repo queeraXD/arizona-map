@@ -1440,18 +1440,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 120,
-    "server_id": 19,
-    "type": "house",
-    "name": ":ag:",
-    "owner": "Scott_Litvinenko",
-    "status": "Занято",
-    "x": 1872.25,
-    "y": -1911.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 121,
     "server_id": 19,
     "type": "house",
@@ -4947,7 +4935,7 @@
     "id": 412,
     "server_id": 19,
     "type": "house",
-    "name": "westmoreland ",
+    "name": "Prince",
     "owner": "Cloude_Prince",
     "status": "Занято",
     "x": 1435.43,
@@ -4995,7 +4983,7 @@
     "id": 416,
     "server_id": 19,
     "type": "house",
-    "name": "westmoreland ",
+    "name": "Prince",
     "owner": "Cloude_Prince",
     "status": "Занято",
     "x": 1303.1,
@@ -5379,7 +5367,7 @@
     "id": 448,
     "server_id": 19,
     "type": "house",
-    "name": "Prince Monopoly",
+    "name": "Prince",
     "owner": "Cloude_Prince",
     "status": "Занято",
     "x": 2551.22,
@@ -8991,8 +8979,8 @@
     "id": 750,
     "server_id": 19,
     "type": "house",
-    "name": "Дом",
-    "owner": "Scott_Litvinenko",
+    "name": "Prince",
+    "owner": "Cloude_Prince",
     "status": "Занято",
     "x": -2652.27,
     "y": 841.7739,
@@ -9600,6 +9588,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 801,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Leveresize_Saturday",
+    "status": "Занято",
+    "x": -2340.03,
+    "y": 820.0209,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 802,
     "server_id": 19,
     "type": "house",
@@ -9872,18 +9872,6 @@
     "status": "Занято",
     "x": -2689.37,
     "y": -114.261,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 825,
-    "server_id": 19,
-    "type": "house",
-    "name": "40 squad",
-    "owner": "Black_Selection",
-    "status": "Занято",
-    "x": -2689.47,
-    "y": -101.777,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15348,18 +15336,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1282,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Black_Selection",
-    "status": "Занято",
-    "x": -2620.77,
-    "y": -185.8979,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1283,
     "server_id": 19,
     "type": "house",
@@ -19620,6 +19596,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1638,
+    "server_id": 19,
+    "type": "house",
+    "name": "arbuz",
+    "owner": "Irl_Frost",
+    "status": "Занято",
+    "x": 1799.55,
+    "y": 2814.96,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1639,
     "server_id": 19,
     "type": "house",
@@ -22020,6 +22008,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 120,
+    "server_id": 19,
+    "type": "house",
+    "name": ":ag:",
+    "owner": "Scott_Litvinenko",
+    "status": "Аукцион",
+    "x": 1872.25,
+    "y": -1911.91,
+    "price": 1500000123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 747,
     "server_id": 19,
     "type": "house",
@@ -22032,39 +22032,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 801,
+    "id": 825,
+    "server_id": 19,
+    "type": "house",
+    "name": "40 squad",
+    "owner": "Artem_Garbushkin",
+    "status": "Аукцион",
+    "x": -2689.47,
+    "y": -101.777,
+    "price": 80000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1282,
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "crimson",
+    "owner": "Artem_Garbushkin",
     "status": "Аукцион",
-    "x": -2340.03,
-    "y": 820.0209,
-    "price": 20000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1638,
-    "server_id": 19,
-    "type": "house",
-    "name": "arbuz",
-    "owner": "Irl_Frost",
-    "status": "Аукцион",
-    "x": 1799.55,
-    "y": 2814.96,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 158,
-    "server_id": 19,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Airtouch_Oerokhalifa",
-    "status": "Аукцион",
-    "x": 2272.941,
-    "y": -1795.335,
-    "price": 10000000000,
+    "x": -2620.77,
+    "y": -185.8979,
+    "price": 80000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22852,7 +22840,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Candy_Piana",
+    "owner": "NeLars_King",
     "status": "Занято",
     "x": 1136.02,
     "y": -897.176,
@@ -23044,7 +23032,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Airtouch_Oerokhalifa",
+    "owner": "Antistunov_Eclipse",
     "status": "Занято",
     "x": -2241.75,
     "y": 123.041,
@@ -23800,7 +23788,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Rhiannon_Refuand",
+    "owner": "Maksim_Cherry",
     "status": "Занято",
     "x": 2101.89,
     "y": 2228.81,
@@ -24720,6 +24708,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 158,
+    "server_id": 19,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Freeze_Farm",
+    "status": "Занято",
+    "x": 2272.941,
+    "y": -1795.335,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 268,
     "server_id": 19,
     "type": "business",
@@ -25444,7 +25444,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Школа танцев",
-    "owner": "Airtouch_Oerokhalifa",
+    "owner": "Antistunov_Eclipse",
     "status": "Занято",
     "x": 2394.66,
     "y": 2062.55,
@@ -25468,7 +25468,7 @@
     "server_id": 19,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "Kratos_Legacy",
+    "owner": "Sasha_Roblox",
     "status": "Занято",
     "x": 2619.14,
     "y": 472.605,
