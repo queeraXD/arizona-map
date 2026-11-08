@@ -7563,7 +7563,7 @@
     "id": 630,
     "server_id": 27,
     "type": "house",
-    "name": "$ SWAGA $",
+    "name": "[$] SWAGA [$]",
     "owner": "Sky_WhyWalker",
     "status": "Занято",
     "x": -258.752,
@@ -11216,6 +11216,18 @@
     "status": "Занято",
     "x": -2126.66,
     "y": 755.6099,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 936,
+    "server_id": 27,
+    "type": "house",
+    "name": "Хата Пинчера",
+    "owner": "Pincher_DeLorean",
+    "status": "Занято",
+    "x": -2127.05,
+    "y": 773.752,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15228,6 +15240,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1271,
+    "server_id": 27,
+    "type": "house",
+    "name": "only love C.C",
+    "owner": "Yoshio_Kodama",
+    "status": "Занято",
+    "x": -2690.48,
+    "y": 123.691,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1272,
     "server_id": 27,
     "type": "house",
@@ -18891,7 +18915,7 @@
     "id": 1577,
     "server_id": 27,
     "type": "house",
-    "name": "Doc fam",
+    "name": "12390",
     "owner": "Dante_Doc",
     "status": "Занято",
     "x": 952.544,
@@ -20096,18 +20120,6 @@
     "status": "Занято",
     "x": 1408.3,
     "y": 1996.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1678,
-    "server_id": 27,
-    "type": "house",
-    "name": "Bitcoin Monopoly",
-    "owner": "Kot_Bopp",
-    "status": "Занято",
-    "x": 1414.48,
-    "y": 2003.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22980,18 +22992,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1918,
-    "server_id": 27,
-    "type": "house",
-    "name": "Фармилка №1",
-    "owner": "Kot_Bopp",
-    "status": "Занято",
-    "x": 1855.38,
-    "y": 2765.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1919,
     "server_id": 27,
     "type": "house",
@@ -23288,18 +23288,6 @@
     "status": "Занято",
     "x": -789.7039,
     "y": 2747.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1944,
-    "server_id": 27,
-    "type": "house",
-    "name": "bad",
-    "owner": "Kot_Bopp",
-    "status": "Занято",
-    "x": 2608.42,
-    "y": 2195.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24444,27 +24432,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 936,
+    "id": 1678,
     "server_id": 27,
     "type": "house",
-    "name": "LEGACY FAMILY",
-    "owner": "Matthew_Dodger",
+    "name": "Bitcoin Monopoly",
+    "owner": "Kot_Bopp",
     "status": "Аукцион",
-    "x": -2127.05,
-    "y": 773.752,
-    "price": 530000000,
+    "x": 1414.48,
+    "y": 2003.91,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1271,
+    "id": 1918,
     "server_id": 27,
     "type": "house",
-    "name": "only love C.C",
-    "owner": "Yoshio_Kodama",
+    "name": "Фармилка №1",
+    "owner": "Kot_Bopp",
     "status": "Аукцион",
-    "x": -2690.48,
-    "y": 123.691,
-    "price": 666666666,
+    "x": 1855.38,
+    "y": 2765.75,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1944,
+    "server_id": 27,
+    "type": "house",
+    "name": "bad",
+    "owner": "Kot_Bopp",
+    "status": "Аукцион",
+    "x": 2608.42,
+    "y": 2195.56,
+    "price": 556000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 27,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Autumn_Affection",
+    "status": "Аукцион",
+    "x": 2351.41,
+    "y": 2405.59,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 197,
+    "server_id": 27,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "BopB3aKoHe",
+    "status": "Аукцион",
+    "x": -2400.04,
+    "y": 337.43,
+    "price": 6500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27324,18 +27348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 184,
-    "server_id": 27,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Autumn_Affection",
-    "status": "Занято",
-    "x": 2351.41,
-    "y": 2405.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 185,
     "server_id": 27,
     "type": "business",
@@ -27476,18 +27488,6 @@
     "status": "Занято",
     "x": -2681.61,
     "y": 583.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 197,
-    "server_id": 27,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "BopB3aKoHe",
-    "status": "Занято",
-    "x": -2400.04,
-    "y": 337.43,
     "price": 0,
     "district": "Сан-Андреас"
   },

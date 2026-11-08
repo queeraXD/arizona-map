@@ -3000,6 +3000,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 251,
+    "server_id": 26,
+    "type": "house",
+    "name": "2ww",
+    "owner": "Igor_Prokuratura",
+    "status": "Занято",
+    "x": 2480.55,
+    "y": 126.995,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 252,
     "server_id": 26,
     "type": "house",
@@ -5840,6 +5852,18 @@
     "status": "Занято",
     "x": 2071.46,
     "y": 776.244,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 490,
+    "server_id": 26,
+    "type": "house",
+    "name": "noah",
+    "owner": "Wuddy_Overprice",
+    "status": "Занято",
+    "x": 2065.03,
+    "y": 730.408,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9140,6 +9164,18 @@
     "status": "Занято",
     "x": -2660.11,
     "y": 803.0839,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 766,
+    "server_id": 26,
+    "type": "house",
+    "name": "База NATO",
+    "owner": "Yuki_Ximura",
+    "status": "Занято",
+    "x": -2687.81,
+    "y": 803.0819,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13256,18 +13292,6 @@
     "status": "Занято",
     "x": 1802.85,
     "y": -1300.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1114,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vanek_Maksimov",
-    "status": "Занято",
-    "x": 1817.63,
-    "y": -1276.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20904,18 +20928,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1751,
-    "server_id": 26,
-    "type": "house",
-    "name": "склад матов",
-    "owner": "Sport_Smen",
-    "status": "Занято",
-    "x": 2617.76,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1752,
     "server_id": 26,
     "type": "house",
@@ -25104,18 +25116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 251,
-    "server_id": 26,
-    "type": "house",
-    "name": "2ww",
-    "owner": "Phantom_Aufpz",
-    "status": "Аукцион",
-    "x": 2480.55,
-    "y": 126.995,
-    "price": 550000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 257,
     "server_id": 26,
     "type": "house",
@@ -25128,30 +25128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 490,
-    "server_id": 26,
-    "type": "house",
-    "name": "noah",
-    "owner": "Wuddy_Overprice",
-    "status": "Аукцион",
-    "x": 2065.03,
-    "y": 730.408,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 766,
-    "server_id": 26,
-    "type": "house",
-    "name": "База NATO",
-    "owner": "Yuki_Ximura",
-    "status": "Аукцион",
-    "x": -2687.81,
-    "y": 803.0819,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 788,
     "server_id": 26,
     "type": "house",
@@ -25160,7 +25136,7 @@
     "status": "Аукцион",
     "x": -2551.89,
     "y": 920.38,
-    "price": 50123123,
+    "price": 50213123,
     "district": "Сан-Андреас"
   },
   {
@@ -25185,6 +25161,54 @@
     "x": -2126.75,
     "y": 832.6989,
     "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1114,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1817.63,
+    "y": -1276.39,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1751,
+    "server_id": 26,
+    "type": "house",
+    "name": "склад матов",
+    "owner": "Sport_Smen",
+    "status": "Аукцион",
+    "x": 2617.76,
+    "y": 2195.56,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 27,
+    "server_id": 26,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Ilya_Andreev",
+    "status": "Аукцион",
+    "x": 31.576,
+    "y": -2638.06,
+    "price": 250000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 56,
+    "server_id": 26,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ilya_Andreev",
+    "status": "Аукцион",
+    "x": 1671.52,
+    "y": 1814.33,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {
@@ -26436,18 +26460,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
-    "server_id": 26,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Ilya_Andreev",
-    "status": "Занято",
-    "x": 31.576,
-    "y": -2638.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 28,
     "server_id": 26,
     "type": "business",
@@ -27392,18 +27404,6 @@
     "status": "Занято",
     "x": 2262.75,
     "y": 2036.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 56,
-    "server_id": 26,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ilya_Andreev",
-    "status": "Занято",
-    "x": 1671.52,
-    "y": 1814.33,
     "price": 0,
     "district": "Сан-Андреас"
   },

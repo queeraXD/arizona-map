@@ -6552,18 +6552,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 546,
-    "server_id": 31,
-    "type": "house",
-    "name": "~~~VapeShop~~~",
-    "owner": "Down_Crew",
-    "status": "Занято",
-    "x": -18.3805,
-    "y": 1115.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 547,
     "server_id": 31,
     "type": "house",
@@ -7496,18 +7484,6 @@
     "status": "Занято",
     "x": 1897.36,
     "y": 78.9496,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 625,
-    "server_id": 31,
-    "type": "house",
-    "name": "tg @fabensae /ds @n41ty",
-    "owner": "Yanis_Lulisse",
-    "status": "Занято",
-    "x": -29.9144,
-    "y": 1364.0,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19848,6 +19824,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1656,
+    "server_id": 31,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jerry_Burberry",
+    "status": "Занято",
+    "x": 2357.05,
+    "y": 1061.93,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1657,
     "server_id": 31,
     "type": "house",
@@ -21236,18 +21224,6 @@
     "status": "Занято",
     "x": -767.1699,
     "y": 2765.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1775,
-    "server_id": 31,
-    "type": "house",
-    "name": "Подвал с вентиляцией",
-    "owner": "Samuel_Klimov",
-    "status": "Занято",
-    "x": -760.3309,
-    "y": 2765.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23352,14 +23328,38 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1656,
+    "id": 546,
     "server_id": 31,
     "type": "house",
-    "name": "Дом",
-    "owner": "Jerry_Burberry",
+    "name": "~~~VapeShop~~~",
+    "owner": "Down_Crew",
     "status": "Аукцион",
-    "x": 2357.05,
-    "y": 1061.93,
+    "x": -18.3805,
+    "y": 1115.67,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 625,
+    "server_id": 31,
+    "type": "house",
+    "name": "tg @fabensae /ds @n41ty",
+    "owner": "Yanis_Lulisse",
+    "status": "Аукцион",
+    "x": -29.9144,
+    "y": 1364.0,
+    "price": 1199000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1775,
+    "server_id": 31,
+    "type": "house",
+    "name": "Подвал с вентиляцией",
+    "owner": "Samuel_Klimov",
+    "status": "Аукцион",
+    "x": -760.3309,
+    "y": 2765.63,
     "price": 1000000000,
     "district": "Сан-Андреас"
   },

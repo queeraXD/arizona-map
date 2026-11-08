@@ -8568,18 +8568,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 714,
-    "server_id": 24,
-    "type": "house",
-    "name": "oberon",
-    "owner": "Sergey_Romanno",
-    "status": "Занято",
-    "x": 1570.38,
-    "y": 2711.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 715,
     "server_id": 24,
     "type": "house",
@@ -11799,7 +11787,7 @@
     "id": 984,
     "server_id": 24,
     "type": "house",
-    "name": "SWAT LEADERS",
+    "name": "Будущая Монополия",
     "owner": "Sunshine_Samurai",
     "status": "Занято",
     "x": -258.97,
@@ -11960,6 +11948,18 @@
     "status": "Занято",
     "x": -2373.39,
     "y": 834.4459,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 998,
+    "server_id": 24,
+    "type": "house",
+    "name": "...",
+    "owner": "Iflexick_Doc",
+    "status": "Занято",
+    "x": -2373.18,
+    "y": 851.663,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15108,6 +15108,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1261,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом Бриджа",
+    "owner": "Jill_Extazz",
+    "status": "Занято",
+    "x": -2372.53,
+    "y": 632.4099,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1262,
     "server_id": 24,
     "type": "house",
@@ -15716,18 +15728,6 @@
     "status": "Занято",
     "x": -65.1806,
     "y": -1573.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1313,
-    "server_id": 24,
-    "type": "house",
-    "name": "<3 Extazz Bratva <3",
-    "owner": "Stop_Loss",
-    "status": "Занято",
-    "x": -76.1399,
-    "y": -1581.11,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19692,18 +19692,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1644,
-    "server_id": 24,
-    "type": "house",
-    "name": "#PLUGG Village",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 2473.24,
-    "y": -1383.66,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1645,
     "server_id": 24,
     "type": "house",
@@ -22020,39 +22008,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 998,
+    "id": 714,
     "server_id": 24,
     "type": "house",
-    "name": "...",
-    "owner": "Iflexick_Doc",
+    "name": "oberon",
+    "owner": "Sergey_Romanno",
     "status": "Аукцион",
-    "x": -2373.18,
-    "y": 851.663,
-    "price": 100123123,
+    "x": 1570.38,
+    "y": 2711.11,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1261,
+    "id": 1313,
     "server_id": 24,
     "type": "house",
-    "name": "Дом Бриджа",
-    "owner": "Jill_Extazz",
+    "name": "<3 Extazz Bratva <3",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": -2372.53,
-    "y": 632.4099,
-    "price": 300000000,
+    "x": -76.1399,
+    "y": -1581.11,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 293,
+    "id": 1644,
     "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Pika_Shu",
+    "type": "house",
+    "name": "#PLUGG Village",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 563.087,
-    "y": 864.122,
-    "price": 6000000000,
+    "x": 2473.24,
+    "y": -1383.66,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25292,6 +25280,18 @@
     "status": "Занято",
     "x": -243.623,
     "y": -1364.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 293,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Pika_Shu",
+    "status": "Занято",
+    "x": 563.087,
+    "y": 864.122,
     "price": 0,
     "district": "Сан-Андреас"
   },
