@@ -459,7 +459,7 @@
     "id": 38,
     "server_id": 18,
     "type": "house",
-    "name": "RAMPAGE",
+    "name": "Дом",
     "owner": "Way_Rampage",
     "status": "Занято",
     "x": 2387.86,
@@ -480,18 +480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 40,
-    "server_id": 18,
-    "type": "house",
-    "name": "Майнинг 7лвл",
-    "owner": "Ethereal_Celestial",
-    "status": "Занято",
-    "x": 2472.88,
-    "y": -1238.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 41,
     "server_id": 18,
     "type": "house",
@@ -500,18 +488,6 @@
     "status": "Занято",
     "x": 2492.1,
     "y": -1239.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 42,
-    "server_id": 18,
-    "type": "house",
-    "name": "Lombardi",
-    "owner": "Ethereal_Celestial",
-    "status": "Занято",
-    "x": 2550.93,
-    "y": -1235.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -536,18 +512,6 @@
     "status": "Занято",
     "x": 2520.72,
     "y": -1197.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 45,
-    "server_id": 18,
-    "type": "house",
-    "name": "Майнинг 7лвл",
-    "owner": "Ethereal_Celestial",
-    "status": "Занято",
-    "x": 2467.61,
-    "y": -1200.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2900,18 +2864,6 @@
     "status": "Занято",
     "x": 190.733,
     "y": -1308.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 242,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ethereal_Celestial",
-    "status": "Занято",
-    "x": 255.1679,
-    "y": -1366.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6291,7 +6243,7 @@
     "id": 524,
     "server_id": 18,
     "type": "house",
-    "name": "Дом",
+    "name": "Tafflips Industries",
     "owner": "Remington_Tufflips",
     "status": "Занято",
     "x": 1596.98,
@@ -6831,7 +6783,7 @@
     "id": 569,
     "server_id": 18,
     "type": "house",
-    "name": "HOUSE UNCLE SNAKE/FORT CARSON",
+    "name": "Дом",
     "owner": "Snake_Attack",
     "status": "Занято",
     "x": 452.07,
@@ -10680,18 +10632,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 891,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ethereal_Celestial",
-    "status": "Занято",
-    "x": -2069.91,
-    "y": -2494.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 892,
     "server_id": 18,
     "type": "house",
@@ -12264,18 +12204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1023,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ethereal_Celestial",
-    "status": "Занято",
-    "x": 1914.57,
-    "y": -159.451,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1024,
     "server_id": 18,
     "type": "house",
@@ -13648,7 +13576,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Zaslon Domination",
-    "owner": "Tbank_Consequence",
+    "owner": "Napas_Sativi",
     "status": "Занято",
     "x": 276.2399,
     "y": -1620.39,
@@ -17991,7 +17919,7 @@
     "id": 1500,
     "server_id": 18,
     "type": "house",
-    "name": "DIP HOUSE",
+    "name": "Хата Айсика)",
     "owner": "Ice_Blackwell",
     "status": "Занято",
     "x": 2608.15,
@@ -20280,18 +20208,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1691,
-    "server_id": 18,
-    "type": "house",
-    "name": "дрип хата №4",
-    "owner": "Anderey_Melstroy",
-    "status": "Занято",
-    "x": 2468.34,
-    "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1692,
     "server_id": 18,
     "type": "house",
@@ -22209,6 +22125,90 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 40,
+    "server_id": 18,
+    "type": "house",
+    "name": "Майнинг 7лвл",
+    "owner": "Ethereal_Celestial",
+    "status": "Аукцион",
+    "x": 2472.88,
+    "y": -1238.12,
+    "price": 4500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 42,
+    "server_id": 18,
+    "type": "house",
+    "name": "Lombardi",
+    "owner": "Ethereal_Celestial",
+    "status": "Аукцион",
+    "x": 2550.93,
+    "y": -1235.19,
+    "price": 4500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 45,
+    "server_id": 18,
+    "type": "house",
+    "name": "Майнинг 7лвл",
+    "owner": "Ethereal_Celestial",
+    "status": "Аукцион",
+    "x": 2467.61,
+    "y": -1200.41,
+    "price": 4500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 242,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ethereal_Celestial",
+    "status": "Аукцион",
+    "x": 255.1679,
+    "y": -1366.77,
+    "price": 550000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 891,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ethereal_Celestial",
+    "status": "Аукцион",
+    "x": -2069.91,
+    "y": -2494.76,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1023,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ethereal_Celestial",
+    "status": "Аукцион",
+    "x": 1914.57,
+    "y": -159.451,
+    "price": 1350000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1691,
+    "server_id": 18,
+    "type": "house",
+    "name": "дрип хата №4",
+    "owner": "Anderey_Melstroy",
+    "status": "Аукцион",
+    "x": 2468.34,
+    "y": -1398.81,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {
