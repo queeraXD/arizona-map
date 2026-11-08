@@ -6804,18 +6804,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 568,
-    "server_id": 28,
-    "type": "house",
-    "name": "Деп условия и все улучшения",
-    "owner": "Mac_Scofield",
-    "status": "Занято",
-    "x": 404.363,
-    "y": 1243.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 569,
     "server_id": 28,
     "type": "house",
@@ -7112,6 +7100,18 @@
     "status": "Занято",
     "x": -1449.95,
     "y": 2562.85,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 594,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sos_Krutoy",
+    "status": "Занято",
+    "x": -1446.67,
+    "y": 2636.7,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10332,6 +10332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 864,
+    "server_id": 28,
+    "type": "house",
+    "name": "Aurelios Workshop",
+    "owner": "Sos_Krutoy",
+    "status": "Занято",
+    "x": -245.722,
+    "y": 2501.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 865,
     "server_id": 28,
     "type": "house",
@@ -12231,7 +12243,7 @@
     "id": 1023,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
+    "name": "Ферма 1",
     "owner": "Kizayku_Cortez",
     "status": "Занято",
     "x": 1914.57,
@@ -20616,18 +20628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1723,
-    "server_id": 28,
-    "type": "house",
-    "name": "Paradox",
-    "owner": "Bite_Donbass",
-    "status": "Занято",
-    "x": 2608.15,
-    "y": -1203.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1724,
     "server_id": 28,
     "type": "house",
@@ -22344,27 +22344,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 594,
+    "id": 568,
     "server_id": 28,
     "type": "house",
-    "name": "Дом",
-    "owner": "Sos_Krutoy",
+    "name": "Деп условия и все улучшения",
+    "owner": "Mac_Scofield",
     "status": "Аукцион",
-    "x": -1446.67,
-    "y": 2636.7,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 864,
-    "server_id": 28,
-    "type": "house",
-    "name": "Aurelios Workshop",
-    "owner": "Sos_Krutoy",
-    "status": "Аукцион",
-    "x": -245.722,
-    "y": 2501.72,
-    "price": 200000000,
+    "x": 404.363,
+    "y": 1243.78,
+    "price": 275000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22377,6 +22365,18 @@
     "x": 2824.04,
     "y": 2268.77,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1723,
+    "server_id": 28,
+    "type": "house",
+    "name": "Paradox",
+    "owner": "Bite_Donbass",
+    "status": "Аукцион",
+    "x": 2608.15,
+    "y": -1203.09,
+    "price": 250123123,
     "district": "Сан-Андреас"
   },
   {

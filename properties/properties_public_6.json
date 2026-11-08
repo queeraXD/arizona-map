@@ -7456,7 +7456,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Gaz Mafia",
-    "owner": "Boyarin_Volgov",
+    "owner": "Pasha_Caplya",
     "status": "Занято",
     "x": -939.174,
     "y": 1425.27,
@@ -12224,6 +12224,18 @@
     "status": "Занято",
     "x": -2351.49,
     "y": 1244.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1019,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Oscar_Benites",
+    "status": "Занято",
+    "x": -2351.16,
+    "y": 1263.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21316,7 +21328,7 @@
     "server_id": 6,
     "type": "house",
     "name": "аукцион",
-    "owner": "Boyarin_Volgov",
+    "owner": "Atlantic_Runner",
     "status": "Занято",
     "x": 1542.52,
     "y": 2003.91,
@@ -22068,18 +22080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1841,
-    "server_id": 6,
-    "type": "house",
-    "name": "ДОМ ПЯТЫЙ",
-    "owner": "Vladislav_Aliende",
-    "status": "Занято",
-    "x": 2357.74,
-    "y": 1674.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1842,
     "server_id": 6,
     "type": "house",
@@ -22568,18 +22568,6 @@
     "status": "Занято",
     "x": 1791.71,
     "y": 2741.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1885,
-    "server_id": 6,
-    "type": "house",
-    "name": "Кастонское Посольство",
-    "owner": "Kosynoki_Rambery",
-    "status": "Занято",
-    "x": 1797.71,
-    "y": 2764.35,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23568,6 +23556,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1968,
+    "server_id": 6,
+    "type": "house",
+    "name": "Братство",
+    "owner": "Aleks_Salieri",
+    "status": "Занято",
+    "x": 2647.11,
+    "y": 2260.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1969,
     "server_id": 6,
     "type": "house",
@@ -24492,15 +24492,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1019,
+    "id": 1841,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Atlantic_Runner",
-    "status": "Аукцион",
-    "x": -2351.16,
-    "y": 1263.29,
-    "price": 300000000,
+    "name": "ДОМ ПЯТЫЙ",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2357.74,
+    "y": 1674.26,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -24516,15 +24516,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1968,
+    "id": 1885,
     "server_id": 6,
     "type": "house",
-    "name": "Братство",
-    "owner": "Stas_Refund",
+    "name": "Кастонское Посольство",
+    "owner": "Kosynoki_Rambery",
     "status": "Аукцион",
-    "x": 2647.11,
-    "y": 2260.99,
-    "price": 5123123,
+    "x": 1797.71,
+    "y": 2764.35,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26536,7 +26536,7 @@
     "server_id": 6,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Kseniia_Sokolova",
+    "owner": "Fallen_Castle",
     "status": "Занято",
     "x": 1020.4,
     "y": -1844.78,
@@ -27484,7 +27484,7 @@
     "server_id": 6,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Fallen_Castle",
+    "owner": "Conor_Norton",
     "status": "Занято",
     "x": 2405.02,
     "y": -1933.97,
