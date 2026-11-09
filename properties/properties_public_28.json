@@ -492,18 +492,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 41,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "martinerose",
-    "status": "Занято",
-    "x": 2492.1,
-    "y": -1239.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 42,
     "server_id": 28,
     "type": "house",
@@ -892,7 +880,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Дом",
-    "owner": "Joseph_Heartless",
+    "owner": "Makar_Mashall",
     "status": "Занято",
     "x": 2385.46,
     "y": -1711.95,
@@ -10908,6 +10896,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 911,
+    "server_id": 28,
+    "type": "house",
+    "name": "gangster lovit",
+    "owner": "Hisiyamu_Yutaka",
+    "status": "Занято",
+    "x": -2126.55,
+    "y": 1050.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 912,
     "server_id": 28,
     "type": "house",
@@ -16008,18 +16008,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1337,
-    "server_id": 28,
-    "type": "house",
-    "name": "гнездо Адольфа 2",
-    "owner": "Stu_Qarabas",
-    "status": "Занято",
-    "x": 1632.8,
-    "y": 2843.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1338,
     "server_id": 28,
     "type": "house",
@@ -16076,6 +16064,18 @@
     "status": "Занято",
     "x": 1665.6,
     "y": 2569.42,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1343,
+    "server_id": 28,
+    "type": "house",
+    "name": "SkyLake",
+    "owner": "Hisiyamu_Yutaka",
+    "status": "Занято",
+    "x": 1646.47,
+    "y": 2569.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18948,6 +18948,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1583,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дело Дудаева",
+    "owner": "Artur_Kotvun",
+    "status": "Занято",
+    "x": 2440.7,
+    "y": 1225.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1584,
     "server_id": 28,
     "type": "house",
@@ -20264,6 +20276,18 @@
     "status": "Занято",
     "x": -914.3449,
     "y": -528.8449,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1694,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом у завода",
+    "owner": "Aleksandr_Chekushka",
+    "status": "Занято",
+    "x": -914.3449,
+    "y": -533.552,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22320,6 +22344,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 41,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "martinerose",
+    "status": "Аукцион",
+    "x": 2492.1,
+    "y": -1239.01,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 629,
     "server_id": 28,
     "type": "house",
@@ -22332,51 +22368,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 911,
+    "id": 1337,
     "server_id": 28,
     "type": "house",
-    "name": "gangster lovit",
-    "owner": "Hisiyamu_Yutaka",
+    "name": "гнездо Адольфа 2",
+    "owner": "Stu_Qarabas",
     "status": "Аукцион",
-    "x": -2126.55,
-    "y": 1050.82,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1343,
-    "server_id": 28,
-    "type": "house",
-    "name": "SkyLake",
-    "owner": "Hisiyamu_Yutaka",
-    "status": "Аукцион",
-    "x": 1646.47,
-    "y": 2569.59,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1583,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дело Дудаева",
-    "owner": "Sirius_Cybernetik",
-    "status": "Аукцион",
-    "x": 2440.7,
-    "y": 1225.8,
-    "price": 50000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1694,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом у завода",
-    "owner": "Sirius_Cybernetik",
-    "status": "Аукцион",
-    "x": -914.3449,
-    "y": -533.552,
-    "price": 50000000,
+    "x": 1632.8,
+    "y": 2843.82,
+    "price": 50123123,
     "district": "Сан-Андреас"
   },
   {

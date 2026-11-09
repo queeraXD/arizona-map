@@ -3792,18 +3792,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 316,
-    "server_id": 3,
-    "type": "house",
-    "name": "ЛС Центральный рынок",
-    "owner": "Lii_Tenebris",
-    "status": "Занято",
-    "x": 1245.66,
-    "y": -902.775,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 317,
     "server_id": 3,
     "type": "house",
@@ -4088,18 +4076,6 @@
     "status": "Занято",
     "x": 747.122,
     "y": 278.2139,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 341,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом Семьи | Death",
-    "owner": "Glorbo_FruttoDrillo",
-    "status": "Занято",
-    "x": 723.6119,
-    "y": 269.678,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12352,7 +12328,7 @@
     "server_id": 3,
     "type": "house",
     "name": "My Home",
-    "owner": "Milisa_Dark",
+    "owner": "Big_Brr",
     "status": "Занято",
     "x": -2339.96,
     "y": 797.2949,
@@ -24012,15 +23988,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 123,
+    "id": 316,
     "server_id": 3,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Andy_Parliament",
+    "type": "house",
+    "name": "ЛС Центральный рынок",
+    "owner": "Lii_Tenebris",
     "status": "Аукцион",
-    "x": -2579.43,
-    "y": 310.085,
-    "price": 200000,
+    "x": 1245.66,
+    "y": -902.775,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 341,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом Семьи | Death",
+    "owner": "Glorbo_FruttoDrillo",
+    "status": "Аукцион",
+    "x": 723.6119,
+    "y": 269.678,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26276,6 +26264,18 @@
     "status": "Занято",
     "x": -1967.24,
     "y": 296.392,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 123,
+    "server_id": 3,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Andy_Parliament",
+    "status": "Занято",
+    "x": -2579.43,
+    "y": 310.085,
     "price": 0,
     "district": "Сан-Андреас"
   },

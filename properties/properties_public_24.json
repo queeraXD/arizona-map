@@ -9556,7 +9556,7 @@
     "server_id": 24,
     "type": "house",
     "name": "alimka",
-    "owner": "Pharmacy_Throat",
+    "owner": "Stu_Natural",
     "status": "Занято",
     "x": -2368.82,
     "y": 711.7169,
@@ -10884,6 +10884,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 908,
+    "server_id": 24,
+    "type": "house",
+    "name": "Ресурсы",
+    "owner": "Lew_Luganskiy",
+    "status": "Занято",
+    "x": -2126.98,
+    "y": 1014.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 909,
     "server_id": 24,
     "type": "house",
@@ -11956,7 +11968,7 @@
     "server_id": 24,
     "type": "house",
     "name": "...",
-    "owner": "Iflexick_Doc",
+    "owner": "Egor_Kirillov",
     "status": "Занято",
     "x": -2373.18,
     "y": 851.663,
@@ -22008,18 +22020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 908,
-    "server_id": 24,
-    "type": "house",
-    "name": "Ресурсы",
-    "owner": "Daniil_Kostalev",
-    "status": "Аукцион",
-    "x": -2126.98,
-    "y": 1014.21,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1313,
     "server_id": 24,
     "type": "house",
@@ -22044,51 +22044,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 38,
+    "id": 102,
     "server_id": 24,
     "type": "business",
-    "name": "Закусочная",
-    "owner": "Artem_Malbora",
+    "name": "Магазин 24/7",
+    "owner": "Toru_Davenport",
     "status": "Аукцион",
-    "x": 1567.98,
-    "y": -1897.55,
-    "price": 330000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 79,
-    "server_id": 24,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Artem_Malbora",
-    "status": "Аукцион",
-    "x": 2884.55,
-    "y": 2454.04,
-    "price": 329680,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 85,
-    "server_id": 24,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Egorka_Qween",
-    "status": "Аукцион",
-    "x": -1213.8,
-    "y": 1830.33,
-    "price": 4500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 164,
-    "server_id": 24,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Artem_Malbora",
-    "status": "Аукцион",
-    "x": -2624.67,
-    "y": 1412.73,
-    "price": 330000,
+    "x": -1735.96,
+    "y": 897.68,
+    "price": 226660,
     "district": "Сан-Андреас"
   },
   {
@@ -22101,42 +22065,6 @@
     "x": 1771.74,
     "y": -1903.27,
     "price": 5000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 203,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Egorka_Qween",
-    "status": "Аукцион",
-    "x": 1433.75,
-    "y": -1739.79,
-    "price": 4500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 328,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Egorka_Qween",
-    "status": "Аукцион",
-    "x": -2245.69,
-    "y": 2282.04,
-    "price": 4500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 355,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Artem_Malbora",
-    "status": "Аукцион",
-    "x": -736.159,
-    "y": 2747.84,
-    "price": 356000,
     "district": "Сан-Андреас"
   },
   {
@@ -22472,6 +22400,18 @@
     "status": "Занято",
     "x": 1940.01,
     "y": -2116.01,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 164,
+    "server_id": 24,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Artem_Malbora",
+    "status": "Занято",
+    "x": -2624.67,
+    "y": 1412.73,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22832,18 +22772,6 @@
     "status": "Занято",
     "x": -2242.28,
     "y": -170.898,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 102,
-    "server_id": 24,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Toru_Davenport",
-    "status": "Занято",
-    "x": -1735.96,
-    "y": 897.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23700,6 +23628,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 355,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Artem_Malbora",
+    "status": "Занято",
+    "x": -736.159,
+    "y": 2747.84,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 359,
     "server_id": 24,
     "type": "business",
@@ -23772,6 +23712,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 38,
+    "server_id": 24,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Artem_Malbora",
+    "status": "Занято",
+    "x": 1567.98,
+    "y": -1897.55,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 49,
     "server_id": 24,
     "type": "business",
@@ -23804,6 +23756,18 @@
     "status": "Занято",
     "x": 172.348,
     "y": 1177.63,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 79,
+    "server_id": 24,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Artem_Malbora",
+    "status": "Занято",
+    "x": 2884.55,
+    "y": 2454.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23864,6 +23828,18 @@
     "status": "Занято",
     "x": -858.014,
     "y": 1535.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 85,
+    "server_id": 24,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Voda_Est",
+    "status": "Занято",
+    "x": -1213.8,
+    "y": 1830.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25140,6 +25116,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 203,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Egorka_Qween",
+    "status": "Занято",
+    "x": 1433.75,
+    "y": -1739.79,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 204,
     "server_id": 24,
     "type": "business",
@@ -25304,6 +25292,18 @@
     "status": "Занято",
     "x": 563.087,
     "y": 864.122,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 328,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Egorka_Qween",
+    "status": "Занято",
+    "x": -2245.69,
+    "y": 2282.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
