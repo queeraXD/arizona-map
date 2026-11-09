@@ -5064,6 +5064,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 422,
+    "server_id": 15,
+    "type": "house",
+    "name": "swap house",
+    "owner": "Deluxe_Game",
+    "status": "Занято",
+    "x": 1312.43,
+    "y": 170.811,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 423,
     "server_id": 15,
     "type": "house",
@@ -9260,18 +9272,6 @@
     "status": "Занято",
     "x": -2622.52,
     "y": 766.299,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 773,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Luminisent_London",
-    "status": "Занято",
-    "x": -2622.52,
-    "y": 782.702,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14336,18 +14336,6 @@
     "status": "Занято",
     "x": -2791.45,
     "y": -51.9868,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1198,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Luminisent_London",
-    "status": "Занято",
-    "x": -2791.86,
-    "y": -41.8134,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21300,15 +21288,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 422,
+    "id": 773,
     "server_id": 15,
     "type": "house",
-    "name": "swap house",
-    "owner": "Sergio_McCloud",
+    "name": "Дом",
+    "owner": "Luminisent_London",
     "status": "Аукцион",
-    "x": 1312.43,
-    "y": 170.811,
-    "price": 1000000,
+    "x": -2622.52,
+    "y": 782.702,
+    "price": 300123123,
     "district": "Сан-Андреас"
   },
   {
@@ -21320,7 +21308,19 @@
     "status": "Аукцион",
     "x": -2087.62,
     "y": -2510.66,
-    "price": 300000000,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1198,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Luminisent_London",
+    "status": "Аукцион",
+    "x": -2791.86,
+    "y": -41.8134,
+    "price": 300123123,
     "district": "Сан-Андреас"
   },
   {

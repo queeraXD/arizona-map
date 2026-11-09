@@ -9096,6 +9096,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 758,
+    "server_id": 8,
+    "type": "house",
+    "name": "Пороховая Бочка",
+    "owner": "Makson_Kamikadze",
+    "status": "Занято",
+    "x": -2738.31,
+    "y": 771.5869,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 759,
     "server_id": 8,
     "type": "house",
@@ -23904,18 +23916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1994,
-    "server_id": 8,
-    "type": "house",
-    "name": "майнинг №2",
-    "owner": "Dima_Monomax",
-    "status": "Занято",
-    "x": 2491.14,
-    "y": 1682.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1995,
     "server_id": 8,
     "type": "house",
@@ -24212,18 +24212,6 @@
     "status": "Занято",
     "x": 2537.75,
     "y": 1638.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2020,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dima_Monomax",
-    "status": "Занято",
-    "x": 2537.74,
-    "y": 1645.49,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25776,15 +25764,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 758,
+    "id": 1994,
     "server_id": 8,
     "type": "house",
-    "name": "Пороховая Бочка",
-    "owner": "Makson_Kamikadze",
+    "name": "майнинг №2",
+    "owner": "Dima_Monomax",
     "status": "Аукцион",
-    "x": -2738.31,
-    "y": 771.5869,
-    "price": 700000000,
+    "x": 2491.14,
+    "y": 1682.87,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2020,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dima_Monomax",
+    "status": "Аукцион",
+    "x": 2537.74,
+    "y": 1645.49,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {

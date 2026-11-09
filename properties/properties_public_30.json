@@ -2304,18 +2304,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 192,
-    "server_id": 30,
-    "type": "house",
-    "name": "домик на пляже",
-    "owner": "Wiu_Miu",
-    "status": "Занято",
-    "x": 295.3489,
-    "y": -1765.47,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 193,
     "server_id": 30,
     "type": "house",
@@ -2540,6 +2528,18 @@
     "status": "Занято",
     "x": 1034.62,
     "y": -812.7239,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 212,
+    "server_id": 30,
+    "type": "house",
+    "name": "Sell /sms 770",
+    "owner": "Ash_Devilside",
+    "status": "Занято",
+    "x": 1017.07,
+    "y": -762.8809,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3028,7 +3028,7 @@
     "server_id": 30,
     "type": "house",
     "name": "однин среди шокалов ",
-    "owner": "Michel_Lazorev",
+    "owner": "Wiu_Miu",
     "status": "Занято",
     "x": 2536.19,
     "y": 128.9869,
@@ -12120,18 +12120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1011,
-    "server_id": 30,
-    "type": "house",
-    "name": "pleased",
-    "owner": "Angelina_Ryazanskaya",
-    "status": "Занято",
-    "x": -2523.81,
-    "y": 1141.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1012,
     "server_id": 30,
     "type": "house",
@@ -19440,30 +19428,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1622,
-    "server_id": 30,
-    "type": "house",
-    "name": "маракеш правит миром",
-    "owner": "Yuki_Fud",
-    "status": "Занято",
-    "x": -2018.55,
-    "y": 849.405,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1623,
-    "server_id": 30,
-    "type": "house",
-    "name": ":snake:ЗМЕЙКА:snake:",
-    "owner": "Chesterfield_Crime",
-    "status": "Занято",
-    "x": -2016.35,
-    "y": 897.4979,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1625,
     "server_id": 30,
     "type": "house",
@@ -22752,15 +22716,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 212,
+    "id": 192,
     "server_id": 30,
     "type": "house",
-    "name": "Sell /sms 770",
-    "owner": "Ash_Devilside",
+    "name": "домик на пляже",
+    "owner": "Wiu_Miu",
     "status": "Аукцион",
-    "x": 1017.07,
-    "y": -762.8809,
-    "price": 7000000000,
+    "x": 295.3489,
+    "y": -1765.47,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1011,
+    "server_id": 30,
+    "type": "house",
+    "name": "pleased",
+    "owner": "Vasek_Savhoz",
+    "status": "Аукцион",
+    "x": -2523.81,
+    "y": 1141.92,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1622,
+    "server_id": 30,
+    "type": "house",
+    "name": "маракеш правит миром",
+    "owner": "Yuki_Fud",
+    "status": "Аукцион",
+    "x": -2018.55,
+    "y": 849.405,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1623,
+    "server_id": 30,
+    "type": "house",
+    "name": ":snake:ЗМЕЙКА:snake:",
+    "owner": "Chesterfield_Crime",
+    "status": "Аукцион",
+    "x": -2016.35,
+    "y": 897.4979,
+    "price": 1900000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24616,7 +24616,7 @@
     "server_id": 30,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Misha_Kimpintyao",
+    "owner": "Wiu_Miu",
     "status": "Занято",
     "x": -2767.51,
     "y": 788.72,

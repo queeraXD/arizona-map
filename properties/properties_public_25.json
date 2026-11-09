@@ -2592,6 +2592,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 216,
+    "server_id": 25,
+    "type": "house",
+    "name": "-- VIZART --",
+    "owner": "Yulichka_Wemp",
+    "status": "Занято",
+    "x": 910.38,
+    "y": -817.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 217,
     "server_id": 25,
     "type": "house",
@@ -3628,7 +3640,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Yoshi Empire",
-    "owner": "Klinx_Yoshi",
+    "owner": "Arthur_Yoshi",
     "status": "Занято",
     "x": 2081.98,
     "y": -1086.5,
@@ -3640,7 +3652,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Yoshi Empire",
-    "owner": "Klinx_Yoshi",
+    "owner": "Arthur_Yoshi",
     "status": "Занято",
     "x": 2074.85,
     "y": -1083.23,
@@ -3652,7 +3664,7 @@
     "server_id": 25,
     "type": "house",
     "name": "Yoshi Empire",
-    "owner": "Klinx_Yoshi",
+    "owner": "Arthur_Yoshi",
     "status": "Занято",
     "x": 2060.47,
     "y": -1076.7,
@@ -12464,18 +12476,6 @@
     "status": "Занято",
     "x": -1727.98,
     "y": 1138.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1041,
-    "server_id": 25,
-    "type": "house",
-    "name": "only love C.C",
-    "owner": "Katana_Dipsezz",
-    "status": "Занято",
-    "x": -1728.11,
-    "y": 1158.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22212,18 +22212,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1855,
-    "server_id": 25,
-    "type": "house",
-    "name": "подключена к кп",
-    "owner": "Wadimka_Trubchanin",
-    "status": "Занято",
-    "x": 2476.29,
-    "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1856,
     "server_id": 25,
     "type": "house",
@@ -23760,15 +23748,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 216,
+    "id": 1041,
     "server_id": 25,
     "type": "house",
-    "name": "-- VIZART --",
-    "owner": "Yulichka_Wemp",
+    "name": "only love C.C",
+    "owner": "Katana_Dipsezz",
     "status": "Аукцион",
-    "x": 910.38,
-    "y": -817.25,
-    "price": 1500000000,
+    "x": -1728.11,
+    "y": 1158.95,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1855,
+    "server_id": 25,
+    "type": "house",
+    "name": "фарм бтс",
+    "owner": "Wadimka_Trubchanin",
+    "status": "Аукцион",
+    "x": 2476.29,
+    "y": -1398.81,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
