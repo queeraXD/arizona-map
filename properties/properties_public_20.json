@@ -1704,6 +1704,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 142,
+    "server_id": 20,
+    "type": "house",
+    "name": "Paradox ",
+    "owner": "Daniil_Paradox",
+    "status": "Занято",
+    "x": 1326.27,
+    "y": -1090.67,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 143,
     "server_id": 20,
     "type": "house",
@@ -2608,7 +2620,7 @@
     "server_id": 20,
     "type": "house",
     "name": "arcturus",
-    "owner": "Arcturus_Lorenso",
+    "owner": "Barbarossa_Lorenso",
     "status": "Занято",
     "x": 836.2189,
     "y": -894.2999,
@@ -5871,7 +5883,7 @@
     "id": 490,
     "server_id": 20,
     "type": "house",
-    "name": "Geraltik",
+    "name": "River House",
     "owner": "River_Atom",
     "status": "Занято",
     "x": 2065.03,
@@ -6903,7 +6915,7 @@
     "id": 576,
     "server_id": 20,
     "type": "house",
-    "name": "alliance domination",
+    "name": "хата литвена",
     "owner": "Fogel_McLovin",
     "status": "Занято",
     "x": -165.173,
@@ -9220,7 +9232,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "Hiroto_SunCity",
+    "owner": "White_City",
     "status": "Занято",
     "x": -2594.19,
     "y": 768.164,
@@ -9248,6 +9260,30 @@
     "status": "Занято",
     "x": -2622.52,
     "y": 749.754,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 772,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Channi_Mursh",
+    "status": "Занято",
+    "x": -2622.52,
+    "y": 766.299,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 773,
+    "server_id": 20,
+    "type": "house",
+    "name": "Домик Авроры И Олежки",
+    "owner": "Olleg_Coffi",
+    "status": "Занято",
+    "x": -2622.52,
+    "y": 782.702,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17052,6 +17088,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1425,
+    "server_id": 20,
+    "type": "house",
+    "name": "Ґазда",
+    "owner": "Vania_Exuberante",
+    "status": "Занято",
+    "x": 885.4719,
+    "y": 1895.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1426,
     "server_id": 20,
     "type": "house",
@@ -20040,18 +20088,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1675,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Banan_Knight",
-    "status": "Занято",
-    "x": 1752.21,
-    "y": 2744.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1676,
     "server_id": 20,
     "type": "house",
@@ -20228,18 +20264,6 @@
     "status": "Занято",
     "x": 2613.51,
     "y": 713.2869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1691,
-    "server_id": 20,
-    "type": "house",
-    "name": "---",
-    "owner": "Cherniy_Savchenko",
-    "status": "Занято",
-    "x": 2660.44,
-    "y": 750.0989,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20708,18 +20732,6 @@
     "status": "Занято",
     "x": 2492.34,
     "y": -1410.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1731,
-    "server_id": 20,
-    "type": "house",
-    "name": "Nights Monopoly",
-    "owner": "Banan_Knight",
-    "status": "Занято",
-    "x": 2476.38,
-    "y": -1366.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21684,18 +21696,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1812,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Banan_Knight",
-    "status": "Занято",
-    "x": 2642.47,
-    "y": 1978.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1813,
     "server_id": 20,
     "type": "house",
@@ -22296,42 +22296,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 142,
-    "server_id": 20,
-    "type": "house",
-    "name": "Paradox ",
-    "owner": "Daniil_Paradox",
-    "status": "Аукцион",
-    "x": 1326.27,
-    "y": -1090.67,
-    "price": 8000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 772,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Channi_Mursh",
-    "status": "Аукцион",
-    "x": -2622.52,
-    "y": 766.299,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 773,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Channi_Mursh",
-    "status": "Аукцион",
-    "x": -2622.52,
-    "y": 782.702,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 806,
     "server_id": 20,
     "type": "house",
@@ -22344,15 +22308,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1425,
+    "id": 1675,
     "server_id": 20,
     "type": "house",
-    "name": "Sopranos",
-    "owner": "White_City",
+    "name": "Дом",
+    "owner": "Banan_Knight",
     "status": "Аукцион",
-    "x": 885.4719,
-    "y": 1895.58,
-    "price": 150000000,
+    "x": 1752.21,
+    "y": 2744.56,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1691,
+    "server_id": 20,
+    "type": "house",
+    "name": "---",
+    "owner": "Cherniy_Savchenko",
+    "status": "Аукцион",
+    "x": 2660.44,
+    "y": 750.0989,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1731,
+    "server_id": 20,
+    "type": "house",
+    "name": "Nights Monopoly",
+    "owner": "Banan_Knight",
+    "status": "Аукцион",
+    "x": 2476.38,
+    "y": -1366.2,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1812,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Banan_Knight",
+    "status": "Аукцион",
+    "x": 2642.47,
+    "y": 1978.84,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {

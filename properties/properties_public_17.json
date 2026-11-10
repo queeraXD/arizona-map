@@ -5187,7 +5187,7 @@
     "id": 432,
     "server_id": 17,
     "type": "house",
-    "name": "Дом",
+    "name": "family",
     "owner": "James_Ritter",
     "status": "Занято",
     "x": 2279.2,
@@ -6252,18 +6252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 521,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergio_White",
-    "status": "Занято",
-    "x": 1639.79,
-    "y": 2102.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 522,
     "server_id": 17,
     "type": "house",
@@ -6632,18 +6620,6 @@
     "status": "Занято",
     "x": 465.75,
     "y": 1147.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 553,
-    "server_id": 17,
-    "type": "house",
-    "name": "$ GhostSquad $",
-    "owner": "Sergio_White",
-    "status": "Занято",
-    "x": 378.1589,
-    "y": 1123.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9412,7 +9388,7 @@
     "server_id": 17,
     "type": "house",
     "name": "// photo squad //",
-    "owner": "Heisenberg_Durov",
+    "owner": "Never_Nevertheless",
     "status": "Занято",
     "x": -2513.5,
     "y": 849.1569,
@@ -9608,6 +9584,18 @@
     "status": "Занято",
     "x": -2358.42,
     "y": 820.0349,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 801,
+    "server_id": 17,
+    "type": "house",
+    "name": "арбуз",
+    "owner": "Abdullah_Arbuzov",
+    "status": "Занято",
+    "x": -2340.03,
+    "y": 820.0209,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18996,18 +18984,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1584,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergio_White",
-    "status": "Занято",
-    "x": 1835.7,
-    "y": -1987.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1585,
     "server_id": 17,
     "type": "house",
@@ -19708,7 +19684,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Ghetto Home Cash",
-    "owner": "Tokito_Lamborghini",
+    "owner": "Klim_Kutuzov",
     "status": "Занято",
     "x": 2476.25,
     "y": -1424.41,
@@ -20160,6 +20136,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1681,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vapeshop_Alena",
+    "status": "Занято",
+    "x": 725.6519,
+    "y": -1451.05,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1682,
     "server_id": 17,
     "type": "house",
@@ -20448,18 +20436,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1706,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Saidov_Abdulaziz",
-    "status": "Занято",
-    "x": 2473.17,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1707,
     "server_id": 17,
     "type": "house",
@@ -20492,18 +20468,6 @@
     "status": "Занято",
     "x": 2468.25,
     "y": -1376.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1710,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Sergio_White",
-    "status": "Занято",
-    "x": 2487.32,
-    "y": -1359.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22452,27 +22416,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 801,
-    "server_id": 17,
-    "type": "house",
-    "name": "арбуз",
-    "owner": "Abdullah_Arbuzov",
-    "status": "Аукцион",
-    "x": -2340.03,
-    "y": 820.0209,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1681,
+    "id": 521,
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Vapeshop_Alena",
+    "owner": "Sergio_White",
     "status": "Аукцион",
-    "x": 725.6519,
-    "y": -1451.05,
-    "price": 7500000000,
+    "x": 1639.79,
+    "y": 2102.8,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 553,
+    "server_id": 17,
+    "type": "house",
+    "name": "$ GhostSquad $",
+    "owner": "Sergio_White",
+    "status": "Аукцион",
+    "x": 378.1589,
+    "y": 1123.55,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1584,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergio_White",
+    "status": "Аукцион",
+    "x": 1835.7,
+    "y": -1987.13,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1706,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Saidov_Abdulaziz",
+    "status": "Аукцион",
+    "x": 2473.17,
+    "y": -1383.37,
+    "price": 140000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1710,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sergio_White",
+    "status": "Аукцион",
+    "x": 2487.32,
+    "y": -1359.1,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24748,7 +24748,7 @@
     "server_id": 17,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Raigy_Kray",
+    "owner": "Yurchik_Wizrate",
     "status": "Занято",
     "x": -2455.77,
     "y": 799.522,
