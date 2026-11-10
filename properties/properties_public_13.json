@@ -6060,18 +6060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 505,
-    "server_id": 13,
-    "type": "house",
-    "name": "House Andre",
-    "owner": "Dodge_Dead",
-    "status": "Занято",
-    "x": 1364.25,
-    "y": 1969.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 506,
     "server_id": 13,
     "type": "house",
@@ -19620,18 +19608,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1637,
-    "server_id": 13,
-    "type": "house",
-    "name": "Homies Monopoly",
-    "owner": "Denis_Benzoo",
-    "status": "Занято",
-    "x": 2816.49,
-    "y": 2268.87,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1638,
     "server_id": 13,
     "type": "house",
@@ -19747,18 +19723,6 @@
     "owner": "Dee_Mellow",
     "status": "Занято",
     "x": 2787.75,
-    "y": 2260.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1648,
-    "server_id": 13,
-    "type": "house",
-    "name": "майнинг",
-    "owner": "Motya_Vanguard",
-    "status": "Занято",
-    "x": 2788.14,
     "y": 2260.94,
     "price": 0,
     "district": "Сан-Андреас"
@@ -20644,7 +20608,7 @@
     "server_id": 13,
     "type": "house",
     "name": "hure empire",
-    "owner": "Ethereal_Celestia",
+    "owner": "Seventh_Sonata",
     "status": "Занято",
     "x": 857.479,
     "y": -978.885,
@@ -21776,18 +21740,6 @@
     "status": "Занято",
     "x": 1749.38,
     "y": 2755.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1818,
-    "server_id": 13,
-    "type": "house",
-    "name": "Хата Андрюхи",
-    "owner": "Dodge_Dead",
-    "status": "Занято",
-    "x": 1745.5,
-    "y": 2770.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23268,6 +23220,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 505,
+    "server_id": 13,
+    "type": "house",
+    "name": "House Andre",
+    "owner": "Dodge_Dead",
+    "status": "Аукцион",
+    "x": 1364.25,
+    "y": 1969.15,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 666,
     "server_id": 13,
     "type": "house",
@@ -23288,7 +23252,43 @@
     "status": "Аукцион",
     "x": -2286.53,
     "y": 796.7609,
-    "price": 600000000,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1637,
+    "server_id": 13,
+    "type": "house",
+    "name": "Homies Monopoly",
+    "owner": "Denis_Benzoo",
+    "status": "Аукцион",
+    "x": 2816.49,
+    "y": 2268.87,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1648,
+    "server_id": 13,
+    "type": "house",
+    "name": "майнинг",
+    "owner": "Motya_Vanguard",
+    "status": "Аукцион",
+    "x": 2788.14,
+    "y": 2260.94,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1818,
+    "server_id": 13,
+    "type": "house",
+    "name": "Хата Андрюхи",
+    "owner": "Dodge_Dead",
+    "status": "Аукцион",
+    "x": 1745.5,
+    "y": 2770.06,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
