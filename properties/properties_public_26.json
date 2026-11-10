@@ -5344,7 +5344,7 @@
     "server_id": 26,
     "type": "house",
     "name": "домик",
-    "owner": "Unwritten_Reply",
+    "owner": "Pavel_Caplya",
     "status": "Занято",
     "x": 2440.64,
     "y": -1057.33,
@@ -5648,18 +5648,6 @@
     "status": "Занято",
     "x": 2398.27,
     "y": 736.0989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 472,
-    "server_id": 26,
-    "type": "house",
-    "name": "matveis house",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 2369.06,
-    "y": 734.939,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6896,18 +6884,6 @@
     "status": "Занято",
     "x": -165.173,
     "y": 2768.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 577,
-    "server_id": 26,
-    "type": "house",
-    "name": "onyxflare",
-    "owner": "Papochka_LitEnergy",
-    "status": "Занято",
-    "x": -201.6629,
-    "y": 2772.17,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11736,18 +11712,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 981,
-    "server_id": 26,
-    "type": "house",
-    "name": "Suprovech Corp",
-    "owner": "Grafi_Kus",
-    "status": "Занято",
-    "x": -2278.81,
-    "y": 787.749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 982,
     "server_id": 26,
     "type": "house",
@@ -14884,7 +14848,7 @@
     "server_id": 26,
     "type": "house",
     "name": "№12 Velasco | инвест",
-    "owner": "[09]Fly_Ing",
+    "owner": "Kedroviy_Openmind",
     "status": "Занято",
     "x": -2383.14,
     "y": 1318.0,
@@ -17700,18 +17664,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1479,
-    "server_id": 26,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Walorde_Water",
-    "status": "Занято",
-    "x": 883.95,
-    "y": 2104.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1480,
     "server_id": 26,
     "type": "house",
@@ -19528,7 +19480,7 @@
     "server_id": 26,
     "type": "house",
     "name": "ежик",
-    "owner": "Vitaliy_Sakura",
+    "owner": "Dexter666",
     "status": "Занято",
     "x": -2449.76,
     "y": 921.426,
@@ -21220,7 +21172,7 @@
     "server_id": 26,
     "type": "house",
     "name": "kaede???",
-    "owner": "Nikita_Sopranno",
+    "owner": "Aperol_Spritz",
     "status": "Занято",
     "x": 1799.75,
     "y": 2814.91,
@@ -25164,6 +25116,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 472,
+    "server_id": 26,
+    "type": "house",
+    "name": "matveis house",
+    "owner": "Lovec_Pisunov",
+    "status": "Аукцион",
+    "x": 2369.06,
+    "y": 734.939,
+    "price": 50000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 540,
     "server_id": 26,
     "type": "house",
@@ -25172,7 +25136,31 @@
     "status": "Аукцион",
     "x": 2017.82,
     "y": 2663.33,
-    "price": 170000000,
+    "price": 160000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 577,
+    "server_id": 26,
+    "type": "house",
+    "name": "onyxflare",
+    "owner": "Papochka_LitEnergy",
+    "status": "Аукцион",
+    "x": -201.6629,
+    "y": 2772.17,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 981,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Grafi_Kus",
+    "status": "Аукцион",
+    "x": -2278.81,
+    "y": 787.749,
+    "price": 20123213,
     "district": "Сан-Андреас"
   },
   {
@@ -25184,19 +25172,31 @@
     "status": "Аукцион",
     "x": 2454.18,
     "y": -965.0599,
-    "price": 100000000,
+    "price": 140000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 249,
+    "id": 1479,
+    "server_id": 26,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Walorde_Water",
+    "status": "Аукцион",
+    "x": 883.95,
+    "y": 2104.88,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 202,
     "server_id": 26,
     "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Rayder_Rivals",
+    "name": "Ларек с уличной едой",
+    "owner": "Ashton_Stewart",
     "status": "Аукцион",
-    "x": 111.076,
-    "y": -1782.68,
-    "price": 195999,
+    "x": 1183.17,
+    "y": -1315.1,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26600,6 +26600,18 @@
     "status": "Занято",
     "x": 2637.25,
     "y": 1129.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 249,
+    "server_id": 26,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Rayder_Rivals",
+    "status": "Занято",
+    "x": 111.076,
+    "y": -1782.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28244,18 +28256,6 @@
     "status": "Занято",
     "x": -104.79,
     "y": -309.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 202,
-    "server_id": 26,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Ashton_Stewart",
-    "status": "Занято",
-    "x": 1183.17,
-    "y": -1315.1,
     "price": 0,
     "district": "Сан-Андреас"
   },

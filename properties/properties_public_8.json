@@ -7516,7 +7516,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Дом",
-    "owner": "Emma_Frost",
+    "owner": "Dimas_Owner",
     "status": "Занято",
     "x": 4.1448,
     "y": 1344.59,
@@ -17076,18 +17076,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1424,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": 646.0679,
-    "y": -1117.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1425,
     "server_id": 8,
     "type": "house",
@@ -17823,11 +17811,23 @@
     "id": 1486,
     "server_id": 8,
     "type": "house",
-    "name": "TOP DOM",
+    "name": "Night",
     "owner": "Blake_Negodnicov",
     "status": "Занято",
     "x": 566.083,
     "y": -1113.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1487,
+    "server_id": 8,
+    "type": "house",
+    "name": "yt nysson",
+    "owner": "Alesandro_Notem",
+    "status": "Занято",
+    "x": 535.0469,
+    "y": -1174.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19712,18 +19712,6 @@
     "status": "Занято",
     "x": 877.9119,
     "y": -1514.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1645,
-    "server_id": 8,
-    "type": "house",
-    "name": "Сатанизм",
-    "owner": "Ophiterian_Cryolith",
-    "status": "Занято",
-    "x": -2402.42,
-    "y": 829.2379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25764,15 +25752,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1487,
+    "id": 1424,
     "server_id": 8,
     "type": "house",
-    "name": "yt nysson",
-    "owner": "Alesandro_Notem",
+    "name": "Дом",
+    "owner": "Kolya_Infinity",
     "status": "Аукцион",
-    "x": 535.0469,
-    "y": -1174.01,
-    "price": 500123123,
+    "x": 646.0679,
+    "y": -1117.34,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1645,
+    "server_id": 8,
+    "type": "house",
+    "name": "Сатанизм",
+    "owner": "Ophiterian_Cryolith",
+    "status": "Аукцион",
+    "x": -2402.42,
+    "y": 829.2379,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {

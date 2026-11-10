@@ -6364,7 +6364,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Майнинг 2/15",
-    "owner": "Sergio_Tohok",
+    "owner": "Miami_Party",
     "status": "Занято",
     "x": 1967.26,
     "y": 2766.48,
@@ -16152,18 +16152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1347,
-    "server_id": 31,
-    "type": "house",
-    "name": "Обитель Сурка",
-    "owner": "Lovec_Pisunov",
-    "status": "Занято",
-    "x": 1513.34,
-    "y": 2565.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1348,
     "server_id": 31,
     "type": "house",
@@ -19052,18 +19040,6 @@
     "status": "Занято",
     "x": 2441.53,
     "y": 1231.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1590,
-    "server_id": 31,
-    "type": "house",
-    "name": "Уходи отсюда, мужик.",
-    "owner": "James_Apollo",
-    "status": "Занято",
-    "x": 2441.54,
-    "y": 1233.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23364,15 +23340,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 463,
+    "id": 1347,
     "server_id": 31,
-    "type": "business",
-    "name": "Авиабазар",
-    "owner": "Cargo_Craft",
+    "type": "house",
+    "name": "Обитель Сурка",
+    "owner": "Lovec_Pisunov",
     "status": "Аукцион",
-    "x": 234.368,
-    "y": 2531.03,
-    "price": 1500000,
+    "x": 1513.34,
+    "y": 2565.43,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1590,
+    "server_id": 31,
+    "type": "house",
+    "name": "Уходи отсюда, мужик.",
+    "owner": "James_Apollo",
+    "status": "Аукцион",
+    "x": 2441.54,
+    "y": 1233.14,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
