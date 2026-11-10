@@ -19188,18 +19188,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1599,
-    "server_id": 22,
-    "type": "house",
-    "name": "для майнинга 3",
-    "owner": "Kitana_Slay",
-    "status": "Занято",
-    "x": 1548.85,
-    "y": 2003.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1600,
     "server_id": 22,
     "type": "house",
@@ -20700,18 +20688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1725,
-    "server_id": 22,
-    "type": "house",
-    "name": "Домик Генре",
-    "owner": "Absense_Mind",
-    "status": "Занято",
-    "x": 2492.15,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1726,
     "server_id": 22,
     "type": "house",
@@ -21368,18 +21344,6 @@
     "status": "Занято",
     "x": -768.5269,
     "y": 2765.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1781,
-    "server_id": 22,
-    "type": "house",
-    "name": "Подвал для Крафта и Майнинга ",
-    "owner": "Kitana_Slay",
-    "status": "Занято",
-    "x": -775.414,
-    "y": 2765.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22044,15 +22008,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 259,
+    "id": 1599,
     "server_id": 22,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Pytak_Abnulen",
+    "type": "house",
+    "name": "для майнинга 3",
+    "owner": "Kitana_Slay",
     "status": "Аукцион",
-    "x": 1404.09,
-    "y": 51.2512,
-    "price": 10000000000,
+    "x": 1548.85,
+    "y": 2003.91,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1725,
+    "server_id": 22,
+    "type": "house",
+    "name": "Домик Генре",
+    "owner": "Absense_Mind",
+    "status": "Аукцион",
+    "x": 2492.15,
+    "y": -1391.71,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1781,
+    "server_id": 22,
+    "type": "house",
+    "name": "Подвал для Крафта и Майнинга ",
+    "owner": "Kitana_Slay",
+    "status": "Аукцион",
+    "x": -775.414,
+    "y": 2765.34,
+    "price": 650000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24048,6 +24036,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 259,
+    "server_id": 22,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Metka_Jeezly",
+    "status": "Занято",
+    "x": 1404.09,
+    "y": 51.2512,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 260,
     "server_id": 22,
     "type": "business",
@@ -24244,7 +24244,7 @@
     "server_id": 22,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Bounty_Millioner",
+    "owner": "Dirty_Stu",
     "status": "Занято",
     "x": 2262.75,
     "y": 2036.09,

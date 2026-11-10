@@ -3072,18 +3072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 256,
-    "server_id": 15,
-    "type": "house",
-    "name": "КИЕВСИТИ",
-    "owner": "Jaa_Bum",
-    "status": "Занято",
-    "x": 2109.07,
-    "y": -1000.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 257,
     "server_id": 15,
     "type": "house",
@@ -5067,8 +5055,8 @@
     "id": 422,
     "server_id": 15,
     "type": "house",
-    "name": "swap house",
-    "owner": "Deluxe_Game",
+    "name": "Дом",
+    "owner": "Boba_McCloud",
     "status": "Занято",
     "x": 1312.43,
     "y": 170.811,
@@ -5180,6 +5168,18 @@
     "status": "Занято",
     "x": 253.3269,
     "y": -22.4484,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 432,
+    "server_id": 15,
+    "type": "house",
+    "name": "schulz?",
+    "owner": "SiegSchulz_Kitsune",
+    "status": "Занято",
+    "x": 2279.2,
+    "y": -1076.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10452,18 +10452,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 873,
-    "server_id": 15,
-    "type": "house",
-    "name": "Майнинг Ферма ( № 1 )",
-    "owner": "Pin_Kitsune",
-    "status": "Занято",
-    "x": -289.134,
-    "y": 2548.72,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 874,
     "server_id": 15,
     "type": "house",
@@ -14252,18 +14240,6 @@
     "status": "Занято",
     "x": -2792.93,
     "y": -153.097,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1190,
-    "server_id": 15,
-    "type": "house",
-    "name": "Топ Майнинг 2",
-    "owner": "Pin_Kitsune",
-    "status": "Занято",
-    "x": -2791.58,
-    "y": -145.904,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21312,15 +21288,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 432,
+    "id": 256,
     "server_id": 15,
     "type": "house",
-    "name": "schulz?",
-    "owner": "SiegSchulz_Kitsune",
+    "name": "КИЕВСИТИ",
+    "owner": "Jaa_Bum",
     "status": "Аукцион",
-    "x": 2279.2,
-    "y": -1076.63,
+    "x": 2109.07,
+    "y": -1000.65,
     "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 873,
+    "server_id": 15,
+    "type": "house",
+    "name": "Майнинг Ферма ( № 1 )",
+    "owner": "Pin_Kitsune",
+    "status": "Аукцион",
+    "x": -289.134,
+    "y": 2548.72,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1190,
+    "server_id": 15,
+    "type": "house",
+    "name": "Топ Майнинг 2",
+    "owner": "Pin_Kitsune",
+    "status": "Аукцион",
+    "x": -2791.58,
+    "y": -145.904,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {
