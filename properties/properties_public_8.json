@@ -11112,18 +11112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 927,
-    "server_id": 8,
-    "type": "house",
-    "name": "Lorans Miners #1",
-    "owner": "Dirty_Stu",
-    "status": "Занято",
-    "x": -1842.22,
-    "y": 1114.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 928,
     "server_id": 8,
     "type": "house",
@@ -13344,6 +13332,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1113,
+    "server_id": 8,
+    "type": "house",
+    "name": "Oreshnik",
+    "owner": "Ibrahim_Oreshnik",
+    "status": "Занято",
+    "x": 1751.56,
+    "y": 2747.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1114,
     "server_id": 8,
     "type": "house",
@@ -15404,6 +15404,18 @@
     "status": "Занято",
     "x": -2396.66,
     "y": 1132.75,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1286,
+    "server_id": 8,
+    "type": "house",
+    "name": "cuerto squad",
+    "owner": "Anisim_Popov",
+    "status": "Занято",
+    "x": -2383.79,
+    "y": 1128.14,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20244,6 +20256,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1691,
+    "server_id": 8,
+    "type": "house",
+    "name": "FXCKING BLACK",
+    "owner": "Absense_Mind",
+    "status": "Занято",
+    "x": 2000.3,
+    "y": -991.559,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1692,
     "server_id": 8,
     "type": "house",
@@ -23952,18 +23976,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2001,
-    "server_id": 8,
-    "type": "house",
-    "name": "майнинг фулл 10",
-    "owner": "Dimon_Neslodo",
-    "status": "Занято",
-    "x": 2517.04,
-    "y": 1674.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2002,
     "server_id": 8,
     "type": "house",
@@ -24067,18 +24079,6 @@
     "owner": "Igor_Strelkovv",
     "status": "Занято",
     "x": 2503.54,
-    "y": 1643.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2011,
-    "server_id": 8,
-    "type": "house",
-    "name": "Бомжатские Хоромы",
-    "owner": "Dimon_Phoenix",
-    "status": "Занято",
-    "x": 2498.64,
     "y": 1643.58,
     "price": 0,
     "district": "Сан-Андреас"
@@ -25716,27 +25716,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1113,
+    "id": 927,
     "server_id": 8,
     "type": "house",
-    "name": "Oreshnik",
-    "owner": "Ibrahim_Oreshnik",
+    "name": "Lorans Miners #1",
+    "owner": "Dirty_Stu",
     "status": "Аукцион",
-    "x": 1751.56,
-    "y": 2747.21,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1286,
-    "server_id": 8,
-    "type": "house",
-    "name": "cuerto squad",
-    "owner": "Sirius_Cybernetik",
-    "status": "Аукцион",
-    "x": -2383.79,
-    "y": 1128.14,
-    "price": 300000000,
+    "x": -1842.22,
+    "y": 1114.76,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25752,14 +25740,26 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1691,
+    "id": 2001,
     "server_id": 8,
     "type": "house",
-    "name": "FXCKING BLACK",
-    "owner": "Absense_Mind",
+    "name": "хата1",
+    "owner": "Dimon_Phoenix",
     "status": "Аукцион",
-    "x": 2000.3,
-    "y": -991.559,
+    "x": 2517.04,
+    "y": 1674.2,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2011,
+    "server_id": 8,
+    "type": "house",
+    "name": "хата2",
+    "owner": "Dimon_Phoenix",
+    "status": "Аукцион",
+    "x": 2498.64,
+    "y": 1643.58,
     "price": 300000000,
     "district": "Сан-Андреас"
   },
@@ -25785,18 +25785,6 @@
     "x": 2587.4,
     "y": -1216.34,
     "price": 50000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 120,
-    "server_id": 8,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Joni_Disney",
-    "status": "Аукцион",
-    "x": -2718.47,
-    "y": 50.452,
-    "price": 239999,
     "district": "Сан-Андреас"
   },
   {
@@ -26756,6 +26744,18 @@
     "status": "Занято",
     "x": -1694.58,
     "y": 951.914,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 120,
+    "server_id": 8,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Joni_Disney",
+    "status": "Занято",
+    "x": -2718.47,
+    "y": 50.452,
     "price": 0,
     "district": "Сан-Андреас"
   },
