@@ -316,7 +316,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Farm House",
-    "owner": "Danyl_Sakamoto",
+    "owner": "Painted_Blood",
     "status": "Занято",
     "x": 2247.91,
     "y": -1238.57,
@@ -772,7 +772,7 @@
     "server_id": 8,
     "type": "house",
     "name": "dirty morty",
-    "owner": "Morty_Monroe",
+    "owner": "Carth_Ling",
     "status": "Занято",
     "x": 2459.5,
     "y": -1691.26,
@@ -2860,7 +2860,7 @@
     "server_id": 8,
     "type": "house",
     "name": "dirty morty",
-    "owner": "Morty_Monroe",
+    "owner": "Carth_Ling",
     "status": "Занято",
     "x": 1095.35,
     "y": -646.234,
@@ -11112,14 +11112,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 928,
+    "id": 927,
     "server_id": 8,
     "type": "house",
-    "name": "Lorans Miners #2",
-    "owner": "Naldon_Legenda",
+    "name": "Lorans Miners #1",
+    "owner": "Feldan_Lizalov",
     "status": "Занято",
-    "x": -1860.83,
-    "y": 1114.77,
+    "x": -1842.22,
+    "y": 1114.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19752,6 +19752,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1648,
+    "server_id": 8,
+    "type": "house",
+    "name": "чюпеп",
+    "owner": "Absense_Mind",
+    "status": "Занято",
+    "x": -2402.41,
+    "y": 886.083,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1649,
     "server_id": 8,
     "type": "house",
@@ -23976,6 +23988,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 2001,
+    "server_id": 8,
+    "type": "house",
+    "name": "хата1",
+    "owner": "Dimon_Phoenix",
+    "status": "Занято",
+    "x": 2517.04,
+    "y": 1674.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 2002,
     "server_id": 8,
     "type": "house",
@@ -24079,6 +24103,18 @@
     "owner": "Igor_Strelkovv",
     "status": "Занято",
     "x": 2503.54,
+    "y": 1643.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2011,
+    "server_id": 8,
+    "type": "house",
+    "name": "хата2",
+    "owner": "Dimon_Phoenix",
+    "status": "Занято",
+    "x": 2498.64,
     "y": 1643.58,
     "price": 0,
     "district": "Сан-Андреас"
@@ -24740,6 +24776,18 @@
     "status": "Занято",
     "x": 2615.11,
     "y": -1211.78,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2069,
+    "server_id": 8,
+    "type": "house",
+    "name": "*Tompson house*",
+    "owner": "Fanat_Emmersonov",
+    "status": "Занято",
+    "x": 2587.4,
+    "y": -1216.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25716,50 +25764,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 927,
+    "id": 928,
     "server_id": 8,
     "type": "house",
-    "name": "Lorans Miners #1",
-    "owner": "Dirty_Stu",
+    "name": "Lorans Miners #2",
+    "owner": "Naldon_Legenda",
     "status": "Аукцион",
-    "x": -1842.22,
-    "y": 1114.76,
-    "price": 200123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1648,
-    "server_id": 8,
-    "type": "house",
-    "name": "чюпеп",
-    "owner": "Absense_Mind",
-    "status": "Аукцион",
-    "x": -2402.41,
-    "y": 886.083,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2001,
-    "server_id": 8,
-    "type": "house",
-    "name": "хата1",
-    "owner": "Dimon_Phoenix",
-    "status": "Аукцион",
-    "x": 2517.04,
-    "y": 1674.2,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2011,
-    "server_id": 8,
-    "type": "house",
-    "name": "хата2",
-    "owner": "Dimon_Phoenix",
-    "status": "Аукцион",
-    "x": 2498.64,
-    "y": 1643.58,
+    "x": -1860.83,
+    "y": 1114.77,
     "price": 300000000,
     "district": "Сан-Андреас"
   },
@@ -25773,18 +25785,6 @@
     "x": 2594.5,
     "y": -1207.54,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 2069,
-    "server_id": 8,
-    "type": "house",
-    "name": "*Tompson house*",
-    "owner": "Feldan_Lizalov",
-    "status": "Аукцион",
-    "x": 2587.4,
-    "y": -1216.34,
-    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {

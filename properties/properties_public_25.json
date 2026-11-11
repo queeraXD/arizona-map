@@ -4896,6 +4896,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 408,
+    "server_id": 25,
+    "type": "house",
+    "name": "swayzer 2/12",
+    "owner": "Dava_Kanava",
+    "status": "Занято",
+    "x": 1428.29,
+    "y": 355.7619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 409,
     "server_id": 25,
     "type": "house",
@@ -20436,18 +20448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1705,
-    "server_id": 25,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Afonya_Stark",
-    "status": "Занято",
-    "x": 2541.53,
-    "y": 1212.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1706,
     "server_id": 25,
     "type": "house",
@@ -23760,15 +23760,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 408,
+    "id": 1705,
     "server_id": 25,
     "type": "house",
-    "name": "swayzer 2/12",
-    "owner": "Dava_Kanava",
+    "name": "Дом",
+    "owner": "Afonya_Stark",
     "status": "Аукцион",
-    "x": 1428.29,
-    "y": 355.7619,
+    "x": 2541.53,
+    "y": 1212.77,
     "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 184,
+    "server_id": 25,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Michael_Rapaport",
+    "status": "Аукцион",
+    "x": 2351.41,
+    "y": 2405.59,
+    "price": 75000,
     "district": "Сан-Андреас"
   },
   {
@@ -23780,7 +23792,7 @@
     "status": "Аукцион",
     "x": -2400.04,
     "y": 337.43,
-    "price": 4000000000,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24028,7 +24040,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Бар",
-    "owner": "Alexander_Afganec",
+    "owner": "Loo_Stark",
     "status": "Занято",
     "x": -88.742,
     "y": 1378.27,
@@ -25228,7 +25240,7 @@
     "server_id": 25,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Alexander_Afganec",
+    "owner": "Loo_Stark",
     "status": "Занято",
     "x": -2975.86,
     "y": 623.271,
@@ -26296,7 +26308,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Отель",
-    "owner": "FunPay_Stark",
+    "owner": "Evgeny_Pashenkov",
     "status": "Занято",
     "x": 1785.504,
     "y": -1394.201,
@@ -26628,18 +26640,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 184,
-    "server_id": 25,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Michael_Rapaport",
-    "status": "Занято",
-    "x": 2351.41,
-    "y": 2405.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 185,
     "server_id": 25,
     "type": "business",
@@ -26752,7 +26752,7 @@
     "server_id": 25,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Alexander_Afganec",
+    "owner": "Loo_Stark",
     "status": "Занято",
     "x": -2022.61,
     "y": 459.31,

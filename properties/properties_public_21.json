@@ -2008,7 +2008,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Smith Family",
-    "owner": "Vard_Arias",
+    "owner": "Vladislav_Djasden",
     "status": "Занято",
     "x": 922.007,
     "y": -1803.89,
@@ -5348,18 +5348,6 @@
     "status": "Занято",
     "x": 2439.9,
     "y": -1010.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 446,
-    "server_id": 21,
-    "type": "house",
-    "name": "Legit",
-    "owner": "Napapiri_Legit",
-    "status": "Занято",
-    "x": 2440.64,
-    "y": -1057.33,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8880,18 +8868,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 740,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Highschool_Dropout",
-    "status": "Занято",
-    "x": -2840.23,
-    "y": 877.4359,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 741,
     "server_id": 21,
     "type": "house",
@@ -9576,18 +9552,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 798,
-    "server_id": 21,
-    "type": "house",
-    "name": "царское убежище",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 763.504,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 799,
     "server_id": 21,
     "type": "house",
@@ -10040,18 +10004,6 @@
     "status": "Занято",
     "x": -2284.87,
     "y": 849.708,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 837,
-    "server_id": 21,
-    "type": "house",
-    "name": "ВИЛЛА В ЦЕНТРЕ СФ",
-    "owner": "After_Hours",
-    "status": "Занято",
-    "x": -2285.11,
-    "y": 829.252,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11192,18 +11144,6 @@
     "status": "Занято",
     "x": -2094.28,
     "y": 745.752,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 934,
-    "server_id": 21,
-    "type": "house",
-    "name": "Legit",
-    "owner": "Napapiri_Legit",
-    "status": "Занято",
-    "x": -2112.64,
-    "y": 745.564,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14508,18 +14448,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1210,
-    "server_id": 21,
-    "type": "house",
-    "name": "Вилла",
-    "owner": "Mac_Traher",
-    "status": "Занято",
-    "x": -2884.79,
-    "y": 750.6229,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1211,
     "server_id": 21,
     "type": "house",
@@ -15860,18 +15788,6 @@
     "status": "Занято",
     "x": 1475.31,
     "y": 372.7489,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1323,
-    "server_id": 21,
-    "type": "house",
-    "name": "Мамонтега",
-    "owner": "Mac_Traher",
-    "status": "Занято",
-    "x": 1465.76,
-    "y": 364.191,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19116,6 +19032,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1594,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Borya_Arias",
+    "status": "Занято",
+    "x": 2407.9,
+    "y": 962.8809,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1595,
     "server_id": 21,
     "type": "house",
@@ -19648,7 +19576,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Деп условия",
-    "owner": "Farmer_Farmerov",
+    "owner": "Lew_Lewich",
     "status": "Занято",
     "x": 2508.13,
     "y": 1643.58,
@@ -21924,15 +21852,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1594,
+    "id": 446,
+    "server_id": 21,
+    "type": "house",
+    "name": "Legit",
+    "owner": "Napapiri_Legit",
+    "status": "Аукцион",
+    "x": 2440.64,
+    "y": -1057.33,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 740,
     "server_id": 21,
     "type": "house",
     "name": "Дом",
-    "owner": "Borya_Arias",
+    "owner": "Highschool_Dropout",
     "status": "Аукцион",
-    "x": 2407.9,
-    "y": 962.8809,
-    "price": 300123123,
+    "x": -2840.23,
+    "y": 877.4359,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 798,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": -2368.82,
+    "y": 763.504,
+    "price": 80123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 837,
+    "server_id": 21,
+    "type": "house",
+    "name": "ВИЛЛА В ЦЕНТРЕ СФ",
+    "owner": "After_Hours",
+    "status": "Аукцион",
+    "x": -2285.11,
+    "y": 829.252,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 934,
+    "server_id": 21,
+    "type": "house",
+    "name": "Legit",
+    "owner": "Napapiri_Legit",
+    "status": "Аукцион",
+    "x": -2112.64,
+    "y": 745.564,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1210,
+    "server_id": 21,
+    "type": "house",
+    "name": "Вилла",
+    "owner": "Mac_Traher",
+    "status": "Аукцион",
+    "x": -2884.79,
+    "y": 750.6229,
+    "price": 155555555,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1323,
+    "server_id": 21,
+    "type": "house",
+    "name": "я готов трахнуть пацана",
+    "owner": "Mac_Traher",
+    "status": "Аукцион",
+    "x": 1465.76,
+    "y": 364.191,
+    "price": 155555555,
     "district": "Сан-Андреас"
   },
   {

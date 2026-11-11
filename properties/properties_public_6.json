@@ -11472,6 +11472,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 956,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Hard_Rockstar",
+    "status": "Занято",
+    "x": -2187.02,
+    "y": 743.3419,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 957,
     "server_id": 6,
     "type": "house",
@@ -12236,18 +12248,6 @@
     "status": "Занято",
     "x": -2351.48,
     "y": 1281.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1021,
-    "server_id": 6,
-    "type": "house",
-    "name": "Илюха Home",
-    "owner": "Ilya_Balad",
-    "status": "Занято",
-    "x": -2351.16,
-    "y": 1299.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21324,18 +21324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1778,
-    "server_id": 6,
-    "type": "house",
-    "name": "аукцион",
-    "owner": "Atlantic_Runner",
-    "status": "Занято",
-    "x": 1542.52,
-    "y": 2003.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1779,
     "server_id": 6,
     "type": "house",
@@ -24516,15 +24504,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 956,
+    "id": 1021,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Riddle_Dillan",
+    "name": "Илюха Home",
+    "owner": "Ilya_Balad",
     "status": "Аукцион",
-    "x": -2187.02,
-    "y": 743.3419,
-    "price": 250123123,
+    "x": -2351.16,
+    "y": 1299.53,
+    "price": 340000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1778,
+    "server_id": 6,
+    "type": "house",
+    "name": "аукцион",
+    "owner": "Atlantic_Runner",
+    "status": "Аукцион",
+    "x": 1542.52,
+    "y": 2003.91,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {

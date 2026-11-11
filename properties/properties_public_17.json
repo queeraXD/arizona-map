@@ -2952,18 +2952,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 246,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stalin_Wyatesta",
-    "status": "Занято",
-    "x": 431.881,
-    "y": -1253.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 247,
     "server_id": 17,
     "type": "house",
@@ -3044,18 +3032,6 @@
     "status": "Занято",
     "x": 2536.19,
     "y": 128.9869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 254,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stalin_Wyatesta",
-    "status": "Занято",
-    "x": 2373.96,
-    "y": 71.0979,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6984,18 +6960,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 582,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stalin_Wyatesta",
-    "status": "Занято",
-    "x": -275.376,
-    "y": 2736.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 583,
     "server_id": 17,
     "type": "house",
@@ -8680,7 +8644,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Andrey_Archontov",
+    "owner": "Dimas_Owner",
     "status": "Занято",
     "x": 1652.34,
     "y": 2709.34,
@@ -14436,18 +14400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1203,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stalin_Wyatesta",
-    "status": "Занято",
-    "x": -2793.14,
-    "y": 110.9309,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1204,
     "server_id": 17,
     "type": "house",
@@ -15300,18 +15252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1275,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ludik_Mann",
-    "status": "Занято",
-    "x": -2434.01,
-    "y": 1311.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1276,
     "server_id": 17,
     "type": "house",
@@ -15428,18 +15368,6 @@
     "status": "Занято",
     "x": -2383.14,
     "y": 1299.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1286,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ludik_Mann",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1318.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18768,18 +18696,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1564,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stalin_Wyatesta",
-    "status": "Занято",
-    "x": 1846.53,
-    "y": -2021.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1565,
     "server_id": 17,
     "type": "house",
@@ -21364,7 +21280,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Matvei_Tatankin",
+    "owner": "Matvey_Burmaldancer",
     "status": "Занято",
     "x": 1736.42,
     "y": 2803.6,
@@ -21656,18 +21572,6 @@
     "status": "Занято",
     "x": 2623.65,
     "y": 2048.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1810,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stalin_Wyatesta",
-    "status": "Занято",
-    "x": 2623.65,
-    "y": 2039.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22473,6 +22377,102 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 246,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stalin_Wyatesta",
+    "status": "Аукцион",
+    "x": 431.881,
+    "y": -1253.44,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 254,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stalin_Wyatesta",
+    "status": "Аукцион",
+    "x": 2373.96,
+    "y": 71.0979,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 582,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stalin_Wyatesta",
+    "status": "Аукцион",
+    "x": -275.376,
+    "y": 2736.23,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1203,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stalin_Wyatesta",
+    "status": "Аукцион",
+    "x": -2793.14,
+    "y": 110.9309,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1275,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ludik_Mann",
+    "status": "Аукцион",
+    "x": -2434.01,
+    "y": 1311.22,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1286,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Ludik_Mann",
+    "status": "Аукцион",
+    "x": -2383.14,
+    "y": 1318.06,
+    "price": 1000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1564,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stalin_Wyatesta",
+    "status": "Аукцион",
+    "x": 1846.53,
+    "y": -2021.39,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1810,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Stalin_Wyatesta",
+    "status": "Аукцион",
+    "x": 2623.65,
+    "y": 2039.59,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
