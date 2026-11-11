@@ -7908,18 +7908,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 659,
-    "server_id": 10,
-    "type": "house",
-    "name": "Beheaded",
-    "owner": "Metka_Doma",
-    "status": "Занято",
-    "x": 1029.68,
-    "y": 1876.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 660,
     "server_id": 10,
     "type": "house",
@@ -7971,8 +7959,8 @@
     "id": 664,
     "server_id": 10,
     "type": "house",
-    "name": "дом родний дом",
-    "owner": "Kolyna_Skyworth",
+    "name": "Хата Ганчика)",
+    "owner": "Gun_Killa",
     "status": "Занято",
     "x": 984.2709,
     "y": 1978.33,
@@ -10032,6 +10020,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 836,
+    "server_id": 10,
+    "type": "house",
+    "name": "не входить собака сожрёт",
+    "owner": "California_Baby",
+    "status": "Занято",
+    "x": -2284.87,
+    "y": 849.708,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 837,
     "server_id": 10,
     "type": "house",
@@ -10868,18 +10868,6 @@
     "status": "Занято",
     "x": -2126.89,
     "y": 996.109,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 908,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stich_Brabus",
-    "status": "Занято",
-    "x": -2126.98,
-    "y": 1014.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12696,6 +12684,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1060,
+    "server_id": 10,
+    "type": "house",
+    "name": "DESTRY",
+    "owner": "Shopen_Insider",
+    "status": "Занято",
+    "x": -2152.06,
+    "y": 1248.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1061,
     "server_id": 10,
     "type": "house",
@@ -14160,18 +14160,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1183,
-    "server_id": 10,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Stich_Brabus",
-    "status": "Занято",
-    "x": -2791.86,
-    "y": -41.8134,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1184,
     "server_id": 10,
     "type": "house",
@@ -14224,7 +14212,7 @@
     "server_id": 10,
     "type": "house",
     "name": "Lazzarelli Empire - House",
-    "owner": "Viper_Darkness",
+    "owner": "Shopen_Insider",
     "status": "Занято",
     "x": -2793.14,
     "y": 21.3057,
@@ -21652,7 +21640,7 @@
     "server_id": 10,
     "type": "house",
     "name": "emerald family",
-    "owner": "Blood_Prince",
+    "owner": "Corpse_Routine",
     "status": "Занято",
     "x": 2487.3,
     "y": -1410.34,
@@ -23328,26 +23316,38 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 836,
+    "id": 908,
     "server_id": 10,
     "type": "house",
-    "name": "не входить собака сожрёт",
-    "owner": "California_Baby",
-    "status": "Аукцион",
-    "x": -2284.87,
-    "y": 849.708,
-    "price": 800,
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2126.98,
+    "y": 1014.21,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1060,
+    "id": 1183,
     "server_id": 10,
     "type": "house",
-    "name": "DESTRY",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2791.86,
+    "y": -41.8134,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 659,
+    "server_id": 10,
+    "type": "house",
+    "name": "Beheaded",
     "owner": "Metka_Doma",
     "status": "Аукцион",
-    "x": -2152.06,
-    "y": 1248.54,
+    "x": 1029.68,
+    "y": 1876.28,
     "price": 100000000,
     "district": "Сан-Андреас"
   },

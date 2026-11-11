@@ -4716,18 +4716,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 394,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2197.81,
-    "y": -60.608,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 395,
     "server_id": 4,
     "type": "house",
@@ -6588,18 +6576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 552,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом Пожарного",
-    "owner": "Ramil_Clemente",
-    "status": "Занято",
-    "x": 465.75,
-    "y": 1147.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 553,
     "server_id": 4,
     "type": "house",
@@ -7132,7 +7108,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Fifteen squad",
-    "owner": "Hiroto_Chandler",
+    "owner": "Morfi_Winston",
     "status": "Занято",
     "x": -1450.71,
     "y": 2691.05,
@@ -10760,6 +10736,18 @@
     "status": "Занято",
     "x": -2069.44,
     "y": -2561.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 901,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Medical_Girl",
+    "status": "Занято",
+    "x": -2043.43,
+    "y": -2559.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14400,6 +14388,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1206,
+    "server_id": 4,
+    "type": "house",
+    "name": "Millerson House",
+    "owner": "Kristopher_Atsuka",
+    "status": "Занято",
+    "x": -2905.16,
+    "y": 1164.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1207,
     "server_id": 4,
     "type": "house",
@@ -15568,7 +15568,7 @@
     "server_id": 4,
     "type": "house",
     "name": "фембойны домик ",
-    "owner": "Twilight_Astrales",
+    "owner": "Hooves_Onyxflame",
     "status": "Занято",
     "x": -2358.62,
     "y": 679.963,
@@ -16208,18 +16208,6 @@
     "status": "Занято",
     "x": 2398.35,
     "y": 111.763,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1358,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2285.88,
-    "y": 161.7709,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16980,18 +16968,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1422,
-    "server_id": 4,
-    "type": "house",
-    "name": "Даркуша",
-    "owner": "Fernando_Krauls",
-    "status": "Занято",
-    "x": 2140.02,
-    "y": -1008.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1423,
     "server_id": 4,
     "type": "house",
@@ -17044,7 +17020,7 @@
     "server_id": 4,
     "type": "house",
     "name": "UZB",
-    "owner": "Deny_Monopoly",
+    "owner": "Evgeniy_Hamer",
     "status": "Занято",
     "x": 2044.82,
     "y": -991.2899,
@@ -23544,6 +23520,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1971,
+    "server_id": 4,
+    "type": "house",
+    "name": "Домик с депкой",
+    "owner": "Nova_Pride",
+    "status": "Занято",
+    "x": 2492.16,
+    "y": -1424.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1972,
     "server_id": 4,
     "type": "house",
@@ -25160,7 +25148,19 @@
     "status": "Аукцион",
     "x": 2258.04,
     "y": 167.8099,
-    "price": 4999999999,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 394,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2197.81,
+    "y": -60.608,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25172,7 +25172,7 @@
     "status": "Аукцион",
     "x": 2367.38,
     "y": -48.8526,
-    "price": 4999999999,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25184,19 +25184,19 @@
     "status": "Аукцион",
     "x": 2438.82,
     "y": -54.6911,
-    "price": 4999999999,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 901,
+    "id": 552,
     "server_id": 4,
     "type": "house",
-    "name": "Дом",
-    "owner": "Medical_Girl",
+    "name": "Дом Пожарного",
+    "owner": "Ramil_Clemente",
     "status": "Аукцион",
-    "x": -2043.43,
-    "y": -2559.45,
-    "price": 400000000,
+    "x": 465.75,
+    "y": 1147.6,
+    "price": 250000100,
     "district": "Сан-Андреас"
   },
   {
@@ -25212,27 +25212,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1206,
+    "id": 1358,
     "server_id": 4,
     "type": "house",
-    "name": "Millerson House",
-    "owner": "Sasha_Dnepr",
+    "name": "Продается дом",
+    "owner": "Doctor_Infernales",
     "status": "Аукцион",
-    "x": -2905.16,
-    "y": 1164.97,
-    "price": 1000000,
+    "x": 2285.88,
+    "y": 161.7709,
+    "price": 2900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1422,
+    "server_id": 4,
+    "type": "house",
+    "name": "Даркуша",
+    "owner": "Fernando_Krauls",
+    "status": "Аукцион",
+    "x": 2140.02,
+    "y": -1008.5,
+    "price": 5000000,
     "district": "Сан-Андреас"
   },
   {
     "id": 1539,
     "server_id": 4,
     "type": "house",
-    "name": "поебень",
-    "owner": "Sasha_Dnepr",
+    "name": "FamilyLive",
+    "owner": "Kate_Dizel",
     "status": "Аукцион",
     "x": 2750.39,
     "y": -1205.69,
-    "price": 1000000,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25248,15 +25260,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1971,
+    "id": 259,
     "server_id": 4,
-    "type": "house",
-    "name": "Домик с депкой",
-    "owner": "martinerose",
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Down_Town",
     "status": "Аукцион",
-    "x": 2492.16,
-    "y": -1424.58,
-    "price": 200000000,
+    "x": 1404.09,
+    "y": 51.2512,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27248,18 +27260,6 @@
     "status": "Занято",
     "x": 2330.59,
     "y": 2533.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 259,
-    "server_id": 4,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Down_Town",
-    "status": "Занято",
-    "x": 1404.09,
-    "y": 51.2512,
     "price": 0,
     "district": "Сан-Андреас"
   },
