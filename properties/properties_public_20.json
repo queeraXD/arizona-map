@@ -2196,18 +2196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 183,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Echo_Terror",
-    "status": "Занято",
-    "x": 694.833,
-    "y": -1690.29,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 184,
     "server_id": 20,
     "type": "house",
@@ -3344,18 +3332,6 @@
     "status": "Занято",
     "x": 2526.83,
     "y": -1033.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 279,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pursuing_Peace",
-    "status": "Занято",
-    "x": 2194.19,
-    "y": -999.3109,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9228,18 +9204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 769,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "White_City",
-    "status": "Занято",
-    "x": -2594.19,
-    "y": 768.164,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 770,
     "server_id": 20,
     "type": "house",
@@ -9364,7 +9328,7 @@
     "server_id": 20,
     "type": "house",
     "name": ":uf259: broodskie :uf259:",
-    "owner": "Yee_Blonde",
+    "owner": "Konstantin_Sokolov",
     "status": "Занято",
     "x": -2541.29,
     "y": 733.153,
@@ -9672,6 +9636,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 806,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом-баскетбольный корт.",
+    "owner": "Hayler_Bad",
+    "status": "Занято",
+    "x": -2723.93,
+    "y": -105.541,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 807,
     "server_id": 20,
     "type": "house",
@@ -9760,7 +9736,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Zane_House",
-    "owner": "Zane_Julien",
+    "owner": "Channi_Mursh",
     "status": "Занято",
     "x": -2723.1,
     "y": -178.8459,
@@ -9952,7 +9928,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Майнинг 8 LVL",
-    "owner": "Shket_Kingside",
+    "owner": "Rjey_Javelin",
     "status": "Занято",
     "x": -2723.16,
     "y": -16.7231,
@@ -19992,18 +19968,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1667,
-    "server_id": 20,
-    "type": "house",
-    "name": "Recorti Avenue",
-    "owner": "Why_Water",
-    "status": "Занято",
-    "x": 2487.34,
-    "y": -1431.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1668,
     "server_id": 20,
     "type": "house",
@@ -22344,15 +22308,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 806,
+    "id": 183,
     "server_id": 20,
     "type": "house",
-    "name": "Дом-баскетбольный корт.",
+    "name": "Дом",
+    "owner": "Echo_Terror",
+    "status": "Аукцион",
+    "x": 694.833,
+    "y": -1690.29,
+    "price": 555555555,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 279,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pursuing_Peace",
+    "status": "Аукцион",
+    "x": 2194.19,
+    "y": -999.3109,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 769,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
     "owner": "Государство",
     "status": "Аукцион",
-    "x": -2723.93,
-    "y": -105.541,
+    "x": -2594.19,
+    "y": 768.164,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1667,
+    "server_id": 20,
+    "type": "house",
+    "name": "Recorti Avenue",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2487.34,
+    "y": -1431.68,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 204,
+    "server_id": 20,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Prince_Moretti",
+    "status": "Аукцион",
+    "x": 1502.14,
+    "y": -1278.58,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25436,18 +25448,6 @@
     "status": "Занято",
     "x": 1433.75,
     "y": -1739.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 204,
-    "server_id": 20,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Prince_Moretti",
-    "status": "Занято",
-    "x": 1502.14,
-    "y": -1278.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
