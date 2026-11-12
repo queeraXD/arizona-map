@@ -8676,18 +8676,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 723,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dimas_Owner",
-    "status": "Занято",
-    "x": 1652.34,
-    "y": 2709.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 724,
     "server_id": 17,
     "type": "house",
@@ -9608,18 +9596,6 @@
     "status": "Занято",
     "x": -2358.42,
     "y": 820.0349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 801,
-    "server_id": 17,
-    "type": "house",
-    "name": "арбуз",
-    "owner": "Abdullah_Arbuzov",
-    "status": "Занято",
-    "x": -2340.03,
-    "y": 820.0209,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11516,6 +11492,18 @@
     "status": "Занято",
     "x": -2158.75,
     "y": 786.197,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 960,
+    "server_id": 17,
+    "type": "house",
+    "name": "photosquad",
+    "owner": "Giuseppe_Vercetti",
+    "status": "Занято",
+    "x": -2158.94,
+    "y": 769.9379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14808,6 +14796,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1235,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vardik_Abramov",
+    "status": "Занято",
+    "x": -2623.46,
+    "y": 131.589,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1236,
     "server_id": 17,
     "type": "house",
@@ -17184,18 +17184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1434,
-    "server_id": 17,
-    "type": "house",
-    "name": "farmer",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -1550.43,
-    "y": 2699.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1435,
     "server_id": 17,
     "type": "house",
@@ -17396,6 +17384,18 @@
     "status": "Занято",
     "x": -2361.51,
     "y": 246.619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1452,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Bonus_Skamm",
+    "status": "Занято",
+    "x": -2361.44,
+    "y": 251.6199,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18836,18 +18836,6 @@
     "status": "Занято",
     "x": 1867.77,
     "y": -2010.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1573,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Podpal_Dryn",
-    "status": "Занято",
-    "x": 1870.76,
-    "y": -2019.77,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20324,6 +20312,18 @@
     "status": "Занято",
     "x": 1115.72,
     "y": -1562.72,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1697,
+    "server_id": 17,
+    "type": "house",
+    "name": "майнинг",
+    "owner": "Egor_Sagrada",
+    "status": "Занято",
+    "x": 2492.11,
+    "y": -1424.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22428,51 +22428,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 960,
-    "server_id": 17,
-    "type": "house",
-    "name": "photosquad",
-    "owner": "Akeno_Gremore",
-    "status": "Аукцион",
-    "x": -2158.94,
-    "y": 769.9379,
-    "price": 20000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1235,
+    "id": 723,
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Vardik_Abramov",
+    "owner": "Dimas_Owner",
     "status": "Аукцион",
-    "x": -2623.46,
-    "y": 131.589,
-    "price": 150123123,
+    "x": 1652.34,
+    "y": 2709.34,
+    "price": 300123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1452,
+    "id": 801,
+    "server_id": 17,
+    "type": "house",
+    "name": "арбуз",
+    "owner": "Abdullah_Arbuzov",
+    "status": "Аукцион",
+    "x": -2340.03,
+    "y": 820.0209,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1434,
+    "server_id": 17,
+    "type": "house",
+    "name": "домэк с ириной",
+    "owner": "Michail_Shtyh",
+    "status": "Аукцион",
+    "x": -1550.43,
+    "y": 2699.86,
+    "price": 800123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1573,
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Bonus_Skamm",
+    "owner": "Podpal_Dryn",
     "status": "Аукцион",
-    "x": -2361.44,
-    "y": 251.6199,
-    "price": 10000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1697,
-    "server_id": 17,
-    "type": "house",
-    "name": "майнинг",
-    "owner": "Egor_Sagrada",
-    "status": "Аукцион",
-    "x": 2492.11,
-    "y": -1424.58,
-    "price": 1000000,
+    "x": 1870.76,
+    "y": -2019.77,
+    "price": 80123213,
     "district": "Сан-Андреас"
   },
   {
