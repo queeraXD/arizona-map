@@ -1287,7 +1287,7 @@
     "id": 107,
     "server_id": 2,
     "type": "house",
-    "name": "DAGESTAN",
+    "name": "AEZAKMI",
     "owner": "Dagestan_Arakdiy",
     "status": "Занято",
     "x": 2017.34,
@@ -2391,7 +2391,7 @@
     "id": 199,
     "server_id": 2,
     "type": "house",
-    "name": "Shmid House ",
+    "name": "Дом просто дом",
     "owner": "Igor_Muller",
     "status": "Занято",
     "x": 1421.91,
@@ -6927,7 +6927,7 @@
     "id": 577,
     "server_id": 2,
     "type": "house",
-    "name": "Shoker",
+    "name": "Svino ferm",
     "owner": "Sava_Cartel",
     "status": "Занято",
     "x": -201.6629,
@@ -14292,18 +14292,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1192,
-    "server_id": 2,
-    "type": "house",
-    "name": "Maier",
-    "owner": "Vlad_Bonsak",
-    "status": "Занято",
-    "x": -2791.59,
-    "y": 200.5189,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1193,
     "server_id": 2,
     "type": "house",
@@ -20400,18 +20388,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1701,
-    "server_id": 2,
-    "type": "house",
-    "name": "Exodus Family <3",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": 885.4229,
-    "y": 2153.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1702,
     "server_id": 2,
     "type": "house",
@@ -23961,6 +23937,30 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1192,
+    "server_id": 2,
+    "type": "house",
+    "name": "Maier",
+    "owner": "Vlad_Bonsak",
+    "status": "Аукцион",
+    "x": -2791.59,
+    "y": 200.5189,
+    "price": 2100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1701,
+    "server_id": 2,
+    "type": "house",
+    "name": "Exodus Family <3",
+    "owner": "Kedroviy_Oreh",
+    "status": "Аукцион",
+    "x": 885.4229,
+    "y": 2153.95,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {

@@ -2704,7 +2704,7 @@
     "server_id": 8,
     "type": "house",
     "name": "dirty morty",
-    "owner": "Morty_Monroe",
+    "owner": "Did_Inside",
     "status": "Занято",
     "x": 946.0869,
     "y": -710.3339,
@@ -2720,18 +2720,6 @@
     "status": "Занято",
     "x": 980.2369,
     "y": -676.6939,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 227,
-    "server_id": 8,
-    "type": "house",
-    "name": "pes fam | tg @aspirine",
-    "owner": "Balenciaga_Track",
-    "status": "Занято",
-    "x": 1045.07,
-    "y": -642.3309,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2852,6 +2840,18 @@
     "status": "Занято",
     "x": 351.729,
     "y": -1197.13,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 238,
+    "server_id": 8,
+    "type": "house",
+    "name": "dirty morty",
+    "owner": "Carth_Ling",
+    "status": "Занято",
+    "x": 1095.35,
+    "y": -646.234,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5420,18 +5420,6 @@
     "status": "Занято",
     "x": 1844.5,
     "y": 718.656,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 453,
-    "server_id": 8,
-    "type": "house",
-    "name": "VAGOS",
-    "owner": "Neon_Elantra",
-    "status": "Занято",
-    "x": 2011.48,
-    "y": 694.596,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12904,7 +12892,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Maloy Home",
-    "owner": "Silpo_Graf",
+    "owner": "Joe_Ross",
     "status": "Занято",
     "x": 1740.25,
     "y": 2862.91,
@@ -17048,18 +17036,6 @@
     "status": "Занято",
     "x": 732.716,
     "y": -1476.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1424,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kolya_Infinity",
-    "status": "Занято",
-    "x": 646.0679,
-    "y": -1117.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22360,7 +22336,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Дом",
-    "owner": "Akiyama_Incursion",
+    "owner": "Sirius_Cybernetik",
     "status": "Занято",
     "x": 2487.46,
     "y": -1383.37,
@@ -24792,18 +24768,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2071,
-    "server_id": 8,
-    "type": "house",
-    "name": "Майнинг",
-    "owner": "Sirius_Cybernetik",
-    "status": "Занято",
-    "x": 2615.11,
-    "y": -1203.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2072,
     "server_id": 8,
     "type": "house",
@@ -25752,15 +25716,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 238,
+    "id": 227,
     "server_id": 8,
     "type": "house",
-    "name": "dirty morty",
-    "owner": "Carth_Ling",
+    "name": "pes fam | tg @aspirine",
+    "owner": "Balenciaga_Track",
     "status": "Аукцион",
-    "x": 1095.35,
-    "y": -646.234,
-    "price": 10000000000,
+    "x": 1045.07,
+    "y": -642.3309,
+    "price": 8000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 453,
+    "server_id": 8,
+    "type": "house",
+    "name": "VAGOS",
+    "owner": "Neon_Elantra",
+    "status": "Аукцион",
+    "x": 2011.48,
+    "y": 694.596,
+    "price": 900000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25776,6 +25752,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1424,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kolya_Infinity",
+    "status": "Аукцион",
+    "x": 646.0679,
+    "y": -1117.34,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1834,
     "server_id": 8,
     "type": "house",
@@ -25785,6 +25773,18 @@
     "x": 1414.38,
     "y": 2003.91,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2071,
+    "server_id": 8,
+    "type": "house",
+    "name": "Майнинг",
+    "owner": "Sirius_Cybernetik",
+    "status": "Аукцион",
+    "x": 2615.11,
+    "y": -1203.03,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26728,7 +26728,7 @@
     "server_id": 8,
     "type": "business",
     "name": "Магазин одежды",
-    "owner": "Napoleon_Banopart",
+    "owner": "Zak_Rockefeller",
     "status": "Занято",
     "x": 2802.89,
     "y": 2430.66,

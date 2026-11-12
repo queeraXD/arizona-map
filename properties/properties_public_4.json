@@ -4524,18 +4524,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 377,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2258.04,
-    "y": 167.8099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 378,
     "server_id": 4,
     "type": "house",
@@ -4728,18 +4716,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 394,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2197.81,
-    "y": -60.608,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 395,
     "server_id": 4,
     "type": "house",
@@ -4776,18 +4752,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 398,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2367.38,
-    "y": -48.8526,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 399,
     "server_id": 4,
     "type": "house",
@@ -4808,18 +4772,6 @@
     "status": "Занято",
     "x": 2415.43,
     "y": -51.5713,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 401,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2438.82,
-    "y": -54.6911,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8232,18 +8184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 686,
-    "server_id": 4,
-    "type": "house",
-    "name": "Данька Пресли<3",
-    "owner": "Nizam_Walker",
-    "status": "Занято",
-    "x": 1223.02,
-    "y": 2616.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 687,
     "server_id": 4,
     "type": "house",
@@ -10796,18 +10736,6 @@
     "status": "Занято",
     "x": -2069.44,
     "y": -2561.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 901,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Medical_Girl",
-    "status": "Занято",
-    "x": -2043.43,
-    "y": -2559.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16268,18 +16196,6 @@
     "status": "Занято",
     "x": 2398.35,
     "y": 111.763,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1358,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2285.88,
-    "y": 161.7709,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25236,6 +25152,78 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 377,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2258.04,
+    "y": 167.8099,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 394,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2197.81,
+    "y": -60.608,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 398,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2367.38,
+    "y": -48.8526,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 401,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2438.82,
+    "y": -54.6911,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 686,
+    "server_id": 4,
+    "type": "house",
+    "name": "Данька Пресли<3",
+    "owner": "Nizam_Walker",
+    "status": "Аукцион",
+    "x": 1223.02,
+    "y": 2616.74,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 901,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Medical_Girl",
+    "status": "Аукцион",
+    "x": -2043.43,
+    "y": -2559.45,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1045,
     "server_id": 4,
     "type": "house",
@@ -25248,6 +25236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1358,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2285.88,
+    "y": 161.7709,
+    "price": 2900000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1682,
     "server_id": 4,
     "type": "house",
@@ -25257,6 +25257,42 @@
     "x": 2670.28,
     "y": -1238.11,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 124,
+    "server_id": 4,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Islam_Orlov",
+    "status": "Аукцион",
+    "x": -2455.77,
+    "y": 799.522,
+    "price": 204415,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 170,
+    "server_id": 4,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Islam_Orlov",
+    "status": "Аукцион",
+    "x": 1157.92,
+    "y": 2072.27,
+    "price": 204415,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 218,
+    "server_id": 4,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Meo_Wizard",
+    "status": "Аукцион",
+    "x": 1500.24,
+    "y": -1628.79,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27216,18 +27252,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 170,
-    "server_id": 4,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Islam_Orlov",
-    "status": "Занято",
-    "x": 1157.92,
-    "y": 2072.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 171,
     "server_id": 4,
     "type": "business",
@@ -27524,18 +27548,6 @@
     "status": "Занято",
     "x": -2579.43,
     "y": 310.085,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 124,
-    "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Islam_Orlov",
-    "status": "Занято",
-    "x": -2455.77,
-    "y": 799.522,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28436,18 +28448,6 @@
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 218,
-    "server_id": 4,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Meo_Wizard",
-    "status": "Занято",
-    "x": 1500.24,
-    "y": -1628.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
