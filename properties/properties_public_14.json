@@ -1404,18 +1404,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 117,
-    "server_id": 14,
-    "type": "house",
-    "name": "Blood Empire",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": 2532.77,
-    "y": 1507.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 118,
     "server_id": 14,
     "type": "house",
@@ -1700,30 +1688,6 @@
     "status": "Занято",
     "x": 1667.54,
     "y": -2107.17,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 142,
-    "server_id": 14,
-    "type": "house",
-    "name": "TUFVESSON EMPIRE",
-    "owner": "Heinz_Tufvesson",
-    "status": "Занято",
-    "x": 1326.27,
-    "y": -1090.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 143,
-    "server_id": 14,
-    "type": "house",
-    "name": "TUFVESSON EMPIRE",
-    "owner": "Heinz_Tufvesson",
-    "status": "Занято",
-    "x": 1326.18,
-    "y": -1067.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6852,18 +6816,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 571,
-    "server_id": 14,
-    "type": "house",
-    "name": "|| Wendy House №10 ||",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": 500.842,
-    "y": 1116.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 572,
     "server_id": 14,
     "type": "house",
@@ -7071,8 +7023,8 @@
     "id": 589,
     "server_id": 14,
     "type": "house",
-    "name": "Доm",
-    "owner": "OneWay_Ticket",
+    "name": "Любовь это взаимная зависимость",
+    "owner": "Jezz_Vialpando",
     "status": "Занято",
     "x": -672.9439,
     "y": 2705.81,
@@ -7640,18 +7592,6 @@
     "status": "Занято",
     "x": -360.4819,
     "y": 1141.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 637,
-    "server_id": 14,
-    "type": "house",
-    "name": "10 LVL + Набор Архитектора #5",
-    "owner": "Vanechka_Implored",
-    "status": "Занято",
-    "x": -362.6669,
-    "y": 1110.63,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8872,7 +8812,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Дом: Виолочки :3",
-    "owner": "Viola_Kitten",
+    "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": -2845.31,
     "y": 928.414,
@@ -12644,6 +12584,18 @@
     "status": "Занято",
     "x": -1901.98,
     "y": 1239.8,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1055,
+    "server_id": 14,
+    "type": "house",
+    "name": "1337",
+    "owner": "OneWay_Ticket",
+    "status": "Занято",
+    "x": -1901.0,
+    "y": 1203.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18092,6 +18044,18 @@
     "status": "Занято",
     "x": -2790.33,
     "y": -82.6054,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1510,
+    "server_id": 14,
+    "type": "house",
+    "name": "Притон Джунгариков",
+    "owner": "Luke_Simmons",
+    "status": "Занято",
+    "x": -2786.76,
+    "y": -89.605,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23664,6 +23628,66 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 117,
+    "server_id": 14,
+    "type": "house",
+    "name": "Blood Empire",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": 2532.77,
+    "y": 1507.69,
+    "price": 300000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 142,
+    "server_id": 14,
+    "type": "house",
+    "name": "TUFVESSON EMPIRE",
+    "owner": "Heinz_Tufvesson",
+    "status": "Аукцион",
+    "x": 1326.27,
+    "y": -1090.67,
+    "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 143,
+    "server_id": 14,
+    "type": "house",
+    "name": "TUFVESSON EMPIRE",
+    "owner": "Heinz_Tufvesson",
+    "status": "Аукцион",
+    "x": 1326.18,
+    "y": -1067.59,
+    "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 571,
+    "server_id": 14,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": 500.842,
+    "y": 1116.33,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 637,
+    "server_id": 14,
+    "type": "house",
+    "name": "10 LVL + Набор Архитектора #5",
+    "owner": "Vanechka_Implored",
+    "status": "Аукцион",
+    "x": -362.6669,
+    "y": 1110.63,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 998,
     "server_id": 14,
     "type": "house",
@@ -23673,30 +23697,6 @@
     "x": -2373.18,
     "y": 851.663,
     "price": 750000123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1055,
-    "server_id": 14,
-    "type": "house",
-    "name": "есть улутшение деп. условия",
-    "owner": "Name_Laxere",
-    "status": "Аукцион",
-    "x": -1901.0,
-    "y": 1203.07,
-    "price": 4000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1510,
-    "server_id": 14,
-    "type": "house",
-    "name": "Hilfiger Squad",
-    "owner": "Vetements_Antwerpen",
-    "status": "Аукцион",
-    "x": -2786.76,
-    "y": -89.605,
-    "price": 400123123,
     "district": "Сан-Андреас"
   },
   {

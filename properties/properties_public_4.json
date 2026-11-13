@@ -8676,18 +8676,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 724,
-    "server_id": 4,
-    "type": "house",
-    "name": "DEADLYSINS FAMILY ",
-    "owner": "Dimas_Owner",
-    "status": "Занято",
-    "x": 1678.36,
-    "y": 2691.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 725,
     "server_id": 4,
     "type": "house",
@@ -10776,18 +10764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 901,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Medical_Girl",
-    "status": "Занято",
-    "x": -2043.43,
-    "y": -2559.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 902,
     "server_id": 4,
     "type": "house",
@@ -10916,18 +10892,6 @@
     "status": "Занято",
     "x": -2238.9,
     "y": -2423.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 913,
-    "server_id": 4,
-    "type": "house",
-    "name": "Уютный уголок",
-    "owner": "Dimas_Owner",
-    "status": "Занято",
-    "x": -2219.95,
-    "y": -2400.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16600,7 +16564,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Зловещий дворец/Тёмная удача",
-    "owner": "Opponent_Defender",
+    "owner": "Vladimir_Budanov",
     "status": "Занято",
     "x": 1548.73,
     "y": 2003.91,
@@ -25244,7 +25208,19 @@
     "status": "Аукцион",
     "x": 772.468,
     "y": 348.204,
-    "price": 700000000,
+    "price": 430000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 724,
+    "server_id": 4,
+    "type": "house",
+    "name": "DEADLYSINS FAMILY ",
+    "owner": "Dimas_Owner",
+    "status": "Аукцион",
+    "x": 1678.36,
+    "y": 2691.25,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25257,6 +25233,30 @@
     "x": -2576.56,
     "y": 819.7999,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 901,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Medical_Girl",
+    "status": "Аукцион",
+    "x": -2043.43,
+    "y": -2559.45,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 913,
+    "server_id": 4,
+    "type": "house",
+    "name": "Уютный уголок",
+    "owner": "Dimas_Owner",
+    "status": "Аукцион",
+    "x": -2219.95,
+    "y": -2400.2,
+    "price": 350123123,
     "district": "Сан-Андреас"
   },
   {
