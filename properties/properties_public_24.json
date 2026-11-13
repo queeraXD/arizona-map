@@ -276,6 +276,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 23,
+    "server_id": 24,
+    "type": "house",
+    "name": "Продаю, есть набор творчестаа",
+    "owner": "Artyr_Sever",
+    "status": "Занято",
+    "x": 2207.94,
+    "y": -1280.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 24,
     "server_id": 24,
     "type": "house",
@@ -440,6 +452,18 @@
     "status": "Занято",
     "x": 2389.73,
     "y": -1346.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 38,
+    "server_id": 24,
+    "type": "house",
+    "name": "Продаю, есть набор творчестаа",
+    "owner": "Artyr_Sever",
+    "status": "Занято",
+    "x": 2387.86,
+    "y": -1328.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -1412,18 +1436,6 @@
     "status": "Занято",
     "x": 1891.9,
     "y": -1914.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 120,
-    "server_id": 24,
-    "type": "house",
-    "name": "konyra",
-    "owner": "Sergio_Tohok",
-    "status": "Занято",
-    "x": 1872.25,
-    "y": -1911.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9376,7 +9388,7 @@
     "server_id": 24,
     "type": "house",
     "name": "8 lvl SF ",
-    "owner": "Owen_Maniac",
+    "owner": "Planka_Blueberry",
     "status": "Занято",
     "x": -2513.51,
     "y": 830.83,
@@ -22008,27 +22020,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 23,
+    "id": 120,
     "server_id": 24,
     "type": "house",
-    "name": "Продаю, есть набор творчестаа",
-    "owner": "Artyr_Sever",
+    "name": "konyra",
+    "owner": "Sergio_Tohok",
     "status": "Аукцион",
-    "x": 2207.94,
-    "y": -1280.82,
-    "price": 3000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 38,
-    "server_id": 24,
-    "type": "house",
-    "name": "Продаю, есть набор творчестаа",
-    "owner": "Artyr_Sever",
-    "status": "Аукцион",
-    "x": 2387.86,
-    "y": -1328.4,
-    "price": 3000000000,
+    "x": 1872.25,
+    "y": -1911.91,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22041,6 +22041,66 @@
     "x": 1105.59,
     "y": -1562.68,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 9,
+    "server_id": 24,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Noko_Rabiz",
+    "status": "Аукцион",
+    "x": 2481.67,
+    "y": -1757.66,
+    "price": 230000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 40,
+    "server_id": 24,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Noko_Rabiz",
+    "status": "Аукцион",
+    "x": 1393.84,
+    "y": 400.944,
+    "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 286,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Noko_Rabiz",
+    "status": "Аукцион",
+    "x": 1826.39,
+    "y": 626.525,
+    "price": 230000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 312,
+    "server_id": 24,
+    "type": "business",
+    "name": "Body Shop",
+    "owner": "Bandana_Theft",
+    "status": "Аукцион",
+    "x": 641.4393,
+    "y": -494.824,
+    "price": 123000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 460,
+    "server_id": 24,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Noko_Rabiz",
+    "status": "Аукцион",
+    "x": 1586.208,
+    "y": -1394.485,
+    "price": 220000,
     "district": "Сан-Андреас"
   },
   {
@@ -22496,18 +22556,6 @@
     "status": "Занято",
     "x": 2095.76,
     "y": -1211.73,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 9,
-    "server_id": 24,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Noko_Rabiz",
-    "status": "Занято",
-    "x": 2481.67,
-    "y": -1757.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23580,18 +23628,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 286,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Noko_Rabiz",
-    "status": "Занято",
-    "x": 1826.39,
-    "y": 626.525,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 287,
     "server_id": 24,
     "type": "business",
@@ -24168,18 +24204,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 40,
-    "server_id": 24,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Noko_Rabiz",
-    "status": "Занято",
-    "x": 1393.84,
-    "y": 400.944,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 41,
     "server_id": 24,
     "type": "business",
@@ -24344,18 +24368,6 @@
     "status": "Занято",
     "x": 1864.59,
     "y": -1393.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 460,
-    "server_id": 24,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Noko_Rabiz",
-    "status": "Занято",
-    "x": 1586.208,
-    "y": -1394.485,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25832,18 +25844,6 @@
     "status": "Занято",
     "x": -20.8111,
     "y": -1548.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 312,
-    "server_id": 24,
-    "type": "business",
-    "name": "Body Shop",
-    "owner": "Bandana_Theft",
-    "status": "Занято",
-    "x": 641.4393,
-    "y": -494.824,
     "price": 0,
     "district": "Сан-Андреас"
   },

@@ -6927,7 +6927,7 @@
     "id": 577,
     "server_id": 2,
     "type": "house",
-    "name": "Svino ferm",
+    "name": "Bone Counte",
     "owner": "Sava_Cartel",
     "status": "Занято",
     "x": -201.6629,
@@ -8068,7 +8068,7 @@
     "server_id": 2,
     "type": "house",
     "name": "без",
-    "owner": "Dan_Sus",
+    "owner": "Hell_Light",
     "status": "Занято",
     "x": 1086.22,
     "y": 2000.86,
@@ -12236,6 +12236,18 @@
     "status": "Занято",
     "x": -2789.17,
     "y": -52.5899,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1022,
+    "server_id": 2,
+    "type": "house",
+    "name": "Gamlet Rez",
+    "owner": "Marco_Fryer",
+    "status": "Занято",
+    "x": -2791.72,
+    "y": -36.1766,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20376,18 +20388,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1701,
-    "server_id": 2,
-    "type": "house",
-    "name": "Exodus Family <3",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": 885.4229,
-    "y": 2153.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1702,
     "server_id": 2,
     "type": "house",
@@ -23952,15 +23952,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1022,
+    "id": 1701,
     "server_id": 2,
     "type": "house",
-    "name": "Gamlet Rez",
-    "owner": "Lorenzo_Copone",
+    "name": "Exodus Family <3",
+    "owner": "Kedroviy_Oreh",
     "status": "Аукцион",
-    "x": -2791.72,
-    "y": -36.1766,
+    "x": 885.4229,
+    "y": 2153.95,
     "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 13,
+    "server_id": 2,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Sergei_Stics",
+    "status": "Аукцион",
+    "x": 2244.42,
+    "y": -1665.12,
+    "price": 600000,
     "district": "Сан-Андреас"
   },
   {
@@ -24860,18 +24872,6 @@
     "status": "Занято",
     "x": 695.01,
     "y": -500.134,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 13,
-    "server_id": 2,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Sergei_Stics",
-    "status": "Занято",
-    "x": 2244.42,
-    "y": -1665.12,
     "price": 0,
     "district": "Сан-Андреас"
   },

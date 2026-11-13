@@ -5200,7 +5200,7 @@
     "server_id": 13,
     "type": "house",
     "name": "мальчуковый домик",
-    "owner": "Akiro_Kage",
+    "owner": "Gothica_Death",
     "status": "Занято",
     "x": 2284.16,
     "y": -1046.07,
@@ -21396,6 +21396,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1785,
+    "server_id": 13,
+    "type": "house",
+    "name": "хата для мальчишки",
+    "owner": "Owonex_Pulya",
+    "status": "Занято",
+    "x": 2495.38,
+    "y": -1431.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1786,
     "server_id": 13,
     "type": "house",
@@ -22204,7 +22216,7 @@
     "server_id": 13,
     "type": "house",
     "name": "ну да я",
-    "owner": "Dmitry_Zvezd",
+    "owner": "Carefree_Day",
     "status": "Занято",
     "x": 2620.35,
     "y": 2139.62,
@@ -22216,7 +22228,7 @@
     "server_id": 13,
     "type": "house",
     "name": "choppergroves",
-    "owner": "Choppa_Excellent",
+    "owner": "Owonex_Pulya",
     "status": "Занято",
     "x": 2620.35,
     "y": 2148.96,
@@ -22252,7 +22264,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Maloy_Bither",
+    "owner": "Nikolas_Valente",
     "status": "Занято",
     "x": 2613.07,
     "y": 2185.54,
@@ -22620,18 +22632,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1888,
-    "server_id": 13,
-    "type": "house",
-    "name": "Sweet home",
-    "owner": "Gangsta_Babe",
-    "status": "Занято",
-    "x": -317.8989,
-    "y": 877.572,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1889,
     "server_id": 13,
     "type": "house",
@@ -22664,18 +22664,6 @@
     "status": "Занято",
     "x": -262.859,
     "y": 967.015,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1892,
-    "server_id": 13,
-    "type": "house",
-    "name": "ну я да",
-    "owner": "Gangsta_Babe",
-    "status": "Занято",
-    "x": -252.255,
-    "y": 956.046,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23268,18 +23256,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1785,
-    "server_id": 13,
-    "type": "house",
-    "name": "хата для мальчишки",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2495.38,
-    "y": -1431.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 559,
     "server_id": 13,
     "type": "house",
@@ -23288,19 +23264,31 @@
     "status": "Аукцион",
     "x": 312.3569,
     "y": 1068.43,
-    "price": 420000000,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 208,
+    "id": 1888,
     "server_id": 13,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Evgeny_Liquid",
+    "type": "house",
+    "name": "Sweet home",
+    "owner": "Gangsta_Babe",
     "status": "Аукцион",
-    "x": 194.751,
-    "y": -273.823,
-    "price": 5000000000,
+    "x": -317.8989,
+    "y": 877.572,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1892,
+    "server_id": 13,
+    "type": "house",
+    "name": "ну я да",
+    "owner": "Gangsta_Babe",
+    "status": "Аукцион",
+    "x": -252.255,
+    "y": 956.046,
+    "price": 250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26432,6 +26420,18 @@
     "status": "Занято",
     "x": 196.119,
     "y": -116.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 208,
+    "server_id": 13,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Evgeny_Liquid",
+    "status": "Занято",
+    "x": 194.751,
+    "y": -273.823,
     "price": 0,
     "district": "Сан-Андреас"
   },
