@@ -2463,8 +2463,8 @@
     "id": 205,
     "server_id": 11,
     "type": "house",
-    "name": "Дом",
-    "owner": "Lovec_Pisunovv",
+    "name": "продано",
+    "owner": "Farid_Monopoly",
     "status": "Занято",
     "x": 1496.94,
     "y": -690.1879,
@@ -7116,18 +7116,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 593,
-    "server_id": 11,
-    "type": "house",
-    "name": "farmilka",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": -1449.95,
-    "y": 2562.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 594,
     "server_id": 11,
     "type": "house",
@@ -10852,7 +10840,7 @@
     "server_id": 11,
     "type": "house",
     "name": "Дом",
-    "owner": "Dimka_Buryat",
+    "owner": "Ricci_Luciano",
     "status": "Занято",
     "x": -2130.12,
     "y": 942.562,
@@ -11968,7 +11956,7 @@
     "server_id": 11,
     "type": "house",
     "name": "S.Black",
-    "owner": "Siriyus_Black",
+    "owner": "Suley_Monopoly",
     "status": "Занято",
     "x": -2373.18,
     "y": 851.663,
@@ -18444,6 +18432,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1549,
+    "server_id": 11,
+    "type": "house",
+    "name": "Семья Luciano",
+    "owner": "Ricci_Luciano",
+    "status": "Занято",
+    "x": -2356.84,
+    "y": 580.0319,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1550,
     "server_id": 11,
     "type": "house",
@@ -19900,7 +19900,7 @@
     "server_id": 11,
     "type": "house",
     "name": "uzifam",
-    "owner": "Malbs_Mod",
+    "owner": "Silent_North",
     "status": "Занято",
     "x": 2139.83,
     "y": -1008.44,
@@ -23544,18 +23544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1975,
-    "server_id": 11,
-    "type": "house",
-    "name": "wasted.",
-    "owner": "Metka_Doma",
-    "status": "Занято",
-    "x": 1745.45,
-    "y": 2770.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1976,
     "server_id": 11,
     "type": "house",
@@ -24636,15 +24624,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1549,
+    "id": 593,
     "server_id": 11,
     "type": "house",
-    "name": "Логово ФБР",
-    "owner": "Kigo_Hozyainov",
+    "name": "farmilka",
+    "owner": "Pasha_Caplya",
     "status": "Аукцион",
-    "x": -2356.84,
-    "y": 580.0319,
-    "price": 100000000,
+    "x": -1449.95,
+    "y": 2562.85,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1975,
+    "server_id": 11,
+    "type": "house",
+    "name": "wasted.",
+    "owner": "Metka_Doma",
+    "status": "Аукцион",
+    "x": 1745.45,
+    "y": 2770.05,
+    "price": 200000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 44,
+    "server_id": 11,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Lovec_Pisunovv",
+    "status": "Аукцион",
+    "x": 1224.56,
+    "y": 249.852,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
+    "server_id": 11,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Cargo_Monopoly",
+    "status": "Аукцион",
+    "x": 2085.84,
+    "y": 2486.25,
+    "price": 200000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 215,
+    "server_id": 11,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Cargo_Monopoly",
+    "status": "Аукцион",
+    "x": 1864.59,
+    "y": -1393.39,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 350,
+    "server_id": 11,
+    "type": "business",
+    "name": "Магазин одежды",
+    "owner": "Cargo_Monopoly",
+    "status": "Аукцион",
+    "x": -2373.8,
+    "y": 910.117,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25176,18 +25224,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 44,
-    "server_id": 11,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Lovec_Pisunovv",
-    "status": "Занято",
-    "x": 1224.56,
-    "y": 249.852,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 45,
     "server_id": 11,
     "type": "business",
@@ -25664,18 +25700,6 @@
     "status": "Занято",
     "x": -1882.53,
     "y": 866.198,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 350,
-    "server_id": 11,
-    "type": "business",
-    "name": "Магазин одежды",
-    "owner": "Cargo_Monopoly",
-    "status": "Занято",
-    "x": -2373.8,
-    "y": 910.117,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26868,18 +26892,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
-    "server_id": 11,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Cargo_Monopoly",
-    "status": "Занято",
-    "x": 2085.84,
-    "y": 2486.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 58,
     "server_id": 11,
     "type": "business",
@@ -26936,18 +26948,6 @@
     "status": "Занято",
     "x": -1757.81,
     "y": 964.127,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 215,
-    "server_id": 11,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Cargo_Monopoly",
-    "status": "Занято",
-    "x": 1864.59,
-    "y": -1393.39,
     "price": 0,
     "district": "Сан-Андреас"
   },

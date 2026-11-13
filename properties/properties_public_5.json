@@ -564,18 +564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 47,
-    "server_id": 5,
-    "type": "house",
-    "name": "притон",
-    "owner": "Charles_Bronsson",
-    "status": "Занято",
-    "x": 2188.55,
-    "y": -1419.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 48,
     "server_id": 5,
     "type": "house",
@@ -4556,6 +4544,18 @@
     "status": "Занято",
     "x": 2269.37,
     "y": 110.9479,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 380,
+    "server_id": 5,
+    "type": "house",
+    "name": "Miami Family | Домик Иваныча",
+    "owner": "Petr_Ivanovich",
+    "status": "Занято",
+    "x": 2249.24,
+    "y": 111.165,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10120,7 +10120,7 @@
     "server_id": 5,
     "type": "house",
     "name": "DETECTIVE.KYO",
-    "owner": "Bunta_Kyouichi",
+    "owner": "Wonder_Full",
     "status": "Занято",
     "x": -2227.75,
     "y": 1106.97,
@@ -11092,7 +11092,7 @@
     "server_id": 5,
     "type": "house",
     "name": "Sexolog Empire",
-    "owner": "Tyler_Sexolog",
+    "owner": "Yuzuki_Yukari",
     "status": "Занято",
     "x": -2227.92,
     "y": 1080.44,
@@ -12032,18 +12032,6 @@
     "status": "Занято",
     "x": -1872.07,
     "y": 1146.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1004,
-    "server_id": 5,
-    "type": "house",
-    "name": "Берлога Айса!!!",
-    "owner": "Andrei_Ice",
-    "status": "Занято",
-    "x": -1852.28,
-    "y": 1162.5,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18792,6 +18780,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1567,
+    "server_id": 5,
+    "type": "house",
+    "name": "tg netyt",
+    "owner": "Declan_Davis",
+    "status": "Занято",
+    "x": 2750.39,
+    "y": -1238.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1568,
     "server_id": 5,
     "type": "house",
@@ -23016,6 +23016,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1921,
+    "server_id": 5,
+    "type": "house",
+    "name": "без обид, данек)",
+    "owner": "Wonder_Full",
+    "status": "Занято",
+    "x": -2048.06,
+    "y": 755.1309,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1922,
     "server_id": 5,
     "type": "house",
@@ -23155,18 +23167,6 @@
     "owner": "Zefir_Deluxe",
     "status": "Занято",
     "x": 2495.39,
-    "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1934,
-    "server_id": 5,
-    "type": "house",
-    "name": "Берлога Айса!!!",
-    "owner": "Andrei_Ice",
-    "status": "Занято",
-    "x": 2468.38,
     "y": -1398.81,
     "price": 0,
     "district": "Сан-Андреас"
@@ -25044,27 +25044,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 380,
+    "id": 47,
     "server_id": 5,
     "type": "house",
-    "name": "Dagestan Empire",
-    "owner": "Wonder_Full",
+    "name": "притон",
+    "owner": "Charles_Bronsson",
     "status": "Аукцион",
-    "x": 2249.24,
-    "y": 111.165,
-    "price": 5000000000,
+    "x": 2188.55,
+    "y": -1419.21,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1567,
+    "id": 1004,
     "server_id": 5,
     "type": "house",
-    "name": "tg netyt",
-    "owner": "Declan_Davis",
+    "name": "Берлога Айса!!!",
+    "owner": "Andrei_Ice",
     "status": "Аукцион",
-    "x": 2750.39,
-    "y": -1238.59,
-    "price": 900000000,
+    "x": -1852.28,
+    "y": 1162.5,
+    "price": 1400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25080,15 +25080,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1921,
+    "id": 1934,
     "server_id": 5,
     "type": "house",
-    "name": "Дом",
-    "owner": "Cor_Wus",
+    "name": "Берлога Айса!!!",
+    "owner": "Andrei_Ice",
     "status": "Аукцион",
-    "x": -2048.06,
-    "y": 755.1309,
-    "price": 1000000,
+    "x": 2468.38,
+    "y": -1398.81,
+    "price": 685000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25100,7 +25100,7 @@
     "status": "Аукцион",
     "x": 2492.34,
     "y": -1398.81,
-    "price": 777677777,
+    "price": 666566666,
     "district": "Сан-Андреас"
   },
   {
@@ -25112,31 +25112,7 @@
     "status": "Аукцион",
     "x": 2613.64,
     "y": 2044.17,
-    "price": 250123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 73,
-    "server_id": 5,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Dexter_Vargaz",
-    "status": "Аукцион",
-    "x": 1657.04,
-    "y": 1741.65,
-    "price": 300000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 216,
-    "server_id": 5,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Wonder_Full",
-    "status": "Аукцион",
-    "x": 2327.86,
-    "y": 2421.25,
-    "price": 4000000000,
+    "price": 200123213,
     "district": "Сан-Андреас"
   },
   {
@@ -25772,6 +25748,18 @@
     "status": "Занято",
     "x": 1998.29,
     "y": 2302.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 73,
+    "server_id": 5,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Dexter_Vargaz",
+    "status": "Занято",
+    "x": 1657.04,
+    "y": 1741.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28280,6 +28268,18 @@
     "status": "Занято",
     "x": 1976.18,
     "y": -1980.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 216,
+    "server_id": 5,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Labubu_Deputy",
+    "status": "Занято",
+    "x": 2327.86,
+    "y": 2421.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
