@@ -276,18 +276,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 23,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Artyr_Sever",
-    "status": "Занято",
-    "x": 2207.94,
-    "y": -1280.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 24,
     "server_id": 24,
     "type": "house",
@@ -452,18 +440,6 @@
     "status": "Занято",
     "x": 2389.73,
     "y": -1346.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 38,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Artyr_Sever",
-    "status": "Занято",
-    "x": 2387.86,
-    "y": -1328.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -1444,7 +1420,7 @@
     "server_id": 24,
     "type": "house",
     "name": "konyra",
-    "owner": "Lain_Rcb",
+    "owner": "Sergio_Tohok",
     "status": "Занято",
     "x": 1872.25,
     "y": -1911.91,
@@ -5964,6 +5940,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 497,
+    "server_id": 24,
+    "type": "house",
+    "name": "Parlament Kyri",
+    "owner": "Beve_Cardinale",
+    "status": "Занято",
+    "x": 1439.79,
+    "y": 1951.65,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 498,
     "server_id": 24,
     "type": "house",
@@ -6848,6 +6836,18 @@
     "status": "Занято",
     "x": -250.6369,
     "y": 860.9799,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 572,
+    "server_id": 24,
+    "type": "house",
+    "name": "Альтушка",
+    "owner": "Ryan_Foster",
+    "status": "Занято",
+    "x": -2789.17,
+    "y": -181.2929,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20320,7 +20320,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Eloquence",
-    "owner": "Dima_Nutela",
+    "owner": "Egor_Kirillov",
     "status": "Занято",
     "x": 2492.21,
     "y": -1391.95,
@@ -20456,6 +20456,18 @@
     "status": "Занято",
     "x": 1734.18,
     "y": 2811.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1710,
+    "server_id": 24,
+    "type": "house",
+    "name": "Flazin Emoire VIP",
+    "owner": "Flazin_Samurai",
+    "status": "Занято",
+    "x": 1717.14,
+    "y": 2831.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21996,27 +22008,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 497,
+    "id": 23,
     "server_id": 24,
     "type": "house",
-    "name": "Parlament Kyri",
-    "owner": "Boris_Simon",
+    "name": "Продаю, есть набор творчестаа",
+    "owner": "Artyr_Sever",
     "status": "Аукцион",
-    "x": 1439.79,
-    "y": 1951.65,
-    "price": 150123123,
+    "x": 2207.94,
+    "y": -1280.82,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 572,
+    "id": 38,
     "server_id": 24,
     "type": "house",
-    "name": "Альтушка",
-    "owner": "Nikita_Coffi",
+    "name": "Продаю, есть набор творчестаа",
+    "owner": "Artyr_Sever",
     "status": "Аукцион",
-    "x": -2789.17,
-    "y": -181.2929,
-    "price": 400000000,
+    "x": 2387.86,
+    "y": -1328.4,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22029,30 +22041,6 @@
     "x": 1105.59,
     "y": -1562.68,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1710,
-    "server_id": 24,
-    "type": "house",
-    "name": "Brooks Empire",
-    "owner": "Pasha_Caplya",
-    "status": "Аукцион",
-    "x": 1717.14,
-    "y": 2831.91,
-    "price": 100123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 193,
-    "server_id": 24,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Sortik_Zorikov",
-    "status": "Аукцион",
-    "x": 2405.02,
-    "y": -1933.97,
-    "price": 3500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25004,6 +24992,18 @@
     "status": "Занято",
     "x": 1136.97,
     "y": -1456.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 193,
+    "server_id": 24,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Ryan_Diavolo",
+    "status": "Занято",
+    "x": 2405.02,
+    "y": -1933.97,
     "price": 0,
     "district": "Сан-Андреас"
   },

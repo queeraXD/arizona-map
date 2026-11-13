@@ -604,7 +604,7 @@
     "server_id": 3,
     "type": "house",
     "name": "секрет",
-    "owner": "Shore_Acres",
+    "owner": "Eur_Mou",
     "status": "Занято",
     "x": 2190.44,
     "y": -1470.38,
@@ -3792,6 +3792,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 316,
+    "server_id": 3,
+    "type": "house",
+    "name": "ЛС Центральный рынок",
+    "owner": "Lii_Tenebris",
+    "status": "Занято",
+    "x": 1245.66,
+    "y": -902.775,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 317,
     "server_id": 3,
     "type": "house",
@@ -5324,6 +5336,18 @@
     "status": "Занято",
     "x": 2355.7,
     "y": -1039.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 445,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "De_Jure",
+    "status": "Занято",
+    "x": 2439.9,
+    "y": -1010.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7136,30 +7160,6 @@
     "status": "Занято",
     "x": 236.505,
     "y": -1796.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 597,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом с набором архитектора",
-    "owner": "Aleks_Weiss",
-    "status": "Занято",
-    "x": -1450.71,
-    "y": 2691.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 598,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом с набором архитектора",
-    "owner": "Aleks_Weiss",
-    "status": "Занято",
-    "x": -1466.16,
-    "y": 2693.15,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9896,6 +9896,18 @@
     "status": "Занято",
     "x": -2688.68,
     "y": -89.4464,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 827,
+    "server_id": 3,
+    "type": "house",
+    "name": "сарай",
+    "owner": "Alex_Pollard",
+    "status": "Занято",
+    "x": -2724.29,
+    "y": -58.0475,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15092,6 +15104,18 @@
     "status": "Занято",
     "x": -2402.42,
     "y": 829.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1263,
+    "server_id": 3,
+    "type": "house",
+    "name": "Rose",
+    "owner": "Vladimir_Greco",
+    "status": "Занято",
+    "x": -2504.46,
+    "y": 821.3079,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23952,39 +23976,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 316,
+    "id": 597,
     "server_id": 3,
     "type": "house",
-    "name": "ЛС Центральный рынок",
-    "owner": "Lii_Tenebris",
+    "name": "Дом с набором архитектора",
+    "owner": "Aleks_Weiss",
     "status": "Аукцион",
-    "x": 1245.66,
-    "y": -902.775,
-    "price": 1000000000,
+    "x": -1450.71,
+    "y": 2691.05,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 445,
+    "id": 598,
     "server_id": 3,
     "type": "house",
-    "name": "Дом",
-    "owner": "De_Jure",
+    "name": "Дом с набором архитектора",
+    "owner": "Aleks_Weiss",
     "status": "Аукцион",
-    "x": 2439.9,
-    "y": -1010.88,
-    "price": 900000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 827,
-    "server_id": 3,
-    "type": "house",
-    "name": "сарай",
-    "owner": "Alex_Pollard",
-    "status": "Аукцион",
-    "x": -2724.29,
-    "y": -58.0475,
-    "price": 650000000,
+    "x": -1466.16,
+    "y": 2693.15,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23997,30 +24009,6 @@
     "x": 2847.0,
     "y": -1309.76,
     "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1263,
-    "server_id": 3,
-    "type": "house",
-    "name": "Rose",
-    "owner": "Vladimir_Greco",
-    "status": "Аукцион",
-    "x": -2504.46,
-    "y": 821.3079,
-    "price": 650000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 123,
-    "server_id": 3,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Andy_Parliament",
-    "status": "Аукцион",
-    "x": -2579.43,
-    "y": 310.085,
-    "price": 197183,
     "district": "Сан-Андреас"
   },
   {
@@ -26276,6 +26264,18 @@
     "status": "Занято",
     "x": -1967.24,
     "y": 296.392,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 123,
+    "server_id": 3,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Andy_Parliament",
+    "status": "Занято",
+    "x": -2579.43,
+    "y": 310.085,
     "price": 0,
     "district": "Сан-Андреас"
   },
