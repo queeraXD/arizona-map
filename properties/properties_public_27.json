@@ -300,18 +300,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 25,
-    "server_id": 27,
-    "type": "house",
-    "name": "Братан, это репчик",
-    "owner": "Lada_Boss",
-    "status": "Занято",
-    "x": 2250.11,
-    "y": -1280.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 26,
     "server_id": 27,
     "type": "house",
@@ -4287,7 +4275,7 @@
     "id": 357,
     "server_id": 27,
     "type": "house",
-    "name": "Kingston House",
+    "name": "Alinka ",
     "owner": "Alina_Vercetti",
     "status": "Занято",
     "x": 1288.35,
@@ -5664,6 +5652,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 473,
+    "server_id": 27,
+    "type": "house",
+    "name": "LoveAnimeGirl",
+    "owner": "Spectra_Phantom",
+    "status": "Занято",
+    "x": 2368.67,
+    "y": 690.205,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 474,
     "server_id": 27,
     "type": "house",
@@ -6064,7 +6064,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Хата не Декстера Кавасаки",
-    "owner": "Islam_Abrekov",
+    "owner": "Kenji_Kawasaki",
     "status": "Занято",
     "x": 1364.26,
     "y": 2022.81,
@@ -13128,6 +13128,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1096,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом криптоинвестора",
+    "owner": "Thomas_Scandal",
+    "status": "Занято",
+    "x": -2234.33,
+    "y": 830.867,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1097,
     "server_id": 27,
     "type": "house",
@@ -15339,7 +15351,7 @@
     "id": 1281,
     "server_id": 27,
     "type": "house",
-    "name": "Дом",
+    "name": "Дом имени \\\"Эмира Текема\\\"",
     "owner": "Grigory_Weaver",
     "status": "Занято",
     "x": -2686.82,
@@ -15675,7 +15687,7 @@
     "id": 1309,
     "server_id": 27,
     "type": "house",
-    "name": "Дом",
+    "name": "Хата Пинчера",
     "owner": "Pincher_DeLorean",
     "status": "Занято",
     "x": -2515.38,
@@ -16064,6 +16076,18 @@
     "status": "Занято",
     "x": 2470.37,
     "y": -1295.48,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1342,
+    "server_id": 27,
+    "type": "house",
+    "name": "Крепость Одиночества!",
+    "owner": "Dmitry_Betekhtin",
+    "status": "Занято",
+    "x": 1665.6,
+    "y": 2569.42,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16472,18 +16496,6 @@
     "status": "Занято",
     "x": 1969.47,
     "y": -1654.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1377,
-    "server_id": 27,
-    "type": "house",
-    "name": "Основной(Гетто)",
-    "owner": "Alex_Duglas",
-    "status": "Занято",
-    "x": 1976.21,
-    "y": -1634.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20856,18 +20868,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1742,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lubly_Nastyshku",
-    "status": "Занято",
-    "x": 2608.24,
-    "y": -1207.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1743,
     "server_id": 27,
     "type": "house",
@@ -24420,51 +24420,51 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 25,
+    "server_id": 27,
+    "type": "house",
+    "name": "Братан, это репчик",
+    "owner": "Lada_Boss",
+    "status": "Аукцион",
+    "x": 2250.11,
+    "y": -1280.4,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 463,
     "server_id": 27,
     "type": "house",
-    "name": "Дом самого King",
-    "owner": "Kot_BoP",
+    "name": "вась",
+    "owner": "Arctical_Hearts",
     "status": "Аукцион",
     "x": 2206.36,
     "y": 656.3729,
-    "price": 500000000,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 473,
+    "id": 1377,
     "server_id": 27,
     "type": "house",
-    "name": "LoveAnimeGirl",
-    "owner": "Ender_Vasya",
+    "name": "Основной(Гетто)",
+    "owner": "Alex_Duglas",
     "status": "Аукцион",
-    "x": 2368.67,
-    "y": 690.205,
-    "price": 800000000,
+    "x": 1976.21,
+    "y": -1634.04,
+    "price": 750000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1096,
+    "id": 1742,
     "server_id": 27,
     "type": "house",
-    "name": "Дом криптоинвестора",
-    "owner": "Kot_BoP",
+    "name": "Дом",
+    "owner": "Lubly_Nastyshku",
     "status": "Аукцион",
-    "x": -2234.33,
-    "y": 830.867,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1342,
-    "server_id": 27,
-    "type": "house",
-    "name": "Крепость Одиночества!",
-    "owner": "Dmitry_Betekhtin",
-    "status": "Аукцион",
-    "x": 1665.6,
-    "y": 2569.42,
-    "price": 2000000000,
+    "x": 2608.24,
+    "y": -1207.63,
+    "price": 450123123,
     "district": "Сан-Андреас"
   },
   {

@@ -183,8 +183,8 @@
     "id": 15,
     "server_id": 6,
     "type": "house",
-    "name": "машечка)",
-    "owner": "Ave_Mary",
+    "name": "Дом",
+    "owner": "Unquestionable_Brown",
     "status": "Занято",
     "x": 2090.93,
     "y": -1278.01,
@@ -1972,7 +1972,7 @@
     "server_id": 6,
     "type": "house",
     "name": "BENZ HOUSE",
-    "owner": "Unique_Illusion",
+    "owner": "Trb_Brt",
     "status": "Занято",
     "x": 969.789,
     "y": -1811.54,
@@ -5604,18 +5604,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 467,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Unquestionable_Brown",
-    "status": "Занято",
-    "x": 2346.22,
-    "y": 656.447,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 468,
     "server_id": 6,
     "type": "house",
@@ -7400,6 +7388,18 @@
     "status": "Занято",
     "x": -884.257,
     "y": 1537.61,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 617,
+    "server_id": 6,
+    "type": "house",
+    "name": "VoidSquad",
+    "owner": "Vettorio_Altamurr",
+    "status": "Занято",
+    "x": -881.726,
+    "y": 1532.36,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10184,18 +10184,6 @@
     "status": "Занято",
     "x": -2132.68,
     "y": -2510.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 850,
-    "server_id": 6,
-    "type": "house",
-    "name": "Вайб",
-    "owner": "Radrigo_Luanos",
-    "status": "Занято",
-    "x": -2281.91,
-    "y": 1070.3,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17592,18 +17580,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1469,
-    "server_id": 6,
-    "type": "house",
-    "name": "Ферма №2",
-    "owner": "Stas_Refund",
-    "status": "Занято",
-    "x": 2069.21,
-    "y": 696.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1470,
     "server_id": 6,
     "type": "house",
@@ -17859,8 +17835,8 @@
     "id": 1491,
     "server_id": 6,
     "type": "house",
-    "name": "adekvat",
-    "owner": "Leonid_Odessit",
+    "name": "БытьРомантикомАхуенно",
+    "owner": "Always_Highcity",
     "status": "Занято",
     "x": 2158.2,
     "y": -1611.25,
@@ -21276,6 +21252,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1776,
+    "server_id": 6,
+    "type": "house",
+    "name": "для майнинга",
+    "owner": "Aleks_Salieri",
+    "status": "Занято",
+    "x": 1453.73,
+    "y": 2027.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1777,
     "server_id": 6,
     "type": "house",
@@ -22768,7 +22756,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Продается дом ",
-    "owner": "Unique_Illusion",
+    "owner": "Andrey_Muts",
     "status": "Занято",
     "x": 1733.44,
     "y": 2814.96,
@@ -23547,7 +23535,7 @@
     "id": 1968,
     "server_id": 6,
     "type": "house",
-    "name": "Братство",
+    "name": "для майнинга",
     "owner": "Aleks_Salieri",
     "status": "Занято",
     "x": 2647.11,
@@ -23564,6 +23552,18 @@
     "status": "Занято",
     "x": 2647.11,
     "y": 2251.66,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1970,
+    "server_id": 6,
+    "type": "house",
+    "name": "для майнинга",
+    "owner": "Aleks_Salieri",
+    "status": "Занято",
+    "x": 2647.11,
+    "y": 2242.38,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24456,15 +24456,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 617,
+    "id": 850,
     "server_id": 6,
     "type": "house",
-    "name": "VoidSquad",
-    "owner": "Trb_Brt",
+    "name": "Вайб",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2281.91,
+    "y": 1070.3,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 467,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Unquestionable_Brown",
     "status": "Аукцион",
-    "x": -881.726,
-    "y": 1532.36,
-    "price": 150000000,
+    "x": 2346.22,
+    "y": 656.447,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24492,27 +24504,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1776,
+    "id": 1469,
     "server_id": 6,
     "type": "house",
-    "name": "Pisoq house",
-    "owner": "Trb_Brt",
+    "name": "Ферма №2",
+    "owner": "Stas_Refund",
     "status": "Аукцион",
-    "x": 1453.73,
-    "y": 2027.25,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1970,
-    "server_id": 6,
-    "type": "house",
-    "name": "tt - temichbrooklyn",
-    "owner": "Artemy_Young",
-    "status": "Аукцион",
-    "x": 2647.11,
-    "y": 2242.38,
-    "price": 50000000,
+    "x": 2069.21,
+    "y": 696.63,
+    "price": 100123123,
     "district": "Сан-Андреас"
   },
   {
@@ -24524,7 +24524,7 @@
     "status": "Аукцион",
     "x": -85.6846,
     "y": 960.478,
-    "price": 2335000,
+    "price": 1880000,
     "district": "Сан-Андреас"
   },
   {
