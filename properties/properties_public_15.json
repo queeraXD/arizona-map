@@ -5184,18 +5184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 432,
-    "server_id": 15,
-    "type": "house",
-    "name": "schulz?",
-    "owner": "SiegSchulz_Kitsune",
-    "status": "Занято",
-    "x": 2279.2,
-    "y": -1076.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 433,
     "server_id": 15,
     "type": "house",
@@ -6912,18 +6900,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 576,
-    "server_id": 15,
-    "type": "house",
-    "name": "Ржавый Бункер",
-    "owner": "Luminisent_London",
-    "status": "Занято",
-    "x": -165.173,
-    "y": 2768.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 577,
     "server_id": 15,
     "type": "house",
@@ -8540,18 +8516,6 @@
     "status": "Занято",
     "x": 1607.08,
     "y": 2679.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 712,
-    "server_id": 15,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "esea",
-    "status": "Занято",
-    "x": 1573.09,
-    "y": 2658.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10323,7 +10287,7 @@
     "id": 861,
     "server_id": 15,
     "type": "house",
-    "name": "Шахтёрский Домик",
+    "name": "Дом",
     "owner": "Xavier_Croft",
     "status": "Занято",
     "x": -218.123,
@@ -12228,18 +12192,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1020,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Boba_McCloud",
-    "status": "Занято",
-    "x": -2542.49,
-    "y": 942.4849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1021,
     "server_id": 15,
     "type": "house",
@@ -12464,18 +12416,6 @@
     "status": "Занято",
     "x": -1732.18,
     "y": 1114.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1040,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом Шахтера",
-    "owner": "Pharaoh_McCloud",
-    "status": "Занято",
-    "x": -1727.98,
-    "y": 1138.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14360,18 +14300,6 @@
     "status": "Занято",
     "x": -2791.45,
     "y": -51.9868,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1198,
-    "server_id": 15,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Boba_McCloud",
-    "status": "Занято",
-    "x": -2791.86,
-    "y": -41.8134,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17324,18 +17252,6 @@
     "status": "Занято",
     "x": 2518.62,
     "y": 58.401,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1445,
-    "server_id": 15,
-    "type": "house",
-    "name": "дом н2",
-    "owner": "Vanya_Junside",
-    "status": "Занято",
-    "x": 161.5729,
-    "y": -1455.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21324,6 +21240,90 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 432,
+    "server_id": 15,
+    "type": "house",
+    "name": "schulz?",
+    "owner": "SiegSchulz_Kitsune",
+    "status": "Аукцион",
+    "x": 2279.2,
+    "y": -1076.63,
+    "price": 1250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 576,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Luminisent_London",
+    "status": "Аукцион",
+    "x": -165.173,
+    "y": 2768.39,
+    "price": 200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 712,
+    "server_id": 15,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "esea",
+    "status": "Аукцион",
+    "x": 1573.09,
+    "y": 2658.39,
+    "price": 111111111,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1020,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Boba_McCloud",
+    "status": "Аукцион",
+    "x": -2542.49,
+    "y": 942.4849,
+    "price": 450000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1040,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом Шахтера",
+    "owner": "Pharaoh_McCloud",
+    "status": "Аукцион",
+    "x": -1727.98,
+    "y": 1138.91,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1198,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Boba_McCloud",
+    "status": "Аукцион",
+    "x": -2791.86,
+    "y": -41.8134,
+    "price": 450000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1445,
+    "server_id": 15,
+    "type": "house",
+    "name": "дом н2",
+    "owner": "Krabs_McCloud",
+    "status": "Аукцион",
+    "x": 161.5729,
+    "y": -1455.81,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 90,
     "server_id": 15,
     "type": "business",
@@ -21892,7 +21892,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "[30]Bruce_McCloud",
+    "owner": "Felix_Crown",
     "status": "Занято",
     "x": 1445.11,
     "y": -1418.56,
@@ -21976,7 +21976,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "[30]Bruce_McCloud",
+    "owner": "Felix_Crown",
     "status": "Занято",
     "x": 1657.04,
     "y": 1741.65,

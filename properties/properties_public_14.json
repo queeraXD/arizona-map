@@ -276,18 +276,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 23,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом заводчанина 3",
-    "owner": "Frank_Werner",
-    "status": "Занято",
-    "x": 2207.87,
-    "y": -1282.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 24,
     "server_id": 14,
     "type": "house",
@@ -7420,7 +7408,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Дача Sto_Gram <3",
-    "owner": "Sto_Gram",
+    "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": -2523.5,
     "y": 2239.64,
@@ -7468,7 +7456,7 @@
     "server_id": 14,
     "type": "house",
     "name": "end of the history...",
-    "owner": "Logan_Wallter",
+    "owner": "Satoshi_Kryakovich",
     "status": "Занято",
     "x": -1051.59,
     "y": 1549.59,
@@ -9972,18 +9960,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 831,
-    "server_id": 14,
-    "type": "house",
-    "name": "831",
-    "owner": "Furio_Shakur",
-    "status": "Занято",
-    "x": -2723.0,
-    "y": 4.0472,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 832,
     "server_id": 14,
     "type": "house",
@@ -11979,7 +11955,7 @@
     "id": 998,
     "server_id": 14,
     "type": "house",
-    "name": "Кошачий домик",
+    "name": "- - - 505 - - -",
     "owner": "Zontik_Tufvesson",
     "status": "Занято",
     "x": -2373.18,
@@ -23700,15 +23676,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 193,
+    "id": 23,
     "server_id": 14,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Martin_Moonlight",
+    "type": "house",
+    "name": "деп есть",
+    "owner": "Frank_Werner",
     "status": "Аукцион",
-    "x": 2405.02,
-    "y": -1933.97,
-    "price": 10000000000,
+    "x": 2207.87,
+    "y": -1282.43,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 831,
+    "server_id": 14,
+    "type": "house",
+    "name": "831",
+    "owner": "Furio_Shakur",
+    "status": "Аукцион",
+    "x": -2723.0,
+    "y": 4.0472,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26684,6 +26672,18 @@
     "status": "Занято",
     "x": 1136.97,
     "y": -1456.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 193,
+    "server_id": 14,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Martin_Moonlight",
+    "status": "Занято",
+    "x": 2405.02,
+    "y": -1933.97,
     "price": 0,
     "district": "Сан-Андреас"
   },
