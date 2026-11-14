@@ -8700,18 +8700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 725,
-    "server_id": 18,
-    "type": "house",
-    "name": "Любомльське господарство",
-    "owner": "Afganec_Alik",
-    "status": "Занято",
-    "x": 1703.7,
-    "y": 2689.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 726,
     "server_id": 18,
     "type": "house",
@@ -8720,18 +8708,6 @@
     "status": "Занято",
     "x": 1735.65,
     "y": 2691.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 727,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Afganec_Alik",
-    "status": "Занято",
-    "x": 1672.98,
-    "y": 2801.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10940,18 +10916,6 @@
     "status": "Занято",
     "x": -2126.87,
     "y": 1069.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 913,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Kin_Livov",
-    "status": "Занято",
-    "x": -2126.81,
-    "y": 1087.49,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20452,7 +20416,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Afganec_Alik",
+    "owner": "Rielta_Status",
     "status": "Занято",
     "x": 2495.23,
     "y": -1424.57,
@@ -20804,18 +20768,6 @@
     "status": "Занято",
     "x": 1786.84,
     "y": 2767.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1735,
-    "server_id": 18,
-    "type": "house",
-    "name": "ДЕП УСЛОВИЯ",
-    "owner": "ryan",
-    "status": "Занято",
-    "x": 1783.72,
-    "y": 2755.94,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22209,6 +22161,54 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 725,
+    "server_id": 18,
+    "type": "house",
+    "name": "Любомльське господарство",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1703.7,
+    "y": 2689.52,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 727,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1672.98,
+    "y": 2801.06,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 913,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kin_Livov",
+    "status": "Аукцион",
+    "x": -2126.81,
+    "y": 1087.49,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1735,
+    "server_id": 18,
+    "type": "house",
+    "name": "ДЕП УСЛОВИЯ",
+    "owner": "ryan",
+    "status": "Аукцион",
+    "x": 1783.72,
+    "y": 2755.94,
+    "price": 2999999999,
     "district": "Сан-Андреас"
   },
   {

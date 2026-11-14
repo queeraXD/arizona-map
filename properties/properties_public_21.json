@@ -5388,6 +5388,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 450,
+    "server_id": 21,
+    "type": "house",
+    "name": "Octane",
+    "owner": "Hype_Swaga",
+    "status": "Занято",
+    "x": 1845.81,
+    "y": 741.2369,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 451,
     "server_id": 21,
     "type": "house",
@@ -10020,6 +10032,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 837,
+    "server_id": 21,
+    "type": "house",
+    "name": "ВИЛЛА В ЦЕНТРЕ СФ",
+    "owner": "After_Hours",
+    "status": "Занято",
+    "x": -2285.11,
+    "y": 829.252,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 838,
     "server_id": 21,
     "type": "house",
@@ -11272,7 +11296,7 @@
     "server_id": 21,
     "type": "house",
     "name": "Trade Finance Cluster",
-    "owner": "Slatt_Taufuze",
+    "owner": "Autostopom_Pofazesna",
     "status": "Занято",
     "x": -2018.3,
     "y": 766.4459,
@@ -11468,18 +11492,6 @@
     "status": "Занято",
     "x": -2158.75,
     "y": 786.197,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 960,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Soso_Pavliashvili",
-    "status": "Занято",
-    "x": -2158.94,
-    "y": 769.9379,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15152,18 +15164,6 @@
     "status": "Занято",
     "x": -2301.78,
     "y": 580.0339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1268,
-    "server_id": 21,
-    "type": "house",
-    "name": "Naslaide",
-    "owner": "Soso_Pavliashvili",
-    "status": "Занято",
-    "x": -2621.98,
-    "y": 168.636,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20220,18 +20220,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1690,
-    "server_id": 21,
-    "type": "house",
-    "name": "хранилище членов",
-    "owner": "Autostopom_Pofazesna",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2140.68,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1691,
     "server_id": 21,
     "type": "house",
@@ -21900,27 +21888,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 450,
+    "id": 960,
     "server_id": 21,
     "type": "house",
-    "name": "Octane",
-    "owner": "Svyatoi_Istochnik",
+    "name": "Дом",
+    "owner": "Soso_Pavliashvili",
     "status": "Аукцион",
-    "x": 1845.81,
-    "y": 741.2369,
-    "price": 120123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 837,
-    "server_id": 21,
-    "type": "house",
-    "name": "ВИЛЛА В ЦЕНТРЕ СФ",
-    "owner": "After_Hours",
-    "status": "Аукцион",
-    "x": -2285.11,
-    "y": 829.252,
-    "price": 300000000,
+    "x": -2158.94,
+    "y": 769.9379,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21933,6 +21909,30 @@
     "x": -2904.81,
     "y": 1111.64,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1268,
+    "server_id": 21,
+    "type": "house",
+    "name": "Naslaide",
+    "owner": "Soso_Pavliashvili",
+    "status": "Аукцион",
+    "x": -2621.98,
+    "y": 168.636,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1690,
+    "server_id": 21,
+    "type": "house",
+    "name": "хранилище членов",
+    "owner": "Autostopom_Pofazesna",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2140.68,
+    "price": 10123123,
     "district": "Сан-Андреас"
   },
   {
