@@ -3340,7 +3340,7 @@
     "server_id": 32,
     "type": "house",
     "name": "ДомПивного ",
-    "owner": "Bunny_Hop",
+    "owner": "Vlad_Miligan",
     "status": "Занято",
     "x": 2526.83,
     "y": -1033.53,
@@ -6615,7 +6615,7 @@
     "id": 552,
     "server_id": 32,
     "type": "house",
-    "name": "Набор Архитектора!!!!",
+    "name": "home",
     "owner": "John_Bos",
     "status": "Занято",
     "x": 465.75,
@@ -9168,18 +9168,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 768,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Rufus_Fox",
-    "status": "Занято",
-    "x": -2594.19,
-    "y": 733.1779,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 769,
     "server_id": 32,
     "type": "house",
@@ -9536,6 +9524,18 @@
     "status": "Занято",
     "x": -2368.82,
     "y": 763.504,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 799,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Delron_Jan",
+    "status": "Занято",
+    "x": -2372.53,
+    "y": 784.028,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15644,6 +15644,18 @@
     "status": "Занято",
     "x": -2515.38,
     "y": -170.9069,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1310,
+    "server_id": 32,
+    "type": "house",
+    "name": "берлога",
+    "owner": "Xexexe_Xexexe",
+    "status": "Занято",
+    "x": 161.531,
+    "y": -1455.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22496,31 +22508,19 @@
     "status": "Аукцион",
     "x": 2389.24,
     "y": -1037.06,
-    "price": 3500000000,
+    "price": 3200000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 799,
+    "id": 768,
     "server_id": 32,
     "type": "house",
     "name": "Дом",
-    "owner": "Waldemar_Geek",
+    "owner": "Rufus_Fox",
     "status": "Аукцион",
-    "x": -2372.53,
-    "y": 784.028,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1310,
-    "server_id": 32,
-    "type": "house",
-    "name": "берлога",
-    "owner": "Xexexe_Xexexe",
-    "status": "Аукцион",
-    "x": 161.531,
-    "y": -1455.85,
-    "price": 4000000000,
+    "x": -2594.19,
+    "y": 733.1779,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {

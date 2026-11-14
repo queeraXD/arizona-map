@@ -5868,18 +5868,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 489,
-    "server_id": 5,
-    "type": "house",
-    "name": "BORZ TIME",
-    "owner": "Noyzi_King",
-    "status": "Занято",
-    "x": 2071.46,
-    "y": 776.244,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 490,
     "server_id": 5,
     "type": "house",
@@ -12636,18 +12624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1053,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Wonder_Full",
-    "status": "Занято",
-    "x": -2791.69,
-    "y": -145.9909,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1054,
     "server_id": 5,
     "type": "house",
@@ -13492,7 +13468,7 @@
     "server_id": 5,
     "type": "house",
     "name": "San-Fierro Army",
-    "owner": "Aiko_Hoshino",
+    "owner": "Mason_Hawke",
     "status": "Занято",
     "x": 1809.42,
     "y": -1299.39,
@@ -16620,18 +16596,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1385,
-    "server_id": 5,
-    "type": "house",
-    "name": "BORZ TIME",
-    "owner": "Noyzi_King",
-    "status": "Занято",
-    "x": 78.1806,
-    "y": 1161.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1386,
     "server_id": 5,
     "type": "house",
@@ -17744,18 +17708,6 @@
     "status": "Занято",
     "x": 1772.08,
     "y": 2871.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1479,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Despair_Empressions",
-    "status": "Занято",
-    "x": 1786.44,
-    "y": 2867.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21792,18 +21744,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1817,
-    "server_id": 5,
-    "type": "house",
-    "name": "Домик2",
-    "owner": "DimasGazMyas",
-    "status": "Занято",
-    "x": 2826.08,
-    "y": 2140.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1818,
     "server_id": 5,
     "type": "house",
@@ -22059,7 +21999,7 @@
     "id": 1839,
     "server_id": 5,
     "type": "house",
-    "name": "Nova maining #4",
+    "name": "BORZ TIME",
     "owner": "Noyzi_King",
     "status": "Занято",
     "x": 2816.49,
@@ -23328,18 +23268,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1945,
-    "server_id": 5,
-    "type": "house",
-    "name": "BORZ TIME",
-    "owner": "Noyzi_King",
-    "status": "Занято",
-    "x": 2473.1,
-    "y": -1398.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1946,
     "server_id": 5,
     "type": "house",
@@ -24468,18 +24396,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2040,
-    "server_id": 5,
-    "type": "house",
-    "name": "BORZ TIME",
-    "owner": "Noyzi_King",
-    "status": "Занято",
-    "x": 2601.64,
-    "y": 2194.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2041,
     "server_id": 5,
     "type": "house",
@@ -25104,6 +25020,54 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 489,
+    "server_id": 5,
+    "type": "house",
+    "name": "BORZ TIME",
+    "owner": "Noyzi_King",
+    "status": "Аукцион",
+    "x": 2071.46,
+    "y": 776.244,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1053,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Wonder_Full",
+    "status": "Аукцион",
+    "x": -2791.69,
+    "y": -145.9909,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1385,
+    "server_id": 5,
+    "type": "house",
+    "name": "BORZ TIME",
+    "owner": "Noyzi_King",
+    "status": "Аукцион",
+    "x": 78.1806,
+    "y": 1161.96,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1479,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Despair_Empressions",
+    "status": "Аукцион",
+    "x": 1786.44,
+    "y": 2867.53,
+    "price": 400123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1567,
     "server_id": 5,
     "type": "house",
@@ -25113,6 +25077,42 @@
     "x": 2750.39,
     "y": -1238.59,
     "price": 800123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1817,
+    "server_id": 5,
+    "type": "house",
+    "name": "Домик2",
+    "owner": "DimasGazMyas",
+    "status": "Аукцион",
+    "x": 2826.08,
+    "y": 2140.74,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1945,
+    "server_id": 5,
+    "type": "house",
+    "name": "BORZ TIME",
+    "owner": "Noyzi_King",
+    "status": "Аукцион",
+    "x": 2473.1,
+    "y": -1398.81,
+    "price": 40000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2040,
+    "server_id": 5,
+    "type": "house",
+    "name": "BORZ TIME",
+    "owner": "Noyzi_King",
+    "status": "Аукцион",
+    "x": 2601.64,
+    "y": 2194.69,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {

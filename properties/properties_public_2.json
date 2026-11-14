@@ -10032,6 +10032,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 836,
+    "server_id": 2,
+    "type": "house",
+    "name": "Godness house",
+    "owner": "Raffaello_Newton",
+    "status": "Занято",
+    "x": -2431.35,
+    "y": 920.9169,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 837,
     "server_id": 2,
     "type": "house",
@@ -12312,18 +12324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1028,
-    "server_id": 2,
-    "type": "house",
-    "name": "Промокод VIKINGS",
-    "owner": "Sergey_Chistiakov",
-    "status": "Занято",
-    "x": -2879.94,
-    "y": 797.5089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1029,
     "server_id": 2,
     "type": "house",
@@ -12392,18 +12392,6 @@
     "status": "Занято",
     "x": -2900.35,
     "y": 1081.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1035,
-    "server_id": 2,
-    "type": "house",
-    "name": "Demiral Gang",
-    "owner": "Dakot_Demiral",
-    "status": "Занято",
-    "x": -2904.65,
-    "y": 1118.89,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15824,18 +15812,6 @@
     "status": "Занято",
     "x": -2619.75,
     "y": -127.704,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1321,
-    "server_id": 2,
-    "type": "house",
-    "name": "деп 7",
-    "owner": "Double_Horoshilov",
-    "status": "Занято",
-    "x": -2621.02,
-    "y": -134.6439,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20400,18 +20376,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1703,
-    "server_id": 2,
-    "type": "house",
-    "name": "...",
-    "owner": "Miltiades_Athens",
-    "status": "Занято",
-    "x": 885.4249,
-    "y": 2238.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1704,
     "server_id": 2,
     "type": "house",
@@ -22464,6 +22428,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1879,
+    "server_id": 2,
+    "type": "house",
+    "name": "Скупаю весь район",
+    "owner": "Dmitriy_Bartalomeo",
+    "status": "Занято",
+    "x": 1730.38,
+    "y": 2826.29,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1880,
     "server_id": 2,
     "type": "house",
@@ -23148,18 +23124,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1937,
-    "server_id": 2,
-    "type": "house",
-    "name": "дом внучка #1",
-    "owner": "Bnyk_Smook",
-    "status": "Занято",
-    "x": 2627.13,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1938,
     "server_id": 2,
     "type": "house",
@@ -23296,7 +23260,7 @@
     "server_id": 2,
     "type": "house",
     "name": "Дрочильня Тохи",
-    "owner": "Aarne_Neverseen",
+    "owner": "Hunter_Sunshine",
     "status": "Занято",
     "x": 2639.06,
     "y": 2185.54,
@@ -23928,15 +23892,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 836,
+    "id": 1028,
     "server_id": 2,
     "type": "house",
-    "name": "Godness house",
-    "owner": "Государство",
+    "name": "Промокод VIKINGS",
+    "owner": "Sergey_Chistiakov",
     "status": "Аукцион",
-    "x": -2431.35,
-    "y": 920.9169,
-    "price": 10000000,
+    "x": -2879.94,
+    "y": 797.5089,
+    "price": 2500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1035,
+    "server_id": 2,
+    "type": "house",
+    "name": "Demiral Gang",
+    "owner": "Dakot_Demiral",
+    "status": "Аукцион",
+    "x": -2904.65,
+    "y": 1118.89,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1321,
+    "server_id": 2,
+    "type": "house",
+    "name": "деп 7",
+    "owner": "Double_Horoshilov",
+    "status": "Аукцион",
+    "x": -2621.02,
+    "y": -134.6439,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23948,19 +23936,31 @@
     "status": "Аукцион",
     "x": 885.4229,
     "y": 2153.95,
-    "price": 1800000000,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1879,
+    "id": 1703,
     "server_id": 2,
     "type": "house",
-    "name": "Скупаю весь район",
-    "owner": "Dmitriy_Bartalomeo",
+    "name": "...",
+    "owner": "Miltiades_Athens",
     "status": "Аукцион",
-    "x": 1730.38,
-    "y": 2826.29,
-    "price": 1500000000,
+    "x": 885.4249,
+    "y": 2238.86,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1937,
+    "server_id": 2,
+    "type": "house",
+    "name": "дом внучка #1",
+    "owner": "Bnyk_Smook",
+    "status": "Аукцион",
+    "x": 2627.13,
+    "y": 2195.56,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
