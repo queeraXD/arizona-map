@@ -3552,18 +3552,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 296,
-    "server_id": 13,
-    "type": "house",
-    "name": "Домик Альфредо",
-    "owner": "Mael_Sunset",
-    "status": "Занято",
-    "x": 2082.69,
-    "y": -1040.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 297,
     "server_id": 13,
     "type": "house",
@@ -5196,18 +5184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 433,
-    "server_id": 13,
-    "type": "house",
-    "name": "мальчуковый домик",
-    "owner": "Gothica_Death",
-    "status": "Занято",
-    "x": 2284.16,
-    "y": -1046.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 434,
     "server_id": 13,
     "type": "house",
@@ -6711,7 +6687,7 @@
     "id": 559,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
+    "name": "Кибитка Палика Додика ДЦП",
     "owner": "Kastu_Tape",
     "status": "Занято",
     "x": 312.3569,
@@ -6952,7 +6928,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Хижина Жигуля [DeLorean Corp]",
-    "owner": "Salavat_McLaren",
+    "owner": "Ottone_DeLorean",
     "status": "Занято",
     "x": -2717.79,
     "y": -317.582,
@@ -9652,7 +9628,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Топ инта и гараж",
-    "owner": "Kpovb_Xo",
+    "owner": "Karatel_Squad",
     "status": "Занято",
     "x": -2791.84,
     "y": 218.639,
@@ -11784,6 +11760,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 982,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Sawyer_Smit",
+    "status": "Занято",
+    "x": -2286.53,
+    "y": 796.7609,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 983,
     "server_id": 13,
     "type": "house",
@@ -12616,7 +12604,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Особняк - I CNN I Homies I",
-    "owner": "Ottone_DeLorean",
+    "owner": "Kris_Sever",
     "status": "Занято",
     "x": 1047.83,
     "y": 1006.51,
@@ -19752,6 +19740,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1648,
+    "server_id": 13,
+    "type": "house",
+    "name": "майнинг",
+    "owner": "Vlad_Vinshester",
+    "status": "Занято",
+    "x": 2788.14,
+    "y": 2260.94,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1649,
     "server_id": 13,
     "type": "house",
@@ -22024,7 +22024,7 @@
     "server_id": 13,
     "type": "house",
     "name": "ну не я",
-    "owner": "Zheka_Harrison",
+    "owner": "Alterre_DeCtrolle",
     "status": "Занято",
     "x": 2601.64,
     "y": 2185.26,
@@ -22656,6 +22656,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1892,
+    "server_id": 13,
+    "type": "house",
+    "name": "ну я да",
+    "owner": "White_Fall",
+    "status": "Занято",
+    "x": -252.255,
+    "y": 956.046,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1893,
     "server_id": 13,
     "type": "house",
@@ -23244,15 +23256,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 982,
+    "id": 296,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Sawyer_Smit",
+    "name": "Домик Альфредо",
+    "owner": "Mael_Sunset",
     "status": "Аукцион",
-    "x": -2286.53,
-    "y": 796.7609,
-    "price": 351000000,
+    "x": 2082.69,
+    "y": -1040.57,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 433,
+    "server_id": 13,
+    "type": "house",
+    "name": "мальчуковый домик",
+    "owner": "Gothica_Death",
+    "status": "Аукцион",
+    "x": 2284.16,
+    "y": -1046.07,
+    "price": 500123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23264,31 +23288,19 @@
     "status": "Аукцион",
     "x": 2147.77,
     "y": -1366.12,
-    "price": 500123123,
+    "price": 500123132,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1648,
+    "id": 208,
     "server_id": 13,
-    "type": "house",
-    "name": "майнинг",
-    "owner": "Vlad_Vinshester",
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Evgeny_Liquid",
     "status": "Аукцион",
-    "x": 2788.14,
-    "y": 2260.94,
-    "price": 350000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1892,
-    "server_id": 13,
-    "type": "house",
-    "name": "ну я да",
-    "owner": "Gangsta_Babe",
-    "status": "Аукцион",
-    "x": -252.255,
-    "y": 956.046,
-    "price": 200000000,
+    "x": 194.751,
+    "y": -273.823,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26420,18 +26432,6 @@
     "status": "Занято",
     "x": 196.119,
     "y": -116.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 208,
-    "server_id": 13,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Evgeny_Liquid",
-    "status": "Занято",
-    "x": 194.751,
-    "y": -273.823,
     "price": 0,
     "district": "Сан-Андреас"
   },

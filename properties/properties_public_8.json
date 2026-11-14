@@ -744,6 +744,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 62,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Wayne_Lil",
+    "status": "Занято",
+    "x": 2498.47,
+    "y": -1643.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 63,
     "server_id": 8,
     "type": "house",
@@ -3588,18 +3600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 300,
-    "server_id": 8,
-    "type": "house",
-    "name": "flocka squad",
-    "owner": "Alphonse_Capone",
-    "status": "Занято",
-    "x": 2109.6,
-    "y": -1081.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 301,
     "server_id": 8,
     "type": "house",
@@ -4611,7 +4611,7 @@
     "id": 385,
     "server_id": 8,
     "type": "house",
-    "name": "Kray House",
+    "name": "Titus Home11",
     "owner": "Titus_Rivendare",
     "status": "Занято",
     "x": 2363.19,
@@ -6039,8 +6039,8 @@
     "id": 504,
     "server_id": 8,
     "type": "house",
-    "name": "Home By Martinezz Square V2.0 ",
-    "owner": "Simbachka_Martinezz",
+    "name": "Home ",
+    "owner": "Phishing_Scams",
     "status": "Занято",
     "x": 1314.4,
     "y": 1930.11,
@@ -12120,18 +12120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1016,
-    "server_id": 8,
-    "type": "house",
-    "name": "Дом Эцио:)",
-    "owner": "BAC_EK",
-    "status": "Занято",
-    "x": -2471.78,
-    "y": 921.075,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1017,
     "server_id": 8,
     "type": "house",
@@ -13424,18 +13412,6 @@
     "status": "Занято",
     "x": -2905.26,
     "y": 1171.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1125,
-    "server_id": 8,
-    "type": "house",
-    "name": "халабуда",
-    "owner": "Many_Leage",
-    "status": "Занято",
-    "x": -2905.01,
-    "y": 1164.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19348,7 +19324,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Gachimuchi",
-    "owner": "Solder_Boy",
+    "owner": "Banka_Pivka",
     "status": "Занято",
     "x": 2666.65,
     "y": 750.096,
@@ -22656,18 +22632,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1897,
-    "server_id": 8,
-    "type": "house",
-    "name": "c) Vought Family ",
-    "owner": "Artem_Cuertoo",
-    "status": "Занято",
-    "x": 2368.8,
-    "y": 962.838,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1898,
     "server_id": 8,
     "type": "house",
@@ -25692,15 +25656,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 62,
+    "id": 300,
     "server_id": 8,
     "type": "house",
-    "name": "Дом",
-    "owner": "Wayne_Lil",
-    "status": "Аукцион",
-    "x": 2498.47,
-    "y": -1643.62,
-    "price": 5000000000,
+    "name": "flocka squad",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 2109.6,
+    "y": -1081.15,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
@@ -25752,6 +25716,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1016,
+    "server_id": 8,
+    "type": "house",
+    "name": "Дом Эцио:)",
+    "owner": "BAC_EK",
+    "status": "Аукцион",
+    "x": -2471.78,
+    "y": 921.075,
+    "price": 250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1125,
+    "server_id": 8,
+    "type": "house",
+    "name": "халабуда",
+    "owner": "Many_Leage",
+    "status": "Аукцион",
+    "x": -2905.01,
+    "y": 1164.84,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1282,
     "server_id": 8,
     "type": "house",
@@ -25785,6 +25773,18 @@
     "x": 648.8549,
     "y": -1442.48,
     "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1897,
+    "server_id": 8,
+    "type": "house",
+    "name": "c) Vought Family ",
+    "owner": "Artem_Cuertoo",
+    "status": "Аукцион",
+    "x": 2368.8,
+    "y": 962.838,
+    "price": 150123123,
     "district": "Сан-Андреас"
   },
   {

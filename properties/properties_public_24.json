@@ -11800,7 +11800,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Будущая Монополия",
-    "owner": "Sunshine_Samurai",
+    "owner": "Backwoods_Plug",
     "status": "Занято",
     "x": -258.97,
     "y": 1083.44,
@@ -17400,6 +17400,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1451,
+    "server_id": 24,
+    "type": "house",
+    "name": "Tayson Mafia",
+    "owner": "Capitan_Deeplace",
+    "status": "Занято",
+    "x": 1105.59,
+    "y": -1562.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1452,
     "server_id": 24,
     "type": "house",
@@ -20340,18 +20352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1698,
-    "server_id": 24,
-    "type": "house",
-    "name": "Eloquence",
-    "owner": "Egor_Kirillov",
-    "status": "Занято",
-    "x": 2492.21,
-    "y": -1391.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1699,
     "server_id": 24,
     "type": "house",
@@ -22032,27 +22032,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1451,
+    "id": 1698,
     "server_id": 24,
     "type": "house",
-    "name": "Tayson Mafia",
-    "owner": "Capitan_Deeplace",
+    "name": "Eloquence",
+    "owner": "Egor_Kirillov",
     "status": "Аукцион",
-    "x": 1105.59,
-    "y": -1562.68,
-    "price": 800000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 146,
-    "server_id": 24,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Artem_Malbora",
-    "status": "Аукцион",
-    "x": 1785.504,
-    "y": -1394.201,
-    "price": 365000,
+    "x": 2492.21,
+    "y": -1391.95,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24560,6 +24548,18 @@
     "status": "Занято",
     "x": 1274.509,
     "y": -1319.577,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 146,
+    "server_id": 24,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Artem_Malbora",
+    "status": "Занято",
+    "x": 1785.504,
+    "y": -1394.201,
     "price": 0,
     "district": "Сан-Андреас"
   },
