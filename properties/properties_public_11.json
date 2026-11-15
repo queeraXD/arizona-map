@@ -556,7 +556,7 @@
     "server_id": 11,
     "type": "house",
     "name": "### Sunrise $$$",
-    "owner": "Devan_Sunrise",
+    "owner": "Vetamin_Sunrise",
     "status": "Занято",
     "x": 2197.44,
     "y": -1404.08,
@@ -7092,6 +7092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 591,
+    "server_id": 11,
+    "type": "house",
+    "name": "House Legenda 1",
+    "owner": "Legenda_Shootix",
+    "status": "Занято",
+    "x": -1476.21,
+    "y": 2563.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 592,
     "server_id": 11,
     "type": "house",
@@ -7107,8 +7119,8 @@
     "id": 593,
     "server_id": 11,
     "type": "house",
-    "name": "farmilka",
-    "owner": "Sexy_Supra",
+    "name": "House Legenda 2",
+    "owner": "Legenda_Shootix",
     "status": "Занято",
     "x": -1449.95,
     "y": 2562.85,
@@ -11523,8 +11535,8 @@
     "id": 962,
     "server_id": 11,
     "type": "house",
-    "name": "Дом",
-    "owner": "Kyky_Bobo",
+    "name": "House Legenda 3",
+    "owner": "Legenda_Shootix",
     "status": "Занято",
     "x": -2168.74,
     "y": 743.76,
@@ -14868,6 +14880,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1252,
+    "server_id": 11,
+    "type": "house",
+    "name": "Крутой дом охроняет мопс",
+    "owner": "Yura_Alemdar",
+    "status": "Занято",
+    "x": -2449.9,
+    "y": 921.427,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1253,
     "server_id": 11,
     "type": "house",
@@ -18164,6 +18188,18 @@
     "status": "Занято",
     "x": 739.0789,
     "y": -1428.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1528,
+    "server_id": 11,
+    "type": "house",
+    "name": "Подвал soundclound",
+    "owner": "Vozol_Adidas",
+    "status": "Занято",
+    "x": 558.7579,
+    "y": -1161.09,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21576,6 +21612,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1813,
+    "server_id": 11,
+    "type": "house",
+    "name": "Kingston",
+    "owner": "Meepo_Zambidis",
+    "status": "Занято",
+    "x": 2491.26,
+    "y": 1682.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1814,
     "server_id": 11,
     "type": "house",
@@ -22400,18 +22448,6 @@
     "status": "Занято",
     "x": -2622.52,
     "y": 757.8189,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1883,
-    "server_id": 11,
-    "type": "house",
-    "name": "KingOff3House",
-    "owner": "Kotik_MeiMei",
-    "status": "Занято",
-    "x": -2706.93,
-    "y": 722.859,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24600,63 +24636,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 591,
+    "id": 1883,
     "server_id": 11,
     "type": "house",
-    "name": "Benzo",
-    "owner": "Государство",
+    "name": "KingOff3House",
+    "owner": "Kotik_MeiMei",
     "status": "Аукцион",
-    "x": -1476.21,
-    "y": 2563.06,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1252,
-    "server_id": 11,
-    "type": "house",
-    "name": "Крутой дом охроняет мопс",
-    "owner": "Tumoxa_Camnep",
-    "status": "Аукцион",
-    "x": -2449.9,
-    "y": 921.427,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1528,
-    "server_id": 11,
-    "type": "house",
-    "name": "Подвал soundclound",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 558.7579,
-    "y": -1161.09,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1813,
-    "server_id": 11,
-    "type": "house",
-    "name": "Kingston",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": 2491.26,
-    "y": 1682.87,
-    "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 358,
-    "server_id": 11,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Takamoto_King",
-    "status": "Аукцион",
-    "x": -2103.59,
-    "y": -2342.04,
-    "price": 6000000000,
+    "x": -2706.93,
+    "y": 722.859,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26756,6 +26744,18 @@
     "status": "Занято",
     "x": 693.619,
     "y": 1967.68,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 358,
+    "server_id": 11,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Islam_Agaev",
+    "status": "Занято",
+    "x": -2103.59,
+    "y": -2342.04,
     "price": 0,
     "district": "Сан-Андреас"
   },
