@@ -564,18 +564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 47,
-    "server_id": 5,
-    "type": "house",
-    "name": "притон",
-    "owner": "Charles_Bronsson",
-    "status": "Занято",
-    "x": 2188.55,
-    "y": -1419.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 48,
     "server_id": 5,
     "type": "house",
@@ -11736,18 +11724,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 978,
-    "server_id": 5,
-    "type": "house",
-    "name": "UCHIHA",
-    "owner": "Evgeniy_Warden",
-    "status": "Занято",
-    "x": -2372.79,
-    "y": 613.934,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 979,
     "server_id": 5,
     "type": "house",
@@ -11768,18 +11744,6 @@
     "status": "Занято",
     "x": -2372.91,
     "y": 643.924,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 981,
-    "server_id": 5,
-    "type": "house",
-    "name": "!HouseKing!",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": -2358.82,
-    "y": 657.3099,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12464,18 +12428,6 @@
     "status": "Занято",
     "x": 2472.38,
     "y": -962.6719,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1039,
-    "server_id": 5,
-    "type": "house",
-    "name": "Майнинг 5",
-    "owner": "Vanechka_ImpIored",
-    "status": "Занято",
-    "x": 2459.46,
-    "y": -948.0089,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18804,18 +18756,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1567,
-    "server_id": 5,
-    "type": "house",
-    "name": "tg netyt",
-    "owner": "Declan_Davis",
-    "status": "Занято",
-    "x": 2750.39,
-    "y": -1238.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1568,
     "server_id": 5,
     "type": "house",
@@ -21728,18 +21668,6 @@
     "status": "Занято",
     "x": 2368.76,
     "y": 962.838,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1811,
-    "server_id": 5,
-    "type": "house",
-    "name": "шкаф",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": 2818.53,
-    "y": 2140.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25116,6 +25044,78 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 47,
+    "server_id": 5,
+    "type": "house",
+    "name": "притон",
+    "owner": "Charles_Bronsson",
+    "status": "Аукцион",
+    "x": 2188.55,
+    "y": -1419.21,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 978,
+    "server_id": 5,
+    "type": "house",
+    "name": "UCHIHA",
+    "owner": "Evgeniy_Warden",
+    "status": "Аукцион",
+    "x": -2372.79,
+    "y": 613.934,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 981,
+    "server_id": 5,
+    "type": "house",
+    "name": "!HouseKing!",
+    "owner": "Night_Sosiska",
+    "status": "Аукцион",
+    "x": -2358.82,
+    "y": 657.3099,
+    "price": 300123213,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1039,
+    "server_id": 5,
+    "type": "house",
+    "name": "Майнинг 5",
+    "owner": "Vanechka_ImpIored",
+    "status": "Аукцион",
+    "x": 2459.46,
+    "y": -948.0089,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1567,
+    "server_id": 5,
+    "type": "house",
+    "name": "tg netyt",
+    "owner": "Declan_Davis",
+    "status": "Аукцион",
+    "x": 2750.39,
+    "y": -1238.59,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1811,
+    "server_id": 5,
+    "type": "house",
+    "name": "шкаф",
+    "owner": "Night_Sosiska",
+    "status": "Аукцион",
+    "x": 2818.53,
+    "y": 2140.85,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 5,
     "type": "business",
@@ -28168,7 +28168,7 @@
     "server_id": 5,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Aron_Stealer",
+    "owner": "Asenktertu_Almsee",
     "status": "Занято",
     "x": -104.79,
     "y": -309.98,

@@ -3684,18 +3684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 307,
-    "server_id": 32,
-    "type": "house",
-    "name": "60ккк",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": 1846.61,
-    "y": 82.9356,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 308,
     "server_id": 32,
     "type": "house",
@@ -5300,18 +5288,6 @@
     "status": "Занято",
     "x": -691.8779,
     "y": 939.5889,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 442,
-    "server_id": 32,
-    "type": "house",
-    "name": "имееться набор архитекторы",
-    "owner": "Kansai_Gremory",
-    "status": "Занято",
-    "x": 2389.24,
-    "y": -1037.06,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7983,7 +7959,7 @@
     "id": 667,
     "server_id": 32,
     "type": "house",
-    "name": "fightersessence",
+    "name": "Anhedonia",
     "owner": "Hesa_Yory",
     "status": "Занято",
     "x": 1029.48,
@@ -13976,18 +13952,6 @@
     "status": "Занято",
     "x": -1004.06,
     "y": -1875.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1169,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Anton_Mas",
-    "status": "Занято",
-    "x": -986.9279,
-    "y": -1877.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21840,18 +21804,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1853,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Nasral_Vplov",
-    "status": "Занято",
-    "x": 2626.59,
-    "y": 1968.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1854,
     "server_id": 32,
     "type": "house",
@@ -21932,18 +21884,6 @@
     "status": "Занято",
     "x": 2654.51,
     "y": 1968.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1861,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Expander_Stark",
-    "status": "Занято",
-    "x": 2647.44,
-    "y": 1968.89,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22521,6 +22461,66 @@
     "x": 2063.18,
     "y": 2204.3,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 307,
+    "server_id": 32,
+    "type": "house",
+    "name": "60ккк",
+    "owner": "Anton_Mas",
+    "status": "Аукцион",
+    "x": 1846.61,
+    "y": 82.9356,
+    "price": 450000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 442,
+    "server_id": 32,
+    "type": "house",
+    "name": "имееться набор архитекторы",
+    "owner": "Kansai_Gremory",
+    "status": "Аукцион",
+    "x": 2389.24,
+    "y": -1037.06,
+    "price": 3200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1169,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Anton_Mas",
+    "status": "Аукцион",
+    "x": -986.9279,
+    "y": -1877.55,
+    "price": 100000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1853,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Nasral_Vplov",
+    "status": "Аукцион",
+    "x": 2626.59,
+    "y": 1968.83,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1861,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Expander_Stark",
+    "status": "Аукцион",
+    "x": 2647.44,
+    "y": 1968.89,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
