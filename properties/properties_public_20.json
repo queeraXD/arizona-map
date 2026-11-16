@@ -3603,8 +3603,8 @@
     "id": 300,
     "server_id": 20,
     "type": "house",
-    "name": " просто дом",
-    "owner": "Melwin_Wilson",
+    "name": "benzo",
+    "owner": "Ricardo_Castillo",
     "status": "Занято",
     "x": 2108.75,
     "y": -1082.29,
@@ -15580,7 +15580,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Слет",
-    "owner": "Banan_Knight",
+    "owner": "Fluger_New",
     "status": "Занято",
     "x": -2524.31,
     "y": -145.865,
@@ -17096,18 +17096,6 @@
     "status": "Занято",
     "x": 491.5509,
     "y": 1443.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1425,
-    "server_id": 20,
-    "type": "house",
-    "name": "Ґазда",
-    "owner": "Lev_Dudeckiy",
-    "status": "Занято",
-    "x": 885.4719,
-    "y": 1895.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20784,18 +20772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1732,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "End_Recorti",
-    "status": "Занято",
-    "x": 2468.31,
-    "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1733,
     "server_id": 20,
     "type": "house",
@@ -22356,6 +22332,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1425,
+    "server_id": 20,
+    "type": "house",
+    "name": "Ґазда",
+    "owner": "Lev_Dudeckiy",
+    "status": "Аукцион",
+    "x": 885.4719,
+    "y": 1895.58,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1732,
+    "server_id": 20,
+    "type": "house",
+    "name": "retribution",
+    "owner": "End_Recorti",
+    "status": "Аукцион",
+    "x": 2468.31,
+    "y": -1366.2,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 263,
+    "server_id": 20,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Papochka_Paradox",
+    "status": "Аукцион",
+    "x": -2572.55,
+    "y": 2391.86,
+    "price": 317000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 20,
     "type": "business",
@@ -23840,18 +23852,6 @@
     "status": "Занято",
     "x": 58.9409,
     "y": 1221.86,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 263,
-    "server_id": 20,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Papochka_Paradox",
-    "status": "Занято",
-    "x": -2572.55,
-    "y": 2391.86,
     "price": 0,
     "district": "Сан-Андреас"
   },

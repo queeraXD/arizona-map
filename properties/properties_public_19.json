@@ -1188,6 +1188,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 99,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Ognemet",
+    "status": "Занято",
+    "x": 2637.77,
+    "y": -1992.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 100,
+    "server_id": 19,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Vladimir_Ognemet",
+    "status": "Занято",
+    "x": 2636.44,
+    "y": -2012.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 101,
     "server_id": 19,
     "type": "house",
@@ -4456,7 +4480,7 @@
     "server_id": 19,
     "type": "house",
     "name": "<3 Gambino Family <3",
-    "owner": "Vados_BlackStar",
+    "owner": "Sato_Matsuzaka",
     "status": "Занято",
     "x": 1187.44,
     "y": -1233.23,
@@ -5032,7 +5056,7 @@
     "server_id": 19,
     "type": "house",
     "name": "123",
-    "owner": "Noah_Ross",
+    "owner": "Vados_BlackStar",
     "status": "Занято",
     "x": 1308.05,
     "y": 152.9629,
@@ -8852,18 +8876,6 @@
     "status": "Занято",
     "x": -2845.31,
     "y": 928.414,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 740,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "[07]Lindverne_Sunbringe",
-    "status": "Занято",
-    "x": -2840.23,
-    "y": 877.4359,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18432,6 +18444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1539,
+    "server_id": 19,
+    "type": "house",
+    "name": "Лучший домик",
+    "owner": "Suicidal_Onishi",
+    "status": "Занято",
+    "x": 1945.51,
+    "y": 663.577,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1540,
     "server_id": 19,
     "type": "house",
@@ -19348,7 +19372,7 @@
     "server_id": 19,
     "type": "house",
     "name": "ASYLUM",
-    "owner": "Noah_Ross",
+    "owner": "Suicidal_Onishi",
     "status": "Занято",
     "x": 1778.43,
     "y": 2736.05,
@@ -22020,39 +22044,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1539,
-    "server_id": 19,
-    "type": "house",
-    "name": "Лучший домик",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1945.51,
-    "y": 663.577,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 99,
+    "id": 740,
     "server_id": 19,
     "type": "house",
     "name": "Дом",
-    "owner": "Vladimir_Ognemet",
+    "owner": "[07]Lindverne_Sunbringe",
     "status": "Аукцион",
-    "x": 2637.77,
-    "y": -1992.44,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 100,
-    "server_id": 19,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Vladimir_Ognemet",
-    "status": "Аукцион",
-    "x": 2636.44,
-    "y": -2012.26,
-    "price": 500000000,
+    "x": -2840.23,
+    "y": 877.4359,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22065,18 +22065,6 @@
     "x": -1826.43,
     "y": -566.68,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 267,
-    "server_id": 19,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Night_Sosiska",
-    "status": "Аукцион",
-    "x": 1460.33,
-    "y": 2784.8,
-    "price": 1500123123,
     "district": "Сан-Андреас"
   },
   {
@@ -25280,6 +25268,18 @@
     "status": "Занято",
     "x": 947.921,
     "y": 1719.16,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 267,
+    "server_id": 19,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Night_Sosiska",
+    "status": "Занято",
+    "x": 1460.33,
+    "y": 2784.8,
     "price": 0,
     "district": "Сан-Андреас"
   },

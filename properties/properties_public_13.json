@@ -6772,7 +6772,7 @@
     "server_id": 13,
     "type": "house",
     "name": "халабуда",
-    "owner": "Scorpion_Win",
+    "owner": "Kirill_Evgenievich",
     "status": "Занято",
     "x": 227.792,
     "y": 1167.82,
@@ -9240,18 +9240,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 770,
-    "server_id": 13,
-    "type": "house",
-    "name": "Илья Галанте",
-    "owner": "Maga_Siay",
-    "status": "Занято",
-    "x": -2594.19,
-    "y": 785.1649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 771,
     "server_id": 13,
     "type": "house",
@@ -9568,7 +9556,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Ждёт своего владельца :(",
-    "owner": "Edik_Madiyarov",
+    "owner": "Tolyan_DeLorean",
     "status": "Занято",
     "x": -2368.82,
     "y": 740.5089,
@@ -21720,6 +21708,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1812,
+    "server_id": 13,
+    "type": "house",
+    "name": "M#6",
+    "owner": "Denis_Bensol",
+    "status": "Занято",
+    "x": 1789.98,
+    "y": 2778.58,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1813,
     "server_id": 13,
     "type": "house",
@@ -22092,18 +22092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1845,
-    "server_id": 13,
-    "type": "house",
-    "name": "M#8",
-    "owner": "Do_Za",
-    "status": "Занято",
-    "x": 2643.79,
-    "y": 2195.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1846,
     "server_id": 13,
     "type": "house",
@@ -22255,18 +22243,6 @@
     "owner": "Hure_Galante",
     "status": "Занято",
     "x": 2629.75,
-    "y": 2185.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1859,
-    "server_id": 13,
-    "type": "house",
-    "name": "M#3",
-    "owner": "Do_Za",
-    "status": "Занято",
-    "x": 2639.13,
     "y": 2185.54,
     "price": 0,
     "district": "Сан-Андреас"
@@ -23256,6 +23232,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 770,
+    "server_id": 13,
+    "type": "house",
+    "name": "Илья Галанте",
+    "owner": "Maga_Siay",
+    "status": "Аукцион",
+    "x": -2594.19,
+    "y": 785.1649,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1735,
     "server_id": 13,
     "type": "house",
@@ -23264,19 +23252,7 @@
     "status": "Аукцион",
     "x": 2476.36,
     "y": -1410.35,
-    "price": 320000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1812,
-    "server_id": 13,
-    "type": "house",
-    "name": "M#6",
-    "owner": "Gangsta_Babe",
-    "status": "Аукцион",
-    "x": 1789.98,
-    "y": 2778.58,
-    "price": 100000000,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23284,11 +23260,35 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Gangsta_Babe",
+    "owner": "Maloy_Bither",
     "status": "Аукцион",
     "x": 1751.8,
     "y": 2747.44,
-    "price": 100000000,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1845,
+    "server_id": 13,
+    "type": "house",
+    "name": "M#8",
+    "owner": "Do_Za",
+    "status": "Аукцион",
+    "x": 2643.79,
+    "y": 2195.57,
+    "price": 1101231,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1859,
+    "server_id": 13,
+    "type": "house",
+    "name": "M#3",
+    "owner": "Do_Za",
+    "status": "Аукцион",
+    "x": 2639.13,
+    "y": 2185.54,
+    "price": 1101231,
     "district": "Сан-Андреас"
   },
   {

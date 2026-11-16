@@ -480,18 +480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 40,
-    "server_id": 29,
-    "type": "house",
-    "name": "Trap House Winslow ",
-    "owner": "Trap_Meff",
-    "status": "Занято",
-    "x": 2472.88,
-    "y": -1238.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 41,
     "server_id": 29,
     "type": "house",
@@ -7444,7 +7432,7 @@
     "server_id": 29,
     "type": "house",
     "name": "сiрнiкi",
-    "owner": "Gazyava_Hrumka",
+    "owner": "Gothica_Death",
     "status": "Занято",
     "x": -886.291,
     "y": 1514.59,
@@ -8780,18 +8768,6 @@
     "status": "Занято",
     "x": 1588.46,
     "y": 2797.61,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 732,
-    "server_id": 29,
-    "type": "house",
-    "name": "Дом 1",
-    "owner": "Tomy_Entry",
-    "status": "Занято",
-    "x": -2622.35,
-    "y": -198.1479,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12584,6 +12560,18 @@
     "status": "Занято",
     "x": -1915.56,
     "y": 1190.1,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1049,
+    "server_id": 29,
+    "type": "house",
+    "name": "Arbuzov Empire №2",
+    "owner": "Ashot_NewLight",
+    "status": "Занято",
+    "x": -1982.57,
+    "y": 1190.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17259,7 +17247,7 @@
     "id": 1440,
     "server_id": 29,
     "type": "house",
-    "name": "Arbuzov | подарок от Nysson",
+    "name": "Arbuzov Empire №1",
     "owner": "Ashot_NewLight",
     "status": "Занято",
     "x": 531.333,
@@ -19096,7 +19084,7 @@
     "server_id": 29,
     "type": "house",
     "name": "деп условия",
-    "owner": "Gazyava_Hrumka",
+    "owner": "Unwritten_Reply",
     "status": "Занято",
     "x": 2391.4,
     "y": 1682.88,
@@ -21252,15 +21240,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1049,
+    "id": 40,
     "server_id": 29,
     "type": "house",
-    "name": "M.R. Durden.",
-    "owner": "Jamal_Saidaev",
+    "name": "Trap House Winslow ",
+    "owner": "Trap_Meff",
     "status": "Аукцион",
-    "x": -1982.57,
-    "y": 1190.26,
-    "price": 250000000,
+    "x": 2472.88,
+    "y": -1238.12,
+    "price": 20000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 732,
+    "server_id": 29,
+    "type": "house",
+    "name": "Дом 1",
+    "owner": "Tomy_Entry",
+    "status": "Аукцион",
+    "x": -2622.35,
+    "y": -198.1479,
+    "price": 50000000,
     "district": "Сан-Андреас"
   },
   {
