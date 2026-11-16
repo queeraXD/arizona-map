@@ -8067,7 +8067,7 @@
     "id": 672,
     "server_id": 6,
     "type": "house",
-    "name": "Дом сучки авдеевой",
+    "name": "Дом Али Авдеевой",
     "owner": "Alya_Avdeeva",
     "status": "Занято",
     "x": 1084.59,
@@ -10196,6 +10196,18 @@
     "status": "Занято",
     "x": -2132.68,
     "y": -2510.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 850,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Raddan_Komarow",
+    "status": "Занято",
+    "x": -2281.91,
+    "y": 1070.3,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15867,8 +15879,8 @@
     "id": 1323,
     "server_id": 6,
     "type": "house",
-    "name": "Масажка №2",
-    "owner": "Hard_Rockstar",
+    "name": "BENZ HOUSE",
+    "owner": "Blaze_Benz",
     "status": "Занято",
     "x": -2853.18,
     "y": 947.419,
@@ -17464,7 +17476,7 @@
     "server_id": 6,
     "type": "house",
     "name": "123",
-    "owner": "Hard_Rockstar",
+    "owner": "Keo_Immortalis",
     "status": "Занято",
     "x": -2372.53,
     "y": 614.1939,
@@ -21207,8 +21219,8 @@
     "id": 1768,
     "server_id": 6,
     "type": "house",
-    "name": "Roskom House",
-    "owner": "Roskom_Nadzor",
+    "name": "Privetiki",
+    "owner": "Rais_Westwood",
     "status": "Занято",
     "x": 793.401,
     "y": 1991.85,
@@ -22800,18 +22812,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1903,
-    "server_id": 6,
-    "type": "house",
-    "name": "Продается дом ",
-    "owner": "Lalo_Cannon",
-    "status": "Занято",
-    "x": 1733.44,
-    "y": 2814.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1904,
     "server_id": 6,
     "type": "house",
@@ -24276,18 +24276,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2027,
-    "server_id": 6,
-    "type": "house",
-    "name": "Marshall Tower",
-    "owner": "Tobias_Marshall",
-    "status": "Занято",
-    "x": -85.6846,
-    "y": 960.478,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2028,
     "server_id": 6,
     "type": "house",
@@ -24504,15 +24492,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 850,
+    "id": 1903,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Vagulik_Rose",
+    "name": "Продается дом ",
+    "owner": "Lalo_Cannon",
     "status": "Аукцион",
-    "x": -2281.91,
-    "y": 1070.3,
-    "price": 200123123,
+    "x": 1733.44,
+    "y": 2814.96,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24525,6 +24513,18 @@
     "x": 2591.62,
     "y": 2180.71,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2027,
+    "server_id": 6,
+    "type": "house",
+    "name": "Marshall Tower",
+    "owner": "Tobias_Marshall",
+    "status": "Аукцион",
+    "x": -85.6846,
+    "y": 960.478,
+    "price": 1880000,
     "district": "Сан-Андреас"
   },
   {

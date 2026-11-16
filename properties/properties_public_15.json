@@ -3004,7 +3004,7 @@
     "server_id": 15,
     "type": "house",
     "name": "sell tg ahdqwq",
-    "owner": "McDonalds_Santiz",
+    "owner": "Legendary_Santiz",
     "status": "Занято",
     "x": 2458.76,
     "y": 128.9869,
@@ -3048,18 +3048,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 254,
-    "server_id": 15,
-    "type": "house",
-    "name": "Santiz Empire | Mining #1",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 2373.96,
-    "y": 71.0979,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 255,
     "server_id": 15,
     "type": "house",
@@ -3072,23 +3060,11 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 256,
-    "server_id": 15,
-    "type": "house",
-    "name": "КИЕВСИТИ",
-    "owner": "Jaa_Bum",
-    "status": "Занято",
-    "x": 2109.07,
-    "y": -1000.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 257,
     "server_id": 15,
     "type": "house",
     "name": "PRITON",
-    "owner": "Axma_McCloud",
+    "owner": "Axma_Derate",
     "status": "Занято",
     "x": 2122.32,
     "y": -970.3649,
@@ -3356,6 +3332,18 @@
     "status": "Занято",
     "x": 2194.16,
     "y": -1000.94,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 280,
+    "server_id": 15,
+    "type": "house",
+    "name": "Santiz Empire | Mining #3",
+    "owner": "Legendary_Santiz",
+    "status": "Занято",
+    "x": 2413.57,
+    "y": 61.4468,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -4792,7 +4780,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Santiz Empire",
-    "owner": "Bad_Joke",
+    "owner": "Roman_Santiz",
     "status": "Занято",
     "x": 2415.43,
     "y": -51.5713,
@@ -11280,18 +11268,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 942,
-    "server_id": 15,
-    "type": "house",
-    "name": "майнинг 3",
-    "owner": "Lucien_McCloud",
-    "status": "Занято",
-    "x": -2018.45,
-    "y": 784.7659,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 943,
     "server_id": 15,
     "type": "house",
@@ -11840,18 +11816,6 @@
     "status": "Занято",
     "x": 2446.82,
     "y": 18.8796,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 989,
-    "server_id": 15,
-    "type": "house",
-    "name": "Santiz Empire",
-    "owner": "Alt_McCloud",
-    "status": "Занято",
-    "x": 2548.61,
-    "y": 25.0862,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17008,7 +16972,7 @@
     "server_id": 15,
     "type": "house",
     "name": "__b0ych1k____",
-    "owner": "Dimasik_Beloww",
+    "owner": "Razval_Halabyd",
     "status": "Занято",
     "x": 885.9019,
     "y": 2211.72,
@@ -17648,18 +17612,6 @@
     "status": "Занято",
     "x": 782.776,
     "y": -1464.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1473,
-    "server_id": 15,
-    "type": "house",
-    "name": "Santiz Empire | Mining #2",
-    "owner": "Alt_McCloud",
-    "status": "Занято",
-    "x": 2398.37,
-    "y": 111.763,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21312,15 +21264,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 280,
+    "id": 254,
     "server_id": 15,
     "type": "house",
-    "name": "Santiz Empire | Mining #3",
-    "owner": "Государство",
+    "name": "Santiz Empire | Mining #1",
+    "owner": "Pasha_Caplya",
     "status": "Аукцион",
-    "x": 2413.57,
-    "y": 61.4468,
-    "price": 10000000,
+    "x": 2373.96,
+    "y": 71.0979,
+    "price": 1000123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 256,
+    "server_id": 15,
+    "type": "house",
+    "name": "КИЕВСИТИ",
+    "owner": "Jaa_Bum",
+    "status": "Аукцион",
+    "x": 2109.07,
+    "y": -1000.65,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 942,
+    "server_id": 15,
+    "type": "house",
+    "name": "майнинг 3",
+    "owner": "Lucien_McCloud",
+    "status": "Аукцион",
+    "x": -2018.45,
+    "y": 784.7659,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 989,
+    "server_id": 15,
+    "type": "house",
+    "name": "Santiz Empire",
+    "owner": "Alt_McCloud",
+    "status": "Аукцион",
+    "x": 2548.61,
+    "y": 25.0862,
+    "price": 700123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1473,
+    "server_id": 15,
+    "type": "house",
+    "name": "Santiz Empire | Mining #2",
+    "owner": "Alt_McCloud",
+    "status": "Аукцион",
+    "x": 2398.37,
+    "y": 111.763,
+    "price": 700123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23100,6 +23100,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 85,
+    "server_id": 15,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Uzbek_Escobar",
+    "status": "Занято",
+    "x": -1213.8,
+    "y": 1830.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 106,
     "server_id": 15,
     "type": "business",
@@ -23464,7 +23476,7 @@
     "server_id": 15,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Aleksandr_Monarch",
+    "owner": "Yankis_McCloud",
     "status": "Занято",
     "x": 1957.1,
     "y": -2183.62,
