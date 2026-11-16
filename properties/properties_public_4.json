@@ -4524,18 +4524,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 377,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2258.04,
-    "y": 167.8099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 378,
     "server_id": 4,
     "type": "house",
@@ -11100,6 +11088,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 926,
+    "server_id": 4,
+    "type": "house",
+    "name": "Destruction #2",
+    "owner": "Abyss_Destruction",
+    "status": "Занято",
+    "x": -2286.71,
+    "y": 797.5549,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 927,
     "server_id": 4,
     "type": "house",
@@ -11852,18 +11852,6 @@
     "status": "Занято",
     "x": -2029.85,
     "y": 819.8259,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 990,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Mark_Coffe",
-    "status": "Занято",
-    "x": -2281.74,
-    "y": 1089.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16272,18 +16260,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1358,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2285.88,
-    "y": 161.7709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1359,
     "server_id": 4,
     "type": "house",
@@ -17931,7 +17907,7 @@
     "id": 1496,
     "server_id": 4,
     "type": "house",
-    "name": "Дом",
+    "name": "Destruction #3",
     "owner": "Abyss_Destruction",
     "status": "Занято",
     "x": 1866.03,
@@ -25248,39 +25224,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 926,
+    "id": 377,
     "server_id": 4,
     "type": "house",
-    "name": "HOME",
-    "owner": "Vlad_Loginovv",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
     "status": "Аукцион",
-    "x": -2286.71,
-    "y": 797.5549,
-    "price": 100000000,
+    "x": 2258.04,
+    "y": 167.8099,
+    "price": 5100000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
+    "id": 990,
     "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ramil_Orlov",
+    "type": "house",
+    "name": "Дом",
+    "owner": "Mark_Coffe",
     "status": "Аукцион",
-    "x": 2085.84,
-    "y": 2486.25,
-    "price": 10000000000,
+    "x": -2281.74,
+    "y": 1089.12,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 170,
+    "id": 1358,
     "server_id": 4,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Islam_Orlov",
+    "type": "house",
+    "name": "Продается дом",
+    "owner": "Doctor_Infernales",
     "status": "Аукцион",
-    "x": 1157.92,
-    "y": 2072.27,
-    "price": 10000000000,
+    "x": 2285.88,
+    "y": 161.7709,
+    "price": 2900000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27240,6 +27216,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 170,
+    "server_id": 4,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Islam_Orlov",
+    "status": "Занято",
+    "x": 1157.92,
+    "y": 2072.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 171,
     "server_id": 4,
     "type": "business",
@@ -27488,6 +27476,18 @@
     "status": "Занято",
     "x": 1671.52,
     "y": 1814.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
+    "server_id": 4,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ramil_Orlov",
+    "status": "Занято",
+    "x": 2085.84,
+    "y": 2486.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
