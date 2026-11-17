@@ -12,18 +12,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1,
-    "server_id": 13,
-    "type": "house",
-    "name": "Travis_Company",
-    "owner": "Denis_Mir",
-    "status": "Занято",
-    "x": 1906.0,
-    "y": -1113.0,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2,
     "server_id": 13,
     "type": "house",
@@ -3459,7 +3447,7 @@
     "id": 288,
     "server_id": 13,
     "type": "house",
-    "name": "king house",
+    "name": "Дом",
     "owner": "Munuctep_Kingman",
     "status": "Занято",
     "x": 2512.81,
@@ -21768,18 +21756,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1816,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Maloy_Bither",
-    "status": "Занято",
-    "x": 1751.8,
-    "y": 2747.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1817,
     "server_id": 13,
     "type": "house",
@@ -21796,7 +21772,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Хата Андрюхи",
-    "owner": "Maga_Vadimov",
+    "owner": "Pasha_Caplya",
     "status": "Занято",
     "x": 1745.5,
     "y": 2770.06,
@@ -23280,6 +23256,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1,
+    "server_id": 13,
+    "type": "house",
+    "name": "Travis_Company",
+    "owner": "Denis_Mir",
+    "status": "Аукцион",
+    "x": 1906.0,
+    "y": -1113.0,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 797,
     "server_id": 13,
     "type": "house",
@@ -23288,7 +23276,19 @@
     "status": "Аукцион",
     "x": -2368.82,
     "y": 740.5089,
-    "price": 500000000,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1816,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Maloy_Bither",
+    "status": "Аукцион",
+    "x": 1751.8,
+    "y": 2747.44,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {

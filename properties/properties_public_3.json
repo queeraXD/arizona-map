@@ -108,18 +108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 9,
-    "server_id": 3,
-    "type": "house",
-    "name": "Miers",
-    "owner": "naldon",
-    "status": "Занято",
-    "x": 2036.07,
-    "y": -1059.32,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 10,
     "server_id": 3,
     "type": "house",
@@ -4008,18 +3996,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 334,
-    "server_id": 3,
-    "type": "house",
-    "name": "WestINC",
-    "owner": "Borge_West",
-    "status": "Занято",
-    "x": 807.215,
-    "y": 372.506,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 335,
     "server_id": 3,
     "type": "house",
@@ -5336,6 +5312,18 @@
     "status": "Занято",
     "x": 2355.7,
     "y": -1039.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 445,
+    "server_id": 3,
+    "type": "house",
+    "name": "ОТРЯД CIPHER",
+    "owner": "Dmitri_Bucefal",
+    "status": "Занято",
+    "x": 2439.9,
+    "y": -1010.88,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10680,6 +10668,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 892,
+    "server_id": 3,
+    "type": "house",
+    "name": "Домик 4",
+    "owner": "Artemiu_Kakhovsky",
+    "status": "Занято",
+    "x": -2068.13,
+    "y": -2537.5,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 893,
     "server_id": 3,
     "type": "house",
@@ -15116,18 +15116,6 @@
     "status": "Занято",
     "x": -2402.42,
     "y": 829.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1263,
-    "server_id": 3,
-    "type": "house",
-    "name": "Rose",
-    "owner": "Vladimir_Greco",
-    "status": "Занято",
-    "x": -2504.46,
-    "y": 821.3079,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21996,18 +21984,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1836,
-    "server_id": 3,
-    "type": "house",
-    "name": "The Dragon Empire",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 2690.54,
-    "y": -1207.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1837,
     "server_id": 3,
     "type": "house",
@@ -23988,27 +23964,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 445,
+    "id": 9,
     "server_id": 3,
     "type": "house",
-    "name": "ОТРЯД CIPHER",
-    "owner": "Dmitri_Bucefal",
+    "name": "Miers",
+    "owner": "naldon",
     "status": "Аукцион",
-    "x": 2439.9,
-    "y": -1010.88,
-    "price": 600123123,
+    "x": 2036.07,
+    "y": -1059.32,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 892,
+    "id": 334,
     "server_id": 3,
     "type": "house",
-    "name": "Домик 4",
-    "owner": "Sergey_Wang",
+    "name": "WestINC",
+    "owner": "Borge_West",
     "status": "Аукцион",
-    "x": -2068.13,
-    "y": -2537.5,
-    "price": 450000000,
+    "x": 807.215,
+    "y": 372.506,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1263,
+    "server_id": 3,
+    "type": "house",
+    "name": "Rose",
+    "owner": "Vladimir_Greco",
+    "status": "Аукцион",
+    "x": -2504.46,
+    "y": 821.3079,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1836,
+    "server_id": 3,
+    "type": "house",
+    "name": "The Dragon Empire",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": 2690.54,
+    "y": -1207.75,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 208,
+    "server_id": 3,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": 194.751,
+    "y": -273.823,
+    "price": 6000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 292,
+    "server_id": 3,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -243.623,
+    "y": -1364.43,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24268,7 +24292,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Бар",
-    "owner": "Donald_Legendary",
+    "owner": "Atlantic_Runner",
     "status": "Занято",
     "x": -91.2371,
     "y": 1188.43,
@@ -24796,7 +24820,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Магазин 24/7",
-    "owner": "Donald_Legendary",
+    "owner": "Somber_Serenade",
     "status": "Занято",
     "x": 1136.02,
     "y": -897.176,
@@ -26032,7 +26056,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Donald_Legendary",
+    "owner": "Lonely_Lumine",
     "status": "Занято",
     "x": -53.8409,
     "y": 1189.04,
@@ -27144,18 +27168,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 208,
-    "server_id": 3,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Donald_Legendary",
-    "status": "Занято",
-    "x": 194.751,
-    "y": -273.823,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 209,
     "server_id": 3,
     "type": "business",
@@ -27236,18 +27248,6 @@
     "status": "Занято",
     "x": 1460.33,
     "y": 2784.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 292,
-    "server_id": 3,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Donald_Legendary",
-    "status": "Занято",
-    "x": -243.623,
-    "y": -1364.43,
     "price": 0,
     "district": "Сан-Андреас"
   },

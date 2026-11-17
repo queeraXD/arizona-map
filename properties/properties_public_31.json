@@ -3408,18 +3408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 284,
-    "server_id": 31,
-    "type": "house",
-    "name": "Tekkschuster House",
-    "owner": "Pula_Tekkschuster",
-    "status": "Занято",
-    "x": 2462.37,
-    "y": -1011.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 285,
     "server_id": 31,
     "type": "house",
@@ -3776,6 +3764,18 @@
     "status": "Занято",
     "x": 1954.5,
     "y": -1074.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 315,
+    "server_id": 31,
+    "type": "house",
+    "name": "Sladkiy",
+    "owner": "Pedro_Mercy",
+    "status": "Занято",
+    "x": 1959.61,
+    "y": -1069.92,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10372,7 +10372,7 @@
     "server_id": 31,
     "type": "house",
     "name": "AFK Village №13",
-    "owner": "Harumi_Carbone",
+    "owner": "Yanis_Lulisse",
     "status": "Занято",
     "x": -340.7749,
     "y": 2565.41,
@@ -11212,7 +11212,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Дом",
-    "owner": "Generation_Gg",
+    "owner": "Avrora_Li",
     "status": "Занято",
     "x": -2127.05,
     "y": 773.752,
@@ -21192,18 +21192,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1771,
-    "server_id": 31,
-    "type": "house",
-    "name": "tg @fabensae/ds @n41ty",
-    "owner": "Yanis_Lulisse",
-    "status": "Занято",
-    "x": -789.7039,
-    "y": 2747.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1772,
     "server_id": 31,
     "type": "house",
@@ -23352,15 +23340,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 315,
+    "id": 284,
     "server_id": 31,
     "type": "house",
-    "name": "Sladkiy",
-    "owner": "Pedro_Mercy",
+    "name": "Tekkschuster House",
+    "owner": "Pula_Tekkschuster",
     "status": "Аукцион",
-    "x": 1959.61,
-    "y": -1069.92,
-    "price": 1900000000,
+    "x": 2462.37,
+    "y": -1011.12,
+    "price": 1500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1771,
+    "server_id": 31,
+    "type": "house",
+    "name": "tg @fabensae/ds @n41ty",
+    "owner": "Yanis_Lulisse",
+    "status": "Аукцион",
+    "x": -789.7039,
+    "y": 2747.74,
+    "price": 1200000000,
     "district": "Сан-Андреас"
   },
   {

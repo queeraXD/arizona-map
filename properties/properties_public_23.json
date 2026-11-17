@@ -1812,30 +1812,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 151,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом Киосочника",
-    "owner": "Gothica_Death",
-    "status": "Занято",
-    "x": 1141.96,
-    "y": -1069.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 152,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Podpal_Dryn",
-    "status": "Занято",
-    "x": 1103.22,
-    "y": -1069.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 153,
     "server_id": 23,
     "type": "house",
@@ -5048,18 +5024,6 @@
     "status": "Занято",
     "x": 1299.13,
     "y": 141.296,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 421,
-    "server_id": 23,
-    "type": "house",
-    "name": "Ellington Empire",
-    "owner": "Albert_Ellington",
-    "status": "Занято",
-    "x": 1308.05,
-    "y": 152.9629,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11316,18 +11280,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 945,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Slantik_Holik",
-    "status": "Занято",
-    "x": -2281.96,
-    "y": 979.2269,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 946,
     "server_id": 23,
     "type": "house",
@@ -11943,7 +11895,7 @@
     "id": 997,
     "server_id": 23,
     "type": "house",
-    "name": "гараж деп условия 2 подвала",
+    "name": "HeronWater Lover",
     "owner": "Heron_Miller",
     "status": "Занято",
     "x": -2373.39,
@@ -15075,7 +15027,7 @@
     "id": 1258,
     "server_id": 23,
     "type": "house",
-    "name": "[SF] Kavkaz Dinasty | Гараж",
+    "name": "HeronWater Lover",
     "owner": "Heron_Miller",
     "status": "Занято",
     "x": -2340.11,
@@ -16012,7 +15964,7 @@
     "server_id": 23,
     "type": "house",
     "name": "DSK GANG",
-    "owner": "Rick_Wildberries",
+    "owner": "Bryan_Defoltik",
     "status": "Занято",
     "x": 1622.72,
     "y": 2846.08,
@@ -17856,6 +17808,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1491,
+    "server_id": 23,
+    "type": "house",
+    "name": "Heronwater Lover",
+    "owner": "Heron_Miller",
+    "status": "Занято",
+    "x": 885.9019,
+    "y": 2014.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1492,
     "server_id": 23,
     "type": "house",
@@ -19312,7 +19276,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом LUDOAMANa",
-    "owner": "Serega_Requiem",
+    "owner": "Iluxa_Farshmak",
     "status": "Занято",
     "x": 2537.03,
     "y": 1205.24,
@@ -21132,6 +21096,42 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 151,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом Киосочника",
+    "owner": "Gothica_Death",
+    "status": "Аукцион",
+    "x": 1141.96,
+    "y": -1069.88,
+    "price": 10123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 152,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Podpal_Dryn",
+    "status": "Аукцион",
+    "x": 1103.22,
+    "y": -1069.38,
+    "price": 600123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 421,
+    "server_id": 23,
+    "type": "house",
+    "name": "Ellington Empire",
+    "owner": "Albert_Ellington",
+    "status": "Аукцион",
+    "x": 1308.05,
+    "y": 152.9629,
+    "price": 199999999,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 787,
     "server_id": 23,
     "type": "house",
@@ -21140,7 +21140,19 @@
     "status": "Аукцион",
     "x": -2543.58,
     "y": 922.2329,
-    "price": 300123123,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 945,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Slantik_Holik",
+    "status": "Аукцион",
+    "x": -2281.96,
+    "y": 979.2269,
+    "price": 112312312,
     "district": "Сан-Андреас"
   },
   {
@@ -21153,18 +21165,6 @@
     "x": -2790.24,
     "y": -168.25,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1491,
-    "server_id": 23,
-    "type": "house",
-    "name": "waldemarfam",
-    "owner": "Arlekin_Holy",
-    "status": "Аукцион",
-    "x": 885.9019,
-    "y": 2014.87,
-    "price": 123123123,
     "district": "Сан-Андреас"
   },
   {

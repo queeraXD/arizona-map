@@ -11124,6 +11124,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 928,
+    "server_id": 24,
+    "type": "house",
+    "name": "928 49.598$",
+    "owner": "In_Voker",
+    "status": "Занято",
+    "x": -1860.83,
+    "y": 1114.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 929,
     "server_id": 24,
     "type": "house",
@@ -12732,18 +12744,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1063,
-    "server_id": 24,
-    "type": "house",
-    "name": "бандитские респекты",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 2256.61,
-    "y": -1396.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1064,
     "server_id": 24,
     "type": "house",
@@ -12788,18 +12788,6 @@
     "status": "Занято",
     "x": 2247.5,
     "y": -1470.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1068,
-    "server_id": 24,
-    "type": "house",
-    "name": "ларцы ",
-    "owner": "Atlantic_Runner",
-    "status": "Занято",
-    "x": 2263.93,
-    "y": -1469.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14859,7 +14847,7 @@
     "id": 1240,
     "server_id": 24,
     "type": "house",
-    "name": "WALDEMAR FAM",
+    "name": "Lock House",
     "owner": "Dremmy_Lock",
     "status": "Занято",
     "x": -2383.14,
@@ -21360,18 +21348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1783,
-    "server_id": 24,
-    "type": "house",
-    "name": "беве",
-    "owner": "Aynami_Ray",
-    "status": "Занято",
-    "x": -2223.86,
-    "y": 795.7059,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1784,
     "server_id": 24,
     "type": "house",
@@ -22032,15 +22008,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 928,
+    "id": 1063,
     "server_id": 24,
     "type": "house",
-    "name": "держите все мои волосы",
-    "owner": "Государство",
+    "name": "бандитские респекты",
+    "owner": "Viper_Darkness",
     "status": "Аукцион",
-    "x": -1860.83,
-    "y": 1114.77,
-    "price": 10000000,
+    "x": 2256.61,
+    "y": -1396.43,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1068,
+    "server_id": 24,
+    "type": "house",
+    "name": "ларцы ",
+    "owner": "Atlantic_Runner",
+    "status": "Аукцион",
+    "x": 2263.93,
+    "y": -1469.55,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1783,
+    "server_id": 24,
+    "type": "house",
+    "name": "беве",
+    "owner": "Aynami_Ray",
+    "status": "Аукцион",
+    "x": -2223.86,
+    "y": 795.7059,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
