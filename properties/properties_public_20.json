@@ -6528,18 +6528,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 544,
-    "server_id": 20,
-    "type": "house",
-    "name": "блатная хата",
-    "owner": "End_Recorti",
-    "status": "Занято",
-    "x": 1921.69,
-    "y": 2664.64,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 545,
     "server_id": 20,
     "type": "house",
@@ -11444,6 +11432,18 @@
     "status": "Занято",
     "x": -2159.6,
     "y": 946.984,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 956,
+    "server_id": 20,
+    "type": "house",
+    "name": "Recorti Avenue",
+    "owner": "Iasha_Lavavich",
+    "status": "Занято",
+    "x": -2192.67,
+    "y": 934.1019,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17064,18 +17064,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1425,
-    "server_id": 20,
-    "type": "house",
-    "name": "Ґазда",
-    "owner": "End_Recorti",
-    "status": "Занято",
-    "x": 885.4719,
-    "y": 1895.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1426,
     "server_id": 20,
     "type": "house",
@@ -19452,6 +19440,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1624,
+    "server_id": 20,
+    "type": "house",
+    "name": "tranquil",
+    "owner": "Dexter_Doc",
+    "status": "Занято",
+    "x": 2003.69,
+    "y": 2154.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1625,
     "server_id": 20,
     "type": "house",
@@ -20736,18 +20736,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1732,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "End_Recorti",
-    "status": "Занято",
-    "x": 2468.31,
-    "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1733,
     "server_id": 20,
     "type": "house",
@@ -21072,14 +21060,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1760,
+    "id": 1761,
     "server_id": 20,
     "type": "house",
-    "name": "деп ус. подвал дс samuel_smile",
-    "owner": "End_Recorti",
+    "name": "Recorti Avenue",
+    "owner": "Vanek_Kamatov",
     "status": "Занято",
-    "x": 1739.45,
-    "y": 2792.26,
+    "x": 1728.03,
+    "y": 2834.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21224,18 +21212,6 @@
     "status": "Занято",
     "x": 1796.59,
     "y": 2803.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1774,
-    "server_id": 20,
-    "type": "house",
-    "name": "деп ус. подвал дс samuel_smile",
-    "owner": "End_Recorti",
-    "status": "Занято",
-    "x": 1786.74,
-    "y": 2767.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22296,27 +22272,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 956,
+    "id": 544,
     "server_id": 20,
     "type": "house",
-    "name": "Recorti Avenue",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": -2192.67,
-    "y": 934.1019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1761,
-    "server_id": 20,
-    "type": "house",
-    "name": "Recorti Avenue",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 1728.03,
-    "y": 2834.82,
-    "price": 0,
+    "name": "блатная хата",
+    "owner": "End_Recorti",
+    "status": "Аукцион",
+    "x": 1921.69,
+    "y": 2664.64,
+    "price": 1100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22344,15 +22308,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1624,
+    "id": 1425,
     "server_id": 20,
     "type": "house",
-    "name": "tranquil",
-    "owner": "Dexter_Doc",
+    "name": "Ґазда",
+    "owner": "End_Recorti",
     "status": "Аукцион",
-    "x": 2003.69,
-    "y": 2154.54,
-    "price": 400000000,
+    "x": 885.4719,
+    "y": 1895.58,
+    "price": 900000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1732,
+    "server_id": 20,
+    "type": "house",
+    "name": "retribution",
+    "owner": "End_Recorti",
+    "status": "Аукцион",
+    "x": 2468.31,
+    "y": -1366.2,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1760,
+    "server_id": 20,
+    "type": "house",
+    "name": "деп ус. подвал дс samuel_smile",
+    "owner": "End_Recorti",
+    "status": "Аукцион",
+    "x": 1739.45,
+    "y": 2792.26,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1774,
+    "server_id": 20,
+    "type": "house",
+    "name": "деп ус. подвал дс samuel_smile",
+    "owner": "End_Recorti",
+    "status": "Аукцион",
+    "x": 1786.74,
+    "y": 2767.29,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {

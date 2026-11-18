@@ -3696,18 +3696,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 308,
-    "server_id": 14,
-    "type": "house",
-    "name": "1337",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": 1912.61,
-    "y": -1070.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 309,
     "server_id": 14,
     "type": "house",
@@ -5392,7 +5380,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Логово Биткоина",
-    "owner": "Ilia_Roslakov",
+    "owner": "OneWay_Ticket",
     "status": "Занято",
     "x": 2330.09,
     "y": -1060.14,
@@ -6672,18 +6660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 556,
-    "server_id": 14,
-    "type": "house",
-    "name": "|| Wendy House №1 ||",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": 570.729,
-    "y": 1174.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 557,
     "server_id": 14,
     "type": "house",
@@ -7604,6 +7580,18 @@
     "status": "Занято",
     "x": -290.544,
     "y": 1176.73,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 634,
+    "server_id": 14,
+    "type": "house",
+    "name": "10 LVL + Набор Архитектора #1",
+    "owner": "Suzuki_Sepia",
+    "status": "Занято",
+    "x": -324.3099,
+    "y": 1165.32,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8859,8 +8847,8 @@
     "id": 739,
     "server_id": 14,
     "type": "house",
-    "name": "Дом: Виолочки :3",
-    "owner": "OneWay_Ticket",
+    "name": "Дом Адмирала",
+    "owner": "Stavros_Navarch",
     "status": "Занято",
     "x": -2845.31,
     "y": 928.414,
@@ -17160,18 +17148,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1431,
-    "server_id": 14,
-    "type": "house",
-    "name": ":az: Dragonborn :az:",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": 927.994,
-    "y": 2414.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1432,
     "server_id": 14,
     "type": "house",
@@ -23688,15 +23664,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 634,
+    "id": 308,
     "server_id": 14,
     "type": "house",
-    "name": "10 LVL + Набор Архитектора #1",
-    "owner": "Kastro_Asd",
+    "name": "1337",
+    "owner": "OneWay_Ticket",
     "status": "Аукцион",
-    "x": -324.3099,
-    "y": 1165.32,
-    "price": 800123123,
+    "x": 1912.61,
+    "y": -1070.59,
+    "price": 700123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 556,
+    "server_id": 14,
+    "type": "house",
+    "name": "|| Wendy House №1 ||",
+    "owner": "OneWay_Ticket",
+    "status": "Аукцион",
+    "x": 570.729,
+    "y": 1174.37,
+    "price": 1000123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1431,
+    "server_id": 14,
+    "type": "house",
+    "name": ":az: Dragonborn :az:",
+    "owner": "OneWay_Ticket",
+    "status": "Аукцион",
+    "x": 927.994,
+    "y": 2414.26,
+    "price": 999123123,
     "district": "Сан-Андреас"
   },
   {
@@ -23720,7 +23720,7 @@
     "status": "Аукцион",
     "x": -1983.44,
     "y": 127.66,
-    "price": 8500000000,
+    "price": 8000000000,
     "district": "Сан-Андреас"
   },
   {

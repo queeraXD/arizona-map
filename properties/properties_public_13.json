@@ -6636,6 +6636,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 553,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Seventh_Sonata",
+    "status": "Занято",
+    "x": 2017.37,
+    "y": 1916.38,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 554,
     "server_id": 13,
     "type": "house",
@@ -9292,7 +9304,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Diavolo_Triada",
+    "owner": "Loving_Tv",
     "status": "Занято",
     "x": -2590.92,
     "y": 819.7999,
@@ -9548,18 +9560,6 @@
     "status": "Занято",
     "x": -2368.82,
     "y": 711.7169,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 797,
-    "server_id": 13,
-    "type": "house",
-    "name": "Ждёт своего владельца :(",
-    "owner": "Tolyan_DeLorean",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 740.5089,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23268,15 +23268,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 553,
+    "id": 797,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2017.37,
-    "y": 1916.38,
-    "price": 0,
+    "name": "Ждёт своего владельца :(",
+    "owner": "Tolyan_DeLorean",
+    "status": "Аукцион",
+    "x": -2368.82,
+    "y": 740.5089,
+    "price": 332000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23289,18 +23289,6 @@
     "x": -2477.25,
     "y": 1244.51,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 208,
-    "server_id": 13,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Evgeny_Liquid",
-    "status": "Аукцион",
-    "x": 194.751,
-    "y": -273.823,
-    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26432,6 +26420,18 @@
     "status": "Занято",
     "x": 196.119,
     "y": -116.76,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 208,
+    "server_id": 13,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Keny_Berzloy",
+    "status": "Занято",
+    "x": 194.751,
+    "y": -273.823,
     "price": 0,
     "district": "Сан-Андреас"
   },
