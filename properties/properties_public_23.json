@@ -1836,6 +1836,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 153,
+    "server_id": 23,
+    "type": "house",
+    "name": "особа мажорки",
+    "owner": "Majorka_Infinity",
+    "status": "Занято",
+    "x": 1103.34,
+    "y": -1092.56,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 154,
     "server_id": 23,
     "type": "house",
@@ -3412,7 +3424,7 @@
     "server_id": 23,
     "type": "house",
     "name": "BOOBAB IMPERIA",
-    "owner": "Demon_Dipsize",
+    "owner": "Yandex_Telemost",
     "status": "Занято",
     "x": 2219.28,
     "y": -1031.06,
@@ -5036,18 +5048,6 @@
     "status": "Занято",
     "x": 1299.13,
     "y": 141.296,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 421,
-    "server_id": 23,
-    "type": "house",
-    "name": "Ellington Empire",
-    "owner": "Albert_Ellington",
-    "status": "Занято",
-    "x": 1308.05,
-    "y": 152.9629,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7336,7 +7336,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Michael_Shtyh",
+    "owner": "Techno_Music",
     "status": "Занято",
     "x": -830.166,
     "y": 1589.46,
@@ -10440,18 +10440,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 872,
-    "server_id": 23,
-    "type": "house",
-    "name": "Utkirovic",
-    "owner": "Bossik",
-    "status": "Занято",
-    "x": -298.635,
-    "y": 2565.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 873,
     "server_id": 23,
     "type": "house",
@@ -11312,18 +11300,6 @@
     "status": "Занято",
     "x": -2295.25,
     "y": 969.6619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 945,
-    "server_id": 23,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Slantik_Holik",
-    "status": "Занято",
-    "x": -2281.96,
-    "y": 979.2269,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15684,18 +15660,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1309,
-    "server_id": 23,
-    "type": "house",
-    "name": "Wilders Estate",
-    "owner": "Madelaine_Petsch",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -170.9069,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1310,
     "server_id": 23,
     "type": "house",
@@ -19332,6 +19296,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1613,
+    "server_id": 23,
+    "type": "house",
+    "name": "farshmak)",
+    "owner": "Evil_Lie",
+    "status": "Занято",
+    "x": 2537.03,
+    "y": 1205.24,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1614,
     "server_id": 23,
     "type": "house",
@@ -21144,39 +21120,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 153,
+    "id": 421,
+    "server_id": 23,
+    "type": "house",
+    "name": "Ellington Empire",
+    "owner": "Albert_Ellington",
+    "status": "Аукцион",
+    "x": 1308.05,
+    "y": 152.9629,
+    "price": 174999999,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 872,
+    "server_id": 23,
+    "type": "house",
+    "name": "Utkirovic",
+    "owner": "Bossik",
+    "status": "Аукцион",
+    "x": -298.635,
+    "y": 2565.81,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 945,
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Drug_Dealer",
+    "owner": "Slantik_Holik",
     "status": "Аукцион",
-    "x": 1103.34,
-    "y": -1092.56,
-    "price": 900123123,
+    "x": -2281.96,
+    "y": 979.2269,
+    "price": 112312312,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1613,
+    "id": 1309,
     "server_id": 23,
     "type": "house",
-    "name": "farshmak)",
-    "owner": "Evil_Lie",
+    "name": "Wilders Estate",
+    "owner": "Madelaine_Petsch",
     "status": "Аукцион",
-    "x": 2537.03,
-    "y": 1205.24,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 196,
-    "server_id": 23,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "WebCam_Tank",
-    "status": "Аукцион",
-    "x": -2681.61,
-    "y": 583.93,
-    "price": 7500000000,
+    "x": -2515.38,
+    "y": -170.9069,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24164,6 +24152,18 @@
     "status": "Занято",
     "x": -1548.81,
     "y": 673.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 196,
+    "server_id": 23,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "WebCam_Tank",
+    "status": "Занято",
+    "x": -2681.61,
+    "y": 583.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
