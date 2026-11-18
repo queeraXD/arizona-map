@@ -6216,18 +6216,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 518,
-    "server_id": 15,
-    "type": "house",
-    "name": "House by Oxford",
-    "owner": "Amoral_Excellence",
-    "status": "Занято",
-    "x": 1595.41,
-    "y": 2070.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 519,
     "server_id": 15,
     "type": "house",
@@ -9576,18 +9564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 798,
-    "server_id": 15,
-    "type": "house",
-    "name": "House by Oxford",
-    "owner": "Amoral_Excellence",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 763.504,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 799,
     "server_id": 15,
     "type": "house",
@@ -10316,6 +10292,18 @@
     "status": "Занято",
     "x": -1432.72,
     "y": -953.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 861,
+    "server_id": 15,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Xavier_Croft",
+    "status": "Занято",
+    "x": -218.123,
+    "y": 2481.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11220,18 +11208,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 937,
-    "server_id": 15,
-    "type": "house",
-    "name": "House by Oxford",
-    "owner": "Amoral_Excellence",
-    "status": "Занято",
-    "x": -2112.62,
-    "y": 796.5349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 938,
     "server_id": 15,
     "type": "house",
@@ -11632,7 +11608,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Disney",
-    "owner": "Tom_Sosison",
+    "owner": "Izi_Brigi",
     "status": "Занято",
     "x": -2348.76,
     "y": 2423.25,
@@ -11660,18 +11636,6 @@
     "status": "Занято",
     "x": -2478.74,
     "y": 2488.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 974,
-    "server_id": 15,
-    "type": "house",
-    "name": "House by Oxford",
-    "owner": "Amoral_Excellence",
-    "status": "Занято",
-    "x": -2479.06,
-    "y": 2509.42,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15528,18 +15492,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1296,
-    "server_id": 15,
-    "type": "house",
-    "name": "Marik house",
-    "owner": "Yegor_Markeloff",
-    "status": "Занято",
-    "x": -2856.7,
-    "y": 841.8759,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1297,
     "server_id": 15,
     "type": "house",
@@ -17008,7 +16960,7 @@
     "server_id": 15,
     "type": "house",
     "name": "__b0ych1k____",
-    "owner": "Like_Nike",
+    "owner": "Alfredo_Frans",
     "status": "Занято",
     "x": 885.9019,
     "y": 2211.72,
@@ -19840,7 +19792,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Дом",
-    "owner": "West_McCloud",
+    "owner": "Vanya_Likhoshapko",
     "status": "Занято",
     "x": 2476.25,
     "y": -1410.06,
@@ -21312,15 +21264,87 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 861,
+    "id": 518,
     "server_id": 15,
     "type": "house",
-    "name": "Дом",
-    "owner": "Xavier_Croft",
+    "name": "House by Oxford",
+    "owner": "Amoral_Excellence",
     "status": "Аукцион",
-    "x": -218.123,
-    "y": 2481.23,
-    "price": 390000000,
+    "x": 1595.41,
+    "y": 2070.99,
+    "price": 550000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 798,
+    "server_id": 15,
+    "type": "house",
+    "name": "House by Oxford",
+    "owner": "Amoral_Excellence",
+    "status": "Аукцион",
+    "x": -2368.82,
+    "y": 763.504,
+    "price": 550000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 937,
+    "server_id": 15,
+    "type": "house",
+    "name": "House by Oxford",
+    "owner": "Amoral_Excellence",
+    "status": "Аукцион",
+    "x": -2112.62,
+    "y": 796.5349,
+    "price": 550000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 974,
+    "server_id": 15,
+    "type": "house",
+    "name": "House by Oxford",
+    "owner": "Amoral_Excellence",
+    "status": "Аукцион",
+    "x": -2479.06,
+    "y": 2509.42,
+    "price": 550000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1296,
+    "server_id": 15,
+    "type": "house",
+    "name": "Marik house",
+    "owner": "Yegor_Markeloff",
+    "status": "Аукцион",
+    "x": -2856.7,
+    "y": 841.8759,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 323,
+    "server_id": 15,
+    "type": "business",
+    "name": "Стриптиз Клуб",
+    "owner": "Max_Fantom",
+    "status": "Аукцион",
+    "x": 2489.24,
+    "y": 2123.59,
+    "price": 900000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 467,
+    "server_id": 15,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Chokolad_SmokyCloud",
+    "status": "Аукцион",
+    "x": -2015.06,
+    "y": -2.1872,
+    "price": 256000,
     "district": "Сан-Андреас"
   },
   {
@@ -24084,18 +24108,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 467,
-    "server_id": 15,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Chokolad_SmokyCloud",
-    "status": "Занято",
-    "x": -2015.06,
-    "y": -2.1872,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 468,
     "server_id": 15,
     "type": "business",
@@ -25196,18 +25208,6 @@
     "status": "Занято",
     "x": -320.311,
     "y": 2676.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 323,
-    "server_id": 15,
-    "type": "business",
-    "name": "Стриптиз Клуб",
-    "owner": "Max_Fantom",
-    "status": "Занято",
-    "x": 2489.24,
-    "y": 2123.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
