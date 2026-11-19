@@ -3651,8 +3651,8 @@
     "id": 304,
     "server_id": 27,
     "type": "house",
-    "name": "держите все мои волосы",
-    "owner": "Odin_Asher",
+    "name": "Gob Lin DOMITATION",
+    "owner": "Charles_Montan",
     "status": "Занято",
     "x": 2074.85,
     "y": -1083.23,
@@ -10996,7 +10996,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Joriys",
-    "owner": "Daiki_White",
+    "owner": "Tresher_Miller",
     "status": "Занято",
     "x": -2159.79,
     "y": 1030.66,
@@ -11096,18 +11096,6 @@
     "status": "Занято",
     "x": -2205.53,
     "y": 796.0319,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 925,
-    "server_id": 27,
-    "type": "house",
-    "name": "Joriys",
-    "owner": "Jorik_Price",
-    "status": "Занято",
-    "x": -2029.88,
-    "y": 745.3209,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14460,6 +14448,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1205,
+    "server_id": 27,
+    "type": "house",
+    "name": "Monopoly 4",
+    "owner": "Azon_Monopoly",
+    "status": "Занято",
+    "x": -2791.91,
+    "y": 212.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1206,
     "server_id": 27,
     "type": "house",
@@ -15012,18 +15012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1252,
-    "server_id": 27,
-    "type": "house",
-    "name": "BOP HOUSE",
-    "owner": "Alexandr_Xmelnicki",
-    "status": "Занято",
-    "x": -2358.52,
-    "y": 679.963,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1253,
     "server_id": 27,
     "type": "house",
@@ -15220,7 +15208,7 @@
     "server_id": 27,
     "type": "house",
     "name": "тут Шакил Онил живёт",
-    "owner": "Mane_Tailov",
+    "owner": "Iflexick_Doc",
     "status": "Занято",
     "x": -2628.01,
     "y": 168.908,
@@ -20556,18 +20544,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1716,
-    "server_id": 27,
-    "type": "house",
-    "name": "дом даморусов",
-    "owner": "Senko_Loaf",
-    "status": "Занято",
-    "x": 2417.75,
-    "y": 964.5109,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1717,
     "server_id": 27,
     "type": "house",
@@ -20824,7 +20800,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Antisocial Domination",
-    "owner": "Love_Girls",
+    "owner": "Abdumahmudjon_Lee",
     "status": "Занято",
     "x": 2615.11,
     "y": -1203.24,
@@ -24432,15 +24408,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1205,
+    "id": 925,
     "server_id": 27,
     "type": "house",
-    "name": "Самара",
-    "owner": "Klak_Lakla",
+    "name": "Joriys",
+    "owner": "Jorik_Price",
     "status": "Аукцион",
-    "x": -2791.91,
-    "y": 212.0,
-    "price": 400123123,
+    "x": -2029.88,
+    "y": 745.3209,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1252,
+    "server_id": 27,
+    "type": "house",
+    "name": "BOP HOUSE",
+    "owner": "Alexandr_Xmelnicki",
+    "status": "Аукцион",
+    "x": -2358.52,
+    "y": 679.963,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24452,7 +24440,7 @@
     "status": "Аукцион",
     "x": 1976.21,
     "y": -1634.04,
-    "price": 600000000,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24464,7 +24452,19 @@
     "status": "Аукцион",
     "x": 932.8909,
     "y": 2271.17,
-    "price": 600000000,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1716,
+    "server_id": 27,
+    "type": "house",
+    "name": "дом даморусов",
+    "owner": "Senko_Loaf",
+    "status": "Аукцион",
+    "x": 2417.75,
+    "y": 964.5109,
+    "price": 400000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26104,7 +26104,7 @@
     "server_id": 27,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Corleone_Line",
+    "owner": "Win_Line",
     "status": "Занято",
     "x": 928.254,
     "y": -1352.9,

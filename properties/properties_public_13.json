@@ -6084,6 +6084,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 507,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Munuctep_Kingman",
+    "status": "Занято",
+    "x": 1364.26,
+    "y": 2022.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 508,
     "server_id": 13,
     "type": "house",
@@ -9552,18 +9564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 797,
-    "server_id": 13,
-    "type": "house",
-    "name": "Ждёт своего владельца :(",
-    "owner": "Alterre_DeCtrolle",
-    "status": "Занято",
-    "x": -2368.82,
-    "y": 740.5089,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 798,
     "server_id": 13,
     "type": "house",
@@ -11444,18 +11444,6 @@
     "status": "Занято",
     "x": -2159.76,
     "y": 965.578,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 955,
-    "server_id": 13,
-    "type": "house",
-    "name": "логово Kenов",
-    "owner": "Fores_DeLorean",
-    "status": "Занято",
-    "x": -2159.6,
-    "y": 946.984,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13983,7 +13971,7 @@
     "id": 1166,
     "server_id": 13,
     "type": "house",
-    "name": "Летний домик Прайса",
+    "name": "SELL ds abs3nse",
     "owner": "Alterre_DeCtrolle",
     "status": "Занято",
     "x": -311.2929,
@@ -21516,18 +21504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1795,
-    "server_id": 13,
-    "type": "house",
-    "name": "M-3",
-    "owner": "Fores_DeLorean",
-    "status": "Занято",
-    "x": 1728.0,
-    "y": 2834.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1796,
     "server_id": 13,
     "type": "house",
@@ -21796,7 +21772,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Хата Андрюхи",
-    "owner": "Pasha_Caplya",
+    "owner": "LM_Andrei",
     "status": "Занято",
     "x": 1745.5,
     "y": 2770.06,
@@ -22152,18 +22128,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1848,
-    "server_id": 13,
-    "type": "house",
-    "name": "M-2",
-    "owner": "Fores_DeLorean",
-    "status": "Занято",
-    "x": 2608.51,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1849,
     "server_id": 13,
     "type": "house",
@@ -22244,18 +22208,6 @@
     "status": "Занято",
     "x": 2620.35,
     "y": 2165.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1856,
-    "server_id": 13,
-    "type": "house",
-    "name": "M-1",
-    "owner": "Fores_DeLorean",
-    "status": "Занято",
-    "x": 2622.4,
-    "y": 2185.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23280,15 +23232,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 507,
+    "id": 797,
     "server_id": 13,
     "type": "house",
-    "name": "Дом",
-    "owner": "Munuctep_Kingman",
+    "name": "Ждёт своего владельца :(",
+    "owner": "Alterre_DeCtrolle",
     "status": "Аукцион",
-    "x": 1364.26,
-    "y": 2022.81,
-    "price": 300000000,
+    "x": -2368.82,
+    "y": 740.5089,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 955,
+    "server_id": 13,
+    "type": "house",
+    "name": "логово Kenов",
+    "owner": "Fores_DeLorean",
+    "status": "Аукцион",
+    "x": -2159.6,
+    "y": 946.984,
+    "price": 290000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1795,
+    "server_id": 13,
+    "type": "house",
+    "name": "M-3",
+    "owner": "Fores_DeLorean",
+    "status": "Аукцион",
+    "x": 1728.0,
+    "y": 2834.81,
+    "price": 290000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1848,
+    "server_id": 13,
+    "type": "house",
+    "name": "M-2",
+    "owner": "Fores_DeLorean",
+    "status": "Аукцион",
+    "x": 2608.51,
+    "y": 2195.56,
+    "price": 290000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1856,
+    "server_id": 13,
+    "type": "house",
+    "name": "M-1",
+    "owner": "Fores_DeLorean",
+    "status": "Аукцион",
+    "x": 2622.4,
+    "y": 2185.54,
+    "price": 290000000,
     "district": "Сан-Андреас"
   },
   {

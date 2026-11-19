@@ -3687,8 +3687,8 @@
     "id": 307,
     "server_id": 32,
     "type": "house",
-    "name": "60ккк",
-    "owner": "Kent_Underground",
+    "name": "это только начало",
+    "owner": "Stanko_Monopoly",
     "status": "Занято",
     "x": 1846.61,
     "y": 82.9356,
@@ -7788,18 +7788,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 651,
-    "server_id": 32,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 1939.93,
-    "y": 642.882,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 652,
     "server_id": 32,
     "type": "house",
@@ -7952,18 +7940,6 @@
     "status": "Занято",
     "x": 984.2709,
     "y": 1978.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 665,
-    "server_id": 32,
-    "type": "house",
-    "name": "Хата бизнесменов",
-    "owner": "Vstanislav_Shishkin",
-    "status": "Занято",
-    "x": 986.0319,
-    "y": 2000.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9864,18 +9840,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 826,
-    "server_id": 32,
-    "type": "house",
-    "name": "Подвал для майнинга.",
-    "owner": "Shocker_Face",
-    "status": "Занято",
-    "x": -2688.68,
-    "y": -89.4464,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 827,
     "server_id": 32,
     "type": "house",
@@ -10804,7 +10768,7 @@
     "server_id": 32,
     "type": "house",
     "name": "Kalter Home",
-    "owner": "Adolfo_Kalter",
+    "owner": "Nikita_Exotical",
     "status": "Занято",
     "x": -2130.12,
     "y": 942.562,
@@ -13944,18 +13908,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1167,
-    "server_id": 32,
-    "type": "house",
-    "name": "поместья банхамера",
-    "owner": "Labotamia_Banhammer",
-    "status": "Занято",
-    "x": -1019.74,
-    "y": -1878.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1168,
     "server_id": 32,
     "type": "house",
@@ -15015,7 +14967,7 @@
     "id": 1256,
     "server_id": 32,
     "type": "house",
-    "name": "Floyd House",
+    "name": "подвал + набор архитектора",
     "owner": "Krennexy_Kennedy",
     "status": "Занято",
     "x": -2303.4,
@@ -20964,18 +20916,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1781,
-    "server_id": 32,
-    "type": "house",
-    "name": "Сын не берет мои деньги",
-    "owner": "Silvester_Andreevish",
-    "status": "Занято",
-    "x": 1783.83,
-    "y": 2755.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1782,
     "server_id": 32,
     "type": "house",
@@ -21744,18 +21684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1846,
-    "server_id": 32,
-    "type": "house",
-    "name": "LESHIY EMPIRE",
-    "owner": "Oliver_Farmila",
-    "status": "Занято",
-    "x": 2613.64,
-    "y": 2060.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1847,
     "server_id": 32,
     "type": "house",
@@ -22512,6 +22440,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 651,
+    "server_id": 32,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Izumi_Ray",
+    "status": "Аукцион",
+    "x": 1939.93,
+    "y": 642.882,
+    "price": 2800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 665,
+    "server_id": 32,
+    "type": "house",
+    "name": "Хата бизнесменов",
+    "owner": "Vstanislav_Shishkin",
+    "status": "Аукцион",
+    "x": 986.0319,
+    "y": 2000.56,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 783,
     "server_id": 32,
     "type": "house",
@@ -22524,15 +22476,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 75,
+    "id": 826,
     "server_id": 32,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Morozka_Minskiy",
+    "type": "house",
+    "name": "Подвал для майнинга.",
+    "owner": "Shocker_Face",
     "status": "Аукцион",
-    "x": 2556.26,
-    "y": 1872.19,
-    "price": 10000000000,
+    "x": -2688.68,
+    "y": -89.4464,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1167,
+    "server_id": 32,
+    "type": "house",
+    "name": "поместья банхамера",
+    "owner": "Labotamia_Banhammer",
+    "status": "Аукцион",
+    "x": -1019.74,
+    "y": -1878.03,
+    "price": 80123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1781,
+    "server_id": 32,
+    "type": "house",
+    "name": "Деп условия и т.п.",
+    "owner": "Silvester_Andreevish",
+    "status": "Аукцион",
+    "x": 1783.83,
+    "y": 2755.91,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1846,
+    "server_id": 32,
+    "type": "house",
+    "name": "LESHIY EMPIRE",
+    "owner": "Oliver_Farmila",
+    "status": "Аукцион",
+    "x": 2613.64,
+    "y": 2060.96,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23208,6 +23196,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 75,
+    "server_id": 32,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Morozka_Minskiy",
+    "status": "Занято",
+    "x": 2556.26,
+    "y": 1872.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 76,
     "server_id": 32,
     "type": "business",
@@ -23764,7 +23764,7 @@
     "server_id": 32,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "[27]Sahur_TunTun",
+    "owner": "Trapazoid_Trappa",
     "status": "Занято",
     "x": -2231.89,
     "y": -2558.11,

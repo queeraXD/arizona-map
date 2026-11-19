@@ -10140,18 +10140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 845,
-    "server_id": 20,
-    "type": "house",
-    "name": "Патио АвтоХолдинг",
-    "owner": "Egorik_Kennett",
-    "status": "Занято",
-    "x": -2209.65,
-    "y": 1079.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 846,
     "server_id": 20,
     "type": "house",
@@ -10172,18 +10160,6 @@
     "status": "Занято",
     "x": -2172.91,
     "y": 1080.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 848,
-    "server_id": 20,
-    "type": "house",
-    "name": "DEAF call 6644478",
-    "owner": "Valeriy_Lorenso",
-    "status": "Занято",
-    "x": -2157.62,
-    "y": 1117.52,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10503,7 +10479,7 @@
     "id": 875,
     "server_id": 20,
     "type": "house",
-    "name": "Дом",
+    "name": "evolution x 15",
     "owner": "Hayler_Bad",
     "status": "Занято",
     "x": -236.106,
@@ -12520,7 +12496,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Дом Ленчиги",
-    "owner": "Analnui_Vlastelin",
+    "owner": "Sotka_Kennett",
     "status": "Занято",
     "x": -1761.0,
     "y": 1174.23,
@@ -18003,7 +17979,7 @@
     "id": 1500,
     "server_id": 20,
     "type": "house",
-    "name": "мышкасквад",
+    "name": "Воронеж-Сити",
     "owner": "Rostefan_McLaren",
     "status": "Занято",
     "x": 6.1192,
@@ -18792,18 +18768,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1566,
-    "server_id": 20,
-    "type": "house",
-    "name": "Sennheiser Corp.",
-    "owner": "Yuno_Lorenso",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1203.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1567,
     "server_id": 20,
     "type": "house",
@@ -19503,7 +19467,7 @@
     "id": 1625,
     "server_id": 20,
     "type": "house",
-    "name": "Las-Venturas Home",
+    "name": "Дом",
     "owner": "Derek_Darkness",
     "status": "Занято",
     "x": 2022.86,
@@ -21132,18 +21096,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1761,
-    "server_id": 20,
-    "type": "house",
-    "name": "Recorti Avenue",
-    "owner": "Dmitry_Shelby",
-    "status": "Занято",
-    "x": 1728.03,
-    "y": 2834.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1762,
     "server_id": 20,
     "type": "house",
@@ -22353,6 +22305,66 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 845,
+    "server_id": 20,
+    "type": "house",
+    "name": "Патио АвтоХолдинг",
+    "owner": "Egorik_Kennett",
+    "status": "Аукцион",
+    "x": -2209.65,
+    "y": 1079.99,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 848,
+    "server_id": 20,
+    "type": "house",
+    "name": "DEAF call 6644478",
+    "owner": "Valeriy_Lorenso",
+    "status": "Аукцион",
+    "x": -2157.62,
+    "y": 1117.52,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1566,
+    "server_id": 20,
+    "type": "house",
+    "name": "Sennheiser Corp.",
+    "owner": "Yuno_Lorenso",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1203.98,
+    "price": 500123213,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1761,
+    "server_id": 20,
+    "type": "house",
+    "name": "Recorti Avenue",
+    "owner": "Dmitry_Shelby",
+    "status": "Аукцион",
+    "x": 1728.03,
+    "y": 2834.82,
+    "price": 350123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 189,
+    "server_id": 20,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Papochka_Paradox",
+    "status": "Аукцион",
+    "x": -1981.62,
+    "y": 174.636,
+    "price": 8000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23800,7 +23812,7 @@
     "server_id": 20,
     "type": "business",
     "name": "АЗС/Магазин механики",
-    "owner": "Labuba_Hasygawa",
+    "owner": "Gothica_Death",
     "status": "Занято",
     "x": -2975.86,
     "y": 623.271,
@@ -25256,18 +25268,6 @@
     "status": "Занято",
     "x": -88.37,
     "y": 101.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 189,
-    "server_id": 20,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Papochka_Paradox",
-    "status": "Занято",
-    "x": -1981.62,
-    "y": 174.636,
     "price": 0,
     "district": "Сан-Андреас"
   },

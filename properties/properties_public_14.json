@@ -3376,7 +3376,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Бомжатник трампа",
-    "owner": "Raven_Morales",
+    "owner": "Bloody_Milligan",
     "status": "Занято",
     "x": 2443.38,
     "y": 61.609,
@@ -3680,18 +3680,6 @@
     "status": "Занято",
     "x": 1846.61,
     "y": 82.9356,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 308,
-    "server_id": 14,
-    "type": "house",
-    "name": "1337",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": 1912.61,
-    "y": -1070.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6660,18 +6648,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 556,
-    "server_id": 14,
-    "type": "house",
-    "name": "|| Wendy House №1 ||",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": 570.729,
-    "y": 1174.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 557,
     "server_id": 14,
     "type": "house",
@@ -6764,18 +6740,6 @@
     "status": "Занято",
     "x": 258.3089,
     "y": 1151.77,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 565,
-    "server_id": 14,
-    "type": "house",
-    "name": "|| Wendy House №8 ||",
-    "owner": "Winslow_Kryakovich",
-    "status": "Занято",
-    "x": 618.3339,
-    "y": 1168.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9476,18 +9440,6 @@
     "status": "Занято",
     "x": -2583.75,
     "y": 896.255,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 791,
-    "server_id": 14,
-    "type": "house",
-    "name": "FullHouse",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": -2566.54,
-    "y": 896.6409,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17160,18 +17112,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1431,
-    "server_id": 14,
-    "type": "house",
-    "name": ":az: Dragonborn :az:",
-    "owner": "OneWay_Ticket",
-    "status": "Занято",
-    "x": 927.994,
-    "y": 2414.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1432,
     "server_id": 14,
     "type": "house",
@@ -18664,7 +18604,7 @@
     "server_id": 14,
     "type": "house",
     "name": "фармилка",
-    "owner": "OneWay_Ticket",
+    "owner": "Artem_Zmushko",
     "status": "Занято",
     "x": 2571.53,
     "y": 713.2839,
@@ -23691,12 +23631,84 @@
     "id": 41,
     "server_id": 14,
     "type": "house",
-    "name": "Мохитыч",
+    "name": "Деп. Условия",
     "owner": "OneWay_Ticket",
     "status": "Аукцион",
     "x": 2492.1,
     "y": -1239.01,
-    "price": 1500000000,
+    "price": 1300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 308,
+    "server_id": 14,
+    "type": "house",
+    "name": "1337",
+    "owner": "OneWay_Ticket",
+    "status": "Аукцион",
+    "x": 1912.61,
+    "y": -1070.59,
+    "price": 700132123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 556,
+    "server_id": 14,
+    "type": "house",
+    "name": "|| Wendy House №1 ||",
+    "owner": "OneWay_Ticket",
+    "status": "Аукцион",
+    "x": 570.729,
+    "y": 1174.37,
+    "price": 900123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 565,
+    "server_id": 14,
+    "type": "house",
+    "name": "|| Wendy House №8 ||",
+    "owner": "Winslow_Kryakovich",
+    "status": "Аукцион",
+    "x": 618.3339,
+    "y": 1168.83,
+    "price": 1000123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 791,
+    "server_id": 14,
+    "type": "house",
+    "name": "FullHouse",
+    "owner": "OneWay_Ticket",
+    "status": "Аукцион",
+    "x": -2566.54,
+    "y": 896.6409,
+    "price": 700132123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1431,
+    "server_id": 14,
+    "type": "house",
+    "name": ":az: Dragonborn :az:",
+    "owner": "OneWay_Ticket",
+    "status": "Аукцион",
+    "x": 927.994,
+    "y": 2414.26,
+    "price": 900132312,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 163,
+    "server_id": 14,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Kid_Morales",
+    "status": "Аукцион",
+    "x": 1940.01,
+    "y": -2116.01,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24020,18 +24032,6 @@
     "status": "Занято",
     "x": 1966.2,
     "y": 1623.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 163,
-    "server_id": 14,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Kid_Morales",
-    "status": "Занято",
-    "x": 1940.01,
-    "y": -2116.01,
     "price": 0,
     "district": "Сан-Андреас"
   },

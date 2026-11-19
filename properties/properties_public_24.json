@@ -324,18 +324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
-    "server_id": 24,
-    "type": "house",
-    "name": "waldemarfam",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": 2229.54,
-    "y": -1241.34,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 28,
     "server_id": 24,
     "type": "house",
@@ -3240,18 +3228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 270,
-    "server_id": 24,
-    "type": "house",
-    "name": "бебебе",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 2628.1,
-    "y": -1067.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 271,
     "server_id": 24,
     "type": "house",
@@ -3508,7 +3484,7 @@
     "server_id": 24,
     "type": "house",
     "name": "ДОМИК_Bleka",
-    "owner": "Pharmacy_Throat",
+    "owner": "Jack_Chaltsev",
     "status": "Занято",
     "x": 2479.2,
     "y": -1063.87,
@@ -6036,18 +6012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 503,
-    "server_id": 24,
-    "type": "house",
-    "name": "beve",
-    "owner": "Beve_Cardinale",
-    "status": "Занято",
-    "x": 1341.49,
-    "y": 1930.03,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 504,
     "server_id": 24,
     "type": "house",
@@ -6832,7 +6796,7 @@
     "server_id": 24,
     "type": "house",
     "name": "мой дом ",
-    "owner": "Alpha_Crystal",
+    "owner": "Sympathy_Thought",
     "status": "Занято",
     "x": 452.07,
     "y": 1246.99,
@@ -11040,18 +11004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 921,
-    "server_id": 24,
-    "type": "house",
-    "name": "COPPERHEAD SF",
-    "owner": "Ferer_Fol",
-    "status": "Занято",
-    "x": -2282.07,
-    "y": 1089.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 922,
     "server_id": 24,
     "type": "house",
@@ -11127,8 +11079,8 @@
     "id": 928,
     "server_id": 24,
     "type": "house",
-    "name": "928 49.598$",
-    "owner": "In_Voker",
+    "name": "халупа догуса",
+    "owner": "Dogus_Mayson",
     "status": "Занято",
     "x": -1860.83,
     "y": 1114.77,
@@ -14872,7 +14824,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Lock House",
-    "owner": "Dremmy_Lock",
+    "owner": "Pharmacy_Throat",
     "status": "Занято",
     "x": -2383.14,
     "y": 1262.97,
@@ -16424,30 +16376,6 @@
     "status": "Занято",
     "x": 1980.99,
     "y": -1682.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1370,
-    "server_id": 24,
-    "type": "house",
-    "name": "@malscamers",
-    "owner": "Sergio_Tohok",
-    "status": "Занято",
-    "x": 1978.77,
-    "y": -1671.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1371,
-    "server_id": 24,
-    "type": "house",
-    "name": "@malscamers",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": 1974.83,
-    "y": -1671.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20340,18 +20268,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1697,
-    "server_id": 24,
-    "type": "house",
-    "name": "Size corp.",
-    "owner": "Atlantic_Runner",
-    "status": "Занято",
-    "x": 2495.25,
-    "y": -1391.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1698,
     "server_id": 24,
     "type": "house",
@@ -22044,6 +21960,114 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 27,
+    "server_id": 24,
+    "type": "house",
+    "name": "waldemarfam",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2229.54,
+    "y": -1241.34,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 270,
+    "server_id": 24,
+    "type": "house",
+    "name": "бебебе",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": 2628.1,
+    "y": -1067.95,
+    "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 503,
+    "server_id": 24,
+    "type": "house",
+    "name": "beve",
+    "owner": "Beve_Cardinale",
+    "status": "Аукцион",
+    "x": 1341.49,
+    "y": 1930.03,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 921,
+    "server_id": 24,
+    "type": "house",
+    "name": "COPPERHEAD SF",
+    "owner": "Ferer_Fol",
+    "status": "Аукцион",
+    "x": -2282.07,
+    "y": 1089.04,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1370,
+    "server_id": 24,
+    "type": "house",
+    "name": "@malscamers",
+    "owner": "Sergio_Tohok",
+    "status": "Аукцион",
+    "x": 1978.77,
+    "y": -1671.6,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1371,
+    "server_id": 24,
+    "type": "house",
+    "name": "@malscamers",
+    "owner": "Pasha_Caplya",
+    "status": "Аукцион",
+    "x": 1974.83,
+    "y": -1671.19,
+    "price": 150123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1697,
+    "server_id": 24,
+    "type": "house",
+    "name": "Size corp.",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 2495.25,
+    "y": -1391.71,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 28,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Mikhail_Kalashnikov",
+    "status": "Аукцион",
+    "x": 303.81,
+    "y": -184.955,
+    "price": 650000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 137,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Mikhail_Kalashnikov",
+    "status": "Аукцион",
+    "x": 2637.25,
+    "y": 1129.68,
+    "price": 200000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 24,
     "type": "business",
@@ -23304,18 +23328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 28,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Mikhail_Kalashnikov",
-    "status": "Занято",
-    "x": 303.81,
-    "y": -184.955,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 29,
     "server_id": 24,
     "type": "business",
@@ -23432,18 +23444,6 @@
     "status": "Занято",
     "x": -1465.86,
     "y": 1873.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 137,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Mikhail_Kalashnikov",
-    "status": "Занято",
-    "x": 2637.25,
-    "y": 1129.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23692,7 +23692,7 @@
     "server_id": 24,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Sadam_Huseein",
+    "owner": "Kyle_Kess",
     "status": "Занято",
     "x": 2105.21,
     "y": -1806.49,

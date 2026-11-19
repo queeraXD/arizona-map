@@ -2772,18 +2772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 231,
-    "server_id": 28,
-    "type": "house",
-    "name": "Царский дом",
-    "owner": "Sam_Frolov",
-    "status": "Занято",
-    "x": 612.2,
-    "y": -1085.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 232,
     "server_id": 28,
     "type": "house",
@@ -6680,18 +6668,6 @@
     "status": "Занято",
     "x": -253.3099,
     "y": 933.012,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 557,
-    "server_id": 28,
-    "type": "house",
-    "name": "обычный домик ",
-    "owner": "Raiden_Yamaoka",
-    "status": "Занято",
-    "x": -262.1919,
-    "y": 914.895,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11520,18 +11496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 961,
-    "server_id": 28,
-    "type": "house",
-    "name": "Хижина Джейсона",
-    "owner": "Jason_Duvale",
-    "status": "Занято",
-    "x": -2158.17,
-    "y": 753.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 962,
     "server_id": 28,
     "type": "house",
@@ -12964,7 +12928,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Словил Брокер",
-    "owner": "Luke_Mashall",
+    "owner": "Lovec_Pisunov",
     "status": "Занято",
     "x": -2853.21,
     "y": 947.4849,
@@ -13120,7 +13084,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Bloodamare ASC House",
-    "owner": "Luke_Mashall",
+    "owner": "Tom_Nikollenko",
     "status": "Занято",
     "x": -2210.98,
     "y": 902.885,
@@ -16107,7 +16071,7 @@
     "id": 1343,
     "server_id": 28,
     "type": "house",
-    "name": "SkyLake",
+    "name": "BRABUS",
     "owner": "Brabus_Donbass",
     "status": "Занято",
     "x": 1646.47,
@@ -22377,6 +22341,42 @@
     "x": 2063.18,
     "y": 2204.3,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 231,
+    "server_id": 28,
+    "type": "house",
+    "name": "Царский дом",
+    "owner": "Sam_Frolov",
+    "status": "Аукцион",
+    "x": 612.2,
+    "y": -1085.62,
+    "price": 2010000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 557,
+    "server_id": 28,
+    "type": "house",
+    "name": "обычный домик ",
+    "owner": "Raiden_Yamaoka",
+    "status": "Аукцион",
+    "x": -262.1919,
+    "y": 914.895,
+    "price": 115000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 961,
+    "server_id": 28,
+    "type": "house",
+    "name": "Хижина Джейсона",
+    "owner": "Jason_Duvale",
+    "status": "Аукцион",
+    "x": -2158.17,
+    "y": 753.703,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
