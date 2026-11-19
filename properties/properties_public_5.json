@@ -564,18 +564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 47,
-    "server_id": 5,
-    "type": "house",
-    "name": "притон",
-    "owner": "Charles_Bronsson",
-    "status": "Занято",
-    "x": 2188.55,
-    "y": -1419.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 48,
     "server_id": 5,
     "type": "house",
@@ -11772,6 +11760,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 981,
+    "server_id": 5,
+    "type": "house",
+    "name": "Dep+mining",
+    "owner": "Michael_Franzese",
+    "status": "Занято",
+    "x": -2358.82,
+    "y": 657.3099,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 982,
     "server_id": 5,
     "type": "house",
@@ -12884,18 +12884,6 @@
     "status": "Занято",
     "x": 1784.53,
     "y": 2758.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1075,
-    "server_id": 5,
-    "type": "house",
-    "name": "666",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 1786.98,
-    "y": 2767.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17588,6 +17576,18 @@
     "status": "Занято",
     "x": -2593.7,
     "y": 845.276,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1467,
+    "server_id": 5,
+    "type": "house",
+    "name": "Берлога Айса!!!",
+    "owner": "Andrei_Ice",
+    "status": "Занято",
+    "x": -2592.74,
+    "y": 855.0869,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25092,39 +25092,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 981,
+    "id": 47,
     "server_id": 5,
     "type": "house",
-    "name": "Dep+mining",
-    "owner": "Michael_Franzese",
+    "name": "притон",
+    "owner": "Charles_Bronsson",
     "status": "Аукцион",
-    "x": -2358.82,
-    "y": 657.3099,
-    "price": 1230112300,
+    "x": 2188.55,
+    "y": -1419.21,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1467,
+    "id": 1075,
     "server_id": 5,
     "type": "house",
-    "name": "Берлога Айса!!!",
-    "owner": "Andrei_Ice",
+    "name": "666",
+    "owner": "Sos_Krutoy",
     "status": "Аукцион",
-    "x": -2592.74,
-    "y": 855.0869,
-    "price": 1450000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 206,
-    "server_id": 5,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Minato_Sokata",
-    "status": "Аукцион",
-    "x": 1381.1,
-    "y": -1805.03,
-    "price": 9000000000,
+    "x": 1786.98,
+    "y": 2767.43,
+    "price": 650000000,
     "district": "Сан-Андреас"
   },
   {
@@ -28232,6 +28220,18 @@
     "status": "Занято",
     "x": 1136.92,
     "y": -1750.19,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 206,
+    "server_id": 5,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Minato_Sokata",
+    "status": "Занято",
+    "x": 1381.1,
+    "y": -1805.03,
     "price": 0,
     "district": "Сан-Андреас"
   },

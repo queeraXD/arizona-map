@@ -4524,18 +4524,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 377,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2258.04,
-    "y": 167.8099,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 378,
     "server_id": 4,
     "type": "house",
@@ -4728,18 +4716,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 394,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2197.81,
-    "y": -60.608,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 395,
     "server_id": 4,
     "type": "house",
@@ -4776,18 +4752,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 398,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2367.38,
-    "y": -48.8526,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 399,
     "server_id": 4,
     "type": "house",
@@ -4808,18 +4772,6 @@
     "status": "Занято",
     "x": 2415.43,
     "y": -51.5713,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 401,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается Дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2438.82,
-    "y": -54.6911,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6624,6 +6576,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 552,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом Пожарного",
+    "owner": "Maryana_Dattueva",
+    "status": "Занято",
+    "x": 465.75,
+    "y": 1147.6,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 553,
     "server_id": 4,
     "type": "house",
@@ -6796,7 +6760,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Даттуевы House",
-    "owner": "Maryana_Dattueva",
+    "owner": "Sholson_Dattuev",
     "status": "Занято",
     "x": 386.686,
     "y": 1272.14,
@@ -16272,18 +16236,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1358,
-    "server_id": 4,
-    "type": "house",
-    "name": "Продается дом",
-    "owner": "Doctor_Infernales",
-    "status": "Занято",
-    "x": 2285.88,
-    "y": 161.7709,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1359,
     "server_id": 4,
     "type": "house",
@@ -18448,7 +18400,7 @@
     "server_id": 4,
     "type": "house",
     "name": "House Borokko",
-    "owner": "Sholson_Dattuev",
+    "owner": "Maryana_Dattueva",
     "status": "Занято",
     "x": 2750.39,
     "y": -1205.69,
@@ -25248,15 +25200,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 552,
+    "id": 377,
     "server_id": 4,
     "type": "house",
-    "name": "Дом Пожарного",
-    "owner": "Ramil_Clemente",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
     "status": "Аукцион",
-    "x": 465.75,
-    "y": 1147.6,
-    "price": 100000100,
+    "x": 2258.04,
+    "y": 167.8099,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 394,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2197.81,
+    "y": -60.608,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 398,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2367.38,
+    "y": -48.8526,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 401,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается Дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2438.82,
+    "y": -54.6911,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1358,
+    "server_id": 4,
+    "type": "house",
+    "name": "Продается дом",
+    "owner": "Doctor_Infernales",
+    "status": "Аукцион",
+    "x": 2285.88,
+    "y": 161.7709,
+    "price": 2900000000,
     "district": "Сан-Андреас"
   },
   {

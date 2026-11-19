@@ -5052,6 +5052,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 421,
+    "server_id": 23,
+    "type": "house",
+    "name": "Ellington Empire",
+    "owner": "Stalker_Ghost",
+    "status": "Занято",
+    "x": 1308.05,
+    "y": 152.9629,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 422,
     "server_id": 23,
     "type": "house",
@@ -10080,30 +10092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 841,
-    "server_id": 23,
-    "type": "house",
-    "name": "Heronwater Lover",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": -2208.08,
-    "y": 1108.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 842,
-    "server_id": 23,
-    "type": "house",
-    "name": "Heronwater Lover",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": -2227.76,
-    "y": 1107.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 843,
     "server_id": 23,
     "type": "house",
@@ -10436,6 +10424,18 @@
     "status": "Занято",
     "x": -302.976,
     "y": 2552.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 872,
+    "server_id": 23,
+    "type": "house",
+    "name": "Utkirovic",
+    "owner": "Isko_Moreno",
+    "status": "Занято",
+    "x": -298.635,
+    "y": 2565.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11484,18 +11484,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 961,
-    "server_id": 23,
-    "type": "house",
-    "name": "Heronwater Lover",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": -2158.17,
-    "y": 753.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 962,
     "server_id": 23,
     "type": "house",
@@ -11912,18 +11900,6 @@
     "status": "Занято",
     "x": -2358.71,
     "y": 796.9899,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 997,
-    "server_id": 23,
-    "type": "house",
-    "name": "HeronWater Lover",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": -2373.39,
-    "y": 834.4459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15048,18 +15024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1258,
-    "server_id": 23,
-    "type": "house",
-    "name": "HeronWater Lover",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": -2340.11,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1259,
     "server_id": 23,
     "type": "house",
@@ -17828,18 +17792,6 @@
     "status": "Занято",
     "x": 885.901,
     "y": 1953.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1491,
-    "server_id": 23,
-    "type": "house",
-    "name": "Heronwater Lover",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": 885.9019,
-    "y": 2014.87,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21120,27 +21072,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 421,
+    "id": 841,
     "server_id": 23,
     "type": "house",
-    "name": "Ellington Empire",
-    "owner": "Albert_Ellington",
+    "name": "Heronwater Lover",
+    "owner": "Heron_Miller",
     "status": "Аукцион",
-    "x": 1308.05,
-    "y": 152.9629,
-    "price": 174999999,
+    "x": -2208.08,
+    "y": 1108.05,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 872,
+    "id": 842,
     "server_id": 23,
     "type": "house",
-    "name": "Utkirovic",
-    "owner": "Bossik",
+    "name": "Heronwater Lover",
+    "owner": "Heron_Miller",
     "status": "Аукцион",
-    "x": -298.635,
-    "y": 2565.81,
-    "price": 100000000,
+    "x": -2227.76,
+    "y": 1107.37,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -21148,23 +21100,71 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Slantik_Holik",
+    "owner": "Angel_Razer",
     "status": "Аукцион",
     "x": -2281.96,
     "y": 979.2269,
-    "price": 112312312,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 961,
+    "server_id": 23,
+    "type": "house",
+    "name": "Heronwater Lover",
+    "owner": "Heron_Miller",
+    "status": "Аукцион",
+    "x": -2158.17,
+    "y": 753.703,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 997,
+    "server_id": 23,
+    "type": "house",
+    "name": "HeronWater Lover",
+    "owner": "Heron_Miller",
+    "status": "Аукцион",
+    "x": -2373.39,
+    "y": 834.4459,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1258,
+    "server_id": 23,
+    "type": "house",
+    "name": "HeronWater Lover",
+    "owner": "Heron_Miller",
+    "status": "Аукцион",
+    "x": -2340.11,
+    "y": 656.7349,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
     "id": 1309,
     "server_id": 23,
     "type": "house",
-    "name": "Wilders Estate",
-    "owner": "Madelaine_Petsch",
+    "name": "Heronwater Lover",
+    "owner": "Heron_Miller",
     "status": "Аукцион",
     "x": -2515.38,
     "y": -170.9069,
-    "price": 10000000,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1491,
+    "server_id": 23,
+    "type": "house",
+    "name": "Heronwater Lover",
+    "owner": "Heron_Miller",
+    "status": "Аукцион",
+    "x": 885.9019,
+    "y": 2014.87,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
