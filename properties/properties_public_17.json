@@ -6540,18 +6540,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 545,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Burunduk_Vishneviy",
-    "status": "Занято",
-    "x": -36.0457,
-    "y": 1115.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 546,
     "server_id": 17,
     "type": "house",
@@ -6568,7 +6556,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Burunduk_Vishneviy",
+    "owner": "Jiu_Jei",
     "status": "Занято",
     "x": 12.7711,
     "y": 1113.43,
@@ -12076,7 +12064,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Blad_Tarmer",
+    "owner": "Egor_Sagrada",
     "status": "Занято",
     "x": -2438.35,
     "y": 1141.01,
@@ -14112,18 +14100,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1176,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alexey_Burmalda",
-    "status": "Занято",
-    "x": -881.4689,
-    "y": -1837.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1177,
     "server_id": 17,
     "type": "house",
@@ -15016,7 +14992,7 @@
     "server_id": 17,
     "type": "house",
     "name": "GETTO",
-    "owner": "Dmitry_Nevedronow",
+    "owner": "Grafi_Kus",
     "status": "Занято",
     "x": -2558.72,
     "y": -145.865,
@@ -15532,7 +15508,7 @@
     "server_id": 17,
     "type": "house",
     "name": "НАБОР АРХИТЕКТОРА",
-    "owner": "Burunduk_Vishneviy",
+    "owner": "Jiu_Jei",
     "status": "Занято",
     "x": -2351.14,
     "y": 1226.32,
@@ -20044,7 +20020,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Monopaly",
-    "owner": "Amir_Nakapte",
+    "owner": "Amir_Egorov",
     "status": "Занято",
     "x": 2468.23,
     "y": -1398.81,
@@ -21096,18 +21072,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1763,
-    "server_id": 17,
-    "type": "house",
-    "name": "Цирковой купол",
-    "owner": "Angelic_Patience",
-    "status": "Занято",
-    "x": 857.466,
-    "y": -978.8699,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1764,
     "server_id": 17,
     "type": "house",
@@ -21152,18 +21116,6 @@
     "status": "Занято",
     "x": 154.1269,
     "y": -1946.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1768,
-    "server_id": 17,
-    "type": "house",
-    "name": "Цирковой купол",
-    "owner": "Angelic_Patience",
-    "status": "Занято",
-    "x": 738.971,
-    "y": -1418.51,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22473,6 +22425,54 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 545,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Burunduk_Vishneviy",
+    "status": "Аукцион",
+    "x": -36.0457,
+    "y": 1115.65,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1176,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alexey_Burmalda",
+    "status": "Аукцион",
+    "x": -881.4689,
+    "y": -1837.21,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1763,
+    "server_id": 17,
+    "type": "house",
+    "name": "Цирковой купол",
+    "owner": "Angelic_Patience",
+    "status": "Аукцион",
+    "x": 857.466,
+    "y": -978.8699,
+    "price": 2800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1768,
+    "server_id": 17,
+    "type": "house",
+    "name": "Цирковой купол",
+    "owner": "Angelic_Patience",
+    "status": "Аукцион",
+    "x": 738.971,
+    "y": -1418.51,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {

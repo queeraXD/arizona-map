@@ -456,6 +456,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 38,
+    "server_id": 6,
+    "type": "house",
+    "name": "Хата Хайдона",
+    "owner": "Haydon_Cannon",
+    "status": "Занято",
+    "x": 2387.86,
+    "y": -1328.4,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 39,
     "server_id": 6,
     "type": "house",
@@ -2736,6 +2748,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 230,
+    "server_id": 6,
+    "type": "house",
+    "name": "Saint Street P52 Louis",
+    "owner": "Mustafa_Mansfield",
+    "status": "Занято",
+    "x": 648.1329,
+    "y": -1058.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 231,
+    "server_id": 6,
+    "type": "house",
+    "name": "МаuroHouse",
+    "owner": "Mauro_Mancini",
+    "status": "Занято",
+    "x": 612.2,
+    "y": -1085.62,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 232,
     "server_id": 6,
     "type": "house",
@@ -3820,7 +3856,7 @@
     "server_id": 6,
     "type": "house",
     "name": "chillhouse R.I.P.",
-    "owner": "Maximiliano_Chaz",
+    "owner": "Julia_MacDuck",
     "status": "Занято",
     "x": 795.195,
     "y": -506.406,
@@ -9788,18 +9824,6 @@
     "status": "Занято",
     "x": -2691.32,
     "y": -159.893,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 820,
-    "server_id": 6,
-    "type": "house",
-    "name": "опг ярослав папирос",
-    "owner": "Stas_Refund",
-    "status": "Занято",
-    "x": -2689.39,
-    "y": -152.796,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17427,7 +17451,7 @@
     "id": 1456,
     "server_id": 6,
     "type": "house",
-    "name": "123",
+    "name": "Стассс",
     "owner": "Boris_Polannov",
     "status": "Занято",
     "x": -2372.53,
@@ -21120,18 +21144,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1765,
-    "server_id": 6,
-    "type": "house",
-    "name": "ПРИТОН",
-    "owner": "Tyler_Bell",
-    "status": "Занято",
-    "x": 2476.4,
-    "y": -1417.45,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1766,
     "server_id": 6,
     "type": "house",
@@ -21464,18 +21476,6 @@
     "status": "Занято",
     "x": 2476.44,
     "y": -1383.12,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1794,
-    "server_id": 6,
-    "type": "house",
-    "name": "СОВИ ДОМ В ШКАФУ 20ККК",
-    "owner": "Rich_Millionaire",
-    "status": "Занято",
-    "x": 2487.31,
-    "y": -1424.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24468,18 +24468,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 38,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Yung_Nxxx",
-    "status": "Аукцион",
-    "x": 2387.86,
-    "y": -1328.4,
-    "price": 300000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 229,
     "server_id": 6,
     "type": "house",
@@ -24492,27 +24480,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 230,
+    "id": 820,
     "server_id": 6,
     "type": "house",
-    "name": "С Набором Архитектора",
-    "owner": "Oil_Magnat",
+    "name": "опг ярослав папирос",
+    "owner": "Государство",
     "status": "Аукцион",
-    "x": 648.1329,
-    "y": -1058.27,
-    "price": 5000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 231,
-    "server_id": 6,
-    "type": "house",
-    "name": "С Набором Архитектора",
-    "owner": "Oil_Magnat",
-    "status": "Аукцион",
-    "x": 612.2,
-    "y": -1085.62,
-    "price": 5000000000,
+    "x": -2689.39,
+    "y": -152.796,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24524,7 +24500,31 @@
     "status": "Аукцион",
     "x": -2356.88,
     "y": 580.036,
-    "price": 350000000,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1765,
+    "server_id": 6,
+    "type": "house",
+    "name": "ПРИТОН",
+    "owner": "Tyler_Bell",
+    "status": "Аукцион",
+    "x": 2476.4,
+    "y": -1417.45,
+    "price": 350123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1794,
+    "server_id": 6,
+    "type": "house",
+    "name": "СОВИ ДОМ В ШКАФУ 20ККК",
+    "owner": "Rich_Millionaire",
+    "status": "Аукцион",
+    "x": 2487.31,
+    "y": -1424.58,
+    "price": 2000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24856,7 +24856,7 @@
     "server_id": 6,
     "type": "business",
     "name": "Бар",
-    "owner": "Maximiliano_Chaz",
+    "owner": "Julia_MacDuck",
     "status": "Занято",
     "x": 1940.01,
     "y": -2116.01,
@@ -26680,7 +26680,7 @@
     "server_id": 6,
     "type": "business",
     "name": "Аренда транспорта",
-    "owner": "Maximiliano_Chaz",
+    "owner": "Julia_MacDuck",
     "status": "Занято",
     "x": 1957.1,
     "y": -2183.62,
