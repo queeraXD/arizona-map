@@ -3916,7 +3916,7 @@
     "server_id": 11,
     "type": "house",
     "name": "Дом",
-    "owner": "Denny_Fins",
+    "owner": "Vitto_Kuten",
     "status": "Занято",
     "x": 340.0769,
     "y": 33.6021,
@@ -3968,18 +3968,6 @@
     "status": "Занято",
     "x": 286.1669,
     "y": 41.1968,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 331,
-    "server_id": 11,
-    "type": "house",
-    "name": "Gamma N1",
-    "owner": "Dante_Doc",
-    "status": "Занято",
-    "x": 751.999,
-    "y": 375.2529,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -4992,18 +4980,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 416,
-    "server_id": 11,
-    "type": "house",
-    "name": "GHOST EMPIRE",
-    "owner": "Dante_Doc",
-    "status": "Занято",
-    "x": 1303.1,
-    "y": 186.9129,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 417,
     "server_id": 11,
     "type": "house",
@@ -5324,6 +5300,18 @@
     "status": "Занято",
     "x": 2370.23,
     "y": -1034.98,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 444,
+    "server_id": 11,
+    "type": "house",
+    "name": "Eva.",
+    "owner": "Revo_Monopoly",
+    "status": "Занято",
+    "x": 2355.7,
+    "y": -1039.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12560,6 +12548,18 @@
     "status": "Занято",
     "x": -1982.57,
     "y": 1190.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1050,
+    "server_id": 11,
+    "type": "house",
+    "name": "SHPAK",
+    "owner": "Santerro_Marlboro",
+    "status": "Занято",
+    "x": -1939.33,
+    "y": 1227.54,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20640,18 +20640,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1735,
-    "server_id": 11,
-    "type": "house",
-    "name": "Salamancas Pisynchik",
-    "owner": "Kyky_Bobo",
-    "status": "Занято",
-    "x": 928.616,
-    "y": 2372.89,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1736,
     "server_id": 11,
     "type": "house",
@@ -21547,6 +21535,18 @@
     "owner": "Sergio_Tohok",
     "status": "Занято",
     "x": 2476.25,
+    "y": 1682.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1811,
+    "server_id": 11,
+    "type": "house",
+    "name": "SHPAK | 9",
+    "owner": "Timur_Mbappe",
+    "status": "Занято",
+    "x": 2481.29,
     "y": 1682.87,
     "price": 0,
     "district": "Сан-Андреас"
@@ -24600,14 +24600,26 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 444,
+    "id": 331,
     "server_id": 11,
     "type": "house",
-    "name": "Eva.",
-    "owner": "Fantaser_Caballero",
+    "name": "Gamma N1",
+    "owner": "Dante_Doc",
     "status": "Аукцион",
-    "x": 2355.7,
-    "y": -1039.24,
+    "x": 751.999,
+    "y": 375.2529,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 416,
+    "server_id": 11,
+    "type": "house",
+    "name": "GHOST EMPIRE",
+    "owner": "Dante_Doc",
+    "status": "Аукцион",
+    "x": 1303.1,
+    "y": 186.9129,
     "price": 100000000,
     "district": "Сан-Андреас"
   },
@@ -24624,27 +24636,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1050,
+    "id": 1735,
     "server_id": 11,
     "type": "house",
-    "name": "SHPAK",
-    "owner": "Shpak_Monopoly",
+    "name": "Salamancas Pisynchik",
+    "owner": "Kyky_Bobo",
     "status": "Аукцион",
-    "x": -1939.33,
-    "y": 1227.54,
-    "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1811,
-    "server_id": 11,
-    "type": "house",
-    "name": "SHPAK | 9",
-    "owner": "Shpak_Monopoly",
-    "status": "Аукцион",
-    "x": 2481.29,
-    "y": 1682.87,
-    "price": 1000000,
+    "x": 928.616,
+    "y": 2372.89,
+    "price": 444123123,
     "district": "Сан-Андреас"
   },
   {

@@ -14655,7 +14655,7 @@
     "id": 1222,
     "server_id": 31,
     "type": "house",
-    "name": "Добро пожаловать!",
+    "name": "Я бы назвал его Педро",
     "owner": "Pedro_Mercy",
     "status": "Занято",
     "x": -2477.25,
@@ -16264,7 +16264,7 @@
     "server_id": 31,
     "type": "house",
     "name": "Короля не убить!",
-    "owner": "Maksim_Arsenal",
+    "owner": "Rue_Abe",
     "status": "Занято",
     "x": -726.984,
     "y": 1260.69,
@@ -20928,18 +20928,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1747,
-    "server_id": 31,
-    "type": "house",
-    "name": "Лкн",
-    "owner": "Ritual_Blade",
-    "status": "Занято",
-    "x": 1783.75,
-    "y": 2755.93,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1748,
     "server_id": 31,
     "type": "house",
@@ -23364,15 +23352,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 94,
+    "id": 1747,
     "server_id": 31,
-    "type": "business",
-    "name": "Бар",
-    "owner": "Deddi_Dedd",
+    "type": "house",
+    "name": "Лкн",
+    "owner": "Ritual_Blade",
     "status": "Аукцион",
-    "x": 1966.2,
-    "y": 1623.14,
-    "price": 300000,
+    "x": 1783.75,
+    "y": 2755.93,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23684,6 +23672,18 @@
     "status": "Занято",
     "x": 2506.95,
     "y": 2120.28,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 94,
+    "server_id": 31,
+    "type": "business",
+    "name": "Бар",
+    "owner": "Deddi_Dedd",
+    "status": "Занято",
+    "x": 1966.2,
+    "y": 1623.14,
     "price": 0,
     "district": "Сан-Андреас"
   },

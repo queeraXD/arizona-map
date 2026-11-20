@@ -3324,18 +3324,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 277,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tery_Incer",
-    "status": "Занято",
-    "x": 2549.37,
-    "y": -1032.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 278,
     "server_id": 16,
     "type": "house",
@@ -8532,18 +8520,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 711,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Devid_MCall",
-    "status": "Занято",
-    "x": 1607.08,
-    "y": 2679.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 712,
     "server_id": 16,
     "type": "house",
@@ -9056,6 +9032,18 @@
     "status": "Занято",
     "x": -2678.18,
     "y": 722.1619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 755,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Arshi_Weeknd",
+    "status": "Занято",
+    "x": -1913.42,
+    "y": 1252.4,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9720,6 +9708,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 812,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Fanvizian_Wilcox",
+    "status": "Занято",
+    "x": -2723.62,
+    "y": -162.701,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 813,
     "server_id": 16,
     "type": "house",
@@ -9936,6 +9936,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 831,
+    "server_id": 16,
+    "type": "house",
+    "name": "Депозитные условия",
+    "owner": "Lacosta_Mensory",
+    "status": "Занято",
+    "x": -2723.0,
+    "y": 4.0472,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 832,
     "server_id": 16,
     "type": "house",
@@ -9987,7 +9999,7 @@
     "id": 836,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
+    "name": "Майнинг ферма 10точка",
     "owner": "Akira_Extendo",
     "status": "Занято",
     "x": -2284.87,
@@ -10816,7 +10828,7 @@
     "server_id": 16,
     "type": "house",
     "name": "хата славика черепа",
-    "owner": "Tolya_Trudovik",
+    "owner": "Takemichi_Scam",
     "status": "Занято",
     "x": -2126.7,
     "y": 978.411,
@@ -10900,7 +10912,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Marvin_Babetape",
+    "owner": "Krabs_Weeknd",
     "status": "Занято",
     "x": -2126.81,
     "y": 1087.49,
@@ -11163,7 +11175,7 @@
     "id": 935,
     "server_id": 16,
     "type": "house",
-    "name": "Дом",
+    "name": "Майнинг Ферма 10точка",
     "owner": "Akira_Extendo",
     "status": "Занято",
     "x": -2126.66,
@@ -11499,7 +11511,7 @@
     "id": 963,
     "server_id": 16,
     "type": "house",
-    "name": "waldemarfam",
+    "name": "Майнинг Ферма 10точка",
     "owner": "Akira_Extendo",
     "status": "Занято",
     "x": -2187.12,
@@ -22380,15 +22392,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 755,
+    "id": 277,
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Vagulik_Weeknd",
+    "owner": "Tery_Incer",
     "status": "Аукцион",
-    "x": -1913.42,
-    "y": 1252.4,
-    "price": 90000000,
+    "x": 2549.37,
+    "y": -1032.24,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 711,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Devid_MCall",
+    "status": "Аукцион",
+    "x": 1607.08,
+    "y": 2679.27,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22401,30 +22425,6 @@
     "x": -2368.82,
     "y": 711.7169,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 812,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Lacosta_Mensory",
-    "status": "Аукцион",
-    "x": -2723.62,
-    "y": -162.701,
-    "price": 150000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 831,
-    "server_id": 16,
-    "type": "house",
-    "name": "Депозитные условия",
-    "owner": "Lacosta_Mensory",
-    "status": "Аукцион",
-    "x": -2723.0,
-    "y": 4.0472,
-    "price": 222222222,
     "district": "Сан-Андреас"
   },
   {
