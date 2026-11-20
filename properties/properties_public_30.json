@@ -2883,8 +2883,8 @@
     "id": 240,
     "server_id": 30,
     "type": "house",
-    "name": "Дом",
-    "owner": "Sergio_Tohok",
+    "name": "pechenkin gang",
+    "owner": "Ilya_Pechenkin",
     "status": "Занято",
     "x": 219.24,
     "y": -1249.8,
@@ -5020,7 +5020,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Дом",
-    "owner": "Yrsa_Dkey",
+    "owner": "Sergio_Tohok",
     "status": "Занято",
     "x": 1293.68,
     "y": 157.382,
@@ -6792,18 +6792,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 568,
-    "server_id": 30,
-    "type": "house",
-    "name": "JOYCEHOUSE",
-    "owner": "James_Joyce",
-    "status": "Занято",
-    "x": 404.363,
-    "y": 1243.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 569,
     "server_id": 30,
     "type": "house",
@@ -7328,18 +7316,6 @@
     "status": "Занято",
     "x": -830.166,
     "y": 1589.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 613,
-    "server_id": 30,
-    "type": "house",
-    "name": "kaenjil :D",
-    "owner": "James_Joyce",
-    "status": "Занято",
-    "x": -881.6329,
-    "y": 1562.08,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8780,6 +8756,18 @@
     "status": "Занято",
     "x": -2904.9,
     "y": 1178.92,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 734,
+    "server_id": 30,
+    "type": "house",
+    "name": "Wallter Empire",
+    "owner": "Maks_Wallter",
+    "status": "Занято",
+    "x": -2904.37,
+    "y": 1118.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11172,18 +11160,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 934,
-    "server_id": 30,
-    "type": "house",
-    "name": "Хижа",
-    "owner": "James_Joyce",
-    "status": "Занято",
-    "x": -2112.64,
-    "y": 745.564,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 935,
     "server_id": 30,
     "type": "house",
@@ -11264,18 +11240,6 @@
     "status": "Занято",
     "x": -2029.79,
     "y": 796.554,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 942,
-    "server_id": 30,
-    "type": "house",
-    "name": "tank division 7",
-    "owner": "James_Joyce",
-    "status": "Занято",
-    "x": -2018.45,
-    "y": 784.7659,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12980,18 +12944,6 @@
     "status": "Занято",
     "x": -2844.09,
     "y": 914.401,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1085,
-    "server_id": 30,
-    "type": "house",
-    "name": "waldemarfam",
-    "owner": "James_Joyce",
-    "status": "Занято",
-    "x": 1780.95,
-    "y": 2744.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15736,7 +15688,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Деревня трейлеров",
-    "owner": "Matvey_Dyson",
+    "owner": "Motya_Hard",
     "status": "Занято",
     "x": -91.1687,
     "y": -1592.65,
@@ -22736,7 +22688,7 @@
     "status": "Аукцион",
     "x": 648.853,
     "y": -1489.64,
-    "price": 1615000,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22752,15 +22704,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 734,
+    "id": 568,
     "server_id": 30,
     "type": "house",
-    "name": "топ инта,подвал,Mining,х10 гара",
-    "owner": "Chesterfield_Crime",
+    "name": "JOYCEHOUSE",
+    "owner": "James_Joyce",
     "status": "Аукцион",
-    "x": -2904.37,
-    "y": 1118.84,
-    "price": 1600000000,
+    "x": 404.363,
+    "y": 1243.78,
+    "price": 1250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 613,
+    "server_id": 30,
+    "type": "house",
+    "name": "kaenjil :D",
+    "owner": "James_Joyce",
+    "status": "Аукцион",
+    "x": -881.6329,
+    "y": 1562.08,
+    "price": 1250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 934,
+    "server_id": 30,
+    "type": "house",
+    "name": "Хижа",
+    "owner": "James_Joyce",
+    "status": "Аукцион",
+    "x": -2112.64,
+    "y": 745.564,
+    "price": 1250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 942,
+    "server_id": 30,
+    "type": "house",
+    "name": "tank division 7",
+    "owner": "James_Joyce",
+    "status": "Аукцион",
+    "x": -2018.45,
+    "y": 784.7659,
+    "price": 1250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1085,
+    "server_id": 30,
+    "type": "house",
+    "name": "waldemarfam",
+    "owner": "James_Joyce",
+    "status": "Аукцион",
+    "x": 1780.95,
+    "y": 2744.99,
+    "price": 1250000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 115,
+    "server_id": 30,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Gangsta_Babe",
+    "status": "Аукцион",
+    "x": -2625.72,
+    "y": 209.242,
+    "price": 600000,
     "district": "Сан-Андреас"
   },
   {
@@ -22868,18 +22880,6 @@
     "status": "Занято",
     "x": -1508.91,
     "y": 2610.7,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 115,
-    "server_id": 30,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Gangsta_Babe",
-    "status": "Занято",
-    "x": -2625.72,
-    "y": 209.242,
     "price": 0,
     "district": "Сан-Андреас"
   },

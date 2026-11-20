@@ -2364,18 +2364,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 197,
-    "server_id": 28,
-    "type": "house",
-    "name": "Soprano Mafia",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": 1440.39,
-    "y": -926.2199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 198,
     "server_id": 28,
     "type": "house",
@@ -3980,6 +3968,30 @@
     "status": "Занято",
     "x": 751.999,
     "y": 375.2529,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 332,
+    "server_id": 28,
+    "type": "house",
+    "name": "+ радиус + деп условия",
+    "owner": "Lexie_Veton",
+    "status": "Занято",
+    "x": 758.6879,
+    "y": 375.0509,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 333,
+    "server_id": 28,
+    "type": "house",
+    "name": "+ радиус + деп условия",
+    "owner": "Kaya_Irimi",
+    "status": "Занято",
+    "x": 787.895,
+    "y": 376.4259,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10971,7 +10983,7 @@
     "id": 919,
     "server_id": 28,
     "type": "house",
-    "name": "Levsha",
+    "name": "borov",
     "owner": "Junior_Borov",
     "status": "Занято",
     "x": -2281.41,
@@ -15572,6 +15584,18 @@
     "status": "Занято",
     "x": -2590.53,
     "y": -158.5899,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1303,
+    "server_id": 28,
+    "type": "house",
+    "name": "esquilow x dima chmo",
+    "owner": "Nik_For",
+    "status": "Занято",
+    "x": -2590.53,
+    "y": -186.0579,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20460,18 +20484,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1711,
-    "server_id": 28,
-    "type": "house",
-    "name": "D I S C I P L I N E",
-    "owner": "Vanya_McCartov",
-    "status": "Занято",
-    "x": 2455.93,
-    "y": 1003.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1712,
     "server_id": 28,
     "type": "house",
@@ -20864,18 +20876,6 @@
     "status": "Занято",
     "x": 2613.5,
     "y": 719.5339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1745,
-    "server_id": 28,
-    "type": "house",
-    "name": "Levsha",
-    "owner": "Afrikanec_Kesha",
-    "status": "Занято",
-    "x": 2621.06,
-    "y": 719.411,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22320,27 +22320,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 332,
+    "id": 197,
     "server_id": 28,
     "type": "house",
-    "name": "+ радиус + деп условия",
-    "owner": "Kaya_Irimi",
+    "name": "Soprano Mafia",
+    "owner": "Kedroviy_Oreh",
     "status": "Аукцион",
-    "x": 758.6879,
-    "y": 375.0509,
-    "price": 250000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 333,
-    "server_id": 28,
-    "type": "house",
-    "name": "+ радиус + деп условия",
-    "owner": "Kaya_Irimi",
-    "status": "Аукцион",
-    "x": 787.895,
-    "y": 376.4259,
-    "price": 250000000,
+    "x": 1440.39,
+    "y": -926.2199,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22352,7 +22340,7 @@
     "status": "Аукцион",
     "x": -905.638,
     "y": 1543.5,
-    "price": 120123123,
+    "price": 100123123,
     "district": "Сан-Андреас"
   },
   {
@@ -22364,19 +22352,31 @@
     "status": "Аукцион",
     "x": -2126.7,
     "y": 978.411,
-    "price": 120123123,
+    "price": 100123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1303,
+    "id": 1711,
     "server_id": 28,
     "type": "house",
-    "name": "esquilow x dima chmo",
-    "owner": "Nik_For",
+    "name": "D I S C I P L I N E",
+    "owner": "Vanya_McCartov",
     "status": "Аукцион",
-    "x": -2590.53,
-    "y": -186.0579,
-    "price": 350000000,
+    "x": 2455.93,
+    "y": 1003.58,
+    "price": 1000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1745,
+    "server_id": 28,
+    "type": "house",
+    "name": "Levsha",
+    "owner": "Afrikanec_Kesha",
+    "status": "Аукцион",
+    "x": 2621.06,
+    "y": 719.411,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {

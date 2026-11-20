@@ -324,6 +324,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 27,
+    "server_id": 24,
+    "type": "house",
+    "name": "депозитные",
+    "owner": "Tero_Peft",
+    "status": "Занято",
+    "x": 2229.54,
+    "y": -1241.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 28,
     "server_id": 24,
     "type": "house",
@@ -3512,18 +3524,6 @@
     "status": "Занято",
     "x": 2346.83,
     "y": -1250.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 294,
-    "server_id": 24,
-    "type": "house",
-    "name": "Oldman",
-    "owner": "Sonic_Arctic",
-    "status": "Занято",
-    "x": 2347.94,
-    "y": -1202.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10024,7 +10024,7 @@
     "server_id": 24,
     "type": "house",
     "name": "ннейчик",
-    "owner": "Sto_Gramovich",
+    "owner": "Nney_Wednesday",
     "status": "Занято",
     "x": -2284.87,
     "y": 849.708,
@@ -11736,30 +11736,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 980,
-    "server_id": 24,
-    "type": "house",
-    "name": "by danger",
-    "owner": "Kiba_Maniak",
-    "status": "Занято",
-    "x": -2278.21,
-    "y": 768.1019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 981,
-    "server_id": 24,
-    "type": "house",
-    "name": "Dynasty Legion",
-    "owner": "Kiba_Maniak",
-    "status": "Занято",
-    "x": -2278.81,
-    "y": 787.749,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 982,
     "server_id": 24,
     "type": "house",
@@ -12788,18 +12764,6 @@
     "status": "Занято",
     "x": 2247.5,
     "y": -1470.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1068,
-    "server_id": 24,
-    "type": "house",
-    "name": "ларцы ",
-    "owner": "Atlantic_Runner",
-    "status": "Занято",
-    "x": 2263.93,
-    "y": -1469.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14848,7 +14812,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Masterhome 1",
-    "owner": "Sto_Gramovich",
+    "owner": "Nney_Wednesday",
     "status": "Занято",
     "x": -2383.14,
     "y": 1244.68,
@@ -19224,18 +19188,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1604,
-    "server_id": 24,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tenzel_Outlaw",
-    "status": "Занято",
-    "x": 1111.5,
-    "y": -976.4459,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1605,
     "server_id": 24,
     "type": "house",
@@ -20328,6 +20280,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1697,
+    "server_id": 24,
+    "type": "house",
+    "name": "Size corp.",
+    "owner": "Ethan_Extazz",
+    "status": "Занято",
+    "x": 2495.25,
+    "y": -1391.71,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1698,
     "server_id": 24,
     "type": "house",
@@ -20816,18 +20780,6 @@
     "status": "Занято",
     "x": -601.1649,
     "y": -1065.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1739,
-    "server_id": 24,
-    "type": "house",
-    "name": "Zoldik",
-    "owner": "Sonic_Arctic",
-    "status": "Занято",
-    "x": -594.822,
-    "y": -1056.87,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22020,27 +21972,123 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 27,
+    "id": 294,
     "server_id": 24,
     "type": "house",
-    "name": "waldemarfam",
+    "name": "Oldman",
+    "owner": "Sonic_Arctic",
+    "status": "Аукцион",
+    "x": 2347.94,
+    "y": -1202.84,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 980,
+    "server_id": 24,
+    "type": "house",
+    "name": "by danger",
     "owner": "Государство",
     "status": "Аукцион",
-    "x": 2229.54,
-    "y": -1241.34,
+    "x": -2278.21,
+    "y": 768.1019,
     "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1697,
+    "id": 981,
     "server_id": 24,
     "type": "house",
-    "name": "Size corp.",
+    "name": "Dynasty Legion",
     "owner": "Государство",
     "status": "Аукцион",
-    "x": 2495.25,
-    "y": -1391.71,
+    "x": -2278.81,
+    "y": 787.749,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1068,
+    "server_id": 24,
+    "type": "house",
+    "name": "ларцы ",
+    "owner": "Atlantic_Runner",
+    "status": "Аукцион",
+    "x": 2263.93,
+    "y": -1469.55,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1604,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Tenzel_Outlaw",
+    "status": "Аукцион",
+    "x": 1111.5,
+    "y": -976.4459,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1739,
+    "server_id": 24,
+    "type": "house",
+    "name": "Zoldik",
+    "owner": "Sonic_Arctic",
+    "status": "Аукцион",
+    "x": -594.822,
+    "y": -1056.87,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 28,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Mikhail_Kalashnikov",
+    "status": "Аукцион",
+    "x": 303.81,
+    "y": -184.955,
+    "price": 650000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 59,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Vladislav_Lesters",
+    "status": "Аукцион",
+    "x": 2187.71,
+    "y": 2469.57,
+    "price": 161600,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 60,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Vladislav_Lesters",
+    "status": "Аукцион",
+    "x": 1599.11,
+    "y": 2221.85,
+    "price": 161600,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 137,
+    "server_id": 24,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Mikhail_Kalashnikov",
+    "status": "Аукцион",
+    "x": 2637.25,
+    "y": 1129.68,
+    "price": 200000,
     "district": "Сан-Андреас"
   },
   {
@@ -23304,18 +23352,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 28,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Mikhail_Kalashnikov",
-    "status": "Занято",
-    "x": 303.81,
-    "y": -184.955,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 29,
     "server_id": 24,
     "type": "business",
@@ -23364,30 +23400,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 59,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Vladislav_Lesters",
-    "status": "Занято",
-    "x": 2187.71,
-    "y": 2469.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 60,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Vladislav_Lesters",
-    "status": "Занято",
-    "x": 1599.11,
-    "y": 2221.85,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 61,
     "server_id": 24,
     "type": "business",
@@ -23432,18 +23444,6 @@
     "status": "Занято",
     "x": -1465.86,
     "y": 1873.41,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 137,
-    "server_id": 24,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Mikhail_Kalashnikov",
-    "status": "Занято",
-    "x": 2637.25,
-    "y": 1129.68,
     "price": 0,
     "district": "Сан-Андреас"
   },

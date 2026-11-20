@@ -13056,18 +13056,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1088,
-    "server_id": 29,
-    "type": "house",
-    "name": "мовалова",
-    "owner": "Max_Frostmourne",
-    "status": "Занято",
-    "x": -2158.98,
-    "y": 866.3289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1089,
     "server_id": 29,
     "type": "house",
@@ -15303,7 +15291,7 @@
     "id": 1276,
     "server_id": 29,
     "type": "house",
-    "name": "Thugger 2",
+    "name": "Дом",
     "owner": "Brian_Lorenzo",
     "status": "Занято",
     "x": -2690.48,
@@ -21252,6 +21240,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1088,
+    "server_id": 29,
+    "type": "house",
+    "name": "мовалова",
+    "owner": "Max_Frostmourne",
+    "status": "Аукцион",
+    "x": -2158.98,
+    "y": 866.3289,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1355,
     "server_id": 29,
     "type": "house",
@@ -21261,42 +21261,6 @@
     "x": -742.033,
     "y": 1290.55,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 32,
-    "server_id": 29,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Gentle_Murderer",
-    "status": "Аукцион",
-    "x": 1374.87,
-    "y": 469.264,
-    "price": 550000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 76,
-    "server_id": 29,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Gentle_Murderer",
-    "status": "Аукцион",
-    "x": -179.189,
-    "y": 1133.15,
-    "price": 400000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 355,
-    "server_id": 29,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Gentle_Murderer",
-    "status": "Аукцион",
-    "x": -736.159,
-    "y": 2747.84,
-    "price": 500000,
     "district": "Сан-Андреас"
   },
   {
@@ -21972,6 +21936,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 76,
+    "server_id": 29,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Gentle_Murderer",
+    "status": "Занято",
+    "x": -179.189,
+    "y": 1133.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 77,
     "server_id": 29,
     "type": "business",
@@ -22596,6 +22572,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 32,
+    "server_id": 29,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Gentle_Murderer",
+    "status": "Занято",
+    "x": 1374.87,
+    "y": 469.264,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 59,
     "server_id": 29,
     "type": "business",
@@ -22844,6 +22832,18 @@
     "status": "Занято",
     "x": 1948.4,
     "y": 2068.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 355,
+    "server_id": 29,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Gentle_Murderer",
+    "status": "Занято",
+    "x": -736.159,
+    "y": 2747.84,
     "price": 0,
     "district": "Сан-Андреас"
   },

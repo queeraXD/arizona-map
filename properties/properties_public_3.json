@@ -3300,6 +3300,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 275,
+    "server_id": 3,
+    "type": "house",
+    "name": "бава",
+    "owner": "Hunter_Daetsuke",
+    "status": "Занято",
+    "x": 2579.67,
+    "y": -1033.2,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 276,
     "server_id": 3,
     "type": "house",
@@ -5468,18 +5480,6 @@
     "status": "Занято",
     "x": 2040.69,
     "y": 695.8619,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 457,
-    "server_id": 3,
-    "type": "house",
-    "name": "house 457",
-    "owner": "In_Jury",
-    "status": "Занято",
-    "x": 2069.02,
-    "y": 696.2709,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8688,18 +8688,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 726,
-    "server_id": 3,
-    "type": "house",
-    "name": "Ryzvalt House",
-    "owner": "In_Jury",
-    "status": "Занято",
-    "x": 1735.65,
-    "y": 2691.22,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 727,
     "server_id": 3,
     "type": "house",
@@ -11616,18 +11604,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 971,
-    "server_id": 3,
-    "type": "house",
-    "name": "pes family",
-    "owner": "In_Jury",
-    "status": "Занято",
-    "x": 2847.0,
-    "y": -1309.76,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 972,
     "server_id": 3,
     "type": "house",
@@ -14156,18 +14132,6 @@
     "status": "Занято",
     "x": -2868.76,
     "y": 820.9869,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1183,
-    "server_id": 3,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Viper_Darkness",
-    "status": "Занято",
-    "x": -2881.35,
-    "y": 790.551,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17232,18 +17196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1439,
-    "server_id": 3,
-    "type": "house",
-    "name": "бурмалда",
-    "owner": "Atlantic_Runner",
-    "status": "Занято",
-    "x": 1743.6,
-    "y": 2733.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1440,
     "server_id": 3,
     "type": "house",
@@ -17644,7 +17596,7 @@
     "server_id": 3,
     "type": "house",
     "name": "SBG",
-    "owner": "Alexey_Werro",
+    "owner": "Ccg_Employee",
     "status": "Занято",
     "x": 1873.55,
     "y": 2784.2,
@@ -23988,14 +23940,14 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 275,
+    "id": 457,
     "server_id": 3,
     "type": "house",
-    "name": "бава",
-    "owner": "Jay_Cruz",
+    "name": "pes family",
+    "owner": "In_Jury",
     "status": "Аукцион",
-    "x": 2579.67,
-    "y": -1033.2,
+    "x": 2069.02,
+    "y": 696.2709,
     "price": 500000000,
     "district": "Сан-Андреас"
   },
@@ -24008,31 +23960,55 @@
     "status": "Аукцион",
     "x": 352.9729,
     "y": 1099.58,
-    "price": 850000000,
+    "price": 710000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 77,
+    "id": 726,
     "server_id": 3,
-    "type": "business",
-    "name": "Магазин 24/7",
-    "owner": "Vladislav_Greco",
+    "type": "house",
+    "name": "Ryzvalt House",
+    "owner": "In_Jury",
     "status": "Аукцион",
-    "x": -227.385,
-    "y": 2711.95,
-    "price": 300000,
+    "x": 1735.65,
+    "y": 2691.22,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 81,
+    "id": 971,
     "server_id": 3,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Vladislav_Greco",
+    "type": "house",
+    "name": "pes family",
+    "owner": "In_Jury",
     "status": "Аукцион",
-    "x": 2101.89,
-    "y": 2228.81,
-    "price": 300000,
+    "x": 2847.0,
+    "y": -1309.76,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1183,
+    "server_id": 3,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Viper_Darkness",
+    "status": "Аукцион",
+    "x": -2881.35,
+    "y": 790.551,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1439,
+    "server_id": 3,
+    "type": "house",
+    "name": "бурмалда",
+    "owner": "Atlantic_Runner",
+    "status": "Аукцион",
+    "x": 1743.6,
+    "y": 2733.09,
+    "price": 150123123,
     "district": "Сан-Андреас"
   },
   {
@@ -24044,7 +24020,7 @@
     "status": "Аукцион",
     "x": -1546.291,
     "y": 591.9938,
-    "price": 200000,
+    "price": 212000,
     "district": "Сан-Андреас"
   },
   {
@@ -24400,7 +24376,7 @@
     "server_id": 3,
     "type": "business",
     "name": "Бар",
-    "owner": "Skup_Darkness",
+    "owner": "Lonely_Lumine",
     "status": "Занято",
     "x": 816.203,
     "y": -1386.09,
@@ -24728,6 +24704,18 @@
     "status": "Занято",
     "x": -179.189,
     "y": 1133.15,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 77,
+    "server_id": 3,
+    "type": "business",
+    "name": "Магазин 24/7",
+    "owner": "Vladislav_Greco",
+    "status": "Занято",
+    "x": -227.385,
+    "y": 2711.95,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25760,6 +25748,18 @@
     "status": "Занято",
     "x": 2638.3,
     "y": 1671.86,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 81,
+    "server_id": 3,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Vladislav_Greco",
+    "status": "Занято",
+    "x": 2101.89,
+    "y": 2228.81,
     "price": 0,
     "district": "Сан-Андреас"
   },
