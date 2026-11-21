@@ -3496,7 +3496,7 @@
     "server_id": 21,
     "type": "house",
     "name": "ofisniki family",
-    "owner": "Lambr_Gambr",
+    "owner": "Vanek_Ofisnik",
     "status": "Занято",
     "x": 2498.96,
     "y": -1065.56,
@@ -3652,7 +3652,7 @@
     "server_id": 21,
     "type": "house",
     "name": "laflare monopoly",
-    "owner": "Farik_Kaifarik",
+    "owner": "Generation_Gg",
     "status": "Занято",
     "x": 2074.85,
     "y": -1083.23,
@@ -3908,6 +3908,18 @@
     "status": "Занято",
     "x": 743.247,
     "y": -509.32,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 326,
+    "server_id": 21,
+    "type": "house",
+    "name": "Denastia Monopoly",
+    "owner": "Yura_Feniks",
+    "status": "Занято",
+    "x": 340.0769,
+    "y": 33.6021,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5660,6 +5672,18 @@
     "status": "Занято",
     "x": 2369.06,
     "y": 734.939,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 473,
+    "server_id": 21,
+    "type": "house",
+    "name": "Magen база 2",
+    "owner": "Artem_Aleksandruk",
+    "status": "Занято",
+    "x": 2368.67,
+    "y": 690.205,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11136,18 +11160,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 931,
-    "server_id": 21,
-    "type": "house",
-    "name": ":uf255:farm triad:uf256:",
-    "owner": "Podpal_Arias",
-    "status": "Занято",
-    "x": -2017.56,
-    "y": 982.8229,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 932,
     "server_id": 21,
     "type": "house",
@@ -11168,18 +11180,6 @@
     "status": "Занято",
     "x": -2094.28,
     "y": 745.752,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 934,
-    "server_id": 21,
-    "type": "house",
-    "name": "Legit",
-    "owner": "Generation_Gg",
-    "status": "Занято",
-    "x": -2112.64,
-    "y": 745.564,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15024,18 +15024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1255,
-    "server_id": 21,
-    "type": "house",
-    "name": "<3 Центр СФ <3",
-    "owner": "Michail_Shtyh",
-    "status": "Занято",
-    "x": -2303.41,
-    "y": 679.963,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1256,
     "server_id": 21,
     "type": "house",
@@ -15292,7 +15280,7 @@
     "server_id": 21,
     "type": "house",
     "name": "ofisnik family",
-    "owner": "Lambr_Gambr",
+    "owner": "Vanek_Ofisnik",
     "status": "Занято",
     "x": -2689.47,
     "y": 57.0872,
@@ -19020,6 +19008,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1588,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dvi_Zhuha",
+    "status": "Занято",
+    "x": -2187.02,
+    "y": 821.1339,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1589,
     "server_id": 21,
     "type": "house",
@@ -20128,7 +20128,7 @@
     "server_id": 21,
     "type": "house",
     "name": "притон скамера",
-    "owner": "William_Chokopay",
+    "owner": "Feldan_Lizalov",
     "status": "Занято",
     "x": 2513.35,
     "y": 1643.58,
@@ -21900,39 +21900,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 326,
+    "id": 931,
     "server_id": 21,
     "type": "house",
-    "name": "Denastia Monopoly",
-    "owner": "Artem_Cuerto",
+    "name": ":uf255:farm triad:uf256:",
+    "owner": "Podpal_Arias",
     "status": "Аукцион",
-    "x": 340.0769,
-    "y": 33.6021,
-    "price": 100123123,
+    "x": -2017.56,
+    "y": 982.8229,
+    "price": 200123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 473,
+    "id": 934,
     "server_id": 21,
     "type": "house",
-    "name": "Magen база 2",
-    "owner": "Dark_KyBcem",
+    "name": "Legit",
+    "owner": "Generation_Gg",
     "status": "Аукцион",
-    "x": 2368.67,
-    "y": 690.205,
-    "price": 101123123,
+    "x": -2112.64,
+    "y": 745.564,
+    "price": 30000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1588,
+    "id": 1255,
     "server_id": 21,
     "type": "house",
     "name": "Дом",
-    "owner": "Dvi_Zhuha",
+    "owner": "Michail_Shtyh",
     "status": "Аукцион",
-    "x": -2187.02,
-    "y": 821.1339,
-    "price": 200123123,
+    "x": -2303.41,
+    "y": 679.963,
+    "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 98,
+    "server_id": 21,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Jose_Moretti",
+    "status": "Аукцион",
+    "x": 2016.15,
+    "y": 1149.97,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 352,
+    "server_id": 21,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "Jose_Moretti",
+    "status": "Аукцион",
+    "x": 1256.55,
+    "y": 274.927,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -24288,18 +24312,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 98,
-    "server_id": 21,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Jose_Moretti",
-    "status": "Занято",
-    "x": 2016.15,
-    "y": 1149.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 99,
     "server_id": 21,
     "type": "business",
@@ -24332,18 +24344,6 @@
     "status": "Занято",
     "x": 1071.66,
     "y": -1438.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 352,
-    "server_id": 21,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "Jose_Moretti",
-    "status": "Занято",
-    "x": 1256.55,
-    "y": 274.927,
     "price": 0,
     "district": "Сан-Андреас"
   },

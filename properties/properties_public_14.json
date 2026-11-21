@@ -1716,6 +1716,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 143,
+    "server_id": 14,
+    "type": "house",
+    "name": "TUFVESSON-DEF.EMPIRE",
+    "owner": "Def_Defoster",
+    "status": "Занято",
+    "x": 1326.18,
+    "y": -1067.59,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 144,
     "server_id": 14,
     "type": "house",
@@ -6828,18 +6840,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 570,
-    "server_id": 14,
-    "type": "house",
-    "name": "|| Wendy House №9 ||",
-    "owner": "Pay_PalFrod",
-    "status": "Занято",
-    "x": 574.051,
-    "y": 1155.94,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 571,
     "server_id": 14,
     "type": "house",
@@ -9632,18 +9632,6 @@
     "status": "Занято",
     "x": -2303.43,
     "y": 820.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 804,
-    "server_id": 14,
-    "type": "house",
-    "name": "Shift Squad",
-    "owner": "Silence_Eclipse",
-    "status": "Занято",
-    "x": -2791.84,
-    "y": 218.639,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13088,6 +13076,18 @@
     "status": "Занято",
     "x": -2174.27,
     "y": 903.0449,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1093,
+    "server_id": 14,
+    "type": "house",
+    "name": "Overdose",
+    "owner": "Osman_Pharaoh",
+    "status": "Занято",
+    "x": -2192.58,
+    "y": 903.109,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17880,6 +17880,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1493,
+    "server_id": 14,
+    "type": "house",
+    "name": "Overdose",
+    "owner": "Smouke",
+    "status": "Занято",
+    "x": 662.4359,
+    "y": -1534.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1494,
     "server_id": 14,
     "type": "house",
@@ -18680,6 +18692,18 @@
     "status": "Занято",
     "x": 2532.51,
     "y": 713.306,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1561,
+    "server_id": 14,
+    "type": "house",
+    "name": "whynot",
+    "owner": "Smouke",
+    "status": "Занято",
+    "x": 2540.05,
+    "y": 719.559,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21384,18 +21408,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1787,
-    "server_id": 14,
-    "type": "house",
-    "name": "МАЙНИНГ ФЕРМА",
-    "owner": "Night_Sosiska",
-    "status": "Занято",
-    "x": 2636.35,
-    "y": 2019.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1788,
     "server_id": 14,
     "type": "house",
@@ -22608,18 +22620,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1894,
-    "server_id": 14,
-    "type": "house",
-    "name": "BY DEFF",
-    "owner": "Maryan_Fisenco",
-    "status": "Занято",
-    "x": 2473.16,
-    "y": -1417.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1895,
     "server_id": 14,
     "type": "house",
@@ -23640,15 +23640,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 143,
+    "id": 570,
     "server_id": 14,
     "type": "house",
-    "name": "TUFVESSON-DEF.EMPIRE",
-    "owner": "Def_Defoster",
+    "name": "|| Wendy House №9 ||",
+    "owner": "Pay_PalFrod",
     "status": "Аукцион",
-    "x": 1326.18,
-    "y": -1067.59,
-    "price": 2000000000,
+    "x": 574.051,
+    "y": 1155.94,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 804,
+    "server_id": 14,
+    "type": "house",
+    "name": "Shift Squad",
+    "owner": "Silence_Eclipse",
+    "status": "Аукцион",
+    "x": -2791.84,
+    "y": 218.639,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23660,43 +23672,31 @@
     "status": "Аукцион",
     "x": -1842.22,
     "y": 1114.76,
-    "price": 800000000,
+    "price": 750000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1093,
+    "id": 1787,
     "server_id": 14,
     "type": "house",
-    "name": "Overdose",
-    "owner": "Osman_Pharaoh",
+    "name": "МАЙНИНГ ФЕРМА",
+    "owner": "Night_Sosiska",
     "status": "Аукцион",
-    "x": -2192.58,
-    "y": 903.109,
-    "price": 400000000,
+    "x": 2636.35,
+    "y": 2019.21,
+    "price": 400123213,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1493,
+    "id": 1894,
     "server_id": 14,
     "type": "house",
-    "name": "Overdose",
-    "owner": "Smouke",
+    "name": "BY DEFF",
+    "owner": "Maryan_Fisenco",
     "status": "Аукцион",
-    "x": 662.4359,
-    "y": -1534.77,
-    "price": 2000000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1561,
-    "server_id": 14,
-    "type": "house",
-    "name": "whynot",
-    "owner": "Smouke",
-    "status": "Аукцион",
-    "x": 2540.05,
-    "y": 719.559,
-    "price": 800000000,
+    "x": 2473.16,
+    "y": -1417.44,
+    "price": 450123123,
     "district": "Сан-Андреас"
   },
   {

@@ -2748,6 +2748,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 229,
+    "server_id": 6,
+    "type": "house",
+    "name": "С Набором Архитектора",
+    "owner": "Oil_Magnat",
+    "status": "Занято",
+    "x": 699.8419,
+    "y": -1059.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 230,
     "server_id": 6,
     "type": "house",
@@ -6824,6 +6836,18 @@
     "status": "Занято",
     "x": -2717.85,
     "y": -317.6359,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 570,
+    "server_id": 6,
+    "type": "house",
+    "name": ":vc:MacDuck_Studio:vc:",
+    "owner": "Gideon_MacDuck",
+    "status": "Занято",
+    "x": 404.363,
+    "y": 1243.78,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12200,18 +12224,6 @@
     "status": "Занято",
     "x": -2351.49,
     "y": 1244.69,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1019,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Rielta_Status",
-    "status": "Занято",
-    "x": -2351.16,
-    "y": 1263.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19432,7 +19444,7 @@
     "server_id": 6,
     "type": "house",
     "name": "мая хата с краю",
-    "owner": "Futuristic_NoFunny",
+    "owner": "Futuristic_Jdzxcv",
     "status": "Занято",
     "x": 1110.53,
     "y": -1578.45,
@@ -21031,18 +21043,6 @@
     "owner": "Tropic_Mix",
     "status": "Занято",
     "x": 2487.39,
-    "y": -1399.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1755,
-    "server_id": 6,
-    "type": "house",
-    "name": "TheseMoneyTheseCallGirls",
-    "owner": "Lalo_Cannon",
-    "status": "Занято",
-    "x": 2492.12,
     "y": -1399.07,
     "price": 0,
     "district": "Сан-Андреас"
@@ -22788,18 +22788,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1903,
-    "server_id": 6,
-    "type": "house",
-    "name": "Продается дом ",
-    "owner": "Petr_Efimov",
-    "status": "Занято",
-    "x": 1733.44,
-    "y": 2814.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1904,
     "server_id": 6,
     "type": "house",
@@ -22876,7 +22864,7 @@
     "server_id": 6,
     "type": "house",
     "name": "HELLINGER MONOPOLY",
-    "owner": "Andrey_Hellinger",
+    "owner": "Snarex_Nekuri",
     "status": "Занято",
     "x": -230.8439,
     "y": 884.192,
@@ -22952,18 +22940,6 @@
     "status": "Занято",
     "x": 2441.54,
     "y": 1220.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1917,
-    "server_id": 6,
-    "type": "house",
-    "name": "Nebrasko House",
-    "owner": "Rielta_Status",
-    "status": "Занято",
-    "x": 2440.7,
-    "y": 1225.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24504,27 +24480,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 229,
+    "id": 1019,
     "server_id": 6,
     "type": "house",
-    "name": "С Набором Архитектора",
-    "owner": "Oil_Magnat",
+    "name": "Дом",
+    "owner": "Rielta_Status",
     "status": "Аукцион",
-    "x": 699.8419,
-    "y": -1059.95,
-    "price": 9000000000,
+    "x": -2351.16,
+    "y": 1263.29,
+    "price": 300123213,
     "district": "Сан-Андреас"
   },
   {
-    "id": 570,
+    "id": 1755,
     "server_id": 6,
     "type": "house",
-    "name": "ТРЭП ХАТА",
-    "owner": "Golden_Teacher",
+    "name": "TheseMoneyTheseCallGirls",
+    "owner": "Lalo_Cannon",
     "status": "Аукцион",
-    "x": 404.363,
-    "y": 1243.78,
-    "price": 500000000,
+    "x": 2492.12,
+    "y": -1399.07,
+    "price": 555555555,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1903,
+    "server_id": 6,
+    "type": "house",
+    "name": "Продается дом ",
+    "owner": "Petr_Efimov",
+    "status": "Аукцион",
+    "x": 1733.44,
+    "y": 2814.96,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1917,
+    "server_id": 6,
+    "type": "house",
+    "name": "Nebrasko House",
+    "owner": "Rielta_Status",
+    "status": "Аукцион",
+    "x": 2440.7,
+    "y": 1225.86,
+    "price": 50123123,
     "district": "Сан-Андреас"
   },
   {
