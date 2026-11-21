@@ -9303,8 +9303,8 @@
     "id": 775,
     "server_id": 7,
     "type": "house",
-    "name": "BB Mesa",
-    "owner": "Mother_Teresa",
+    "name": "Убежище №11",
+    "owner": "Chipallino_Salamanco",
     "status": "Занято",
     "x": -2590.92,
     "y": 819.7999,
@@ -9375,8 +9375,8 @@
     "id": 781,
     "server_id": 7,
     "type": "house",
-    "name": "Дом",
-    "owner": "Mother_Teresa",
+    "name": "Убежище №12",
+    "owner": "Chipallino_Salamanco",
     "status": "Занято",
     "x": -2541.25,
     "y": 750.9169,
@@ -10304,6 +10304,18 @@
     "status": "Занято",
     "x": 2594.5,
     "y": -1203.06,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 859,
+    "server_id": 7,
+    "type": "house",
+    "name": "База Бубы",
+    "owner": "Booba_Obema",
+    "status": "Занято",
+    "x": -2428.748,
+    "y": -1328.385,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15660,18 +15672,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1306,
-    "server_id": 7,
-    "type": "house",
-    "name": "*Домик енота* (СФ)",
-    "owner": "Alexandr_Weiss",
-    "status": "Занято",
-    "x": -2592.73,
-    "y": 855.1409,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1307,
     "server_id": 7,
     "type": "house",
@@ -17148,6 +17148,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1430,
+    "server_id": 7,
+    "type": "house",
+    "name": "Домик N4",
+    "owner": "Jonson_Stark",
+    "status": "Занято",
+    "x": 2000.14,
+    "y": -991.7119,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1431,
     "server_id": 7,
     "type": "house",
@@ -17792,6 +17804,18 @@
     "status": "Занято",
     "x": 2398.37,
     "y": 111.763,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1485,
+    "server_id": 7,
+    "type": "house",
+    "name": "Reborn Interprise G.C",
+    "owner": "Gash_Control",
+    "status": "Занято",
+    "x": 397.2869,
+    "y": 1157.75,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25512,39 +25536,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 859,
+    "id": 1306,
     "server_id": 7,
     "type": "house",
-    "name": "База Бубы",
-    "owner": "Booba_Obema",
+    "name": "С набором архитектора в доме",
+    "owner": "Alexandr_Weiss",
     "status": "Аукцион",
-    "x": -2428.748,
-    "y": -1328.385,
-    "price": 555555,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1430,
-    "server_id": 7,
-    "type": "house",
-    "name": "Домик N4",
-    "owner": "Mantore_Tsukasa",
-    "status": "Аукцион",
-    "x": 2000.14,
-    "y": -991.7119,
-    "price": 2500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1485,
-    "server_id": 7,
-    "type": "house",
-    "name": "Bloomberg Empire B.B :uf221:",
-    "owner": "Adas_Wayne",
-    "status": "Аукцион",
-    "x": 397.2869,
-    "y": 1157.75,
-    "price": 3000228228,
+    "x": -2592.73,
+    "y": 855.1409,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {

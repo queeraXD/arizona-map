@@ -2700,18 +2700,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 225,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Randy_Orton",
-    "status": "Занято",
-    "x": 946.0869,
-    "y": -710.3339,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 226,
     "server_id": 18,
     "type": "house",
@@ -6160,7 +6148,7 @@
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Kirill_Serikov",
+    "owner": "Matthew_Macalister",
     "status": "Занято",
     "x": 1548.62,
     "y": 2125.54,
@@ -6596,6 +6584,18 @@
     "status": "Занято",
     "x": 574.0339,
     "y": 1156.0,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 550,
+    "server_id": 18,
+    "type": "house",
+    "name": "Kitsunochka",
+    "owner": "Kitsune_Gasparov",
+    "status": "Занято",
+    "x": 618.3629,
+    "y": 1168.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7168,7 +7168,7 @@
     "server_id": 18,
     "type": "house",
     "name": "rampage",
-    "owner": "Matthew_Macalister",
+    "owner": "Kirill_Serikov",
     "status": "Занято",
     "x": -1466.16,
     "y": 2693.15,
@@ -18024,18 +18024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1504,
-    "server_id": 18,
-    "type": "house",
-    "name": "Набор Архитектора",
-    "owner": "Kekit_Kekitov",
-    "status": "Занято",
-    "x": 2608.15,
-    "y": -1233.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1505,
     "server_id": 18,
     "type": "house",
@@ -21376,7 +21364,7 @@
     "server_id": 18,
     "type": "house",
     "name": "bigboss ilyha",
-    "owner": "Nick_Anders",
+    "owner": "sttu",
     "status": "Занято",
     "x": 2631.81,
     "y": 2029.23,
@@ -22200,15 +22188,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 550,
+    "id": 225,
     "server_id": 18,
     "type": "house",
-    "name": "Kitsunochka",
-    "owner": "Kitsune_Gasparov",
+    "name": "tg @aspirine",
+    "owner": "Kevin_May",
     "status": "Аукцион",
-    "x": 618.3629,
-    "y": 1168.83,
-    "price": 4000000000,
+    "x": 946.0869,
+    "y": -710.3339,
+    "price": 400000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1504,
+    "server_id": 18,
+    "type": "house",
+    "name": "Набор Архитектора",
+    "owner": "Kekit_Kekitov",
+    "status": "Аукцион",
+    "x": 2608.15,
+    "y": -1233.48,
+    "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
