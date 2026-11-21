@@ -4320,6 +4320,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 360,
+    "server_id": 30,
+    "type": "house",
+    "name": "если без поместья ТГ meersonk",
+    "owner": "Onda_Andar",
+    "status": "Занято",
+    "x": 648.853,
+    "y": -1489.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 361,
     "server_id": 30,
     "type": "house",
@@ -5019,7 +5031,7 @@
     "id": 419,
     "server_id": 30,
     "type": "house",
-    "name": "Дом",
+    "name": "Ghost выкуплю дома",
     "owner": "Ryven_Ghost",
     "status": "Занято",
     "x": 1293.68,
@@ -6432,18 +6444,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 537,
-    "server_id": 30,
-    "type": "house",
-    "name": "Las Venturas",
-    "owner": "Konstantin_Pinko",
-    "status": "Занято",
-    "x": 2066.1,
-    "y": 2721.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 538,
     "server_id": 30,
     "type": "house",
@@ -7712,18 +7712,6 @@
     "status": "Занято",
     "x": 1897.15,
     "y": 736.687,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 644,
-    "server_id": 30,
-    "type": "house",
-    "name": "обични дом",
-    "owner": "Wiu_Miu",
-    "status": "Занято",
-    "x": 1956.63,
-    "y": 714.864,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9356,18 +9344,6 @@
     "status": "Занято",
     "x": -2541.29,
     "y": 733.153,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 781,
-    "server_id": 30,
-    "type": "house",
-    "name": "Флорез",
-    "owner": "Wiu_Miu",
-    "status": "Занято",
-    "x": -2541.25,
-    "y": 750.9169,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11220,6 +11196,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 936,
+    "server_id": 30,
+    "type": "house",
+    "name": "22 регион братья кайфуем",
+    "owner": "Bluff_Bond",
+    "status": "Занято",
+    "x": -2127.05,
+    "y": 773.752,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 937,
     "server_id": 30,
     "type": "house",
@@ -12116,18 +12104,6 @@
     "status": "Занято",
     "x": -2523.81,
     "y": 1141.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1012,
-    "server_id": 30,
-    "type": "house",
-    "name": "обични дом 10",
-    "owner": "Atlantic_Runner",
-    "status": "Занято",
-    "x": -2534.64,
-    "y": 1143.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22740,27 +22716,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 360,
+    "id": 537,
     "server_id": 30,
     "type": "house",
-    "name": "если без поместья ТГ meersonk",
-    "owner": "Onda_Andar",
+    "name": "Las Venturas",
+    "owner": "Konstantin_Pinko",
     "status": "Аукцион",
-    "x": 648.853,
-    "y": -1489.64,
-    "price": 1000000,
+    "x": 2066.1,
+    "y": 2721.71,
+    "price": 2000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 936,
+    "id": 644,
     "server_id": 30,
     "type": "house",
-    "name": "22 регион братья кайфуем",
-    "owner": "Bluff_Bond",
+    "name": "обични дом",
+    "owner": "Wiu_Miu",
     "status": "Аукцион",
-    "x": -2127.05,
-    "y": 773.752,
-    "price": 1200000000,
+    "x": 1956.63,
+    "y": 714.864,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 781,
+    "server_id": 30,
+    "type": "house",
+    "name": "Флорез",
+    "owner": "Wiu_Miu",
+    "status": "Аукцион",
+    "x": -2541.25,
+    "y": 750.9169,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1012,
+    "server_id": 30,
+    "type": "house",
+    "name": "обични дом 10",
+    "owner": "Atlantic_Runner",
+    "status": "Аукцион",
+    "x": -2534.64,
+    "y": 1143.39,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22972,7 +22972,7 @@
     "server_id": 30,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Ace_Blade",
+    "owner": "Ilya_Pechenkin",
     "status": "Занято",
     "x": 776.731,
     "y": 1871.36,

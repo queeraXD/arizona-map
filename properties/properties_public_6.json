@@ -16656,18 +16656,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1389,
-    "server_id": 6,
-    "type": "house",
-    "name": "DEAD EMPIRE",
-    "owner": "Sexis_Death",
-    "status": "Занято",
-    "x": 580.5059,
-    "y": -1149.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1390,
     "server_id": 6,
     "type": "house",
@@ -16688,18 +16676,6 @@
     "status": "Занято",
     "x": 534.8989,
     "y": -1174.09,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1392,
-    "server_id": 6,
-    "type": "house",
-    "name": "DEAD EMPIRE",
-    "owner": "Sexis_Death",
-    "status": "Занято",
-    "x": 566.017,
-    "y": -1113.2,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22960,7 +22936,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Nebrasko House",
-    "owner": "Papa_Nebrasko",
+    "owner": "Rielta_Status",
     "status": "Занято",
     "x": 2440.7,
     "y": 1225.86,
@@ -23443,18 +23419,6 @@
     "owner": "Underground_Parking",
     "status": "Занято",
     "x": 2608.5,
-    "y": 2195.56,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1958,
-    "server_id": 6,
-    "type": "house",
-    "name": "Поместьище",
-    "owner": "p2p",
-    "status": "Занято",
-    "x": 2608.32,
     "y": 2195.56,
     "price": 0,
     "district": "Сан-Андреас"
@@ -24516,15 +24480,51 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1389,
+    "server_id": 6,
+    "type": "house",
+    "name": "напротив тоже аук,забирай",
+    "owner": "Sexis_Death",
+    "status": "Аукцион",
+    "x": 580.5059,
+    "y": -1149.78,
+    "price": 4500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1392,
+    "server_id": 6,
+    "type": "house",
+    "name": "напротив тоже аук,забирай",
+    "owner": "Sexis_Death",
+    "status": "Аукцион",
+    "x": 566.017,
+    "y": -1113.2,
+    "price": 4500000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1903,
     "server_id": 6,
     "type": "house",
     "name": "Продается дом ",
-    "owner": "Lalo_Cannon",
+    "owner": "Petr_Efimov",
     "status": "Аукцион",
     "x": 1733.44,
     "y": 2814.96,
-    "price": 222222222,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1958,
+    "server_id": 6,
+    "type": "house",
+    "name": "waldemarfam",
+    "owner": "p2p",
+    "status": "Аукцион",
+    "x": 2608.32,
+    "y": 2195.56,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {

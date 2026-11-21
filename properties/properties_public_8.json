@@ -1068,6 +1068,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 89,
+    "server_id": 8,
+    "type": "house",
+    "name": "домик смоука",
+    "owner": "Roy_NeAdmin",
+    "status": "Занято",
+    "x": 2014.4,
+    "y": -1716.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 90,
     "server_id": 8,
     "type": "house",
@@ -5612,6 +5624,18 @@
     "status": "Занято",
     "x": 2368.36,
     "y": 654.8389,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 469,
+    "server_id": 8,
+    "type": "house",
+    "name": "берлога Dimasik_Zloi ",
+    "owner": "Silpo_Graf",
+    "status": "Занято",
+    "x": 2397.45,
+    "y": 655.7969,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12348,6 +12372,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1032,
+    "server_id": 8,
+    "type": "house",
+    "name": "EMPIRE STATE",
+    "owner": "Erl_Rose",
+    "status": "Занято",
+    "x": -2433.77,
+    "y": 1318.95,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1033,
     "server_id": 8,
     "type": "house",
@@ -13472,6 +13508,18 @@
     "status": "Занято",
     "x": -2904.81,
     "y": 1111.75,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1127,
+    "server_id": 8,
+    "type": "house",
+    "name": "twilight family",
+    "owner": "Gustavo_Abobbi",
+    "status": "Занято",
+    "x": -2904.47,
+    "y": 1101.1,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19384,7 +19432,7 @@
     "server_id": 8,
     "type": "house",
     "name": "Gachimuchi",
-    "owner": "Darmoed_Givenchy",
+    "owner": "Solder_Boy",
     "status": "Занято",
     "x": 2666.65,
     "y": 750.096,
@@ -23080,7 +23128,7 @@
     "server_id": 8,
     "type": "house",
     "name": "бичёвня",
-    "owner": "Sky_Rim",
+    "owner": "Katsu_Yor",
     "status": "Занято",
     "x": 2017.53,
     "y": 2132.9,
@@ -25704,54 +25752,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 89,
-    "server_id": 8,
-    "type": "house",
-    "name": "домик смоука",
-    "owner": "Государство",
-    "status": "Свободно",
-    "x": 2014.4,
-    "y": -1716.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 469,
-    "server_id": 8,
-    "type": "house",
-    "name": "берлога Dimasik_Zloi ",
-    "owner": "Silpo_Graf",
-    "status": "Аукцион",
-    "x": 2397.45,
-    "y": 655.7969,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1032,
-    "server_id": 8,
-    "type": "house",
-    "name": "EMPIRE STATE",
-    "owner": "Redline_Genworth",
-    "status": "Аукцион",
-    "x": -2433.77,
-    "y": 1318.95,
-    "price": 200000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1127,
-    "server_id": 8,
-    "type": "house",
-    "name": "twilight family",
-    "owner": "Gustavo_Abobbi",
-    "status": "Аукцион",
-    "x": -2904.47,
-    "y": 1101.1,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1503,
     "server_id": 8,
     "type": "house",
@@ -25784,43 +25784,19 @@
     "status": "Аукцион",
     "x": 2473.17,
     "y": -1410.34,
-    "price": 500000000,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 39,
-    "server_id": 8,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Valya_Cooper",
-    "status": "Аукцион",
-    "x": 559.489,
-    "y": -1293.21,
-    "price": 440000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 218,
+    "id": 179,
     "server_id": 8,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Farmila_Rokstar",
+    "owner": "Danil_Ozzy",
     "status": "Аукцион",
-    "x": 1500.24,
-    "y": -1628.79,
-    "price": 7123123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 252,
-    "server_id": 8,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Evgeniy_Diablo",
-    "status": "Аукцион",
-    "x": -2975.86,
-    "y": 623.271,
-    "price": 130000,
+    "x": 1521.99,
+    "y": -1025.07,
+    "price": 7500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27264,6 +27240,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 252,
+    "server_id": 8,
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Ryder_Smoke",
+    "status": "Занято",
+    "x": -2975.86,
+    "y": 623.271,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 253,
     "server_id": 8,
     "type": "business",
@@ -27920,6 +27908,18 @@
     "status": "Занято",
     "x": -2103.59,
     "y": -2342.04,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 39,
+    "server_id": 8,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Valya_Cooper",
+    "status": "Занято",
+    "x": 559.489,
+    "y": -1293.21,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -28584,18 +28584,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 179,
-    "server_id": 8,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Danil_Ozzy",
-    "status": "Занято",
-    "x": 1521.99,
-    "y": -1025.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 180,
     "server_id": 8,
     "type": "business",
@@ -28976,6 +28964,18 @@
     "status": "Занято",
     "x": 2537.82,
     "y": 2137.12,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 218,
+    "server_id": 8,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Farmila_Rokstar",
+    "status": "Занято",
+    "x": 1500.24,
+    "y": -1628.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
