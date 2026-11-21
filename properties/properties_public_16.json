@@ -6060,18 +6060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 505,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Image_Material",
-    "status": "Занято",
-    "x": 1364.25,
-    "y": 1969.15,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 506,
     "server_id": 16,
     "type": "house",
@@ -6424,7 +6412,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Респа LKN | home Valeta",
-    "owner": "Valet_Fartovwy",
+    "owner": "Lacosta_Mensory",
     "status": "Занято",
     "x": 2018.09,
     "y": 2722.91,
@@ -9516,18 +9504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 793,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Image_Material",
-    "status": "Занято",
-    "x": -2540.68,
-    "y": 855.103,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 794,
     "server_id": 16,
     "type": "house",
@@ -9816,18 +9792,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 818,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Image_Material",
-    "status": "Занято",
-    "x": -2689.46,
-    "y": -167.298,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 819,
     "server_id": 16,
     "type": "house",
@@ -9968,18 +9932,6 @@
     "status": "Занято",
     "x": -2723.16,
     "y": -16.7231,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 831,
-    "server_id": 16,
-    "type": "house",
-    "name": "Депозитные условия",
-    "owner": "Lacosta_Mensory",
-    "status": "Занято",
-    "x": -2723.0,
-    "y": 4.0472,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12624,18 +12576,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1053,
-    "server_id": 16,
-    "type": "house",
-    "name": "+деп",
-    "owner": "Franchesco_Shelby",
-    "status": "Занято",
-    "x": -1930.04,
-    "y": 1190.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1054,
     "server_id": 16,
     "type": "house",
@@ -12744,18 +12684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1063,
-    "server_id": 16,
-    "type": "house",
-    "name": "Монополия Shao ",
-    "owner": "Image_Material",
-    "status": "Занято",
-    "x": 2256.61,
-    "y": -1396.43,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1064,
     "server_id": 16,
     "type": "house",
@@ -12764,18 +12692,6 @@
     "status": "Занято",
     "x": 2243.35,
     "y": -1396.75,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1065,
-    "server_id": 16,
-    "type": "house",
-    "name": "Монополия Shao ",
-    "owner": "Image_Material",
-    "status": "Занято",
-    "x": 2230.48,
-    "y": -1397.01,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22461,6 +22377,90 @@
     "x": 7.3323,
     "y": 1012.12,
     "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 505,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Image_Material",
+    "status": "Аукцион",
+    "x": 1364.25,
+    "y": 1969.15,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 793,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Image_Material",
+    "status": "Аукцион",
+    "x": -2540.68,
+    "y": 855.103,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 818,
+    "server_id": 16,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Image_Material",
+    "status": "Аукцион",
+    "x": -2689.46,
+    "y": -167.298,
+    "price": 150000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 831,
+    "server_id": 16,
+    "type": "house",
+    "name": "Депозитные условия",
+    "owner": "Lacosta_Mensory",
+    "status": "Аукцион",
+    "x": -2723.0,
+    "y": 4.0472,
+    "price": 222222222,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1053,
+    "server_id": 16,
+    "type": "house",
+    "name": "+деп",
+    "owner": "Lacosta_Mensory",
+    "status": "Аукцион",
+    "x": -1930.04,
+    "y": 1190.53,
+    "price": 222222222,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1063,
+    "server_id": 16,
+    "type": "house",
+    "name": "Монополия Shao ",
+    "owner": "Image_Material",
+    "status": "Аукцион",
+    "x": 2256.61,
+    "y": -1396.43,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1065,
+    "server_id": 16,
+    "type": "house",
+    "name": "Монополия Shao ",
+    "owner": "Image_Material",
+    "status": "Аукцион",
+    "x": 2230.48,
+    "y": -1397.01,
+    "price": 350000000,
     "district": "Сан-Андреас"
   },
   {

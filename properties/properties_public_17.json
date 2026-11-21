@@ -2475,8 +2475,8 @@
     "id": 206,
     "server_id": 17,
     "type": "house",
-    "name": "ландыш",
-    "owner": "Andrey_Okyrak",
+    "name": "Tewnaper",
+    "owner": "Max_Tewnaper",
     "status": "Занято",
     "x": 1442.25,
     "y": -629.4719,
@@ -2592,18 +2592,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 216,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Amail_Savchenko",
-    "status": "Занято",
-    "x": 910.38,
-    "y": -817.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 217,
     "server_id": 17,
     "type": "house",
@@ -2624,18 +2612,6 @@
     "status": "Занято",
     "x": 836.2189,
     "y": -894.2999,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 219,
-    "server_id": 17,
-    "type": "house",
-    "name": "ДЕП УСЛОВИЯ Х7 ГАРАЖ",
-    "owner": "Alex_Poduchka",
-    "status": "Занято",
-    "x": 785.828,
-    "y": -828.3469,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -3044,6 +3020,18 @@
     "status": "Занято",
     "x": 2536.19,
     "y": 128.9869,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 254,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Kladmen_Kladmen",
+    "status": "Занято",
+    "x": 2373.96,
+    "y": 71.0979,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -6208,7 +6196,7 @@
     "server_id": 17,
     "type": "house",
     "name": "151кк",
-    "owner": "Mei_Shotaet",
+    "owner": "Mei_Kalagan",
     "status": "Занято",
     "x": 1595.41,
     "y": 2070.99,
@@ -9996,18 +9984,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 834,
-    "server_id": 17,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Dimas_Owner",
-    "status": "Занято",
-    "x": -2233.89,
-    "y": 849.1599,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 835,
     "server_id": 17,
     "type": "house",
@@ -10144,7 +10120,7 @@
     "server_id": 17,
     "type": "house",
     "name": "Monopoly",
-    "owner": "Robers_Rabov",
+    "owner": "Zahar_Shadow",
     "status": "Занято",
     "x": -2191.59,
     "y": 1080.32,
@@ -17199,7 +17175,7 @@
     "id": 1434,
     "server_id": 17,
     "type": "house",
-    "name": "домэк с ириной",
+    "name": "Домик у Smailika",
     "owner": "Smailik_Smail",
     "status": "Занято",
     "x": -1550.43,
@@ -21084,18 +21060,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1763,
-    "server_id": 17,
-    "type": "house",
-    "name": "Цирковой купол",
-    "owner": "Angelic_Patience",
-    "status": "Занято",
-    "x": 857.466,
-    "y": -978.8699,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1764,
     "server_id": 17,
     "type": "house",
@@ -21140,18 +21104,6 @@
     "status": "Занято",
     "x": 154.1269,
     "y": -1946.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1768,
-    "server_id": 17,
-    "type": "house",
-    "name": "Цирковой купол",
-    "owner": "Angelic_Patience",
-    "status": "Занято",
-    "x": 738.971,
-    "y": -1418.51,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21567,7 +21519,7 @@
     "id": 1803,
     "server_id": 17,
     "type": "house",
-    "name": "home from umanushkin",
+    "name": "хата бонуса 2",
     "owner": "Camedoz_Bonus",
     "status": "Занято",
     "x": 1772.09,
@@ -22464,15 +22416,63 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 254,
+    "id": 216,
     "server_id": 17,
     "type": "house",
     "name": "Дом",
-    "owner": "Artur_Xamaam",
+    "owner": "Amail_Savchenko",
     "status": "Аукцион",
-    "x": 2373.96,
-    "y": 71.0979,
+    "x": 910.38,
+    "y": -817.25,
     "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 219,
+    "server_id": 17,
+    "type": "house",
+    "name": "ДЕП УСЛОВИЯ Х7 ГАРАЖ",
+    "owner": "Alex_Poduchka",
+    "status": "Аукцион",
+    "x": 785.828,
+    "y": -828.3469,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 834,
+    "server_id": 17,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Dimas_Owner",
+    "status": "Аукцион",
+    "x": -2233.89,
+    "y": 849.1599,
+    "price": 50123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1763,
+    "server_id": 17,
+    "type": "house",
+    "name": "Цирковой купол",
+    "owner": "Angelic_Patience",
+    "status": "Аукцион",
+    "x": 857.466,
+    "y": -978.8699,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1768,
+    "server_id": 17,
+    "type": "house",
+    "name": "Цирковой купол",
+    "owner": "Angelic_Patience",
+    "status": "Аукцион",
+    "x": 738.971,
+    "y": -1418.51,
+    "price": 5000000000,
     "district": "Сан-Андреас"
   },
   {

@@ -1416,18 +1416,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 118,
-    "server_id": 9,
-    "type": "house",
-    "name": "секта фам",
-    "owner": "Techno_Music",
-    "status": "Занято",
-    "x": 1913.53,
-    "y": -1911.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 119,
     "server_id": 9,
     "type": "house",
@@ -6612,18 +6600,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 551,
-    "server_id": 9,
-    "type": "house",
-    "name": "Майнинг 1",
-    "owner": "Dolphy_Barrero",
-    "status": "Занято",
-    "x": 536.656,
-    "y": 1138.79,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 552,
     "server_id": 9,
     "type": "house",
@@ -9128,6 +9104,18 @@
     "status": "Занято",
     "x": -2700.33,
     "y": 820.8649,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 762,
+    "server_id": 9,
+    "type": "house",
+    "name": "Fuck you house",
+    "owner": "Kale_Moris",
+    "status": "Занято",
+    "x": -2667.07,
+    "y": 820.3189,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15915,7 +15903,7 @@
     "id": 1329,
     "server_id": 9,
     "type": "house",
-    "name": "Banhammer",
+    "name": "cook",
     "owner": "Neo_Cook",
     "status": "Занято",
     "x": -2338.49,
@@ -16100,18 +16088,6 @@
     "status": "Занято",
     "x": -2223.7,
     "y": 821.135,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1345,
-    "server_id": 9,
-    "type": "house",
-    "name": "темик",
-    "owner": "Bobby_James",
-    "status": "Занято",
-    "x": -2129.23,
-    "y": 894.8579,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23904,6 +23880,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 118,
+    "server_id": 9,
+    "type": "house",
+    "name": "секта фам",
+    "owner": "Techno_Music",
+    "status": "Аукцион",
+    "x": 1913.53,
+    "y": -1911.91,
+    "price": 1500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 551,
+    "server_id": 9,
+    "type": "house",
+    "name": "Майнинг 1",
+    "owner": "Dolphy_Barrero",
+    "status": "Аукцион",
+    "x": 536.656,
+    "y": 1138.79,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 553,
     "server_id": 9,
     "type": "house",
@@ -23912,19 +23912,31 @@
     "status": "Аукцион",
     "x": 378.1589,
     "y": 1123.55,
-    "price": 2000000000,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 762,
+    "id": 1345,
     "server_id": 9,
     "type": "house",
-    "name": "в шкафу видюхи",
-    "owner": "Six_Onenine",
+    "name": "темик",
+    "owner": "Bobby_James",
     "status": "Аукцион",
-    "x": -2667.07,
-    "y": 820.3189,
-    "price": 1700000000,
+    "x": -2129.23,
+    "y": 894.8579,
+    "price": 2500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 300,
+    "server_id": 9,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Filip_Alvarez",
+    "status": "Аукцион",
+    "x": 1858.639,
+    "y": 2159.243,
+    "price": 860000,
     "district": "Сан-Андреас"
   },
   {
@@ -26624,18 +26636,6 @@
     "status": "Занято",
     "x": 2097.389,
     "y": 2170.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 300,
-    "server_id": 9,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Filip_Alvarez",
-    "status": "Занято",
-    "x": 1858.639,
-    "y": 2159.243,
     "price": 0,
     "district": "Сан-Андреас"
   },

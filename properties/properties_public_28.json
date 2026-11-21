@@ -2364,18 +2364,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 197,
-    "server_id": 28,
-    "type": "house",
-    "name": "Soprano Mafia",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": 1440.39,
-    "y": -926.2199,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 198,
     "server_id": 28,
     "type": "house",
@@ -3488,18 +3476,6 @@
     "status": "Занято",
     "x": -2094.27,
     "y": 822.929,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 291,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Jack_Chaltsev",
-    "status": "Занято",
-    "x": 2498.96,
-    "y": -1065.56,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8028,18 +8004,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 669,
-    "server_id": 28,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Tom_Nikollenko",
-    "status": "Занято",
-    "x": 1030.09,
-    "y": 2028.11,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 670,
     "server_id": 28,
     "type": "house",
@@ -9495,7 +9459,7 @@
     "id": 791,
     "server_id": 28,
     "type": "house",
-    "name": "Soprano Mafia",
+    "name": "TG HEISPRAVEN",
     "owner": "Sergey_Ventilator",
     "status": "Занято",
     "x": -2566.54,
@@ -11752,7 +11716,7 @@
     "server_id": 28,
     "type": "house",
     "name": "Hennessy Project",
-    "owner": "Yaroslav_Hennessy",
+    "owner": "Henny_Soprano",
     "status": "Занято",
     "x": -2278.21,
     "y": 768.1019,
@@ -13116,30 +13080,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1094,
-    "server_id": 28,
-    "type": "house",
-    "name": "Bloodamare ASC House",
-    "owner": "Tom_Nikollenko",
-    "status": "Занято",
-    "x": -2210.98,
-    "y": 902.885,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1095,
-    "server_id": 28,
-    "type": "house",
-    "name": "Home Alone",
-    "owner": "Tom_Nikollenko",
-    "status": "Занято",
-    "x": -2224.84,
-    "y": 902.7009,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1096,
     "server_id": 28,
     "type": "house",
@@ -14468,18 +14408,6 @@
     "status": "Занято",
     "x": -2864.95,
     "y": 681.4379,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1207,
-    "server_id": 28,
-    "type": "house",
-    "name": "TWIX",
-    "owner": "Mega_Fame",
-    "status": "Занято",
-    "x": -2872.46,
-    "y": 697.502,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20568,18 +20496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1715,
-    "server_id": 28,
-    "type": "house",
-    "name": "interpol",
-    "owner": "Kedroviy_Oreh",
-    "status": "Занято",
-    "x": 1972.19,
-    "y": -1633.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1716,
     "server_id": 28,
     "type": "house",
@@ -22380,6 +22296,102 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 197,
+    "server_id": 28,
+    "type": "house",
+    "name": "Soprano Mafia",
+    "owner": "Kedroviy_Oreh",
+    "status": "Аукцион",
+    "x": 1440.39,
+    "y": -926.2199,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 291,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Jack_Chaltsev",
+    "status": "Аукцион",
+    "x": 2498.96,
+    "y": -1065.56,
+    "price": 100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 669,
+    "server_id": 28,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1030.09,
+    "y": 2028.11,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1094,
+    "server_id": 28,
+    "type": "house",
+    "name": "Bloodamare ASC House",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2210.98,
+    "y": 902.885,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1095,
+    "server_id": 28,
+    "type": "house",
+    "name": "Home Alone",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2224.84,
+    "y": 902.7009,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1207,
+    "server_id": 28,
+    "type": "house",
+    "name": "TWIX",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -2872.46,
+    "y": 697.502,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1715,
+    "server_id": 28,
+    "type": "house",
+    "name": "interpol",
+    "owner": "Kedroviy_Oreh",
+    "status": "Аукцион",
+    "x": 1972.19,
+    "y": -1633.71,
+    "price": 100123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 36,
+    "server_id": 28,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Ray_Jay",
+    "status": "Аукцион",
+    "x": 928.254,
+    "y": -1352.9,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 28,
     "type": "business",
@@ -24008,18 +24020,6 @@
     "status": "Занято",
     "x": 1367.55,
     "y": 248.241,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 36,
-    "server_id": 28,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Ray_Jay",
-    "status": "Занято",
-    "x": 928.254,
-    "y": -1352.9,
     "price": 0,
     "district": "Сан-Андреас"
   },
