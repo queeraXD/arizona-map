@@ -2748,18 +2748,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 229,
-    "server_id": 6,
-    "type": "house",
-    "name": "С Набором Архитектора",
-    "owner": "Oil_Magnat",
-    "status": "Занято",
-    "x": 699.8419,
-    "y": -1059.95,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 230,
     "server_id": 6,
     "type": "house",
@@ -6760,7 +6748,7 @@
     "server_id": 6,
     "type": "house",
     "name": "-Werner Apartments-",
-    "owner": "Jordan_Werner",
+    "owner": "Medya_Ebyr",
     "status": "Занято",
     "x": 263.622,
     "y": 1171.51,
@@ -8468,18 +8456,6 @@
     "status": "Занято",
     "x": 1554.44,
     "y": 2610.42,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 706,
-    "server_id": 6,
-    "type": "house",
-    "name": "House",
-    "owner": "Medya_Ebyr",
-    "status": "Занято",
-    "x": 1596.51,
-    "y": 2567.69,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12224,6 +12200,18 @@
     "status": "Занято",
     "x": -2351.49,
     "y": 1244.69,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1019,
+    "server_id": 6,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Angus_Mercury",
+    "status": "Занято",
+    "x": -2351.16,
+    "y": 1263.29,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17448,18 +17436,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1455,
-    "server_id": 6,
-    "type": "house",
-    "name": "FARM DEP 4",
-    "owner": "Medya_Ebyr",
-    "status": "Занято",
-    "x": -2372.53,
-    "y": 632.3839,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1456,
     "server_id": 6,
     "type": "house",
@@ -21048,18 +21024,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1755,
-    "server_id": 6,
-    "type": "house",
-    "name": "TheseMoneyTheseCallGirls",
-    "owner": "Lalo_Cannon",
-    "status": "Занято",
-    "x": 2492.12,
-    "y": -1399.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1756,
     "server_id": 6,
     "type": "house",
@@ -22564,7 +22528,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Home",
-    "owner": "Katsu_Akuma",
+    "owner": "Gothica_Death",
     "status": "Занято",
     "x": 1797.67,
     "y": 2764.36,
@@ -22964,6 +22928,18 @@
     "status": "Занято",
     "x": 2441.54,
     "y": 1220.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1917,
+    "server_id": 6,
+    "type": "house",
+    "name": "Nebrasko House",
+    "owner": "Tayno_Mognul",
+    "status": "Занято",
+    "x": 2440.7,
+    "y": 1225.86,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24504,27 +24480,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1019,
+    "id": 229,
     "server_id": 6,
     "type": "house",
-    "name": "Дом",
-    "owner": "Rielta_Status",
+    "name": "С Набором Архитектора",
+    "owner": "Oil_Magnat",
     "status": "Аукцион",
-    "x": -2351.16,
-    "y": 1263.29,
-    "price": 300123213,
+    "x": 699.8419,
+    "y": -1059.95,
+    "price": 9000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1917,
+    "id": 706,
     "server_id": 6,
     "type": "house",
-    "name": "Nebrasko House",
-    "owner": "Rielta_Status",
+    "name": "supra hatka",
+    "owner": "Medya_Ebyr",
     "status": "Аукцион",
-    "x": 2440.7,
-    "y": 1225.86,
-    "price": 50123123,
+    "x": 1596.51,
+    "y": 2567.69,
+    "price": 400000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1455,
+    "server_id": 6,
+    "type": "house",
+    "name": "supra hatka",
+    "owner": "Medya_Ebyr",
+    "status": "Аукцион",
+    "x": -2372.53,
+    "y": 632.3839,
+    "price": 200000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1755,
+    "server_id": 6,
+    "type": "house",
+    "name": "TheseMoneyTheseCallGirls",
+    "owner": "Lalo_Cannon",
+    "status": "Аукцион",
+    "x": 2492.12,
+    "y": -1399.07,
+    "price": 555555555,
     "district": "Сан-Андреас"
   },
   {

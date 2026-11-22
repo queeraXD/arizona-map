@@ -2028,18 +2028,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 169,
-    "server_id": 9,
-    "type": "house",
-    "name": "dozerfam sqd",
-    "owner": "Hayato_Hustlaz",
-    "status": "Занято",
-    "x": 883.2899,
-    "y": -1800.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 170,
     "server_id": 9,
     "type": "house",
@@ -9472,7 +9460,7 @@
     "server_id": 9,
     "type": "house",
     "name": "DOMIK 2.0",
-    "owner": "Bryce_Bo",
+    "owner": "clickwarp",
     "status": "Занято",
     "x": -2580.91,
     "y": 920.38,
@@ -16012,7 +16000,7 @@
     "server_id": 9,
     "type": "house",
     "name": "логово свиного рыла",
-    "owner": "Bobby_James",
+    "owner": "Jenny_Death",
     "status": "Занято",
     "x": -2192.67,
     "y": 902.6619,
@@ -16132,7 +16120,7 @@
     "server_id": 9,
     "type": "house",
     "name": "темик",
-    "owner": "Bobby_James",
+    "owner": "Jenny_Death",
     "status": "Занято",
     "x": -2129.23,
     "y": 894.8579,
@@ -18644,18 +18632,6 @@
     "status": "Занято",
     "x": 1863.78,
     "y": -1597.28,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1555,
-    "server_id": 9,
-    "type": "house",
-    "name": "VEGAS LS",
-    "owner": "Tarakan_Prox",
-    "status": "Занято",
-    "x": 1910.0,
-    "y": -1597.41,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23928,15 +23904,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 300,
+    "id": 169,
     "server_id": 9,
-    "type": "business",
-    "name": "Отель",
-    "owner": "Filip_Alvarez",
+    "type": "house",
+    "name": "dozerfam sqd",
+    "owner": "Hayato_Hustlaz",
     "status": "Аукцион",
-    "x": 1858.639,
-    "y": 2159.243,
-    "price": 800000,
+    "x": 883.2899,
+    "y": -1800.01,
+    "price": 5000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1555,
+    "server_id": 9,
+    "type": "house",
+    "name": "VEGAS LS",
+    "owner": "Tarakan_Prox",
+    "status": "Аукцион",
+    "x": 1910.0,
+    "y": -1597.41,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26636,6 +26624,18 @@
     "status": "Занято",
     "x": 2097.389,
     "y": 2170.27,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 300,
+    "server_id": 9,
+    "type": "business",
+    "name": "Отель",
+    "owner": "Filip_Alvarez",
+    "status": "Занято",
+    "x": 1858.639,
+    "y": 2159.243,
     "price": 0,
     "district": "Сан-Андреас"
   },

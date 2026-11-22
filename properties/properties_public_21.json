@@ -2592,6 +2592,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 216,
+    "server_id": 21,
+    "type": "house",
+    "name": "Ам ам",
+    "owner": "After_Hours",
+    "status": "Занято",
+    "x": 910.38,
+    "y": -817.25,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 217,
     "server_id": 21,
     "type": "house",
@@ -3144,18 +3156,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 263,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом Пакистана майнинг 3",
-    "owner": "Generation_Gg",
-    "status": "Занято",
-    "x": 235.1909,
-    "y": -308.6579,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 264,
     "server_id": 21,
     "type": "house",
@@ -3632,18 +3632,6 @@
     "status": "Занято",
     "x": 2081.98,
     "y": -1086.5,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 304,
-    "server_id": 21,
-    "type": "house",
-    "name": "laflare monopoly",
-    "owner": "Generation_Gg",
-    "status": "Занято",
-    "x": 2074.85,
-    "y": -1083.23,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12492,18 +12480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1043,
-    "server_id": 21,
-    "type": "house",
-    "name": "Demons",
-    "owner": "Lev_Dudeckiy",
-    "status": "Занято",
-    "x": -1761.0,
-    "y": 1174.23,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1044,
     "server_id": 21,
     "type": "house",
@@ -19852,7 +19828,7 @@
     "server_id": 21,
     "type": "house",
     "name": "HIGHT",
-    "owner": "Feldan_Lizalov",
+    "owner": "Mine_Overlord",
     "status": "Занято",
     "x": 2481.33,
     "y": 1682.87,
@@ -21924,15 +21900,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 216,
+    "id": 263,
     "server_id": 21,
     "type": "house",
-    "name": "Ам ам",
-    "owner": "After_Hours",
+    "name": "Дом Пакистана майнинг 3",
+    "owner": "Generation_Gg",
     "status": "Аукцион",
-    "x": 910.38,
-    "y": -817.25,
-    "price": 1600000000,
+    "x": 235.1909,
+    "y": -308.6579,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 304,
+    "server_id": 21,
+    "type": "house",
+    "name": "laflare monopoly",
+    "owner": "Generation_Gg",
+    "status": "Аукцион",
+    "x": 2074.85,
+    "y": -1083.23,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1043,
+    "server_id": 21,
+    "type": "house",
+    "name": "Demons",
+    "owner": "Lev_Dudeckiy",
+    "status": "Аукцион",
+    "x": -1761.0,
+    "y": 1174.23,
+    "price": 1000000,
     "district": "Сан-Андреас"
   },
   {
