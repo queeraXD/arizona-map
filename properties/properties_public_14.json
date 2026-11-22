@@ -508,7 +508,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Мохитыч",
-    "owner": "Baba_Chai",
+    "owner": "[01]Hedo_Inside",
     "status": "Занято",
     "x": 2550.93,
     "y": -1235.19,
@@ -1140,18 +1140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 95,
-    "server_id": 14,
-    "type": "house",
-    "name": "Goths club",
-    "owner": "Shin_Yamito",
-    "status": "Занято",
-    "x": 2695.44,
-    "y": -2020.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 96,
     "server_id": 14,
     "type": "house",
@@ -1172,18 +1160,6 @@
     "status": "Занято",
     "x": 2672.75,
     "y": -1990.78,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 98,
-    "server_id": 14,
-    "type": "house",
-    "name": "Goths club",
-    "owner": "Shin_Yamito",
-    "status": "Занято",
-    "x": 2652.88,
-    "y": -1989.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -1500,18 +1476,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 125,
-    "server_id": 14,
-    "type": "house",
-    "name": "spawn VC",
-    "owner": "Shin_Yamito",
-    "status": "Занято",
-    "x": 1851.87,
-    "y": -2135.13,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 126,
     "server_id": 14,
     "type": "house",
@@ -1712,18 +1676,6 @@
     "status": "Занято",
     "x": 1326.27,
     "y": -1090.67,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 143,
-    "server_id": 14,
-    "type": "house",
-    "name": "TUFVESSON-DEF.EMPIRE",
-    "owner": "Def_Defoster",
-    "status": "Занято",
-    "x": 1326.18,
-    "y": -1067.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -2571,7 +2523,7 @@
     "id": 214,
     "server_id": 14,
     "type": "house",
-    "name": "8 lvl",
+    "name": "temp",
     "owner": "Pavel_Kitano",
     "status": "Занято",
     "x": 937.3889,
@@ -6836,6 +6788,18 @@
     "status": "Занято",
     "x": 452.07,
     "y": 1246.99,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 570,
+    "server_id": 14,
+    "type": "house",
+    "name": "|| Wendy House №9 ||",
+    "owner": "OneWay_Ticket",
+    "status": "Занято",
+    "x": 574.051,
+    "y": 1155.94,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21408,6 +21372,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1787,
+    "server_id": 14,
+    "type": "house",
+    "name": "МАЙНИНГ ФЕРМА",
+    "owner": "Night_Sosiska",
+    "status": "Занято",
+    "x": 2636.35,
+    "y": 2019.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1788,
     "server_id": 14,
     "type": "house",
@@ -22620,6 +22596,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1894,
+    "server_id": 14,
+    "type": "house",
+    "name": "BY DEFF",
+    "owner": "Maryan_Fisenco",
+    "status": "Занято",
+    "x": 2473.16,
+    "y": -1417.44,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1895,
     "server_id": 14,
     "type": "house",
@@ -23640,15 +23628,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 570,
+    "id": 95,
     "server_id": 14,
     "type": "house",
-    "name": "|| Wendy House №9 ||",
-    "owner": "Pay_PalFrod",
+    "name": "Goths club",
+    "owner": "Shin_Yamito",
     "status": "Аукцион",
-    "x": 574.051,
-    "y": 1155.94,
-    "price": 350000000,
+    "x": 2695.44,
+    "y": -2020.52,
+    "price": 1100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 98,
+    "server_id": 14,
+    "type": "house",
+    "name": "Goths club",
+    "owner": "Shin_Yamito",
+    "status": "Аукцион",
+    "x": 2652.88,
+    "y": -1989.43,
+    "price": 1100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 125,
+    "server_id": 14,
+    "type": "house",
+    "name": "spawn VC",
+    "owner": "Shin_Yamito",
+    "status": "Аукцион",
+    "x": 1851.87,
+    "y": -2135.13,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 143,
+    "server_id": 14,
+    "type": "house",
+    "name": "TUFVESSON-DEF.EMPIRE",
+    "owner": "Def_Defoster",
+    "status": "Аукцион",
+    "x": 1326.18,
+    "y": -1067.59,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23660,7 +23684,7 @@
     "status": "Аукцион",
     "x": -2791.84,
     "y": 218.639,
-    "price": 600000000,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23672,31 +23696,7 @@
     "status": "Аукцион",
     "x": -1842.22,
     "y": 1114.76,
-    "price": 750000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1787,
-    "server_id": 14,
-    "type": "house",
-    "name": "МАЙНИНГ ФЕРМА",
-    "owner": "Night_Sosiska",
-    "status": "Аукцион",
-    "x": 2636.35,
-    "y": 2019.21,
-    "price": 400123213,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1894,
-    "server_id": 14,
-    "type": "house",
-    "name": "BY DEFF",
-    "owner": "Maryan_Fisenco",
-    "status": "Аукцион",
-    "x": 2473.16,
-    "y": -1417.44,
-    "price": 450123123,
+    "price": 700000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25360,7 +25360,7 @@
     "server_id": 14,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Adulin_Samsa",
+    "owner": "Jin_Tonik",
     "status": "Занято",
     "x": 1567.98,
     "y": -1897.55,
@@ -26728,7 +26728,7 @@
     "server_id": 14,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Jin_Tonik",
+    "owner": "Akir_Miror",
     "status": "Занято",
     "x": 1771.74,
     "y": -1903.27,

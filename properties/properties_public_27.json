@@ -6684,18 +6684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 560,
-    "server_id": 27,
-    "type": "house",
-    "name": "Я тут живу",
-    "owner": "Kenneth_Stair",
-    "status": "Занято",
-    "x": 227.699,
-    "y": 1070.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 561,
     "server_id": 27,
     "type": "house",
@@ -7812,18 +7800,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 655,
-    "server_id": 27,
-    "type": "house",
-    "name": "Культурный уголок",
-    "owner": "Ashby_Winter",
-    "status": "Занято",
-    "x": 2013.32,
-    "y": 730.669,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 656,
     "server_id": 27,
     "type": "house",
@@ -8440,7 +8416,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Тетсуя Емпаир",
-    "owner": "Tetsuya_Kuroku",
+    "owner": "Boom_Shakalaka",
     "status": "Занято",
     "x": 1600.52,
     "y": 2609.73,
@@ -8463,7 +8439,7 @@
     "id": 709,
     "server_id": 27,
     "type": "house",
-    "name": "Aka X Terry",
+    "name": "Тетсуя Емпаир",
     "owner": "Boom_Shakalaka",
     "status": "Занято",
     "x": 1666.97,
@@ -15864,11 +15840,23 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1327,
+    "server_id": 27,
+    "type": "house",
+    "name": "Тетсуя Емпаир",
+    "owner": "Boom_Shakalaka",
+    "status": "Занято",
+    "x": 1618.71,
+    "y": 2610.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1328,
     "server_id": 27,
     "type": "house",
     "name": "Тетсуя Емпаир",
-    "owner": "Tetsuya_Kuroku",
+    "owner": "Boom_Shakalaka",
     "status": "Занято",
     "x": 1638.16,
     "y": 2610.71,
@@ -16059,8 +16047,8 @@
     "id": 1344,
     "server_id": 27,
     "type": "house",
-    "name": "VisCorp Home",
-    "owner": "Kenji_Kawasaki",
+    "name": "Тетсуя Емпаир",
+    "owner": "Boom_Shakalaka",
     "status": "Занято",
     "x": 1623.48,
     "y": 2567.34,
@@ -16088,6 +16076,18 @@
     "status": "Занято",
     "x": 1551.52,
     "y": 2567.55,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1347,
+    "server_id": 27,
+    "type": "house",
+    "name": "Momo House",
+    "owner": "Tetsuya_Kuroku",
+    "status": "Занято",
+    "x": 1513.34,
+    "y": 2565.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16444,7 +16444,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Основной(Гетто)",
-    "owner": "Anya_Mirnaya",
+    "owner": "Cosmo_Letuchev",
     "status": "Занято",
     "x": 1976.21,
     "y": -1634.04,
@@ -20544,6 +20544,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1719,
+    "server_id": 27,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Emmanuel_Collins",
+    "status": "Занято",
+    "x": 2368.53,
+    "y": 962.8369,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1720,
     "server_id": 27,
     "type": "house",
@@ -24372,6 +24384,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 560,
+    "server_id": 27,
+    "type": "house",
+    "name": "Я тут живу",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 227.699,
+    "y": 1070.82,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 260,
     "server_id": 27,
     "type": "house",
@@ -24420,6 +24444,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 655,
+    "server_id": 27,
+    "type": "house",
+    "name": "Культурный уголок",
+    "owner": "Ashby_Winter",
+    "status": "Аукцион",
+    "x": 2013.32,
+    "y": 730.669,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 769,
     "server_id": 27,
     "type": "house",
@@ -24429,42 +24465,6 @@
     "x": -2594.19,
     "y": 768.164,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1327,
-    "server_id": 27,
-    "type": "house",
-    "name": "Momo House",
-    "owner": "South_Lifestyle",
-    "status": "Аукцион",
-    "x": 1618.71,
-    "y": 2610.03,
-    "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1347,
-    "server_id": 27,
-    "type": "house",
-    "name": "Momo House",
-    "owner": "South_Lifestyle",
-    "status": "Аукцион",
-    "x": 1513.34,
-    "y": 2565.43,
-    "price": 1000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1719,
-    "server_id": 27,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Emmanuel_Collins",
-    "status": "Аукцион",
-    "x": 2368.53,
-    "y": 962.8369,
-    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
