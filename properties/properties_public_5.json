@@ -564,6 +564,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 47,
+    "server_id": 5,
+    "type": "house",
+    "name": "притон",
+    "owner": "Charles_Bronsson",
+    "status": "Занято",
+    "x": 2188.55,
+    "y": -1419.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 48,
     "server_id": 5,
     "type": "house",
@@ -11724,18 +11736,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 978,
-    "server_id": 5,
-    "type": "house",
-    "name": "UCHIHA",
-    "owner": "Evgeniy_Warden",
-    "status": "Занято",
-    "x": -2372.79,
-    "y": 613.934,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 979,
     "server_id": 5,
     "type": "house",
@@ -12624,18 +12624,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1053,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Panika_Beasley",
-    "status": "Занято",
-    "x": -2791.69,
-    "y": -145.9909,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1054,
     "server_id": 5,
     "type": "house",
@@ -12884,18 +12872,6 @@
     "status": "Занято",
     "x": 1784.53,
     "y": 2758.59,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1075,
-    "server_id": 5,
-    "type": "house",
-    "name": "666",
-    "owner": "Sos_Krutoy",
-    "status": "Занято",
-    "x": 1786.98,
-    "y": 2767.43,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13160,18 +13136,6 @@
     "status": "Занято",
     "x": 1733.42,
     "y": 2814.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1098,
-    "server_id": 5,
-    "type": "house",
-    "name": "Кайф хата",
-    "owner": "Triple_White",
-    "status": "Занято",
-    "x": 1734.18,
-    "y": 2812.16,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -13472,18 +13436,6 @@
     "status": "Занято",
     "x": 1816.23,
     "y": -1292.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1124,
-    "server_id": 5,
-    "type": "house",
-    "name": "Американская мечта",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 1809.42,
-    "y": -1299.39,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21792,18 +21744,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1817,
-    "server_id": 5,
-    "type": "house",
-    "name": "Домик2",
-    "owner": "Hayato_Suo",
-    "status": "Занято",
-    "x": 2826.08,
-    "y": 2140.74,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1818,
     "server_id": 5,
     "type": "house",
@@ -24048,18 +23988,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2005,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом ФИБИБИ №1",
-    "owner": "Igoryan_Toretto",
-    "status": "Занято",
-    "x": 2613.64,
-    "y": 2070.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2006,
     "server_id": 5,
     "type": "house",
@@ -24087,8 +24015,8 @@
     "id": 2008,
     "server_id": 5,
     "type": "house",
-    "name": "вас привествует джек варобей",
-    "owner": "Blake_Kendal",
+    "name": " House 1",
+    "owner": "Han_Hydrogen",
     "status": "Занято",
     "x": 2613.64,
     "y": 2044.17,
@@ -25104,15 +25032,99 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 47,
+    "id": 978,
     "server_id": 5,
     "type": "house",
-    "name": "притон",
-    "owner": "Charles_Bronsson",
+    "name": "UCHIHA",
+    "owner": "Evgeniy_Warden",
     "status": "Аукцион",
-    "x": 2188.55,
-    "y": -1419.21,
-    "price": 10000000000,
+    "x": -2372.79,
+    "y": 613.934,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1053,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Panika_Beasley",
+    "status": "Аукцион",
+    "x": -2791.69,
+    "y": -145.9909,
+    "price": 2000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1075,
+    "server_id": 5,
+    "type": "house",
+    "name": "666",
+    "owner": "Sos_Krutoy",
+    "status": "Аукцион",
+    "x": 1786.98,
+    "y": 2767.43,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1098,
+    "server_id": 5,
+    "type": "house",
+    "name": "Кайф хата",
+    "owner": "Gennadiy_Dorofeev",
+    "status": "Аукцион",
+    "x": 1734.18,
+    "y": 2812.16,
+    "price": 20000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1124,
+    "server_id": 5,
+    "type": "house",
+    "name": "Американская мечта",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": 1809.42,
+    "y": -1299.39,
+    "price": 1500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1817,
+    "server_id": 5,
+    "type": "house",
+    "name": "Домик2",
+    "owner": "Hayato_Suo",
+    "status": "Аукцион",
+    "x": 2826.08,
+    "y": 2140.74,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 2005,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом ФИБИБИ №1",
+    "owner": "Igoryan_Toretto",
+    "status": "Аукцион",
+    "x": 2613.64,
+    "y": 2070.19,
+    "price": 1200123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 206,
+    "server_id": 5,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Minato_Sokata",
+    "status": "Аукцион",
+    "x": 1381.1,
+    "y": -1805.03,
+    "price": 7000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -28220,18 +28232,6 @@
     "status": "Занято",
     "x": 1136.92,
     "y": -1750.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 206,
-    "server_id": 5,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Minato_Sokata",
-    "status": "Занято",
-    "x": 1381.1,
-    "y": -1805.03,
     "price": 0,
     "district": "Сан-Андреас"
   },

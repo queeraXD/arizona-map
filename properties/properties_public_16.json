@@ -5328,18 +5328,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 445,
-    "server_id": 16,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Grey_Weeknd",
-    "status": "Занято",
-    "x": 2439.9,
-    "y": -1010.88,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 446,
     "server_id": 16,
     "type": "house",
@@ -8920,7 +8908,7 @@
     "server_id": 16,
     "type": "house",
     "name": "Дом",
-    "owner": "Artem_Rinatov",
+    "owner": "Blake_Shadow",
     "status": "Занято",
     "x": -2869.38,
     "y": 690.9039,
@@ -9272,18 +9260,6 @@
     "status": "Занято",
     "x": -2622.52,
     "y": 782.702,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 774,
-    "server_id": 16,
-    "type": "house",
-    "name": "Markelovani",
-    "owner": "Dusty_Beelby",
-    "status": "Занято",
-    "x": -2621.68,
-    "y": 802.908,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9956,6 +9932,18 @@
     "status": "Занято",
     "x": -2723.16,
     "y": -16.7231,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 831,
+    "server_id": 16,
+    "type": "house",
+    "name": "Депозитные условия",
+    "owner": "Lacosta_Mensory",
+    "status": "Занято",
+    "x": -2723.0,
+    "y": 4.0472,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12596,6 +12584,18 @@
     "status": "Занято",
     "x": -1529.77,
     "y": 2686.21,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1053,
+    "server_id": 16,
+    "type": "house",
+    "name": "+деп",
+    "owner": "Lacosta_Mensory",
+    "status": "Занято",
+    "x": -1930.04,
+    "y": 1190.53,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22440,27 +22440,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 831,
+    "id": 445,
     "server_id": 16,
     "type": "house",
-    "name": "Депозитные условия",
-    "owner": "Lacosta_Mensory",
+    "name": "Дом",
+    "owner": "Grey_Weeknd",
     "status": "Аукцион",
-    "x": -2723.0,
-    "y": 4.0472,
-    "price": 222222222,
+    "x": 2439.9,
+    "y": -1010.88,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1053,
+    "id": 774,
     "server_id": 16,
     "type": "house",
-    "name": "+деп",
-    "owner": "Lacosta_Mensory",
+    "name": "Markelovani",
+    "owner": "Dusty_Beelby",
     "status": "Аукцион",
-    "x": -1930.04,
-    "y": 1190.53,
-    "price": 222222222,
+    "x": -2621.68,
+    "y": 802.908,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
