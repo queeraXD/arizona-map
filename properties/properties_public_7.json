@@ -7488,6 +7488,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 624,
+    "server_id": 7,
+    "type": "house",
+    "name": "Трейлер Фушей :nd:",
+    "owner": "Bruno_Vaprosi",
+    "status": "Занято",
+    "x": -21.1152,
+    "y": 1388.67,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 625,
     "server_id": 7,
     "type": "house",
@@ -7792,7 +7804,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Самый крутой дом",
-    "owner": "Gabrielle_Venzo",
+    "owner": "Claudio_Montero",
     "status": "Занято",
     "x": 2532.3,
     "y": 742.5419,
@@ -10292,18 +10304,6 @@
     "status": "Занято",
     "x": 2594.5,
     "y": -1203.06,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 859,
-    "server_id": 7,
-    "type": "house",
-    "name": "База Бубы",
-    "owner": "Booba_Obema",
-    "status": "Занято",
-    "x": -2428.748,
-    "y": -1328.385,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14071,6 +14071,18 @@
     "owner": "Sergey_Xelsing",
     "status": "Занято",
     "x": -2524.37,
+    "y": -145.865,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1175,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом Vangera",
+    "owner": "Mother_Teresa",
+    "status": "Занято",
+    "x": -2541.62,
     "y": -145.865,
     "price": 0,
     "district": "Сан-Андреас"
@@ -18720,18 +18732,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1563,
-    "server_id": 7,
-    "type": "house",
-    "name": "777",
-    "owner": "Pashtet_Malboro",
-    "status": "Занято",
-    "x": 2572.33,
-    "y": -1091.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1564,
     "server_id": 7,
     "type": "house",
@@ -19664,18 +19664,6 @@
     "status": "Занято",
     "x": 1109.03,
     "y": -1557.39,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1642,
-    "server_id": 7,
-    "type": "house",
-    "name": "@Onli_Farms",
-    "owner": "Mine_Vii",
-    "status": "Занято",
-    "x": 1112.2,
-    "y": -1557.42,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21020,18 +21008,6 @@
     "status": "Занято",
     "x": 1453.73,
     "y": 2026.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1755,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alex_Kuzneatsov",
-    "status": "Занято",
-    "x": 1461.28,
-    "y": 2026.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25512,15 +25488,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 624,
+    "id": 859,
     "server_id": 7,
     "type": "house",
-    "name": "Трейлер Фушей :nd:",
-    "owner": "Государство",
+    "name": "База Бубы",
+    "owner": "Booba_Obema",
     "status": "Аукцион",
-    "x": -21.1152,
-    "y": 1388.67,
-    "price": 10000000,
+    "x": -2428.748,
+    "y": -1328.385,
+    "price": 460008,
     "district": "Сан-Андреас"
   },
   {
@@ -25536,15 +25512,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1175,
+    "id": 1563,
     "server_id": 7,
     "type": "house",
-    "name": "Дом Vangera",
-    "owner": "Государство",
+    "name": "777",
+    "owner": "Pashtet_Malboro",
     "status": "Аукцион",
-    "x": -2541.62,
-    "y": -145.865,
-    "price": 10000000,
+    "x": 2572.33,
+    "y": -1091.83,
+    "price": 6000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1642,
+    "server_id": 7,
+    "type": "house",
+    "name": "@Onli_Farms",
+    "owner": "Dmiitry_Raus",
+    "status": "Аукцион",
+    "x": 1112.2,
+    "y": -1557.42,
+    "price": 20000088,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1755,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alex_Kuzneatsov",
+    "status": "Аукцион",
+    "x": 1461.28,
+    "y": 2026.99,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
