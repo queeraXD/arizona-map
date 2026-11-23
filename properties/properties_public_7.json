@@ -1096,7 +1096,7 @@
     "server_id": 7,
     "type": "house",
     "name": "<Salamanco Mafia>",
-    "owner": "Really_White",
+    "owner": "Really_Dredd",
     "status": "Занято",
     "x": 2011.66,
     "y": -1656.42,
@@ -3807,7 +3807,7 @@
     "id": 317,
     "server_id": 7,
     "type": "house",
-    "name": "Домик",
+    "name": "Домик Ностальгии",
     "owner": "Anna_Saharayzer",
     "status": "Занято",
     "x": 1252.78,
@@ -7644,18 +7644,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 637,
-    "server_id": 7,
-    "type": "house",
-    "name": "ДЕП УСЛОВИЯ+НАБОР ТВОРЧЕСТВА",
-    "owner": "Alex_Elagin",
-    "status": "Занято",
-    "x": -362.6669,
-    "y": 1110.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 638,
     "server_id": 7,
     "type": "house",
@@ -11160,6 +11148,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 931,
+    "server_id": 7,
+    "type": "house",
+    "name": "Домик 3",
+    "owner": "Anna_Saharayzer",
+    "status": "Занято",
+    "x": -2282.16,
+    "y": 1046.54,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 932,
     "server_id": 7,
     "type": "house",
@@ -12267,8 +12267,8 @@
     "id": 1024,
     "server_id": 7,
     "type": "house",
-    "name": "Дом",
-    "owner": "Spectra_Forbes",
+    "name": "Хранилище",
+    "owner": "Mother_Teresa",
     "status": "Занято",
     "x": -2793.69,
     "y": 85.0876,
@@ -16180,7 +16180,7 @@
     "server_id": 7,
     "type": "house",
     "name": "КАМАМБЕР",
-    "owner": "Valera_Goldsqd",
+    "owner": "Sborschik_Zakladok",
     "status": "Занято",
     "x": 1112.2,
     "y": -1557.42,
@@ -17168,18 +17168,6 @@
     "status": "Занято",
     "x": -258.4259,
     "y": 1083.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1434,
-    "server_id": 7,
-    "type": "house",
-    "name": "Мой дачный уголок",
-    "owner": "Danya_Soloviev",
-    "status": "Занято",
-    "x": -258.2489,
-    "y": 1043.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21020,6 +21008,18 @@
     "status": "Занято",
     "x": 1453.73,
     "y": 2026.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1755,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alex_Kuzneatsov",
+    "status": "Занято",
+    "x": 1461.28,
+    "y": 2026.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25071,7 +25071,7 @@
     "id": 2096,
     "server_id": 7,
     "type": "house",
-    "name": "Дом",
+    "name": "Продам 3 дома спрингс",
     "owner": "Arbuz_Arbuz",
     "status": "Занято",
     "x": -115.554,
@@ -25500,6 +25500,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 637,
+    "server_id": 7,
+    "type": "house",
+    "name": "ДЕП УСЛОВИЯ+НАБОР ТВОРЧЕСТВА",
+    "owner": "Alex_Elagin",
+    "status": "Аукцион",
+    "x": -362.6669,
+    "y": 1110.63,
+    "price": 6999900000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 859,
     "server_id": 7,
     "type": "house",
@@ -25508,26 +25520,14 @@
     "status": "Аукцион",
     "x": -2428.748,
     "y": -1328.385,
-    "price": 500000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 931,
-    "server_id": 7,
-    "type": "house",
-    "name": "Smirnov House #2",
-    "owner": "Государство",
-    "status": "Аукцион",
-    "x": -2282.16,
-    "y": 1046.54,
-    "price": 10000000,
+    "price": 420001,
     "district": "Сан-Андреас"
   },
   {
     "id": 1175,
     "server_id": 7,
     "type": "house",
-    "name": "Дом Vangera",
+    "name": "Склад Ресов",
     "owner": "Mother_Teresa",
     "status": "Аукцион",
     "x": -2541.62,
@@ -25536,15 +25536,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1755,
+    "id": 1434,
     "server_id": 7,
     "type": "house",
-    "name": "Дом",
-    "owner": "Alex_Kuzneatsov",
+    "name": "Мой дачный уголок",
+    "owner": "Danya_Soloviev",
     "status": "Аукцион",
-    "x": 1461.28,
-    "y": 2026.99,
-    "price": 4500000000,
+    "x": -258.2489,
+    "y": 1043.99,
+    "price": 3600000000,
     "district": "Сан-Андреас"
   },
   {
