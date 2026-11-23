@@ -3336,6 +3336,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 278,
+    "server_id": 21,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Brazilian_Market",
+    "status": "Занято",
+    "x": 2526.83,
+    "y": -1033.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 279,
     "server_id": 21,
     "type": "house",
@@ -3428,6 +3440,18 @@
     "status": "Занято",
     "x": 2259.37,
     "y": -1019.17,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 287,
+    "server_id": 21,
+    "type": "house",
+    "name": "Майнинг",
+    "owner": "Brazilian_Market",
+    "status": "Занято",
+    "x": 2491.35,
+    "y": -1012.34,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5316,6 +5340,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 445,
+    "server_id": 21,
+    "type": "house",
+    "name": "дом",
+    "owner": "Brazilian_Market",
+    "status": "Занято",
+    "x": 2439.9,
+    "y": -1010.88,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 446,
     "server_id": 21,
     "type": "house",
@@ -6572,18 +6608,6 @@
     "status": "Занято",
     "x": 618.3629,
     "y": 1168.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 551,
-    "server_id": 21,
-    "type": "house",
-    "name": "Trx Empire",
-    "owner": "Yatsik_Vishnevsky",
-    "status": "Занято",
-    "x": 536.656,
-    "y": 1138.79,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8768,18 +8792,6 @@
     "status": "Занято",
     "x": -2904.9,
     "y": 1178.92,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 734,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом Эдуарда",
-    "owner": "Yatsik_Vishnevsky",
-    "status": "Занято",
-    "x": -2904.37,
-    "y": 1118.84,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11120,6 +11132,18 @@
     "status": "Занято",
     "x": -2017.23,
     "y": 1000.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 931,
+    "server_id": 21,
+    "type": "house",
+    "name": ":uf255:farm triad:uf256:",
+    "owner": "Niko_Freedom",
+    "status": "Занято",
+    "x": -2017.56,
+    "y": 982.8229,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -17400,18 +17424,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1455,
-    "server_id": 21,
-    "type": "house",
-    "name": "Дом Эдуарда 4",
-    "owner": "Yatsik_Vishnevsky",
-    "status": "Занято",
-    "x": 885.901,
-    "y": 1953.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1456,
     "server_id": 21,
     "type": "house",
@@ -19660,7 +19672,7 @@
     "server_id": 21,
     "type": "house",
     "name": "maniacs squad",
-    "owner": "Ever_Dream",
+    "owner": "Michail_Shtyh",
     "status": "Занято",
     "x": 2517.04,
     "y": 1653.78,
@@ -21888,51 +21900,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 278,
+    "id": 551,
     "server_id": 21,
     "type": "house",
-    "name": "Дом",
-    "owner": "Brazilian_Market",
-    "status": "Аукцион",
-    "x": 2526.83,
-    "y": -1033.53,
-    "price": 400000000,
+    "name": "Trx Empire",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 536.656,
+    "y": 1138.79,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 287,
+    "id": 734,
     "server_id": 21,
     "type": "house",
-    "name": "Майнинг",
-    "owner": "Brazilian_Market",
-    "status": "Аукцион",
-    "x": 2491.35,
-    "y": -1012.34,
-    "price": 400000000,
+    "name": "Дом Эдуарда",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2904.37,
+    "y": 1118.84,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {
-    "id": 445,
+    "id": 1455,
     "server_id": 21,
     "type": "house",
-    "name": "дом",
-    "owner": "Brazilian_Market",
-    "status": "Аукцион",
-    "x": 2439.9,
-    "y": -1010.88,
-    "price": 400000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 931,
-    "server_id": 21,
-    "type": "house",
-    "name": ":uf255:farm triad:uf256:",
-    "owner": "Podpal_Arias",
-    "status": "Аукцион",
-    "x": -2017.56,
-    "y": 982.8229,
-    "price": 60123123,
+    "name": "Дом Эдуарда 4",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": 885.901,
+    "y": 1953.21,
+    "price": 0,
     "district": "Сан-Андреас"
   },
   {

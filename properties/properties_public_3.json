@@ -1324,7 +1324,7 @@
     "server_id": 3,
     "type": "house",
     "name": ":ll::le::ls::lt::le::lr:",
-    "owner": "James_Harvey",
+    "owner": "Kostya_Harvey",
     "status": "Занято",
     "x": 2296.54,
     "y": -1882.34,
@@ -1336,7 +1336,7 @@
     "server_id": 3,
     "type": "house",
     "name": ":ll::le::ls::lt::le::lr:",
-    "owner": "James_Harvey",
+    "owner": "Kostya_Harvey",
     "status": "Занято",
     "x": 2269.22,
     "y": -1882.41,
@@ -1348,7 +1348,7 @@
     "server_id": 3,
     "type": "house",
     "name": ":ll::le::ls::lt::le::lr:",
-    "owner": "James_Harvey",
+    "owner": "Kostya_Harvey",
     "status": "Занято",
     "x": 2241.99,
     "y": -1882.29,
@@ -5184,18 +5184,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 432,
-    "server_id": 3,
-    "type": "house",
-    "name": "Masker #3",
-    "owner": "Theophrastus_Delux",
-    "status": "Занято",
-    "x": 2279.2,
-    "y": -1076.63,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 433,
     "server_id": 3,
     "type": "house",
@@ -6644,18 +6632,6 @@
     "status": "Занято",
     "x": -250.604,
     "y": 860.9699,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 554,
-    "server_id": 3,
-    "type": "house",
-    "name": "Майнинг ферма №5",
-    "owner": "Mon_Vizzion",
-    "status": "Занято",
-    "x": 352.9729,
-    "y": 1099.58,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10116,6 +10092,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 844,
+    "server_id": 3,
+    "type": "house",
+    "name": "Austin_Elloy House 2",
+    "owner": "Austin_Elloy",
+    "status": "Занято",
+    "x": -2066.56,
+    "y": 819.965,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 845,
     "server_id": 3,
     "type": "house",
@@ -12207,8 +12195,8 @@
     "id": 1021,
     "server_id": 3,
     "type": "house",
-    "name": "L E S T E R",
-    "owner": "Zero_Sugar",
+    "name": ":ll::le::ls::lt::le::lr:",
+    "owner": "James_Harvey",
     "status": "Занято",
     "x": -2099.51,
     "y": 897.765,
@@ -12219,8 +12207,8 @@
     "id": 1022,
     "server_id": 3,
     "type": "house",
-    "name": "L E S T E R",
-    "owner": "Zero_Sugar",
+    "name": ":ll::le::ls::lt::le::lr:",
+    "owner": "James_Harvey",
     "status": "Занято",
     "x": -2075.1,
     "y": 899.195,
@@ -12231,8 +12219,8 @@
     "id": 1023,
     "server_id": 3,
     "type": "house",
-    "name": "L E S T E R",
-    "owner": "Zero_Sugar",
+    "name": ":ll::le::ls::lt::le::lr:",
+    "owner": "James_Harvey",
     "status": "Занято",
     "x": -2034.32,
     "y": 901.6989,
@@ -19980,6 +19968,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1670,
+    "server_id": 3,
+    "type": "house",
+    "name": "Домик Блека",
+    "owner": "Axel_Blade",
+    "status": "Занято",
+    "x": 2615.11,
+    "y": -1238.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1671,
     "server_id": 3,
     "type": "house",
@@ -23952,6 +23952,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 432,
+    "server_id": 3,
+    "type": "house",
+    "name": "Masker #3",
+    "owner": "Theophrastus_Delux",
+    "status": "Аукцион",
+    "x": 2279.2,
+    "y": -1076.63,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 554,
+    "server_id": 3,
+    "type": "house",
+    "name": "Майнинг ферма №5",
+    "owner": "Mon_Vizzion",
+    "status": "Аукцион",
+    "x": 352.9729,
+    "y": 1099.58,
+    "price": 750000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 597,
     "server_id": 3,
     "type": "house",
@@ -23961,18 +23985,6 @@
     "x": -1450.71,
     "y": 2691.05,
     "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 844,
-    "server_id": 3,
-    "type": "house",
-    "name": "Austin_Elloy House 2",
-    "owner": "Austin_Elloy",
-    "status": "Аукцион",
-    "x": -2066.56,
-    "y": 819.965,
-    "price": 550000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23996,31 +24008,7 @@
     "status": "Аукцион",
     "x": -2895.57,
     "y": 1016.89,
-    "price": 999900000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1670,
-    "server_id": 3,
-    "type": "house",
-    "name": "Домик Блека",
-    "owner": "[09]Fly_Ing",
-    "status": "Аукцион",
-    "x": 2615.11,
-    "y": -1238.07,
-    "price": 20000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 55,
-    "server_id": 3,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Pomelka_Anderson",
-    "status": "Аукцион",
-    "x": 2262.75,
-    "y": 2036.09,
-    "price": 280000,
+    "price": 900000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26216,6 +26204,18 @@
     "status": "Занято",
     "x": 2200.76,
     "y": 1394.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 55,
+    "server_id": 3,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Pomelka_Anderson",
+    "status": "Занято",
+    "x": 2262.75,
+    "y": 2036.09,
     "price": 0,
     "district": "Сан-Андреас"
   },

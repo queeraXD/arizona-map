@@ -1020,6 +1020,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 85,
+    "server_id": 23,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Heart_Shape",
+    "status": "Занято",
+    "x": 2065.77,
+    "y": -1703.57,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 86,
     "server_id": 23,
     "type": "house",
@@ -1792,7 +1804,7 @@
     "server_id": 23,
     "type": "house",
     "name": "Дом",
-    "owner": "Artyom_Dark",
+    "owner": "Rielta_Status",
     "status": "Занято",
     "x": 1142.12,
     "y": -1092.87,
@@ -8188,7 +8200,7 @@
     "server_id": 23,
     "type": "house",
     "name": "не продавать",
-    "owner": "Nefor_Skywalker",
+    "owner": "Mon_Day",
     "status": "Занято",
     "x": 986.117,
     "y": 2314.1,
@@ -10080,30 +10092,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 841,
-    "server_id": 23,
-    "type": "house",
-    "name": "Heronwater Lover",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": -2208.08,
-    "y": 1108.05,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 842,
-    "server_id": 23,
-    "type": "house",
-    "name": "Heronwater Lover",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": -2227.76,
-    "y": 1107.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 843,
     "server_id": 23,
     "type": "house",
@@ -11508,18 +11496,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 961,
-    "server_id": 23,
-    "type": "house",
-    "name": "Heronwater Lover",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": -2158.17,
-    "y": 753.703,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 962,
     "server_id": 23,
     "type": "house",
@@ -11936,18 +11912,6 @@
     "status": "Занято",
     "x": -2358.71,
     "y": 796.9899,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 997,
-    "server_id": 23,
-    "type": "house",
-    "name": "HeronWater Lover",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": -2373.39,
-    "y": 834.4459,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15072,18 +15036,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1258,
-    "server_id": 23,
-    "type": "house",
-    "name": "HeronWater Lover",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": -2340.11,
-    "y": 656.7349,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1259,
     "server_id": 23,
     "type": "house",
@@ -15680,18 +15632,6 @@
     "status": "Занято",
     "x": -2515.38,
     "y": -189.2209,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1309,
-    "server_id": 23,
-    "type": "house",
-    "name": "Heronwater Lover",
-    "owner": "Heron_Miller",
-    "status": "Занято",
-    "x": -2515.38,
-    "y": -170.9069,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21156,27 +21096,75 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 85,
+    "id": 841,
     "server_id": 23,
     "type": "house",
-    "name": "Дом",
-    "owner": "Heart_Shape",
+    "name": "Heronwater Lover",
+    "owner": "Heron_Miller",
     "status": "Аукцион",
-    "x": 2065.77,
-    "y": -1703.57,
-    "price": 5000000000,
+    "x": -2208.08,
+    "y": 1108.05,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 97,
+    "id": 842,
     "server_id": 23,
-    "type": "business",
-    "name": "Магазин аксессуаров",
-    "owner": "William_McDaniel",
+    "type": "house",
+    "name": "Heronwater Lover",
+    "owner": "Heron_Miller",
     "status": "Аукцион",
-    "x": 208.11,
-    "y": -62.718,
-    "price": 10000000000,
+    "x": -2227.76,
+    "y": 1107.37,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 961,
+    "server_id": 23,
+    "type": "house",
+    "name": "Heronwater Lover",
+    "owner": "Heron_Miller",
+    "status": "Аукцион",
+    "x": -2158.17,
+    "y": 753.703,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 997,
+    "server_id": 23,
+    "type": "house",
+    "name": "HeronWater Lover",
+    "owner": "Heron_Miller",
+    "status": "Аукцион",
+    "x": -2373.39,
+    "y": 834.4459,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1258,
+    "server_id": 23,
+    "type": "house",
+    "name": "HeronWater Lover",
+    "owner": "Heron_Miller",
+    "status": "Аукцион",
+    "x": -2340.11,
+    "y": 656.7349,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1309,
+    "server_id": 23,
+    "type": "house",
+    "name": "Heronwater Lover",
+    "owner": "Heron_Miller",
+    "status": "Аукцион",
+    "x": -2515.38,
+    "y": -170.9069,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23516,6 +23504,18 @@
     "status": "Занято",
     "x": 2131.88,
     "y": -1151.32,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 97,
+    "server_id": 23,
+    "type": "business",
+    "name": "Магазин аксессуаров",
+    "owner": "William_McDaniel",
+    "status": "Занято",
+    "x": 208.11,
+    "y": -62.718,
     "price": 0,
     "district": "Сан-Андреас"
   },

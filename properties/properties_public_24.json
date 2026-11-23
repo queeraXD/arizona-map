@@ -3084,18 +3084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 257,
-    "server_id": 24,
-    "type": "house",
-    "name": "Wanted Corporation",
-    "owner": "Planka_Blueberry",
-    "status": "Занято",
-    "x": 2122.32,
-    "y": -970.3649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 258,
     "server_id": 24,
     "type": "house",
@@ -6572,6 +6560,18 @@
     "status": "Занято",
     "x": 12.7711,
     "y": 1113.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 548,
+    "server_id": 24,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Gustav_Soprano",
+    "status": "Занято",
+    "x": 570.7319,
+    "y": 1174.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -10500,6 +10500,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 877,
+    "server_id": 24,
+    "type": "house",
+    "name": "<3 Sovhoz Corporation <3",
+    "owner": "Veli_Lorenso",
+    "status": "Занято",
+    "x": -197.4149,
+    "y": 2529.87,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 878,
     "server_id": 24,
     "type": "house",
@@ -12783,7 +12795,7 @@
     "id": 1068,
     "server_id": 24,
     "type": "house",
-    "name": "Депозитные",
+    "name": "хлам",
     "owner": "[30]Ferm_Er",
     "status": "Занято",
     "x": 2263.93,
@@ -19647,8 +19659,8 @@
     "id": 1640,
     "server_id": 24,
     "type": "house",
-    "name": "Хата у Гурама",
-    "owner": "[30]Ferm_Er",
+    "name": "Монополия Воды",
+    "owner": "Voda_Est",
     "status": "Занято",
     "x": 2468.28,
     "y": -1410.1,
@@ -20343,8 +20355,8 @@
     "id": 1699,
     "server_id": 24,
     "type": "house",
-    "name": "Монополия Воды",
-    "owner": "Voda_Est",
+    "name": "хлам",
+    "owner": "[30]Ferm_Er",
     "status": "Занято",
     "x": 2495.44,
     "y": -1383.37,
@@ -20564,6 +20576,18 @@
     "status": "Занято",
     "x": 1793.57,
     "y": 2792.26,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1718,
+    "server_id": 24,
+    "type": "house",
+    "name": "250кк",
+    "owner": "Apogee_Stark",
+    "status": "Занято",
+    "x": 1796.57,
+    "y": 2803.6,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21032,6 +21056,18 @@
     "status": "Занято",
     "x": 2601.05,
     "y": -1203.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1758,
+    "server_id": 24,
+    "type": "house",
+    "name": "Майнинг ",
+    "owner": "Veli_Lorenso",
+    "status": "Занято",
+    "x": 2601.05,
+    "y": -1207.49,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21996,51 +22032,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 548,
+    "id": 257,
     "server_id": 24,
     "type": "house",
-    "name": "<3 Sovhoz Corporation <3",
-    "owner": "Viper_Darkness",
+    "name": "Wanted Corporation",
+    "owner": "Planka_Blueberry",
     "status": "Аукцион",
-    "x": 570.7319,
-    "y": 1174.37,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 877,
-    "server_id": 24,
-    "type": "house",
-    "name": "<3 Sovhoz Corporation <3",
-    "owner": "Bak_Sh",
-    "status": "Аукцион",
-    "x": -197.4149,
-    "y": 2529.87,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1718,
-    "server_id": 24,
-    "type": "house",
-    "name": "250кк",
-    "owner": "Viper_Darkness",
-    "status": "Аукцион",
-    "x": 1796.57,
-    "y": 2803.6,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1758,
-    "server_id": 24,
-    "type": "house",
-    "name": "Майнинг ",
-    "owner": "Viper_Darkness",
-    "status": "Аукцион",
-    "x": 2601.05,
-    "y": -1207.49,
-    "price": 50123123,
+    "x": 2122.32,
+    "y": -970.3649,
+    "price": 120000000,
     "district": "Сан-Андреас"
   },
   {
