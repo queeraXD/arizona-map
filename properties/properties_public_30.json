@@ -3288,6 +3288,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 274,
+    "server_id": 30,
+    "type": "house",
+    "name": "ШТАБ СБУ",
+    "owner": "Venom_Confidental",
+    "status": "Занято",
+    "x": 2576.59,
+    "y": -1070.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 275,
     "server_id": 30,
     "type": "house",
@@ -9216,18 +9228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 769,
-    "server_id": 30,
-    "type": "house",
-    "name": "the world is yours // FOR SALE",
-    "owner": "Al_Pacino",
-    "status": "Занято",
-    "x": -2594.19,
-    "y": 768.164,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 770,
     "server_id": 30,
     "type": "house",
@@ -11364,18 +11364,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 948,
-    "server_id": 30,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Aerox_Gallager",
-    "status": "Занято",
-    "x": -2239.31,
-    "y": 962.374,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 949,
     "server_id": 30,
     "type": "house",
@@ -12999,8 +12987,8 @@
     "id": 1085,
     "server_id": 30,
     "type": "house",
-    "name": "waldemarfam",
-    "owner": "James_Joyce",
+    "name": "майнинг 1",
+    "owner": "Vladislav_Davankov",
     "status": "Занято",
     "x": 1780.95,
     "y": 2744.99,
@@ -15732,10 +15720,22 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1313,
+    "server_id": 30,
+    "type": "house",
+    "name": "Mining 10 lvl+Dep",
+    "owner": "Kavik_Kawasaki",
+    "status": "Занято",
+    "x": -76.1399,
+    "y": -1581.11,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1314,
     "server_id": 30,
     "type": "house",
-    "name": "Деревня трейлеров",
+    "name": "трепхата +dep",
     "owner": "Motya_Hard",
     "status": "Занято",
     "x": -91.1687,
@@ -16112,6 +16112,18 @@
     "status": "Занято",
     "x": 1564.61,
     "y": 2565.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1346,
+    "server_id": 30,
+    "type": "house",
+    "name": "WallterHome",
+    "owner": "Aleksej_Lova",
+    "status": "Занято",
+    "x": 1551.52,
+    "y": 2567.55,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21207,7 +21219,7 @@
     "id": 1775,
     "server_id": 30,
     "type": "house",
-    "name": "Big_Bass [Склад]",
+    "name": "Big_Bass [Ларцы]",
     "owner": "Big_Bass",
     "status": "Занято",
     "x": -776.5369,
@@ -21351,7 +21363,7 @@
     "id": 1793,
     "server_id": 30,
     "type": "house",
-    "name": "майнинг 1",
+    "name": "емберхорт",
     "owner": "Gets_Emberhert",
     "status": "Занято",
     "x": -2431.35,
@@ -22716,15 +22728,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 274,
+    "id": 769,
     "server_id": 30,
     "type": "house",
-    "name": "ШТАБ СБУ",
-    "owner": "Venom_Confidental",
+    "name": "the world is yours // FOR SALE",
+    "owner": "Al_Pacino",
     "status": "Аукцион",
-    "x": 2576.59,
-    "y": -1070.64,
-    "price": 1500000000,
+    "x": -2594.19,
+    "y": 768.164,
+    "price": 1200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 948,
+    "server_id": 30,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Aerox_Gallager",
+    "status": "Аукцион",
+    "x": -2239.31,
+    "y": 962.374,
+    "price": 1250000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22736,30 +22760,18 @@
     "status": "Аукцион",
     "x": -1776.13,
     "y": 1115.2,
-    "price": 1100000000,
+    "price": 1000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1313,
+    "id": 252,
     "server_id": 30,
-    "type": "house",
-    "name": "Mining 10 lvl+Dep",
-    "owner": "Kavik_Kawasaki",
+    "type": "business",
+    "name": "АЗС/Магазин механики",
+    "owner": "Azazel_First",
     "status": "Аукцион",
-    "x": -76.1399,
-    "y": -1581.11,
-    "price": 1300123123,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1346,
-    "server_id": 30,
-    "type": "house",
-    "name": "WallterHome",
-    "owner": "Aleksej_Lova",
-    "status": "Аукцион",
-    "x": 1551.52,
-    "y": 2567.55,
+    "x": -2975.86,
+    "y": 623.271,
     "price": 10000000000,
     "district": "Сан-Андреас"
   },
@@ -24200,18 +24212,6 @@
     "status": "Занято",
     "x": -930.703,
     "y": 13.1137,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 252,
-    "server_id": 30,
-    "type": "business",
-    "name": "АЗС/Магазин механики",
-    "owner": "Azazel_First",
-    "status": "Занято",
-    "x": -2975.86,
-    "y": 623.271,
     "price": 0,
     "district": "Сан-Андреас"
   },

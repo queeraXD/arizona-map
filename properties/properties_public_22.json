@@ -3084,18 +3084,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 257,
-    "server_id": 22,
-    "type": "house",
-    "name": "Зал у Пня #1",
-    "owner": "Serge_Revival",
-    "status": "Занято",
-    "x": 2122.32,
-    "y": -970.3649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 258,
     "server_id": 22,
     "type": "house",
@@ -3404,18 +3392,6 @@
     "status": "Занято",
     "x": 2208.54,
     "y": -1025.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 284,
-    "server_id": 22,
-    "type": "house",
-    "name": "Зал у пня #2",
-    "owner": "Serge_Revival",
-    "status": "Занято",
-    "x": 2462.37,
-    "y": -1011.12,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -5736,6 +5712,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 478,
+    "server_id": 22,
+    "type": "house",
+    "name": "Labubu Owner Monopoly",
+    "owner": "Labubu_Owner",
+    "status": "Занято",
+    "x": 1698.24,
+    "y": 155.5399,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 479,
     "server_id": 22,
     "type": "house",
@@ -7920,6 +7908,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 661,
+    "server_id": 22,
+    "type": "house",
+    "name": "с набором Архитектора",
+    "owner": "Hood_Richh",
+    "status": "Занято",
+    "x": 984.2689,
+    "y": 1878.91,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 662,
     "server_id": 22,
     "type": "house",
@@ -8019,7 +8019,7 @@
     "id": 670,
     "server_id": 22,
     "type": "house",
-    "name": "Зал у Пня #3",
+    "name": "Хижина Сафонова",
     "owner": "Cafonow_PodPivas",
     "status": "Занято",
     "x": 1084.33,
@@ -8348,18 +8348,6 @@
     "status": "Занято",
     "x": 1362.71,
     "y": 2525.57,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 698,
-    "server_id": 22,
-    "type": "house",
-    "name": "ПУСЬКА",
-    "owner": "Naomi_Revival",
-    "status": "Занято",
-    "x": 1407.6,
-    "y": 2524.46,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11712,6 +11700,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 978,
+    "server_id": 22,
+    "type": "house",
+    "name": "*SkuFF Company*",
+    "owner": "Hood_Richh",
+    "status": "Занято",
+    "x": 515.148,
+    "y": 1313.96,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 979,
     "server_id": 22,
     "type": "house",
@@ -12044,18 +12044,6 @@
     "status": "Занято",
     "x": -2438.35,
     "y": 1141.01,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1007,
-    "server_id": 22,
-    "type": "house",
-    "name": "Molodoi",
-    "owner": "Aleks_Alekseev",
-    "status": "Занято",
-    "x": -2383.84,
-    "y": 1127.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22008,39 +21996,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 478,
+    "id": 257,
     "server_id": 22,
     "type": "house",
-    "name": "Labubu Owner Monopoly",
-    "owner": "Labubu_Owner",
+    "name": "Зал у Пня #1",
+    "owner": "Serge_Revival",
     "status": "Аукцион",
-    "x": 1698.24,
-    "y": 155.5399,
-    "price": 410000,
+    "x": 2122.32,
+    "y": -970.3649,
+    "price": 850000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 661,
+    "id": 284,
     "server_id": 22,
     "type": "house",
-    "name": "с набором Архитектора",
-    "owner": "Hood_Richh",
+    "name": "Зал у пня #2",
+    "owner": "Serge_Revival",
     "status": "Аукцион",
-    "x": 984.2689,
-    "y": 1878.91,
-    "price": 3000000000,
+    "x": 2462.37,
+    "y": -1011.12,
+    "price": 850000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 978,
+    "id": 698,
     "server_id": 22,
     "type": "house",
-    "name": "*SkuFF Company*",
-    "owner": "Hood_Richh",
+    "name": "ПУСЬКА",
+    "owner": "Naomi_Revival",
     "status": "Аукцион",
-    "x": 515.148,
-    "y": 1313.96,
-    "price": 1000000000,
+    "x": 1407.6,
+    "y": 2524.46,
+    "price": 1499000123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1007,
+    "server_id": 22,
+    "type": "house",
+    "name": "Molodoi",
+    "owner": "Aleks_Alekseev",
+    "status": "Аукцион",
+    "x": -2383.84,
+    "y": 1127.85,
+    "price": 1700000000,
     "district": "Сан-Андреас"
   },
   {

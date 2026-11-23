@@ -5196,18 +5196,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 433,
-    "server_id": 27,
-    "type": "house",
-    "name": "??Dolman??",
-    "owner": "naldon",
-    "status": "Занято",
-    "x": 2284.16,
-    "y": -1046.07,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 434,
     "server_id": 27,
     "type": "house",
@@ -13000,7 +12988,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Милый дом",
-    "owner": "Oleg_Mironov",
+    "owner": "Viper_Vazilin",
     "status": "Занято",
     "x": -2844.68,
     "y": 921.177,
@@ -14864,18 +14852,6 @@
     "status": "Занято",
     "x": -2383.14,
     "y": 1226.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1239,
-    "server_id": 27,
-    "type": "house",
-    "name": "Продам и без аукциона, звони",
-    "owner": "Scream_Zombie",
-    "status": "Занято",
-    "x": -2383.14,
-    "y": 1244.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22920,6 +22896,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1910,
+    "server_id": 27,
+    "type": "house",
+    "name": "Mining [13]",
+    "owner": "Tommy_Bop",
+    "status": "Занято",
+    "x": 1763.12,
+    "y": 2871.09,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1911,
     "server_id": 27,
     "type": "house",
@@ -23127,7 +23115,7 @@
     "id": 1928,
     "server_id": 27,
     "type": "house",
-    "name": "Дом",
+    "name": "10 LVL BTC / 15",
     "owner": "Look_Moriarty",
     "status": "Занято",
     "x": 1754.54,
@@ -23139,7 +23127,7 @@
     "id": 1929,
     "server_id": 27,
     "type": "house",
-    "name": "Дом",
+    "name": "10 LVL BTC / 15",
     "owner": "Look_Moriarty",
     "status": "Занято",
     "x": 1778.56,
@@ -24456,15 +24444,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1910,
+    "id": 433,
     "server_id": 27,
     "type": "house",
-    "name": "Mining [13]",
-    "owner": "Tommy_Bop",
+    "name": "??Dolman??",
+    "owner": "naldon",
     "status": "Аукцион",
-    "x": 1763.12,
-    "y": 2871.09,
-    "price": 450000000,
+    "x": 2284.16,
+    "y": -1046.07,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1239,
+    "server_id": 27,
+    "type": "house",
+    "name": "Продам и без аукциона, звони",
+    "owner": "Scream_Zombie",
+    "status": "Аукцион",
+    "x": -2383.14,
+    "y": 1244.68,
+    "price": 555000000,
     "district": "Сан-Андреас"
   },
   {

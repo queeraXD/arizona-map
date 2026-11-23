@@ -5316,18 +5316,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 443,
-    "server_id": 20,
-    "type": "house",
-    "name": "Abramstone",
-    "owner": "Shadow_Mops",
-    "status": "Занято",
-    "x": 2370.23,
-    "y": -1034.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 444,
     "server_id": 20,
     "type": "house",
@@ -8688,18 +8676,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 725,
-    "server_id": 20,
-    "type": "house",
-    "name": "abramstone",
-    "owner": "Fogel_McLovin",
-    "status": "Занято",
-    "x": 1703.7,
-    "y": 2689.52,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 726,
     "server_id": 20,
     "type": "house",
@@ -9656,18 +9632,6 @@
     "status": "Занято",
     "x": -2725.64,
     "y": -92.5289,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 806,
-    "server_id": 20,
-    "type": "house",
-    "name": "evolution x 15",
-    "owner": "Shadow_Mops",
-    "status": "Занято",
-    "x": -2723.93,
-    "y": -105.541,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11196,18 +11160,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 936,
-    "server_id": 20,
-    "type": "house",
-    "name": "abramstone",
-    "owner": "Fogel_McLovin",
-    "status": "Занято",
-    "x": -2127.05,
-    "y": 773.752,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 937,
     "server_id": 20,
     "type": "house",
@@ -11432,6 +11384,18 @@
     "status": "Занято",
     "x": -2159.6,
     "y": 946.984,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 956,
+    "server_id": 20,
+    "type": "house",
+    "name": "Recorti Avenue",
+    "owner": "Iasha_Lavavich",
+    "status": "Занято",
+    "x": -2192.67,
+    "y": 934.1019,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12932,18 +12896,6 @@
     "status": "Занято",
     "x": -2853.21,
     "y": 947.4849,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1082,
-    "server_id": 20,
-    "type": "house",
-    "name": "abramstone",
-    "owner": "Fogel_McLovin",
-    "status": "Занято",
-    "x": -2860.63,
-    "y": 963.5679,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16671,7 +16623,7 @@
     "id": 1393,
     "server_id": 20,
     "type": "house",
-    "name": "Логово Шрека",
+    "name": "А шо я дом",
     "owner": "Vio_Lence",
     "status": "Занято",
     "x": 1105.59,
@@ -22260,6 +22212,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 443,
+    "server_id": 20,
+    "type": "house",
+    "name": "Abramstone",
+    "owner": "Shadow_Mops",
+    "status": "Аукцион",
+    "x": 2370.23,
+    "y": -1034.98,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 544,
     "server_id": 20,
     "type": "house",
@@ -22268,7 +22232,31 @@
     "status": "Аукцион",
     "x": 1921.69,
     "y": 2664.64,
-    "price": 900000000,
+    "price": 850000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 725,
+    "server_id": 20,
+    "type": "house",
+    "name": "abramstone",
+    "owner": "Fogel_McLovin",
+    "status": "Аукцион",
+    "x": 1703.7,
+    "y": 2689.52,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 806,
+    "server_id": 20,
+    "type": "house",
+    "name": "evolution x 15",
+    "owner": "Shadow_Mops",
+    "status": "Аукцион",
+    "x": -2723.93,
+    "y": -105.541,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22292,19 +22280,31 @@
     "status": "Аукцион",
     "x": -2158.05,
     "y": 1148.62,
-    "price": 600000000,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 956,
+    "id": 936,
     "server_id": 20,
     "type": "house",
-    "name": "Recorti Avenue",
-    "owner": "Iasha_Lavavich",
+    "name": "abramstone",
+    "owner": "Fogel_McLovin",
     "status": "Аукцион",
-    "x": -2192.67,
-    "y": 934.1019,
-    "price": 5000000000,
+    "x": -2127.05,
+    "y": 773.752,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1082,
+    "server_id": 20,
+    "type": "house",
+    "name": "abramstone",
+    "owner": "Fogel_McLovin",
+    "status": "Аукцион",
+    "x": -2860.63,
+    "y": 963.5679,
+    "price": 450000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22328,7 +22328,7 @@
     "status": "Аукцион",
     "x": 2468.31,
     "y": -1366.2,
-    "price": 620000000,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22340,7 +22340,7 @@
     "status": "Аукцион",
     "x": 1739.45,
     "y": 2792.26,
-    "price": 650000000,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22352,7 +22352,7 @@
     "status": "Аукцион",
     "x": 1786.74,
     "y": 2767.29,
-    "price": 650000000,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {

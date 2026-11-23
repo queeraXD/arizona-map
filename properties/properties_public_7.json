@@ -6268,7 +6268,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Дом",
-    "owner": "Vasyanich_Lydetto",
+    "owner": "Okinaga_Court",
     "status": "Занято",
     "x": 1645.49,
     "y": 2127.9,
@@ -10308,18 +10308,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 859,
-    "server_id": 7,
-    "type": "house",
-    "name": "База Бубы",
-    "owner": "Booba_Obema",
-    "status": "Занято",
-    "x": -2428.748,
-    "y": -1328.385,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 860,
     "server_id": 7,
     "type": "house",
@@ -14083,18 +14071,6 @@
     "owner": "Sergey_Xelsing",
     "status": "Занято",
     "x": -2524.37,
-    "y": -145.865,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1175,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом Vangera",
-    "owner": "Mother_Teresa",
-    "status": "Занято",
-    "x": -2541.62,
     "y": -145.865,
     "price": 0,
     "district": "Сан-Андреас"
@@ -20944,7 +20920,7 @@
     "server_id": 7,
     "type": "house",
     "name": "Чичинхаус",
-    "owner": "Goga_Virmuzoliu",
+    "owner": "Konstantin_Pinko",
     "status": "Занято",
     "x": 1422.25,
     "y": 2026.89,
@@ -21044,18 +21020,6 @@
     "status": "Занято",
     "x": 1453.73,
     "y": 2026.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1755,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alex_Kuzneatsov",
-    "status": "Занято",
-    "x": 1461.28,
-    "y": 2026.99,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -25536,6 +25500,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 859,
+    "server_id": 7,
+    "type": "house",
+    "name": "База Бубы",
+    "owner": "Booba_Obema",
+    "status": "Аукцион",
+    "x": -2428.748,
+    "y": -1328.385,
+    "price": 500000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 931,
     "server_id": 7,
     "type": "house",
@@ -25545,6 +25521,30 @@
     "x": -2282.16,
     "y": 1046.54,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1175,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом Vangera",
+    "owner": "Mother_Teresa",
+    "status": "Аукцион",
+    "x": -2541.62,
+    "y": -145.865,
+    "price": 4000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1755,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alex_Kuzneatsov",
+    "status": "Аукцион",
+    "x": 1461.28,
+    "y": 2026.99,
+    "price": 4500000000,
     "district": "Сан-Андреас"
   },
   {

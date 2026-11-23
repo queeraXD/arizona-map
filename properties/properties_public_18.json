@@ -2700,6 +2700,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 225,
+    "server_id": 18,
+    "type": "house",
+    "name": "tg @aspirine",
+    "owner": "Kevin_May",
+    "status": "Занято",
+    "x": 946.0869,
+    "y": -710.3339,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 226,
     "server_id": 18,
     "type": "house",
@@ -6816,18 +6828,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 569,
-    "server_id": 18,
-    "type": "house",
-    "name": "HOUSE UNCLE SNAKE/FORT",
-    "owner": "Snake_Attack",
-    "status": "Занято",
-    "x": 452.07,
-    "y": 1246.99,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 570,
     "server_id": 18,
     "type": "house",
@@ -8672,6 +8672,18 @@
     "status": "Занято",
     "x": 1652.34,
     "y": 2709.34,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 724,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Rostik_Rollsovskiy",
+    "status": "Занято",
+    "x": 1678.36,
+    "y": 2691.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11948,18 +11960,6 @@
     "status": "Занято",
     "x": -2373.18,
     "y": 851.663,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 999,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Andrei_Anisimov",
-    "status": "Занято",
-    "x": -2373.26,
-    "y": 872.018,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18012,18 +18012,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1504,
-    "server_id": 18,
-    "type": "house",
-    "name": "Набор Архитектора",
-    "owner": "Kekit_Kekitov",
-    "status": "Занято",
-    "x": 2608.15,
-    "y": -1233.48,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1505,
     "server_id": 18,
     "type": "house",
@@ -19892,18 +19880,6 @@
     "status": "Занято",
     "x": 1795.78,
     "y": 2800.82,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1661,
-    "server_id": 18,
-    "type": "house",
-    "name": "Дом Одержимости",
-    "owner": "Obsession_Samp",
-    "status": "Занято",
-    "x": 1793.62,
-    "y": 2792.24,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22188,27 +22164,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 225,
+    "id": 569,
     "server_id": 18,
     "type": "house",
-    "name": "tg @aspirine",
-    "owner": "Kevin_May",
+    "name": "HOUSE UNCLE SNAKE/FORT",
+    "owner": "Snake_Attack",
     "status": "Аукцион",
-    "x": 946.0869,
-    "y": -710.3339,
-    "price": 350000,
+    "x": 452.07,
+    "y": 1246.99,
+    "price": 3700000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 724,
+    "id": 999,
     "server_id": 18,
     "type": "house",
     "name": "Дом",
-    "owner": "Rostik_Rollsovskiy",
+    "owner": "Andrei_Anisimov",
     "status": "Аукцион",
-    "x": 1678.36,
-    "y": 2691.25,
-    "price": 4000000000,
+    "x": -2373.26,
+    "y": 872.018,
+    "price": 3100000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1504,
+    "server_id": 18,
+    "type": "house",
+    "name": "Набор Архитектора",
+    "owner": "Kekit_Kekitov",
+    "status": "Аукцион",
+    "x": 2608.15,
+    "y": -1233.48,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1661,
+    "server_id": 18,
+    "type": "house",
+    "name": "Дом Одержимости",
+    "owner": "Obsession_Samp",
+    "status": "Аукцион",
+    "x": 1793.62,
+    "y": 2792.24,
+    "price": 200000000,
     "district": "Сан-Андреас"
   },
   {
