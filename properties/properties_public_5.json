@@ -564,18 +564,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 47,
-    "server_id": 5,
-    "type": "house",
-    "name": "притон",
-    "owner": "Charles_Bronsson",
-    "status": "Занято",
-    "x": 2188.55,
-    "y": -1419.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 48,
     "server_id": 5,
     "type": "house",
@@ -7275,7 +7263,7 @@
     "id": 606,
     "server_id": 5,
     "type": "house",
-    "name": "silence sqd",
+    "name": "Host",
     "owner": "Diego_Host",
     "status": "Занято",
     "x": -1589.79,
@@ -11664,18 +11652,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 973,
-    "server_id": 5,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Alexei_Shish",
-    "status": "Занято",
-    "x": -2187.02,
-    "y": 796.244,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 974,
     "server_id": 5,
     "type": "house",
@@ -13164,18 +13140,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1098,
-    "server_id": 5,
-    "type": "house",
-    "name": "Кайф хата",
-    "owner": "Alberto_Ricci",
-    "status": "Занято",
-    "x": 1734.18,
-    "y": 2812.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1099,
     "server_id": 5,
     "type": "house",
@@ -13232,18 +13196,6 @@
     "status": "Занято",
     "x": 1752.45,
     "y": 2744.8,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1104,
-    "server_id": 5,
-    "type": "house",
-    "name": "Деп+ не продаю !",
-    "owner": "De_Jure",
-    "status": "Занято",
-    "x": 1748.57,
-    "y": 2758.48,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16143,8 +16095,8 @@
     "id": 1346,
     "server_id": 5,
     "type": "house",
-    "name": "Ruskovu",
-    "owner": "Jack_Varobey",
+    "name": "AURA",
+    "owner": "Vova_Moscow",
     "status": "Занято",
     "x": -2622.18,
     "y": -112.41,
@@ -16812,18 +16764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1402,
-    "server_id": 5,
-    "type": "house",
-    "name": "Деп+ не продаю !",
-    "owner": "Ayanokouji_Kiyotaka",
-    "status": "Занято",
-    "x": 2781.94,
-    "y": -1333.38,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1403,
     "server_id": 5,
     "type": "house",
@@ -17431,18 +17371,6 @@
     "owner": "Anthony_Tagashiva",
     "status": "Занято",
     "x": 2249.14,
-    "y": 960.53,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1454,
-    "server_id": 5,
-    "type": "house",
-    "name": "VOROVSKOY HOUSE",
-    "owner": "Sergio_Tohok",
-    "status": "Занято",
-    "x": 2259.14,
     "y": 960.53,
     "price": 0,
     "district": "Сан-Андреас"
@@ -19191,7 +19119,7 @@
     "id": 1600,
     "server_id": 5,
     "type": "house",
-    "name": "Home",
+    "name": "AURA",
     "owner": "Vova_Moscow",
     "status": "Занято",
     "x": -2238.31,
@@ -23820,18 +23748,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1986,
-    "server_id": 5,
-    "type": "house",
-    "name": "Домык",
-    "owner": "Dimka_Buryat",
-    "status": "Занято",
-    "x": 2659.14,
-    "y": 1978.84,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1987,
     "server_id": 5,
     "type": "house",
@@ -23943,8 +23859,8 @@
     "id": 1996,
     "server_id": 5,
     "type": "house",
-    "name": "boss",
-    "owner": "Angel_Wlaie",
+    "name": "farmila",
+    "owner": "Gennadiy_Dorofeev",
     "status": "Занято",
     "x": 2648.31,
     "y": 2029.24,
@@ -25104,15 +25020,99 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 47,
+    "server_id": 5,
+    "type": "house",
+    "name": "притон",
+    "owner": "Charles_Bronsson",
+    "status": "Аукцион",
+    "x": 2188.55,
+    "y": -1419.21,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 870,
     "server_id": 5,
     "type": "house",
-    "name": "Деп+ не продаю !",
-    "owner": "Nolan_Viltrum",
+    "name": "AURA",
+    "owner": "Vova_Moscow",
     "status": "Аукцион",
     "x": -339.7529,
     "y": 2553.55,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 973,
+    "server_id": 5,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Alexei_Shish",
+    "status": "Аукцион",
+    "x": -2187.02,
+    "y": 796.244,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1098,
+    "server_id": 5,
+    "type": "house",
+    "name": "Кайф хата",
+    "owner": "Alberto_Ricci",
+    "status": "Аукцион",
+    "x": 1734.18,
+    "y": 2812.16,
+    "price": 350000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1104,
+    "server_id": 5,
+    "type": "house",
+    "name": "Деп+ не продаю !",
+    "owner": "De_Jure",
+    "status": "Аукцион",
+    "x": 1748.57,
+    "y": 2758.48,
     "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1402,
+    "server_id": 5,
+    "type": "house",
+    "name": "Деп+ не продаю !",
+    "owner": "Ayanokouji_Kiyotaka",
+    "status": "Аукцион",
+    "x": 2781.94,
+    "y": -1333.38,
+    "price": 400000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1454,
+    "server_id": 5,
+    "type": "house",
+    "name": "VOROVSKOY HOUSE",
+    "owner": "Sergio_Tohok",
+    "status": "Аукцион",
+    "x": 2259.14,
+    "y": 960.53,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1986,
+    "server_id": 5,
+    "type": "house",
+    "name": "Домык",
+    "owner": "Dimka_Buryat",
+    "status": "Аукцион",
+    "x": 2659.14,
+    "y": 1978.84,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
