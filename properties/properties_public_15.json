@@ -6916,7 +6916,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Дом",
-    "owner": "Boba_McCloud",
+    "owner": "Angela_Rotmistrov",
     "status": "Занято",
     "x": -165.173,
     "y": 2768.39,
@@ -9831,7 +9831,7 @@
     "id": 819,
     "server_id": 15,
     "type": "house",
-    "name": "дэп условия ",
+    "name": "Ferma2/dep",
     "owner": "Angela_Rotmistrov",
     "status": "Занято",
     "x": -2691.32,
@@ -14484,18 +14484,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1208,
-    "server_id": 15,
-    "type": "house",
-    "name": "Tverskaya Monopoly",
-    "owner": "Alex_Mogged",
-    "status": "Занято",
-    "x": -2791.58,
-    "y": 92.1091,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1209,
     "server_id": 15,
     "type": "house",
@@ -14811,7 +14799,7 @@
     "id": 1235,
     "server_id": 15,
     "type": "house",
-    "name": "ReshalaHouse",
+    "name": "Ferma1",
     "owner": "Angela_Rotmistrov",
     "status": "Занято",
     "x": -2321.68,
@@ -15788,18 +15776,6 @@
     "status": "Занято",
     "x": 1105.59,
     "y": -1569.98,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1317,
-    "server_id": 15,
-    "type": "house",
-    "name": "Rakuzan",
-    "owner": "Cruel_Rakuzan",
-    "status": "Занято",
-    "x": 1105.59,
-    "y": -1562.68,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18972,6 +18948,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1582,
+    "server_id": 15,
+    "type": "house",
+    "name": "Резиновый домик ",
+    "owner": "Kuza_Zavik",
+    "status": "Занято",
+    "x": 2519.03,
+    "y": -1113.07,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1583,
     "server_id": 15,
     "type": "house",
@@ -21312,15 +21300,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1582,
+    "id": 1208,
     "server_id": 15,
     "type": "house",
-    "name": "Резиновый домик ",
-    "owner": "Zhuo_Fan",
+    "name": "Tverskaya Monopoly",
+    "owner": "Государство",
+    "status": "Свободно",
+    "x": -2791.58,
+    "y": 92.1091,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1317,
+    "server_id": 15,
+    "type": "house",
+    "name": "Rakuzan",
+    "owner": "Cruel_Rakuzan",
     "status": "Аукцион",
-    "x": 2519.03,
-    "y": -1113.07,
-    "price": 500000000,
+    "x": 1105.59,
+    "y": -1562.68,
+    "price": 250000,
     "district": "Сан-Андреас"
   },
   {

@@ -12792,18 +12792,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1067,
-    "server_id": 24,
-    "type": "house",
-    "name": "рулетки",
-    "owner": "Bomj_Krutoi",
-    "status": "Занято",
-    "x": 2247.5,
-    "y": -1470.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1068,
     "server_id": 24,
     "type": "house",
@@ -17260,7 +17248,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Taлант",
-    "owner": "Anti_Talant",
+    "owner": "Gospodin_Talant",
     "status": "Занято",
     "x": 1115.72,
     "y": -1570.0,
@@ -17300,18 +17288,6 @@
     "status": "Занято",
     "x": 1112.2,
     "y": -1575.21,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1443,
-    "server_id": 24,
-    "type": "house",
-    "name": "Winny",
-    "owner": "Winny_Wodson",
-    "status": "Занято",
-    "x": 1110.53,
-    "y": -1578.45,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -19827,7 +19803,7 @@
     "id": 1653,
     "server_id": 24,
     "type": "house",
-    "name": "Домик Deeplace ",
+    "name": "Ресурсы",
     "owner": "Mal_Scamer",
     "status": "Занято",
     "x": 2473.2,
@@ -21372,18 +21348,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1783,
-    "server_id": 24,
-    "type": "house",
-    "name": "шлюхавоз",
-    "owner": "Aynami_Ray",
-    "status": "Занято",
-    "x": -2223.86,
-    "y": 795.7059,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1784,
     "server_id": 24,
     "type": "house",
@@ -22044,15 +22008,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 37,
+    "id": 1067,
     "server_id": 24,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Rage_Senjougahara",
+    "type": "house",
+    "name": "рулетки",
+    "owner": "Bomj_Krutoi",
     "status": "Аукцион",
-    "x": 2105.21,
-    "y": -1806.49,
-    "price": 10000000000,
+    "x": 2247.5,
+    "y": -1470.24,
+    "price": 1000001,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1443,
+    "server_id": 24,
+    "type": "house",
+    "name": "Winny",
+    "owner": "Winny_Wodson",
+    "status": "Аукцион",
+    "x": 1110.53,
+    "y": -1578.45,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1783,
+    "server_id": 24,
+    "type": "house",
+    "name": "шлюхавоз",
+    "owner": "Aynami_Ray",
+    "status": "Аукцион",
+    "x": -2223.86,
+    "y": 795.7059,
+    "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23696,6 +23684,18 @@
     "status": "Занято",
     "x": 928.254,
     "y": -1352.9,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 37,
+    "server_id": 24,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Rage_Senjougahara",
+    "status": "Занято",
+    "x": 2105.21,
+    "y": -1806.49,
     "price": 0,
     "district": "Сан-Андреас"
   },
