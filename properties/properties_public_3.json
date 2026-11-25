@@ -10179,7 +10179,7 @@
     "id": 848,
     "server_id": 3,
     "type": "house",
-    "name": "Bad and Dab",
+    "name": ">Edward _Wellington_Home<",
     "owner": "Edward_Wellington",
     "status": "Занято",
     "x": -2018.11,
@@ -11636,6 +11636,18 @@
     "status": "Занято",
     "x": 2808.09,
     "y": -1190.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 971,
+    "server_id": 3,
+    "type": "house",
+    "name": "pes family",
+    "owner": "In_Jury",
+    "status": "Занято",
+    "x": 2847.0,
+    "y": -1309.76,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18576,18 +18588,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1550,
-    "server_id": 3,
-    "type": "house",
-    "name": "Borov :)",
-    "owner": "Sergei_Solodovv",
-    "status": "Занято",
-    "x": -2320.17,
-    "y": 580.036,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1551,
     "server_id": 3,
     "type": "house",
@@ -20012,18 +20012,6 @@
     "status": "Занято",
     "x": 2608.16,
     "y": -1233.58,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1670,
-    "server_id": 3,
-    "type": "house",
-    "name": "Домик Блека",
-    "owner": "Axel_Blade",
-    "status": "Занято",
-    "x": 2615.11,
-    "y": -1238.07,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24000,15 +23988,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 971,
+    "id": 1550,
     "server_id": 3,
     "type": "house",
-    "name": "pes family",
-    "owner": "In_Jury",
+    "name": "Borov :)",
+    "owner": "Sergei_Solodovv",
     "status": "Аукцион",
-    "x": 2847.0,
-    "y": -1309.76,
-    "price": 1500000000,
+    "x": -2320.17,
+    "y": 580.036,
+    "price": 600000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1670,
+    "server_id": 3,
+    "type": "house",
+    "name": "Домик Блека",
+    "owner": "Axel_Blade",
+    "status": "Аукцион",
+    "x": 2615.11,
+    "y": -1238.07,
+    "price": 500000000,
     "district": "Сан-Андреас"
   },
   {

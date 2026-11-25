@@ -16,7 +16,7 @@
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "Astro_Jack",
+    "owner": "Medya_Supra",
     "status": "Занято",
     "x": 1906.0,
     "y": -1113.0,
@@ -5808,6 +5808,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 484,
+    "server_id": 20,
+    "type": "house",
+    "name": "Хата Вагнера",
+    "owner": "Wagner_Blackfyre",
+    "status": "Занято",
+    "x": 2177.28,
+    "y": 690.3499,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 485,
     "server_id": 20,
     "type": "house",
@@ -9932,18 +9944,6 @@
     "status": "Занято",
     "x": -2720.98,
     "y": -23.3173,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 830,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Shadow_Mops",
-    "status": "Занято",
-    "x": -2723.16,
-    "y": -16.7231,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18852,18 +18852,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1573,
-    "server_id": 20,
-    "type": "house",
-    "name": "Sennheiser Corp.",
-    "owner": "Shadow_Mops",
-    "status": "Занято",
-    "x": 2437.04,
-    "y": 1241.1,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1574,
     "server_id": 20,
     "type": "house",
@@ -19424,18 +19412,6 @@
     "status": "Занято",
     "x": 2006.8,
     "y": 2168.81,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1621,
-    "server_id": 20,
-    "type": "house",
-    "name": "Деп условия",
-    "owner": "Shadow_Mops",
-    "status": "Занято",
-    "x": 2003.69,
-    "y": 2168.19,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20760,18 +20736,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1732,
-    "server_id": 20,
-    "type": "house",
-    "name": "retribution",
-    "owner": "Shadow_Mops",
-    "status": "Занято",
-    "x": 2468.31,
-    "y": -1366.2,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1733,
     "server_id": 20,
     "type": "house",
@@ -21092,18 +21056,6 @@
     "status": "Занято",
     "x": -768.6959,
     "y": 2765.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1760,
-    "server_id": 20,
-    "type": "house",
-    "name": "деп ус. подвал дс samuel_smile",
-    "owner": "Shadow_Mops",
-    "status": "Занято",
-    "x": 1739.45,
-    "y": 2792.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22332,18 +22284,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 484,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом Милона №1",
-    "owner": "Romantic_Dreams",
-    "status": "Аукцион",
-    "x": 2177.28,
-    "y": 690.3499,
-    "price": 100000000,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 514,
     "server_id": 20,
     "type": "house",
@@ -22352,7 +22292,67 @@
     "status": "Аукцион",
     "x": 1549.98,
     "y": 2096.4,
-    "price": 500123123,
+    "price": 10123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 830,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Shadow_Mops",
+    "status": "Аукцион",
+    "x": -2723.16,
+    "y": -16.7231,
+    "price": 800000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1573,
+    "server_id": 20,
+    "type": "house",
+    "name": "Sennheiser Corp.",
+    "owner": "Shadow_Mops",
+    "status": "Аукцион",
+    "x": 2437.04,
+    "y": 1241.1,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1621,
+    "server_id": 20,
+    "type": "house",
+    "name": "Деп условия",
+    "owner": "Shadow_Mops",
+    "status": "Аукцион",
+    "x": 2003.69,
+    "y": 2168.19,
+    "price": 650000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1732,
+    "server_id": 20,
+    "type": "house",
+    "name": "retribution",
+    "owner": "Shadow_Mops",
+    "status": "Аукцион",
+    "x": 2468.31,
+    "y": -1366.2,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1760,
+    "server_id": 20,
+    "type": "house",
+    "name": "деп ус. подвал дс samuel_smile",
+    "owner": "Shadow_Mops",
+    "status": "Аукцион",
+    "x": 1739.45,
+    "y": 2792.26,
+    "price": 600000000,
     "district": "Сан-Андреас"
   },
   {

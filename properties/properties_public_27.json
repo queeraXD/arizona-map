@@ -4908,6 +4908,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 409,
+    "server_id": 27,
+    "type": "house",
+    "name": "ЧЕМПИЁН",
+    "owner": "Obe_One",
+    "status": "Занято",
+    "x": 1409.34,
+    "y": 346.8649,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 410,
     "server_id": 27,
     "type": "house",
@@ -6704,18 +6716,6 @@
     "status": "Занято",
     "x": 238.8159,
     "y": 1026.24,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 560,
-    "server_id": 27,
-    "type": "house",
-    "name": "Я тут живу",
-    "owner": "Dimka_Buryat",
-    "status": "Занято",
-    "x": 227.699,
-    "y": 1070.82,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -8828,18 +8828,6 @@
     "status": "Занято",
     "x": -2899.14,
     "y": 1026.71,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 737,
-    "server_id": 27,
-    "type": "house",
-    "name": "Zombie house",
-    "owner": "Sharawar_BumBlebee",
-    "status": "Занято",
-    "x": -2881.09,
-    "y": 989.736,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -12468,18 +12456,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1040,
-    "server_id": 27,
-    "type": "house",
-    "name": "Kinder House",
-    "owner": "Arlekin_Apostol",
-    "status": "Занято",
-    "x": -1727.98,
-    "y": 1138.91,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1041,
     "server_id": 27,
     "type": "house",
@@ -12664,7 +12640,7 @@
     "server_id": 27,
     "type": "house",
     "name": "Майнинг 10 фулл",
-    "owner": "Never_Uaut",
+    "owner": "Kiri_Vagon",
     "status": "Занято",
     "x": -1927.71,
     "y": 1252.78,
@@ -23680,7 +23656,7 @@
     "server_id": 27,
     "type": "house",
     "name": "TG @XINAVIX",
-    "owner": "Ragnar_Deimos",
+    "owner": "Kiri_Vagon",
     "status": "Занято",
     "x": 1849.47,
     "y": -2010.06,
@@ -24432,15 +24408,39 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 409,
+    "id": 560,
     "server_id": 27,
     "type": "house",
-    "name": "ЧЕМПИЁН",
-    "owner": "Obe_One",
+    "name": "Я тут живу",
+    "owner": "Dimka_Buryat",
     "status": "Аукцион",
-    "x": 1409.34,
-    "y": 346.8649,
-    "price": 450000000,
+    "x": 227.699,
+    "y": 1070.82,
+    "price": 300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 737,
+    "server_id": 27,
+    "type": "house",
+    "name": "Zombie house",
+    "owner": "Sharawar_BumBlebee",
+    "status": "Аукцион",
+    "x": -2881.09,
+    "y": 989.736,
+    "price": 350123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1040,
+    "server_id": 27,
+    "type": "house",
+    "name": "Kinder House",
+    "owner": "Arlekin_Apostol",
+    "status": "Аукцион",
+    "x": -1727.98,
+    "y": 1138.91,
+    "price": 100123123,
     "district": "Сан-Андреас"
   },
   {
@@ -24464,7 +24464,7 @@
     "status": "Аукцион",
     "x": 1763.12,
     "y": 2871.09,
-    "price": 400000000,
+    "price": 300000000,
     "district": "Сан-Андреас"
   },
   {
@@ -26080,7 +26080,7 @@
     "server_id": 27,
     "type": "business",
     "name": "Закусочная",
-    "owner": "Don_Tach",
+    "owner": "Sage_Company",
     "status": "Занято",
     "x": 810.979,
     "y": -1616.12,

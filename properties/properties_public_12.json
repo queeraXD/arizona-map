@@ -1152,18 +1152,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 96,
-    "server_id": 12,
-    "type": "house",
-    "name": "sell 2kkk dc - godbles3",
-    "owner": "Intoxicate_Wayne",
-    "status": "Занято",
-    "x": 2673.33,
-    "y": -2020.14,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 97,
     "server_id": 12,
     "type": "house",
@@ -8868,6 +8856,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 739,
+    "server_id": 12,
+    "type": "house",
+    "name": "MONOPOLY Бобра",
+    "owner": "Fresko_Siemens",
+    "status": "Занято",
+    "x": -2845.31,
+    "y": 928.414,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 740,
     "server_id": 12,
     "type": "house",
@@ -9228,18 +9228,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 770,
-    "server_id": 12,
-    "type": "house",
-    "name": "sf+",
-    "owner": "Afrikanec_Kesha",
-    "status": "Занято",
-    "x": -2594.19,
-    "y": 785.1649,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 771,
     "server_id": 12,
     "type": "house",
@@ -9392,6 +9380,18 @@
     "status": "Занято",
     "x": -2513.51,
     "y": 830.83,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 784,
+    "server_id": 12,
+    "type": "house",
+    "name": "TRAP TRAP",
+    "owner": "Savage_WhyNot",
+    "status": "Занято",
+    "x": -2513.5,
+    "y": 849.1569,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20796,6 +20796,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1736,
+    "server_id": 12,
+    "type": "house",
+    "name": "Takahiro House",
+    "owner": "Mateo_Prince",
+    "status": "Занято",
+    "x": -2238.31,
+    "y": 1117.49,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1737,
     "server_id": 12,
     "type": "house",
@@ -23772,27 +23784,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 739,
+    "id": 96,
     "server_id": 12,
     "type": "house",
-    "name": "HOUSE CERBERUS J.S",
-    "owner": "Danka_WhyNot",
+    "name": "sell 2kkk dc - godbles3",
+    "owner": "Intoxicate_Wayne",
     "status": "Аукцион",
-    "x": -2845.31,
-    "y": 928.414,
-    "price": 80123123,
+    "x": 2673.33,
+    "y": -2020.14,
+    "price": 1800000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 784,
+    "id": 770,
     "server_id": 12,
     "type": "house",
-    "name": "TRAP TRAP",
-    "owner": "Savage_WhyNot",
+    "name": "sf+",
+    "owner": "Afrikanec_Kesha",
     "status": "Аукцион",
-    "x": -2513.5,
-    "y": 849.1569,
-    "price": 50123123,
+    "x": -2594.19,
+    "y": 785.1649,
+    "price": 5000000,
     "district": "Сан-Андреас"
   },
   {
@@ -23804,19 +23816,103 @@
     "status": "Аукцион",
     "x": -827.492,
     "y": 2765.2,
-    "price": 70123123,
+    "price": 10123123,
     "district": "Сан-Андреас"
   },
   {
-    "id": 1736,
+    "id": 57,
     "server_id": 12,
-    "type": "house",
-    "name": "Takahiro House",
-    "owner": "Slantik_Vendetta",
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Serchig_Twelves",
     "status": "Аукцион",
-    "x": -2238.31,
-    "y": 1117.49,
-    "price": 70123123,
+    "x": 2085.84,
+    "y": 2486.25,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 109,
+    "server_id": 12,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Serchig_Twelves",
+    "status": "Аукцион",
+    "x": -2356.45,
+    "y": 1008.19,
+    "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 190,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Serchig_Twelves",
+    "status": "Аукцион",
+    "x": 1123.41,
+    "y": -1466.6,
+    "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 191,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Serchig_Twelves",
+    "status": "Аукцион",
+    "x": 1143.17,
+    "y": -1473.83,
+    "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 192,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Serchig_Twelves",
+    "status": "Аукцион",
+    "x": 1136.97,
+    "y": -1456.62,
+    "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 193,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Artyomich_Perez",
+    "status": "Аукцион",
+    "x": 2405.02,
+    "y": -1933.97,
+    "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 200,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Artyomich_Perez",
+    "status": "Аукцион",
+    "x": -1983.44,
+    "y": 127.66,
+    "price": 9000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 267,
+    "server_id": 12,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Artyomich_Perez",
+    "status": "Аукцион",
+    "x": 1460.33,
+    "y": 2784.8,
+    "price": 9000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25644,18 +25740,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 109,
-    "server_id": 12,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Serchig_Twelves",
-    "status": "Занято",
-    "x": -2356.45,
-    "y": 1008.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 110,
     "server_id": 12,
     "type": "business",
@@ -26036,18 +26120,6 @@
     "status": "Занято",
     "x": 1671.52,
     "y": 1814.33,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 57,
-    "server_id": 12,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Serchig_Twelves",
-    "status": "Занято",
-    "x": 2085.84,
-    "y": 2486.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -26736,54 +26808,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 190,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Serchig_Twelves",
-    "status": "Занято",
-    "x": 1123.41,
-    "y": -1466.6,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 191,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Serchig_Twelves",
-    "status": "Занято",
-    "x": 1143.17,
-    "y": -1473.83,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 192,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Serchig_Twelves",
-    "status": "Занято",
-    "x": 1136.97,
-    "y": -1456.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 193,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Artyomich_Perez",
-    "status": "Занято",
-    "x": 2405.02,
-    "y": -1933.97,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 194,
     "server_id": 12,
     "type": "business",
@@ -26852,18 +26876,6 @@
     "status": "Занято",
     "x": 1771.74,
     "y": -1903.27,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 200,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Artyomich_Perez",
-    "status": "Занято",
-    "x": -1983.44,
-    "y": 127.66,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -27032,18 +27044,6 @@
     "status": "Занято",
     "x": 947.921,
     "y": 1719.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 267,
-    "server_id": 12,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Artyomich_Perez",
-    "status": "Занято",
-    "x": 1460.33,
-    "y": 2784.8,
     "price": 0,
     "district": "Сан-Андреас"
   },

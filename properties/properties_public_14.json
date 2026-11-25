@@ -4596,18 +4596,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 383,
-    "server_id": 14,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Frank_Werner",
-    "status": "Занято",
-    "x": 2324.66,
-    "y": 162.2019,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 384,
     "server_id": 14,
     "type": "house",
@@ -6776,6 +6764,18 @@
     "status": "Занято",
     "x": 258.3089,
     "y": 1151.77,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 565,
+    "server_id": 14,
+    "type": "house",
+    "name": "|| Wendy House №8 ||",
+    "owner": "Winslow_Kryakovich",
+    "status": "Занято",
+    "x": 618.3339,
+    "y": 1168.83,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9732,18 +9732,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 812,
-    "server_id": 14,
-    "type": "house",
-    "name": "fedor krytoy",
-    "owner": "Scrudge_King",
-    "status": "Занято",
-    "x": -2723.62,
-    "y": -162.701,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 813,
     "server_id": 14,
     "type": "house",
@@ -11372,18 +11360,6 @@
     "status": "Занято",
     "x": -2239.31,
     "y": 962.374,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 949,
-    "server_id": 14,
-    "type": "house",
-    "name": "PepsiKola",
-    "owner": "Kirill_Shishkov",
-    "status": "Занято",
-    "x": -2239.09,
-    "y": 980.309,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18136,7 +18112,7 @@
     "server_id": 14,
     "type": "house",
     "name": "Дом",
-    "owner": "Vladimir_Calder",
+    "owner": "Aim_God",
     "status": "Занято",
     "x": -2786.76,
     "y": -118.1849,
@@ -18448,7 +18424,7 @@
     "server_id": 14,
     "type": "house",
     "name": "rajmonda_Nakamuruu",
-    "owner": "Rajmond_Nakamura",
+    "owner": "Postavshik_Bananov",
     "status": "Занято",
     "x": 2660.08,
     "y": 719.559,
@@ -20812,7 +20788,7 @@
     "server_id": 14,
     "type": "house",
     "name": "paxanskya xata",
-    "owner": "Kaya_Morris",
+    "owner": "Osizo_Rizvano",
     "status": "Занято",
     "x": 2601.05,
     "y": -1200.05,
@@ -23676,14 +23652,38 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 565,
+    "id": 383,
     "server_id": 14,
     "type": "house",
-    "name": "|| Wendy House №8 ||",
-    "owner": "Winslow_Kryakovich",
+    "name": "Дом",
+    "owner": "Frank_Werner",
     "status": "Аукцион",
-    "x": 618.3339,
-    "y": 1168.83,
+    "x": 2324.66,
+    "y": 162.2019,
+    "price": 1700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 812,
+    "server_id": 14,
+    "type": "house",
+    "name": "fedor krytoy",
+    "owner": "Scrudge_King",
+    "status": "Аукцион",
+    "x": -2723.62,
+    "y": -162.701,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 949,
+    "server_id": 14,
+    "type": "house",
+    "name": "PepsiKola",
+    "owner": "Kirill_Shishkov",
+    "status": "Аукцион",
+    "x": -2239.09,
+    "y": 980.309,
     "price": 700000000,
     "district": "Сан-Андреас"
   },
