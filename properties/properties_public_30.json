@@ -5703,8 +5703,8 @@
     "id": 475,
     "server_id": 30,
     "type": "house",
-    "name": "пинкхаус",
-    "owner": "James_Joyce",
+    "name": "House McWoozie (майнинг)",
+    "owner": "Patrick_McWoozie",
     "status": "Занято",
     "x": 2346.59,
     "y": 736.0939,
@@ -11232,18 +11232,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 936,
-    "server_id": 30,
-    "type": "house",
-    "name": "22 регион братья кайфуем",
-    "owner": "Kastro_Asd",
-    "status": "Занято",
-    "x": -2127.05,
-    "y": 773.752,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 937,
     "server_id": 30,
     "type": "house",
@@ -11336,6 +11324,18 @@
     "status": "Занято",
     "x": -2295.25,
     "y": 969.6619,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 945,
+    "server_id": 30,
+    "type": "house",
+    "name": "the world is yours // FOR SALE",
+    "owner": "Al_Pacino",
+    "status": "Занято",
+    "x": -2281.96,
+    "y": 979.2269,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11788,7 +11788,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Дом",
-    "owner": "Sambu_Cuper",
+    "owner": "GothBoi_Clique",
     "status": "Занято",
     "x": -251.3049,
     "y": 1049.71,
@@ -11800,7 +11800,7 @@
     "server_id": 30,
     "type": "house",
     "name": "Дом",
-    "owner": "Artem_Suchkin",
+    "owner": "GothBoi_Clique",
     "status": "Занято",
     "x": -258.97,
     "y": 1083.44,
@@ -15480,18 +15480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1291,
-    "server_id": 30,
-    "type": "house",
-    "name": "Baroni House",
-    "owner": "Gangsta_Babe",
-    "status": "Занято",
-    "x": -2590.53,
-    "y": -95.5792,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1292,
     "server_id": 30,
     "type": "house",
@@ -16132,7 +16120,7 @@
     "server_id": 30,
     "type": "house",
     "name": "WallterHome",
-    "owner": "Aleksej_Lova",
+    "owner": "Destroy_Kingman",
     "status": "Занято",
     "x": 1551.52,
     "y": 2567.55,
@@ -19407,8 +19395,8 @@
     "id": 1620,
     "server_id": 30,
     "type": "house",
-    "name": "Старый хам",
-    "owner": "Ham_Staryi",
+    "name": "10lvl + архитектор",
+    "owner": "Sterling_Blackwood",
     "status": "Занято",
     "x": -1852.44,
     "y": 1162.21,
@@ -19532,18 +19520,6 @@
     "status": "Занято",
     "x": 2652.45,
     "y": 713.3729,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1634,
-    "server_id": 30,
-    "type": "house",
-    "name": "майнгнг 4",
-    "owner": "Maks_Psih",
-    "status": "Занято",
-    "x": 2660.08,
-    "y": 713.203,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21504,18 +21480,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1804,
-    "server_id": 30,
-    "type": "house",
-    "name": "0rt3g4",
-    "owner": "Oggy_Kukarahi",
-    "status": "Занято",
-    "x": 2629.87,
-    "y": 2185.54,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1805,
     "server_id": 30,
     "type": "house",
@@ -22740,15 +22704,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 945,
+    "id": 936,
     "server_id": 30,
     "type": "house",
-    "name": "the world is yours // FOR SALE",
-    "owner": "Al_Pacino",
+    "name": "22 регион братья кайфуем",
+    "owner": "Kastro_Asd",
     "status": "Аукцион",
-    "x": -2281.96,
-    "y": 979.2269,
-    "price": 1150000000,
+    "x": -2127.05,
+    "y": 773.752,
+    "price": 850123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1291,
+    "server_id": 30,
+    "type": "house",
+    "name": "улуч шкаф + гардеробная",
+    "owner": "Gangsta_Babe",
+    "status": "Аукцион",
+    "x": -2590.53,
+    "y": -95.5792,
+    "price": 1500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -22760,7 +22736,31 @@
     "status": "Аукцион",
     "x": -76.1399,
     "y": -1581.11,
-    "price": 1360000000,
+    "price": 1300000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1634,
+    "server_id": 30,
+    "type": "house",
+    "name": "майнгнг 4",
+    "owner": "Maks_Psih",
+    "status": "Аукцион",
+    "x": 2660.08,
+    "y": 713.203,
+    "price": 1000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1804,
+    "server_id": 30,
+    "type": "house",
+    "name": "0rt3g4",
+    "owner": "Oggy_Kukarahi",
+    "status": "Аукцион",
+    "x": 2629.87,
+    "y": 2185.54,
+    "price": 800000000,
     "district": "Сан-Андреас"
   },
   {

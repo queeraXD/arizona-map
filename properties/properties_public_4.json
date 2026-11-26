@@ -3120,18 +3120,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 260,
-    "server_id": 4,
-    "type": "house",
-    "name": "Cutler",
-    "owner": "James_Cutler",
-    "status": "Занято",
-    "x": 2374.05,
-    "y": 42.1341,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 261,
     "server_id": 4,
     "type": "house",
@@ -5331,7 +5319,7 @@
     "id": 444,
     "server_id": 4,
     "type": "house",
-    "name": "Дом",
+    "name": "Darkside Empire",
     "owner": "Piter_Darkside",
     "status": "Занято",
     "x": 2355.7,
@@ -13863,7 +13851,7 @@
     "id": 1156,
     "server_id": 4,
     "type": "house",
-    "name": "HOME DARKSIDE",
+    "name": "Darkside Empire",
     "owner": "Piter_Darkside",
     "status": "Занято",
     "x": -2791.8,
@@ -16131,7 +16119,7 @@
     "id": 1345,
     "server_id": 4,
     "type": "house",
-    "name": "Darkside Home",
+    "name": "Darkside Empire",
     "owner": "Piter_Darkside",
     "status": "Занято",
     "x": 2540.06,
@@ -20667,8 +20655,8 @@
     "id": 1724,
     "server_id": 4,
     "type": "house",
-    "name": "Дом №3",
-    "owner": "Medical_Girl",
+    "name": "Darkside Empire",
+    "owner": "Piter_Darkside",
     "status": "Занято",
     "x": 2278.77,
     "y": -1077.43,
@@ -25248,6 +25236,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 260,
+    "server_id": 4,
+    "type": "house",
+    "name": "Cutler",
+    "owner": "James_Cutler",
+    "status": "Аукцион",
+    "x": 2374.05,
+    "y": 42.1341,
+    "price": 150000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1541,
     "server_id": 4,
     "type": "house",
@@ -25257,6 +25257,18 @@
     "x": 2750.39,
     "y": -1238.74,
     "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
+    "server_id": 4,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ramil_Orlov",
+    "status": "Аукцион",
+    "x": 2085.84,
+    "y": 2486.25,
+    "price": 10000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27480,18 +27492,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 57,
-    "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ramil_Orlov",
-    "status": "Занято",
-    "x": 2085.84,
-    "y": 2486.25,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 58,
     "server_id": 4,
     "type": "business",
@@ -29284,7 +29284,7 @@
     "server_id": 4,
     "type": "business",
     "name": "Нефтевышка",
-    "owner": "[32]Nekich_Bossov",
+    "owner": "[29]Leonid_Odessit",
     "status": "Занято",
     "x": 353.425,
     "y": 1314.14,
