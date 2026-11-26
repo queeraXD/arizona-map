@@ -17343,8 +17343,8 @@
     "id": 1446,
     "server_id": 22,
     "type": "house",
-    "name": "Russian Mafia",
-    "owner": "_Nikolay_Naumov_",
+    "name": "Grove Street",
+    "owner": "Rick_Ross",
     "status": "Занято",
     "x": 885.4719,
     "y": 1895.58,
@@ -18776,18 +18776,6 @@
     "status": "Занято",
     "x": 1548.59,
     "y": 1996.35,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1566,
-    "server_id": 22,
-    "type": "house",
-    "name": "Эта мой доме",
-    "owner": "Arsen_Pfanera",
-    "status": "Занято",
-    "x": 1548.64,
-    "y": 2003.91,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22040,7 +22028,31 @@
     "status": "Аукцион",
     "x": -2158.94,
     "y": 769.9379,
-    "price": 1000000000,
+    "price": 1000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1566,
+    "server_id": 22,
+    "type": "house",
+    "name": "Эта мой доме",
+    "owner": "Arsen_Pfanera",
+    "status": "Аукцион",
+    "x": 1548.64,
+    "y": 2003.91,
+    "price": 300123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 271,
+    "server_id": 22,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Alex_Himars",
+    "status": "Аукцион",
+    "x": -1912.17,
+    "y": 827.954,
+    "price": 95000,
     "district": "Сан-Андреас"
   },
   {
@@ -24068,18 +24080,6 @@
     "status": "Занято",
     "x": -53.8409,
     "y": 1189.04,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 271,
-    "server_id": 22,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Alex_Himars",
-    "status": "Занято",
-    "x": -1912.17,
-    "y": 827.954,
     "price": 0,
     "district": "Сан-Андреас"
   },
