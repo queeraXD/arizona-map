@@ -1059,8 +1059,8 @@
     "id": 88,
     "server_id": 24,
     "type": "house",
-    "name": "Дом",
-    "owner": "Artyr_Sever",
+    "name": "station.",
+    "owner": "Xannax_Xannax",
     "status": "Занято",
     "x": 2014.91,
     "y": -1732.61,
@@ -1071,8 +1071,8 @@
     "id": 89,
     "server_id": 24,
     "type": "house",
-    "name": "Дом",
-    "owner": "Artyr_Sever",
+    "name": "station.",
+    "owner": "Xannax_Xannax",
     "status": "Занято",
     "x": 2016.2,
     "y": -1717.04,
@@ -1083,8 +1083,8 @@
     "id": 90,
     "server_id": 24,
     "type": "house",
-    "name": "Дом",
-    "owner": "Artyr_Sever",
+    "name": "station.",
+    "owner": "Xannax_Xannax",
     "status": "Занято",
     "x": 2017.75,
     "y": -1703.38,
@@ -4076,6 +4076,18 @@
     "status": "Занято",
     "x": -2402.42,
     "y": 869.166,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 340,
+    "server_id": 24,
+    "type": "house",
+    "name": "НовоАстраханский движ",
+    "owner": "Night_Sosiska",
+    "status": "Занято",
+    "x": 747.122,
+    "y": 278.2139,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11160,6 +11172,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 933,
+    "server_id": 24,
+    "type": "house",
+    "name": "шкаф просперо",
+    "owner": "Grek_Forward",
+    "status": "Занято",
+    "x": -2094.28,
+    "y": 745.752,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 934,
     "server_id": 24,
     "type": "house",
@@ -11788,7 +11812,7 @@
     "server_id": 24,
     "type": "house",
     "name": "Family Haunted",
-    "owner": "Bur_Lun",
+    "owner": "Akashi_Haunted",
     "status": "Занято",
     "x": 2488.55,
     "y": 11.4727,
@@ -20548,7 +20572,7 @@
     "server_id": 24,
     "type": "house",
     "name": "250кк",
-    "owner": "Apogee_Stark",
+    "owner": "Muctep_Minepoc",
     "status": "Занято",
     "x": 1796.57,
     "y": 2803.6,
@@ -20932,7 +20956,7 @@
     "server_id": 24,
     "type": "house",
     "name": "8 lvl SF ",
-    "owner": "Kyle_Kess",
+    "owner": "Kevin_Day",
     "status": "Занято",
     "x": -1970.38,
     "y": 1222.44,
@@ -21996,18 +22020,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 340,
-    "server_id": 24,
-    "type": "house",
-    "name": "НовоАстраханский движ",
-    "owner": "Night_Sosiska",
-    "status": "Аукцион",
-    "x": 747.122,
-    "y": 278.2139,
-    "price": 150123123,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 387,
     "server_id": 24,
     "type": "house",
@@ -22020,18 +22032,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 933,
-    "server_id": 24,
-    "type": "house",
-    "name": "шкаф просперо",
-    "owner": "Yoshida_Bloods",
-    "status": "Аукцион",
-    "x": -2094.28,
-    "y": 745.752,
-    "price": 222222222,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1316,
     "server_id": 24,
     "type": "house",
@@ -22041,18 +22041,6 @@
     "x": -55.9155,
     "y": -1555.73,
     "price": 10000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 118,
-    "server_id": 24,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Dimka_Buryat",
-    "status": "Аукцион",
-    "x": -2093.7,
-    "y": -2464.91,
-    "price": 419167,
     "district": "Сан-Андреас"
   },
   {
@@ -22172,6 +22160,18 @@
     "status": "Занято",
     "x": -2051.91,
     "y": 553.746,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 118,
+    "server_id": 24,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Dimka_Buryat",
+    "status": "Занято",
+    "x": -2093.7,
+    "y": -2464.91,
     "price": 0,
     "district": "Сан-Андреас"
   },

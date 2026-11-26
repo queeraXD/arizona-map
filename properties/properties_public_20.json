@@ -6264,18 +6264,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 522,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом",
-    "owner": "crimsonpact",
-    "status": "Занято",
-    "x": 1645.49,
-    "y": 2127.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 523,
     "server_id": 20,
     "type": "house",
@@ -6572,6 +6560,18 @@
     "status": "Занято",
     "x": 12.7711,
     "y": 1113.43,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 548,
+    "server_id": 20,
+    "type": "house",
+    "name": "ceo mops",
+    "owner": "Misha_Mops",
+    "status": "Занято",
+    "x": 570.7319,
+    "y": 1174.37,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9664,7 +9664,7 @@
     "server_id": 20,
     "type": "house",
     "name": "evolution x 15",
-    "owner": "Monster_High",
+    "owner": "End_Recorti",
     "status": "Занято",
     "x": -2723.93,
     "y": -105.541,
@@ -11460,6 +11460,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 956,
+    "server_id": 20,
+    "type": "house",
+    "name": "Recorti Avenue",
+    "owner": "End_Recorti",
+    "status": "Занято",
+    "x": -2192.67,
+    "y": 934.1019,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 957,
     "server_id": 20,
     "type": "house",
@@ -11960,6 +11972,18 @@
     "status": "Занято",
     "x": -2373.18,
     "y": 851.663,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 999,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом 999",
+    "owner": "Azamat_Blonde",
+    "status": "Занято",
+    "x": -2373.26,
+    "y": 872.018,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -14228,6 +14252,18 @@
     "status": "Занято",
     "x": -2789.17,
     "y": -52.6333,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1189,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом 1189",
+    "owner": "Black_Contract",
+    "status": "Занято",
+    "x": -2791.85,
+    "y": -41.8134,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20104,7 +20140,7 @@
     "server_id": 20,
     "type": "house",
     "name": "логово лспд",
-    "owner": "Pasquale_Moreau",
+    "owner": "3g0th2002",
     "status": "Занято",
     "x": 1731.1,
     "y": 2823.49,
@@ -20204,6 +20240,18 @@
     "status": "Занято",
     "x": 2621.06,
     "y": 719.53,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1688,
+    "server_id": 20,
+    "type": "house",
+    "name": "Дом",
+    "owner": "End_Recorti",
+    "status": "Занято",
+    "x": 2613.5,
+    "y": 719.559,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22296,75 +22344,15 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 548,
-    "server_id": 20,
-    "type": "house",
-    "name": "548 дом с охл",
-    "owner": "Azamat_Blonde",
-    "status": "Аукцион",
-    "x": 570.7319,
-    "y": 1174.37,
-    "price": 555000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 956,
-    "server_id": 20,
-    "type": "house",
-    "name": "Recorti Avenue",
-    "owner": "End_Recorti",
-    "status": "Аукцион",
-    "x": -2192.67,
-    "y": 934.1019,
-    "price": 600000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 999,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом 999",
-    "owner": "Azamat_Blonde",
-    "status": "Аукцион",
-    "x": -2373.26,
-    "y": 872.018,
-    "price": 555000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1189,
-    "server_id": 20,
-    "type": "house",
-    "name": "Дом 1189",
-    "owner": "Azamat_Blonde",
-    "status": "Аукцион",
-    "x": -2791.85,
-    "y": -41.8134,
-    "price": 555000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1688,
+    "id": 522,
     "server_id": 20,
     "type": "house",
     "name": "Дом",
-    "owner": "End_Recorti",
+    "owner": "crimsonpact",
     "status": "Аукцион",
-    "x": 2613.5,
-    "y": 719.559,
-    "price": 600000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 182,
-    "server_id": 20,
-    "type": "business",
-    "name": "Ларек с уличной едой",
-    "owner": "Apolon_Lorenso",
-    "status": "Аукцион",
-    "x": 1104.78,
-    "y": 1380.93,
-    "price": 10000000000,
+    "x": 1645.49,
+    "y": 2127.9,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25196,6 +25184,18 @@
     "status": "Занято",
     "x": 2029.71,
     "y": 986.64,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 182,
+    "server_id": 20,
+    "type": "business",
+    "name": "Ларек с уличной едой",
+    "owner": "Apolon_Lorenso",
+    "status": "Занято",
+    "x": 1104.78,
+    "y": 1380.93,
     "price": 0,
     "district": "Сан-Андреас"
   },
