@@ -1668,18 +1668,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 140,
-    "server_id": 7,
-    "type": "house",
-    "name": "Обитель Зла ",
-    "owner": "Takeru_Rize",
-    "status": "Занято",
-    "x": 1674.01,
-    "y": -2122.19,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 141,
     "server_id": 7,
     "type": "house",
@@ -6204,18 +6192,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 522,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Okinaga_Court",
-    "status": "Занято",
-    "x": 1645.49,
-    "y": 2127.9,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 523,
     "server_id": 7,
     "type": "house",
@@ -7736,18 +7712,6 @@
     "status": "Занято",
     "x": 2450.27,
     "y": 662.578,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 650,
-    "server_id": 7,
-    "type": "house",
-    "name": "Самый крутой дом",
-    "owner": "Disappointed_Pxraly",
-    "status": "Занято",
-    "x": 2532.3,
-    "y": 742.5419,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -9716,18 +9680,6 @@
     "status": "Занято",
     "x": -2724.34,
     "y": -191.276,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 816,
-    "server_id": 7,
-    "type": "house",
-    "name": "Spataphore Crew",
-    "owner": "Artem_Negev",
-    "status": "Занято",
-    "x": -2688.33,
-    "y": -175.0939,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -20832,6 +20784,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1746,
+    "server_id": 7,
+    "type": "house",
+    "name": "Чичинхаус",
+    "owner": "Konstantin_Pinko",
+    "status": "Занято",
+    "x": 1422.25,
+    "y": 2026.89,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1747,
     "server_id": 7,
     "type": "house",
@@ -20931,7 +20895,7 @@
     "id": 1755,
     "server_id": 7,
     "type": "house",
-    "name": "Дом",
+    "name": "Дом в лв",
     "owner": "Evgen_Chelak",
     "status": "Занято",
     "x": 1461.28,
@@ -22800,18 +22764,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1911,
-    "server_id": 7,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Ashley_Wood",
-    "status": "Занято",
-    "x": -230.8439,
-    "y": 884.192,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1912,
     "server_id": 7,
     "type": "house",
@@ -24660,18 +24612,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 2067,
-    "server_id": 7,
-    "type": "house",
-    "name": "Slivkin Farmilkin",
-    "owner": "Pashtet_Malboro",
-    "status": "Занято",
-    "x": -789.7039,
-    "y": 2765.26,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 2068,
     "server_id": 7,
     "type": "house",
@@ -25428,6 +25368,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 140,
+    "server_id": 7,
+    "type": "house",
+    "name": "Обитель Зла ",
+    "owner": "Takeru_Rize",
+    "status": "Аукцион",
+    "x": 1674.01,
+    "y": -2122.19,
+    "price": 2000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 338,
     "server_id": 7,
     "type": "house",
@@ -25476,6 +25428,30 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 522,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": 1645.49,
+    "y": 2127.9,
+    "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 650,
+    "server_id": 7,
+    "type": "house",
+    "name": "Самый крутой дом",
+    "owner": "Disappointed_Pxraly",
+    "status": "Аукцион",
+    "x": 2532.3,
+    "y": 742.5419,
+    "price": 3000000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 721,
     "server_id": 7,
     "type": "house",
@@ -25485,6 +25461,18 @@
     "x": 2196.97,
     "y": 1667.79,
     "price": 10000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 816,
+    "server_id": 7,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Artem_Negev",
+    "status": "Аукцион",
+    "x": -2688.33,
+    "y": -175.0939,
+    "price": 4000000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25536,27 +25524,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1746,
+    "id": 1911,
     "server_id": 7,
     "type": "house",
-    "name": "Чичинхаус",
-    "owner": "Konstantin_Pinko",
+    "name": "Дом",
+    "owner": "Ashley_Wood",
     "status": "Аукцион",
-    "x": 1422.25,
-    "y": 2026.89,
+    "x": -230.8439,
+    "y": 884.192,
     "price": 3000000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 67,
+    "id": 2067,
     "server_id": 7,
-    "type": "business",
-    "name": "Амуниция/Тир",
-    "owner": "Shadow_Dredd",
+    "type": "house",
+    "name": "666",
+    "owner": "Pashtet_Malboro",
     "status": "Аукцион",
-    "x": -316.162,
-    "y": 829.757,
-    "price": 2000000,
+    "x": -789.7039,
+    "y": 2765.26,
+    "price": 2500000000,
     "district": "Сан-Андреас"
   },
   {
@@ -25616,6 +25604,18 @@
     "status": "Занято",
     "x": 2085.67,
     "y": 2054.97,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 67,
+    "server_id": 7,
+    "type": "business",
+    "name": "Амуниция/Тир",
+    "owner": "Shadow_Dredd",
+    "status": "Занято",
+    "x": -316.162,
+    "y": 829.757,
     "price": 0,
     "district": "Сан-Андреас"
   },
