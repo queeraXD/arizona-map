@@ -2772,18 +2772,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 231,
-    "server_id": 28,
-    "type": "house",
-    "name": "Царский дом",
-    "owner": "Sam_Frolov",
-    "status": "Занято",
-    "x": 612.2,
-    "y": -1085.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 232,
     "server_id": 28,
     "type": "house",
@@ -9924,6 +9912,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 827,
+    "server_id": 28,
+    "type": "house",
+    "name": "Кратос + Деп условия 250кк",
+    "owner": "Kaya_Irimi",
+    "status": "Занято",
+    "x": -2724.29,
+    "y": -58.0475,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 828,
     "server_id": 28,
     "type": "house",
@@ -10132,7 +10132,7 @@
     "server_id": 28,
     "type": "house",
     "name": "KroneHouse",
-    "owner": "Krone_Blanche",
+    "owner": "Beit_Lessnoy",
     "status": "Занято",
     "x": -2209.65,
     "y": 1079.99,
@@ -10144,7 +10144,7 @@
     "server_id": 28,
     "type": "house",
     "name": "KroneHouse",
-    "owner": "Krone_Blanche",
+    "owner": "Beit_Lessnoy",
     "status": "Занято",
     "x": -2191.59,
     "y": 1080.32,
@@ -10156,7 +10156,7 @@
     "server_id": 28,
     "type": "house",
     "name": "KroneHouse",
-    "owner": "Krone_Blanche",
+    "owner": "Vanechka_Implored",
     "status": "Занято",
     "x": -2172.91,
     "y": 1080.4,
@@ -11012,18 +11012,6 @@
     "status": "Занято",
     "x": -2281.41,
     "y": 1046.65,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 920,
-    "server_id": 28,
-    "type": "house",
-    "name": "UNVARDO MAFIA",
-    "owner": "crimson",
-    "status": "Занято",
-    "x": -2282.39,
-    "y": 1070.59,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -22368,15 +22356,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 827,
+    "id": 231,
     "server_id": 28,
     "type": "house",
-    "name": "Кратос + Деп условия 250кк",
-    "owner": "Kaya_Irimi",
+    "name": "Царский дом",
+    "owner": "Sam_Frolov",
     "status": "Аукцион",
-    "x": -2724.29,
-    "y": -58.0475,
-    "price": 245123123,
+    "x": 612.2,
+    "y": -1085.62,
+    "price": 2123123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 920,
+    "server_id": 28,
+    "type": "house",
+    "name": "UNVARDO MAFIA",
+    "owner": "crimson",
+    "status": "Аукцион",
+    "x": -2282.39,
+    "y": 1070.59,
+    "price": 100000000,
     "district": "Сан-Андреас"
   },
   {

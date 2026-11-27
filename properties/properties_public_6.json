@@ -7404,18 +7404,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 617,
-    "server_id": 6,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Munuctep_Makapon",
-    "status": "Занято",
-    "x": -881.726,
-    "y": 1532.36,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 618,
     "server_id": 6,
     "type": "house",
@@ -11212,7 +11200,7 @@
     "server_id": 6,
     "type": "house",
     "name": "Karburator 3",
-    "owner": "Misha_Kovales",
+    "owner": "Kasper_Darkside",
     "status": "Занято",
     "x": -2158.06,
     "y": 889.3419,
@@ -11972,6 +11960,18 @@
     "status": "Занято",
     "x": -2029.86,
     "y": 797.138,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 998,
+    "server_id": 6,
+    "type": "house",
+    "name": "Toni_Mox",
+    "owner": "Derzkaya_Lica",
+    "status": "Занято",
+    "x": -2048.12,
+    "y": 797.0449,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -16532,18 +16532,6 @@
     "status": "Занято",
     "x": 2000.15,
     "y": -991.6989,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1379,
-    "server_id": 6,
-    "type": "house",
-    "name": "xxx",
-    "owner": "Farmila_Textov",
-    "status": "Занято",
-    "x": 2007.27,
-    "y": -984.6649,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21804,18 +21792,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1818,
-    "server_id": 6,
-    "type": "house",
-    "name": "xxx",
-    "owner": "Farmila_Textov",
-    "status": "Занято",
-    "x": 2487.27,
-    "y": -1383.37,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1819,
     "server_id": 6,
     "type": "house",
@@ -22412,18 +22388,6 @@
     "status": "Занято",
     "x": -867.168,
     "y": 2762.16,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1871,
-    "server_id": 6,
-    "type": "house",
-    "name": "[$] Falcone Empire [$]",
-    "owner": "Luke_Stormberg",
-    "status": "Занято",
-    "x": 1791.69,
-    "y": 2741.65,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -24516,27 +24480,51 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 998,
+    "id": 617,
     "server_id": 6,
     "type": "house",
-    "name": "pes family",
-    "owner": "Fallen_Castle",
+    "name": "Дом",
+    "owner": "Munuctep_Makapon",
     "status": "Аукцион",
-    "x": -2048.12,
-    "y": 797.0449,
+    "x": -881.726,
+    "y": 1532.36,
     "price": 150000000,
     "district": "Сан-Андреас"
   },
   {
-    "id": 81,
+    "id": 1379,
     "server_id": 6,
-    "type": "business",
-    "name": "Закусочная",
-    "owner": "Be_Dros",
+    "type": "house",
+    "name": "xxx",
+    "owner": "Farmila_Textov",
     "status": "Аукцион",
-    "x": 2101.89,
-    "y": 2228.81,
-    "price": 190000,
+    "x": 2007.27,
+    "y": -984.6649,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1818,
+    "server_id": 6,
+    "type": "house",
+    "name": "xxx",
+    "owner": "Farmila_Textov",
+    "status": "Аукцион",
+    "x": 2487.27,
+    "y": -1383.37,
+    "price": 450000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1871,
+    "server_id": 6,
+    "type": "house",
+    "name": "[$] Falcone Empire [$]",
+    "owner": "Luke_Stormberg",
+    "status": "Аукцион",
+    "x": 1791.69,
+    "y": 2741.65,
+    "price": 100123123,
     "district": "Сан-Андреас"
   },
   {
@@ -26292,6 +26280,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 81,
+    "server_id": 6,
+    "type": "business",
+    "name": "Закусочная",
+    "owner": "Tommy_Hellinger",
+    "status": "Занято",
+    "x": 2101.89,
+    "y": 2228.81,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 82,
     "server_id": 6,
     "type": "business",
@@ -27496,7 +27496,7 @@
     "server_id": 6,
     "type": "business",
     "name": "Ларек с уличной едой",
-    "owner": "Conor_Norton",
+    "owner": "Santiago_Cellucci",
     "status": "Занято",
     "x": 2405.02,
     "y": -1933.97,

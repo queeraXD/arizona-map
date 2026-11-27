@@ -48,18 +48,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 4,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "DimasGazMyas",
-    "status": "Занято",
-    "x": 1955.12,
-    "y": -1115.4,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 5,
     "server_id": 13,
     "type": "house",
@@ -5880,18 +5868,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 490,
-    "server_id": 13,
-    "type": "house",
-    "name": "Mercury 15",
-    "owner": "Faust_Mercury",
-    "status": "Занято",
-    "x": 2065.03,
-    "y": 730.408,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 491,
     "server_id": 13,
     "type": "house",
@@ -9708,18 +9684,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 809,
-    "server_id": 13,
-    "type": "house",
-    "name": "Full House",
-    "owner": "Pendejo_Savchenko",
-    "status": "Занято",
-    "x": -2720.98,
-    "y": -120.787,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 810,
     "server_id": 13,
     "type": "house",
@@ -10448,18 +10412,6 @@
     "status": "Занято",
     "x": -339.7529,
     "y": 2553.55,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 871,
-    "server_id": 13,
-    "type": "house",
-    "name": "Landre Empire",
-    "owner": "Pendejo_Savchenko",
-    "status": "Занято",
-    "x": -302.976,
-    "y": 2552.28,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11456,18 +11408,6 @@
     "status": "Занято",
     "x": -2159.76,
     "y": 965.578,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 955,
-    "server_id": 13,
-    "type": "house",
-    "name": "логово Kenов",
-    "owner": "DimasGazMyas",
-    "status": "Занято",
-    "x": -2159.6,
-    "y": 946.984,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -15564,18 +15504,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 1297,
-    "server_id": 13,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Pendejo_Savchenko",
-    "status": "Занято",
-    "x": -2590.53,
-    "y": -95.596,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 1298,
     "server_id": 13,
     "type": "house",
@@ -18404,18 +18332,6 @@
     "status": "Занято",
     "x": 833.762,
     "y": -928.5819,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1534,
-    "server_id": 13,
-    "type": "house",
-    "name": "123123",
-    "owner": "Vadim_Lamborghini",
-    "status": "Занято",
-    "x": 865.218,
-    "y": -1633.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -21784,7 +21700,7 @@
     "server_id": 13,
     "type": "house",
     "name": "Дом",
-    "owner": "Tomm_Haunted",
+    "owner": "Kedroviy_Oreh",
     "status": "Занято",
     "x": 1751.8,
     "y": 2747.44,
@@ -22232,18 +22148,6 @@
     "status": "Занято",
     "x": 2620.35,
     "y": 2139.62,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1854,
-    "server_id": 13,
-    "type": "house",
-    "name": "ByOwonex2",
-    "owner": "William_Cappone",
-    "status": "Занято",
-    "x": 2620.35,
-    "y": 2148.96,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -23292,6 +23196,102 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 4,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "DimasGazMyas",
+    "status": "Аукцион",
+    "x": 1955.12,
+    "y": -1115.4,
+    "price": 500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 490,
+    "server_id": 13,
+    "type": "house",
+    "name": "Mercury 15",
+    "owner": "Faust_Mercury",
+    "status": "Аукцион",
+    "x": 2065.03,
+    "y": 730.408,
+    "price": 700000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 809,
+    "server_id": 13,
+    "type": "house",
+    "name": "Full House",
+    "owner": "Pendejo_Savchenko",
+    "status": "Аукцион",
+    "x": -2720.98,
+    "y": -120.787,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 871,
+    "server_id": 13,
+    "type": "house",
+    "name": "Landre Empire",
+    "owner": "Pendejo_Savchenko",
+    "status": "Аукцион",
+    "x": -302.976,
+    "y": 2552.28,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 955,
+    "server_id": 13,
+    "type": "house",
+    "name": "логово Kenов",
+    "owner": "DimasGazMyas",
+    "status": "Аукцион",
+    "x": -2159.6,
+    "y": 946.984,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1297,
+    "server_id": 13,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Pendejo_Savchenko",
+    "status": "Аукцион",
+    "x": -2590.53,
+    "y": -95.596,
+    "price": 250123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1534,
+    "server_id": 13,
+    "type": "house",
+    "name": "123123",
+    "owner": "Vadim_Lamborghini",
+    "status": "Аукцион",
+    "x": 865.218,
+    "y": -1633.85,
+    "price": 3500000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1854,
+    "server_id": 13,
+    "type": "house",
+    "name": "ByOwonex2",
+    "owner": "William_Cappone",
+    "status": "Аукцион",
+    "x": 2620.35,
+    "y": 2148.96,
+    "price": 200000000,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 0,
     "server_id": 13,
     "type": "business",
@@ -23440,7 +23440,7 @@
     "server_id": 13,
     "type": "business",
     "name": "Амуниция/Тир",
-    "owner": "Salavat_McLaren",
+    "owner": "Entisy_Triada",
     "status": "Занято",
     "x": 2353.31,
     "y": -1463.47,
