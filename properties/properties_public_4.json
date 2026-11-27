@@ -3120,6 +3120,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 260,
+    "server_id": 4,
+    "type": "house",
+    "name": "Cutler",
+    "owner": "James_Cutler",
+    "status": "Занято",
+    "x": 2374.05,
+    "y": 42.1341,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 261,
     "server_id": 4,
     "type": "house",
@@ -4496,18 +4508,6 @@
     "status": "Занято",
     "x": 2204.64,
     "y": 106.164,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 376,
-    "server_id": 4,
-    "type": "house",
-    "name": "Сюжетка+Набор Архитектора",
-    "owner": "Miroslav_Neil",
-    "status": "Занято",
-    "x": 2236.42,
-    "y": 167.7779,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -11836,7 +11836,7 @@
     "server_id": 4,
     "type": "house",
     "name": "Дом",
-    "owner": "Isabella_Cortez",
+    "owner": "Lucien_Eanes",
     "status": "Занято",
     "x": -2048.14,
     "y": 820.2219,
@@ -12584,18 +12584,6 @@
     "status": "Занято",
     "x": 1775.01,
     "y": 2870.96,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1051,
-    "server_id": 4,
-    "type": "house",
-    "name": "Mante House",
-    "owner": "Vasia_Flips",
-    "status": "Занято",
-    "x": -2359.04,
-    "y": 1117.85,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -18468,6 +18456,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 1541,
+    "server_id": 4,
+    "type": "house",
+    "name": "Дом",
+    "owner": "Storm_Shadow",
+    "status": "Занято",
+    "x": 2750.39,
+    "y": -1238.74,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 1542,
     "server_id": 4,
     "type": "house",
@@ -19252,7 +19252,7 @@
     "server_id": 4,
     "type": "house",
     "name": "много вкусного в шкафу",
-    "owner": "Sholson_Dattuev",
+    "owner": "Nikiita_Katana",
     "status": "Занято",
     "x": -2075.27,
     "y": -2526.15,
@@ -25236,39 +25236,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 260,
+    "id": 376,
     "server_id": 4,
     "type": "house",
-    "name": "Cutler",
-    "owner": "James_Cutler",
+    "name": "Сюжетка+Набор Архитектора",
+    "owner": "Miroslav_Neil",
     "status": "Аукцион",
-    "x": 2374.05,
-    "y": 42.1341,
-    "price": 150000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 1541,
-    "server_id": 4,
-    "type": "house",
-    "name": "Дом",
-    "owner": "Storm_Shadow",
-    "status": "Аукцион",
-    "x": 2750.39,
-    "y": -1238.74,
-    "price": 500000000,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 57,
-    "server_id": 4,
-    "type": "business",
-    "name": "Аренда транспорта",
-    "owner": "Ramil_Orlov",
-    "status": "Аукцион",
-    "x": 2085.84,
-    "y": 2486.25,
+    "x": 2236.42,
+    "y": 167.7779,
     "price": 10000000000,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 1051,
+    "server_id": 4,
+    "type": "house",
+    "name": "Mante House",
+    "owner": "Vasia_Flips",
+    "status": "Аукцион",
+    "x": -2359.04,
+    "y": 1117.85,
+    "price": 850000000,
     "district": "Сан-Андреас"
   },
   {
@@ -27488,6 +27476,18 @@
     "status": "Занято",
     "x": 1671.52,
     "y": 1814.33,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 57,
+    "server_id": 4,
+    "type": "business",
+    "name": "Аренда транспорта",
+    "owner": "Ramil_Orlov",
+    "status": "Занято",
+    "x": 2085.84,
+    "y": 2486.25,
     "price": 0,
     "district": "Сан-Андреас"
   },
