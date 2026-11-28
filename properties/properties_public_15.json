@@ -384,6 +384,18 @@
     "district": "Сан-Андреас"
   },
   {
+    "id": 32,
+    "server_id": 15,
+    "type": "house",
+    "name": "tredlex team",
+    "owner": "platinumrecollection",
+    "status": "Занято",
+    "x": 2433.6,
+    "y": -1275.03,
+    "price": 0,
+    "district": "Сан-Андреас"
+  },
+  {
     "id": 33,
     "server_id": 15,
     "type": "house",
@@ -1156,7 +1168,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Дом",
-    "owner": "Zashel_NaStrelu",
+    "owner": "Sam_McCloud",
     "status": "Занято",
     "x": 2672.75,
     "y": -1990.78,
@@ -1168,7 +1180,7 @@
     "server_id": 15,
     "type": "house",
     "name": "Hokage",
-    "owner": "Zashel_NaStrelu",
+    "owner": "Sam_McCloud",
     "status": "Занято",
     "x": 2652.88,
     "y": -1989.43,
@@ -1180,22 +1192,10 @@
     "server_id": 15,
     "type": "house",
     "name": "Hokage",
-    "owner": "Zashel_NaStrelu",
+    "owner": "Sam_McCloud",
     "status": "Занято",
     "x": 2637.77,
     "y": -1992.44,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
-    "id": 100,
-    "server_id": 15,
-    "type": "house",
-    "name": "Hokage",
-    "owner": "Zashel_NaStrelu",
-    "status": "Занято",
-    "x": 2636.44,
-    "y": -2012.26,
     "price": 0,
     "district": "Сан-Андреас"
   },
@@ -7332,18 +7332,6 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 612,
-    "server_id": 15,
-    "type": "house",
-    "name": "Zanozzo Empire",
-    "owner": "Pasha_Caplya",
-    "status": "Занято",
-    "x": -830.166,
-    "y": 1589.46,
-    "price": 0,
-    "district": "Сан-Андреас"
-  },
-  {
     "id": 613,
     "server_id": 15,
     "type": "house",
@@ -12447,7 +12435,7 @@
     "id": 1039,
     "server_id": 15,
     "type": "house",
-    "name": "штаб НАТО",
+    "name": "little притон",
     "owner": "Kuroko_Kadzutow",
     "status": "Занято",
     "x": -1732.18,
@@ -21312,15 +21300,27 @@
     "district": "Сан-Андреас"
   },
   {
-    "id": 32,
+    "id": 100,
     "server_id": 15,
     "type": "house",
-    "name": "tredlex team",
-    "owner": "platinumrecollection",
+    "name": "Hokage",
+    "owner": "MissEx_McCloud",
     "status": "Аукцион",
-    "x": 2433.6,
-    "y": -1275.03,
-    "price": 500000000,
+    "x": 2636.44,
+    "y": -2012.26,
+    "price": 500123123,
+    "district": "Сан-Андреас"
+  },
+  {
+    "id": 612,
+    "server_id": 15,
+    "type": "house",
+    "name": "Zanozzo Empire",
+    "owner": "Государство",
+    "status": "Аукцион",
+    "x": -830.166,
+    "y": 1589.46,
+    "price": 10000000,
     "district": "Сан-Андреас"
   },
   {
